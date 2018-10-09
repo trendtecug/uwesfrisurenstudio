@@ -944,7 +944,7 @@ svg {
     font-size: 50pt;
     color: #2b3238;
     position: absolute;
-    margin: 0.54em 0 0 -1.7em;
+    margin: 0.54em 0 0 0.54em;
     letter-spacing: -1px
 }
 

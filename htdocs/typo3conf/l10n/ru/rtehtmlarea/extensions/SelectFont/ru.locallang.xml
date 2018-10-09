@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="Arial">Arial</label>
+			<label index="Arial Black">Arial Black</label>
+			<label index="Courier">Courier</label>
+			<label index="Default font">Шрифт по умолчанию</label>
+			<label index="Default size">Размер шрифта по умолчанию</label>
+			<label index="Extra large">Огромный</label>
+			<label index="Extra small">Совсем небольшой</label>
+			<label index="Garamond">Garamond</label>
+			<label index="Large">Большой</label>
+			<label index="Lucida Handwriting">Lucida Handwriting</label>
+			<label index="Medium">Средний</label>
+			<label index="No font">Нет шрифта</label>
+			<label index="No size">Нет размера шрифта</label>
+			<label index="Small">Маленький</label>
+			<label index="Times New Roman">Times New Roman</label>
+			<label index="Verdana">Verdana</label>
+			<label index="Very large">Очень большой</label>
+			<label index="Very small">Очень маленький</label>
+			<label index="Webdings">Webdings</label>
+			<label index="Wingdings">Wingdings</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

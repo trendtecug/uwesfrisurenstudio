@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="all.alttitle">Supprimer le format pour tous les contenus</label>
+			<label index="all.description"/>
+			<label index="allHtml.alttitle">Supprimer tout le format HTML</label>
+			<label index="allHtml.description">Cocher cette option si vous souhaitez supprimer tout le format HTML</label>
+			<label index="allHtml.details">Cette option supprime toutes les balises HTML présentes dans le texte selectionné</label>
+			<label index="_all.seeAlso"/>
+			<label index=".alttitle"/>
+			<label index="area.alttitle">Sélectionner la zone à enlever</label>
+			<label index="area.description"/>
+			<label index="area.details"/>
+			<label index=".description"/>
+			<label index=".details"/>
+			<label index="htmlFormat.alttitle">Supprimer toutes les balises et styles de MS word</label>
+			<label index="htmlFormat.description">Sélectionner cette option si vous souhaitez supprimer toutes les balises et styles de MS word</label>
+			<label index="htmlFormat.details"/>
+			<label index=".image"/>
+			<label index=".image_descr"/>
+			<label index="images.alttitle">Supprimer les images</label>
+			<label index="images.description">Cocher cette option si vous souhaiter supprimer toutes les images</label>
+			<label index="images.details">Cette option supprime toutes les images à partir texte sélectionné</label>
+			<label index="msWordFormat.alttitle">Supprimer toutes les balises et styles de MS word</label>
+			<label index="msWordFormat.description">Sélectionner cette option si vous souhaitez supprimer toutes les balises et styles de MS word</label>
+			<label index="msWordFormat.details">Cette option supprime:
+- tous les attributs des éléments suivants: b, em, i, li, p, strong, ul;
+- les attributs des balises HTML: align, class, style;
+- les balises suivantes, mais conserve le contenu textuel : div, f, formulas, link, lock, meta, path, shape, shapetype, span, stroke, ?xml, tout élément contenant ":" dans son nom;
+- les balises suivantes avec leur contenu : style, title;
+- les commentaires HTML;
+- balises img, imagedata;
+- balises xml;
+- les balises suivantes quand ils n'ont pas de contenu textuel : b, big, i, s, small, strike, tt, u;
+- balises ouvertes ou fermées en double;
+- multiples espaces remplacés par des espaces simples.</label>
+			<label index="nonBreakingSpace.alttitle"/>
+			<label index="nonBreakingSpace.description"/>
+			<label index="nonBreakingSpace.details"/>
+			<label index="options.alttitle"/>
+			<label index="options.description"/>
+			<label index="options.details"/>
+			<label index="options.seeAlso"/>
+			<label index=".seeAlso"/>
+			<label index="selection.alttitle"/>
+			<label index="selection.description"/>
+			<label index="_selection.seeAlso"/>
+			<label index="typographicalPunctuation.alttitle"/>
+			<label index="typographicalPunctuation.description"/>
+			<label index="typographicalPunctuation.details"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

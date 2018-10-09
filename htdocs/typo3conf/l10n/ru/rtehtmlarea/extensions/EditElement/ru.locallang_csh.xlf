@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:15Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id=".alttitle" approved="yes">
+				<source>htmlArea RTE &gt; Edit Element</source>
+				<target state="translated">htmlArea RTE &gt; Править элемент</target>
+			</trans-unit>
+			<trans-unit id="className.alttitle" approved="yes">
+				<source>Class attribute</source>
+				<target state="translated">Атрибут class</target>
+			</trans-unit>
+			<trans-unit id="className.description" approved="yes">
+				<source>Choose a CSS class selector to be assigned to the element.</source>
+				<target state="translated">Выберете CSS селектор class для элемента.</target>
+			</trans-unit>
+			<trans-unit id=".description" approved="yes">
+				<source>The "Edit element" dialogue allows to edit the general attributes of an element in the RTE editing area.</source>
+				<target state="translated">Диалог "Правка элемента" позволяет отредактировать основные атрибуты элемента в области редактирования.</target>
+			</trans-unit>
+			<trans-unit id=".details" xml:space="preserve" approved="yes">
+				<source>Clicking the "Edit element" icon in the RTE tool bar opens a dialogue that allows to edit the general attributes of an element.
+The dialogue allows to edit the id, title, class, lang and dir attributes, as well as the microdata attributes of the element. It also allows to specify handlers for keyboard and mouse events.</source>
+			<target state="translated">Щелчок по значку "Править элемент" на панели инструментов, откроет диалог, позволяющий отредактировать основные атрибуты элемента: id, title, class, lang и dir. Кроме того, возможно определить обработчики для событий клавиатуры и мыши.</target></trans-unit>
+			<trans-unit id="events.alttitle" approved="yes">
+				<source>Event handlers</source>
+				<target state="translated">Обработчики событий.</target>
+			</trans-unit>
+			<trans-unit id="events.description" approved="yes">
+				<source>Using this fieldset, edit handlers for keyboard and mouse events.</source>
+				<target state="translated">Этот набор полей позволяет отредактировать обработку событий клавиатуры или мыши.</target>
+			</trans-unit>
+			<trans-unit id="id.alttitle" approved="yes">
+				<source>Id attribute</source>
+				<target state="translated">Атрибут id</target>
+			</trans-unit>
+			<trans-unit id="id.description" approved="yes">
+				<source>Enter or edit the value of the id attribute of the element.</source>
+				<target state="translated">Введите или отредактируйте значение атрибута id для элемента.</target>
+			</trans-unit>
+			<trans-unit id=".image" approved="no">
+				<source>EXT:rtehtmlarea/Resources/Public/Images/Plugins/EditElement/element-edit.png</source>
+				<target state="needs-translation">EXT:rtehtmlarea/extensions/EditElement/skin/images/element-edit.png</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id=".image_descr" approved="yes">
+				<source>"Edit element" icon in the editor tool bar.</source>
+				<target state="translated">Значок "Править элемент" на панели инструментов.</target>
+			</trans-unit>
+			<trans-unit id="onclick.alttitle" approved="yes">
+				<source>Onclick event handler</source>
+				<target state="translated">Обработчик события Onclick</target>
+			</trans-unit>
+			<trans-unit id="onclick.description" approved="yes">
+				<source>Enter or edit the script to be run on a mouse click.</source>
+				<target state="translated">Введите или отредактируйте сценарий, запускаемые при щелчке левой кнопки мыши.</target>
+			</trans-unit>
+			<trans-unit id="ondblclick.alttitle" approved="yes">
+				<source>Ondblclick event handler</source>
+				<target state="translated">Обработчик события Ondblclick</target>
+			</trans-unit>
+			<trans-unit id="ondblclick.description" approved="yes">
+				<source>Enter or edit the script to be run on a mouse double-click.</source>
+				<target state="translated">Введите или отредактируйте сценарий, запускаемые при двойном щелчке левой кнопки мыши.</target>
+			</trans-unit>
+			<trans-unit id="onkeydown.alttitle" approved="yes">
+				<source>Onkeydown event handler</source>
+				<target state="translated">Обработчик события Onkeydown</target>
+			</trans-unit>
+			<trans-unit id="onkeydown.description" approved="yes">
+				<source>Enter or edit the script to be run when a key is pressed.</source>
+				<target state="translated">Введите или отредактируйте сценарий, запускаемые при нажатии клавиши.</target>
+			</trans-unit>
+			<trans-unit id="onkeypress.alttitle" approved="yes">
+				<source>Onkeypress event handler</source>
+				<target state="translated">Обработчик события Onkeypress</target>
+			</trans-unit>
+			<trans-unit id="onkeypress.description" approved="yes">
+				<source>Enter or edit the script to be run when a key is pressed and released.</source>
+				<target state="translated">Введите или отредактируйте сценарий, запускаемые при нажатии и удержании клавиши.</target>
+			</trans-unit>
+			<trans-unit id="onkeyup.alttitle" approved="yes">
+				<source>Onkeyup event handler</source>
+				<target state="translated">Обработчик события Onkeyup</target>
+			</trans-unit>
+			<trans-unit id="onkeyup.description" approved="yes">
+				<source>Enter or edit the script to be run when a key is pressed and released.</source>
+				<target state="translated">Введите или отредактируйте сценарий, запускаемые при отпускании клавиши.</target>
+			</trans-unit>
+			<trans-unit id="onmousedown.alttitle" approved="yes">
+				<source>Onmousedown event handler</source>
+				<target state="translated">Обработчик события Onmousedown</target>
+			</trans-unit>
+			<trans-unit id="onmousedown.description" approved="yes">
+				<source>Enter or edit the script to be run when a mouse button is pressed.</source>
+				<target state="translated">Введите или отредактируйте сценарий, запускаемые при нажатии любой кнопки мыши.</target>
+			</trans-unit>
+			<trans-unit id="onmousemove.alttitle" approved="yes">
+				<source>Onmousemove event handler</source>
+				<target state="translated">Обработчик события Onmousemove</target>
+			</trans-unit>
+			<trans-unit id="onmousemove.description" approved="yes">
+				<source>Enter or edit the script to be run when the mouse pointer moves.</source>
+				<target state="translated">Введите или отредактируйте сценарий, запускаемые при движении указателя мышки над элементом.</target>
+			</trans-unit>
+			<trans-unit id="onmouseout.alttitle" approved="yes">
+				<source>Onmouseout event handler</source>
+				<target state="translated">Обработчик события Onmouseout</target>
+			</trans-unit>
+			<trans-unit id="onmouseout.description" approved="yes">
+				<source>Enter or edit the script to be run when mouse pointer moves out of the element.</source>
+				<target state="translated">Введите или отредактируйте сценарий, запускаемые при покидании указателя мышки элемента.</target>
+			</trans-unit>
+			<trans-unit id="onmouseover.alttitle" approved="yes">
+				<source>Onmouseover event handler</source>
+				<target state="translated">Обработчик события Onmouseover</target>
+			</trans-unit>
+			<trans-unit id="onmouseover.description" approved="yes">
+				<source>Enter or edit the script to be run when mouse pointer moves over the element.</source>
+				<target state="translated">Введите или отредактируйте сценарий, запускаемые когда указатель мыши находится над элементом.</target>
+			</trans-unit>
+			<trans-unit id="onmouseup.alttitle" approved="yes">
+				<source>Onmouseup event handler</source>
+				<target state="translated">Обработчик события Onmouseup</target>
+			</trans-unit>
+			<trans-unit id="onmouseup.description" approved="yes">
+				<source>Enter or edit the script to be run when a mouse button is released.</source>
+				<target state="translated">Введите или отредактируйте сценарий, запускаемые при нахождении указателя мышки над элементом.</target>
+			</trans-unit>
+			<trans-unit id=".seeAlso" xml:space="preserve" approved="yes">
+				<source>xEXT_rtehtmlarea_EditElement:id,
+xEXT_rtehtmlarea_EditElement:title,
+xEXT_rtehtmlarea_EditElement:className,
+xEXT_rtehtmlarea_Language:languageCombo,
+xEXT_rtehtmlarea_Language:directionCombo,
+xEXT_rtehtmlarea_MicrodataSchema,
+xEXT_rtehtmlarea_EditElement:events</source>
+				<target state="translated">xEXT_rtehtmlarea_EditElement:id, xEXT_rtehtmlarea_EditElement:title, xEXT_rtehtmlarea_EditElement:className, xEXT_rtehtmlarea_Language:languageCombo, xEXT_rtehtmlarea_Language:directionCombo, xEXT_rtehtmlarea_EditElement:events</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="title.alttitle" approved="yes">
+				<source>Title attribute</source>
+				<target state="translated">Атрибут title</target>
+			</trans-unit>
+			<trans-unit id="title.description" approved="yes">
+				<source>Enter or edit the value of the title attribute of the element.</source>
+				<target state="translated">Введите или отредактируйте значение атрибута title для элемента.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

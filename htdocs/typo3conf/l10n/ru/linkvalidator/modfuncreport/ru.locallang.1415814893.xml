@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="mod_linkvalidator">Проверка ссылок</label>
+			<label index="tasks.validate.name">Проверка ссылок</label>
+			<label index="tasks.validate.description">Поиск битых ссылок и сохранение результатов во временной таблице tx_linkvalidator_link для упрощения работы модуля.</label>
+			<label index="tasks.validate.page">Начальная страница (uid)</label>
+			<label index="tasks.validate.depth">Глубина</label>
+			<label index="tasks.validate.conf">Переназначить TSconfig</label>
+			<label index="tasks.validate.email">Отослать письмо с отчётом на</label>
+			<label index="tasks.validate.emailOnBrokenLinkOnly">Отсылать письмо только при появлении новых битых ссылок</label>
+			<label index="tasks.validate.emailTemplateFile">Файл шаблона для письма</label>
+			<label index="tasks.validate.invalidEmail">Неверный формат письма!</label>
+			<label index="tasks.validate.invalidPage">Неверный uid страницы, введите верный!</label>
+			<label index="tasks.validate.invalidDepth">Ну указана глубина, установите приемлемое значение!</label>
+			<label index="tasks.error.noSubject">Не указана тема для отчётного письма</label>
+			<label index="tasks.error.invalidToEmail">Неверный формат одного или нескольких адресов получателей!</label>
+			<label index="tasks.error.invalidFromEmail">Неверный формат адреса в заголовке От</label>
+			<label index="tasks.error.invalidTSconfig">Неверный TSconfig в настройке задачи!</label>
+			<label index="tasks.error.invalidEmailTemplateFile">Файл шаблона письма не существует!</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

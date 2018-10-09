@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="mlang_labels_tabdescr">Здесь можно проверить таблицы базы данных, настроенные массивом $TCA, на их целостность. Кроме того, возможна проверка связей между записями и загруженными файлами (обычно помещенными в папку uploads/*). Также можно просмотреть все дерево страниц, включая удаленные. И наконец, возможен доступ к глобальным средствам поиска в базе данных.&lt;BR&gt;&lt;em&gt;Доступ только для администраторов!&lt;/em&gt;</label>
+			<label index="mlang_labels_tablabel">Проверка целостности базы данных</label>
+			<label index="mlang_tabs_tab">Проверка БД</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

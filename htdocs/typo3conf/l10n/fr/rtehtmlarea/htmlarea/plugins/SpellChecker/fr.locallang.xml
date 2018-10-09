@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="Cancel">Annuler</label>
+			<label index="CONFIRM_LINK_CLICK">Veuillez confirmer la demande d'ouverture de ce lien</label>
+			<label index="Dictionary">Dictionnaire</label>
+			<label index="Document information">Information sur le document</label>
+			<label index="Finished list of mispelled words">La liste des mots mal orthographiés est terminée.</label>
+			<label index="HTMLArea Spell Checker">HTMLArea - Vérificateur orthographique</label>
+			<label index="Ignore">Ignorer</label>
+			<label index="Ignore all">Ignorer tous</label>
+			<label index="Info">Informations</label>
+			<label index="I will open it in a new page.">Ouverture dans une nouvelle page.</label>
+			<label index="Learn">Ajouter au dictionnaire</label>
+			<label index="Misspelled words">Nombre de mots en erreur</label>
+			<label index="NO_ERRORS">Aucune faute n'a été trouvée avec le dictionnaire choisi.</label>
+			<label index="NO_ERRORS_CLOSING">Vérification terminée, aucune erreur d'orthographe n'a été trouvée. Fermeture...</label>
+			<label index="No information available">Aucune information disponible</label>
+			<label index="occurrences">occurrences</label>
+			<label index="of the word">du mot</label>
+			<label index="OK">Valider</label>
+			<label index="One occurrence">Une occurrence</label>
+			<label index="Original word">Mot original</label>
+			<label index="Please wait. Calling spell checker.">Veuillez patienter. Lancement du vérificateur orthographique.</label>
+			<label index="Please wait: changing dictionary to">Veuillez patienter. Chargement du dictionnaire</label>
+			<label index="pliz weit ;-)">Veuillez patienter svp...</label>
+			<label index="QUIT_CONFIRMATION">Ceci va annuler tous les changements et quitter le vérificateur orthographique. Veuillez confirmer.</label>
+			<label index="Re-check">Re-vérifier</label>
+			<label index="Replace">Remplacer</label>
+			<label index="Replace all">Remplacer partout</label>
+			<label index="Replacement">Remplacement</label>
+			<label index="Replace with">Remplacer par</label>
+			<label index="Revert">Rétablir</label>
+			<label index="SC-spell-check">Vérifier l'orthographe</label>
+			<label index="seconds">secondes</label>
+			<label index="Spell Checker">Vérificateur orthographique</label>
+			<label index="Spelling checked in">Vérification effectuée en</label>
+			<label index="Suggestions">Suggestions</label>
+			<label index="Total suggestions">Nombre de suggestions</label>
+			<label index="Total words">Nombre de mots dans le document</label>
+			<label index="Total words suggested">Nombre total de mots suggérés</label>
+			<label index="Two occurrences">Deux occurrences</label>
+			<label index="was found.">a été trouvée.</label>
+			<label index="were found.">ont été trouvées.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

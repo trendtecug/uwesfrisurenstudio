@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="mlang_labels_tabdescr">Центр задний предоставляет доступ к персональному списку действий (To-Do), сообщениям, заметкам, действиям и т.д. Здесь предоставлены ссылки на доступные вам модули внешнего интерфейса и последним редактировавшимся страницам. Центр заданий – место обзора и ослеживания персональных ежедневных задач и рабочих процессов вцелом.</label>
+			<label index="mlang_labels_tablabel">Центр заданий содержит обзор заданий, сообщения и инструкции</label>
+			<label index="mlang_tabs_tab">Центр заданий</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

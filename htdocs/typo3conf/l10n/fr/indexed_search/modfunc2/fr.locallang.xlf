@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T01:50:35Z" product-name="indexed_search">
+		<header/>
+		<body>
+			<trans-unit id="all" xml:space="preserve" approved="yes">
+				<source>All</source>
+			<target state="translated">Tout</target></trans-unit>
+			<trans-unit id="allpages" xml:space="preserve" approved="yes">
+				<source>Statistics for all pages. Select a page with indexed search form to see several statistics</source>
+			<target state="translated">Statistiques pour toutes les pages.</target></trans-unit>
+			<trans-unit id="justthispage" xml:space="preserve" approved="yes">
+				<source>Statistics for this page only</source>
+			<target state="translated">Statistiques pour cette page seulement</target></trans-unit>
+			<trans-unit id="last24hours" xml:space="preserve" approved="yes">
+				<source>Last 24 hours</source>
+			<target state="translated">Dernières 24 heures</target></trans-unit>
+			<trans-unit id="last30days" xml:space="preserve" approved="yes">
+				<source>Last 30 days</source>
+			<target state="translated">Derniers 30 jours</target></trans-unit>
+			<trans-unit id="noresults" xml:space="preserve" approved="yes">
+				<source>No results</source>
+			<target state="translated">Aucun résultat</target></trans-unit>
+			<trans-unit id="title" xml:space="preserve" approved="yes">
+				<source>Indexed search statistics</source>
+			<target state="translated">Statistiques du moteur</target></trans-unit>
+			<trans-unit id="title2" xml:space="preserve" approved="yes">
+				<source>List of most searched words</source>
+			<target state="translated">Liste des mots les plus recherchés</target></trans-unit>
+		</body>
+	</file>
+</xliff>

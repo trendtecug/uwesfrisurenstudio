@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T02:27:07Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id=".description" approved="yes">
+				<source>Defines which languages are alternatively available on each webpage.</source>
+				<target state="translated">Définit quelles langues sont alternativement disponibles sur chacune des pages du site.</target>
+			</trans-unit>
+			<trans-unit id=".details" xml:space="preserve" approved="yes">
+				<source>The Web&gt;Page module has a feature which allows users to edit page content divided into not only columns but also languages. The languages available for translation are determined by the number of Website Language record created.
+For a webpage to be available in another language an "Alternative Page Language" record must be created on the page.</source>
+			<target state="translated">Le module de Web&gt;Page en a un dispositif qui permet aux utilisateurs d'éditer le contenu de page divisée non seulement en colonnes mais également en langues. Les langues disponibles pour la traduction sont déterminées par le nombre d'enregistrement "Website Language" créé. Pour qu'une page soit disponible dans une autre langue, un enregistrement "Langue Alternative de Page" doit être créé sur cette page.</target></trans-unit>
+			<trans-unit id="hidden.description" approved="yes">
+				<source>This option will hide the system language from being available in the backend.</source>
+				<target state="translated">Cette option empêchera le système de langue d'être disponible dans le backend.</target>
+			</trans-unit>
+			<trans-unit id="_.seeAlso" approved="yes">
+				<source>pages_language_overlay</source>
+				<target state="translated">pages_language_overlay</target>
+			</trans-unit>
+			<trans-unit id="title.description" approved="yes">
+				<source>Enter the name of this additional system language.</source>
+				<target state="translated">Entrez le nom de ce système de langue additionnel.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

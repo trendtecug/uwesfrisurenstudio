@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="address.description">Введите адрес пользователя.</label>
+			<label index="company.description">Введите название компании, в которой работает пользователь.</label>
+			<label index=".description">Зарегистрированные на сайте пользователи.</label>
+			<label index=".details">Это пользователи, которые, под своим пользовательским именем и паролем, могут получить доступ к закрытым областям Вашего web-сайта.</label>
+			<label index="disable.description">Этот параметр временно запрещает регистрацию пользователя.</label>
+			<label index="_disable.seeAlso">fe_users:starttime,fe_users:endtime</label>
+			<label index="endtime.description">Введите дату, начиная с которой учетная запись будет отключена.</label>
+			<label index="_endtime.seeAlso">fe_users:disable,fe_users:starttime</label>
+			<label index="endtime.syntax">Смотрите "Начало"</label>
+			<label index="_.image">EXT:context_help/Resources/Public/Images/cshimages/feusers_1.png,
+EXT:context_help/Resources/Public/Images/cshimages/feusers_2.png,</label>
+			<label index=".image_descr">Часть формы для редактирования внешнего пользователя. Обычная форма регистрации (стандартная) на web-сайте, через которую внешний пользователь может зарегистрироваться на сайте.</label>
+			<label index="image.description">Вставьте фото пользователя.</label>
+			<label index="lastlogin.description">Здесь отображается последняя дата посещения сайта пользователем.</label>
+			<label index="lockToDomain.description">Введите название хоста, с которого пользователь обязан регистрироваться.</label>
+			<label index="lockToDomain.details">В системе TYPO3 может быть несколько доменов, с которых можно осуществлять к ней доступ. Этот параметр ограничивает возможность регистрации пользователя на сайте определенным именем хоста.</label>
+			<label index="_lockToDomain.seeAlso">fe_groups:lockToDomain</label>
+			<label index="lockToDomain.syntax">Это может быть название домена, "www.typo3.com" или IP адрес, "10.34.222.83"</label>
+			<label index="name.description">Введите настоящее имя пользователя, как имя, так и фамилию.</label>
+			<label index="password.description">Введите пароль для введенного выше имени пользователя. Он необходим для регистрации на сайте.</label>
+			<label index="password.syntax">Пароль обязателен и должен быть в нижнем регистре без пробелов.</label>
+			<label index="_.seeAlso">fe_groups be_users</label>
+			<label index="starttime.description">Введите дату, с которой будет активна учетная запись.</label>
+			<label index="_starttime.seeAlso">fe_users:disable,fe_users:endtime</label>
+			<label index="starttime.syntax">Синтаксис: дд-мм-гг, но можно ввести просто "d", чтобы вставить сегодняшнюю дату. Или "d+10", чтобы вставить дату, спустя 10 дней от настоящего дня. Поле подстраивается под любое введенное в него значение и для ознакомления со всеми возможностями, нужно экспериментировать.</label>
+			<label index="title.description">Введите должность, напр. "Директор" или "Бухгалтер".</label>
+			<label index="TSconfig.description">Введите дополнительную TSconfig для пользователя (расширенные настройки).</label>
+			<label index="TSconfig.details">Это поле позволяет вводить стилевые настройки TypoScript для пользователя. В настоящее время нет клавиш для стилевых настроек. Как только они появятся, появится и их описание в документации по управлению.
+
+В основном это поле (как и родственное поле в таблице групп пользователей) используется для детальных настроек. В этом случае, нужно использовать корневого "пользователя" для дополнительно настроенных значений. Так Вы не рискуете столкнуться в будущем с трудностями при введении системных клавиш.
+
+Обращаться к значениям настройки из собственных дополнений ко внешнему интерфейсу можно через вызов функции &lt;em&gt;$GLOBALS["TSFE"]-&gt;fe_user-&gt;getUserTSconf()&lt;/em&gt;, возвращающей массив с деревом значений. &lt;b&gt;Внимание:&lt;/b&gt; использовать TSconfig пользователя/группы Web-сайта в Ваших PHP-сценарияха следует, ТОЛЬКО ЕСЛИ в результате содержимое не кэшируется! То есть вызывать его из TypoScript USER_INT cObjects или отключить кэширование в коде PHP, вызвав &lt;em&gt;$GLOBALS["TSFE"]-&gt;set_no_cache();&lt;/em&gt;
+
+&lt;b&gt;TSconfig из групп пользователей web-сайта:&lt;/b&gt;
+Помните, что настройки из поля TSconfig групп суммируется со свойствами в том же поле для пользователя перед их разбором. Что для пользователя значит, что один и те же настройки в поле TSconfig для пользователя (эти настройки) имеют преимущества перед настройками группы пользователей, находящейся внизу списка групп, членом которых является пользователь. А настройки этой группы (нижней в списке), в свою очередь, переопределяют настройки групп выше по списку.
+
+&lt;b&gt;Пример:&lt;/b&gt;
+Давайте подумаем, что Вы хотели бы определить для пользователя, чье имя введено вверху вебстраницы при регистрации. В первую очередь, нужно написать PHP функцию и вставить ее результат как USER_INT cObject внизу страницы. Но функция должна знать, нужно ли выводить имя этого пользователя. Для этого нужно использовать TSconfig ключ "user.printUserName":
+
+&lt;em&gt;В поле TSconfig пользователя или группы пользователей:&lt;/em&gt;
+
+user.printUserName = 1
+
+
+&lt;em&gt;В вашей PHP-функции:&lt;/em&gt;
+
+$userTSConfig = $GLOBALS["TSFE"]-&gt;fe_user-&gt;getUserTSconf();
+if ($userTSConfig["user."]["printUserName"]) {
+return $GLOBALS["TSFE"]-&gt;fe_user-&gt;user["name"]; 
+}</label>
+			<label index="_TSconfig.seeAlso">TSconfig for TSFE | https://docs.typo3.org/typo3cms/TSconfigReference/PageTsconfig/TCEmain/
+pages:TSconfig,
+fe_groups:TSconfig,
+be_users:TSconfig,
+be_groups:TSconfig</label>
+			<label index="TSconfig.syntax">Используется синтаксис TypoScript без констант и условий.</label>
+			<label index="usergroup.description">Выберете группу пользователей для введенного имени пользователя.</label>
+			<label index="usergroup.details">При регистрации, пользователь сможет видеть позволенное ему и &lt;em&gt;его группе(ам)&lt;/em&gt;. Поэтому пользовательский пароль обеспечивает доступ и к определенным группам пользователей.</label>
+			<label index="username.description">Введите имя пользователя сайта. Оно используется для регистрации на сайте.</label>
+			<label index="_username.seeAlso">Создание внешних пользователей и их групп | https://docs.typo3.org/typo3cms/GettingStartedTutorial/EditAndCreatePagesAndContent/CreateUsersGroups/</label>
+			<label index="username.syntax">Имя пользователя обязательно и должно быть в нижнем регистре без пробелов. Имя пользователя должно быть уникальным для страницы, содержащей пользователей. Если такое имя уже существует, то к нему автоматически будет добавлен номер.</label>
+			<label index="www.description">Введите адрес URL домашней страницы</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

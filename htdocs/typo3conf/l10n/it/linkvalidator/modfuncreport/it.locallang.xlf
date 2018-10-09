@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:34Z" product-name="linkvalidator" target-language="it">
+    <header/>
+    <body>
+      <trans-unit id="menu.introduction" xml:space="preserve" approved="yes">
+        <source>Introduction</source>
+      <target state="translated">Introduzione</target></trans-unit>
+      <trans-unit id="menu.checkLinks" xml:space="preserve" approved="yes">
+        <source>Check Links for validity</source>
+      <target state="translated">Verifica la validità dei link</target></trans-unit>
+      <trans-unit id="menu.overview" xml:space="preserve" approved="yes">
+        <source>Overview of links on website</source>
+      <target state="translated">Panoramica dei link sul sito</target></trans-unit>
+      <trans-unit id="overview.header" xml:space="preserve" approved="yes">
+        <source>Overview - choose options to check the links</source>
+      <target state="translated">Panoramica - scegli le opzioni per verificare i link</target></trans-unit>
+      <trans-unit id="overview.all.header" xml:space="preserve">
+        <source>Total amounts in tt_content</source>
+      <target/><alt-trans xml:space="preserve" origin="erreti"><target>Totale importi in tt_content</target></alt-trans></trans-unit>
+      <trans-unit id="overview.all.records" xml:space="preserve" approved="yes">
+        <source>Records with ext. links:</source>
+      <target state="translated">Record con link esterni:</target></trans-unit>
+      <trans-unit id="overview.all.links" xml:space="preserve" approved="yes">
+        <source>External links:</source>
+      <target state="translated">Link esterni:</target></trans-unit>
+      <trans-unit id="overview.branch.header" xml:space="preserve">
+        <source>Amounts from actual branch in tt_content</source>
+      <target/></trans-unit>
+      <trans-unit id="overview.branch.records" xml:space="preserve" approved="yes">
+        <source>Records with ext. links:</source>
+      <target state="translated">Record con link esterni:</target></trans-unit>
+      <trans-unit id="overview.branch.links" xml:space="preserve" approved="yes">
+        <source>External links:</source>
+      <target state="translated">Link esterni:</target></trans-unit>
+      <trans-unit id="overview.attention.header" xml:space="preserve" approved="yes">
+        <source>Attention:</source>
+      <target state="translated">Attenzione:</target></trans-unit>
+      <trans-unit id="overview.attention.text" xml:space="preserve">
+        <source>Checking links may take up to several minutes. Checking ONE link can last up to 3 seconds.</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>La verifica dei link può durare fino a diversi minuti. La verifica di UN link può durare fino a 3 secondi.</target></alt-trans></trans-unit>
+      <trans-unit id="Report" xml:space="preserve" approved="yes">
+        <source>Report</source>
+      <target state="translated">Riepilogo</target></trans-unit>
+      <trans-unit id="CheckLink" xml:space="preserve" approved="yes">
+        <source>Check Links</source>
+      <target state="translated">Verifica link</target></trans-unit>
+      <trans-unit id="report.statistics.header" xml:space="preserve">
+        <source>Show these types of broken links</source>
+      <target/><alt-trans xml:space="preserve" origin="erreti"><target>Mostra queste tipologie di link interrotti</target></alt-trans></trans-unit>
+      <trans-unit id="checklinks.statistics.header" xml:space="preserve">
+        <source>Check these types of broken links</source>
+      <target/><alt-trans xml:space="preserve" origin="erreti"><target>Verifica queste tipologie di link interrotti</target></alt-trans></trans-unit>
+      <trans-unit id="report.func.title" xml:space="preserve" approved="yes">
+        <source>Show this level</source>
+      <target state="translated">Mostra questo livello</target></trans-unit>
+      <trans-unit id="checklinks.func.title" xml:space="preserve" approved="yes">
+        <source>Check this level</source>
+      <target state="translated">Verifica questo livello</target></trans-unit>
+      <trans-unit id="overviews.nbtotal" xml:space="preserve" approved="yes">
+        <source>Broken links total:</source>
+      <target state="translated">Totale link interrotti:</target></trans-unit>
+      <trans-unit id="hooks.db" xml:space="preserve" approved="yes">
+        <source>Internal Links:</source>
+      <target state="translated">Link interni:</target></trans-unit>
+      <trans-unit id="hooks.file" xml:space="preserve" approved="yes">
+        <source>File Links:</source>
+      <target state="translated">Link ai file:</target></trans-unit>
+      <trans-unit id="hooks.external" xml:space="preserve" approved="yes">
+        <source>External Links:</source>
+      <target state="translated">Link esterni:</target></trans-unit>
+      <trans-unit id="hooks.linkhandler" xml:space="preserve">
+        <source>Linkhandler Links:</source>
+      <target/></trans-unit>
+      <trans-unit id="label_refresh" xml:space="preserve">
+        <source>Refresh display</source>
+      <target/><alt-trans xml:space="preserve" origin="erreti"><target>Aggiorna pagina</target></alt-trans></trans-unit>
+      <trans-unit id="label_update" xml:space="preserve" approved="yes">
+        <source>Check links</source>
+      <target state="translated">Verifica link</target></trans-unit>
+      <trans-unit id="list.header" xml:space="preserve">
+        <source>Listing of broken links</source>
+      <target/><alt-trans xml:space="preserve" origin="erreti"><target>Elenca i link interrotti</target></alt-trans></trans-unit>
+      <trans-unit id="list.tableHead.path" xml:space="preserve">
+        <source>Path</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>Percorso</target></alt-trans><alt-trans xml:space="preserve" origin="erreti"><target>Path</target></alt-trans></trans-unit>
+      <trans-unit id="list.tableHead.element" xml:space="preserve" approved="yes">
+        <source>Element</source>
+      <target state="translated">Elementi</target></trans-unit>
+      <trans-unit id="list.tableHead.headlink" xml:space="preserve" approved="yes">
+        <source>Link</source>
+      <target state="translated">Link</target></trans-unit>
+      <trans-unit id="list.tableHead.linktarget" xml:space="preserve">
+        <source>URL / Link Target</source>
+      <target/><alt-trans xml:space="preserve" origin="erreti"><target>URL / Link Target</target></alt-trans></trans-unit>
+      <trans-unit id="list.tableHead.linkmessage" xml:space="preserve" approved="yes">
+        <source>Error message</source>
+      <target state="translated">Messaggio di errore</target></trans-unit>
+      <trans-unit id="list.tableHead.lastCheck" xml:space="preserve" approved="yes">
+        <source>Last check</source>
+      <target state="translated">Ultima verifica</target></trans-unit>
+      <trans-unit id="list.edit" xml:space="preserve">
+        <source>Edit element containing this broken link</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>Modifica l'elemento che contiene questo link interrotto</target></alt-trans></trans-unit>
+      <trans-unit id="list.field" xml:space="preserve">
+        <source>(Field: %s)</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>(Campo: %s)</target></alt-trans></trans-unit>
+      <trans-unit id="list.no.headline" xml:space="preserve">
+        <source>no headline</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>nessuna intestazione</target></alt-trans></trans-unit>
+      <trans-unit id="list.report.pagedeleted" xml:space="preserve">
+        <source>Page '###title###' (###uid###) is deleted.</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>La pagina '###title###' (###uid###) è stata eliminata.</target></alt-trans></trans-unit>
+      <trans-unit id="list.report.pagenotvisible" xml:space="preserve">
+        <source>Page '###title###' (###uid###) is not visible.</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>La pagina '###title###' (###uid###) non è visibile.</target></alt-trans></trans-unit>
+      <trans-unit id="list.report.pagenotexisting" xml:space="preserve">
+        <source>Page (###uid###) does not exist.</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>La pagina (###uid###) non esiste.</target></alt-trans></trans-unit>
+      <trans-unit id="list.report.contentmoved" xml:space="preserve">
+        <source>Element '###title###' (###uid###) is not located on page ###wrongpage###, but on page ###rightpage###.</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>L'elemento '###title###' (###uid###) non si trova nella pagina ###wrongpage###, bensì nella pagina ###rightpage###.</target></alt-trans></trans-unit>
+      <trans-unit id="list.report.contentdeleted" xml:space="preserve">
+        <source>Element '###title###' (###uid###) is deleted.</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>L'elemento '###title###' (###uid###) è stato eliminato.</target></alt-trans></trans-unit>
+      <trans-unit id="list.report.contentnotvisible" xml:space="preserve">
+        <source>Element '###title###' (###uid###) is not visible.</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>L'elemento '###title###' (###uid###) non è visibile.</target></alt-trans></trans-unit>
+      <trans-unit id="list.report.contentnotexisting" xml:space="preserve">
+        <source>Element (###uid###) does not exist.</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>L'elemento (###uid###) non esiste.</target></alt-trans></trans-unit>
+      <trans-unit id="list.report.rowdeleted" xml:space="preserve">
+        <source>###title### row (###uid###) is deleted.</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>La riga ###title### (###uid###) è stata eliminata.</target></alt-trans></trans-unit>
+      <trans-unit id="list.report.rowdeleted.default.title" xml:space="preserve">
+        <source>Linked</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>Collegato</target></alt-trans></trans-unit>
+      <trans-unit id="list.report.rownotexisting" xml:space="preserve">
+        <source>Row (###uid###) does not exist.</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>La riga (###uid###) non esiste.</target></alt-trans></trans-unit>
+      <trans-unit id="list.report.noinformation" xml:space="preserve">
+        <source>No information about the error is available.</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>Nessuna informazione disponibile sull'errore.</target></alt-trans></trans-unit>
+      <trans-unit id="list.report.noresponse" xml:space="preserve">
+        <source>External Link not reachable.</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>Collegamento esterno non raggiungibile.</target></alt-trans></trans-unit>
+      <trans-unit id="list.report.redirectloop" xml:space="preserve">
+        <source>A redirect loop occurred. (%s: %s)</source>
+      <target/></trans-unit>
+      <trans-unit id="list.report.pageforbidden403" xml:space="preserve">
+        <source>Accessing this address is not allowed (403).</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>L'accesso a questo indirizzo non è consentito (403).</target></alt-trans></trans-unit>
+      <trans-unit id="list.report.pagenotfound404" xml:space="preserve">
+        <source>The requested url was not found (404).</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>L'URL richiesto non è stato trovato (404).</target></alt-trans></trans-unit>
+      <trans-unit id="list.report.externalerror" xml:space="preserve">
+        <source>External Link returned HTTP error code (%s).</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>Il collegamento esterno ha restituito un codice di errore HTTP (%s).</target></alt-trans></trans-unit>
+      <trans-unit id="list.report.filenotexisting" xml:space="preserve">
+        <source>File doesn't exist.</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>Il file non esiste</target></alt-trans></trans-unit>
+      <trans-unit id="list.report.timeout" xml:space="preserve">
+        <source>Operation timeout. The specified time-out period was reached according to the conditions.</source>
+      <target/></trans-unit>
+      <trans-unit id="list.report.internalerror500" xml:space="preserve">
+        <source>Internal Server Error (500)</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>Errore interno del server (500)</target></alt-trans></trans-unit>
+      <trans-unit id="list.report.couldnotresolvehost" xml:space="preserve">
+        <source>Could not resolve host. The given remote host was not resolved.</source>
+      <target/></trans-unit>
+      <trans-unit id="list.report.errornetworkdata" xml:space="preserve">
+        <source>Failure with receiving network data.</source>
+      <target/></trans-unit>
+      <trans-unit id="list.report.otherhttpcode" xml:space="preserve">
+        <source>An error occurred (%s): "%s".</source>
+      <target/></trans-unit>
+      <trans-unit id="list.report.httpexception" xml:space="preserve">
+        <source>Exception: %s</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>Eccezione: %s</target></alt-trans></trans-unit>
+      <trans-unit id="list.msg.ok" xml:space="preserve">
+        <source>Ok</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>Ok</target></alt-trans></trans-unit>
+      <trans-unit id="list.msg.lastRun" xml:space="preserve">
+        <source>%1$s %2$s</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>%1$s %2$s</target></alt-trans></trans-unit>
+      <trans-unit id="list.no.broken.links.title" xml:space="preserve">
+        <source>No broken links to show!</source>
+      <target/></trans-unit>
+      <trans-unit id="list.no.broken.links" xml:space="preserve">
+        <source>There are no broken links to be displayed.</source>
+      <target/></trans-unit>
+      <trans-unit id="no.access.title" xml:space="preserve">
+        <source>No access!</source>
+      <target/></trans-unit>
+      <trans-unit id="no.access" xml:space="preserve">
+        <source>You do not have access to these listings.</source>
+      <target/><alt-trans xml:space="preserve" origin="strizzol"><target>Non puoi accedere a questi elenchi.</target></alt-trans></trans-unit>
+    </body>
+  </file>
+</xliff>

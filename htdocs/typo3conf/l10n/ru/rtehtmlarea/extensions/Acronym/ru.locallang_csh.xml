@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="abridgedTerm.alttitle">Аббревиатура</label>
+			<label index="abridgedTerm.description">Выберете краткую форму термина.</label>
+			<label index=".alttitle">htmlArea RTE &gt; Сокращения</label>
+			<label index=".description">Диалог "Сокращения" позволяет назначит сокращения для терминов.</label>
+			<label index=".details">Щелчок по значку "Вставить сокращения" на панели инструментов RTE откроет диалог, позволяющий вставить сокращение или отредактировать существующие в содержимом. Все существующие сокращения подчеркнуты пунктиром, а при наведении на них, курсор мыши превращается в знак вопроса. Диалог позволяет назначить сокращение для термина. Можно выбрать уже существующее в базе данных сокращение, или ввести новое прямо в диалоге.</label>
+			<label index=".image">EXT:rtehtmlarea/extensions/Acronym/skin/images/acronym.gif</label>
+			<label index=".image_descr">Значок "Вставить сокращение" в панели инструментов.</label>
+			<label index="language.alttitle">Язык</label>
+			<label index="language.description">Выберете язык, для которого определяется сокращение.</label>
+			<label index="language.details">Выбранный язык будет установлен в качестве значения атрибута language элемента abbr (или acronym). Если выбрана установленная аббревиатура (или акроним), язык, для которого она определена уже будет выбран.</label>
+			<label index="preDefinedAbbreviation.alttitle">Установленные аббревиатуры</label>
+			<label index="preDefinedAbbreviation.description">В данном разделе можно выбрать из уже существующих в базе данных аббревиатур.</label>
+			<label index="preDefinedAbbreviation.seeAlso">tx_rtehtmlarea_acronym</label>
+			<label index="preDefinedAcronym.alttitle">Установленные акронимы</label>
+			<label index="preDefinedAcronym.description">В данном разделе можно выбрать из уже существующих в базе данных акронимов.</label>
+			<label index="preDefinedAcronym.seeAlso">tx_rtehtmlarea_acronym</label>
+			<label index=".seeAlso">xEXT_rtehtmlarea_Acronym:preDefinedAbbreviation, xEXT_rtehtmlarea_Acronym:unabridgedTerm, xEXT_rtehtmlarea_Acronym:abridgedTerm, xEXT_rtehtmlarea_Acronym:language, xEXT_rtehtmlarea_Acronym:termToAbridge, xEXT_rtehtmlarea_Acronym:useThisTerm tx_rtehtmlarea_acronym</label>
+			<label index="termToAbridge.alttitle">Сокращаемый термин</label>
+			<label index="termToAbridge.description">Этот раздел позволяет ввести термин, для которого текущее выделение служит сокращением.</label>
+			<label index="unabridgedTerm.alttitle">Не сокращенный термин</label>
+			<label index="unabridgedTerm.description">Выберете не сокращенную форму термина.</label>
+			<label index="unabridgedTerm.details">Выбранный термин будет установлен в качестве значения атрибута title элемента abbr (или acronym).</label>
+			<label index="useThisTerm.alttitle">Использовать этот термин</label>
+			<label index="useThisTerm.description">Введите термин, который нужно назначить в качестве развернутой формы для выбранного.</label>
+			<label index="useThisTerm.details">Выбранный термин будет установлен в качестве значения атрибута title элемента abbr (или acronym).</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

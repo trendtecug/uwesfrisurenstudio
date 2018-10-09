@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-29T03:42:24Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Cancel" approved="yes">
+				<source>Cancel</source>
+				<target state="translated">Annuler</target>
+			</trans-unit>
+			<trans-unit id="CONFIRM_LINK_CLICK" approved="yes">
+				<source>Please confirm that you want to open this link</source>
+				<target state="translated">Veuillez confirmer la demande d'ouverture de ce lien</target>
+			</trans-unit>
+			<trans-unit id="Dictionary" approved="yes">
+				<source>Dictionary</source>
+				<target state="translated">Dictionnaire</target>
+			</trans-unit>
+			<trans-unit id="Document information" approved="yes">
+				<source>Document information</source>
+				<target state="translated">Information sur le document</target>
+			</trans-unit>
+			<trans-unit id="Finished list of mispelled words" approved="yes">
+				<source>Finished list of mispelled words</source>
+				<target state="translated">La liste des mots mal orthographiés est terminée.</target>
+			</trans-unit>
+			<trans-unit id="HTMLArea Spell Checker" approved="yes">
+				<source>HTMLArea Spell Checker</source>
+				<target state="translated">HTMLArea - Vérificateur orthographique</target>
+			</trans-unit>
+			<trans-unit id="Ignore" approved="yes">
+				<source>Ignore</source>
+				<target state="translated">Ignorer</target>
+			</trans-unit>
+			<trans-unit id="Ignore all" approved="yes">
+				<source>Ignore all</source>
+				<target state="translated">Ignorer tous</target>
+			</trans-unit>
+			<trans-unit id="Info" approved="yes">
+				<source>Info</source>
+				<target state="translated">Informations</target>
+			</trans-unit>
+			<trans-unit id="I will open it in a new page." approved="yes">
+				<source>I will open it in a new page.</source>
+				<target state="translated">Ouverture dans une nouvelle page.</target>
+			</trans-unit>
+			<trans-unit id="Learn" approved="yes">
+				<source>Add to dictionary</source>
+				<target state="translated">Ajouter au dictionnaire</target>
+			</trans-unit>
+			<trans-unit id="Misspelled words" approved="yes">
+				<source>Misspelled words</source>
+				<target state="translated">Nombre de mots en erreur</target>
+			</trans-unit>
+			<trans-unit id="NO_ERRORS" approved="yes">
+				<source>No mispelled words found with the selected dictionary.</source>
+				<target state="translated">Aucune faute n'a été trouvée avec le dictionnaire choisi.</target>
+			</trans-unit>
+			<trans-unit id="NO_ERRORS_CLOSING" approved="no">
+				<source>Spell check complete, didn't find any mispelled words.  Closing now...</source>
+				<target state="needs-translation">Vérification terminée, aucune erreur d'orthographe n'a été trouvée. Fermeture...</target>
+			</trans-unit>
+			<trans-unit id="No information available" approved="yes">
+				<source>No information available</source>
+				<target state="translated">Aucune information disponible</target>
+			</trans-unit>
+			<trans-unit id="occurrences" approved="yes">
+				<source>occurrences</source>
+				<target state="translated">occurrences</target>
+			</trans-unit>
+			<trans-unit id="of the word" approved="yes">
+				<source>of the word</source>
+				<target state="translated">du mot</target>
+			</trans-unit>
+			<trans-unit id="OK" approved="yes">
+				<source>OK</source>
+				<target state="translated">Valider</target>
+			</trans-unit>
+			<trans-unit id="One occurrence" approved="yes">
+				<source>One occurrence</source>
+				<target state="translated">Une occurrence</target>
+			</trans-unit>
+			<trans-unit id="Original word" approved="yes">
+				<source>Original word</source>
+				<target state="translated">Mot original</target>
+			</trans-unit>
+			<trans-unit id="Please wait. Calling spell checker." approved="yes">
+				<source>Please wait. Calling spell checker.</source>
+				<target state="translated">Veuillez patienter. Lancement du vérificateur orthographique.</target>
+			</trans-unit>
+			<trans-unit id="Please wait: changing dictionary to" approved="yes">
+				<source>Please wait: changing dictionary to</source>
+				<target state="translated">Veuillez patienter. Chargement du dictionnaire</target>
+			</trans-unit>
+			<trans-unit id="pliz weit ;-)" approved="yes">
+				<source>Please wait...</source>
+				<target state="translated">Veuillez patienter svp...</target>
+			</trans-unit>
+			<trans-unit id="QUIT_CONFIRMATION" approved="no">
+				<source>This will drop changes and quit spell checker.  Please confirm.</source>
+				<target state="needs-translation">Ceci va annuler tous les changements et quitter le vérificateur orthographique. Veuillez confirmer.</target>
+			</trans-unit>
+			<trans-unit id="Re-check" approved="yes">
+				<source>Re-check</source>
+				<target state="translated">Re-vérifier</target>
+			</trans-unit>
+			<trans-unit id="Replace" approved="yes">
+				<source>Replace</source>
+				<target state="translated">Remplacer</target>
+			</trans-unit>
+			<trans-unit id="Replace all" approved="yes">
+				<source>Replace all</source>
+				<target state="translated">Remplacer partout</target>
+			</trans-unit>
+			<trans-unit id="Replacement" approved="yes">
+				<source>Replacement</source>
+				<target state="translated">Remplacement</target>
+			</trans-unit>
+			<trans-unit id="Replace with" approved="yes">
+				<source>Replace with</source>
+				<target state="translated">Remplacer par</target>
+			</trans-unit>
+			<trans-unit id="Revert" approved="yes">
+				<source>Revert</source>
+				<target state="translated">Rétablir</target>
+			</trans-unit>
+			<trans-unit id="SC-spell-check" approved="yes">
+				<source>Spell-check</source>
+				<target state="translated">Vérifier l'orthographe</target>
+			</trans-unit>
+			<trans-unit id="seconds" approved="yes">
+				<source>seconds</source>
+				<target state="translated">secondes</target>
+			</trans-unit>
+			<trans-unit id="Spell Checker" approved="yes">
+				<source>Spell Checker</source>
+				<target state="translated">Vérificateur orthographique</target>
+			</trans-unit>
+			<trans-unit id="Spelling checked in" approved="yes">
+				<source>Spelling checked in</source>
+				<target state="translated">Vérification effectuée en</target>
+			</trans-unit>
+			<trans-unit id="Suggestions" approved="yes">
+				<source>Suggestions</source>
+				<target state="translated">Suggestions</target>
+			</trans-unit>
+			<trans-unit id="Total suggestions" approved="yes">
+				<source>Total suggestions</source>
+				<target state="translated">Nombre de suggestions</target>
+			</trans-unit>
+			<trans-unit id="Total words" approved="yes">
+				<source>Total words</source>
+				<target state="translated">Nombre de mots dans le document</target>
+			</trans-unit>
+			<trans-unit id="Total words suggested" approved="yes">
+				<source>Total words suggested</source>
+				<target state="translated">Nombre total de mots suggérés</target>
+			</trans-unit>
+			<trans-unit id="Two occurrences" approved="yes">
+				<source>Two occurrences</source>
+				<target state="translated">Deux occurrences</target>
+			</trans-unit>
+			<trans-unit id="was found." approved="yes">
+				<source>was found.</source>
+				<target state="translated">a été trouvée.</target>
+			</trans-unit>
+			<trans-unit id="were found." approved="yes">
+				<source>were found.</source>
+				<target state="translated">ont été trouvées.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

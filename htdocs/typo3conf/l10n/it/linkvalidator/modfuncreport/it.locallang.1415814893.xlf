@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns:t3="http://typo3.org/schemas/xliff" version="1.0">
+	<file t3:id="1415814893" source-language="en" datatype="plaintext" original="messages" date="2015-07-28T05:18:05Z" product-name="linkvalidator" target-language="it">
+		<header/>
+		<body>
+			<trans-unit id="mod_linkvalidator" approved="yes">
+				<source>Linkvalidator</source>
+			<target state="translated">Linkvalidator</target></trans-unit>
+			<trans-unit id="tasks.validate.name" approved="yes">
+				<source>Linkvalidator</source>
+			<target state="translated">Linkvalidator</target></trans-unit>
+			<trans-unit id="tasks.validate.description">
+				<source>Search for broken links and store the result into the temporary table tx_linkvalidator_link in order to ease up the backend module.</source>
+			<target/><alt-trans xml:space="preserve" origin="c_strizzolo"><target>Cerca i collegamenti interrotti e salva il risultato nella tabella temporanea tx_linkvalidator_link al fine di alleviare il modulo di backend.</target></alt-trans></trans-unit>
+			<trans-unit id="tasks.validate.page">
+				<source>Start page (uid)</source>
+			<target/><alt-trans xml:space="preserve" origin="c_strizzolo"><target>Pagina di partenza (uid)</target></alt-trans></trans-unit>
+			<trans-unit id="tasks.validate.depth">
+				<source>Depth</source>
+			<target/><alt-trans xml:space="preserve" origin="c_strizzolo"><target>Profondità</target></alt-trans></trans-unit>
+			<trans-unit id="tasks.validate.conf">
+				<source>Overwrite TSconfig</source>
+			<target/><alt-trans xml:space="preserve" origin="c_strizzolo"><target>Sovrascrivi TSconfig</target></alt-trans></trans-unit>
+			<trans-unit id="tasks.validate.email">
+				<source>Send email report to</source>
+			<target/><alt-trans xml:space="preserve" origin="c_strizzolo"><target>Invia una relazione via email a</target></alt-trans></trans-unit>
+			<trans-unit id="tasks.validate.emailOnBrokenLinkOnly">
+				<source>Send email on new broken links only</source>
+			<target/><alt-trans xml:space="preserve" origin="c_strizzolo"><target>Invia email solo relativamente ai nuovi collegamenti interrotti</target></alt-trans></trans-unit>
+			<trans-unit id="tasks.validate.emailTemplateFile">
+				<source>Email template file</source>
+			<target/></trans-unit>
+			<trans-unit id="tasks.validate.invalidEmail">
+				<source>Invalid email format!</source>
+			<target/><alt-trans xml:space="preserve" origin="c_strizzolo"><target>Formato e-mail non valido!</target></alt-trans></trans-unit>
+			<trans-unit id="tasks.validate.invalidPage">
+				<source>Invalid page uid, please enter a valid page uid!</source>
+			<target/></trans-unit>
+			<trans-unit id="tasks.validate.invalidDepth">
+				<source>There is no depth set, please set it to one of the offered values!</source>
+			<target/></trans-unit>
+			<trans-unit id="tasks.error.noSubject">
+				<source>No subject for the notification email</source>
+			<target/></trans-unit>
+			<trans-unit id="tasks.error.invalidToEmail">
+				<source>Invalid format of one or more of the recipient email addresses!</source>
+			<target/></trans-unit>
+			<trans-unit id="tasks.error.invalidFromEmail">
+				<source>Invalid format of the email address in the from header</source>
+			<target/><alt-trans xml:space="preserve" origin="c_strizzolo"><target>Formato dell'indirizzo e-mail non valido nell'intestazione from</target></alt-trans></trans-unit>
+			<trans-unit id="tasks.error.invalidTSconfig">
+				<source>Invalid TSconfig in the task configuration!</source>
+			<target/></trans-unit>
+			<trans-unit id="tasks.error.invalidEmailTemplateFile">
+				<source>The email template file is not existing!</source>
+			<target/></trans-unit>
+		</body>
+	</file>
+</xliff>

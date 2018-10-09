@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="author">Auteur :</label>
+			<label index="category.1">Instructions</label>
+			<label index="category.2">Gabarit</label>
+			<label index="category.3">Notes</label>
+			<label index="category.4">À faire</label>
+			<label index="date">Date :</label>
+			<label index="personal">Personnel :</label>
+			<label index="yes">Oui</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

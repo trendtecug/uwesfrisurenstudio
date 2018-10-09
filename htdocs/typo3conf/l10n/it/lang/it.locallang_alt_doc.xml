@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="deleteItem">Elimina</label>
+			<label index="deleteWarning">Confermare l'eliminazione di questo record?</label>
+			<label index="editWholeRecord">Modifica intero record</label>
+			<label index="noDocuments">Nessun documento aperto</label>
+			<label index="noDocuments_listmodule">Modulo Web&gt;Lista</label>
+			<label index="noDocuments_msg">Non ci sono documenti aperti da modificare.</label>
+			<label index="noDocuments_msg2">Puoi andare su %s per trovare la pagina o il record che vuoi modificare.</label>
+			<label index="noDocuments_msg3">Puoi selezionare dalla lista sottostante uno fra i documenti modificati di recente:</label>
+			<label index="noDocuments_OR">o</label>
+			<label index="noDocuments_pagemodule">Modulo Web&gt;Pagina</label>
+			<label index="openDocs">DOCUMENTI APERTI</label>
+			<label index="recordHistory">Storia delle modifiche del record</label>
+			<label index="undoLastChange">Annulla/Ripristina ultima modifica (%s fa)</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="action_BEu_db_mount">Punti di partenza dell'albero delle pagine</label>
+			<label index="action_BEu_email">Email</label>
+			<label index="action_BEu_hidden">Disabilita utente</label>
+			<label index="action_BEu_password">Password</label>
+			<label index="action_BEu_realName">Nome</label>
+			<label index="action_BEu_usergroups">Membro dei gruppi</label>
+			<label index="action_BEu_username">Login</label>
+			<label index="action_Create">Crea utente backend</label>
+			<label index="action_createQuery">Crea Query</label>
+			<label index="action_download_file">Clicca qui per scaricare i dati in un file</label>
+			<label index="action_editQuery">Modifica Query</label>
+			<label index="action_emptyQuery">La Query è vuota, prima ne devi creare una!</label>
+			<label index="action_error">Errore!</label>
+			<label index="action_error-access">Non hai i privilegi sufficienti per veder questi records. Chiedi all'amminstratore di assegnarteli.</label>
+			<label index="action_error-not-found">L'azione richiesta non esiste</label>
+			<label index="action_lowlevelMissing">L'estensione "lowlevel" deve essere installata per creare una query.</label>
+			<label index="action_not-found">Nessuna azione trovata</label>
+			<label index="action_not-found-description">Al momento nessuna azione è stata ancora definita!</label>
+			<label index="action_notReady">Errore: L'azione di configurazione non e' terminata.</label>
+			<label index="action_noType">Errore: L'azione non ha un tipo definito.</label>
+			<label index="action_t1_legend_configuration"/>
+			<label index="action_t1_legend_generalFields"/>
+			<label index="action_t1_listOfUsers">Elenco utenti backend</label>
+			<label index="action_t2_result">Risultato della query</label>
+			<label index="action_t4_edit">Seleziona record da modificare:</label>
+			<label index="action_toolbaritem">Azioni Open System</label>
+			<label index="action_Update">Aggiorna utente backend</label>
+			<label index="description">Una 'Azione' è una configurazione di uno specifico compito che può essere eseguito da gruppi di utenti tramite il Task Center.</label>
+			<label index="edit-sys_action">Editare il record</label>
+			<label index="error-password-empty">La password è vuota.</label>
+			<label index="error-username-empty">Il nome utente è vuoto.</label>
+			<label index="error-wrong-email">L'indirizzo e-mail è errato.</label>
+			<label index="error-wrong-user">Non hai i permessi per modificare questo utente.</label>
+			<label index="new-sys_action">Crea una nuova azione</label>
+			<label index="success">Successo</label>
+			<label index="success-user-created">L'utente è stato creato.</label>
+			<label index="success-user-updated">L'utente è stato aggiornato.</label>
+			<label index="sys_action">Azione</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

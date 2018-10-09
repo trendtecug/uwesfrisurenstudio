@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index=".alttitle">Modulo Web &gt; Informazioni</label>
+			<label index=".description"/>
+			<label index=".details"/>
+			<label index="_.image"/>
+			<label index=".image_descr"/>
+			<label index="_.seeAlso"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="error-access">Non hai accesso a questo modulo</label>
+			<label index="error_header">Errore</label>
+			<label index="error_no-instance">La classe "%s" non implementa l'interfaccia "%s" per il task che è necessario visualizzare qui.</label>
+			<label index="lCancel">Annulla</label>
+			<label index="lCreate">Crea</label>
+			<label index="lDelete">Elimina</label>
+			<label index="lDelete_warning">Sei sicuro di voler eliminare questo utente?</label>
+			<label index="lHomedir">Home dir</label>
+			<label index="listSeparator_Groups">__Gruppi:__</label>
+			<label index="lNone">[nessuno]</label>
+			<label index="lReplyAddress">L'indirizzo di risposta è la tua e-mail</label>
+			<label index="lSelf">Self</label>
+			<label index="lSendNew">Invia messaggio</label>
+			<label index="lSendReply">Rispondi al messaggio</label>
+			<label index="lUpdate">Aggiorna</label>
+			<label index="mlang_tabs_tab">Tasks</label>
+			<label index="no-tasks">Nessun task è stato ancora registrato.</label>
+			<label index="taskcenter-about">&lt;p&gt;Il menu a sinistra mostra tutti i compiti permessi e ti permette di completare i tuoi in modo efficiente.&lt;/p&gt; &lt;u class="withicons"&gt; &lt;li&gt;Cliccando il titolo del compito si aprirà una finestra dettagliata sul task.&lt;/li&gt; &lt;li&gt;Clicca sulla freccia posta nel lato destro per aprire/chiudere il sottomenu di questo task&lt;/li&gt; &lt;br /&gt; &lt;strong&gt;Nota:&lt;/strong&gt; Configura il taskcenter come modulo di default a cui accedere dopo il login per velocizzare il tuo lavoro!</label>
+			<label index="taskcenter-admin">E' facile estendere il Task Center da un lavoro personalizzato, Per maggiori informazioni vedi il manuale dell'estensione.</label>
+			<label index="taskcenter-adminheader">Crea un task</label>
+			<label index="task_description">Descrizione, bla bla bla, lipsum</label>
+			<label index="task_overview">Panoramica</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="pageTitle">Titre de la page:</label>
+      <label index="path">Chemin:</label>
+      <label index="user">Utilisateur:</label>
+      <label index="group">Groupe:</label>
+      <label index="everybody">Tout le monde:</label>
+      <label index="thisUser">Cet utilisateur:</label>
+      <label index="mainGroup">Groupe principal:</label>
+      <label index="editLock">Verrouiller l'édition empêche toute action d'édition</label>
+      <label index="noReadAccess">L'utilisateur n'a pas d'accès en lecture à sur cet emplacement de l'arborescence!</label>
+      <label index="live">[LIVE]</label>
+      <label index="defaultDraft">[Brouillon par défaut]</label>
+      <label index="notAccessible">ATTENTION : l'arborescence du workspace n'est pas accessible:</label>
+      <label index="compareUserSettings">Comparer les paramètres des utilisateurs</label>
+      <label index="listUsersOnline">Lister les utilisateurs en ligne</label>
+      <label index="backendUserAdministration">Administration des utilisateurs Backend</label>
+      <label index="filemounts">Dossiers de fichiers</label>
+      <label index="webmounts">Arborescences de pages</label>
+      <label index="defaultUploadPath">Chemin de téléchargement par défaut</label>
+      <label index="mainUserGroup">Groupe d'utilisateur principal</label>
+      <label index="memberOfGroups">Membre des groupes</label>
+      <label index="pageTypesAccess">Accès aux types de page</label>
+      <label index="selectTables">Tables listables</label>
+      <label index="modifyTables">Tables modifiables</label>
+      <label index="nonExcludeFields">Champs non exclus</label>
+      <label index="explicitAllowDeny">Autorisation/Interdiction explicite</label>
+      <label index="limitToLanguages">Limité aux langues</label>
+      <label index="workspacePermissions">Autorisation aux Workspaces</label>
+      <label index="workspaceMembership">Adhésion aux Workspaces</label>
+      <label index="customOptions">Options personnalisées</label>
+      <label index="modules">Modules</label>
+      <label index="tsconfig">Configuration TS</label>
+      <label index="tsconfigHL">Configuration TS de niveau supérieur</label>
+      <label index="nonMountedReadablePages">Pages visibles non montée</label>
+      <label index="backToOverview">retour à la vue d'ensemble</label>
+      <label index="userInfo">Informations sur l'utilisateur</label>
+      <label index="groupBy">Regroupé par:</label>
+      <label index="update">Mettre à jour</label>
+      <label index="groupAndCompareUsers">Regrouper et comparer les utilisateurs</label>
+      <label index="tooManyUsers">Il y a trop d'utilisateurs</label>
+      <label index="canOnlyDisplay">Cet outil ne peut afficher que ce nombre d'utilisateurs à la fois:</label>
+      <label index="newUser">Créer un nouvel utilisateur</label>
+      <label index="usernames">Noms des utilisateurs:</label>
+      <label index="switchUserTo">Simuler l'utilisateur:</label>
+      <label index="changeToMode">[sans retour au login actuel]</label>
+      <label index="switchBackMode">[retour au login actuel possible]</label>
+      <label index="cachedGrouplistsUpdated">(toutes les listes de groupe en cache ont été mises à jour.)</label>
+      <label index="result">Résultat</label>
+      <label index="showInformation">Montrer l'information</label>
+      <label index="sureToDelete">Etes vous sûr de vouloir supprimer cet élément ?</label>
+      <label index="delete">Supprimer (!)</label>
+      <label index="timestamp">Date et heure:</label>
+      <label index="host">Hôte:</label>
+      <label index="username">Nom de l'utilisateur:</label>
+      <label index="whoIsOnline">Qui est en ligne</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

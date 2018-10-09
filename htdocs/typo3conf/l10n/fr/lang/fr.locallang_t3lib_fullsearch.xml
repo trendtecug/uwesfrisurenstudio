@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="query_from_action_loaded">Requête de l'action "%s" chargée !</label>
+			<label index="query_loaded">Requête "%s chargée !</label>
+			<label index="query_notsaved">Aucune requête enregistrée !</label>
+			<label index="query_removed">Requête "%s" supprimée !</label>
+			<label index="query_saved">Requête enregistrée !</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

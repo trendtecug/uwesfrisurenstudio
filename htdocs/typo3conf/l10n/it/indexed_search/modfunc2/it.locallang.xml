@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="all">Tutte</label>
+			<label index="allpages">Statistiche per tutte le pagine. Seleziona una pagina con una form di ricerca indicizzata per vedere diverse statistiche</label>
+			<label index="justthispage">Statistiche solo per questa pagina</label>
+			<label index="last24hours">Ultime 24 ore</label>
+			<label index="last30days">Ultimi 30 giorni</label>
+			<label index="noresults">Nessun risultato</label>
+			<label index="title">Statistiche ricerca indicizzata</label>
+			<label index="title2">Lista delle parole più ricercate</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

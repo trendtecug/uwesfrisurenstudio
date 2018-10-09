@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="mlang_labels_tabdescr">Этот модуль позволяет создавать и изменять веб-страницы, просматривать статистику посещений страниц, управлять переводами и колонками содержимого, предоставляет доступ к специальном содержимому страниц, например, записям гостевой книги или товарам магазина.</label>
+			<label index="mlang_labels_tablabel">Содержимое страницы</label>
+			<label index="mlang_tabs_tab">Страница</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

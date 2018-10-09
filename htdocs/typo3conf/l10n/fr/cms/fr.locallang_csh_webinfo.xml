@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="func_0.alttitle">Configuration de base</label>
+			<label index="func_0.description">Affiche une sélection de champs à partir des enregistrements page qui sont considérés comme les paramètres de base pour les pages. Cela inclut les alias, les début et fin, les informations de restriction d'accès, etc</label>
+			<label index="func_0.details">La vue Réglages de base ressemble beaucoup à la vue Cache et âge. Elles ne diffèrent que par le choix des champs proposés.
+
+&lt;b&gt; Traitement par lot des champs de page&lt;/ b&gt;
+Vous trouverez de multiples icônes d'édition autour de l'interface. Toutes les icônes d'édition en tête de lignes vous amèneront à une boîte de dialogue d'édition où vous pouvez changer exactement le champ pour toutes les tables répertoriées! C'est très utile, par exemple, pour paramétrer en traitement par lot "Démarrer" de multiples fois.
+Si vous cliquez sur l'icône d'édition des IDs de pages, vous irez directement sur l'édition régulière d'un enregistrement de page complet.</label>
+			<label index="_func_0.image">EXT:cms/cshimages/pagetree_overview_4.png,
+EXT:cms/cshimages/pagetree_overview_8.png,
+EXT:cms/cshimages/pagetree_overview_9.png</label>
+			<label index="func_0.image_descr">La vue des paramètres de base offre un aperçu très pratique des alias de pages, des dates de début et des paramètres de restriction d'accès dans l'arborescence.
+Si vous cliquez sur une icône d'édition dans l'en-tête vous pourrez éditer ce champ pour toutes les pages listées.</label>
+			<label index="_func_0.seeAlso">xMOD_csh_corebe:list_module,
+_MOD_web_info:func_2,
+_MOD_web_info:pagetree_overview</label>
+			<label index="func_1.alttitle">Enregistrement (vue d'ensemble)</label>
+			<label index="func_1.description">La vue d'ensemble des enregistrements vous donne un aperçu indispensable de la distribution des enregistrements dans l'arborescence. Chaque table de base de données dans le système est représentée par une colonne et pour chaque page vous pouvez voir le nombre d'enregistrements de cette table présents sur la page.</label>
+			<label index="func_1.details">&lt;b&gt;Note :&lt;/b&gt; Faites attention au paramètre de niveau. Plus le nombre de niveaux est élevé plus il y a de risques que le module réponde lentement notamment s'il y a beaucoup de pages et d'enregistrements dans la base de données ! 
+
+&lt;b&gt;Arrêter l'arborescence ?&lt;/b&gt;
+Avez-vous remarqué le "+" rouge à côté d'une page dans l'arborescence ? Ceci signifie qu'un réglage sur cette page empêche le développement / l'ouverture de l'arborescence. Ce réglage sert de protection lorsqu'il y a un nombre très important de sous-pages en-dessous (des centaines de pages en général). Si vous cliquez sur l'icône/titre, l'aperçu de l'arborescence se modifiera afin d'afficher cette page en tant que nouvelle page racine.</label>
+			<label index="_func_1.image">EXT:cms/cshimages/pagetree_overview_6.png</label>
+			<label index="func_1.image_descr">Vous pouvez facilement voir la répartition des éléments de contenu sur une page. Vous pouvez également voir où sont situés les Templates Records - ainsi que n'importe quel enregistrement ! - dans l’arborescence !</label>
+			<label index="_func_1.seeAlso">_MOD_web_info:pagetree_overview, 
+pages:php_tree_stop</label>
+			<label index="func_2.alttitle">Cache et Age</label>
+			<label index="func_2.description">Affiche une sélection de champs des enregistrements de page relatifs au cache de page et aux paramètres de temps.</label>
+			<label index="_func_2.image">EXT:cms/cshimages/pagetree_overview_5.png,
+EXT:cms/cshimages/pagetree_overview_7.png</label>
+			<label index="func_2.image_descr">La vue "Cache et Age".
+Ici vous pouvez voir la colonne "TSconfig". L'aperçu indique que du code Page TSconfig est inclus dans ces deux pages !</label>
+			<label index="_func_2.seeAlso">_MOD_web_info:func_0,
+_MOD_web_info:pagetree_overview,
+pages:TSconfig</label>
+			<label index="func_hits.alttitle">Vues de statistiques</label>
+			<label index="func_hits.description">Vous pouvez choisir entre trois vues de statistiques dans la boite de sélection; 'Touches de pages', 'Nombre total de touches', 'Touches dans les sections principales'. Utilisez la boite de sélection de droite pour sélectionnez la profondeur de l'aperçu dans l'arborescence.</label>
+			<label index="func_hits.details">Vous pouvez consulter la page des statistiques jusqu’à 30 jours en arrière. Chaque jour est représenté dans sa propre colonne.
+Pour chaque page dans l'arborescence des pages, vous pouvez voir le nombre de visites chaque jour avec un nombre formaté comme [visites sur la page] / [sessions utilisateur]. Donc si le nombre est «286/34», cela signifie que la page avait 286 visites ce jour-là et qu'il y avait au moins 34 visiteurs uniques (équivalent à au moins deux visites par un utilisateur qui accepte les cookies sur le site).
+
+Ceci est un aperçu de la signification de chaque mode: 
+
+&lt;b&gt;Visites sur la page&lt;/b&gt;
+Cette page montre le nombre de visites/sessions pour chaque page.
+
+&lt;b&gt;Total des visites&lt;/b&gt;
+Cela montrera seulement les statistiques des pages qui ont un gabarit (avec la case "Racine du site" cochée). Cela signifie que ce nombre de visites est présenté comme le total pour tout le site.
+
+&lt;b&gt;Visites dans les sections principales&lt;/b&gt;
+Affiche le nombre total de pages consultées/sessions au sein des principales sections d'un site web. Une "section principale" est l'ensemble des sous-pages d'une page de niveau 1 d'un site web (définis par un gabarit Typoscript avec la case "Racine du site" cochée)</label>
+			<label index="_func_hits.image">EXT:cms/cshimages/pagetree_overview_2.png</label>
+			<label index="lang.alttitle">Localisation (vue d'ensemble)</label>
+			<label index="lang.description">Donne un aperçu montrant quelles pages de l'arborescence sont traduites pour les langues système installées.</label>
+			<label index="lang.details">La vue d'ensemble utilise des couleurs afin de signaler la disponibilité et l'héritage d'une page donnée.Voici une description des codes de couleur:
+&lt;b&gt;Fond "Vert":&lt;/b&gt;La page est traduite et visible dans cette langue. Pour la traduction cela signifie qu'un enregistrement de langue alternative de la page est présent et activé.
+&lt;b&gt;Fond "Rouge":&lt;/b&gt; La page &lt;em&gt;ne peut pas&lt;/em&gt; être visualisée dans cette langue et vous verrez un message d'erreur si vous essayez. Les menus devraient filtrer automatiquement les liens vers les pages avec cette traduction. &lt;b&gt;Gris (non disponible pour la langue par défaut):&lt;/b&gt; La page va hériter du mode d'héritage de contenu spécifié. Cela dépend de la configuration. (sys_language_mode = content_fallback est recommandé pour les héritage les plus flexibles, sys_language_mode = strict va empêcher cela et afficher une erreur à la place !).
+
+&lt;b&gt;Les "paramètres de localisation" des pages:&lt;/b&gt;
+Il s'agit des paramètres de localisation de la page déterminant les modes décrits plus haut. Dans la colonne de la traduction par défaut, chacun de ces paramètres est représenté par un "N" (Masquer la page si aucune traduction pour la langue actuelle existe) ou un «D» (Masquer la traduction par défaut de la page).
+Comme vous pouvez le voir la page "Démarrage" a la lettre N et par conséquent, tout accès à la version allemande de cette page sera bloqué avec un message d'erreur car il n'y a pas de traduction en allemand. Par défaut «l'accès allemand" à une page non traduite va juste vous montrer le contenu en anglais.
+Il y a aussi une page avec la lettre D (la page "[Dummy]»). Le drapeau D signifie que la page est uniquement disponible dans l'une des traductions, dans ce cas danois. Ainsi, toute tentative d'accès à la page dans la langue par défaut ou de l'allemand affichera un message d'erreur.
+
+Ainsi, lorsque les cases à cocher de «paramètres de localisation" d'une page sont utilisées, vous obtiendrez un message d'erreur lorsque vous essaierez de demander une page qui a été bloquée. C'est une caractéristique. L'astuce est de ne pas créer des liens vers ces pages.
+
+Les menus générés à partir d'objets HMENU prendront toujours en compte le paramètre "sys_language" et afficheront uniquement les pages qui peuvent être consultées pour une langue. Mais combiné avec le "paramètres de localisation» des pages qui peut bloquer l'accès aux pages cela devient un problème avec les pages qui &lt;em&gt;ne sont pas &lt;/ em&gt; traduites (a fond gris); Vous pouvez alors obtenir des menus avec des liens vers des pages non accessibles.
+Le problème est essentiellement dû au fait que «&amp;L=xx" est différent de "sys_language". Afin d'éviter cela, vous devez configurer "sys_language_mode" à "content_fallback". Si vous faites cela, sys_language va &lt;em&gt;toujours&lt;/em&gt; suivre ce que "&amp; L =" lui indique et vos menus seront corrects. Dans le même temps, vous obtiendrez le contenu affiché par défaut si aucune traduction n'existe (car la sélection du contenu s'hérite).
+
+Enfin, le nombre trouvé dans chaque colonne vous indique combien d'éléments de contenu sont trouvés dans la langue spécifiée.</label>
+			<label index="_lang.image">EXT:cms/cshimages/localizationoverview.png,
+EXT:cms/cshimages/localizationoverview1.png</label>
+			<label index="lang.image_descr">Aperçu de la localisation dans le module Web&gt;Info. Utilisez les boutons pour éditer, voir et créer de nouvelles en-têtes de traduction. Utilisez le module standard "Page" pour ajouter du contenu localisés sur vos pages.
+Les paramètres de localisation affectent la disponibilité des pages dans les différentes langues.</label>
+			<label index="pagetree_overview.alttitle">Arborescence (vue d'ensemble)</label>
+			<label index="pagetree_overview.description">La vue de l'arborescence montre des informations en relation avec les pages pour une branche de l'arbre. Ceci inclut le nombre d'enregistrement, des paramètres de page comme l'alias, période de visibilité, paramètre du cache etc.</label>
+			<label index="_pagetree_overview.image">EXT:cms/cshimages/pagetree_overview_1.png</label>
+			<label index="pagetree_overview.image_descr">L'une des caractéristiques du module arborescence est que vous pouvez voir quels types d'enregistrements sont présents sur les pages d'une branche. Voyez ici le nombre d'enregistrements pour une branche d'arborescence de 2 niveaux inférieurs.</label>
+			<label index="_pagetree_overview.seeAlso">_MOD_web_info:func_0,
+_MOD_web_info:func_1,
+_MOD_web_info:func_2,
+_MOD_web_info:stat</label>
+			<label index="stat.alttitle">Statistiques de fréquentation</label>
+			<label index="stat.description">Affiche les statistiques de touches (hits) pour chaque branche de l'arborescence. Basée uniquement sur les simples statistiques MySQL internes des enregistrements de page et de session.</label>
+			<label index="stat.details">&lt;b&gt;Note :&lt;/b&gt; Cette fonction requiert l'installation de l'extension "Simple hit statistics" (sys_stat). Vous devez également configurer en TypoScript l'enregistrement des hits dans la table des statistiques de la base de données.</label>
+			<label index="_stat.image">EXT:cms/cshimages/pagetree_overview_3.png</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

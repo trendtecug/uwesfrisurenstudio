@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="bodytext.description">Entrez le texte principal.</label>
+			<label index="bodytext.details">Le texte principal de l'élément de contenu est entré ici et peut être formaté avec HTML ou un éditeur de texte avec mise en forme. Le champ est réutilisé dans d'autres types d'élément de contenu, donc changer le type va faire que tout texte sera réutilisé dans ce nouveau type d'élément de contenu.Quand vous utilisez ce champ avec les types "Texte" et "Texte &amp; images", le contenu est normalement un corps de texte. Chaque saut de ligne signifie un nouveau paragraphe, vous pouvez utiliser le tag TYPO3 spécial, &amp;lt;LINK&amp;gt;, pour faire des liens. Vous pouvez utiliser bon nombre de tags HTML mais il y a des limitations suivant la configuration de votre site web.Un éditeur de texte riche est communément utilisé pour ajouter une interface d'édition visuelle pour des élément de contenu "Texte" et "Texte &amp; Images".&lt;b&gt;Liste à puces:&lt;/b&gt;Si le type est "Liste à puces", chaque ligne dans ce champ est un élément puce.&lt;b&gt;Tableaux:&lt;/b&gt;Si le type est "Tableaux", chaque ligne représente une rangée du tableau. À l'intérieur de chaque rangée, les colonnes sont séparées par des barres verticales ("|"). Une rangée de tableau avec 3 colonnes peut ressembler à "Voici la colonne 1 | Colonne 2 ici | Troisième colonne!". L'assistant du tableau peut être utilisé pour créer des tableaux et cela est bien plus aisé que de les coder à la main.&lt;b&gt;Paramètres:&lt;/b&gt;Les types tels que "Formulaire" et "Multimédia" utilisent ce champ pour des paramètres qui peuvent passer pour des éléments de contenu. Le type HTML s'attend à du HTML brut qui est simplement affiché sur le site sans aucun prétraitement.&lt;b&gt;Faire une formulaire d'envoi par courrier électronique:&lt;/b&gt; Quand vous avez sélectionné l'élément de contenu "Formulaire", vous pouvez renseigner le champ forme et d'autres options. voici un petit exemple:Votre nom : | *nom=input,40 | [Entrer nom!]Votre email: | *email=input,40Votre adresse: | adresse=textarea,40,10Votre couleur de cheveux : |cheveux=radio|Bleu=bleu,Rouge=rouge|formtype_mail = submit | Envoyer le formulaire|subject=hidden| Entrer un sujet ici|html_enabled=caché | 1Les deux premières lignes créent les champs d'entrée pour le nom et l'email. Tous deux sont marqués comme "requis" et sont désignés par une astérisque *, et le champ pour le nom a une valeur par défaut de "[Entrer votre nom!]".La troisième ligne est une boite de texte et la quatrième génère des boutons radio pour sélectionner une couleur de cheveux.Après les champs d'entrée, il y a trois autres lignes très importantes à la fin. La première génère une bouton pour soumettre avec l'étiquette "Envoyer le formulaire", la seconde ligne est le sujet du mail que le destinataire reçoit, et la troisième ligne formate l'email en utilisant du HTML.Comme l'assistant de tableau, il est plus facile d'utiliser l'assistant de formulaire plutôt que de coder à la main les formulaires.&lt;b&gt;Note:&lt;/b&gt; Pour qu'un formulaire fonctionne, vous devez ajouter une adresse email pour l'email de destinataire dans son champ.</label>
+			<label index="_bodytext.seeAlso">tt_content:CType,
+tt_content:subheader,
+xMOD_csh_corebe:wizard_forms_wiz,
+xMOD_csh_corebe:wizard_table_wiz</label>
+			<label index="colPos.description">Sélectionner la position de colonne de cet élément. &lt;strong&gt;Note:&lt;/strong&gt; Cela peut rendre l'élément de contenu visible ou non, suivant le modèle de votre site web.</label>
+			<label index="colPos.details">Beaucoup de sites web utilisent seulement une colonne de contenus. Certains modèles, cependant, vous laissent mettre du contenu dans plusieurs colonnes en utilisant l'option Colonne.Note: Sélectionner une colonne autre que "Normal" peut entraine la disparition de l'élément de contenu si le modèle du site web n'utilise pas cette colonne. Si votre élément de contenu disparait mystérieusement, vérifier que les sélecteurs de Colonne et Langue sont correctement fixés.</label>
+			<label index="_colPos.seeAlso">tt_content:sys_language_uid,
+_MOD_web_layout:columns_multi,
+_MOD_web_layout:columns_single</label>
+			<label index="cols.description">Sélectionnez un nombre fixe de colonnes</label>
+			<label index="CType.description">Sélectionnez le type de contenu de page que cet élément représente. De nouvelles options vont apparaitre quand vous sauvegardez l'archive.</label>
+			<label index="CType.details">Le "Type" de contenu que vous sélectionner détermine quelles options sont disponibles sous la forme d'édition, donc soyez sure de sauvegarder l'archive avant de faire d'autres modifications.Voici la description de divers types:HeaderCe type vous permet d'insérer un header d'élément de contenu standard et rien de plus.Presque tous les autres types décrits ci-dessous incluent aussi le header et ses options. Le type header fournit un moyen d'insérer un header sans aucun autre contenu.TexteLe type Text vous permet d'insérer un contenu de page ordinaire. Il est généralement utilisé pour des contenus ayant uniquement du texte.Texte &amp; ImageC'est le même que le type Texte (contenu de page ordinaire) mais avec l'option d'images jointes.ImageLe type Image vous autorise à insérer des contenus de page uniquement composés d'images.Liste à pucesIl vous laisse créer une liste à puces. Chaque ligne dans le champ de texte apparaitra avec une seule puce.TableCela vous permet de créer de simples tableaux. Chaque ligne représente une rangée dans le tableau et les barres verticales ("|") séparent chaque colonne. Un magicien contextuel est également disponible.Liens de fichiersVous permet de présenter une liste de fichiers pour téléchargement. Des miniatures peuvent être joints à la liste pour vous pouvez aussi afficher la taille du fichier.FormeCela vous permet de créer des formes de messagerie utilisant une syntaxe spéciale ou un magicien contextuel.RechercherCela insère une boite de recherche et montre aussi les résultats de recherche quand une recherche est réalisée sur la page.Se connecterAffiche un formulaire de connexion pour les utilisateurs du site web. Cela est utile seulement si vous avez déjà créé des statut d'utilisateur du site et de groupe d'utilisateur.Menu/Plan du siteOffre une sélection de menus et un plan du site que vous pouvez insérer sur la page.Insérer des archivesCela joue le rôle d'espace réservé pour d'autres archives. avec cet élément de contenu, vous pouvez réutiliser de multiples éléments de contenu venant d'autres pages.Insérer plug-inCela vous permet d'insérer des informations, forums, livres d'or, liste d'adresses, et autres fonctionnalités. Les plug-ins sont typiquement fourni par les extension TYPO3. Les champs disponibles et configuration requise dépendent de l'extension.DiviseurIl insère une simple règle horizontale sur la page.HTMLC'est le pur contenu HTML. Tout ce qui est ajouté au code HTML depuis cet élément de contenu sera affiché directement sur la page sans aucun prétraitement.</label>
+			<label index="_CType.image">EXT:context_help/Resources/Public/Images/cshimages/ttcontent_4.png</label>
+			<label index="_CType.seeAlso">tt_content:colPos,
+tt_content:sys_language_uid,
+Au sujet des éléments de contenu | https://docs.typo3.org/typo3cms/GettingStartedTutorial/EditAndCreatePagesAndContent/EditPageContent/</label>
+			<label index="date.description">Entrez une date à afficher au-dessus du header.</label>
+			<label index=".description">Tout contenu visible sur des pages web est typiquement construit à partir d'archives de contenus de page, auxquelles on se réfère souvent comme élément de contenu. Les éléments de contenu sont gérés par le module Page qui organise les éléments de contenu en multiples colonnes et langages.</label>
+			<label index=".details">Les archives de contenus de page sont triables et peuvent être réarrangées. Les sélecteurs de langue et de colonne des archives de contenus de page déterminent où et quand ils apparaissent. Si vous ne changez pas la valeur dans les sélecteurs de langue et de colonne, l'élément de contenu apparaitra dans la configuration par défaut.</label>
+			<label index="endtime.description">Entrez la date à laquelle l'élément de contenu devra expirer et disparaitre du site.</label>
+			<label index="_endtime.seeAlso">pages:endtime,
+tt_content:starttime,
+tt_content:hidden,
+tt_content:fe_group</label>
+			<label index="fe_group.description">Si les droits d'accès du groupe utilisateur sont définis pour un nom de groupe utilisateur, seuls les utilisateurs du site qui sont connecté et membres du groupe utilisateur sélectionné seront capable de voir l'élément de contenu. L'option spéciale " Cacher à la connexion" signifie que l'élément de contenu ne sera pas visible par aucun utilisateur du site qui est connecté. De la même manière, "Montrer à tous les connectés" rendra l'élément de contenu visible à tout utilisateur connecté au site.</label>
+			<label index="fe_group.details">Le "Cacher lors de la connexion" est utile si vous voulez présenter des informations comme "Comment se connecter" qui deviennent non pertinent quand un utilisateur du site est connecté.</label>
+			<label index="_fe_group.seeAlso">tt_content:hidden,
+tt_content:starttime,
+tt_content:endtime,
+pages:fe_group,
+fe_users,
+fe_groups</label>
+			<label index="filelink_size.description"/>
+			<label index="header.description">Entrez le texte de l'en-tête pour l'élément de contenu.</label>
+			<label index="header.details">Presque tous les éléments de contenu afficheront ce header au-dessus de leur contenu. Si vous ne voulez pas l'affichage du header, fixez la disposition du header sur "Caché". Vous pouvez aussi choisir de n'entrer aucun contenu dans ce champ.Certains types d'éléments de contenu n'affichent pas le header par défaut. Dans ces cas-là, le champ Header est typiquement appelé Nom à la place. Un exemple est l'élément de contenu HTML.</label>
+			<label index="_header.image">EXT:context_help/Resources/Public/Images/cshimages/ttcontent_6.png</label>
+			<label index="header_layout.description">Sélectionnez un design visuel pour le header.</label>
+			<label index="header_layout.details">Si vous sélectionnez "Par défaut", le design standard (qui est l'une des dispositions 1 à 5) sera utilisé.Alternativement, vous pouvez sélectionner les Disposition 1 à 5 qui sont configurée dans le modèle du site avec des design visuels individuels.si vous sélectionnez "Caché", le header n'apparaitre pas, tout simplement. Cela est utile quand vous n'avez pas besoin de l'affichage d'un header mais que vous voulez quand même identifier l'élément de contenu dans le Backend.</label>
+			<label index="_header_layout.seeAlso">tt_content:header</label>
+			<label index="header_link.description">Créé un lien entre le header et l'ID d'une page, une adresse mail, ou une URL.</label>
+			<label index="_header_link.seeAlso">tt_content:header</label>
+			<label index="header_link.syntax">Si vous insérez une ID de page (ex. 51), le lien va pointer la page avec ID=51 dans TYPO3.
+Si vous insérez une adresse mail (ex. nom@mon-domaine.test), le lien pointera vers cette adresse mail.
+Si vous insérez une URL ou un domaine (ex. www.typo3.org ou http://www.mon-domaine.org), le lien pointera vers ce site web.</label>
+			<label index="header_position.description">Aligne les headers sur la gauche, au centre, ou à droite.</label>
+			<label index="_header_position.seeAlso">tt_content:header</label>
+			<label index="_header.seeAlso">tt_content:header_position,
+tt_content:header_link,
+tt_content:header_layout,
+tt_content:date,</label>
+			<label index="hidden.description">Vérifiez cette boite si vous désirez désactiver l'élément de contenu et l'empêcher d'être affiché sur le site.</label>
+			<label index="_hidden.seeAlso">tt_content:starttime,
+tt_content:endtime,
+tt_content:fe_group,
+tt_content:colPos,
+tt_content:sys_language_uid</label>
+			<label index="_.image">EXT:context_help/cshimages/ttcontent_1.png,
+EXT:context_help/cshimages/ttcontent_2.png,
+EXT:context_help/cshimages/ttcontent_3.png</label>
+			<label index="imageborder.description">Affiche une bordure colorée autour des images.</label>
+			<label index="_imageborder.seeAlso">tt_content:imagecols,
+tt_content:image</label>
+			<label index="imagecaption.description">Entrez les légendes d'images. Pour plusieurs images, entrez une légende par ligne.</label>
+			<label index="imagecaption.details">Par défaut, la légende est placée sous l'image. Cependant, votre modèle TypoScript peut être configuré pour autoriser les légendes d'images individuelle, en fixant "styles.content.imgtext.captionSplit=1" dans les constantes de votre modèle.Dans ce cas, chaque ligne dans ce champ sera la légende de l'image correspondante dans la liste.Le champ de texte pour la légende est aussi utilisé par le type d'élément de contenu "Liens de fichiers", où chaque ligne représente une description d'un fichier de la liste.</label>
+			<label index="imagecaption_position.description">Aligne les headers sur la gauche, au centre, ou à droite.</label>
+			<label index="_imagecaption_position.seeAlso">tt_content:imagecols,
+tt_content:image</label>
+			<label index="_imagecaption.seeAlso">tt_content:imagecaption_position,
+tt_content:image</label>
+			<label index="imagecols.description">Fixe le nombre de colonnes quand les images sont affichées dans le Frontend du site.</label>
+			<label index="_imagecols.seeAlso">tt_content:image_noRows,
+tt_content:image</label>
+			<label index="image_compression.description">Sélectionnez les options de qualité d'image et de type d'image.</label>
+			<label index="_image_compression.seeAlso">tt_content:image_frames,
+tt_content:image_effects,
+tt_content:image</label>
+			<label index=".image_descr">Le module Page est utilisé pour gérer les éléments de contenu arrangés en colonnes et langues.Un élément de contenu a une forme d'édition avec plusieurs options. Le "Type" détermine quelles options sont visibles. Au niveau Frontend, un élément de contenu comme celui ci-dessus pourrait ressembler à ça.</label>
+			<label index="image.description">Insérez une ou plusieurs images.</label>
+			<label index="image.details">Vous pouvez joindre de multiples images à l'élément de contenu.Suivant la configuration de TYPO3, vous pouvez joindre des images dans différents formats sans vous soucier de leur taille et type de compression. Le traitement graphique de TYPO3 gère ces détails pour vous.Quand vous utilisez le type "Texte &amp; Image", il est important de sélectionner une position convenable pour les images. Pour cela, utilisez le sélecteur de Position et d'Alignement. Voir le lien pour "Contenu de page/ Position" ci-dessous.Vous pour aussi afficher des images dans de multiples colonnes et même permettre de choisir une option qui ouvre les images en taille maximale quand on clique sur un miniature.</label>
+			<label index="image_effects.description">Sélectionnez des effets de traitement spéciaux pour image, telles que la rotation ou l'ajustement des couleurs.</label>
+			<label index="_image_effects.seeAlso">tt_content:image_compression,
+tt_content:image_frames,
+tt_content:image</label>
+			<label index="image_frames.description">Sélectionnez des options spéciales de cadrage d'image.</label>
+			<label index="_image_frames.seeAlso">tt_content:image_compression,
+tt_content:image_effects,
+tt_content:image</label>
+			<label index="imageheight.description">Entrez la hauteur (en pixels) de l'affichage de l'image dans le Frontend de votre site.</label>
+			<label index="_imageheight.seeAlso">tt_content:imagewidth,
+tt_content:image</label>
+			<label index="_image.image">EXT:context_help/Resources/Public/Images/cshimages/ttcontent_5.png</label>
+			<label index="image.image_descr">Cela montre toutes les options relatives à l'insertion d'images dans l'élément de contenu. Suivant les droits d'utilisateur, vous pourrez ou non être capable de toutes les utiliser.</label>
+			<label index="image_link.description">Entrez un lien pour l'image. Pour de multiples images, séparez les liens par des virgules.</label>
+			<label index="image_link.details">Par défaut, toutes les images partagent le même lien. Votre modèle TypoScript peut être configuré pour autoriser un lien différent pour chaque image. Si c'est le cas, vous séparer tout simplement les liens par des virgules.Voir Contenu de page&gt;Lien ci-dessous pour des détails sur la syntaxe.</label>
+			<label index="_image_link.seeAlso">tt_content:header_link,
+tt_content:image_zoom,
+tt_content:image</label>
+			<label index="image_noRows.description">Désactive le quadrillage tableau dans le bloc image.</label>
+			<label index="image_noRows.details">Pour illustrer cela, imaginez que vous ayiez 2 colonnes et rangées d'images, voire plus. Si une image dans la rangée supérieure est plus grande que la seconde, cela va créer de l'espace vide sous la seconde image. Cela est dû au comportement classique des images contenues dans des cellules de tableau.Si vous activer l'option "Pas de rangées", le tableau placera les images dans une colonne à l'intérieur d'une seule cellule de tableau, ce qui fait que la distance entre elles verticalement identique de bout en bout. Cela peut vous apporter un meilleur visuel si l'alternative n'est pas acceptable.</label>
+			<label index="_image_noRows.seeAlso">tt_content:imagecols,
+tt_content:image</label>
+			<label index="imageorient.description">Sélectionnez la position et l'alignement des images relatives au corps de texte.</label>
+			<label index="imageorient.details">Les positions au-dessus et en-dessous du corps de texte sont plutôt simple.Les options "Dans le texte" signifient que les images sont affichées avec du texte tout autour d'elles. Quand vous sélectionnez cette option, le modèle va probablement forcer les images dans de plus petites dimensions pour se mettre en accord avec la largeur du modèle et la largeur du texte. Le corps de texte va flotter sous le bloc image quand il il parvient à la fin du bloc image. En d'autres mots, le corps de texte enveloppe le bloc image. Si vous sélectionnez "Dans le texte", en-dessous du diviseur "Pas d'emballage", le corps de texte ne flottera pas sous le bloc image, mais continuera simplement dans sa colonne.Mis à part la différence visuelle, il y en a également une sur l'aspect technique. Si vous choisissez d'autoriser le contenu à envelopper le bloc image, vous allez expérimenter un étrange phénomène quand vous n'avez pas assez de texte pour le faire flotte autour de l'image : des éléments de contenu subséquents sur la page vont apparaitre pour être superposées avec le bloc image. Cependant, ce problème est facilement résolu en maintenant la position "Dans le texte" à la même valeur, mais sous le diviseur "Pas d'emballage".</label>
+			<label index="_image.seeAlso">tt_content:imagewidth,
+tt_content:imageheight,
+tt_content:imageorient,
+tt_content:imageborder,
+tt_content:image_noRows,
+tt_content:image_link,
+tt_content:image_zoom,
+tt_content:imagecols,
+tt_content:imagecaption,
+tt_content:image_effects,
+tt_content:image_frames,
+tt_content:image_compression,
+Using images ("Getting Started") | http://typo3.org/documentation/document-library/doc_tut_quickstart/Managing_files_in_TY/
+Using images (Animation) | FILE:EXT:welcome/modsub/ani_10.gif</label>
+			<label index="imagewidth.description">Entrez la largeur (en pixels) pour l'affichage de l'image dans le Frontend de votre site web.</label>
+			<label index="imagewidth.details">Le modèle de TypoScript est normalement configuré avec la largeur d'image maximale donc vous ne devriez pas avoir besoin de préciser une largeur. Dans de rares cas particuliers, cela vous procure davantage de fléxibilité.</label>
+			<label index="_imagewidth.seeAlso">tt_content:imageheight,
+tt_content:image</label>
+			<label index="image_zoom.description">Quand l'option est activée, cliquer sur l'image va en faire apparaitre une version plus grande dans une fenêtre contextuelle.</label>
+			<label index="image_zoom.details">Cette option annule ce qui est entré dans le champ "Lien".</label>
+			<label index="_image_zoom.seeAlso">tt_content:image_link,
+tt_content:image</label>
+			<label index="layout.description">Sélectionnez une disposition.</label>
+			<label index="layout.details">Cette option ne marche pas par défaut pour tous les éléments de contenu, mais votre site web pour afficher les élément de contenu différemment suivant la disposition.L'élément de contenu Liens de fichiers fait usage du champ Disposition par défaut:"Normal" fournira une liste des liens de fichiers dans miniature."Disposition 1" ajoute un icône de fichier à gauche du lien."Disposition 2" ajoute un miniature des fichiers images et une icône pour les autres fichiers. Une bordure noire entoure l'icône."Disposition 3" est similaire à la Disposition 2, mais sans la bordure noire.</label>
+			<label index="linkToTop.description"/>
+			<label index="list_type.description">Sélectionnez le plugin à insérer.</label>
+			<label index="list_type.details"/>
+			<label index="_list_type.image">EXT:context_help/Resources/Public/Images/cshimages/ttcontent_7.png</label>
+			<label index="_list_type.seeAlso">_MOD_tools_em</label>
+			<label index="media.description">Les fichiers peuvent être ajoutés à cette liste.</label>
+			<label index="menu_type.description">Sélectionnez le type de menu que vous souhaitez créer.</label>
+			<label index="menu_type.details"/>
+			<label index="_menu_type.seeAlso">tt_content:pages,
+tt_content:sectionIndex</label>
+			<label index="multimedia.description">Insérez un élément multimédia (ex. Film flash)</label>
+			<label index="pages.description"/>
+			<label index="pages.details"/>
+			<label index="_pages.seeAlso">tt_content:CType,
+tt_content:recursive</label>
+			<label index="pi_flexform.description">Configuration du module</label>
+			<label index="pi_flexform.details"/>
+			<label index="_pi_flexform.seeAlso">tt_content:list_type</label>
+			<label index="records.description">Insérez les enregistrement à afficher sur cette page.</label>
+			<label index="recursive.description"/>
+			<label index="recursive.details"/>
+			<label index="_recursive.seeAlso">tt_content:pages</label>
+			<label index="rte_enabled.description"/>
+			<label index="_rte_enabled.seeAlso">tt_content:bodytext</label>
+			<label index="section_frame.description"/>
+			<label index="_section_frame.seeAlso">tt_content:spaceAfter,
+tt_content:section_frame</label>
+			<label index="sectionIndex.description"/>
+			<label index="sectionIndex.details"/>
+			<label index="_sectionIndex.seeAlso">tt_content:menu_type</label>
+			<label index="_.seeAlso">Principes de contenus de page | https://docs.typo3.org/typo3cms/GettingStartedTutorial/GeneralPrinciples/PageContent/,
+_MOD_web_layout</label>
+			<label index="select_key.description"/>
+			<label index="select_key.details"/>
+			<label index="_select_key.seeAlso">tt_content:list_type</label>
+			<label index="spaceAfter.description"/>
+			<label index="_spaceAfter.seeAlso">tt_content:spaceBefore,
+tt_content:section_frame</label>
+			<label index="spaceBefore.description"/>
+			<label index="_spaceBefore.seeAlso">tt_content:spaceAfter,
+tt_content:section_frame</label>
+			<label index="starttime.description">Entrez la date à laquelle l'élément de contenu devrait être publié et affiché sur le site.</label>
+			<label index="_starttime.seeAlso">pages:starttime,
+tt_content:endtime,
+tt_content:hidden,
+tt_content:fe_group</label>
+			<label index="subheader.description">Entrez un sous-titre à afficher sous le titre principal. Si l'élément de contenu est une Forme, ce champ est utilisé comme étant l'e-mail du destinataire à la place.</label>
+			<label index="subheader.details">Un sous-titre est affiché seulement avec des éléments de contenu "Titre" et avec des éléments de contenu "Forme" ( en tant que mail du destinataire).</label>
+			<label index="_subheader.seeAlso">tt_content:header
+tt_content:bodytext</label>
+			<label index="sys_language_uid.description">Sélectionnez le langage du système de cet élément de contenu. Note: Cela affectera la visibilité de l'élément de contenu en le restreignant à certaines langues.</label>
+			<label index="sys_language_uid.details">Cela vous permet d'assigner un langage spécifique à un élément de contenu. Si vous sélectionner une langue autre que celle par défaut, l'élément ne sera pas visible sauf si la langue assignée est aussi configurée par le modèle du TypoScript.Les langages du système disponibles sont créés par l'administrateur.</label>
+			<label index="_sys_language_uid.seeAlso">tt_content:colPos,
+sys_language,
+Localization concepts [Technical] | http://typo3.org/documentation/tips-tricks/multi-language-sites-in-typo3/,
+_MOD_web_layout:language_list</label>
+			<label index="table_bgColor.description">Sélectionnez une couleur de fond pour le tableau.</label>
+			<label index="table_border.description"/>
+			<label index="table_cellpadding.description"/>
+			<label index="table_cellpadding.details"/>
+			<label index="table_cellspacing.description"/>
+			<label index="table_cellspacing.details"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

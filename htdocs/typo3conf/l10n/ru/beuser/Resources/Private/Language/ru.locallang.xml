@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="activeOnly">Активный</label>
+			<label index="activeSessions">Активные сессии</label>
+			<label index="admin">Администратор</label>
+			<label index="adminOnly">Только для администраторов</label>
+			<label index="allowedLanguages">Ограничить языками</label>
+			<label index="any">Любой</label>
+			<label index="backendUserAdministration">Управление пользователями</label>
+			<label index="backendUserGroup">Группа пользователей</label>
+			<label index="backendUserGroups">Группы</label>
+			<label index="backendUserListing">Список пользователей</label>
+			<label index="backendUsers">Пользователи</label>
+			<label index="both">Любой</label>
+			<label index="changeToMode">[режим перехода]</label>
+			<label index="compare">Сравнить</label>
+			<label index="compareBackendUsers">Сравнить пользователей</label>
+			<label index="compareUserList">Сравнить списки пользователей</label>
+			<label index="confirm">Вы уверены, что хотите удалить пользователя административной части %s?</label>
+			<label index="dbMountPoints">Точки монтирования базы данных</label>
+			<label index="disable">Отключить</label>
+			<label index="disableIpLock">Отключить ограничение по IP</label>
+			<label index="email">E-mail</label>
+			<label index="endDateAndTime">Стоп</label>
+			<label index="endSession">Завершение сессии</label>
+			<label index="fileMounts">Точки монтирования файловой системы</label>
+			<label index="filter">Фильтр</label>
+			<label index="inactiveOnly">Неактивный</label>
+			<label index="ipAddress">IP адрес</label>
+			<label index="lastAccess">Последний доступ</label>
+			<label index="lastLogin">Последний вход</label>
+			<label index="loginBefore">Вход до</label>
+			<label index="never">Никогда</label>
+			<label index="neverLoggedIn">Никогда не входил</label>
+			<label index="no">Нет</label>
+			<label index="normalUserOnly">Только для обычных пользователей</label>
+			<label index="onlineUsers">Пользователи онлайн</label>
+			<label index="reallyLogout">Подтверждаете выход</label>
+			<label index="realName">Настоящее имя</label>
+			<label index="section.compare">Сравнить</label>
+			<label index="startDateAndTime">Старт</label>
+			<label index="status">Статус</label>
+			<label index="switchBackMode">Переключить на пользователя</label>
+			<label index="userName">Имя пользователия</label>
+			<label index="users">Пользователи</label>
+			<label index="yes">Да</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

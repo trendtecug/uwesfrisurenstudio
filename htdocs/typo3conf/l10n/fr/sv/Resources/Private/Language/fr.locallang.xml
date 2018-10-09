@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="any">Tous</label>
+			<label index="available">Disponible</label>
+			<label index="externals">Externe</label>
+			<label index="externals_explanation">La colonne "Externes" montre quels programmes externes est lié à un service donné. Si un tel programme est manquant ou non exécutable, le service ne sera pas disponible. Les chemins de recherche pour les exécutables sont listés sur le bas de ce rapport.</label>
+			<label index="no_search_paths">Aucun chemin de recherche configuré.</label>
+			<label index="os">OS</label>
+			<label index="path">Chemin</label>
+			<label index="priority">Priorité</label>
+			<label index="quality">Qualité</label>
+			<label index="report_description">Liste de tous les services installés avec information et statut pour chacun d'entre eux.</label>
+			<label index="report_explanation">Ce rapport affiche une liste des services installés avec des informations détaillées au sujet de chacun d'eux. Les services sont ordonnés par type, priorité et qualité. Les services non disponibles sont mis en évidence avec un statut d'erreur.</label>
+			<label index="report_title">Services installés</label>
+			<label index="search_paths">Chemins de recherche configurés pour les programmes externes</label>
+			<label index="service">Service</label>
+			<label index="service_type">Type de service: %s</label>
+			<label index="subtypes">Sous-types</label>
+			<label index="valid">Valable</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

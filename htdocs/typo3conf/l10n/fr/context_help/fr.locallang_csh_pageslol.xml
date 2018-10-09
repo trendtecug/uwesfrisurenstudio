@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="abstract.description">Saisissez un résumé de la langue alternative.</label>
+			<label index="_abstract.seeAlso">pages:abstract</label>
+			<label index="author.description">Saisissez l'auteur de la langue alternative.</label>
+			<label index="author_email.description">Saisissez l'adresse e-mail de l'auteur de la langue alternative.</label>
+			<label index="_author_email.seeAlso">pages:author_email</label>
+			<label index="_author.seeAlso">pages:author</label>
+			<label index=".description">Représente une langue alternative pour la page.</label>
+			<label index="description.description">Entrez la description de la langue alternative.</label>
+			<label index="_description.seeAlso">pages:description</label>
+			<label index=".details"/>
+			<label index="endtime.description"/>
+			<label index="_endtime.seeAlso">pages_language_overlay:starttime,
+pages_language_overlay:hidden,
+pages:endtime</label>
+			<label index="hidden.description"/>
+			<label index="hidden.details"/>
+			<label index="_hidden.seeAlso">pages_language_overlay:starttime,
+pages_language_overlay:endtime</label>
+			<label index="keywords.description">Ajoutez les mots-clés de la langue alternative.</label>
+			<label index="_keywords.seeAlso">pages:keywords</label>
+			<label index="media.description">Saisissez le titre de la langue alternative.</label>
+			<label index="_media.seeAlso">pages:media</label>
+			<label index="nav_title.description">Entrez un titre de navigation optionel pour la langue alternative.</label>
+			<label index="_.seeAlso">sys_language,
+_MOD_web_layout:language_list</label>
+			<label index="starttime.description"/>
+			<label index="_starttime.seeAlso">pages_language_overlay:endtime,
+pages_language_overlay:hidden,
+pages:starttime</label>
+			<label index="subtitle.description">Saisissez le sous-titre de la langue alternative.</label>
+			<label index="_subtitle.seeAlso">pages:subtitle</label>
+			<label index="sys_language_uid.description">Sélectionnez la langue alternative pour cet enregistrement.</label>
+			<label index="_sys_language_uid.seeAlso">sys_language,
+sys_language:title</label>
+			<label index="title.description">Saisissez le titre de la langue alternative.</label>
+			<label index="_title.seeAlso">pages:title</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

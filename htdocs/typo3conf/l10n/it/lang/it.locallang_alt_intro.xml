@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="endText">Le caratteristiche possono variare a seconda del sito web e dei permessi utente</label>
+			<label index="introtext">Web Content Management System</label>
+			<label index="introtext2">Breve descrizione dei moduli disponibili:</label>
+			<label index="userInfo">Hai avuto accesso come utente:</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

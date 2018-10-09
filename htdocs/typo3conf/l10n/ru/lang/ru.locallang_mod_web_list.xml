@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="clip_deleteMarked">Удалить выделенные</label>
+			<label index="clip_deleteMarkedWarning">Вы уверены, что хотите удалить все выделенные записи из таблицы '%s'</label>
+			<label index="clip_duplicates">Выделить дубликаты</label>
+			<label index="clip_editMarked">Редактировать выделенные</label>
+			<label index="clip_markRecords">Выделить все/Снять выделение</label>
+			<label index="clip_paste">Вставить содержимое Буфера обмена</label>
+			<label index="clip_pasteAfter">Вставка после: вставить содержимое Буфера обмена после этой записи</label>
+			<label index="clip_pasteInto">Вставка внутрь: вставить содержимое Буфера обмена в эту страницу</label>
+			<label index="clip_selectMarked">Передать выбранные записи в Буфер обмена</label>
+			<label index="contractView">Список всех таблиц</label>
+			<label index="defaultLanguage">Стандартный</label>
+			<label index="delete">Удалить запись (!)</label>
+			<label index="deleteWarning">Вы действительно хотите удалить эту запись?</label>
+			<label index="displayVersions">Показать версии</label>
+			<label index="edit">Редактировать запись</label>
+			<label index="editPage">Свойства страницы</label>
+			<label index="editShownColumns">Редактировать все поля перечисленных записей</label>
+			<label index="editThisColumn">Редактировать поле '%s' перечисленных записей</label>
+			<label index="expandView">Список только этих таблиц</label>
+			<label index="hide">Сделать запись невидимой</label>
+			<label index="hidePage">Сделать страницу невидимой</label>
+			<label index="history">Показать историю изменений / Отмена</label>
+			<label index="largeControl">Расширенный вид</label>
+			<label index="localization">Просмотр переводов</label>
+			<label index="Localize">Перевести на:</label>
+			<label index="missingTcaColumnsMessage">Внимание: не найдено полей для таблицы "%s". $TCA['%s']['columns'] не содержит необходимых определений.</label>
+			<label index="missingTcaColumnsMessageTitle">Ошибочное определение TCA</label>
+			<label index="mlang_labels_tabdescr">Модуль Веб&gt;Список обеспечивает доступ к наиболее широкому количеству элементов и параметров страницы.</label>
+			<label index="mlang_labels_tablabel">Список записей базы данных</label>
+			<label index="mlang_tabs_tab">Список</label>
+			<label index="moveDown">Переместить ниже по списку</label>
+			<label index="move_page">Переместить страницу</label>
+			<label index="move_record">Перемещение записи</label>
+			<label index="moveUp">Переместить выше по списку</label>
+			<label index="multipleLanguages">Все языки</label>
+			<label index="new">Создать запись</label>
+			<label index="newPage">Создать новую страницу после этой</label>
+			<label index="newRecord">Создать новую запись после этой</label>
+			<label index="newRecordGeneral">Создать новую запись</label>
+			<label index="nextLevel">Переместить эту страницу дальше от корня дерева (так, чтобы она стала подстраницей той страницы, которая сейчас в предыдущей строке списка)</label>
+			<label index="pageIndicator">Страница %1$s из %2$d</label>
+			<label index="permissions">Установить права доступа к странице</label>
+			<label index="prevLevel">Переместить страницу ближе к корню дерева (так, чтобы она располагалась сразу после страницы, которая сейчас является родительской)</label>
+			<label index="rangeIndicator">Записи %1$d - %2$d</label>
+			<label index="restore">Восстановить запись</label>
+			<label index="restoreWarning">Вы действительно хотите восстановить удаленную запись?</label>
+			<label index="showClipBoard">Показать Буфер обмена</label>
+			<label index="showInfo">Показать информацию</label>
+			<label index="unHide">Сделать запись видимой</label>
+			<label index="unHidePage">Сделать страницу видимой</label>
+			<label index="viewRecords">Просмотр записей</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

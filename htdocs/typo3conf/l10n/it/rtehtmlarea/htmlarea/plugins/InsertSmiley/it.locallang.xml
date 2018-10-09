@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="Cancel">Annulla</label>
+			<label index="Insert Smiley">Inserisci Smiley</label>
+			<label index="mozilla_cool"/>
+			<label index="mozilla_cry"/>
+			<label index="mozilla_embarassed"/>
+			<label index="mozilla_footinmouth"/>
+			<label index="mozilla_frown"/>
+			<label index="mozilla_innocent"/>
+			<label index="mozilla_kiss"/>
+			<label index="mozilla_laughing"/>
+			<label index="mozilla_moneyinmouth"/>
+			<label index="mozilla_sealed"/>
+			<label index="mozilla_smile">Smiley</label>
+			<label index="mozilla_surprised"/>
+			<label index="mozilla_tongueout"/>
+			<label index="mozilla_undecided"/>
+			<label index="mozilla_wink"/>
+			<label index="mozilla_yell"/>
+			<label index="Smiley">Smiley</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

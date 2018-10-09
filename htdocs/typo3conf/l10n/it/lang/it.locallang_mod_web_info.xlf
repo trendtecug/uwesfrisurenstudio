@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-30T02:30:50Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="depth_0" xml:space="preserve" approved="yes">
+				<source>This page</source>
+			<target state="translated">Questa pagina</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="depth_1" xml:space="preserve" approved="yes">
+				<source>1 level</source>
+			<target state="translated">1 livello</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="depth_2" xml:space="preserve" approved="yes">
+				<source>2 levels</source>
+			<target state="translated">2 livelli</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="depth_3" xml:space="preserve" approved="yes">
+				<source>3 levels</source>
+			<target state="translated">3 livelli</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="mlang_labels_tabdescr" approved="yes">
+				<source>The Web&gt;Info module is focused on statistic information about pages. This includes statistics of pagehits and a changelog allowing browsing of page history changes. An overview of the number of records on each page as well as page settings presented in a classic tree structure is provided.</source>
+				<target state="translated">Il modulo Web&gt;Info si occupa di informazioni di tipo statistico sulle pagine. Fra queste informazioni si trovano il numero di hit ed il log dei cambiamenti della pagina, che permette di scorrere la storia delle modifiche. E' possibile inoltre avere una vista d'insieme sul numero e tipo dei record presenti. Tali informazioni sono presentate nella classica struttura ad albero.</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Il modulo Web&gt;Info si occupa di informazioni di tipo statistico sulle pagine. Fra queste informazioni si trovano il numero di hit ed il log dei cambiamenti della pagina, che permette di scorrere la storia delle modifiche. È possibile inoltre avere una vista d'insieme sul numero e tipo dei record presenti. Tali informazioni sono presentate nella classica struttura ad albero.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tablabel" approved="yes">
+				<source>Page related information, eg. hit statistics, change log, record counts</source>
+				<target state="translated">Informazioni correlate alla pagina, quali log dei cambiamenti e statistiche sulla pagina e sui record</target>
+			</trans-unit>
+			<trans-unit id="mlang_tabs_tab" approved="yes">
+				<source>Info</source>
+				<target state="translated">Informazioni</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Page information</source>
+				<target state="translated">Informazioni sulla pagina</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="action-items">Действия</label>
+			<label index="component-items">Компоненты</label>
+			<label index="Default">По умолчанию</label>
+			<label index="detail">Деталь</label>
+			<label index="DynamicCSSStyleTooltip">Применить стиль к абзацу</label>
+			<label index="frame-frame1">Рамка с серым фоном</label>
+			<label index="frame-frame2">Рамка с желтым фоном</label>
+			<label index="important">Внимание</label>
+			<label index="name-of-person">Имя человека</label>
+			<label index="Undefined">Неопределено</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="description">В корзине можно выбрать удаленные данные и вернуть их. Можно вернуть и родительские элементы, если и они удалены также.</label>
+			<label index="js.label_boxLabel_undelete_recursive">Восстановить рекурсивно</label>
+			<label index="js.label_clear">Очистить</label>
+			<label index="js.label_crdate">Создать</label>
+			<label index="js.label_deleteButton_text">Удалить</label>
+			<label index="js.label_deleteButton_tooltip">Удалить выбранные элементы</label>
+			<label index="js.label_deletedTab">Удаленные данные</label>
+			<label index="js.label_doDelete_confirmText">Удалить эту запись И, если это страница ВСЕ сопутствующие ей записи?&lt;br/&gt;ВНИМАНИЕ: данные будут безвозвратно удалены из базы данных.</label>
+			<label index="js.label_error_NoSelectedRows_msg">Нужно выбрать строку!</label>
+			<label index="js.label_error_NoSelectedRows_title">Строки не выбраны</label>
+			<label index="js.label_filter">Фильтр</label>
+			<label index="js.label_filter_emptyText">Ключевые слова</label>
+			<label index="js.label_loadMessage">Ждите...&lt;br/&gt;Записи загружаются!</label>
+			<label index="js.label_lostandfound">Бюро находок</label>
+			<label index="js.label_no">Нет</label>
+			<label index="js.label_noValueFound">Нет записей для {0}</label>
+			<label index="js.label_owner">Владелец</label>
+			<label index="js.label_pagingEmpty">Нет записей для отображения</label>
+			<label index="js.label_pagingMessage">Отображаются записи {0} - {1} из {2}</label>
+			<label index="js.label_records">Записи</label>
+			<label index="js.label_search">Поиск:</label>
+			<label index="js.label_sure">Вы уверены?</label>
+			<label index="js.label_table">Таблица</label>
+			<label index="js.label_tableMenu_emptyText">Выберете таблицу...</label>
+			<label index="js.label_tableMenu_label">Таблица:</label>
+			<label index="js.label_text_delete">Удалить записи из таблиц:</label>
+			<label index="js.label_text_undelete">Восстановить записи из таблиц:</label>
+			<label index="js.label_title_delete">Удалить?</label>
+			<label index="js.label_title_undelete">Восстановить?</label>
+			<label index="js.label_tstamp">Последнее редактирование</label>
+			<label index="js.label_undeleteButton_text">Восстановить</label>
+			<label index="js.label_undeleteButton_tooltip">Восстановить выбранные элементы</label>
+			<label index="js.label_yes">Да</label>
+			<label index="label_alltables">Все таблицы</label>
+			<label index="title">Корзина</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

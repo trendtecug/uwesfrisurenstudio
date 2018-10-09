@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="mlang_labels_tabdescr">Le Centre de Tâches vous donne accès au notes internes, aux tâches 'A faire', aux actions, ... Il vous donne aussi accès à vos modules 'Frontend' et les pages éditées récemment. Le Centre de Tâches est l'endroit ou vous voyez votre travail quotidien et le workflow</label>
+			<label index="mlang_labels_tablabel">Centre de Tâches avec résumé, messages et listes 'A faire'</label>
+			<label index="mlang_tabs_tab">Centre de Tâches</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

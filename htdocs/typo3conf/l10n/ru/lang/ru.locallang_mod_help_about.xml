@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="cms_description">TYPO3 CMS представляет собой Систему Управления Контентом с открытым исходным кодом корпоративного класса, она используется во всем мире для создания и управления веб-сайтами всех типов, от небольших сайтов для некоммерческих организаций до многоязычных корпоративных решений для крупных корпораций.&lt;br /&gt;&lt;br /&gt;Для получения дополнительной информации посетите сайт &lt;a href="https://typo3.org/typo3-cms/" target="_blank"&gt;typo3.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;TYPO3 CMS находится в &lt;b&gt;свободном доступе&lt;/b&gt; под &lt;a href="https://typo3.org/typo3-cms/overview/licenses/" target="_blank"&gt;TYPO3-license (GNU/GPL)&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Вы используете версию %s - Авторские права %s %s</label>
+			<label index="community_credits">Список разработчиков</label>
+			<label index="coredevs">Рабочая группа</label>
+			<label index="coredevs_detail">Посетите &lt;a href="https://typo3.org/teams-committees/core-development/" target="_blank"&gt;typo3.org/teams-committees/core-development/&lt;/a&gt; чтобы увидеть полный список членов группы.&lt;br /&gt;&lt;br /&gt;Репозиторий Git и список изменений можно найти &lt;a href="http://forge.typo3.org/projects/show/typo3v4-core/" target="_blank"&gt;здесь&lt;/a&gt;.</label>
+			<label index="donation_button">Пожертвовать</label>
+			<label index="donation_header">Пожертвование TYPO3</label>
+			<label index="donation_message">Замечательно, если Вы сделайте пожертвование. TYPO3 является программным обеспечением с открытым исходным кодом, сильно зависимым от пожертвований от пользователей и сторонников.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Благодарим&lt;/b&gt; за участие в жизни этой замечательной Системы Управления Содержимым, которая при этом становиться все лучше и лучше!</label>
+			<label index="extension">Расширение</label>
+			<label index="extension_author">Автор</label>
+			<label index="extension_authors">Авторы расширений</label>
+			<label index="extension_list_info">Список людей, которые внесли свой вклад в используемые вами расширения.</label>
+			<label index="external_libraries">Внешние библиотеки</label>
+			<label index="external_thanks">Ядро TYPO3 использует и благодарит следующие внешние проекты с открытым исходным кодом:</label>
+			<label index="information">Информация о TYPO3</label>
+			<label index="information_detail">Посетите &lt;a href="https://typo3.org/community/" target="_blank"&gt;typo3.org/community/&lt;/a&gt; если хотите знать почему TYPO3 рулит.</label>
+			<label index="minor">TYPO3 CMS представляет собой Систему Управления Контентом с открытым исходным кодом корпоративного класса, она используется во всем мире для создания и управления веб-сайтами всех типов, от небольших сайтов для некоммерческих организаций до многоязычных корпоративных решений для крупных корпораций.&lt;br /&gt;&lt;br /&gt;Для получения дополнительной информации посетите сайт &lt;a href="https://typo3.org/typo3-cms/" target="_blank"&gt;typo3.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;TYPO3 CMS находится в &lt;b&gt;свободном доступе&lt;/b&gt; под &lt;a href="https://typo3.org/typo3-cms/overview/licenses/" target="_blank"&gt;TYPO3-license (GNU/GPL)&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Вы используете %s %s</label>
+			<label index="mlang_labels_tabdescr">Содержит основные сведения о системе Тypo3, ее версию и условия лицензирования</label>
+			<label index="mlang_labels_tablabel">Информация о TYPO3</label>
+			<label index="mlang_tabs_tab">О TYPO3</label>
+			<label index="title">Информация о TYPO3</label>
+			<label index="typo3_logo">Логотип TYPO3</label>
+			<label index="welcome">Профессиональная система управления веб-содержимым TYPO3</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

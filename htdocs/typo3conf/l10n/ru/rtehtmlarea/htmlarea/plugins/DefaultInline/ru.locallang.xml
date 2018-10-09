@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="Bold-Tooltip">Полужирный</label>
+			<label index="Italic-Tooltip">Курсив</label>
+			<label index="StrikeThrough-Tooltip">Зачёркивание</label>
+			<label index="Subscript-Tooltip">Нижний индекс</label>
+			<label index="Superscript-Tooltip">Верхний индекс</label>
+			<label index="Underline-Tooltip">Подчёркивание</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

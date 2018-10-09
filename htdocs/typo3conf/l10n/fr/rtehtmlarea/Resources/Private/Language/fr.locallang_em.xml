@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="rtehtmlarea.config.allowStyleAttribute"/>
+			<label index="rtehtmlarea.config.AspellDirectory"/>
+			<label index="rtehtmlarea.config.defaultConfiguration"/>
+			<label index="rtehtmlarea.config.enableAccessibilityIcons"/>
+			<label index="rtehtmlarea.config.enableImages"/>
+			<label index="rtehtmlarea.config.enableInlineElements"/>
+			<label index="rtehtmlarea.config.forceCommandMode"/>
+			<label index="rtehtmlarea.config.noSpellCheckLanguages"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

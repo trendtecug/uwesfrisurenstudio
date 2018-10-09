@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+      <label index="mlang_labels_tablabel">Сервис установки</label>
+      <label index="mlang_labels_tabdescr">Ссылка на сервис установки. Обратите внимание, что сервис установки должен быть включен в файле typo3/install/index.php.&lt;br /&gt;&lt;em&gt;Доступ только для администраторов!&lt;/em&gt;</label>
+      <label index="mlang_tabs_tab">Установка</label>
+      <label index="confirmUnlockInstallToolTitle">Install&amp;nbsp;Tool заблокирован</label>
+      <label index="confirmUnlockInstallToolMessage">&lt;p&gt;По соображениям безопасности Install&amp;nbsp;Tool по умолчанию заблокирован.&lt;/p&gt;
+&lt;p&gt;Для разблокирования Install&amp;nbsp;Tool, необходимо создать пустой файл с названием ENABLE_INSTALL_TOOL в папке typo3conf/.&lt;/p&gt;
+&lt;p&gt;Нажав кнопку ниже, это файл будет создан, и появится возможность работать с Install&amp;nbsp;Tool.&lt;/p&gt;
+&lt;p&gt;По завершению работы, рекомендуется выйти из Install&amp;nbsp;Tool. Иначе
+TYPO3 автоматически заблокирует Install&amp;nbsp;Tool через час.&lt;/p&gt;</label>
+      <label index="confirmUnlockInstallToolButton">Разблокировать Install&amp;nbsp;Tool</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

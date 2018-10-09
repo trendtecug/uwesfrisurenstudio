@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="keys">Ключи расширений:</label>
+			<label index="none">Нет</label>
+			<label index="title">Установлены конфликтующие расширения</label>
+			<label index="uninstall">Для правильной работы редактора htmlArea, необходимо удалить конфликтующие расширения.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="actionSendToStage">Proposer à la modification</label>
+			<label index="cancel">annuler</label>
+			<label index="chooseAction">choisir une action</label>
+			<label index="chooseMassAction">choisir un traitement par lot</label>
+			<label index="close">Fermer</label>
+			<label index="column.actions">Actions</label>
+			<label index="column.changeDate">Modification</label>
+			<label index="column.difference">Différence</label>
+			<label index="column.livePath">Chemin Live</label>
+			<label index="column.liveTitle">Titre Live</label>
+			<label index="column.oid">Identifiant de l'espace de travail Live</label>
+			<label index="column.stage">État actuel</label>
+			<label index="column.uid">Identifiant de l'espace de travail</label>
+			<label index="column.workspaceName">Espace de travail</label>
+			<label index="column.wsPath">Chemin</label>
+			<label index="column.wsSwapColumn">Basculer l'espace de travail</label>
+			<label index="column.wsTitle">Modifié</label>
+			<label index="comments">Commentaires utilisateur pour l'&lt;b&gt;étape {0} de l'état&lt;/b&gt; "{1}"</label>
+			<label index="current_step">&lt;b&gt;État courant&lt;/b&gt; : {0} (&lt;b&gt;{1}&lt;/b&gt;/{2})</label>
+			<label index="editorInLive">Vous êtes dans l'espace de travail "Live". Vous devez choisir un espace de travail de projet
+	 	 	 	 	 avant de pouvoir soumettre à revue et publier les modifications.
+	 	 	 	</label>
+			<label index="error.getStageTitle.stageNotFound">Etape non trouvée</label>
+			<label index="error.noResponse">Le serveur n'a pas envoyé de réponse même si l'action a été couronnée de succès.</label>
+			<label index="error.sendToNextStage.noRecordFound">Cet élément ne peut pas être trouvé.</label>
+			<label index="error.sendToPrevStage.noPreviousStage">L'enregistrement est déjà dans l'état d'édition, il n'y a pas d'état précédent.</label>
+			<label index="error.stageId.integer">Le StageId est supposé être un entier</label>
+			<label index="error.stageId.invalid">L'étape à utiliser semble invalide et ne peut être utilisée. Essayez d'employer l'assistant de 
+	 	 	 	 	 mise à jour dans l'outil d'installation Typo3 pour résoudre le problème.
+	 	 	 	</label>
+			<label index="info.elementAlreadyModified">L'élément est dans l'état "%s", les modifications vont le renvoyer dans l'état "%s".</label>
+			<label index="info.newpage">Nouvelle page !</label>
+			<label index="info.newpage.detail">La page prévisualisée a été créée dans un espace de travail et n'a pas de page En ligne correspondante.</label>
+			<label index="integrity.dependsOnDefaultLanguageRecord">L'enregistrement "%s" dépend de la langue de l'enregistrement</label>
+			<label index="integrity.hasIssuesDescription"/>
+			<label index="integrity.hasIssuesQuestion">Voulez-vous continuer ?</label>
+			<label index="integrity.isDefaultLanguageRecord"/>
+			<label index="item">élément</label>
+			<label index="items">éléments</label>
+			<label index="label_doaction_discard">Abandonner</label>
+			<label index="label_doaction_generatePreviewLinks">Générer un lien de prévisualisation de l'espace de travail</label>
+			<label index="label_doaction_publish">Publier</label>
+			<label index="label_doaction_swap">Permuter</label>
+			<label index="language.allLanguages">Toutes les langues</label>
+			<label index="language.selectLanguage">Toutes les lanques</label>
+			<label index="legend.deleted">supprimé</label>
+			<label index="legend.edited">édité</label>
+			<label index="legend.hidden">caché</label>
+			<label index="legend.label">Légende:</label>
+			<label index="legend.moved">déplacé</label>
+			<label index="legend.new">créé</label>
+			<label index="live_workspace">Espace de travail Live</label>
+			<label index="ok">ok</label>
+			<label index="path">&lt;b&gt;Chemin&lt;/b&gt; : {0}</label>
+			<label index="previewLink">Lien de prévisualisation</label>
+			<label index="preview.listView">Vue en liste</label>
+			<label index="preview.livePreview">Live</label>
+			<label index="preview.livePreviewDetail">Cliquer sur cet élément pour masquer la version de l'espace de travail, et voir la version En ligne de la page.</label>
+			<label index="preview.modeHbox">Horizontal</label>
+			<label index="preview.modeSlider">Curseur</label>
+			<label index="preview.modeVbox">Vertical</label>
+			<label index="preview.visualPreview">Prévisualisation</label>
+			<label index="preview.workspacePreview">Espace de travail</label>
+			<label index="preview.workspacePreviewDetail">Cliquez sur cet élément pour masquer la version live de la page et en voir la version de l'espace de travail.</label>
+			<label index="publish_execute_action_option">Publier sur le site</label>
+			<label index="recordsToDisplay">Enregistrements à afficher</label>
+			<label index="reviewandpublish">relecture et publication</label>
+			<label index="rowDetails">Détails...</label>
+			<label index="runMassAction.done">Traitement de %d éléments effectué</label>
+			<label index="runMassAction.init">initialisation</label>
+			<label index="stage">État {0}</label>
+			<label index="status.error">Erreur</label>
+			<label index="status.info">Information</label>
+			<label index="status.warning">Attention</label>
+			<label index="title">Espaces de travail</label>
+			<label index="tooltip.affectWholeWorkspace">Notez que ceci affectera tous les changements de l'espace de travail courant, ce qui peut 
+	 	 	 	 	 inclure plus d'éléments que ceux que vous voyez actuellement à l'écran.
+	 	 	 	</label>
+			<label index="tooltip.discardAll">Voulez-vous vraiment annuler toutes les modifications de l'espace de travail ?</label>
+			<label index="tooltip.discardSelected"/>
+			<label index="tooltip.discardVersion">Abandonner la version de cette enregistrement dans l'espace de travail</label>
+			<label index="tooltip.editElementAction">Modifier l'élément</label>
+			<label index="tooltip.generatePagePreview">Prévisualiser la page</label>
+			<label index="tooltip.openPage">Ouvrir cette version de la page</label>
+			<label index="tooltip.publishAll">Publication intégrale de l'espace de travail ?</label>
+			<label index="tooltip.publishSelected"/>
+			<label index="tooltip.sendToNextStage">Envoyer l'enregistrement à l'état suivant</label>
+			<label index="tooltip.sendToPrevStage">Ramener l'enregistrement à l'état précédent</label>
+			<label index="tooltip.showHistory">Montrer l'historique de la version du workspace</label>
+			<label index="tooltip.swap">Basculer la version Live et celle de l'espace de travail de l'enregistrement</label>
+			<label index="tooltip.swapAll">Bascule intégrale de l'espace de travail ?</label>
+			<label index="tooltip.swapSelected"/>
+			<label index="tooltip.viewElementAction">Prévisualisation de l'élément</label>
+			<label index="warning.oldStyleWorkspaceInUser">Il semble que vous employez toujours l'ancienne version des espaces de travail. Utilisez les scripts de mise à jour de l'outil d'installation TYPO3 pour réaliser les mises à jour nécessaires. Si vous continuez à employer ce module sans réaliser ces mises à jour, vous êtes susceptible de perdre des données.</label>
+			<label index="window.discardAll.message">Souhaitez vous vraiment abandonner toutes les versions de cette page ?</label>
+			<label index="window.discardAll.title">Abandonner toutes les versions de la page actuelle dans l'espace de travail.</label>
+			<label index="window.discard.message">Souhaitez vous vraiment abandonner cette version de l'espace de travail ?</label>
+			<label index="window.discard.title">Abandonner la version de cet enregistrement dans l'espace de travail.</label>
+			<label index="window.massAction.title">Traitement par lots en cours de préparation</label>
+			<label index="window.selectionAction.title"/>
+			<label index="window.sendToNextStageWindow.additionalRecipients">Envoyer une copie à</label>
+			<label index="window.sendToNextStageWindow.comments">Commentaires</label>
+			<label index="window.sendToNextStageWindow.itemsWillBeSentTo">Les éléments sélectionnés seront envoyés</label>
+			<label index="window.sendToNextStageWindow.sendMailTo">Envoyer le mail à</label>
+			<label index="window.swap.message">Souhaitez vous vraiment basculer cette versions ?</label>
+			<label index="window.swap.title">Basculer les versions</label>
+			<label index="workspacelist">Liste des espaces de travail</label>
+			<label index="workspace_version">Version de l'espace de travail</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

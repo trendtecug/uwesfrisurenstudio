@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="de" type="array">
+			<label index="tt_content.table_caption">Tabellenunterschrift</label>
+			<label index="tt_content.table_delimiter">Feldbegrenzer</label>
+			<label index="tt_content.table_delimiter.124">| (Pipe)</label>
+			<label index="tt_content.table_delimiter.44">, (Komma)</label>
+			<label index="tt_content.table_delimiter.58">: (Doppelpunkt)</label>
+			<label index="tt_content.table_delimiter.59">; (Semikolon)</label>
+			<label index="tt_content.table_delimiter.9">⇥ (Tab)</label>
+			<label index="tt_content.table_enclosure">Texteinfassung</label>
+			<label index="tt_content.table_enclosure.0">Keine</label>
+			<label index="tt_content.table_enclosure.34">" (doppelte Anführungszeichen)</label>
+			<label index="tt_content.table_enclosure.39">' (einfache Anführungszeichen)</label>
+			<label index="tt_content.table_header_position">Position des Tabellenkopfes</label>
+			<label index="tt_content.table_header_position.0">Keine Kopfzeile</label>
+			<label index="tt_content.table_header_position.1">Oben</label>
+			<label index="tt_content.table_header_position.2">Links</label>
+			<label index="tt_content.table_tfoot">Tabellenfuß verwenden (letzte Zeile in &lt;tfoot&gt;-Tags einschließen)</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

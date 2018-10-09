@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+      <label index="mlang_labels_tablabel">Управление внутренними пользователями</label>
+      <label index="mlang_labels_tabdescr">Модуль управления пользователями предоставляет обзор всех внутренних пользователей. Можно группировать их по их свойствам, для просмотра их прав, корневых папок файлов, TSconfig, вхождение в группы и т.д. Этот модуль - незаменимый инструмент для проверки настройки пользователей.&lt;BR&gt;&lt;em&gt;Доступ только для пользователей 'Admin'!&lt;/em&gt;</label>
+      <label index="mlang_tabs_tab">Управление пользователями</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

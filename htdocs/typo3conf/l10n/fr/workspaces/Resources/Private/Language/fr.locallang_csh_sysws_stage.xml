@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="allow_notificaton_settings.description">Désactiver cette case à cocher afin de masquer les champs de destinataires principal et additionnels de la fenêtre popup pour le changement d'état. Les notifications sont de toute manière envoyées en arrière-plan, mais elles sont basées sur la configuration dans les paramètres de changement d'états.</label>
+			<label index="default_mailcomment.description">Il est ici possible de définir un commentaire standard par email qui sera inséré dans l'email de changement d'état. Si aucun commentaire standard n'est défini ici, il sera possible d'en écrire un par la suite, à chaque changement d'état.</label>
+			<label index=".description">Définit les stades d'un espace de travail personnalisé dans TYPO3, qui permet aux groupes d'individus de travailler ensemble dans un processus défini. Plus d'information à propos des espaces de travail dans le document "Inside TYPO3".</label>
+			<label index="notification_defaults.description">Sélectionnez les utilisateurs backend ou les groupes backend qui devraient être sélectionnés par défaut pour recevoir un email de notification. Ne sélectionnez que des utilisateurs/groupes qui sont aussi des responsables de cet état.</label>
+			<label index="notification_mode.description">Vous pouvez choisir un des trois réglages pour la liste suggérée de destinataires lors des changements d'état. Dans la plupart des configurations, l'option par défaut est la plus appropriée. Pour une explication détaillée de chacun des options, merci de vous reporter à la documentation.</label>
+			<label index="responsible_persons.description">Définit quels utilisateurs BE sont responsables de cet état d'espace de travail. Ces utilisateurs BE sélectionnés sont des destinataires possibles pour les courriers électroniques envoyés aux changements d'état.</label>
+			<label index="title.description">Entrer le nom de l'état de l'espace de travail.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

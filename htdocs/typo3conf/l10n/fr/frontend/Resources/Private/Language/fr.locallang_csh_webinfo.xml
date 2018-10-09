@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="func_0.alttitle">Configuration de base</label>
+			<label index="func_0.description"/>
+			<label index="func_0.details"/>
+			<label index="_func_0.image">EXT:frontend/Resources/Public/Images/cshimages/pagetree_overview_4.png,
+EXT:frontend/Resources/Public/Images/cshimages/pagetree_overview_8.png,
+EXT:frontend/Resources/Public/Images/cshimages/pagetree_overview_9.png</label>
+			<label index="func_0.image_descr"/>
+			<label index="_func_0.seeAlso">xMOD_csh_corebe:list_module,
+_MOD_web_info:func_2,
+_MOD_web_info:pagetree_overview</label>
+			<label index="func_1.alttitle">Aperçu des enregistrements</label>
+			<label index="func_1.description"/>
+			<label index="func_1.details"/>
+			<label index="_func_1.image">EXT:frontend/Resources/Public/Images/cshimages/pagetree_overview_6.png</label>
+			<label index="func_1.image_descr">Vous pouvez facilement voir la répartition des éléments de contenus sur cette page. Vous pouvez aussi voir les enregistrements de gabarits - ainsi que les autres enregistrements - qui sont localisés dans cette arborescence.</label>
+			<label index="_func_1.seeAlso">_MOD_web_info:pagetree_overview,
+pages:php_tree_stop</label>
+			<label index="func_2.alttitle">Cache et âge</label>
+			<label index="func_2.description">Affiche une sélection de champs de la page des documents liés à la page en cache et les paramètres de temps.</label>
+			<label index="_func_2.image">EXT:frontend/Resources/Public/Images/cshimages/pagetree_overview_5.png,
+EXT:frontend/Resources/Public/Images/cshimages/pagetree_overview_7.png</label>
+			<label index="func_2.image_descr">La vue "cache et âge". Voici la colonne "TSconfig". L'aperçu montre que ces deux pages inclues du code TSconfig de page!</label>
+			<label index="_func_2.seeAlso">_MOD_web_info:func_0,
+_MOD_web_info:pagetree_overview,
+pages:TSconfig</label>
+			<label index="func_hits.alttitle">Vues des statistiques</label>
+			<label index="func_hits.description"/>
+			<label index="func_hits.details"/>
+			<label index="_func_hits.image">EXT:frontend/Resources/Public/Images/cshimages/pagetree_overview_2.png</label>
+			<label index="lang.alttitle">Aperçu de localisation</label>
+			<label index="lang.description"/>
+			<label index="lang.details"/>
+			<label index="_lang.image">EXT:frontend/Resources/Public/Images/cshimages/localizationoverview.png,
+EXT:frontend/Resources/Public/Images/cshimages/localizationoverview1.png</label>
+			<label index="lang.image_descr">Aperçu de localisation dans le module "Web &gt; Info". Utiliser les boutons "éditer", "voir" et "créer" des nouvelles pages de traduction. Utiliser le module page de base pour insérer des contenus localisés sur ces pages.
+Les "paramètres de localisation" permettent de gérer la disponibilité des pages dans les différentes langues.</label>
+			<label index="pagetree_overview.alttitle">Vue d'ensemble de l'arborescence des pages</label>
+			<label index="pagetree_overview.description">Cet aperçu d'arborescence montre les informations en relation avec les pages de cette branche de l'arborescence. Cela inclus les paramètres de cache (début et fin), etc.</label>
+			<label index="_pagetree_overview.image">EXT:frontend/Resources/Public/Images/cshimages/pagetree_overview_1.png</label>
+			<label index="pagetree_overview.image_descr"/>
+			<label index="_pagetree_overview.seeAlso">_MOD_web_info:func_0,
+_MOD_web_info:func_1,
+_MOD_web_info:func_2,
+_MOD_web_info:stat</label>
+			<label index="stat.alttitle">Statistiques d’affichage de la page</label>
+			<label index="stat.description"/>
+			<label index="stat.details"/>
+			<label index="_stat.image">EXT:frontend/Resources/Public/Images/cshimages/pagetree_overview_3.png</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

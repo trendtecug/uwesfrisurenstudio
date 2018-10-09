@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T05:02:49Z" product-name="wizard_crpages">
+		<header/>
+		<body>
+			<trans-unit id="wiz_crMany" approved="yes">
+				<source>Create multiple pages</source>
+				<target state="translated">Создать несколько страниц</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages" approved="yes">
+				<source>Create new pages</source>
+				<target state="translated">Создать новые страницы</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_addMoreLines" approved="yes">
+				<source>Add more lines</source>
+				<target state="translated">Добавить строки</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_create" approved="yes">
+				<source>The pages were created!</source>
+				<target state="translated">Страницы созданы!</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_currentMenu" approved="yes">
+				<source>New page structure</source>
+				<target state="translated">Новая структура страниц</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_errorMsg1" approved="yes">
+				<source>You are not allowed to create new subpages to this page!</source>
+				<target state="translated">Вы не имеете права создавать новые подстраницы этой страницы!</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_hidePages" approved="yes">
+				<source>Hide new pages</source>
+				<target state="translated">Скрыть новые страницы</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_hidePagesInMenus" approved="yes">
+				<source>Hide new pages in menus</source>
+				<target state="translated">Скрыть новые страницы в меню</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_lCreate" approved="yes">
+				<source>Create pages</source>
+				<target state="translated">Создать страницы</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_lCreate_msg1" approved="yes">
+				<source>You're about to create many new pages. Are you sure you want to continue?</source>
+				<target state="translated">Вы создаете большое количество новых страниц. Вы уверены, что хотите продолжить?</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_listEnd" approved="yes">
+				<source>Place new pages after the existing subpages</source>
+				<target state="translated">Поместить новые страницы после существующих</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_lReset" approved="yes">
+				<source>Clear fields</source>
+				<target state="translated">Очистить поля</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_noCreate" approved="yes">
+				<source>No pages were created!</source>
+				<target state="translated">Страницы не созданы!</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_page" approved="yes">
+				<source>Page</source>
+				<target state="translated">Страница</target>
+			</trans-unit>
+			<trans-unit id="wiz_W" approved="yes">
+				<source>W!</source>
+				<target state="translated">W!</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

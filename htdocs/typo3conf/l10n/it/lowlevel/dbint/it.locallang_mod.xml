@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="mlang_labels_tabdescr">In questo modulo potete controllare l'integrità delle tabelle del database configurate da $TCA. Per esempio, viene controllato che ogni record appartenga ad una pagina, e che tutti i file inviati sul server siano effettivamente presenti (di solito nelle sottocartelle di uploads/*. E' inoltre presente l'intero albero delle pagine (comprese quelle cancellate). Potete anche ricercare un termine all'interno di tutto il database.&lt;br /&gt;&lt;em&gt;Accesso riservato ai soli utenti 'admin'!&lt;/em&gt;</label>
+			<label index="mlang_labels_tablabel">Controllo integrità database</label>
+			<label index="mlang_tabs_tab">Database</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

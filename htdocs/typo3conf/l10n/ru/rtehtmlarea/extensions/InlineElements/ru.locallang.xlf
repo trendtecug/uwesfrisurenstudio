@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:14Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="BiDi override" approved="yes">
+				<source>BiDi override</source>
+				<target state="translated">Развернуть текст</target>
+			</trans-unit>
+			<trans-unit id="Bold" approved="yes">
+				<source>Bold</source>
+				<target state="translated">Полужирный</target>
+			</trans-unit>
+			<trans-unit id="Citation" approved="yes">
+				<source>Citation</source>
+				<target state="translated">Цитата</target>
+			</trans-unit>
+			<trans-unit id="Code" approved="yes">
+				<source>Code</source>
+				<target state="translated">Код</target>
+			</trans-unit>
+			<trans-unit id="Definition" approved="yes">
+				<source>Definition</source>
+				<target state="translated">Определение</target>
+			</trans-unit>
+			<trans-unit id="Deleted text" approved="yes">
+				<source>Deleted text</source>
+				<target state="translated">Удалённый текст</target>
+			</trans-unit>
+			<trans-unit id="Emphasis" approved="yes">
+				<source>Emphasis</source>
+				<target state="translated">Курсив (em)</target>
+			</trans-unit>
+			<trans-unit id="Inserted text" approved="yes">
+				<source>Inserted text</source>
+				<target state="translated">Вставленный текст</target>
+			</trans-unit>
+			<trans-unit id="Italic" approved="yes">
+				<source>Italic</source>
+				<target state="translated">Курсив</target>
+			</trans-unit>
+			<trans-unit id="Keyboard" approved="yes">
+				<source>Keyboard</source>
+				<target state="translated">Клавиатура</target>
+			</trans-unit>
+			<trans-unit id="Label" approved="yes">
+				<source>Label</source>
+				<target state="translated">Метка</target>
+			</trans-unit>
+			<trans-unit id="Large text" approved="yes">
+				<source>Large text</source>
+				<target state="translated">Большой текст</target>
+			</trans-unit>
+			<trans-unit id="Monospaced text" approved="yes">
+				<source>Monospaced text</source>
+				<target state="translated">Моноширинный текст</target>
+			</trans-unit>
+			<trans-unit id="No markup" approved="yes">
+				<source>No text format</source>
+				<target state="translated">Без форматирования</target>
+			</trans-unit>
+			<trans-unit id="Quotation" approved="yes">
+				<source>Quotation</source>
+				<target state="translated">Цитата</target>
+			</trans-unit>
+			<trans-unit id="Sample" approved="yes">
+				<source>Sample</source>
+				<target state="translated">Пример</target>
+			</trans-unit>
+			<trans-unit id="Small text" approved="yes">
+				<source>Small text</source>
+				<target state="translated">Маленький текст</target>
+			</trans-unit>
+			<trans-unit id="Strike-through" approved="yes">
+				<source>Strike-through</source>
+				<target state="translated">Зачёркнутый</target>
+			</trans-unit>
+			<trans-unit id="Strong emphasis" approved="yes">
+				<source>Strong emphasis</source>
+				<target state="translated">Полужирный курсив</target>
+			</trans-unit>
+			<trans-unit id="Style container" approved="yes">
+				<source>Style container</source>
+				<target state="translated">Контейнер стилей</target>
+			</trans-unit>
+			<trans-unit id="Subscript" approved="yes">
+				<source>Subscript</source>
+				<target state="translated">Подстрочный знак</target>
+			</trans-unit>
+			<trans-unit id="Superscript" approved="yes">
+				<source>Superscript</source>
+				<target state="translated">Надстрочный знак</target>
+			</trans-unit>
+			<trans-unit id="Underline" approved="yes">
+				<source>Underline</source>
+				<target state="translated">Подчёркнутый</target>
+			</trans-unit>
+			<trans-unit id="Variable" approved="yes">
+				<source>Variable</source>
+				<target state="translated">Переменная</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

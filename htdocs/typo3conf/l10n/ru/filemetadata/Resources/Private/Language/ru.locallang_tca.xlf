@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T01:13:57Z" product-name="filemetadata">
+		<header/>
+		<body>
+			<trans-unit id="fe_groups.files" approved="yes">
+				<source>Allowed files</source>
+				<target state="translated">Разрешённые файлы</target>
+			</trans-unit>
+			<trans-unit id="palette.content_date" approved="yes">
+				<source>Content Date</source>
+				<target state="translated">Дата содержимого</target>
+			</trans-unit>
+			<trans-unit id="palette.geo_location" approved="yes">
+				<source>Geo Location</source>
+				<target state="translated">Геолокация</target>
+			</trans-unit>
+			<trans-unit id="palette.metrics" approved="yes">
+				<source>Metrics</source>
+				<target state="translated">Метрика</target>
+			</trans-unit>
+			<trans-unit id="palette.visibility" approved="yes">
+				<source>Visibility</source>
+				<target state="translated">Видимость</target>
+			</trans-unit>
+			<trans-unit id="placeholder.keywords" approved="no">
+				<source>Keyword #1, keyword #2, ...</source>
+				<target state="needs-translation">Метка1, Метка2, ...</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.caption" approved="yes">
+				<source>Caption</source>
+				<target state="translated">Заголовок</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.color_space" approved="yes">
+				<source>Color Space</source>
+				<target state="translated">Цветовая гамма</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.content_creation_date" approved="yes">
+				<source>Content Creation Date</source>
+				<target state="translated">Дата создания контента</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.content_modification_date" approved="yes">
+				<source>Content Modification Date</source>
+				<target state="translated">Дата изменения содержимого</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.creator" approved="yes">
+				<source>Creator</source>
+				<target state="translated">Автор</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.creator_tool" approved="yes">
+				<source>Creator Tool</source>
+				<target state="translated">Создан с помощью</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.download_name" approved="yes">
+				<source>Download Name</source>
+				<target state="translated">Имя при загрузке</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.duration" approved="yes">
+				<source>Duration (in seconds)</source>
+				<target state="translated">Длительность (в секундах)</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.fe_groups" approved="yes">
+				<source>Frontend Permission</source>
+				<target state="translated">Права доступа в публичной части</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.height" approved="yes">
+				<source>Height</source>
+				<target state="translated">Высота</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.keywords" approved="yes">
+				<source>Keywords</source>
+				<target state="translated">Ключевые слова</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.language" approved="yes">
+				<source>File Language</source>
+				<target state="translated">Язык файла</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.latitude" approved="yes">
+				<source>Latitude</source>
+				<target state="translated">Широта</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.location_city" approved="yes">
+				<source>City</source>
+				<target state="translated">Город</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.location_country" approved="yes">
+				<source>Country</source>
+				<target state="translated">Страна</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.location_region" approved="yes">
+				<source>Region</source>
+				<target state="translated">Регион</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.longitude" approved="yes">
+				<source>Longitude</source>
+				<target state="translated">Долгота</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.note" approved="yes">
+				<source>Note</source>
+				<target state="translated">Заметки</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.pages" approved="yes">
+				<source>Number of Pages</source>
+				<target state="translated">Количество страниц</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.publisher" approved="yes">
+				<source>Publisher</source>
+				<target state="translated">Издатель</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.ranking" approved="yes">
+				<source>Ranking</source>
+				<target state="translated">Рейтинг</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.source" approved="yes">
+				<source>Source</source>
+				<target state="translated">Источник</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.status" approved="yes">
+				<source>Status</source>
+				<target state="translated">Статус</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.status.1" approved="yes">
+				<source>Ok</source>
+				<target state="translated">Ok</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.status.2" approved="yes">
+				<source>Pending</source>
+				<target state="translated">Ожидает</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.status.3" approved="yes">
+				<source>Under review</source>
+				<target state="translated">Проверяется</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.unit" approved="yes">
+				<source>Unit</source>
+				<target state="translated">Единицы измерения</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.visible" approved="yes">
+				<source>Visible</source>
+				<target state="translated">Видимый</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.width" approved="yes">
+				<source>Width</source>
+				<target state="translated">Ширина</target>
+			</trans-unit>
+			<trans-unit id="tabs.metadata" approved="yes">
+				<source>Metadata</source>
+				<target state="translated">Мета-данные</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

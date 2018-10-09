@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="menu.introduction">Introduction</label>
+      <label index="menu.checkLinks">Vérifie la validité des Liens</label>
+      <label index="menu.overview"/>
+      <label index="overview.header"/>
+      <label index="overview.all.header"/>
+      <label index="overview.all.records"/>
+      <label index="overview.all.links">Liens externes :</label>
+      <label index="overview.branch.header"/>
+      <label index="overview.branch.records"/>
+      <label index="overview.branch.links">Liens externes :</label>
+      <label index="overview.attention.header">Attention :</label>
+      <label index="overview.attention.text"/>
+      <label index="Report">Rapport</label>
+      <label index="CheckLink">Vérifier les Liens</label>
+      <label index="report.statistics.header">Afficher ces types de liens</label>
+      <label index="checklinks.statistics.header">Vérifier ces types de liens brisés</label>
+      <label index="report.func.title">Afficher ce niveau</label>
+      <label index="checklinks.func.title">Vérifier ce niveau</label>
+      <label index="overviews.nbtotal">Total des liens brisés !</label>
+      <label index="hooks.db">Liens internes :</label>
+      <label index="hooks.file">Liens vers des fichiers :</label>
+      <label index="hooks.external">Liens externes :</label>
+      <label index="hooks.linkhandler"/>
+      <label index="label_refresh">Actualiser l'affichage</label>
+      <label index="label_update">Vérifier les liens</label>
+      <label index="list.header">Listage des liens brisés</label>
+      <label index="list.tableHead.path">Chemin</label>
+      <label index="list.tableHead.element">Élément</label>
+      <label index="list.tableHead.headlink">Lien</label>
+      <label index="list.tableHead.linktarget">URL / Cible du lien</label>
+      <label index="list.tableHead.linkmessage">Message d'erreur</label>
+      <label index="list.tableHead.lastCheck">Dernière vérification</label>
+      <label index="list.edit">Éditer l'élément contenant ce lien brisé</label>
+      <label index="list.field">(Champ : %s)</label>
+      <label index="list.no.headline"/>
+      <label index="list.report.pagedeleted">La page '###title###' (###uid###) est suprimée.</label>
+      <label index="list.report.pagenotvisible">La page '###title###' (###uid###) n'est pas visible.</label>
+      <label index="list.report.pagenotexisting">La page (###uid###) n'existe pas.</label>
+      <label index="list.report.contentmoved"/>
+      <label index="list.report.contentdeleted">L'élément '###title###' (###uid###) est supprimé.</label>
+      <label index="list.report.contentnotvisible">L'élément '###title###' (###uid###) n'est pas visible.</label>
+      <label index="list.report.contentnotexisting">L'élément (###uid###) n'existe pas.</label>
+      <label index="list.report.rowdeleted">La page '###title###' (###uid###) est suprimée.</label>
+      <label index="list.report.rowdeleted.default.title">Lié</label>
+      <label index="list.report.rownotexisting">La ligne (###uid###) n'existe pas.</label>
+      <label index="list.report.noinformation">Aucune information disponible sur cette erreur.</label>
+      <label index="list.report.noresponse">Lien externe non accessible.</label>
+      <label index="list.report.redirectloop"/>
+      <label index="list.report.pageforbidden403">L'accès à cette adresse n'est pas permis (403).</label>
+      <label index="list.report.pagenotfound404">L'url demandée n'a pas été trouvée (404).</label>
+      <label index="list.report.externalerror">Le lien externe a retournée le code d'erreur HTTP (%s).</label>
+      <label index="list.report.filenotexisting">Le fichier n'existe pas.</label>
+      <label index="list.report.timeout"/>
+      <label index="list.report.internalerror500">Erreur interne du serveur (500)</label>
+      <label index="list.report.couldnotresolvehost"/>
+      <label index="list.report.errornetworkdata">Échec de réception de données réseau.</label>
+      <label index="list.report.otherhttpcode">Une erreur s'est produite (%s): "%s".</label>
+      <label index="list.report.httpexception">Exception: %s</label>
+      <label index="list.msg.ok">Ok</label>
+      <label index="list.msg.lastRun">%1$s %2$s</label>
+      <label index="list.no.broken.links.title">Aucun lien brisé à afficher !</label>
+      <label index="list.no.broken.links">Il n'y a pas de lien brisé à afficher.</label>
+      <label index="no.access.title">Pas d'accès !</label>
+      <label index="no.access">Vous n'avez pas accès à ces listes.</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

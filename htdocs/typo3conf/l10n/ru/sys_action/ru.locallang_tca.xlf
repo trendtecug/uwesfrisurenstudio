@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T04:35:30Z" product-name="sys_action">
+		<header/>
+		<body>
+			<trans-unit id="sys_action" approved="yes">
+				<source>Action</source>
+				<target state="translated">Действие</target>
+			</trans-unit>
+			<trans-unit id="sys_action.assign_to_groups" approved="yes">
+				<source>Assign action to groups:</source>
+				<target state="translated">Назначить действие для группы:</target>
+			</trans-unit>
+			<trans-unit id="sys_action.hidden" approved="yes">
+				<source>Deactivated:</source>
+				<target state="translated">Отключены:</target>
+			</trans-unit>
+			<trans-unit id="sys_action.t1_allowed_groups" approved="yes">
+				<source>Groups which may be assigned through the action:</source>
+				<target state="translated">Группа, которая может быть назначена через действие:</target>
+			</trans-unit>
+			<trans-unit id="sys_action.t1_copy_of_user" approved="yes">
+				<source>Template user:</source>
+				<target state="translated">Шаблон пользователя:</target>
+			</trans-unit>
+			<trans-unit id="sys_action.t1_create_user_dir" approved="yes">
+				<source>Create User Home Directory:</source>
+				<target state="translated">Создать домашний каталог для пользователя:</target>
+			</trans-unit>
+			<trans-unit id="sys_action.t1_userprefix" approved="yes">
+				<source>User prefix:</source>
+				<target state="translated">Префикс пользователя:</target>
+			</trans-unit>
+			<trans-unit id="sys_action.t3_listPid" approved="yes">
+				<source>List pid:</source>
+				<target state="translated">Список pid:</target>
+			</trans-unit>
+			<trans-unit id="sys_action.t3_tables" approved="yes">
+				<source>List only table:</source>
+				<target state="translated">Список таблиц:</target>
+			</trans-unit>
+			<trans-unit id="sys_action.t4_recordsToEdit" approved="yes">
+				<source>Records to edit:</source>
+				<target state="translated">Записи для редактирования:</target>
+			</trans-unit>
+			<trans-unit id="sys_action.type.1" approved="yes">
+				<source>Create Backend User</source>
+				<target state="translated">Создать внутреннего пользователя</target>
+			</trans-unit>
+			<trans-unit id="sys_action.type.2" approved="yes">
+				<source>SQL query</source>
+				<target state="translated">Запрос SQL</target>
+			</trans-unit>
+			<trans-unit id="sys_action.type.3" approved="yes">
+				<source>Record list</source>
+				<target state="translated">Список записей</target>
+			</trans-unit>
+			<trans-unit id="sys_action.type.4" approved="yes">
+				<source>Edit records</source>
+				<target state="translated">Править записи</target>
+			</trans-unit>
+			<trans-unit id="sys_action.type.5" approved="yes">
+				<source>New Record</source>
+				<target state="translated">Новая запись</target>
+			</trans-unit>
+			<trans-unit id="tx_sys_action" approved="yes">
+				<source>Actions</source>
+				<target state="translated">Действия</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

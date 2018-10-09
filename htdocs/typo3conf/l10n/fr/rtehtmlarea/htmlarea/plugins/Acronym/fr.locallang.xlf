@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-29T03:42:21Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Abbreviation" xml:space="preserve" approved="yes">
+				<source>Abbreviation</source>
+			<target state="translated">Abréviation</target></trans-unit>
+			<trans-unit id="Abridged_term" xml:space="preserve" approved="yes">
+				<source>Short form</source>
+			<target state="translated">Forme courte</target></trans-unit>
+			<trans-unit id="Acronym" xml:space="preserve" approved="yes">
+				<source>Acronym</source>
+			<target state="translated">Acronyme</target></trans-unit>
+			<trans-unit id="Defined_abbr" xml:space="preserve" approved="yes">
+				<source>Pre-defined abbreviations</source>
+			<target state="translated">Abréviations pré-définis</target></trans-unit>
+			<trans-unit id="Defined_acronym" xml:space="preserve" approved="yes">
+				<source>Pre-defined acronyms</source>
+			<target state="translated">Acronymes pré-définis</target></trans-unit>
+			<trans-unit id="Delete" xml:space="preserve" approved="yes">
+				<source>Delete</source>
+			<target state="translated">Supprimer</target></trans-unit>
+			<trans-unit id="Edit abbreviation" xml:space="preserve" approved="yes">
+				<source>Edit abbreviation</source>
+			<target state="translated">Editer une abréviation</target></trans-unit>
+			<trans-unit id="Insert abbreviation" xml:space="preserve" approved="yes">
+				<source>Insert abbreviation</source>
+			<target state="translated">Inserer une abréviation</target></trans-unit>
+			<trans-unit id="Insert/Modify Acronym" xml:space="preserve" approved="yes">
+				<source>Insert/edit abbreviation</source>
+			<target state="translated">Insérer/modifier une abréviation</target></trans-unit>
+			<trans-unit id="Language_abbr_helpText" xml:space="preserve" approved="yes">
+				<source>This is the language for which the abbreviation is defined</source>
+			<target state="translated">Ceci est la langue pour laquelle l'abréviation est définie</target></trans-unit>
+			<trans-unit id="Language_acronym_helpText" xml:space="preserve" approved="yes">
+				<source>This is the language for which the acronym is defined</source>
+			<target state="translated">Ceci est la langue pour laquelle l'acronyme est définie</target></trans-unit>
+			<trans-unit id="Select_a_language" xml:space="preserve" approved="yes">
+				<source>Select a language</source>
+			<target state="translated">Sélectionner une langue</target></trans-unit>
+			<trans-unit id="Select_an_abbr" xml:space="preserve" approved="yes">
+				<source>Select an abbreviation</source>
+			<target state="translated">Sélectionner une abbréviation</target></trans-unit>
+			<trans-unit id="Select_an_acronym" xml:space="preserve" approved="yes">
+				<source>Select an acronym</source>
+			<target state="translated">Sélectionner un acronyme</target></trans-unit>
+			<trans-unit id="Select_a_term" xml:space="preserve" approved="yes">
+				<source>Select a term</source>
+			<target state="translated">Sélectionner un terme</target></trans-unit>
+			<trans-unit id="Term" xml:space="preserve" approved="yes">
+				<source>Term</source>
+			<target state="translated">Terme</target></trans-unit>
+			<trans-unit id="Term_to_abridge" xml:space="preserve" approved="yes">
+				<source>Term to abbreviate</source>
+			<target state="translated">Terme à abrévier</target></trans-unit>
+			<trans-unit id="Unabridged_term" xml:space="preserve" approved="yes">
+				<source>Term</source>
+			<target state="translated">Terme</target></trans-unit>
+			<trans-unit id="Use_this_term" xml:space="preserve" approved="yes">
+				<source>Use this term</source>
+			<target state="translated">Utiliser ce terme</target></trans-unit>
+			<trans-unit id="Use_this_term_explain" xml:space="preserve" approved="yes">
+				<source>Associate this term to the current selection</source>
+			<target state="translated">Associer ce terme à la sélection courante</target></trans-unit>
+		</body>
+	</file>
+</xliff>

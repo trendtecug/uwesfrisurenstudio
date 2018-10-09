@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="address.description">Digita l'indirizzo stradale dell'utente.</label>
+			<label index="company.description">Digita il nome dela Azienda presso la quale l'utente è impiegato.</label>
+			<label index=".description">Sito web di login per l'utente.</label>
+			<label index=".details">Questi sono utenti con uno username e password che sono autorizzata ad accessi specifici ad aree protette del tuo sito.</label>
+			<label index="disable.description">Questa opzione disabiliterà temporaneamente il login dell'utente.</label>
+			<label index="_disable.seeAlso"/>
+			<label index="endtime.description">Inserisci la data dopo la quale l'account sarà disabilitato.</label>
+			<label index="_endtime.seeAlso"/>
+			<label index="endtime.syntax">Vedi "Inizio"</label>
+			<label index="_.image"/>
+			<label index=".image_descr"/>
+			<label index="image.description">Inserisci la foto dell'utente.</label>
+			<label index="lastlogin.description">Questo campo mostra l'ultima data nella quale l'utente ha fatto login.</label>
+			<label index="lockToDomain.description">Digita il nome dell'host dal quale l'utente sarà costretto a fare login.</label>
+			<label index="lockToDomain.details">Un sistema TYPO3 può avere più domini ai quali puntare. Pertanto questa opzione si assicura che gli utenti possano fare login solamente da un dato nome di host.</label>
+			<label index="_lockToDomain.seeAlso">fe_groups:lockToDomain</label>
+			<label index="lockToDomain.syntax">Indica nome di dominio, es. "www.typo3.com" e/o un indirizzo IP, es. "10.34.222.83"</label>
+			<label index="name.description"/>
+			<label index="password.description">Digita la password per lo username sopra. E' necessaria per il login.</label>
+			<label index="password.syntax">La password è un dato obbligatorio e deve essere trascritta a caratteri minuscoli e non deve contenere spazi.</label>
+			<label index="_.seeAlso"/>
+			<label index="starttime.description">Inserisci la data di inizio attività del codice.</label>
+			<label index="_starttime.seeAlso"/>
+			<label index="starttime.syntax">La sintassi è dd-mm-yy (giorno, mese e anno), ma tu puoi inserire anche "d" nel campo per inserire la data di oggi. Anche "d+10" per inserire la data del decimo giorno in avanti a partire da oggi, ecc. Il campo modificherà qualsiasi input affinchè corrisponda al formato; puoi modificare questo campo per comprendere le potenzialità e a titolo sperimentale finchè sarai in grado di impostare quello che ritieni utile al tuo caso.</label>
+			<label index="title.description">Digita la qualifica dell'utente (es. Direttore, Ragioniere...).</label>
+			<label index="TSconfig.description">Digita codice TSconfig addizionale per questo utente (funzione avanzata)</label>
+			<label index="TSconfig.details"/>
+			<label index="_TSconfig.seeAlso"/>
+			<label index="TSconfig.syntax"/>
+			<label index="usergroup.description">Seleziona un gruppo da associare allo username.</label>
+			<label index="usergroup.details">Quando un utente fa login potrà vedere tutti i contenuti conformemente alle restrizioni applicate al &lt;em&gt;gruppo(i)&lt;/em&gt; di appartenenza. Pertanto fare login per l'utente ha senso esclusivamente se appartiene ad uno o più gruppi.</label>
+			<label index="username.description">Digitare lo username dell'utente del sito web. Questo dato è necessario per effettuare il login.</label>
+			<label index="_username.seeAlso">Per la crezione di Gruppi e Utenti di Frontend | http://typo3.org/documentation/document-library/doc_tut_quickstart/Create_users_group/</label>
+			<label index="username.syntax">Lo username è obbigatorio e deve essere digitato in caratteri minuscoli; non deve contenere spazi; deve essere un dato unico tra tutti gli altri nomi utenti presenti nella pagina dove viene salvato. Se non è unico sarà creato con l'anteposizione di n numero.</label>
+			<label index="www.description">Digita la pagina principale dell'utente (URL)</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="button.cancel">Отменить</label>
+			<label index="button.update">Обновить из репозитория</label>
+			<label index="flashmessage.canceled">Процесс был отменён.</label>
+			<label index="flashmessage.error">Ошибка</label>
+			<label index="flashmessage.information">Информация</label>
+			<label index="flashmessage.multipleErrors">Некоторые запросы не были выполнены. Проверьте доступность Интернет-канала.</label>
+			<label index="flashmessage.success">Успех</label>
+			<label index="flashmessage.updateComplete">Обновление переводов было успешно выполнено.</label>
+			<label index="header.languageSelectionList">Список языков</label>
+			<label index="header.module">Управление языками интерфейса</label>
+			<label index="header.translationUpdateList">Переводы</label>
+			<label index="state.checking">Проверка...</label>
+			<label index="state.error">Ошибка</label>
+			<label index="state.failed">Сбой</label>
+			<label index="state.invalid">Некорректный</label>
+			<label index="state.notAvailable">Отсутствует</label>
+			<label index="state.notChecked">Не проверен</label>
+			<label index="state.updated">Обновлён</label>
+			<label index="state.upToDate">Актуален</label>
+			<label index="table.extension">Расширение</label>
+			<label index="table.language">Язык</label>
+			<label index="table.locale">Локаль</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

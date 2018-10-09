@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="className">Класс</label>
+			<label index="editElement">Правка элемента</label>
+			<label index="events">События</label>
+			<label index="general">Общие</label>
+			<label index="id">Id</label>
+			<label index="identification">Идентификация</label>
+			<label index="onclick">По щелчку левой кнопкой</label>
+			<label index="ondblclick">По двойному щелчку левой кнопкой</label>
+			<label index="onkeydown">Нажатие клавиши</label>
+			<label index="onkeypress">Нажатие и/или удержание клавиши</label>
+			<label index="onkeyup">Отпускание клавиши</label>
+			<label index="onmousedown">По щелчку любой кнопкой</label>
+			<label index="onmousemove">При движении курсора мышки над объектом</label>
+			<label index="onmouseout">При уходе курсора мышки</label>
+			<label index="onmouseover">При наведении курсора мышки</label>
+			<label index="onmouseup">При отпускании левой кнопки</label>
+			<label index="title">Название</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

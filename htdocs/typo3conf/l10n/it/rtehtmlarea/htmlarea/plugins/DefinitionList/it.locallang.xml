@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="DefinitionItem-helpText"/>
+			<label index="DefinitionItem-Tooltip"/>
+			<label index="DefinitionList-helpText"/>
+			<label index="DefinitionList-Tooltip"/>
+			<label index="Indent-helpText"/>
+			<label index="Indent-Tooltip"/>
+			<label index="No block">Nessun formato sul blocco</label>
+			<label index="Outdent-helpText"/>
+			<label index="Outdent-Tooltip"/>
+			<label index="Remove block"/>
+			<label index="Technische Universitat Ilmenau"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="1">Показать страницу</label>
+			<label index="16">Править содержимое</label>
+			<label index="16_t">Изменить/Добавить/Удалить/Переместить содержимое.</label>
+			<label index="1_t">Показать/Копировать страницу и ее содержимое.</label>
+			<label index="2">Править страницу</label>
+			<label index="2_t">Изменить/Переместить страницу, нап. изменить ее заголовок и пр.</label>
+			<label index="4">Удалить страницу</label>
+			<label index="4_t">Удалить страницу и ее содержимое.</label>
+			<label index="8">Новые страницы</label>
+			<label index="8_t">Создать новые дочерние страницы.</label>
+			<label index="Abort">Прервать</label>
+			<label index="A_Denied">Доступ запрещен</label>
+			<label index="A_Granted">Доступ разрешен</label>
+			<label index="ch_permissions">Изменить права доступа</label>
+			<label index="def">Определение: 'содержимое' - это записи из всех таблиц страницы, кроме записей из таблицы 'pages'</label>
+			<label index="deleted">удалено</label>
+			<label index="Depth">Глубина</label>
+			<label index="Edit">РЕДАКТИРОВАНИЕ</label>
+			<label index="EditLock">Доступ закрыт</label>
+			<label index="EditLock_descr">Редактирование страницы со всем содержимым запрещено для всех пользователей, кроме Администраторов.</label>
+			<label index="Everybody">Все</label>
+			<label index="Group">Группа</label>
+			<label index="Legend">Легенда</label>
+			<label index="levels">уровн.</label>
+			<label index="mlang_labels_tabdescr">Установка прав на редактирование страницы необходимо для контроля доступа к странице пользователей служебного интерфейса (backend users). Вы можете назначить пользователя и группу владельцами страницы и установить права доступа для каждого в отдельности.</label>
+			<label index="mlang_labels_tablabel">Права редактирования страницы</label>
+			<label index="mlang_tabs_tab">Доступ</label>
+			<label index="Mode">Режим</label>
+			<label index="notSet">не установлены</label>
+			<label index="Owner">Владелец</label>
+			<label index="pages_affected">страниц задействовано</label>
+			<label index="permissions">Права доступа</label>
+			<label index="recursive">Установить рекурсивно</label>
+			<label index="Save">Сохранить</label>
+			<label index="User">Пользователь</label>
+			<label index="user_overview">Обзор пользователей</label>
+			<label index="WorkspaceWarning">Предупреждение о рабочих областях</label>
+			<label index="WorkspaceWarningText">Настройки доступа, задаваемые в рабочей области, будут воздействовать на элементы только &lt;em&gt;после&lt;/em&gt; их публикации! Если нужно задать настройки доступа, вступающие в силу немедленно, то делайте это в оперативной рабочей области. (Настройки доступа для черновой версии всегда зависят от записи в оперативной рабочей области)</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

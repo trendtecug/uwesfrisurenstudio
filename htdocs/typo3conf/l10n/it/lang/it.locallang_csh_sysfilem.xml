@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="base.description"/>
+			<label index="_base.seeAlso"/>
+			<label index=".description">i Filemounts descrivono un indirizzo sul server, in modo reativo o assoluto.</label>
+			<label index=".details"/>
+			<label index="hidden.description">usa questa opzione per disabilitare temporaneamente il Filemount.</label>
+			<label index="hidden.details"/>
+			<label index="_.image"/>
+			<label index="path.description">Inserisci il path del Filemount, relativo o assoluto, a seconda del settagi di BASE</label>
+			<label index="path.details"/>
+			<label index="_path.image"/>
+			<label index="path.image_descr"/>
+			<label index="_path.seeAlso"/>
+			<label index="_.seeAlso"/>
+			<label index="title.description">Inserisci il titolo del Filemount. Questo titolo apparirà come il nome del Filemount, quando sarà da applicare agli Utenti o ai Gruppi.</label>
+			<label index="_title.image"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

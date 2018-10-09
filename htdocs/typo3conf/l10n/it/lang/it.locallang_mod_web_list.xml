@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="clip_deleteMarked">Elimina selezionati</label>
+			<label index="clip_deleteMarkedWarning">Sei sicuro di voler eliminare tutti i record selezionati dalla tabella '%s'?</label>
+			<label index="clip_duplicates">Seleziona duplicati</label>
+			<label index="clip_editMarked">Modifica selezionati</label>
+			<label index="clip_markRecords">Seleziona tutti/nessuno</label>
+			<label index="clip_paste">Incolla contenuto clipboard</label>
+			<label index="clip_pasteAfter">Incolla dopo: il contenuto della clipboard viene inserito dopo questo record</label>
+			<label index="clip_pasteInto">Incolla in: il contenuto della clipboard viene inserito in questa pagina</label>
+			<label index="clip_selectMarked">Trasferisci i record selezionati nella clipboard</label>
+			<label index="contractView">Elenca tutte le tabelle</label>
+			<label index="defaultLanguage">Default</label>
+			<label index="delete">Elimina record (!)</label>
+			<label index="deleteWarning">Sei sicuro di voler eliminare questo record?</label>
+			<label index="displayVersions">Mostra versioni</label>
+			<label index="edit">Modifica record</label>
+			<label index="editPage">Modifica proprietà pagina</label>
+			<label index="editShownColumns">Modifica tutti i campi dei record visualizzati</label>
+			<label index="editThisColumn">Modifica il campo '%s' dei record visualizzati</label>
+			<label index="expandView">Elenca solo questa tabella</label>
+			<label index="hide">Nascondi record</label>
+			<label index="hidePage">Nascondi pagina</label>
+			<label index="history">Mostra ultime modifiche / annulla</label>
+			<label index="largeControl">Vista estesa</label>
+			<label index="localization">Vista localizzazione</label>
+			<label index="Localize">Localizza in:</label>
+			<label index="missingTcaColumnsMessage"/>
+			<label index="missingTcaColumnsMessageTitle"/>
+			<label index="mlang_labels_tabdescr">Il modulo Web&gt;Lista fornisce l'accesso 'a basso livello' ai record di una pagina.</label>
+			<label index="mlang_labels_tablabel">Lista dei record del database</label>
+			<label index="mlang_tabs_tab">Lista</label>
+			<label index="moveDown">Sposta giù</label>
+			<label index="move_page">Sposta pagina</label>
+			<label index="move_record">Ri-posiziona l'elemento di contenuto</label>
+			<label index="moveUp">Sposta su</label>
+			<label index="multipleLanguages">Tutte le lingue</label>
+			<label index="new">Nuovo record</label>
+			<label index="newPage">Crea nuova pagina dopo questa</label>
+			<label index="newRecord">Crea nuovo record dopo questo</label>
+			<label index="newRecordGeneral">Crea nuovo record</label>
+			<label index="nextLevel">Fai diventare questa pagina una sottopagina della pagina sovrastante (Outwards)</label>
+			<label index="pageIndicator">Pagina %1$s di %2$d</label>
+			<label index="permissions">Imposta i permessi per la pagina</label>
+			<label index="prevLevel">Sposta questa pagina dopo la pagina padre (Inwards)</label>
+			<label index="rangeIndicator">Records %1$d - %2$d</label>
+			<label index="restore"/>
+			<label index="restoreWarning"/>
+			<label index="showClipBoard">Mostra clipboard</label>
+			<label index="showInfo">Visualizza informazioni</label>
+			<label index="unHide">Rendi visibile record</label>
+			<label index="unHidePage">Mostra pagina</label>
+			<label index="viewRecords">Stai vedendo i records di</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

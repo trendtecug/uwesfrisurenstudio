@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+      <label index="status_fileSystem">File System</label>
+      <label index="status_writable">Scrivibile</label>
+      <label index="status_missingDirectory">Directory indispensabile mancante</label>
+      <label index="status_nonExistingDirectory">Directory inesistente</label>
+      <label index="status_recommendedWritableDirectory">La directory deve essere scrivibile</label>
+      <label index="status_requiredWritableDirectory">Directory non scrivibile</label>
+      <label index="status_directoryDoesNotExist">%s non esiste.</label>
+      <label index="status_directoryDoesNotExistCouldNotCreate">%s non esiste e non è stato possibile crearlo.</label>
+      <label index="status_directoryShouldAlsoBeWritable">E dovrebbe anche essere scrivibile, se esistesse.</label>
+      <label index="status_directoryShouldBeWritable">%s dovrebbe essere scrivibile.</label>
+      <label index="status_directoryMustBeWritable">%s deve essere scrivibile.</label>
+      <label index="status_remainingUpdates">Aggiornamenti rimanenti</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

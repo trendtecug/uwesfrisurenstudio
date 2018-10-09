@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index=".alttitle">htmlArea RTE &gt; Править элемент</label>
+			<label index="className.alttitle">Атрибут class</label>
+			<label index="className.description">Выберете CSS селектор class для элемента.</label>
+			<label index=".description">Диалог "Правка элемента" позволяет отредактировать основные атрибуты элемента в области редактирования.</label>
+			<label index=".details">Щелчок по значку "Править элемент" на панели инструментов, откроет диалог, позволяющий отредактировать основные атрибуты элемента: id, title, class, lang и dir. Кроме того, возможно определить обработчики для событий клавиатуры и мыши.</label>
+			<label index="events.alttitle">Обработчики событий.</label>
+			<label index="events.description">Этот набор полей позволяет отредактировать обработку событий клавиатуры или мыши.</label>
+			<label index="id.alttitle">Атрибут id</label>
+			<label index="id.description">Введите или отредактируйте значение атрибута id для элемента.</label>
+			<label index=".image">EXT:rtehtmlarea/extensions/EditElement/skin/images/element-edit.png</label>
+			<label index=".image_descr">Значок "Править элемент" на панели инструментов.</label>
+			<label index="onclick.alttitle">Обработчик события Onclick</label>
+			<label index="onclick.description">Введите или отредактируйте сценарий, запускаемые при щелчке левой кнопки мыши.</label>
+			<label index="ondblclick.alttitle">Обработчик события Ondblclick</label>
+			<label index="ondblclick.description">Введите или отредактируйте сценарий, запускаемые при двойном щелчке левой кнопки мыши.</label>
+			<label index="onkeydown.alttitle">Обработчик события Onkeydown</label>
+			<label index="onkeydown.description">Введите или отредактируйте сценарий, запускаемые при нажатии клавиши.</label>
+			<label index="onkeypress.alttitle">Обработчик события Onkeypress</label>
+			<label index="onkeypress.description">Введите или отредактируйте сценарий, запускаемые при нажатии и удержании клавиши.</label>
+			<label index="onkeyup.alttitle">Обработчик события Onkeyup</label>
+			<label index="onkeyup.description">Введите или отредактируйте сценарий, запускаемые при отпускании клавиши.</label>
+			<label index="onmousedown.alttitle">Обработчик события Onmousedown</label>
+			<label index="onmousedown.description">Введите или отредактируйте сценарий, запускаемые при нажатии любой кнопки мыши.</label>
+			<label index="onmousemove.alttitle">Обработчик события Onmousemove</label>
+			<label index="onmousemove.description">Введите или отредактируйте сценарий, запускаемые при движении указателя мышки над элементом.</label>
+			<label index="onmouseout.alttitle">Обработчик события Onmouseout</label>
+			<label index="onmouseout.description">Введите или отредактируйте сценарий, запускаемые при покидании указателя мышки элемента.</label>
+			<label index="onmouseover.alttitle">Обработчик события Onmouseover</label>
+			<label index="onmouseover.description">Введите или отредактируйте сценарий, запускаемые когда указатель мыши находится над элементом.</label>
+			<label index="onmouseup.alttitle">Обработчик события Onmouseup</label>
+			<label index="onmouseup.description">Введите или отредактируйте сценарий, запускаемые при нахождении указателя мышки над элементом.</label>
+			<label index=".seeAlso">xEXT_rtehtmlarea_EditElement:id, xEXT_rtehtmlarea_EditElement:title, xEXT_rtehtmlarea_EditElement:className, xEXT_rtehtmlarea_Language:languageCombo, xEXT_rtehtmlarea_Language:directionCombo, xEXT_rtehtmlarea_EditElement:events</label>
+			<label index="title.alttitle">Атрибут title</label>
+			<label index="title.description">Введите или отредактируйте значение атрибута title для элемента.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

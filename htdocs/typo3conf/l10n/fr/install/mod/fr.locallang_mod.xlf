@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:33Z" product-name="install" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="mlang_labels_tablabel" xml:space="preserve" approved="yes">
+        <source>Install Tool</source>
+      <target state="translated">Outil d'Installation</target></trans-unit>
+      <trans-unit id="mlang_labels_tabdescr" xml:space="preserve" approved="yes">
+        <source>Provides a simple link to the Install Tool. Notice the Install Tool (in typo3/install/) must be enabled.&lt;br /&gt;&lt;em&gt;Access for 'admin' users only!&lt;/em&gt;</source>
+      <target state="translated">Fournit une liaison simple avec l'Outil d'Installation. Notez que l'Outil d'Installation (dans typo3/install/) doit être activé.&lt;br /&gt;&lt;em&gt;Accès autorisé aux utilisateurs 'admin' uniquement!&lt;/em&gt;</target><alt-trans xml:space="preserve" origin="jerome-blum"><target>Fournit une liaison simple avec l'Outil d'Installation. Notez que l'Outil d'Installation (dans typo3/install/) doit être activé.&lt;br /&gt;&lt;em&gt;Accès autorisé aux utilisateurs 'admin' uniquement !&lt;/em&gt;</target></alt-trans></trans-unit>
+      <trans-unit id="mlang_tabs_tab" xml:space="preserve" approved="yes">
+        <source>Install</source>
+      <target state="translated">Installation</target></trans-unit>
+      <trans-unit id="confirmUnlockInstallToolTitle" xml:space="preserve" approved="yes">
+        <source>The Install Tool is locked</source>
+      <target state="translated">L'outil d'installation est verrouillé.</target></trans-unit>
+      <trans-unit id="confirmUnlockInstallToolMessage" xml:space="preserve" approved="yes">
+        <source>&lt;p&gt;For security reasons the Install Tool is locked by default.&lt;/p&gt;
+&lt;p&gt;To unlock the Install Tool, an empty file with the name ENABLE_INSTALL_TOOL must be created in typo3conf/.&lt;/p&gt;
+&lt;p&gt;By hitting the button below, this file is created for you and the Install Tool will be unlocked.&lt;/p&gt;
+&lt;p&gt;You are recommended to log out from the Install Tool after finishing your work. Otherwise
+TYPO3 will automatically lock the Install Tool after one hour.&lt;/p&gt;</source>
+      <target state="translated">&lt;p&gt;Pour des raisons de sécurité, l'outil d'installation est verrouillé par défaut.&lt;/p&gt;
+&lt;p&gt;Pour le déverrouiller, un fichier vide portant le nom ENABLE_INSTALL_TOOL doit être créé dans typo3conf/.&lt;/p&gt;
+&lt;p&gt;En appuyant sur le bouton ci-dessous, ce fichier est créé et l'outil d'installation sera débloqué.&lt;/p&gt;
+&lt;p&gt;Il est recommandé de se déconnecter de l'outil d'installation après avoir terminé votre travail. Sinon 
+TYPO3 verrouille automatiquement l'outil d'installation au bout d'une heure.&lt;/p&gt;</target></trans-unit>
+      <trans-unit id="confirmUnlockInstallToolButton" xml:space="preserve" approved="yes">
+        <source>Unlock the Install Tool</source>
+      <target state="translated">Déverrouiller l'outil d'installation</target></trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="DefinitionItem-helpText">Intervertir les termes et les définitions</label>
+			<label index="DefinitionItem-Tooltip">Basculer de terme à définition</label>
+			<label index="DefinitionList-helpText">Faire une liste de définition avec la sélection courante</label>
+			<label index="DefinitionList-Tooltip">Liste de définitions</label>
+			<label index="Indent-helpText">Augmenter l'identation du texte</label>
+			<label index="Indent-Tooltip">Augmenter le retrait</label>
+			<label index="No block">Aucun format de bloc</label>
+			<label index="Outdent-helpText">Réduire l'identation du texte</label>
+			<label index="Outdent-Tooltip">Réduire le retrait</label>
+			<label index="Remove block">Supprimer le format du bloc</label>
+			<label index="Technische Universitat Ilmenau">Université Technologique d'Ilmenau</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="Actions">Azioni:</label>
+			<label index="Case sensitive search">Ricerca sensibile a MAIUSCOLE/MINUSCOLE</label>
+			<label index="Clear">Pulisci</label>
+			<label index="Done">Fatto</label>
+			<label index="Enter the text you want to find">Inserisci il testo che vuoi trovare</label>
+			<label index="Find and Replace">Trova e Sostituisci</label>
+			<label index="found item">elemento trovato</label>
+			<label index="found items">elementi trovati</label>
+			<label index="Highlight">Evidenzia</label>
+			<label index="Inform a replacement word">Questo cancellerà tutte le occorrenze.</label>
+			<label index="Next">Prossima</label>
+			<label index="not found">non trovato</label>
+			<label index="Options">Opzioni:</label>
+			<label index="replaced item">elemento sostituito</label>
+			<label index="replaced items">elementi sostituiti</label>
+			<label index="Replace with:">Sostituisci con:</label>
+			<label index="Search for:">Cerca per:</label>
+			<label index="Substitute all occurrences">Sostituisci tutte le occorrenze</label>
+			<label index="Substitute this occurrence?">Sostituire questa occorrenza?</label>
+			<label index="Undo">Passo indietro</label>
+			<label index="Whole words only">Solo parole intere</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

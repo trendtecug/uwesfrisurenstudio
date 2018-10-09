@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="hits_title">Статистика хитов</label>
+			<label index="lang_getlangsta_createNewTranslationHeaders">Создать новый перевод заголовков</label>
+			<label index="lang_renderl10n_badThingThereAre">ОШИБКА: перевод на данный язык уже существует! Разрешен только один перевод!</label>
+			<label index="lang_renderl10n_CEcount">Счетчик записей</label>
+			<label index="lang_renderl10n_default">По умолчанию</label>
+			<label index="lang_renderl10n_editDefaultLanguagePage">Править заголовок страницы на основном языке</label>
+			<label index="lang_renderl10n_editLangOverlays">Править все переводы заголовка страницы</label>
+			<label index="lang_renderl10n_editLanguageOverlayRecord">Править запись перевода</label>
+			<label index="lang_renderl10n_editPage">Править страницу</label>
+			<label index="lang_renderl10n_editPageLang">Править перевод страницы</label>
+			<label index="lang_renderl10n_editPageProperties">Править все свойства страницы</label>
+			<label index="lang_renderl10n_page">Страница</label>
+			<label index="lang_renderl10n_viewPage">Просмотр страницы</label>
+			<label index="lang_title">Обзор локализации</label>
+			<label index="pageInformation">Информация о странице</label>
+			<label index="pages_0">Основные параметры</label>
+			<label index="pages_1">Просмотр записи</label>
+			<label index="pages_2">Буфер и его возраст</label>
+			<label index="page_sysnote">Заметки</label>
+			<label index="page_title">Обзор дерева страниц</label>
+			<label index="pI_crDate">Дата создания</label>
+			<label index="pI_crUser">Автор</label>
+			<label index="pI_lastChange">Последние изменения</label>
+			<label index="pI_lastChangeContent">Последние изменения содержимого</label>
+			<label index="stat_period">Статистика в период %s до %s</label>
+			<label index="stat_type_0">Хиты страницы</label>
+			<label index="stat_type_1">Всего хитов</label>
+			<label index="stat_type_2">Хиты в основных разделах</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-29T03:42:26Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Bottom:" approved="yes">
+				<source>Bottom:</source>
+				<target state="translated">Bas :</target>
+			</trans-unit>
+			<trans-unit id="Bottom padding" approved="yes">
+				<source>Bottom padding</source>
+				<target state="translated">Espace intérieur bas</target>
+			</trans-unit>
+			<trans-unit id="image_url" approved="yes">
+				<source>Image URL</source>
+				<target state="translated">URL de l'image</target>
+			</trans-unit>
+			<trans-unit id="image_url_invalid" approved="yes">
+				<source>The url could not be accessed or is not a valid image.</source>
+				<target state="translated">L'URL ne peut pas être consultée ou ce n'est pas une image</target>
+			</trans-unit>
+			<trans-unit id="Left padding" approved="yes">
+				<source>Left padding</source>
+				<target state="translated">Espace intérieur gauche</target>
+			</trans-unit>
+			<trans-unit id="Right:" approved="yes">
+				<source>Right:</source>
+				<target state="translated">Droite :</target>
+			</trans-unit>
+			<trans-unit id="Right padding" approved="yes">
+				<source>Right padding</source>
+				<target state="translated">Espace intérieur droit</target>
+			</trans-unit>
+			<trans-unit id="Top:" approved="yes">
+				<source>Top:</source>
+				<target state="translated">Haut :</target>
+			</trans-unit>
+			<trans-unit id="Top padding" approved="yes">
+				<source>Top padding</source>
+				<target state="translated">Espace intérieur haut</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

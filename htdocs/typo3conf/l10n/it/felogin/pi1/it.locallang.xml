@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="change_password">Cambiare password</label>
+			<label index="cookie_warning">Attenzione: è probabile che il tuo browser non abbia i cookies abilitati! Se il messaggio di avvenuto login scompare nella prossima pagina che visiterai, allora devi abilitare (o accettare) i cookies provenienti da questo sito.</label>
+			<label index="ll_change_password_done_message">La vostra password è stata salvata. Ora potete effettuare il login con la nuova password.</label>
+			<label index="ll_change_password_header">Cambiare password</label>
+			<label index="ll_change_password_message">Inserire la password due volte. La password deve avere un minimo di %s caratteri.</label>
+			<label index="ll_change_password_nolinkprefix_message">Errore: non c'è prefisso per il link. Configurare una delle seguenti opzioni nel template Typoscript: plugin.tx_felogin_pi1.feloginBaseURL = http://yourdomain/, config.baseURL = http://yourdomain/, config.absRefPrefix = /</label>
+			<label index="ll_change_password_notequal_message">Le due password non sono uguali, per piacere inserire la password due volte. La password deve avere un minimo di %s caratteri.</label>
+			<label index="ll_change_password_notvalid_message">Il link che avete cliccato non è valido. Ripetere la procedura di password dimenticata.</label>
+			<label index="ll_change_password_tooshort_message">La password è troppo corta. Inserisci nuova mente la password due volte e con lunghezza minima di %s caratteri.</label>
+			<label index="ll_enter_your_data">Username o email:</label>
+			<label index="ll_error_header">Errore di login</label>
+			<label index="ll_error_message">Errore durante il login. Probabilmente non hai inserito correttamente lo username o la password. Assicurati di averli digitati in modo corretto, anche per quanto riguarda le lettere maiuscole/minuscole. Assicurati altresì di aver abilitato i cookies nel tuo browser.</label>
+			<label index="ll_forgot_email_nopassword">La tua password
+Salve %s
+Nel nostro sistema non c'è alcun utente con l'indirizzo email da te indicato. Probabilmente hai specificato un email non corretto (controlla la maiuscole/minuscole), oppure non ti sei mai registrato.</label>
+			<label index="ll_forgot_email_password">La tua password
+Salve %s
+
+Il tuo username è "%s"
+La tua password è "%s"</label>
+			<label index="ll_forgot_header">Dimenticato la password?</label>
+			<label index="ll_forgot_header_backToLogin">Ritorna al login</label>
+			<label index="ll_forgot_message">Inserire l'indirizzo email con il quale vi siete registrati. Cliccate sul pulsante "Invia password" e la password vi sarà inviata immediatamente. Attenzione a scrivere l'indirizzo correttamente.</label>
+			<label index="ll_forgot_message_emailSent">La vostra password è stata inviata all'indirizzo email %s</label>
+			<label index="ll_forgot_reset_message">Inserisci tuo username o email. Ti saranno spedite immediatamente le istruzioni su come resettare la password.</label>
+			<label index="ll_forgot_reset_message_emailSent">E' stata inviata all'indirizzo del vostro account una mail contenente un link per resettare la password. Se non ricevete questa email, il vostro account o indirizzo email non sono stati trovati.</label>
+			<label index="ll_forgot_reset_message_error">Il tuo account o il tuo indirizzo e-mail non esistono.</label>
+			<label index="ll_forgot_validate_reset_password">La tua nuova password
+Salve %s
+
+Questa email ti è inviata in seguito alla richiesta di resettare la vostra password. Per continuare con la procedure cliccare il seguente link:
+%s
+
+Per ragioni di sicurezza, questo link è valido solo fino a %s. Se non visitate il link prima di tale data, dovrete ripetere la procedura di reset della password.</label>
+			<label index="ll_logout_header">Hai effettuato il logout.</label>
+			<label index="ll_logout_message">La tua sessione su questo sito è terminata. Puoi effettuare un nuovo login utilizzando il form sottostante.</label>
+			<label index="ll_status_header">Stato corrente</label>
+			<label index="ll_status_message">Questo è il tuo stato corrente:</label>
+			<label index="ll_success_header">Login effettuato con successo</label>
+			<label index="ll_success_message">Hai effettuato il login come utente '###USER###'</label>
+			<label index="ll_welcome_header">Login utente</label>
+			<label index="ll_welcome_message">Inserire username e password per effettuare il login:</label>
+			<label index="login">Login</label>
+			<label index="logout">Logout</label>
+			<label index="newpassword_label1">Inserire nuova password</label>
+			<label index="newpassword_label2">Ripetere la nuova password</label>
+			<label index="noValidRedirectUrl">URL "%s" per il redirect non valido!</label>
+			<label index="password">Password:</label>
+			<label index="permalogin">Mantenere il login:</label>
+			<label index="reset_password">Resettare password</label>
+			<label index="send_password">Inviare password</label>
+			<label index="username">Username:</label>
+			<label index="xssAttackDetected">L' URL "%s" conteneva un attacco XSS ed è stata ripulito!</label>
+			<label index="your_email">Email:</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

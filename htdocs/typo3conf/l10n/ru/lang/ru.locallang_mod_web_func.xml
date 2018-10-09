@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="clickAPage_content">Щелкните по заголовку страницы в дереве</label>
+			<label index="mlang_labels_tabdescr">В этом модуле находятся основные функции экспорта и импорта, в дополнение к специализированным помошникам сортировки и создания множества страниц.</label>
+			<label index="mlang_labels_tablabel">Расширенные функции</label>
+			<label index="mlang_tabs_tab">Функции</label>
+			<label index="title">Расширенные функции</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

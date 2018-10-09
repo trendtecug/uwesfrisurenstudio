@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:15Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="About" approved="yes">
+				<source>About</source>
+				<target state="translated">Сведения</target>
+			</trans-unit>
+			<trans-unit id="About HTMLArea" approved="yes">
+				<source>About htmlArea RTE</source>
+				<target state="translated">Информация о htmlArea RTE</target>
+			</trans-unit>
+			<trans-unit id="Absbottom" approved="yes">
+				<source>Absbottom</source>
+				<target state="translated">Строка по низу</target>
+			</trans-unit>
+			<trans-unit id="Absmiddle" approved="yes">
+				<source>Absmiddle</source>
+				<target state="translated">Строка по центру</target>
+			</trans-unit>
+			<trans-unit id="Alignment:" approved="yes">
+				<source>Text alignment:</source>
+				<target state="translated">Выравнивание текста:</target>
+			</trans-unit>
+			<trans-unit id="Alignment not set" approved="yes">
+				<source>Not set</source>
+				<target state="translated">Не установлено</target>
+			</trans-unit>
+			<trans-unit id="All rights reserved." approved="yes">
+				<source>All Rights Reserved.</source>
+				<target state="translated">Все права защищены</target>
+			</trans-unit>
+			<trans-unit id="Alternate text:" approved="yes">
+				<source>Alternate text:</source>
+				<target state="translated">Альтернативный текст (ALT):</target>
+			</trans-unit>
+			<trans-unit id="Baseline" approved="yes">
+				<source>Baseline</source>
+				<target state="translated">По базовой линии</target>
+			</trans-unit>
+			<trans-unit id="Block style label" approved="yes">
+				<source>Block style:</source>
+				<target state="translated">Стиль блока:</target>
+			</trans-unit>
+			<trans-unit id="Border" approved="yes">
+				<source>Border</source>
+				<target state="translated">Рамка</target>
+			</trans-unit>
+			<trans-unit id="Border thickness:" approved="yes">
+				<source>Border thickness:</source>
+				<target state="translated">Толщина рамки:</target>
+			</trans-unit>
+			<trans-unit id="Bottom" approved="yes">
+				<source>Bottom</source>
+				<target state="translated">Текст по низу</target>
+			</trans-unit>
+			<trans-unit id="Browser support" approved="yes">
+				<source>Browser support</source>
+				<target state="translated">Поддержка браузеров</target>
+			</trans-unit>
+			<trans-unit id="Cancel" approved="yes">
+				<source>Cancel</source>
+				<target state="translated">Отмена</target>
+			</trans-unit>
+			<trans-unit id="Cell padding:" approved="yes">
+				<source>Cell padding:</source>
+				<target state="translated">Отступы внутри ячейки</target>
+			</trans-unit>
+			<trans-unit id="Cell spacing:" approved="yes">
+				<source>Cell spacing:</source>
+				<target state="translated">Интервал между ячейками:</target>
+			</trans-unit>
+			<trans-unit id="Center" approved="yes">
+				<source>Center</source>
+				<target state="translated">По центру</target>
+			</trans-unit>
+			<trans-unit id="Close" approved="yes">
+				<source>Close</source>
+				<target state="translated">Закрыть</target>
+			</trans-unit>
+			<trans-unit id="Cols:" approved="yes">
+				<source>Cols:</source>
+				<target state="translated">Столбцы:</target>
+			</trans-unit>
+			<trans-unit id="Delete" approved="yes">
+				<source>Delete</source>
+				<target state="translated">Удалить</target>
+			</trans-unit>
+			<trans-unit id="Developer" approved="yes">
+				<source>Developer</source>
+				<target state="translated">Разработчик</target>
+			</trans-unit>
+			<trans-unit id="Dimension" approved="yes">
+				<source>Dimension</source>
+				<target state="translated">Размерность</target>
+			</trans-unit>
+			<trans-unit id="Em" approved="yes">
+				<source>Em</source>
+				<target state="translated">Em</target>
+			</trans-unit>
+			<trans-unit id="Enter the image URL here" approved="yes">
+				<source>Enter the image URL here</source>
+				<target state="translated">Введите URL адрес картинки</target>
+			</trans-unit>
+			<trans-unit id="Float:" approved="yes">
+				<source>Float:</source>
+				<target state="translated">Плавающее:</target>
+			</trans-unit>
+			<trans-unit id="For browsers that dont support images" approved="yes">
+				<source>For browsers that don't support images</source>
+				<target state="translated">Для браузеров, которые не поддерживают изображений</target>
+			</trans-unit>
+			<trans-unit id="free_editor" approved="yes">
+				<source>A free and open-source editor for &lt;textarea&gt; fields, featuring integration with TYPO3.</source>
+				<target state="translated">Бесплатный редактор с открытым кодом для полей &lt;textarea&gt;, встроенный в TYPO3.</target>
+			</trans-unit>
+			<trans-unit id="General" approved="yes">
+				<source>General</source>
+				<target state="translated">Общее</target>
+			</trans-unit>
+			<trans-unit id="Horizontal:" approved="yes">
+				<source>Horizontal:</source>
+				<target state="translated">Горизонтальные:</target>
+			</trans-unit>
+			<trans-unit id="Horizontal padding" approved="yes">
+				<source>Horizontal padding</source>
+				<target state="translated">Отступ по горизонтали</target>
+			</trans-unit>
+			<trans-unit id="htmlArea License (based on BSD license)" approved="yes">
+				<source>htmlArea RTE License, based on BSD License</source>
+				<target state="translated">Лицензия htmlArea RTE (на основе лицензии BSD)</target>
+			</trans-unit>
+			<trans-unit id="Image alignment:" approved="yes">
+				<source>Image alignment:</source>
+				<target state="translated">Выравнивание изображения:</target>
+			</trans-unit>
+			<trans-unit id="Image Preview" approved="yes">
+				<source>Image Preview</source>
+				<target state="translated">Предварительный просмотр изображения</target>
+			</trans-unit>
+			<trans-unit id="Image URL:" approved="yes">
+				<source>Image URL:</source>
+				<target state="translated">URL изображения:</target>
+			</trans-unit>
+			<trans-unit id="image_url_first" approved="yes">
+				<source>You have to enter the image URL first</source>
+				<target state="translated">Сначала необходимо указать URL изображения</target>
+			</trans-unit>
+			<trans-unit id="image_url_required" approved="yes">
+				<source>You must enter the image URL</source>
+				<target state="translated">Нужно ввести URL изображения</target>
+			</trans-unit>
+			<trans-unit id="Insert Custom Element" approved="yes">
+				<source>Insert Custom Element</source>
+				<target state="translated">Вставить дополнительный элемент</target>
+			</trans-unit>
+			<trans-unit id="Insert image" approved="yes">
+				<source>Insert image</source>
+				<target state="translated">Вставить изображение</target>
+			</trans-unit>
+			<trans-unit id="Insert Image" approved="yes">
+				<source>Insert/Modify Image</source>
+				<target state="translated">Вставить/заменить изображение</target>
+			</trans-unit>
+			<trans-unit id="Insert link" approved="yes">
+				<source>Insert link</source>
+				<target state="translated">Вставить ссылку</target>
+			</trans-unit>
+			<trans-unit id="Insert/Modify Acronym" approved="yes">
+				<source>Insert/Modify Acronym or Abbreviation</source>
+				<target state="translated">Вставить/изменить акроним или аббревиатуру</target>
+			</trans-unit>
+			<trans-unit id="Insert/Modify Link" approved="yes">
+				<source>Insert/Modify Link</source>
+				<target state="translated">Вставить/изменить ссылку</target>
+			</trans-unit>
+			<trans-unit id="Insert Table" approved="yes">
+				<source>Insert Table</source>
+				<target state="translated">Вставить таблицу</target>
+			</trans-unit>
+			<trans-unit id="Justify" approved="yes">
+				<source>Justify</source>
+				<target state="translated">Выравнивание</target>
+			</trans-unit>
+			<trans-unit id="Language" approved="yes">
+				<source>Language</source>
+				<target state="translated">Язык</target>
+			</trans-unit>
+			<trans-unit id="Language:" approved="yes">
+				<source>Language:</source>
+				<target state="translated">Язык:</target>
+			</trans-unit>
+			<trans-unit id="Layout" approved="yes">
+				<source>Layout</source>
+				<target state="translated">Шаблон</target>
+			</trans-unit>
+			<trans-unit id="Leave empty for no border" approved="yes">
+				<source>Leave empty for no border</source>
+				<target state="translated">Оставьте пустым, если рамка не нужна</target>
+			</trans-unit>
+			<trans-unit id="Left" approved="yes">
+				<source>Left</source>
+				<target state="translated">Влево</target>
+			</trans-unit>
+			<trans-unit id="LeftToRight" approved="yes">
+				<source>Left to right</source>
+				<target state="translated">Слева направо</target>
+			</trans-unit>
+			<trans-unit id="License" approved="yes">
+				<source>License</source>
+				<target state="translated">Лицензия</target>
+			</trans-unit>
+			<trans-unit id="link_href_tooltip" approved="yes">
+				<source>Enter the link URL here</source>
+				<target state="translated">Введите URL ссылки</target>
+			</trans-unit>
+			<trans-unit id="link_target_tooltip" approved="yes">
+				<source>Select the name of the target frame</source>
+				<target state="translated">Выберите название фрейма в который будет вести данная ссылка</target>
+			</trans-unit>
+			<trans-unit id="link_title_tooltip" approved="yes">
+				<source>Enter the link tooltip here</source>
+				<target state="translated">Введите всплывающую подсказку для ссылки</target>
+			</trans-unit>
+			<trans-unit id="link_url_required" approved="yes">
+				<source>Please enter the URL where this link points to</source>
+				<target state="translated">Пожалуйста, введите адрес (URL), на который указывает эта ссылка</target>
+			</trans-unit>
+			<trans-unit id="Middle" approved="yes">
+				<source>Middle</source>
+				<target state="translated">По центру</target>
+			</trans-unit>
+			<trans-unit id="Modify image" approved="yes">
+				<source>Modify image</source>
+				<target state="translated">Изменить изображение</target>
+			</trans-unit>
+			<trans-unit id="Modify link" approved="yes">
+				<source>Modify link</source>
+				<target state="translated">Изменить ссылку</target>
+			</trans-unit>
+			<trans-unit id="Mozilla_or_IE" approved="no">
+				<source>For Firefox 1.5+, SeaMonkey 1.0+, Safari 3.0.4+, Google Chrome 1.0+ and Opera 9.62+ on any platform, and for Internet Explorer 9.0+ on Windows.</source>
+				<target state="needs-translation">Для браузеров Firefox 1.5+, SeaMonkey 1.0+, Safari 3.0.4+, Google Chrome 1.0+ и Opera 9.62+ любой из ОС, а также для Internet Explorer 6.0+ для Windows.</target>
+			</trans-unit>
+			<trans-unit id="Name" approved="yes">
+				<source>Name</source>
+				<target state="translated">Название</target>
+			</trans-unit>
+			<trans-unit id="No language mark" approved="yes">
+				<source>No language</source>
+				<target state="translated">Нет языка</target>
+			</trans-unit>
+			<trans-unit id="Non-floating" approved="yes">
+				<source>Non-floating</source>
+				<target state="translated">Не плавающее</target>
+			</trans-unit>
+			<trans-unit id="No plugins have been loaded." approved="yes">
+				<source>No plugins have been loaded.</source>
+				<target state="translated">Дополнения не загружены.</target>
+			</trans-unit>
+			<trans-unit id="Not set" approved="yes">
+				<source>Not set</source>
+				<target state="translated">Не установлено</target>
+			</trans-unit>
+			<trans-unit id="Number of columns" approved="yes">
+				<source>Number of columns</source>
+				<target state="translated">Количество столбцов</target>
+			</trans-unit>
+			<trans-unit id="Number of rows" approved="yes">
+				<source>Number of rows</source>
+				<target state="translated">Количество строк</target>
+			</trans-unit>
+			<trans-unit id="OK" approved="yes">
+				<source>OK</source>
+				<target state="translated">ОК</target>
+			</trans-unit>
+			<trans-unit id="Percent" approved="yes">
+				<source>Percent</source>
+				<target state="translated">Проценты</target>
+			</trans-unit>
+			<trans-unit id="Pixels" approved="yes">
+				<source>Pixels</source>
+				<target state="translated">Точки</target>
+			</trans-unit>
+			<trans-unit id="Plugins" approved="yes">
+				<source>Plugins</source>
+				<target state="translated">Дополнения</target>
+			</trans-unit>
+			<trans-unit id="Positioning of this image" approved="yes">
+				<source>Positioning of this image relative to text</source>
+				<target state="translated">Выравнивание изображения относительно текста</target>
+			</trans-unit>
+			<trans-unit id="Preview" approved="yes">
+				<source>Preview</source>
+				<target state="translated">Предварительный просмотр</target>
+			</trans-unit>
+			<trans-unit id="Preview the image in a new window" approved="yes">
+				<source>Preview the image in a new window</source>
+				<target state="translated">Предпросмотр изображения в новом окне</target>
+			</trans-unit>
+			<trans-unit id="product_documentation" approved="yes">
+				<source>For more information, please visit:</source>
+				<target state="translated">Подробная информация доступна по адресу:</target>
+			</trans-unit>
+			<trans-unit id="Remove language mark" approved="yes">
+				<source>Remove language</source>
+				<target state="translated">Удалить язык</target>
+			</trans-unit>
+			<trans-unit id="Right" approved="yes">
+				<source>Right</source>
+				<target state="translated">Вправо</target>
+			</trans-unit>
+			<trans-unit id="RightToLeft" approved="yes">
+				<source>Right to left</source>
+				<target state="translated">Справа налево</target>
+			</trans-unit>
+			<trans-unit id="Rows:" approved="yes">
+				<source>Rows:</source>
+				<target state="translated">Строки:</target>
+			</trans-unit>
+			<trans-unit id="Select Color" approved="yes">
+				<source>Select Color</source>
+				<target state="translated">Выбор цвета</target>
+			</trans-unit>
+			<trans-unit id="Space between adjacent cells" approved="yes">
+				<source>Space between adjacent cells</source>
+				<target state="translated">Расстояние между смежными ячейками</target>
+			</trans-unit>
+			<trans-unit id="Space between content and border in cell" approved="yes">
+				<source>Space between content and border in cell</source>
+				<target state="translated">Отступы между содержимым ячейки и её рамкой</target>
+			</trans-unit>
+			<trans-unit id="Spacing and padding" approved="yes">
+				<source>Spacing and padding</source>
+				<target state="translated">Интервалы и отступы (внешние и внутри)</target>
+			</trans-unit>
+			<trans-unit id="Sponsored by" approved="yes">
+				<source>Sponsored by</source>
+				<target state="translated">Оплачивается</target>
+			</trans-unit>
+			<trans-unit id="statusBarReady" approved="yes">
+				<source>Ready</source>
+				<target state="translated">Готово</target>
+			</trans-unit>
+			<trans-unit id="statusBarStyle" approved="yes">
+				<source>Style</source>
+				<target state="translated">Стиль</target>
+			</trans-unit>
+			<trans-unit id="style" approved="yes">
+				<source>Paragraph:</source>
+				<target state="translated">Параграф:</target>
+			</trans-unit>
+			<trans-unit id="Target:" approved="yes">
+				<source>Target:</source>
+				<target state="translated">Цель:</target>
+			</trans-unit>
+			<trans-unit id="target_blank" approved="yes">
+				<source>New window (_blank)</source>
+				<target state="translated">Новое окно (_blank)</target>
+			</trans-unit>
+			<trans-unit id="target_none" approved="yes">
+				<source>None (use implicit)</source>
+				<target state="translated">Пусто (значение наследуется)</target>
+			</trans-unit>
+			<trans-unit id="target_other" approved="yes">
+				<source>Other frame</source>
+				<target state="translated">Другой фрейм</target>
+			</trans-unit>
+			<trans-unit id="target_self" approved="yes">
+				<source>Same frame (_self)</source>
+				<target state="translated">Тот же фрейм (_self)</target>
+			</trans-unit>
+			<trans-unit id="target_top" approved="yes">
+				<source>Top frame (_top)</source>
+				<target state="translated">Основной фрейм (_top)</target>
+			</trans-unit>
+			<trans-unit id="Text alignment" approved="yes">
+				<source>Text alignment</source>
+				<target state="translated">Выравнивание текста</target>
+			</trans-unit>
+			<trans-unit id="Text direction" approved="yes">
+				<source>Text direction</source>
+				<target state="translated">Направление текста</target>
+			</trans-unit>
+			<trans-unit id="Text direction:" approved="yes">
+				<source>Text direction:</source>
+				<target state="translated">Направление текста:</target>
+			</trans-unit>
+			<trans-unit id="text_style" approved="yes">
+				<source>Text style:</source>
+				<target state="translated">Стиль текста:</target>
+			</trans-unit>
+			<trans-unit id="Texttop" approved="yes">
+				<source>Texttop</source>
+				<target state="translated">Текст по верху</target>
+			</trans-unit>
+			<trans-unit id="The following plugins have been loaded." approved="yes">
+				<source>The following plugins have been loaded.</source>
+				<target state="translated">Загружены следующие дополнения.</target>
+			</trans-unit>
+			<trans-unit id="Title (tooltip):" approved="yes">
+				<source>Title:</source>
+				<target state="translated">Заголовок:</target>
+			</trans-unit>
+			<trans-unit id="Top" approved="yes">
+				<source>Top</source>
+				<target state="translated">Верх</target>
+			</trans-unit>
+			<trans-unit id="URL:" approved="yes">
+				<source>URL:</source>
+				<target state="translated">Адрес</target>
+			</trans-unit>
+			<trans-unit id="User agent reports:" approved="yes">
+				<source>User agent reports:</source>
+				<target state="translated">Сообщения браузера:</target>
+			</trans-unit>
+			<trans-unit id="Vertical:" approved="yes">
+				<source>Vertical:</source>
+				<target state="translated">Вертикальные</target>
+			</trans-unit>
+			<trans-unit id="Vertical padding" approved="yes">
+				<source>Vertical padding</source>
+				<target state="translated">Отступ по вертикали</target>
+			</trans-unit>
+			<trans-unit id="Where the image should float" approved="yes">
+				<source>Specifies where the image should float</source>
+				<target state="translated">Должно ли изображение быть плавающим?</target>
+			</trans-unit>
+			<trans-unit id="Where the table should float" approved="yes">
+				<source>Specifies where the table should float</source>
+				<target state="translated">Должна ли таблица быть плавающей?</target>
+			</trans-unit>
+			<trans-unit id="Width:" approved="yes">
+				<source>Width:</source>
+				<target state="translated">Ширина:</target>
+			</trans-unit>
+			<trans-unit id="Width of the table" approved="yes">
+				<source>Width of the table</source>
+				<target state="translated">Ширина таблицы</target>
+			</trans-unit>
+			<trans-unit id="Width unit" approved="yes">
+				<source>Width unit</source>
+				<target state="translated">Единицы ширины</target>
+			</trans-unit>
+			<trans-unit id="word" approved="yes">
+				<source>word</source>
+				<target state="translated">слово</target>
+			</trans-unit>
+			<trans-unit id="words" approved="yes">
+				<source>words</source>
+				<target state="translated">слова</target>
+			</trans-unit>
+			<trans-unit id="You must enter a number of columns" approved="yes">
+				<source>You must enter a number of columns</source>
+				<target state="translated">Необходимо ввести количество столбцов</target>
+			</trans-unit>
+			<trans-unit id="You must enter a number of rows" approved="yes">
+				<source>You must enter a number of rows</source>
+				<target state="translated">Необходимо ввести количество строк</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

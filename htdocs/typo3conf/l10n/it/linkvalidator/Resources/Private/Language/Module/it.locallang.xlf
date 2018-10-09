@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:01:51Z" product-name="linkvalidator">
+		<header/>
+		<body>
+			<trans-unit id="CheckLink" approved="yes">
+				<source>Check Links</source>
+				<target state="translated">Verifica i links</target>
+			</trans-unit>
+			<trans-unit id="checklinks.func.title" approved="yes">
+				<source>Check this level</source>
+				<target state="translated">Verifica questo livello</target>
+			</trans-unit>
+			<trans-unit id="checklinks.statistics.header" approved="yes">
+				<source>Check these types of broken links</source>
+				<target state="translated">Verifica questi tipi di link malfunzionanti</target>
+			</trans-unit>
+			<trans-unit id="hooks.db" approved="yes">
+				<source>Internal Links:</source>
+				<target state="translated">Link Interni:</target>
+			</trans-unit>
+			<trans-unit id="hooks.external" approved="yes">
+				<source>External Links:</source>
+				<target state="translated">Link esterni:</target>
+			</trans-unit>
+			<trans-unit id="hooks.file" approved="yes">
+				<source>File Links:</source>
+				<target state="translated">Link a files:</target>
+			</trans-unit>
+			<trans-unit id="hooks.linkhandler" approved="yes">
+				<source>Linkhandler Links:</source>
+				<target state="translated">Gestore dei links:</target>
+			</trans-unit>
+			<trans-unit id="label_refresh" approved="yes">
+				<source>Refresh display</source>
+				<target state="translated">Aggiorna lo schermo</target>
+			</trans-unit>
+			<trans-unit id="label_update" approved="yes">
+				<source>Check links</source>
+				<target state="translated">Verifica i links</target>
+			</trans-unit>
+			<trans-unit id="list.edit" approved="yes">
+				<source>Edit element containing this broken link</source>
+				<target state="translated">Edita gli elementi che contengono i link malfunzionanti</target>
+			</trans-unit>
+			<trans-unit id="list.field" approved="yes">
+				<source>(Field: %s)</source>
+				<target state="translated">(Campo: %s)</target>
+			</trans-unit>
+			<trans-unit id="list.header" approved="yes">
+				<source>Listing of broken links</source>
+				<target state="translated">Elenco dei link malfunzionanti</target>
+			</trans-unit>
+			<trans-unit id="list.msg.lastRun" approved="no">
+				<source>%1$s %2$s</source>
+				<target state="needs-translation">%1$s %2$s</target>
+			</trans-unit>
+			<trans-unit id="list.msg.ok" approved="yes">
+				<source>Ok</source>
+				<target state="translated">Ok</target>
+			</trans-unit>
+			<trans-unit id="list.no.broken.links" approved="yes">
+				<source>There are no broken links to be displayed.</source>
+				<target state="translated">Non esistono link malfunzionanti da visualizzare.</target>
+			</trans-unit>
+			<trans-unit id="list.no.broken.links.title" approved="yes">
+				<source>No broken links to show!</source>
+				<target state="translated">Non esistono link malfunzionanti da mostrare!</target>
+			</trans-unit>
+			<trans-unit id="list.no.headline" approved="yes">
+				<source>no headline</source>
+				<target state="translated">nessuna headline</target>
+			</trans-unit>
+			<trans-unit id="list.report.contentdeleted" approved="yes">
+				<source>Element '###title###' (###uid###) is deleted.</source>
+				<target state="translated">Elemento '###title###' (###uid###) è stato cancellato.</target>
+			</trans-unit>
+			<trans-unit id="list.report.contentmoved" approved="yes">
+				<source>Element '###title###' (###uid###) is not located on page ###wrongpage###, but on page ###rightpage###.</source>
+				<target state="translated">Elemento '###title###' (###uid###) non si trova nella pagina ###wrongpage###, bensì nella pagina ###rightpage###.</target>
+			</trans-unit>
+			<trans-unit id="list.report.contentnotexisting" approved="yes">
+				<source>Element (###uid###) does not exist.</source>
+				<target state="translated">Elemento (###uid###) non esiste.</target>
+			</trans-unit>
+			<trans-unit id="list.report.contentnotvisible" approved="yes">
+				<source>Element '###title###' (###uid###) is not visible.</source>
+				<target state="translated">Elemento '###title###' (###uid###) non è visibile.</target>
+			</trans-unit>
+			<trans-unit id="list.report.couldnotresolvehost" approved="yes">
+				<source>Could not resolve host. The given remote host was not resolved.</source>
+				<target state="translated">L'host non può essere risolto. L'host remoto inserito non è stato risolto.</target>
+			</trans-unit>
+			<trans-unit id="list.report.errornetworkdata" approved="yes">
+				<source>Failure with receiving network data.</source>
+				<target state="translated">Errore nel ricevere dati via rete.</target>
+			</trans-unit>
+			<trans-unit id="list.report.externalerror" approved="yes">
+				<source>External Link returned HTTP error code (%s).</source>
+				<target state="translated">Il link esterno ha restituito un codice di errore HTTP (%s).</target>
+			</trans-unit>
+			<trans-unit id="list.report.filenotexisting" approved="yes">
+				<source>File doesn't exist.</source>
+				<target state="translated">Il file non esiste.</target>
+			</trans-unit>
+			<trans-unit id="list.report.httpexception" approved="yes">
+				<source>Exception: %s</source>
+				<target state="translated">Eccezione: %s</target>
+			</trans-unit>
+			<trans-unit id="list.report.internalerror500" approved="yes">
+				<source>Internal Server Error (500)</source>
+				<target state="translated">Errore interno al Server (500)</target>
+			</trans-unit>
+			<trans-unit id="list.report.noinformation" approved="yes">
+				<source>No information about the error is available.</source>
+				<target state="translated">Non esistono informazioni più precise su questo errore.</target>
+			</trans-unit>
+			<trans-unit id="list.report.noresponse" approved="yes">
+				<source>External Link not reachable.</source>
+				<target state="translated">Link esterno non raggiungibile.</target>
+			</trans-unit>
+			<trans-unit id="list.report.otherhttpcode" approved="yes">
+				<source>An error occurred (%s): "%s".</source>
+				<target state="translated">Si è verificato un errore (%s): "%s".</target>
+			</trans-unit>
+			<trans-unit id="list.report.pagedeleted" approved="yes">
+				<source>Page '###title###' (###uid###) is deleted.</source>
+				<target state="translated">La pagina '###title###' (###uid###) è stata cancellata.</target>
+			</trans-unit>
+			<trans-unit id="list.report.pageforbidden403" approved="yes">
+				<source>Accessing this address is not allowed (403).</source>
+				<target state="translated">L'accesso a questo indirizzo non è consentito (403).</target>
+			</trans-unit>
+			<trans-unit id="list.report.pagenotexisting" approved="yes">
+				<source>Page (###uid###) does not exist.</source>
+				<target state="translated">La pagina(###uid###) non esiste.</target>
+			</trans-unit>
+			<trans-unit id="list.report.pagenotfound404" approved="yes">
+				<source>The requested url was not found (404).</source>
+				<target state="translated">L'url richiesto non è stato trovato (404).</target>
+			</trans-unit>
+			<trans-unit id="list.report.pagenotvisible" approved="yes">
+				<source>Page '###title###' (###uid###) is not visible.</source>
+				<target state="translated">La pagina '###title###' (###uid###) non è visibile.</target>
+			</trans-unit>
+			<trans-unit id="list.report.redirectloop" approved="yes">
+				<source>A redirect loop occurred. (%s: %s)</source>
+				<target state="translated">Si è verificato un problema causato da una redirezione circolare (%s: %s)</target>
+			</trans-unit>
+			<trans-unit id="list.report.rowdeleted" approved="yes">
+				<source>###title### row (###uid###) is deleted.</source>
+				<target state="translated">riga ###title### (###uid###) è stata cancellata.</target>
+			</trans-unit>
+			<trans-unit id="list.report.rowdeleted.default.title" approved="yes">
+				<source>Linked</source>
+				<target state="translated">Collegato a</target>
+			</trans-unit>
+			<trans-unit id="list.report.rownotexisting" approved="yes">
+				<source>Row (###uid###) does not exist.</source>
+				<target state="translated">La riga (###uid###) non esiste.</target>
+			</trans-unit>
+			<trans-unit id="list.report.timeout" approved="yes">
+				<source>Operation timeout. The specified time-out period was reached according to the conditions.</source>
+				<target state="translated">Timeout nella elaborazione. Il periodo massimo per la elaborazione è stato raggiunto.</target>
+			</trans-unit>
+			<trans-unit id="list.tableHead.element" approved="yes">
+				<source>Element</source>
+				<target state="translated">Elemento</target>
+			</trans-unit>
+			<trans-unit id="list.tableHead.headlink" approved="yes">
+				<source>Link</source>
+				<target state="translated">Link</target>
+			</trans-unit>
+			<trans-unit id="list.tableHead.lastCheck" approved="yes">
+				<source>Last check</source>
+				<target state="translated">Ultima verifica</target>
+			</trans-unit>
+			<trans-unit id="list.tableHead.linkmessage" approved="yes">
+				<source>Error message</source>
+				<target state="translated">Messaggio di errore</target>
+			</trans-unit>
+			<trans-unit id="list.tableHead.linktarget" approved="yes">
+				<source>URL / Link Target</source>
+				<target state="translated">URL / destinazione del link</target>
+			</trans-unit>
+			<trans-unit id="list.tableHead.path" approved="yes">
+				<source>Path</source>
+				<target state="translated">Percorso</target>
+			</trans-unit>
+			<trans-unit id="menu.checkLinks" approved="yes">
+				<source>Check Links for validity</source>
+				<target state="translated">Verifica se i link sono validi</target>
+			</trans-unit>
+			<trans-unit id="menu.introduction" approved="yes">
+				<source>Introduction</source>
+				<target state="translated">Introduzione</target>
+			</trans-unit>
+			<trans-unit id="menu.overview" approved="yes">
+				<source>Overview of links on website</source>
+				<target state="translated">Panoramica dei link di questo sito</target>
+			</trans-unit>
+			<trans-unit id="no.access" approved="yes">
+				<source>You do not have access to these listings.</source>
+				<target state="translated">Non hai accesso a questi elenchi.</target>
+			</trans-unit>
+			<trans-unit id="no.access.title" approved="yes">
+				<source>No access!</source>
+				<target state="translated">Mancato accesso!</target>
+			</trans-unit>
+			<trans-unit id="overview.all.header" approved="yes">
+				<source>Total amounts in tt_content</source>
+				<target state="translated">Totale generale in tt_content</target>
+			</trans-unit>
+			<trans-unit id="overview.all.links" approved="yes">
+				<source>External links:</source>
+				<target state="translated">Link esterni:</target>
+			</trans-unit>
+			<trans-unit id="overview.all.records" approved="yes">
+				<source>Records with ext. links:</source>
+				<target state="translated">Record con link esterni:</target>
+			</trans-unit>
+			<trans-unit id="overview.attention.header" approved="yes">
+				<source>Attention:</source>
+				<target state="translated">Attenzione:</target>
+			</trans-unit>
+			<trans-unit id="overview.attention.text" approved="yes">
+				<source>Checking links may take up to several minutes. Checking ONE link can last up to 3 seconds.</source>
+				<target state="translated">La verifica dei link può richiedere diversi minuti. La sola verifica di un link può richiedere fino a 3 secondi.</target>
+			</trans-unit>
+			<trans-unit id="overview.branch.header" approved="yes">
+				<source>Amounts from actual branch in tt_content</source>
+				<target state="translated">Totale dal ramo corrente di tt_content</target>
+			</trans-unit>
+			<trans-unit id="overview.branch.links" approved="yes">
+				<source>External links:</source>
+				<target state="translated">Link esterni:</target>
+			</trans-unit>
+			<trans-unit id="overview.branch.records" approved="yes">
+				<source>Records with ext. links:</source>
+				<target state="translated">Records con link esterni:</target>
+			</trans-unit>
+			<trans-unit id="overview.header" approved="yes">
+				<source>Overview - choose options to check the links</source>
+				<target state="translated">Panoramica - scegli le opzioni per verificare i links</target>
+			</trans-unit>
+			<trans-unit id="overviews.nbtotal" approved="yes">
+				<source>Broken links total:</source>
+				<target state="translated">Totale di link malfunzionanti:</target>
+			</trans-unit>
+			<trans-unit id="Report" approved="yes">
+				<source>Report</source>
+				<target state="translated">Rapporto</target>
+			</trans-unit>
+			<trans-unit id="report.func.title" approved="yes">
+				<source>Show this level</source>
+				<target state="translated">Mostra questo livello</target>
+			</trans-unit>
+			<trans-unit id="report.statistics.header" approved="yes">
+				<source>Show these types of broken links</source>
+				<target state="translated">Mostra questi di link malfunzionanti</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="depth_0">Cette page</label>
+			<label index="depth_1">1 niveau</label>
+			<label index="depth_2">2 niveaux</label>
+			<label index="depth_3">3 niveaux</label>
+			<label index="mlang_labels_tabdescr">Le module Web&gt;Info présente des informations statistiques sur les pages. Ceci inclut des statistiques d'accès aux pages et le journal des changements apportés aux pages. Vous pouvez aussi consulter un sommaire du nombre d'éléments et des options de chaque page dans une présentation arborescente classique.</label>
+			<label index="mlang_labels_tablabel">Information sur les pages, ex.: statistiques, historique de changements, nombre d'éléments.</label>
+			<label index="mlang_tabs_tab">Info</label>
+			<label index="title">Information sur la page</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

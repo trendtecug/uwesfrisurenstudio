@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="Default">По умолчанию</label>
+			<label index="InlineCSS-class-Tooltip">Применить стиль к выделеному тексту</label>
+			<label index="InlineCSSStyleTooltip">Применить стиль к выделеному тексту</label>
+			<label index="Undefined">Неопределено</label>
+			<label index="You have to select some text">Сначала надо выделить текст</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

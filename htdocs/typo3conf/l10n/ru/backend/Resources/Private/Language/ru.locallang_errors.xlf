@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T00:05:19Z" product-name="backend">
+		<header/>
+		<body>
+			<trans-unit id="foldertreeview.noFolders.message" approved="yes">
+				<source>You do not have access to any folder. Please ask your administrator to fix access permissions for your account.</source>
+				<target state="translated">Нет доступа ни к одной из папок. Попросите администратора исправить права доступа для Вашей учётной записи.</target>
+			</trans-unit>
+			<trans-unit id="foldertreeview.noFolders.title" approved="yes">
+				<source>No folders available</source>
+				<target state="translated">Нет доступных директорий</target>
+			</trans-unit>
+			<trans-unit id="no_modules_registered" approved="yes">
+				<source>No modules have been registered. Please contact your system administrator.</source>
+				<target state="translated">Модули не зарегистрированы. Свяжитесь со своим системным администратором.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

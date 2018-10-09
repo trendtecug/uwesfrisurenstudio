@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index=".alttitle">Ядро TYPO3</label>
+			<label index="bookmarks.alttitle">Закладки во внутреннем интерфейсе</label>
+			<label index="bookmarks.description">Закладки для модулей в TYPO3 создаются очень просто. При их помощи можно очень быстро, &lt;em&gt;одним&lt;/em&gt; щелчком, перемещаться между модулями внутреннего интерфейса. Во фрейме также имеется поле для ввода id страницы или записи для перехода к ее редактированию или просто поиска.</label>
+			<label index="bookmarks.details">Для создания закладки, нужна их поддержка со стороны модуля, на который создается закладка. Судить об этом можно по верхней части модуля - если там имеется небольшая звездочка, то щелкнув по ней, можно создать закладку.</label>
+			<label index="_bookmarks.image">EXT:lang/cshimages/core_64.png,
+EXT:lang/cshimages/core_65.png,
+EXT:lang/cshimages/core_67.png,
+EXT:lang/cshimages/core_68.png,</label>
+			<label index="bookmarks.image_descr">Чтобы создать закладку на страницу, просто щелкните по звездочке, обычно находящейся в верхней части страницы. Необходимо подтвердить создание закладки. Ничего страшного - просто защита от создания нежелательных закладок, нажмите "OK". После согласия, значок закладки сразу же появится в обновленной панели инструментов, а в меню появится новый пункт. Щелкнув по нему, можно сразу же перейти на страницу с закладкой! Закладкам можно давать названия, группировать и делать их общими. Для правки или удаления закладок, отметьте флажок "Правка" и щелкните по значку закладки.</label>
+			<label index="_bookmarks.seeAlso">TSconfig пользователя -&gt;НАСТРОЙКА | http://typo3.org/documentation/document-library/doc_core_tsconfig/OPTIONS/</label>
+			<label index=".description">TYPO3 это система управления информационным содержимым, состоящая из основной программы, ядра с ограниченной функциональностью. Для расширения основной функциональности существует тысячи расширений, сочетание которых делает систему очень гибкой.</label>
+			<label index=".details">Для большинства людей, TYPO3 одна из CMS, с внутренним интерфейсом управления информационным содержимым и движком внешнего интерфейса, для отображения сайта. Тем не менее, ядро TYPO3 в основном разрабатывался для управления содержимым базы данных. Ядро TYPO3 предоставляет набор основных правил для хранения этого содержимого, управления доступом пользователей, редактирования содержимого, загрузки и управления файлами и т.д. Многие из этих правил представлены как API (интерфейс прикладного программирования) для применения в &lt;em&gt;расширениях&lt;/em&gt;, которые, в свою очередь, добавляют основную функциональность.</label>
+			<label index="file_edit.alttitle">Редактирование файла</label>
+			<label index="file_edit.description">Здесь возможно отредактировать содержимое текстового файла.</label>
+			<label index="_file_edit.image">EXT:lang/cshimages/core_50.png</label>
+			<label index="file_edit.image_descr">Форма редактирования текстового файла - простое текстовое поле. Здесь, конечно, отсутствует встроенная помощь по редактированию и исправлению ошибок, а также дополнительная функциональность, например расстановка табуляций, но вполне возможно проделать простое редактирование...</label>
+			<label index="_file_edit.seeAlso">xMOD_csh_corebe:filelist_module</label>
+			<label index="filelist_clipboard.alttitle">Буфер обмена в списке файлов</label>
+			<label index="filelist_clipboard.description">Для файлов буфер обмена в TYPO3 работает также, как и для записей (смотрите модуль Веб&gt;Список). Всего лишь нужно включить один из пронумерованных буферов обмена.</label>
+			<label index="_filelist_clipboard.image">EXT:lang/cshimages/core_44.png,
+EXT:lang/cshimages/core_46.png</label>
+			<label index="filelist_clipboard.image_descr">Здесь показан "Обычный" буфер обмена, в который помещено изображение. Доступна кнопка "Эскизы" для просмотра значка изображения. Если включены нумерованные буферы обмена, возможно за раз поместить в них несколько элементов. Если выбранные элементы находятся в текущей папке, это отображается на флажках выбора элементов. Для помещения содержимого в папку используйте значок вставки в модуле Список файлов.</label>
+			<label index="_filelist_clipboard.seeAlso">xMOD_csh_corebe:list_clipboard,
+About the Clipboard [Technical] | http://typo3.org/documentation/document-library/doc_core_inside/Clipboard/</label>
+			<label index="filelist_module.alttitle">Модуль Файл &gt; Список файлов</label>
+			<label index="filelist_module.description">Показывает файлы и папки из выбранной в файловой структуре папки. Щелкнув по значку папки или файла, можно выбрать действие, которое нужно с ними сделать.</label>
+			<label index="filelist_module.details">Модуль Файл &gt; Список файлов предоставляет основной интерфейс для сетевого FTP-доступа в TYPO3. Щелкнув по папке в окне навигации можно просмотреть находящиеся в ней файлы и папки в правой части окна. Щелчок по значку файла или папки вызовет контекстное меню, с относящимися к выбранному элементу действиями. При этом будет возможно редактирование, переименование или копирование. &lt;b&gt;Папка "TEMP"&lt;/b&gt; Существует специальная папка "TEMP". Она используется для временных загрузок файлов, которые в дальнейшем будут прикреплены к записям TYPO3. Содержимое этой папки должно периодически сбрасываться на диск, так как папка зачастую может переполняться файлами. Поэтому не используйте ее для хранения постоянных данных! Настоящее название папки — "_temp_". Оно просто интерпретируется интерфейсом, как "TEMP". То же самое применимо для папок с названием "_recycler_" - это корзины для удаленных файлов.</label>
+			<label index="_filelist_module.image">EXT:lang/cshimages/core_47.png,
+EXT:lang/cshimages/core_49.png</label>
+			<label index="filelist_module.image_descr">Здесь показано содержимое папки TEMP. Можно увидеть типы файлов, время их изменения, размер. Щелчок по названию файла откроет его в браузере (если указан путь от корня сайта). Щелчок по значку файла откроет контекстное всплывающее меню. Здесь можно выбрать действие, которое нужно совершить с файлом.</label>
+			<label index="_filelist_module.seeAlso">xMOD_csh_corebe:list_module,
+xMOD_csh_corebe:filetree,
+be_groups:file_mountpoints,
+sys_filemounts</label>
+			<label index="filelist_options.alttitle">Параметры Файл &gt; Список файлов</label>
+			<label index="filelist_options.description">Можно отобразить эскизы изображений и включить буфер обмена для операций копирования/вырезания/вставки нескольких файлов или папок за раз.</label>
+			<label index="_filelist_options.image">EXT:lang/cshimages/core_48.png</label>
+			<label index="filelist_options.image_descr">Включение эскизов означает, что все файлы изображений будут показаны в виде небольших эскизов, что удобно для их поиска.</label>
+			<label index="_filelist_options.seeAlso">xMOD_csh_corebe:list_options,
+_MOD_user_setup:option_showThumbs,
+xMOD_csh_corebe:filelist_clipboard</label>
+			<label index="file_newfile.alttitle">Создание нового файла</label>
+			<label index="file_newfile.description">Введите название файла, если нужно создать новый текстовый файл. Помните, что он должен иметь одно из расширений, занесенных в список текстовых файлов (за исключением расширения "php").</label>
+			<label index="file_newfile.details">Новые файлы будут иметь нулевой размер. После создания нового файла, было бы естественно добавить в него содержимое. Это делается простым щелчком по значку этого файла с последующим выбором из контекстного меню пункта "Правка".</label>
+			<label index="_file_newfile.image">EXT:lang/cshimages/core_51.png,
+EXT:lang/cshimages/core_54.png,
+EXT:lang/cshimages/core_55.png,</label>
+			<label index="file_newfile.image_descr">Для создания нового файла, сначала щелкните по значку папки, в которой нужно создать новый файл, а затем выберете пункт "Новый". После чего в окне справа введите название файла. Нажав на "Создать файл", можно увидеть новый пустой файл в выбранной папке.</label>
+			<label index="_file_newfile.seeAlso">xMOD_csh_corebe:file_edit,
+xMOD_csh_corebe:filelist_module,
+xMOD_csh_corebe:file_newfolder,
+xMOD_csh_corebe:file_rename</label>
+			<label index="file_newfolder.alttitle">Создание новой папки</label>
+			<label index="file_newfolder.description">Введите название для новой папки в дереве страниц. Если нужно создать несколько папок, выберете их количество перед вводом названий.</label>
+			<label index="_file_newfolder.image">EXT:lang/cshimages/core_51.png,
+EXT:lang/cshimages/core_52.png,
+EXT:lang/cshimages/core_53.png,</label>
+			<label index="file_newfolder.image_descr">Для создания новой папки, сначала щелкните по значку родительской папки в дереве страниц. На следующем этапе выберете количество создаваемых новых папок и введите их названия. После нажатия на кнопку "Создать папки", новые папки появятся в дереве файлов после его обновления.</label>
+			<label index="_file_newfolder.seeAlso">xMOD_csh_corebe:filelist_module,
+xMOD_csh_corebe:file_newfile,
+xMOD_csh_corebe:file_rename</label>
+			<label index="file_rename.alttitle">Переименование файла или папки</label>
+			<label index="file_rename.description">Переименовывать файлы или папки в TYPO3 очень легко. Но помните, что некоторые символы недопустимы. Используйте буквы a-z, числа, почеркивания и не делайте очень длинные имена. При вводе неверных символов, они будут автоматически откорректированы.</label>
+			<label index="_file_rename.image">EXT:lang/cshimages/core_56.png,
+EXT:lang/cshimages/core_57.png,</label>
+			<label index="file_rename.image_descr">Для переименования файла (или папки) просто щелкните по его значку, выберете "Переименовать" и введите новое название. Помните, что при переименовании нужно соблюдать определенные правила, например, расширение ".php" недопустимо по правилам безопасности.</label>
+			<label index="_file_rename.seeAlso">xMOD_csh_corebe:filelist_module</label>
+			<label index="filetree.alttitle">Дерево файловой структуры</label>
+			<label index="filetree.description">Показывается файловая структура с установленной точки доступа к серверу. Можно перемещаться по дереву файлов, подобно тому, как перемещаетесь по файловой структуре на своем компьютере.</label>
+			<label index="filetree.details">Дерево папок доступно для подмодулей основного модуля Файл в TYPO3. Модуль Файл похож на маленький сетевой FTP клиент внутри TYPO3, позволяющий загружать, переименовывать, копировать, перемещать, удалять и редактировать файлы внутри TYPO3. Большинству пользователей TYPO3 не нужен доступ к модулю Файл и его подмодулям для загрузки изображений на страницы. Они могут это делать непосредственно при редактировании элемента содержимого. Но этот модуль полезен для загрузки множества файлов на сервер, например архива изображений или файлов для скачивания с сервера. &lt;b&gt;Перемещение по дереву файлов&lt;/b&gt; Щелчок по кнопкам +/- развернет/свернет ветви дерева. Щелчок по значку папки выведет всплывающее контекстное меню с доступными действиями для выбранной папки. Действия включают копирование/вырезку/вставку, переименование, загрузку и т.п. Щелчок по заголовку папки загрузит выбранный в текущий момент подмодуль в правом окне. Обычно подмодуль отображает файлы и папки в текущей, выбранной папке. &lt;b&gt;Предоставление доступа к дереву файлов&lt;/b&gt; Администраторы должны предоставить внутренним пользователям доступ к файловым модулям и дополнительно сделать доступной точку доступа к структуре файлов.</label>
+			<label index="_filetree.image">EXT:lang/cshimages/core_8.png,
+EXT:lang/cshimages/core_9.png,
+EXT:lang/cshimages/core_10.png</label>
+			<label index="filetree.image_descr">Дерево файлов папки "fileadmin/". Обычно к этой точке имеют доступ пользователи-"администраторы". Для других пользователей точки доступа нужно настраивать. Щелчок по значку папки выведет контекстное меню для этой папки. Щелчок по названию папки, загрузит в правое окно выбранный в меню подмодуль. Здесь это модуль Файл &gt; Список файлов, отображающий содержащиеся в папке файлы и папки. Щелчок по значку файла выведет контекстное меню для этого файла.</label>
+			<label index="_filetree.seeAlso">be_groups:groupMods,
+be_groups:file_mountpoints,
+be_users:file_mountpoints,
+Managing files in TYPO3 | http://typo3.org/documentation/document-library/doc_tut_quickstart/Managing_files_in_TY/
+Uploading Files | http://typo3.org/documentation/document-library/doc_tut_quickstart/Uploading_images_to/,
+Details about file mounts | http://typo3.org/documentation/document-library/doc_core_inside/More_about_File_Moun/,
+sys_filemounts,
+xMOD_csh_corebe:filelist_module</label>
+			<label index="file_upload.alttitle">Загрузка файлов</label>
+			<label index="file_upload.description">Здесь можно загрузить один или несколько файлов на сервер. Начните с выбора количества загружаемых файлов, затем выберете файлы на локальном компьютере.</label>
+			<label index="file_upload.details">Если файл с таким же названием уже существует, то к названию будет добавлена цифра, например "file_01.jpg". В любом случае, можно избежать этого, поставив флажок "Перезаписать существующие файлы" перед нажатием на кнопку "Загрузить". Обычно существует ограничение на размер загружаемых файлов. По умолчанию в PHP позволено загружать примерно 2МБ. Внутренняя настройка TYPO3 по умолчанию позволяет загружать файлы размером 10МБ. Эти установки при необходимости могут быть изменены администратором сервера. Помните, что загрузка файлов может занять много времени, даже при быстром соединении через DSL и т.п. При загрузке большого количества файлов, или файлов большого размера, лучше использовать FTP клиент. Это не зависит от TYPO3, но только от сервера, на котором работает система.</label>
+			<label index="_file_upload.image">EXT:lang/cshimages/core_58.png,
+EXT:lang/cshimages/core_59.png,</label>
+			<label index="file_upload.image_descr">Для загрузки файлов, сначала щелкните по значку папки, в которую нужно загрузить файлы. В контекстном меню выберете "Загрузить файлы". В появившемся диалоговом окне выберете количество файлов, затем щелкните по кнопке "Проводник...", для выбора загружаемых файлов на своем компьютере. И наконец нажмите на кнопку "Загрузить файлы" для начала процесса загрузки (который может занять несколько минут!).</label>
+			<label index="_file_upload.seeAlso">xMOD_csh_corebe:filelist_module,
+Howto upload files | http://typo3.org/documentation/document-library/doc_tut_quickstart/Uploading_images_to/</label>
+			<label index="history_entry.alttitle">Журнал элемента</label>
+			<label index="history_entry.description">Этот режим показывает изменения, сделанные в элементе содержимого за выбранный в журнале сеанс. Красный, зеленый текст соответствует предыдущим/новым значениям в записи.</label>
+			<label index="history_entry.details">&lt;b&gt;Примечание:&lt;/b&gt; если не видны красные/зеленые метки различий, значит сервер, на котором выполняется TYPO3, не поддерживает разметку отличий или был некорректно настроен.</label>
+			<label index="_history_entry.image">EXT:lang/cshimages/core_40.png</label>
+			<label index="history_log.alttitle">Журнал истории</label>
+			<label index="history_log.description">Журнал дает визуальное представление о сделанных изменениях в элементах при последних операция редактирования. Можно вернуть сделанные изменения до любого состояния, используя значки интерфейса.</label>
+			<label index="history_log.details">По умолчанию в журнале TYPO3 сохраняются 20 изменений за неделю. Журнал очень полезен для отслеживания изменений записей, можно увидеть кто и что сделал и в какое время, — и вернуть все, что нужно. Щелкнув по карандашу, можно вернуть состояние элемента в определенное время. Щелкнув по значку информации, можно увидеть детальные различия в состоянии элемента сейчас и в определенном времени. &lt;b&gt;Настройка уровней и времени хранения [для администраторов]&lt;/b&gt; Если нужно сделать количество хранимых уровней событий выше установленных по умолчанию 20, это легко можно осуществить через TSconfig страницы, что означает зависимость этого параметра даже от места нахождения записи в дереве страниц! Смотрите приведенные ссылки. &lt;b&gt;Примечание:&lt;/b&gt; если не видны красные/зеленые метки различий, значит сервер, на котором выполняется TYPO3, не поддерживает разметку отличий или был некорректно настроен.</label>
+			<label index="_history_log.image">EXT:lang/cshimages/core_37.png,
+EXT:lang/cshimages/core_38.png</label>
+			<label index="history_log.image_descr">Просмотреть журнал истории/отмен можно через модуль Веб&gt;Список в режиме "Расширенный вид". Либо через пункт контекстного меню элемента "Дополнительные параметры...". Журнал истории визуально показывает различия на каждом этапе редактирования.</label>
+			<label index="_history_log.seeAlso">xMOD_csh_corebe:history_sum,
+Configuring History using Page TSconfig | http://typo3.org/documentation/document-library/doc_core_tsconfig/MOD/
+Undo/History article | http://typo3.org/documentation/tips-tricks/the-undohistory-feature/</label>
+			<label index="history_sum.alttitle">Общая история</label>
+			<label index="history_sum.description">Здесь отображается общее отличие между выбранным в истории и текущим состояниями элемента.</label>
+			<label index="history_sum.details">По истории можно перемещаться вперед-назад, используя кнопки со стрелками в верхнем левом углу. Можно сохранять состояние в журнале через маленький значок дискеты. И наконец, можно возвращать определенное в истории состояние определенного либо целой записи, через значок сверху, &lt;em&gt;либо&lt;/em&gt; вернуть состояние какого-либо поля, щелчком по значку возврата, находящемуся около каждого поля. &lt;b&gt;Примечание:&lt;/b&gt; если не видны красные/зеленые метки различий, значит сервер, на котором выполняется TYPO3, не поддерживает разметку отличий или был некорректно настроен.</label>
+			<label index="_history_sum.image">EXT:lang/cshimages/core_39.png</label>
+			<label index="history_sum.image_descr">Информационный режим журнала истории показывает "сумму" изменений от выбранного до текущего состояния элемента.</label>
+			<label index="_history_sum.seeAlso">xMOD_csh_corebe:history_entry,
+Undo/History article | http://typo3.org/documentation/tips-tricks/the-undohistory-feature/</label>
+			<label index="_.image">EXT:lang/cshimages/login.png</label>
+			<label index=".image_descr">Окно входа во внутренний интерфейс.</label>
+			<label index="list_clipboard.alttitle">Буфер обмена TYPO3</label>
+			<label index="list_clipboard.description">Буфер обмена — это внутреннее пространство, куда временно могут "помещаться" записи и файлы. Обычно буфер обмена используется для промежуточных операций копирования/вырезания/вставки одного или нескольких элементов.</label>
+			<label index="_list_clipboard.image">EXT:lang/cshimages/core_16.png,
+EXT:lang/cshimages/core_17.png,</label>
+			<label index="list_clipboard.image_descr">Когда используется функция копирования/вырезания/вставки в контекстном меню, на самом деле, для промежуточного хранения элементов внутри TYPO3, используется буфер обмена. Выбрав один из пронумерованных разделов буфера обмена, появляется возможность временного помещения в него нескольких элементов. В списке записей можно увидеть флажки рядом с каждым элементом, установив которые можно выбрать определенный элемент.</label>
+			<label index="_list_clipboard.seeAlso">xMOD_csh_corebe:list_module,
+xMOD_csh_corebe:filelist_clipboard,
+Using the clipboard | http://typo3.org/documentation/document-library/doc_tut_quickstart/Using_the_List_modul/
+Numeric Clipboard pads | http://typo3.org/documentation/document-library/doc_tut_quickstart/The_numeric_clipboar/
+Clipboard details [Technical] | http://typo3.org/documentation/document-library/doc_core_inside/Clipboard/,
+Accessing clipboard in scripts [Technical] | http://typo3.org/documentation/document-library/doc_core_api/Accessing_the_clipbo/</label>
+			<label index="list_module.alttitle">Модуль Веб&gt;Список</label>
+			<label index="list_module.description">Список записей на странице. Здесь можно копировать/вырезать/вставлять записи в системе. Возможно редактировать записи, права доступа, изменять историю элементов и т.п.</label>
+			<label index="list_module.details">Модуль Список подобен файловому менеджеру в операционной системе; он обеспечивает основной доступ ко всем "элементам", доступным в системе. В TYPO3 почти вся информация хранится в базе данных и управляется по тем же правилам. Например, элемент содержимого, представляющий содержимое страницы — запись в базе данных, также как и внутренний пользователь. Модуль Веб&gt;Список позволяет создавать, изменять и удалять оба типа записей по тем же правилам. Модуль Веб&gt;Список не всегда лучший выбор для "представления" содержимого на странице. Например, если нужно управлять содержимым страницы сайта (элементами содержимого), лучше использовать модуль "Веб&gt;Страница", лучше представляющий расположение элементов на странице. Но модуль Список дает доступ ко всем элементам на странице одинаковым образом и вряд ли есть модуль лучше подходящий для управления. &lt;b&gt;Режим одной таблицы&lt;/b&gt; Щелчок по заголовку таблицы в списке, приведет к отображению одной этой таблицы. Здесь можно выбрать дополнительные поля в отображаемой таблице. Также появляется возможность дополнительного редактирования, например можно редактировать сразу несколько записей и даже одно нужное поле для всех этих записей. Детали приведены на снимке экрана.</label>
+			<label index="_list_module.image">EXT:lang/cshimages/core_11.png,
+EXT:lang/cshimages/core_12.png,
+EXT:lang/cshimages/core_34.png,</label>
+			<label index="list_module.image_descr">Здесь в дереве страниц была выбрана страница "Cameras" и в правом окне модуля Веб&gt;Список показано содержимое страницы. Здесь это единственный элемент содержимого (Shop Plugin), вставленный для отображения других элементов на страниц, в данном случае, трех записей продуктов. Если включить "Расширенный режим" и "Буфер обмена", появятся дополнительные кнопки, для совершения действий над показанными здесь записями. Помните, что щелкнув по значку записи всегда можно вызвать контекстное меню для элемента. Здесь показан режим одной таблицы для таблицы "Pagecontent" (элементы содержимого). Блок выбора полей, выбрано поле "Hide". При щелчке по любому значку редактирования (выделены красной рамкой), можно будет отредактировать [с лева на право] а) все перечисленные поля (здесь "Header" и "Hide"), б) всю запись или в) одно поле (например "Hide") &lt;u&gt;только&lt;/u&gt; для выбранных записей (отмечаются флажками).</label>
+			<label index="list_module_noId.alttitle">Модуль Веб&gt;Список без задания ID</label>
+			<label index="list_module_noId.description">В модуль Веб&gt;Список перед обработкой нужно передать ID страницы, для отображения ее содержимого. Поэтому нужно щелкнуть по заголовку нужной страницы в дереве страниц.</label>
+			<label index="_list_module_noId.seeAlso">xMOD_csh_corebe:list_module</label>
+			<label index="list_module_root.alttitle">Корень дерева страниц</label>
+			<label index="list_module_root.description">Корень дерева страниц имеет id=0 (ноль, то же самое, что "нет страницы") и специальное указание, что записи в корне дерева страниц могут быть вызваны и отредактированы &lt;i&gt;только&lt;/i&gt; пользователями "администраторами"</label>
+			<label index="list_module_root.details">В корне дерева страниц можно создавать только определенные таблицы в базе данных. Это внутренние пользователи, группы внутренних пользователей, записи для точек доступа, записи для языков и т.п., при этом нельзя в корне дерева страниц создавать внешних пользователей и элементы содержимого сайта. Есть и обратная сторона; например, нельзя создавать внутренних пользователей нигде в дереве страниц. Обычно записи, находящиеся в корне дерева страниц относятся "глобально" ко всей установке TYPO3 и не имеет смысла в определенной ветви дерева страниц.</label>
+			<label index="_list_module_root.image">EXT:lang/cshimages/core_13.png,
+EXT:lang/cshimages/core_14.png,</label>
+			<label index="list_module_root.image_descr">Пример записей корневой страницы дерева; внутренние пользователи, их группы, точки доступа к файлам и языки сайта. При создании новой записи пользователем-"администратором" в корне дерева страниц, выводиться ограниченное число записей, которые можно здесь создать. Из этого становится понятно, какие таблицы можно здесь создавать.</label>
+			<label index="_list_module_root.seeAlso">xMOD_csh_corebe:list_module
+The List module ("Inside TYPO3") | http://typo3.org/documentation/document-library/doc_core_inside/List_module/</label>
+			<label index="_list_module.seeAlso">xMOD_csh_corebe:pagetree,
+xMOD_csh_corebe:list_module_root,
+xMOD_csh_corebe:filelist_module,
+xMOD_csh_corebe:TCEforms
+Selective Editing | http://typo3.org/documentation/document-library/doc_tut_quickstart/Selective_editing/
+The List module ("Inside TYPO3") | http://typo3.org/documentation/document-library/doc_core_inside/List_module/,</label>
+			<label index="list_options.alttitle">Параметры модуля Список</label>
+			<label index="list_options.description">Включение дополнительных параметров, вроде режима "Расширенный вид", позволяющего увидеть дополнительные кнопки действий для каждой записи в списке, или "Буфер обмена", чтобы видите его и его содержимое.</label>
+			<label index="_list_options.image">EXT:lang/cshimages/core_18.png,
+EXT:lang/cshimages/core_19.png,</label>
+			<label index="list_options.image_descr">Флаги параметров. Включение "Расширенного вида" включает дополнительные кнопки в списках записей.</label>
+			<label index="_list_options.seeAlso">xMOD_csh_corebe:list_module,
+xMOD_csh_corebe:list_clipboard,
+xMOD_csh_corebe:filelist_options</label>
+			<label index="list_searchbox.alttitle">Поле поиска</label>
+			<label index="list_searchbox.description">Его можно использовать для поиска любого текста во всем списке записей. Поиск можно проводить и по вложенным уровням подстраниц, выбирая количество уровней вложенности в выпадающем списке справа от поля поиска.</label>
+			<label index="_list_searchbox.image">EXT:lang/cshimages/core_15.png,</label>
+			<label index="_list_searchbox.seeAlso">xMOD_csh_corebe:list_module</label>
+			<label index="menu_adminFunction.alttitle">Сервис управления</label>
+			<label index="menu_adminFunction.description">Сервис управления, например очистка кеша и т.п., доступны для администраторов.</label>
+			<label index="menu_adminFunction.details">В TYPO3 применяется многоуровневая система буферизации: &lt;b&gt;Буферизация базы данных&lt;/b&gt; Очень важно кешировать таблицы базы данных, "cache_hash", который нужно обновлять после важных изменений в системе. "Очистка всех кешей" происходит при щелчке по значку молнии вверху и дальнейшем выборе значка с красной молнией (примечание для новых версий). После этой операции, все содержимое сайта будет сформировано заново, а не взято из кеша. При этом будут очищены &lt;i&gt;все&lt;/i&gt; таблицы базы данных, отмеченные, как очищаемые. &lt;b&gt;Кешируемые файлы PHP настроек из расширений&lt;/b&gt; TYPO3 кеширует маленькие сценарии настроек из расширений, "ext_localconf.php" и "ext_tables.php". Эти файлы просто читают файлы из всех установленных расширений и собирают во временный сценарий PHP в папку typo3conf/, с названием "temp_CACHED_*.php". Иногда нужно удалять эти файлы, так, чтобы TYPO3 переписал их из оригиналов. Это делается через ссылку "Очистить кеш настроек". &lt;b&gt;Примечание:&lt;/b&gt; не нужно слишком часто очищать эти кеши. Очистка кешей негативно отражается на производительности сервера. Ведь все содержимое буферов должно быть восстановлено, что занимает время, в течение которого сервер может быть недоступен.</label>
+			<label index="_menu_adminFunction.image">EXT:lang/cshimages/core_1.png</label>
+			<label index="_menu_adminFunction.seeAlso">be_users:admin</label>
+			<label index="menu_modules.alttitle">Модули внутреннего интерфейса</label>
+			<label index="menu_modules.description">Меню во внутреннем интерфейсе отражает структуру основных и подмодулей в TYPO3. Щелкните по элементу меню для доступа к соответствующему модулю.</label>
+			<label index="menu_modules.details">Пользователи внутреннего интерфейса могут видеть разные элементы меню, в зависимости от их прав доступа. Пользователям "администраторам" системы доступны все установленные модули. Можно настроить внутренний интерфейс на отображение меню в двух вариантах (полезно для маленьких экранов); Как блок выбора или список значков в верхней части окна внутреннего интерфейса. При щелчке по маленькому значку "+" или "-", рядом с основными модулями, можно свернуть (-) или развернуть (+) все их подмодули. Установка флажка "Развернуть все" развернет все элементы меню. Снятие флажка вернет меню к предыдущему состоянию. Если поставить флажок "Развернуть все" и свернуть какой-нибудь основной модуль, то это уберет флажок "Развернуть все" и предыдущее состояние меню уже нельзя будет вернуть.</label>
+			<label index="_menu_modules.image">EXT:lang/cshimages/core_2.png,
+EXT:lang/cshimages/core_3.png</label>
+			<label index="menu_modules.image_descr">Типичные элементы меню для обычного пользователя внутреннего интерфейса. У другого внутреннего пользователя могут быть другие элементы меню. Это снимок экрана для другого пользователя, имеющего другие права доступа, а, следовательно, и доступ к другим модулям. Для разных пользователей можно установить и разный язык во внутреннем интерфейсе.</label>
+			<label index="_menu_modules.seeAlso">be_groups:groupMods,
+be_users:userMods,
+_MOD_user_setup:option_noMenuMode,
+More about Modules | http://typo3.org/documentation/document-library/doc_tut_quickstart/Backend_and_frontend/</label>
+			<label index="move_el_cs.alttitle">Мастер перемещения элементов содержимого</label>
+			<label index="move_el_cs.description">Этот мастер облегчит перемещение (или копирование) элементов содержимого внутри TYPO3. Перемещаемый элемент показан сверху.</label>
+			<label index="move_el_cs.details">Щелкнув по серому значку в списке элементов содержимого, можно указать новую позицию выбранного элемента. Если нужно переместить элемент на другую страницу, просто выберете нужную страницу в дереве страниц снизу.</label>
+			<label index="_move_el_cs.image">EXT:lang/cshimages/core_25.png,
+EXT:lang/cshimages/core_26.png,</label>
+			<label index="move_el_cs.image_descr">Мастер работает наподобие мастера создания нового элемента содержимого; возможная позиция элемента показана серыми стрелками. Для доступа к "Мастер перемещения элементов содержимого", щелкните по значку "Переместить элемент" в режиме "Расширенный вид" модуля Веб&gt;Список.</label>
+			<label index="_move_el_cs.seeAlso">xMOD_csh_corebe:move_el_pages,
+xMOD_csh_corebe:new_regular</label>
+			<label index="move_el_pages.alttitle">Мастер перемещения страниц</label>
+			<label index="move_el_pages.description">Этот мастер облегчит перемещение (или копирование) страниц внутри TYPO3. Перемещаемый элемент показан сверху.</label>
+			<label index="move_el_pages.details">В качестве альтернативы использования обычных функций копирования/вырезания/вставки контекстного меню можно использовать мастер перемещения страниц. Он позволяет перемещать страницы, получая визуальное представление дерева страниц, а не абстрактное "вставить внутрь" и "вставить после".</label>
+			<label index="_move_el_pages.image">EXT:lang/cshimages/core_27.png,
+EXT:lang/cshimages/core_28.png,</label>
+			<label index="move_el_pages.image_descr">Мастер работает наподобие мастера создания новой страницы; возможная позиция элемента показана серыми стрелками. Для доступа к "Мастеру перемещения страниц", вызовите контекстное меню для страницы, выберете там "дополнительные параметры..." и в них "переместить страницу". Либо можно щелкнуть по значку "Переместить страницу" в режиме "Расширенный вид" модуля Веб&gt;Список.</label>
+			<label index="_move_el_pages.seeAlso">xMOD_csh_corebe:move_el_cs,
+xMOD_csh_corebe:new_pages,
+Moving pages | http://typo3.org/documentation/document-library/doc_tut_quickstart/Move_page/</label>
+			<label index="new_ce.alttitle">Мастер создания нового элемента содержимого</label>
+			<label index="new_ce.description">Существует большое количество разновидностей элементов содержимого, и добавление нового элемента на страницу означает выбор нужного типа содержимого. Этот мастер облегчает выбор основных типов элементов перед тем, как туда будет помещено нужное содержимое.</label>
+			<label index="new_ce.details">Выбор здесь типа элемента лишь предустановить элемент содержимого с определенными настройками. В будущем всегда возможно поменять введенные значения и если вы не можете выбрать тип элемента точно, выберете примерно соответствующий целям, а детали можно ввести позже.</label>
+			<label index="_new_ce.image">EXT:lang/cshimages/core_22.png,
+EXT:lang/cshimages/core_23.png,
+EXT:lang/cshimages/core_24.png,</label>
+			<label index="new_ce.image_descr">Мастер создания элементов содержимого представляет набор предустановленных типов. Выберете один из них, просто щелкнув по его названию. После выбора типа, нужно (зачастую) выбрать позицию этого элемента по отношению к уже имеющимся на странице. Вызвать мастера создания нового содержимого можно в диалоге создания новой записи.</label>
+			<label index="_new_ce.seeAlso">xMOD_csh_corebe:new_pages,
+xMOD_csh_corebe:new_regular,
+How to create new page content | http://typo3.org/documentation/document-library/doc_tut_quickstart/New_page/
+More about Content Element types | http://typo3.org/documentation/document-library/doc_tut_quickstart/Content_element_type/
+Adding Custom elements [Technical] | http://typo3.org/documentation/document-library/doc_core_api/Adding_elements_to_t/</label>
+			<label index="new_pages.alttitle">Мастер создания новой страницы</label>
+			<label index="new_pages.description">Создание новой страницы означает указание ее места в дереве страниц. Этот мастер облегчит это, нужно лишь щелкнуть по стрелке, указывающей на нужное место.</label>
+			<label index="_new_pages.image">EXT:lang/cshimages/core_20.png,
+EXT:lang/cshimages/core_21.png,</label>
+			<label index="new_pages.image_descr">Маленький значок находиться между любыми соседними страницами в дереве, указывая на возможное положение новой страницы. Выбрать позицию можно щелкнув по одному из таких значков. Для доступа к "Мастеру создания новой страницы" просто щелкните по ссылке в диалоге создания новой записи.</label>
+			<label index="_new_pages.seeAlso">xMOD_csh_corebe:new_regular,
+xMOD_csh_corebe:new_ce,
+How to create a new page | http://typo3.org/documentation/document-library/doc_tut_quickstart/New_page/</label>
+			<label index="new_regular.alttitle">Создание новой записи</label>
+			<label index="new_regular.description">В этом списке показаны возможные типы записей (таблиц базы данных), которые вы можете создать на странице. Щелкните по названию таблицы и выберете тип.</label>
+			<label index="_new_regular.image">EXT:lang/cshimages/core_70.png</label>
+			<label index="new_regular.image_descr">Набор записей доступных для создания пользователю. Этот набор определяется правами доступа и типом страницы. Например, тип страницы Системная директория может содержать любые виды записей, в то время как обычная страница может содержать ограниченные типы (вроде элементов содержимого).</label>
+			<label index="_new_regular.seeAlso">xMOD_csh_corebe:new_ce,
+xMOD_csh_corebe:new_pages</label>
+			<label index="pagetree.alttitle">Дерево страниц</label>
+			<label index="pagetree.description">Это иерархическая организация страниц в TYPO3. Обычно сайты делают так, чтобы структура его страниц отражала навигацию по нему.</label>
+			<label index="pagetree.details">Дерево страниц подобно файловой структуре. Каждая страница — это папка файловой системы, где хранятся файлы. В TYPO3 каждая страница соответствует записи в базе данных. Некоторые из таких записей обычно называют "элементами содержимого", содержимого страниц сайта. Другие записи берутся из расширений, типа глоссария или гостевой книги, и они выводятся через расширение, вставленное на страницу как элемент содержимого этой страницы. Некоторые внутренние пользователи могут видеть лишь часть дерева страниц сайта. Эта возможность позволяет администраторам настраивать внутренних пользователей, для работы с определенными ветвями дерева страниц. &lt;b&gt;Перемещение по дереву страниц&lt;/b&gt; Просто щелкните по кнопкам +/- для развертки/свертки ветвей дерева. Щелчок по значку страницы выведет контекстное всплывающее меню. Его пункты соответствуют действиям, которые можно совершить со страницей. Щелчок по названию страницы приведет к другому действию. В правое окно будет загружен выбранный из меню подмодуль основного модуля. Показанное содержимое будет соответствовать выбранной странице.</label>
+			<label index="_pagetree.image">EXT:lang/cshimages/core_4.png,
+EXT:lang/cshimages/core_5.png,
+EXT:lang/cshimages/core_6.png,
+EXT:lang/cshimages/core_7.png</label>
+			<label index="pagetree.image_descr">Пример дерева страниц в TYPO3. Дерево страниц доступно из любых подмодулей меню. Щелчок по значку страницы выведет контекстное меню, относящееся к действиям со страницей. Щелчок по заголовку страницы в дереве страниц загрузить текущий подмодуль в правое окно. Id страницы передается в модуль, для вывода содержимого выбранной страницы. Задержав указатель мышки над значком страницы, можно во всплывающей подсказке узнать информацию о данной странице. Здесь можно узнать, что доступ к странице открыт определенной группе внутренних пользователей.</label>
+			<label index="_pagetree.seeAlso">xMOD_csh_corebe:list_module,
+More about the Page Tree | http://typo3.org/documentation/document-library/doc_tut_quickstart/Pagetree/
+Rendering Page trees [Technical] | http://typo3.org/documentation/document-library/doc_core_api/Rendering_page_trees/
+Using the page tree (Animation) | FILE:EXT:welcome/modsub/ani_01.gif
+Clicking Icons or Titles? (Animation) | FILE:EXT:welcome/modsub/ani_06.gif
+Creating pages (Animation) | FILE:EXT:welcome/modsub/ani_07.gif
+Moving pages (Animation) | FILE:EXT:welcome/modsub/ani_08.gif</label>
+			<label index="perm_module.alttitle">Просмотр прав доступа</label>
+			<label index="perm_module.description">В этом режиме можно увидеть права на доступ к страницам в дереве страниц.</label>
+			<label index="perm_module.details">Можно выбрать два режима: &lt;b&gt;Обзор пользователей:&lt;/b&gt; При этом можно увидеть &lt;em&gt;свои&lt;/em&gt; права доступа к выбранной странице. Так зеленые/красные метки отражают суммарные права доступа из параметров пользователя/группы/всех, относительно себя, как внутреннего пользователя! Серый фон меток говорит о том, что вы являетесь владельцем страницы. &lt;b&gt;Права доступа&lt;/b&gt; Показываются права доступа для владельца / группы / всех. Отредактировать их можно через значок редактирования рядом с заголовком страницы. Права доступа могут менять лишь владельцы страницы (или пользователь-"администратор").</label>
+			<label index="_perm_module.image">EXT:lang/cshimages/core_43.png,
+EXT:lang/cshimages/core_41.png,</label>
+			<label index="_perm_module.seeAlso">xMOD_csh_corebe:perm_module_setting,
+User Management Howto | http://typo3.org/documentation/document-library/doc_tut_quickstart/Setting_up_user_perm/
+Permission system in TYPO3 [Technical] | http://typo3.org/documentation/document-library/doc_core_inside/Access_Control_optio/,
+_MOD_user_setup:option_helpText</label>
+			<label index="perm_module_setting.alttitle">Установка прав доступа для страницы</label>
+			<label index="perm_module_setting.description">Выберете пользователя и группу владельца и права доступа для каждого в таблице. Права доступа могут менять лишь владельцы страницы (или пользователь-"администратор").</label>
+			<label index="perm_module_setting.details">Установка прав доступа делается для пяти категорий для владельца / группы / всех, также , как права доступа к файлам и папкам в большинстве операционных систем. &lt;b&gt;Показать страницу&lt;/b&gt; Если включено, пользователь может просматривать страницу и ее содержимое во внутреннем интерфейсе. Пользователю также позволено копировать содержимое, но не перемещать, удалять и редактировать его. &lt;b&gt;Редактировать содержимое&lt;/b&gt; Пользователям позволяется добавлять, удалять, изменять или перемещать записи (кроме записей страниц) на этой странице. Такие разрешения могут быть даны, если пользователю разрешено создавать элементы содержимого и т.п. на странице. &lt;b&gt;Редактировать страницу&lt;/b&gt; Пользователям позволено редактировать запись самой страницы. Можно отредактировать название страницы или переместить ее в другое место. &lt;b&gt;Удалить страницу&lt;/b&gt; Если включено, то пользователь сможет удалить саму страницу и ее содержимое. &lt;b&gt;Новые страницы&lt;/b&gt; Пользователь сможет создавать подстраницы на текущей странице.</label>
+			<label index="_perm_module_setting.image">EXT:lang/cshimages/core_42.png</label>
+			<label index="perm_module_setting.image_descr">В этой таблице можно устанавливать права доступа для пользователя, группы и всех в пяти доступных категориях.</label>
+			<label index="_perm_module_setting.seeAlso">xMOD_csh_corebe:perm_module,
+User Management Howto | http://typo3.org/documentation/document-library/doc_tut_quickstart/Setting_up_user_perm/</label>
+			<label index="_.seeAlso">Inside TYPO3 | http://typo3.org/documentation/document-library/doc_core_inside/This_document-1/</label>
+			<label index="shortcuts.alttitle">Ссылки во внутреннем интерфейсе</label>
+			<label index="shortcuts.description">Довольно легко можно создавать ссылки на модули TYPO3. При этом возможно перемещаться между ними гораздо быстрее, используя &lt;em&gt;один&lt;/em&gt; щелчок, вместо нескольких. Окно содержит также поля для ввода id страницы или элемента для редактирования или просто для поиска записей.</label>
+			<label index="shortcuts.details">Для создания ссылки, нужна поддержка со стороны модуля, для которого эта ссылка создается. Если создание ссылок поддерживается, то внизу модуля будет присутствовать значок. Щелкнув по нему, можно создать ссылку на модуль. В окне ссылок также возможно ввести id страницы в поле "Редактировать ID страницы" для ее редактирования. При этом загрузится текущий модуль со страницей, введенной в это поле. По умолчанию только пользователи-"администраторы" имеют доступ к окну ссылок в TYPO3. Для других пользователей эта возможность должна быть разрешена через их TSconfig, "options.shortcutFrame = 1". Подробности можно найти по ссылке ниже (для администраторов). Редактировать страницы через id в окне ссылок очень легко. Просто вводите ее номер и нужная страница открывается для редактирования. Введя "[table]:[id]", можно попытаться отредактировать таблицу [table], например ввод "tt_content:123" приведет к поиску элемента содержимого 123 (только для администраторов). И наконец, если будет введена строка, не соответствующая странице или записи, модуль Веб&gt;Список произведет поиск по первой установленной точке доступа к базе данных.</label>
+			<label index="_shortcuts.image">EXT:lang/cshimages/core_64.png,
+EXT:lang/cshimages/core_65.png,
+EXT:lang/cshimages/core_67.png,
+EXT:lang/cshimages/core_68.png,</label>
+			<label index="shortcuts.image_descr">Для создания ссылки на страницу, просто щелкните по значку ссылки, обычно находящемуся внизу страниц. Создание ссылки нужно будет подтвердить. Ничего опасного не произойдет, просто это способ защиты от необдуманных действий. Просто ответьте "OK". После чего окно ссылок перезагрузится и появится новый значок (значок модуля). Щелкнув по этому значку можно переместиться на страницу для которой он создавался! Ссылкам можно давать имена, группировать и даже делиться с другими пользователями. Для редактирования или удаления ссылки, выберете значок ссылки и щелкните по ярлыку "Редактировать". При этом появиться окно, в котором возможно отредактировать название ссылки, удалить ее или добавить в какую-либо группу. Также возможно удалить все ссылки в группе, для этого просто щелкните по значку "0" (ноль) слева от значков.</label>
+			<label index="_shortcuts.seeAlso">TSconfig пользователя -&gt;НАСТРОЙКА | http://typo3.org/documentation/document-library/doc_core_tsconfig/OPTIONS/</label>
+			<label index="tcatree">Дерево TYPO3 TCA</label>
+			<label index="tcatree.collapseAll">Свернуть все</label>
+			<label index="tcatree.enableRecursiveSelection">включить рекурсивный выбор</label>
+			<label index="tcatree.expandAll">Развернуть все</label>
+			<label index="tcatree.filter.contains">содержит</label>
+			<label index="tcatree.filter.startsWith">начать с</label>
+			<label index="tcatree.findItem">Найти элемент</label>
+			<label index="TCEforms.alttitle">Формы редактирования TYPO3</label>
+			<label index="TCEforms_cacheSelector.alttitle">Меню в формах</label>
+			<label index="TCEforms_cacheSelector.description">Альтернатива выбора операций "Сохранить"/"Закрыть" для записей. Можно, если доступно, также выбрать операцию "очистить кеш"</label>
+			<label index="TCEforms_cacheSelector.details">Из этого меню можно очищать кеш страниц или весь кеш. Если содержимое на сайте отличается от того, что находится в базе данных, нужно очистить кеш страниц, используя одну из этих операций. Если параметры для работы с кешем для вас недоступны, нужно попросить администратора включить их для вас. (Администрирование: смотрите ссылку на TSconfig ниже.)</label>
+			<label index="_TCEforms_cacheSelector.image">EXT:lang/cshimages/core_36.png,</label>
+			<label index="_TCEforms_cacheSelector.seeAlso">User TSconfig (See "clearCache.pages/.all") | http://typo3.org/documentation/document-library/doc_core_tsconfig/OPTIONS/</label>
+			<label index="TCEforms.description">Все записи в TYPO3 редактируются через стандартный интерфейс, вроде показанного здесь. Независимо от того, редактируются ли страницы, элементы содержимого, элементы гостевой книги или записи пользователей, интерфейс всегда будет примерно одинаков.</label>
+			<label index="TCEforms.details">&lt;b&gt;Сохранение содержимого&lt;/b&gt;
+Просто нажмите вверху страницы на одну из кнопок-дискет для сохранения. Доступно несколько вариантов "Сохранить и закрыть документ" или "Сохранить документ и просмотреть страницу". Последний вариант сохранит документ и откроет новое окно с редактируемой страницей (убедитесь, что всплывающие окна не заблокированы!)
+
+&lt;b&gt;Одновременное редактирование нескольких записей&lt;/b&gt;
+В модуле Веб&gt;Список можно включить редактирование нескольких записей за раз. Это возможно при выборе одной таблицы и включения для отображения нескольких колонок (детально смотрите модуль Веб&gt;Список) - при этом возможно редактирование выбранных полей сразу в нескольких записях.
+
+&lt;b&gt;Редактирование во внешнем интерфейсе&lt;/b&gt;
+Другая возможность редактирования записей в TYPO3, редактирование непосредственно на страницах сайта. В зависимости от прав пользователя и настроек, на страницах сайта будут показаны маленькие значки карандаша. Щелчком по ним можно открыть форму для редактирования соответствующего элемента для редактирования.
+
+&lt;b&gt;Настройка форм [для Администраторов]&lt;/b&gt;
+Возможно настроить TCEforms через TSconfig пользователя и TSconfig страницы. Смотрите ссылки ниже.</label>
+			<label index="TCEforms_docSelector.alttitle">Выбор документов</label>
+			<label index="TCEforms_docSelector.description">Здесь можно переключаться между "открытыми документами" в TYPO3.</label>
+			<label index="_TCEforms_docSelector.image">EXT:lang/cshimages/core_35.png,</label>
+			<label index="_TCEforms.image">EXT:lang/cshimages/core_30.png,
+EXT:lang/cshimages/core_29.png,
+EXT:lang/cshimages/core_32.png,
+EXT:lang/cshimages/core_33.png,
+EXT:lang/cshimages/core_31.png,</label>
+			<label index="TCEforms.image_descr">Так в TYPO3 редактируется обычная запись. Форма стандартна для всех типов записей. Те же кнопки вверху для сохранения и закрытия. В голубом прямоугольнике выведен тип записи (название таблицы) и ID номер, имеющийся у каждой записи (uid). Здесь — это запись страницы с "2" и заголовком "Content Elements". Внизу страницы редактирования находятся дополнительные параметры, отвечающие за вид интерфейса. Можно выбрать "Показать описание полей" для включения краткого текста-описания каждого элемента. Так "Показать дополнительные настройки", важно для отображения дополнительных полей в основной форме (из "палитр") Здесь включено "Показать дополнительные настройки (палитры)". В результате несколько "низкоприоритетных" полей появились под полем "Pagetitle". "Дополнительные поля" из примера располагаются в так называемых "палитрах", обычно отображаемых сверху, при отключении параметра "Показать дополнительные настройки". Вам выбирать, что лучше. Это пример одновременного редактирования трех элементов содержимого. Несколько записей можно редактировать, используя ссылку на режим одной таблицы в модуле Веб&gt;Список. Обратите внимание, что одновременно показано три записи, но также ограниченное количество полей для редактирования, здесь это "Header" и "Hide". Можно комбинировать эти параметры почти без ограничений. Конечно это очень полезно, если нужно отредактировать лишь заголовок для нескольких записей.</label>
+			<label index="_TCEforms.seeAlso">Editing pages | http://typo3.org/documentation/document-library/doc_tut_quickstart/Edit_page/
+Frontend Editing | http://typo3.org/documentation/document-library/doc_tut_quickstart/Frontend_editing/,
+xMOD_csh_corebe:list_module
+User TSconfig related to forms | http://typo3.org/documentation/document-library/doc_core_tsconfig/OPTIONS/
+Page TSconfig related to forms | http://typo3.org/documentation/document-library/doc_core_tsconfig/RTE/
+Linking to the edit forms [Technical] | http://typo3.org/documentation/document-library/doc_core_api/Links_to_edit_record/</label>
+			<label index="wizard_forms_wiz.alttitle">Мастер создания форм</label>
+			<label index="wizard_forms_wiz_buttons.alttitle">Кнопки мастера создания форм</label>
+			<label index="wizard_forms_wiz_buttons.description">Используйте кнопку обновления для обновления состава формы (без ее сохранения), например при изменении типа поля и т.п. Закончив редактирование, нужно нажать на одну из кнопок для сохранения и возвращения к форме, с которой был вызван мастер. При этом, информация из мастера будет введена в соответствующее поле, связанное с ним.</label>
+			<label index="_wizard_forms_wiz_buttons.image">EXT:lang/cshimages/core_62.png,</label>
+			<label index="wizard_forms_wiz.description">Мастер создания форм дает возможность создавать формы через удобный интерфейс, вместо "кодирования" элементов.</label>
+			<label index="wizard_forms_wiz.details">В левой части мастера возможно добавлять, удалять и перемещать элементы в форме. В колонке "Тип элемента" можно выбирать различные доступные типы элементов формы, такие как обычное поле для ввода текста, текстовое поле, блоки выбора и т.п. Для каждого элемента предусмотрено поле для его метки, в которое можно ввести, например название поля. Для некоторых полей предусмотрена проверка "требуемых" значений. Параметры в колонке "Подробные настройки" определяются типом выбранного элемента в колонке "Тип элемента". Это могут быть элементы для блока выбора, ширина поля для ввода текста. Важно значение поля "Поле:", так как оно определяет техническое название данного поля формы. Это название будут видить люди, получающие email, отправленный из почтовой формы. &lt;b&gt;Дополнительное применение мастера создания форм&lt;/b&gt; Наиболее часто мастер создания форм применяется в элементах содержимого типа "Форма", но его можно использовать и для других целей. Технические детали можно найти по ссылке ниже.</label>
+			<label index="wizard_forms_wiz_formmail_info.alttitle">Информационные поля почтовой формы</label>
+			<label index="wizard_forms_wiz_formmail_info.description">Это специальные поля, применяющиеся в мастере создания форм для элементов содержимого типа "Форма". Они позволяют вводить информацию о теме письма, адресе получателя и о том, нужно ли отправлять письмо в формате HTML или нет.</label>
+			<label index="wizard_forms_wiz_formmail_info.details">Примечание: для ввода получателя, понадобится доступ к полю "подзаголовок" в элементе содержимого. Это довольно странное требование, но оно существует. Попросите администратора предоставить доступ к этому полю по этой причине.</label>
+			<label index="_wizard_forms_wiz_formmail_info.image">EXT:lang/cshimages/core_61.png,</label>
+			<label index="_wizard_forms_wiz_formmail_info.seeAlso">Howto create Mail Forms | http://typo3.org/documentation/document-library/doc_tut_quickstart/Email_form/</label>
+			<label index="_wizard_forms_wiz.image">EXT:lang/cshimages/core_60.png,
+EXT:lang/cshimages/core_69.png,</label>
+			<label index="wizard_forms_wiz.image_descr">Так выглядит мастер создания форм. Используя поля для настройки формы, создать ее гораздо проще, чем напрямую кодировать. Обычно мастера создания форм вызывается щелчком по значку рядом с текстовым полем, вроде показанного здесь. Помните, что содержимое текстового поля слева от значка — это код, который создает мастер создания форм!</label>
+			<label index="_wizard_forms_wiz.seeAlso">xMOD_csh_corebe:wizard_table_wiz,
+Form Wizard details [Technical]| http://typo3.org/documentation/document-library/doc_core_api/Wizards_Configuratio/,</label>
+			<label index="wizard_table_wiz.alttitle">Мастер создания таблиц</label>
+			<label index="wizard_table_wiz_buttons.alttitle">Кнопки мастера создания таблиц</label>
+			<label index="wizard_table_wiz_buttons.description">Используйте кнопку обновления для обновления состава формы (без ее сохранения), например при изменении типа поля и т.п. Закончив редактирование, нужно нажать на одну из кнопок для сохранения и возвращения к форме, с которой был вызван мастер. При этом, информация из мастера будет введена в соответствующее поле, связанное с ним.</label>
+			<label index="_wizard_table_wiz_buttons.image">EXT:lang/cshimages/core_62.png</label>
+			<label index="wizard_table_wiz.description">Мастер создания таблиц помогает правильно и удобно создавать таблицы, которые обычно хранятся в базе данных в соответствии с синтаксисом XML, где каждая строчка представляет строку, а колонки должны разделяться вертикальной чертой, "|". Этот мастер не должен вызвать проблем.</label>
+			<label index="wizard_table_wiz.details">Мастер предельно прост. Кнопками слева и снизу можно добавлять, удалять и перемещать колонки и строки таблицы. Можно отключить настройку "Маленькие поля" для увеличения текстовых полей при редактировании.</label>
+			<label index="_wizard_table_wiz.image">EXT:lang/cshimages/core_63.png</label>
+			<label index="_wizard_table_wiz.seeAlso">xMOD_csh_corebe:wizard_forms_wiz,
+Table Wizard details [Technical]| http://typo3.org/documentation/document-library/doc_core_api/Wizard_scripts_in_th/</label>
+			<label index="workspaceSelector.alttitle">Выбор рабочих пространств</label>
+			<label index="workspaceSelector.description">Через это выпадающее меню возможно переключаться между доступными рабочими пространствами. При этом перезагружается весь внутренний интерфейс.</label>
+			<label index="workspaceSelector.details">В TYPO3 существует два основных типа рабочих пространств: "Чистовая" рабочая область и несколько "Черновых". При работе в "Чистовом" рабочем пространстве, все изменения осуществляются немедленно. Это стандартный и традиционный способ работы в TYPO3. При работе в черновом пространстве, существующем по умолчанию или специально сделанном, изменения не отражаются на внешнем сайте, но вместо этого создается новая версия любого редактируемого элемента. Так как версионирование не применимо ко всем элементам в TYPO3, существуют ограничения на операции, осуществляемые в черновом рабочем пространстве; могут редактироваться лишь элементы поддерживающие версионирование, а все остальные можно лишь просматривать. Черновое пространство возможно просматривать из внешнего интерфейса. При утверждении изменений, они могут быть опубликованы из чернового в чистовое рабочее пространство.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:16:33Z" product-name="openid">
+		<header/>
+		<body>
+			<trans-unit id="option_tx_openid_openid.alttitle" xml:space="preserve" approved="yes">
+				<source>OpenID identifier</source>
+			<target state="translated">Identificatore OpenID</target></trans-unit>
+			<trans-unit id="option_tx_openid_openid.description" xml:space="preserve" approved="yes">
+				<source>Enter your OpenID identifier here, if you use want to use OpenID for backend logins.</source>
+			<target state="translated">Inserisci il tuo identificatore OpenID se vuoi usare OpenID per effettuare login nel backend.</target></trans-unit>
+			<trans-unit id="option_tx_openid_openid.details" xml:space="preserve" approved="yes">
+				<source>OpenID is a free and open system to login to websites using only one single password (for your OpenID-provider). If you want to login to TYPO3 backend, enter your identifier here. Your identifier is an URL starting with http:// or https://.</source>
+			<target state="translated">OpenID è un sistema aperto e gratuito per effettuare login nei siti usando una singola password (per il tuo provider OpenID). Se vuoi effettuare il login al backend di TYPO3, inserisci il tuo identificativo. Il tuo identificativo è un URL che inizia con http:// o https://.</target></trans-unit>
+			<trans-unit id="option_tx_openid_openid.seeAlso" xml:space="preserve" approved="yes">
+				<source>http://openid.net | http://openid.net/</source>
+			<target state="translated">http://openid.net | http://openid.net/</target></trans-unit>
+		</body>
+	</file>
+</xliff>

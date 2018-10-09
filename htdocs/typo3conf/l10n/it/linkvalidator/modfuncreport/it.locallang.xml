@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+      <label index="menu.introduction">Introduzione</label>
+      <label index="menu.checkLinks">Verifica la validità dei link</label>
+      <label index="menu.overview">Panoramica dei link sul sito</label>
+      <label index="overview.header">Panoramica - scegli le opzioni per verificare i link</label>
+      <label index="overview.all.header"/>
+      <label index="overview.all.records">Record con link esterni:</label>
+      <label index="overview.all.links">Link esterni:</label>
+      <label index="overview.branch.header"/>
+      <label index="overview.branch.records">Record con link esterni:</label>
+      <label index="overview.branch.links">Link esterni:</label>
+      <label index="overview.attention.header">Attenzione:</label>
+      <label index="overview.attention.text"/>
+      <label index="Report">Riepilogo</label>
+      <label index="CheckLink">Verifica link</label>
+      <label index="report.statistics.header"/>
+      <label index="checklinks.statistics.header"/>
+      <label index="report.func.title">Mostra questo livello</label>
+      <label index="checklinks.func.title">Verifica questo livello</label>
+      <label index="overviews.nbtotal">Totale link interrotti:</label>
+      <label index="hooks.db">Link interni:</label>
+      <label index="hooks.file">Link ai file:</label>
+      <label index="hooks.external">Link esterni:</label>
+      <label index="hooks.linkhandler"/>
+      <label index="label_refresh"/>
+      <label index="label_update">Verifica link</label>
+      <label index="list.header"/>
+      <label index="list.tableHead.path"/>
+      <label index="list.tableHead.element">Elementi</label>
+      <label index="list.tableHead.headlink">Link</label>
+      <label index="list.tableHead.linktarget"/>
+      <label index="list.tableHead.linkmessage">Messaggio di errore</label>
+      <label index="list.tableHead.lastCheck">Ultima verifica</label>
+      <label index="list.edit"/>
+      <label index="list.field"/>
+      <label index="list.no.headline"/>
+      <label index="list.report.pagedeleted"/>
+      <label index="list.report.pagenotvisible"/>
+      <label index="list.report.pagenotexisting"/>
+      <label index="list.report.contentmoved"/>
+      <label index="list.report.contentdeleted"/>
+      <label index="list.report.contentnotvisible"/>
+      <label index="list.report.contentnotexisting"/>
+      <label index="list.report.rowdeleted"/>
+      <label index="list.report.rowdeleted.default.title"/>
+      <label index="list.report.rownotexisting"/>
+      <label index="list.report.noinformation"/>
+      <label index="list.report.noresponse"/>
+      <label index="list.report.redirectloop"/>
+      <label index="list.report.pageforbidden403"/>
+      <label index="list.report.pagenotfound404"/>
+      <label index="list.report.externalerror"/>
+      <label index="list.report.filenotexisting"/>
+      <label index="list.report.timeout"/>
+      <label index="list.report.internalerror500"/>
+      <label index="list.report.couldnotresolvehost"/>
+      <label index="list.report.errornetworkdata"/>
+      <label index="list.report.otherhttpcode"/>
+      <label index="list.report.httpexception"/>
+      <label index="list.msg.ok"/>
+      <label index="list.msg.lastRun"/>
+      <label index="list.no.broken.links.title"/>
+      <label index="list.no.broken.links"/>
+      <label index="no.access.title"/>
+      <label index="no.access"/>
+    </languageKey>
+  </data>
+</T3locallangExt>

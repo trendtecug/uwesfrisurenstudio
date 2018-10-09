@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="author.description">Entrez votre nom.</label>
+			<label index="category.description">Sélectionnez une catégorie qui décrit le caractère de la note.</label>
+			<label index=".description">Note de rappel interne attachée à une page.</label>
+			<label index=".details">Ceci vous fournit un moyen simple de joindre des notes d'information à une page concernant les questions liées au backend . Utilisez-le comme vous le souhaitez pour les rappels , instructions , etc.</label>
+			<label index="email.description">Entrez votre adresse email.</label>
+			<label index="message.description">Ceci est la note elle-même.</label>
+			<label index="personal.description">Cochez la case si vous ne voulez pas que d'autres utilisateurs voient cette note.</label>
+			<label index="_.seeAlso">pages</label>
+			<label index="subject.description">Entrez un titre pour la note.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

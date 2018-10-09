@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index=".alttitle">Планировщик</label>
+			<label index=".description">Интерфейс для регистрации и управления повторяющихся или единичных задач.</label>
+			<label index=".syntax">Планировщик использует единственное cron задание для обработки всех зарегистрированных задач. Очень удобно установить единственное cron задание и управлять частотой выполнения всех задач из модуля внутреннего интерфейса.</label>
+			<label index="task_class.alttitle">Класс задач</label>
+			<label index="task_class.description">Выберете класс из списка доступных задач</label>
+			<label index="task_class.details">Некоторые задачи определяются самим ядром TYPO3. Смотрите руководство, чтобы научиться создавать собственные задачи и регистрировать их в планировщике.</label>
+			<label index="task_disable.alttitle">Отключение задач</label>
+			<label index="task_disable.description">Включите этот флажок для отключения автоматического запланированного выполнения данной задачи. Ее все еще можно будет выполнить вручную из модуля внутреннего интерфейса.</label>
+			<label index="task_type.alttitle">Тип задачи</label>
+			<label index="task_type.description">Выберете, должна ли задача выполняться один раз или повторяться</label>
+			<label index="task_start.alttitle">Начало задачи</label>
+			<label index="task_start.description">Введите начальную дату и время для задачи</label>
+			<label index="task_start.details">Дата должна вводиться в стандартном формате, вроде ЧЧ:мм дд-мм-ГГГГ или ГГГГ-мм-дд ЧЧ:мм. Также можно использовать обычные слова, вроде "now" или "tomorrow". Дата и время должны соответствовать часовому поясу сервера.</label>
+			<label index="task_end.alttitle">Окончание задачи</label>
+			<label index="task_end.description">Введите дату и время для окончания выполнения задачи</label>
+			<label index="task_end.details">Дата должна вводиться в стандартном формате, вроде ЧЧ:мм дд-мм-ГГГГ или ГГГГ-мм-дд ЧЧ:мм. Также можно использовать обычные слова, вроде "now" или "tomorrow". Дата и время должны соответствовать часовому поясу сервера. Можно оставить пустым, если задача не имеет срока окончания.</label>
+			<label index="task_frequency.alttitle">Частота повторения задачи</label>
+			<label index="task_frequency.description">Введите частоту повторения задачи в секундах или используйте cron-подобный синтаксис (минуты, часы, день месяца, месяц и день недели)</label>
+			<label index="task_frequency.details">Частота задачи может быть введена, как количество секунд. 
+
+В качестве альтернативы можно использовать синтаксис для ввода заданий cron. Это просто список из пяти чисел или шаблона "*", через пробел. Эти пять чисел (по порядку) – минуты, часы, день месяца и день недели. Примеры: 
+
+*/5 * * * * значит, каждые 5 минут 
+30 22 * * * значит, каждый день, в 22:30
+
+Планировщик поддерживает полный синтаксис cron.</label>
+			<label index="task_frequency.seeAlso">Ссылка на википедию|http://ru.wikipedia.org/wiki/Cron</label>
+			<label index="task_multiple.alttitle">Множественное исполнение</label>
+			<label index="task_multiple.description">Выберете, может ли задача выполняться несколько раз одновременно или нет</label>
+			<label index="task_email.alttitle">Адрес email</label>
+			<label index="task_email.description">Введите адрес получателя письма, отосланного тестовой задачей</label>
+			<label index="task_sleepTime.alttitle">Время отсрочки</label>
+			<label index="task_sleepTime.description">Введите количество секунд, на которые будет отсрочено выполнение задачи.</label>
+			<label index="task_cachingFrameworkGarbageCollection_selectedBackends.alttitle">Выбор внутренних интерфейсов</label>
+			<label index="task_cachingFrameworkGarbageCollection_selectedBackends.description">Если кеширование использует один из выбранных интерфейсов, для него будет вызвана уборка мусора.</label>
+			<label index="task_tableGarbageCollection_numberOfDays.alttitle">Количество дней</label>
+			<label index="task_tableGarbageCollection_numberOfDays.description">Удаление записей из выбранных таблиц, которые старше заданного количества дней.</label>
+			<label index="task_tableGarbageCollection_table.alttitle">Выберите таблицу</label>
+			<label index="task_tableGarbageCollection_table.description">Выберите одну из зарегистрированных таблиц, для очистки в процессе выполнения задачи.</label>
+			<label index="task_tableGarbageCollection_allTables.alttitle">Очистить все таблицы</label>
+			<label index="task_tableGarbageCollection_allTables.description">При выборе, очищаются все настроенные таблицы. Выбранное ниже игнорируется.</label>
+			<label index="task_recyclerGarbageCollection_numberOfDays.alttitle">Количество дней</label>
+			<label index="task_recyclerGarbageCollection_numberOfDays.description">Удалить файлы в папках _recycler_, которые старше указанного количества дней.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

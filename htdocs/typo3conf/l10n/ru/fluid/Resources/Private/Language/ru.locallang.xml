@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="widget.pagination.first">первая</label>
+			<label index="widget.pagination.last">последняя</label>
+			<label index="widget.pagination.next">далее</label>
+			<label index="widget.pagination.page">Страница</label>
+			<label index="widget.pagination.previous">назад</label>
+			<label index="widget.pagination.records">Записи</label>
+			<label index="widget.pagination.refresh">Обновить</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:09Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Abbreviation" xml:space="preserve" approved="yes">
+				<source>Abbreviation</source>
+			<target state="translated">Аббревиатура</target></trans-unit>
+			<trans-unit id="Abridged_term" xml:space="preserve" approved="yes">
+				<source>Abridged Term:</source>
+			<target state="translated">Сокращенный термин:</target></trans-unit>
+			<trans-unit id="Acronym" xml:space="preserve" approved="yes">
+				<source>Acronym</source>
+			<target state="translated">Акроним</target></trans-unit>
+			<trans-unit id="Cancel" xml:space="preserve" approved="yes">
+				<source>Cancel</source>
+			<target state="translated">Отмена</target></trans-unit>
+			<trans-unit id="Defined_term" xml:space="preserve" approved="yes">
+				<source>Pre-defined Acronyms and Abbreviations</source>
+			<target state="translated">Предопределённые акронимы и аббревиатуры</target></trans-unit>
+			<trans-unit id="Delete" xml:space="preserve" approved="yes">
+				<source>Delete</source>
+			<target state="translated">Удалить</target></trans-unit>
+			<trans-unit id="Language" xml:space="preserve" approved="yes">
+				<source>Language:</source>
+			<target state="translated">Язык:</target></trans-unit>
+			<trans-unit id="OK" xml:space="preserve" approved="yes">
+				<source>OK</source>
+			<target state="translated">OK</target></trans-unit>
+			<trans-unit id="Select_a_language" xml:space="preserve" approved="yes">
+				<source>Select a language</source>
+			<target state="translated">Выбор языка</target></trans-unit>
+			<trans-unit id="Select_an_acronym" xml:space="preserve" approved="yes">
+				<source>Select an acronym or abbreviation</source>
+			<target state="translated">Выбирите акроним или аббревиатуру</target></trans-unit>
+			<trans-unit id="Select_a_term" xml:space="preserve" approved="yes">
+				<source>Select a term</source>
+			<target state="translated">Выберите термин</target></trans-unit>
+			<trans-unit id="Term" xml:space="preserve" approved="yes">
+				<source>Term:</source>
+			<target state="translated">Термин:</target></trans-unit>
+			<trans-unit id="Term_to_abridge" xml:space="preserve" approved="yes">
+				<source>Term to abridge</source>
+			<target state="translated">Термин для сокращения</target></trans-unit>
+			<trans-unit id="Type_of_abridged_form" xml:space="preserve" approved="yes">
+				<source>Acronym or Abbreviation?</source>
+			<target state="translated">Акроним или аббревиатура?</target></trans-unit>
+			<trans-unit id="Unabridged_term" xml:space="preserve" approved="yes">
+				<source>Unabridged Term:</source>
+			<target state="translated">Несокращенный термин:</target></trans-unit>
+			<trans-unit id="Use_this_term" xml:space="preserve" approved="yes">
+				<source>Use this term:</source>
+			<target state="translated">Использовать этот термин:</target></trans-unit>
+			<trans-unit id="Use_this_term_explain" xml:space="preserve" approved="yes">
+				<source>Associate this term to the current selection</source>
+			<target state="translated">Ассоциировать термин с выделением</target></trans-unit>
+		</body>
+	</file>
+</xliff>

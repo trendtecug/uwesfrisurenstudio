@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:34Z" product-name="lowlevel" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="configuration" xml:space="preserve" approved="yes">
+        <source>Configuration</source>
+      <target state="translated">Configuration</target></trans-unit>
+      <trans-unit id="typo3ConfVars" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TYPO3_CONF_VARS'] (Global Configuration)</source>
+      <target state="translated">$GLOBALS['TYPO3_CONF_VARS'] (Configuration globale)</target></trans-unit>
+      <trans-unit id="tca" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TCA'] (Table configuration array)</source>
+      <target state="translated">$GLOBALS['TCA'] (Array pour la configuration de la table)</target></trans-unit>
+      <trans-unit id="tcaDescr" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TCA_DESCR'] (Table Help Description)</source>
+      <target state="translated">$GLOBALS['TCA_DESCR'] (Description pour la table d'aide)</target></trans-unit>
+      <trans-unit id="loadedExt" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TYPO3_LOADED_EXT'] (Loaded Extensions)</source>
+      <target state="translated">$GLOBALS['TYPO3_LOADED_EXT'] (Extensions chargées)</target></trans-unit>
+      <trans-unit id="tbeStyles" xml:space="preserve">
+        <source>$GLOBALS['TBE_STYLES'] (Skinning Styles)</source>
+      <target></target></trans-unit>
+      <trans-unit id="beUser" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['BE_USER']-&gt;uc (User Settings)</source>
+      <target state="translated">GLOBALS['BE_USER']-&gt;uc (Préférences utilisateurs)</target></trans-unit>
+      <trans-unit id="usersettings" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TYPO3_USER_SETTINGS'] (User Settings Configuration)</source>
+      <target state="translated">$GLOBALS['TYPO3_USER_SETTINGS'] (Configuration des préférences utilisateurs)</target></trans-unit>
+      <trans-unit id="t3services" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['T3_SERVICES'] (Registered Services)</source>
+      <target state="translated">$GLOBALS['T3_SERVICES'] (Services enregistrés)</target></trans-unit>
+      <trans-unit id="tbemodulesext" xml:space="preserve">
+        <source>$GLOBALS['TBE_MODULES_EXT'] (BE Modules Extensions)</source>
+      <target></target></trans-unit>
+      <trans-unit id="tbemodules" xml:space="preserve">
+        <source>$GLOBALS['TBE_MODULES'] (BE Modules)</source>
+      <target></target></trans-unit>
+      <trans-unit id="cropLines" xml:space="preserve" approved="yes">
+        <source>Crop lines</source>
+      <target state="translated">Rogner les lignes</target></trans-unit>
+      <trans-unit id="variable" xml:space="preserve" approved="yes">
+        <source>Variable:</source>
+      <target state="translated">Variable :</target></trans-unit>
+      <trans-unit id="copyPaste" xml:space="preserve" approved="yes">
+        <source>(Now, copy/paste this value into the configuration file where you can set it. This is all you can do from here...)</source>
+      <target state="translated">(Maintenant, copier / coller cette valeur dans le fichier de configuration où vous pouvez le régler. C'est tout ce que vous pouvez faire à partir d'ici ...)</target></trans-unit>
+      <trans-unit id="enterSearchPhrase" xml:space="preserve" approved="yes">
+        <source>Enter search phrase:</source>
+      <target state="translated">Saisissez vos termes de recherche:</target></trans-unit>
+      <trans-unit id="search" xml:space="preserve" approved="yes">
+        <source>Search</source>
+      <target state="translated">Recherche</target></trans-unit>
+      <trans-unit id="useRegExp" xml:space="preserve" approved="yes">
+        <source>Use regular expression</source>
+      <target state="translated">Utiliser une expression régulière</target></trans-unit>
+      <trans-unit id="writeValue" xml:space="preserve" approved="yes">
+        <source>Write value to configuration file</source>
+      <target state="translated">Ecriture du fichier de configuration</target></trans-unit>
+      <trans-unit id="writeMessage" xml:space="preserve" approved="yes">
+        <source>Following line was added to configuration file (%s): %s%s</source>
+      <target state="translated">La ligne suivante a été ajoutée dans le fichier de configuration (%s): %s%s</target></trans-unit>
+      <trans-unit id="writeMessageFailed" xml:space="preserve" approved="yes">
+        <source>Write to configuration file failed (%s)!</source>
+      <target state="translated">Impossible d'écrire dans le fichier de configuration (%s)!</target></trans-unit>
+    </body>
+  </file>
+</xliff>

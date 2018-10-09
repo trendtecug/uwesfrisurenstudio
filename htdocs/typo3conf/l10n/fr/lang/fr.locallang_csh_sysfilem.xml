@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="base.description">Détermine si la valeur du champ « Chemin » doit être reconnue comme un chemin absolu sur le serveur ou un chemin relatif au sous-dossier « fileadmin/ » du site web.</label>
+			<label index="_base.seeAlso">sys_filemounts:path</label>
+			<label index=".description">Le montage de fichiers décrit un chemin sur le serveur, relatif ou absolu.</label>
+			<label index=".details"/>
+			<label index="hidden.description">Utilisez cette option pour désactiver temporairement le point de montage.</label>
+			<label index="hidden.details">Tous les utilisateurs backend utilisant ce point de montage n'auront plus accès à rien. Cela inclut également les utilisateurs de type "Admin".</label>
+			<label index="_.image">EXT:lang/cshimages/filemount_1.png</label>
+			<label index="path.description">Entrer le chemin du montage de fichier, relatif ou absolu selon les options de configuration de « BASE »</label>
+			<label index="path.details"/>
+			<label index="_path.image">EXT:lang/cshimages/be_groups_6.png,
+EXT:lang/cshimages/be_groups_7.png</label>
+			<label index="path.image_descr">Ceci est un montage de fichier relatif à "fileadmin/". Le dossier monté est "fileadmin/user_upload/" depuis "user_upload" et correspond à la valeur du champ "Chemin".
+La structure du dossier de "fileadmin/" où vous pouvez voir le dossier "user_upload" est placé en bas de la liste.</label>
+			<label index="_path.seeAlso">sys_filemounts:base,
+be_groups:file_mountpoints,
+sys_filemounts</label>
+			<label index="_.seeAlso"/>
+			<label index="title.description">Saisir un titre pour le montage de fichier. Le titre apparaîtra comme nom du montage de fichier quand il est appliqué aux utilisateurs et aux groupes</label>
+			<label index="_title.image">EXT:lang/cshimages/be_groups_5.png</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

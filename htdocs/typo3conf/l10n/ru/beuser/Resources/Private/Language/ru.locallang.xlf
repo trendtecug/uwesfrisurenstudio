@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T00:17:20Z" product-name="beuser">
+		<header/>
+		<body>
+			<trans-unit id="activeOnly" approved="yes">
+				<source>Active only</source>
+				<target state="translated">Активный</target>
+			</trans-unit>
+			<trans-unit id="activeSessions" approved="yes">
+				<source>Active Sessions</source>
+				<target state="translated">Активные сессии</target>
+			</trans-unit>
+			<trans-unit id="admin" approved="yes">
+				<source>Admin</source>
+				<target state="translated">Администратор</target>
+			</trans-unit>
+			<trans-unit id="adminOnly" approved="yes">
+				<source>Admin only</source>
+				<target state="translated">Только для администраторов</target>
+			</trans-unit>
+			<trans-unit id="allowedLanguages" approved="yes">
+				<source>Limit to languages</source>
+				<target state="translated">Ограничить языками</target>
+			</trans-unit>
+			<trans-unit id="any" approved="yes">
+				<source>Any</source>
+				<target state="translated">Любой</target>
+			</trans-unit>
+			<trans-unit id="backendUserAdministration" approved="yes">
+				<source>Backend User Administration</source>
+				<target state="translated">Управление пользователями</target>
+			</trans-unit>
+			<trans-unit id="backendUserGroup" approved="yes">
+				<source>User group</source>
+				<target state="translated">Группа пользователей</target>
+			</trans-unit>
+			<trans-unit id="backendUserGroups" approved="yes">
+				<source>Member of groups</source>
+				<target state="translated">Группы</target>
+			</trans-unit>
+			<trans-unit id="backendUserListing" approved="yes">
+				<source>Backend User Listing</source>
+				<target state="translated">Список пользователей</target>
+			</trans-unit>
+			<trans-unit id="backendUsers" approved="yes">
+				<source>Backend users</source>
+				<target state="translated">Пользователи</target>
+			</trans-unit>
+			<trans-unit id="both" approved="yes">
+				<source>Both</source>
+				<target state="translated">Любой</target>
+			</trans-unit>
+			<trans-unit id="changeToMode" approved="yes">
+				<source>[change-to mode]</source>
+				<target state="translated">[режим перехода]</target>
+			</trans-unit>
+			<trans-unit id="compare" approved="yes">
+				<source>Compare</source>
+				<target state="translated">Сравнить</target>
+			</trans-unit>
+			<trans-unit id="compareBackendUsers" approved="yes">
+				<source>Compare backend users</source>
+				<target state="translated">Сравнить пользователей</target>
+			</trans-unit>
+			<trans-unit id="compareUserList" approved="yes">
+				<source>Compare user list</source>
+				<target state="translated">Сравнить списки пользователей</target>
+			</trans-unit>
+			<trans-unit id="confirm" approved="yes">
+				<source>Are you sure you want to delete this backend user %s?</source>
+				<target state="translated">Вы уверены, что хотите удалить пользователя административной части %s?</target>
+			</trans-unit>
+			<trans-unit id="dbMountPoints" approved="yes">
+				<source>DB mountpoints</source>
+				<target state="translated">Точки монтирования базы данных</target>
+			</trans-unit>
+			<trans-unit id="disable" approved="yes">
+				<source>Disable</source>
+				<target state="translated">Отключить</target>
+			</trans-unit>
+			<trans-unit id="disableIpLock" approved="yes">
+				<source>Disable IP lock</source>
+				<target state="translated">Отключить ограничение по IP</target>
+			</trans-unit>
+			<trans-unit id="email" approved="yes">
+				<source>Email</source>
+				<target state="translated">E-mail</target>
+			</trans-unit>
+			<trans-unit id="endDateAndTime" approved="yes">
+				<source>Stop</source>
+				<target state="translated">Стоп</target>
+			</trans-unit>
+			<trans-unit id="endSession" approved="yes">
+				<source>End session</source>
+				<target state="translated">Завершение сессии</target>
+			</trans-unit>
+			<trans-unit id="fileMounts" approved="yes">
+				<source>File mountpoints</source>
+				<target state="translated">Точки монтирования файловой системы</target>
+			</trans-unit>
+			<trans-unit id="filter" approved="yes">
+				<source>Filter</source>
+				<target state="translated">Фильтр</target>
+			</trans-unit>
+			<trans-unit id="inactiveOnly" approved="yes">
+				<source>Inactive only</source>
+				<target state="translated">Неактивный</target>
+			</trans-unit>
+			<trans-unit id="ipAddress" approved="yes">
+				<source>IP address</source>
+				<target state="translated">IP адрес</target>
+			</trans-unit>
+			<trans-unit id="lastAccess" approved="yes">
+				<source>Last access</source>
+				<target state="translated">Последний доступ</target>
+			</trans-unit>
+			<trans-unit id="lastLogin" approved="yes">
+				<source>Last login</source>
+				<target state="translated">Последний вход</target>
+			</trans-unit>
+			<trans-unit id="loginBefore" approved="yes">
+				<source>Logged in before</source>
+				<target state="translated">Вход до</target>
+			</trans-unit>
+			<trans-unit id="never" approved="yes">
+				<source>Never</source>
+				<target state="translated">Никогда</target>
+			</trans-unit>
+			<trans-unit id="neverLoggedIn" approved="yes">
+				<source>Never logged in</source>
+				<target state="translated">Никогда не входил</target>
+			</trans-unit>
+			<trans-unit id="no" approved="yes">
+				<source>No</source>
+				<target state="translated">Нет</target>
+			</trans-unit>
+			<trans-unit id="normalUserOnly" approved="yes">
+				<source>Normal users only</source>
+				<target state="translated">Только для обычных пользователей</target>
+			</trans-unit>
+			<trans-unit id="onlineUsers" approved="yes">
+				<source>Online users</source>
+				<target state="translated">Пользователи онлайн</target>
+			</trans-unit>
+			<trans-unit id="reallyLogout" approved="yes">
+				<source>Really logout</source>
+				<target state="translated">Подтверждаете выход</target>
+			</trans-unit>
+			<trans-unit id="realName" approved="yes">
+				<source>Real Name</source>
+				<target state="translated">Настоящее имя</target>
+			</trans-unit>
+			<trans-unit id="section.compare" approved="yes">
+				<source>Compare</source>
+				<target state="translated">Сравнить</target>
+			</trans-unit>
+			<trans-unit id="startDateAndTime" approved="yes">
+				<source>Start</source>
+				<target state="translated">Старт</target>
+			</trans-unit>
+			<trans-unit id="status" approved="yes">
+				<source>Status</source>
+				<target state="translated">Статус</target>
+			</trans-unit>
+			<trans-unit id="switchBackMode" approved="yes">
+				<source>Switch to user</source>
+				<target state="translated">Переключить на пользователя</target>
+			</trans-unit>
+			<trans-unit id="userName" approved="yes">
+				<source>Username</source>
+				<target state="translated">Имя пользователия</target>
+			</trans-unit>
+			<trans-unit id="users" approved="yes">
+				<source>Users</source>
+				<target state="translated">Пользователи</target>
+			</trans-unit>
+			<trans-unit id="yes" approved="yes">
+				<source>Yes</source>
+				<target state="translated">Да</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

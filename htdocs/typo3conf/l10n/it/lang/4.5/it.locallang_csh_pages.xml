@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index=".description">Un record 'Page' solitamente rappresenta una pagina web in TYPO3. Tutte le pagine hanno un numero ID (UID) attraverso il quale possono essere collegate e referenziate. Lo stesso record 'Page' non contiene il contenuto della pagina. I record 'Page Content' (Content Element) sono usati per questo.</label>
+			<label index=".details">La tabella delle pagine è la spina dorsale di TYPO3. Tutti i record editabili nei moduli principali in TYPO3 devono appartenere a una pagina. E' esattamente come file e cartelle sull'hard disk del tuo computer.
+
+&lt;b&gt;L'Albero delle pagine&lt;/b&gt;
+Le pagine sono organizzate in una struttura ad albero che riflette l'organizzazione del sito web.
+
+&lt;b&gt;UID, PID e pagina principale dell'albero delle pagine&lt;/b&gt;
+Tutti i record di database hanno un campo 'uid' che è un numero univoco di identificazione. Essi hanno anche un campo 'pid' (page id) che ha il numero ID della pagina alla quale appartengono. Se il campo 'pid' è zero, il record si trova nella 'root'. Solo gli amministratori hanno accesso alla root. I record della tabella devono essere configurati per appartenere a una pagina o devono trovarsi nella root.
+
+&lt;b&gt;Contenitore di Record di Database&lt;/b&gt;
+In dipendenza del 'Type' una pagina in TYPO3 può anche rappresentare un contenitore generale per elementi di database. In questo caso, non è disponibile come pagina web, ma è usata internamente nell'Albero delle pagine come un posto in cui mettere utenti, sottoscrizioni, etc. Queste pagine sono solitamente di tipo "Folder".</label>
+			<label index="doktype.description"/>
+			<label index="doktype.details"/>
+			<label index="_doktype.image"/>
+			<label index="doktype.image_descr"/>
+			<label index="_doktype.seeAlso"/>
+			<label index="editlock.description"/>
+			<label index="fe_login_mode.description"/>
+			<label index="fe_login_mode.details"/>
+			<label index="_.image">EXT:lang/cshimages/pages_1.png,
+EXT:lang/cshimages/pages_2.png,</label>
+			<label index=".image_descr"/>
+			<label index="php_tree_stop.description"/>
+			<label index="php_tree_stop.details"/>
+			<label index="_php_tree_stop.image"/>
+			<label index="php_tree_stop.image_descr"/>
+			<label index="_php_tree_stop.seeAlso"/>
+			<label index="_.seeAlso">xMOD_csh_corebe:pagetree,
+tt_content,
+About pages | http://typo3.org/documentation/document-library/doc_tut_quickstart/Pagetree/</label>
+			<label index="storage_pid.description"/>
+			<label index="storage_pid.details"/>
+			<label index="_storage_pid.seeAlso"/>
+			<label index="title.description"/>
+			<label index="title.details"/>
+			<label index="_title.image"/>
+			<label index="title.image_descr"/>
+			<label index="TSconfig.description"/>
+			<label index="TSconfig.details"/>
+			<label index="_TSconfig.image"/>
+			<label index="TSconfig.image_descr"/>
+			<label index="_TSconfig.seeAlso"/>
+			<label index="TSconfig.syntax"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

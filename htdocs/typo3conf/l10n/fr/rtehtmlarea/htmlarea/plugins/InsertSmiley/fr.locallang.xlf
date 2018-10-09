@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-29T03:42:26Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Cancel" approved="yes">
+				<source>Cancel</source>
+				<target state="translated">Annuler</target>
+			</trans-unit>
+			<trans-unit id="Insert Smiley" approved="yes">
+				<source>Insert Smiley</source>
+				<target state="translated">Insérer un émoticône</target>
+			</trans-unit>
+			<trans-unit id="mozilla_cool" approved="yes">
+				<source>Cool</source>
+				<target state="translated">Cool</target>
+			</trans-unit>
+			<trans-unit id="mozilla_cry" approved="yes">
+				<source>Cry</source>
+				<target state="translated">Pleurer</target>
+			</trans-unit>
+			<trans-unit id="mozilla_embarassed" approved="yes">
+				<source>Embarassed</source>
+				<target state="translated">Emabarssé</target>
+			</trans-unit>
+			<trans-unit id="mozilla_footinmouth" approved="yes">
+				<source>Foot in mouth</source>
+				<target state="translated">Pied-dans-le-plat</target>
+				<note>L'expression "Foot in mouth" ne semble pas avoir d'équivalent en français. On le dit après avoir fait une gaffe.</note>
+			</trans-unit>
+			<trans-unit id="mozilla_frown" approved="yes">
+				<source>Frown</source>
+				<target state="translated">Froncement de sourcils</target>
+			</trans-unit>
+			<trans-unit id="mozilla_innocent" approved="yes">
+				<source>Innocent</source>
+				<target state="translated">Innocent</target>
+			</trans-unit>
+			<trans-unit id="mozilla_kiss" approved="yes">
+				<source>Kiss</source>
+				<target state="translated">Baiser</target>
+			</trans-unit>
+			<trans-unit id="mozilla_laughing" approved="yes">
+				<source>Laughing</source>
+				<target state="translated">Rire</target>
+			</trans-unit>
+			<trans-unit id="mozilla_moneyinmouth" approved="yes">
+				<source>Money Mouth</source>
+				<target state="translated">Voir des dollars</target>
+			</trans-unit>
+			<trans-unit id="mozilla_sealed" approved="yes">
+				<source>Lips are sealed</source>
+				<target state="translated">Les lèvres sont scellées</target>
+			</trans-unit>
+			<trans-unit id="mozilla_smile" approved="yes">
+				<source>Smile</source>
+				<target state="translated">Sourire</target>
+			</trans-unit>
+			<trans-unit id="mozilla_surprised" approved="yes">
+				<source>Surprise</source>
+				<target state="translated">Surpris</target>
+			</trans-unit>
+			<trans-unit id="mozilla_tongueout" approved="yes">
+				<source>Tongue out</source>
+				<target state="translated">Tirer la langue</target>
+			</trans-unit>
+			<trans-unit id="mozilla_undecided" approved="yes">
+				<source>Undecided</source>
+				<target state="translated">Indécis</target>
+			</trans-unit>
+			<trans-unit id="mozilla_wink" approved="yes">
+				<source>Wink</source>
+				<target state="translated">Clin d'œil</target>
+			</trans-unit>
+			<trans-unit id="mozilla_yell" approved="yes">
+				<source>Yell</source>
+				<target state="translated">Crier</target>
+			</trans-unit>
+			<trans-unit id="Smiley" approved="yes">
+				<source>Smiley</source>
+				<target state="translated">Emoticône</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

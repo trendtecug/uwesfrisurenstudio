@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index=".alttitle">Planificateur</label>
+			<label index=".description">Le planificateur fournit une interface permettant d'enregistrer et de gérer les tâches récurrentes ou uniques.</label>
+			<label index=".syntax">Le planificateur utilise un job cron unique qui gère toutes les tâches enregistrée. Il est donc très pratique car une seule tâche cron doit être mise en place et toutes les fréquences d’exécutions peuvent être gérées à partir du module backend.</label>
+			<label index="task_class.alttitle">Classe de la tâche</label>
+			<label index="task_class.description">Choisissez une classe à partir de la liste des tâches disponibles</label>
+			<label index="task_class.details">Les tâches sont fournies par diverses extensions. Si vous souhaitez créer vos propres tâches et les enregistrer auprès du planificateur, veuillez lire le manuel.</label>
+			<label index="task_disable.alttitle">Désactive la tâche</label>
+			<label index="task_disable.description">Cochez cette case pour désactiver l'exécution automatique et planifiée de la tâche. Elle pourra toutefois être lancée manuellement par le module d'administration.</label>
+			<label index="task_type.alttitle">Type de la tâche</label>
+			<label index="task_type.description">Veuillez choisir si la tâche doit être exécutée une seule fois ou si elle doit être répétée</label>
+			<label index="task_start.alttitle">Début de la tâche</label>
+			<label index="task_start.description">Entrez la date et heure de début de la tâche</label>
+			<label index="task_start.details">La date doit être saisie dans un forma standard, tel que HH:mm jj-mm-aaaa ou aaaa-mm-jj HH:mm. Des mots-clés tels que "now" ou "tomorrow" peuvent également être utilisés.</label>
+			<label index="task_end.alttitle">Fin de la tâche</label>
+			<label index="task_end.description">Entrez la date et heure de fin de la tâche (peut être vide)</label>
+			<label index="task_end.details">La date doit être entrée dans un format standard comme HH:mm jj-MM-AAAA ou AAAA-MM-JJ HH:mm. Les mots-clés naturels peuvent également être utilisés, comme «maintenant» ou «demain». La date et l'heure doivent correspondre au fuseau horaire du serveur. Peut être laissé vide, si la tâche n'est pas censé se terminer.</label>
+			<label index="task_frequency.alttitle">Fréquence de la tâche</label>
+			<label index="task_frequency.description">Entrez la fréquence, en secondes ou en syntaxe de type cron (minutes, heures, jours du mois, mois et jour de la semaine)</label>
+			<label index="task_frequency.details">La fréquence de la tâche peut être simplement un nombre de seconde. Il est aussi possible d'utiliser la syntaxe utilisée par les jobs cron. C'est une liste de cinq nombres, ou le joker "*", séparés par des espaces. Les cinq nombres sont, dans l'ordre, les minutes, les heures, le jour du mois, le mois et le jour de la semaine. Par exemple : */5 * * * * signifie : toutes les 5 minutes. 30 22 * * * signifie tous les jours à 22h30</label>
+			<label index="task_frequency.seeAlso">Référence Wikipédia|http://fr.wikipedia.org/wiki/Cron</label>
+			<label index="task_multiple.alttitle">Exécutions multiples</label>
+			<label index="task_multiple.description">Veuillez déterminer si la tâche pourra être exécutée plusieurs fois en parallèle ou non.</label>
+			<label index="task_email.alttitle">Adresse mail</label>
+			<label index="task_email.description">Veuillez saisir le destinataire des mails encoyés par la tâche test</label>
+			<label index="task_sleepTime.alttitle">Durée du sommeil</label>
+			<label index="task_sleepTime.description">Entrez le nombre de secondes pendant lesquelles la tâche sera en sommeil.</label>
+			<label index="task_cachingFrameworkGarbageCollection_selectedBackends.alttitle">Sélectionner un backend</label>
+			<label index="task_cachingFrameworkGarbageCollection_selectedBackends.description">Si un cache utilise l'un de ces backends, le ramasse-miette sera appelé.</label>
+			<label index="task_tableGarbageCollection_numberOfDays.alttitle">Nombre de jours</label>
+			<label index="task_tableGarbageCollection_numberOfDays.description">Supprimer les lignes de la table sélectionnée qui sont plus âgées que le nombre de jours donné.</label>
+			<label index="task_tableGarbageCollection_table.alttitle">Sélectionner une table</label>
+			<label index="task_tableGarbageCollection_table.description">Sélectionnez l'une des tables enregistrées pour être nettoyés avec cette tâche.</label>
+			<label index="task_tableGarbageCollection_allTables.alttitle">Nettoyez toutes les tables</label>
+			<label index="task_tableGarbageCollection_allTables.description">Si elle sont sélectionnées, toutes les tables configurées sont nettoyées. La liste ci-dessous est ignorée.</label>
+			<label index="task_recyclerGarbageCollection_numberOfDays.alttitle">Nombre de jours</label>
+			<label index="task_recyclerGarbageCollection_numberOfDays.description">Supprimer les fichiers dans les dossiers _recycler_ plus anciens que le nombre de jours donné.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

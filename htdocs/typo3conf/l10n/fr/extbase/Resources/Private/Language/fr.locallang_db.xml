@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="fe_groups.tx_extbase_type">Type d'enregistrement</label>
+			<label index="fe_groups.tx_extbase_type.0">indéifni</label>
+			<label index="fe_groups.tx_extbase_type.Tx_Extbase_Domain_Model_FrontendUserGroup">Tx_Extbase_Domain_Model_FrontendUserGroup</label>
+			<label index="fe_users.tx_extbase_type">Type d'enregistrement</label>
+			<label index="fe_users.tx_extbase_type.0">indéfini</label>
+			<label index="fe_users.tx_extbase_type.Tx_Extbase_Domain_Model_FrontendUser">Tx_Extbase_Domain_Model_FrontendUser</label>
+			<label index="task.action">Commande "CommandController"</label>
+			<label index="task.description"/>
+			<label index="task.name"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="ATTRIBUTES">Атрибуты</label>
+			<label index="Cancel">Отмена</label>
+			<label index="Colors">Цвета</label>
+			<label index="Enter the TAG you want to insert">Введите ТЕГ, который нужно вставить</label>
+			<label index="No CSS class avaiable">CSS-классы недоступны</label>
+			<label index="Ok">ОК</label>
+			<label index="OPTIONS">Параметры</label>
+			<label index="Quick Tag Editor">Вставить тег</label>
+			<label index="TAGs">Теги</label>
+			<label index="There are some unclosed quote">Есть незакрытые кавычки</label>
+			<label index="This attribute already exists in the TAG">Этот атрибут уже присутствует в ТЕГЕ</label>
+			<label index="You have to select some text">Сначала нужно выделить текст</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

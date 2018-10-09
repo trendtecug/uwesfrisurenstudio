@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="editThisColumn">Modifica il campo '%s' per tutte le pagine elencate</label>
+			<label index="editTSconfig">Modifica TSconfig per questa pagina</label>
+			<label index="editTSconfig_all">Modifica TSconfig per tutte le pagine visualizzate</label>
+			<label index="editTSconfig_default">Configurazione di default da TYPO3_CONF_VARS</label>
+			<label index="mod_pagetsconfig">TSconfig della pagina</label>
+			<label index="sort_alphabetic">Ordine alfabetico:</label>
+			<label index="tsconf_configFields">Mostra il contenuto dei campi TSconfig</label>
+			<label index="tsconf_parts_0">Tutto</label>
+			<label index="tsconf_parts_1">Modulo ('mod') con impostazioni dell'utente in sovrascrittura</label>
+			<label index="tsconf_parts_1a">Modulo: Web&gt;Pagina</label>
+			<label index="tsconf_parts_1b">Modulo: Web&gt;Mostra</label>
+			<label index="tsconf_parts_1c">Modulo: Web&gt;Moduli</label>
+			<label index="tsconf_parts_1d">Modulo: Web&gt;Lista</label>
+			<label index="tsconf_parts_1e">Modulo: Web&gt;Info</label>
+			<label index="tsconf_parts_1f">Modulo: Web&gt;Func</label>
+			<label index="tsconf_parts_1g">Modulo: Web&gt;Template</label>
+			<label index="tsconf_title">TSConfig della pagina</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:22:17Z" product-name="reports">
+		<header/>
+		<body>
+			<trans-unit id="status_adminUserAccount" approved="yes">
+				<source>Admin User Account</source>
+				<target state="translated">Account Admin</target>
+			</trans-unit>
+			<trans-unit id="status_configuration" approved="yes">
+				<source>Configuration</source>
+				<target state="translated">Configurazione</target>
+			</trans-unit>
+			<trans-unit id="status_configuration_DeprecationLog" approved="yes">
+				<source>Deprecation Log</source>
+				<target state="translated">Deprecation Log</target>
+			</trans-unit>
+			<trans-unit id="status_configuration_DeprecationLogDeletedSuccessful">
+				<source>The deprecation log file was successfully deleted.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_configuration_DeprecationLogDeleteLink">
+				<source>Delete deprecation log file.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_configuration_DeprecationLogDeletionFailed">
+				<source>The deprecation log file could not be deleted!</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_configuration_DeprecationLogEnabled">
+				<source>The deprecation log tracks whether old APIs are being used in extensions. Depending on the extensions you use and whether they use deprecated APIs it can happen that the log takes up quite some space over time. The more space it takes up, the more it may affect your installation's performance. It is recommended to disable deprecation log in production environments.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_configuration_DeprecationLogFile">
+				<source>You can find the deprecation log file at %s.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_configuration_DeprecationLogSize">
+				<source>Your deprecation log file currently takes up %s.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_configuration_PhpMagicQuotesGpcEnabled">
+				<source>PHP INI setting magic_quotes_gpc "On" is deprecated since PHP 5.3. You are advised to set it to "Off" until it gets completely removed.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_configuration_PhpSafeModeEnabled" approved="yes">
+				<source>PHP INI setting safe_mode "On" is deprecated since PHP 5.3 and is not supported by TYPO3 anymore.</source>
+				<target state="translated">In PHP INI la configurazion safe_mode "On" è deprecata a partire da PHP 5.3 e non è più supportata da TYPO3.</target>
+			</trans-unit>
+			<trans-unit id="status_connectionFailed" approved="yes">
+				<source>Connection Failed</source>
+				<target state="translated">Connessione fallita</target>
+			</trans-unit>
+			<trans-unit id="status_contentAdapterActive" xml:space="preserve">
+				<source>Content Adapter is active</source>
+			<target/><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status_contentAdapterActiveMessage" xml:space="preserve">
+				<source>The Install Tool option [FE][activateContentAdapter] is active to provide compatibility with TypoScript from TYPO3 4.x regarding file handling. This has quite an impact on the performance of frontend rendering. Change TypoScript to support FAL in handling files and disable the setting to increase performance.</source>
+			<target/><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status_CreatedDirectoryPermissions">
+				<source>Permissions of created directories</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_CreatedDirectoryPermissions.writable">
+				<source>Directories created by TYPO3 are configured to be world writable. Depending on your server configuration, this can be a security risk. It is usually better to configure the create mask to not allow writing to directories by "others". A sane default is often '2770' for $GLOBALS['TYPO3_CONF_VARS']['SYS']['folderCreateMask']. This can be set in the install tool.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_CreatedFilePermissions">
+				<source>Permissions of created files</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_CreatedFilePermissions.writable">
+				<source>Files created by TYPO3 are configured to be world writable. Depending on your server configuration, this can be a security risk. It is usually better to configure the create mask to not allow writing to files by "others". A sane default is often '0660' for $GLOBALS['TYPO3_CONF_VARS']['SYS']['fileCreateMask']. This can be set in the install tool.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_disabled" approved="yes">
+				<source>Disabled</source>
+				<target state="translated">Disabilitato</target>
+			</trans-unit>
+			<trans-unit id="status_empty" approved="yes">
+				<source>Empty</source>
+				<target state="translated">Vuoto</target>
+			</trans-unit>
+			<trans-unit id="status_enabled" approved="yes">
+				<source>Enabled</source>
+				<target state="translated">Abilitato</target>
+			</trans-unit>
+			<trans-unit id="status_enabledPermanently" approved="yes">
+				<source>Enabled permanently</source>
+				<target state="translated">Abilitato permanentemente</target>
+			</trans-unit>
+			<trans-unit id="status_enabledTemporarily" approved="yes">
+				<source>Enabled temporarily</source>
+				<target state="translated">Abilitato temporaneamente</target>
+			</trans-unit>
+			<trans-unit id="status_encryptionKey" approved="yes">
+				<source>Encryption Key</source>
+				<target state="translated">Chiave di criptazione</target>
+			</trans-unit>
+			<trans-unit id="status_fal">
+				<source>File Abstraction Layer</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_fileDenyPattern">
+				<source>File Deny Pattern</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_htaccessUploadProtection" approved="yes">
+				<source>.htaccess Upload Protection</source>
+				<target state="translated">Protezione caricamento con .htaccess</target>
+			</trans-unit>
+			<trans-unit id="status_insecure" approved="yes">
+				<source>Insecure</source>
+				<target state="translated">Insicuro</target>
+			</trans-unit>
+			<trans-unit id="status_installEnabledTemporarily">
+				<source>The Install Tool is temporarily enabled. Delete the file "%s" when you have finished setting up TYPO3. If not used the Install Tool will be disabled automatically in %s minutes.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_installTool" approved="yes">
+				<source>Install Tool</source>
+				<target state="translated">Modulo Installazione</target>
+			</trans-unit>
+			<trans-unit id="status_installToolPassword" approved="yes">
+				<source>Install Tool Password</source>
+				<target state="translated">Password Modulo Installazione</target>
+			</trans-unit>
+			<trans-unit id="status_memcachedConfiguration" approved="yes">
+				<source>Memcached Configuration</source>
+				<target state="translated">Configurazione Memcached</target>
+			</trans-unit>
+			<trans-unit id="status_missingFiles">
+				<source>Files flagged as missing</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_missingFilesCount">
+				<source>%1$s files</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_missingFilesMessage">
+				<source>These files are flagged as missing. Restore the files and run the indexer to reset the missing flag.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_none">
+				<source>None</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_ok" approved="yes">
+				<source>OK</source>
+				<target state="translated">OK</target>
+			</trans-unit>
+			<trans-unit id="status_oldXclassUsage">
+				<source>Old XCLASS method used</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v8</note>
+			</trans-unit>
+			<trans-unit id="status_oldXclassUsageFound">
+				<source>Old XCLASS method is used in %d cases:</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v8</note>
+			</trans-unit>
+			<trans-unit id="status_oldXclassUsageFound_message">
+				<source>The old XCLASS registration does not work since TYPO3 CMS version 6.0. This is not necessarily a bad thing, the registration might be done by an extension author to keep compatibility with older TYPO3 CMS versions. Please check the affected extension for TYPO3 CMS 6.0 compatibility to verify whether this is a problem for you.</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v8</note>
+			</trans-unit>
+			<trans-unit id="status_PhpMagicQuotesGpc">
+				<source>PHP magic_quotes_gpc</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_phpMemory" approved="yes">
+				<source>PHP Memory Limit</source>
+				<target state="translated">Limite Memoria PHP</target>
+			</trans-unit>
+			<trans-unit id="status_phpMemoryContactAdmin">
+				<source>Contact your system administrator or hosting provider for assistance with increasing your PHP memory limit.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_phpMemoryEditLimit" approved="yes">
+				<source>Increase the memory limit by editing the memory_limit parameter in the file %s and then restart your web server (or contact your system administrator or hosting provider for assistance).</source>
+				<target state="translated">Aumentare il limite di memoria modificando il parametro memory_limit nel file %s e riavviate il vostro server web (o contattate il vostro amministratore di sistema o host provider per ottenere assistenza).</target>
+			</trans-unit>
+			<trans-unit id="status_phpMemoryRecommendation">
+				<source>Depending on your configuration, TYPO3 can run with a %1$s PHP memory limit. However, a %2$s PHP memory limit or above is recommended, especially if your site uses additional extensions.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_phpMemoryRequirement">
+				<source>Depending on your configuration, TYPO3 can run with a %1$s PHP memory limit. However, a %2$s PHP memory limit or above is required especially if your site uses additional extensions.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_phpMemoryUnlimited">
+				<source>unlimited</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_phpModules">
+				<source>PHP Modules</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_phpModulesGroup">
+				<source>one of: %s</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_phpModulesInfo">
+				<source>You need to install and enable these modules to let TYPO3 function correctly.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_phpModulesList">
+				<source>The following PHP module(s) is/are missing: %s.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_phpModulesMissing">
+				<source>One or more modules are missing.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_phpModulesPresent">
+				<source>All required modules are installed.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_phpPeakMemory">
+				<source>PHP peak memory usage</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_phpPeakMemoryClearFlag">
+				<source>Clear this flag</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_phpPeakMemoryTooHigh">
+				<source>During a request %2$s of the memory limit was used. On %4$s a request to %5$s used %1$s of %3$s.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_phpRegisterGlobals">
+				<source>PHP Register Globals</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_phpRegisterGlobalsEnabled" approved="yes">
+				<source>%s is enabled. TYPO3 requires this configuration directive to be disabled.</source>
+				<target state="translated">%s è abilitato. TYPO3 richiede che questa regola di configurazione sia disabilitata.</target>
+			</trans-unit>
+			<trans-unit id="status_phpRegisterGlobalsHowToChange">
+				<source>how to change configuration settings</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_phpRegisterGlobalsPHPManual" approved="yes">
+				<source>The PHP manual has instructions for %s.</source>
+				<target state="translated">Il manuale di PHP contiene istruzioni riguardo %s.</target>
+			</trans-unit>
+			<trans-unit id="status_phpRegisterGlobalsSecurity" approved="yes">
+				<source>Your site may not be secure when %s is enabled.</source>
+				<target state="translated">Il vostro sito potrebbe non essere sicuro abilitando %s.</target>
+			</trans-unit>
+			<trans-unit id="status_PhpSafeMode" approved="yes">
+				<source>PHP safe_mode</source>
+				<target state="translated">PHP safe_mode</target>
+			</trans-unit>
+			<trans-unit id="status_phpTooOld" approved="yes">
+				<source>Your PHP installation is too old.</source>
+				<target state="translated">Versione di PHP troppo vecchia.</target>
+			</trans-unit>
+			<trans-unit id="status_phpVersion" approved="yes">
+				<source>PHP Version</source>
+				<target state="translated">Versione PHP</target>
+			</trans-unit>
+			<trans-unit id="status_problemNotification" approved="yes">
+				<source>One or more problems were detected with your TYPO3 installation. Please check the %sstatus report%s for more information.</source>
+				<target state="translated">Sono stati rilevati uno o più problemi nella vostra installazione di TYPO3. Per favore, controllate il %sstatus report%s per maggiori informazioni.</target>
+			</trans-unit>
+			<trans-unit id="status_referenceIndex">
+				<source>Reference Index</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_report_description">
+				<source>Get a status report about your site's operation and any detected problems.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_report_explanation">
+				<source>Here you can find a short overview of your site's parameters as well as any problems detected with your installation. It may be useful to copy and paste this information into support requests filed on TYPO3's support mailinglists and project issue trackers.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_report_title" approved="yes">
+				<source>Status Report</source>
+				<target state="translated">Report di stato</target>
+			</trans-unit>
+			<trans-unit id="status_saltedPasswords">
+				<source>Backend user password hashes</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_saltedPasswords_infoText">
+				<source>During the configuration check of saltedpasswords the following issues have been found:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_saltedPasswords_notAllPasswordsHashed">
+				<source>Some backend user passwords are found to be only md5 hashed. Run the scheduler task to convert all passwords to salted hashes.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_security" approved="yes">
+				<source>Security</source>
+				<target state="translated">Sicurezza</target>
+			</trans-unit>
+			<trans-unit id="status_system" approved="yes">
+				<source>System</source>
+				<target state="translated">Sistema</target>
+			</trans-unit>
+			<trans-unit id="status_typo3" approved="yes">
+				<source>TYPO3 System</source>
+				<target state="translated">Sistema TYPO3</target>
+			</trans-unit>
+			<trans-unit id="status_updateComplete" approved="yes">
+				<source>Update Complete</source>
+				<target state="translated">Aggiornamento completato</target>
+			</trans-unit>
+			<trans-unit id="status_updateIncomplete" approved="yes">
+				<source>Update Incomplete</source>
+				<target state="translated">Aggiornamento non completato</target>
+			</trans-unit>
+			<trans-unit id="status_updateTaskDescription">
+				<source>Runs a system status check and sends notifications if problems have been found.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_updateTask_email_issues">
+				<source>Issues</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_updateTask_email_site">
+				<source>Site</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_updateTask_email_subject">
+				<source>System Status Notification for site %s</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_updateTaskField_notificationEmail">
+				<source>Notification Email Address</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_updateTaskField_notificationEmail_invalid" approved="yes">
+				<source>Empty or invalid notification email address.</source>
+				<target state="translated">Indirizzo email per la notifica assente o non valido.</target>
+			</trans-unit>
+			<trans-unit id="status_updateTaskField_notificationEmails">
+				<source>Notification Email Addresses (one per line)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_updateTaskField_notificationEmails_invalid" approved="no">
+				<source>Empty or invalid notification email addresses.</source>
+				<target state="needs-translation">Indirizzo email per la notifica assente o non valido.</target>
+				<note>95%</note>
+			</trans-unit>
+			<trans-unit id="status_updateTaskTitle">
+				<source>System Status Update</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_webServer" approved="yes">
+				<source>Web Server</source>
+				<target state="translated">Server Web</target>
+			</trans-unit>
+			<trans-unit id="status_webServer_infoText">
+				<source>For your Web Server some notifications have been found:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_webServer_threadStackSize" xml:space="preserve">
+				<source>Fluid uses complex regular expressions which require a lot of stack space during the first processing.
+On Windows the default stack size for Apache is a lot smaller than on unix.
+You can increase the size to 8MB (default on unix) by adding to the httpd.conf:
+&lt;br /&gt;&amp;lt;IfModule mpm_winnt_module&amp;gt;
+&lt;br /&gt;ThreadStackSize 8388608
+&lt;br /&gt;&amp;lt;/IfModule&amp;gt;
+&lt;br /&gt;Restart Apache after this change.</source>
+			<target/></trans-unit>
+			<trans-unit id="status_xclassUsage">
+				<source>XCLASS used</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_xclassUsageFound">
+				<source>Your system registers XCLASS</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_xclassUsageFound_message">
+				<source>XCLASS can overwrite methods or classes of the core or other extensions. This is not necessarily a bad thing, but those XCLASS might break during extension or core upgrades. You should keep an eye on extension compatibility and make sure the intended functionality is still given after updates.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status_xclassUsageFound_message_detail">
+				<source>%2$s registers an XCLASS of %1$s</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

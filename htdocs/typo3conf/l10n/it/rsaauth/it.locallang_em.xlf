@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:25:43Z" product-name="rsaauth">
+		<header/>
+		<body>
+			<trans-unit id="rsaauth.config.temporaryDirectory">
+				<source>Path to the temporary directory:This directory will contain temporary files for encryption/decrytion. It should be located outside of the web site root and it should not be /tmp. Directory permissions should be 0700 and the owner should be the web server user. If left empty, typo3conf/ will be used and it is INSECURE! Make sure that the directory is included into open_basedir if you use this setting.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Percorso della directory temporanea: questa directory conterrà files temporanei per la codifica/decodifica. Dovrebbe essere all'esterno dell'albero del sito web e dovrebbe essere diversa da /tmp. I permessi sulla directory dovrebbero essere 0700 e il proprietario dovrebbe essere l'utente del server web. Se non specificato, sarà utilizzato typo3conf/ e questo NON È SICURO! Verifica che la directory sia inclusa in open_basedir se usi quella definizione.</target>
+				</alt-trans>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Percorso della directory temporanea: questa directory conterrà files temporanei per la codifica/decodifica. Dovrebbe essere all'esterno dell'albero del sito web e dovrebbe essere diversa da /tmp. I permessi sulla directory dovrebbero essere 0700 e il proprietario dovrebbe essere l'utente del server web. Se non specificato, sarà utilizzato typo3conf/ e questo NON È SICURO! Verifica che la directory sia inclusa in open_basedir se usi quella definizione. </target>
+				</alt-trans>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

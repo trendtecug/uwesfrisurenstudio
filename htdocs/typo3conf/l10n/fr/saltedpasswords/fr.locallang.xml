@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="ext.saltedpasswords.tasks.bulkupdate.description">Mettre à jour tous les mots de passes utilisateurs (frontend et backend) en MD5. Cette tâche se désactive elle même lorsqu'elle est terminée.</label>
+			<label index="ext.saltedpasswords.tasks.bulkupdate.invalidNumberOfRecords">Le nombre d'enregistrements à traiter à chaque exécution doit être un nombre supérieur à zéro.</label>
+			<label index="ext.saltedpasswords.tasks.bulkupdate.label.additionalinformation.deactivateself"/>
+			<label index="ext.saltedpasswords.tasks.bulkupdate.label.additionalinformation.numberofrecords">Nombre d'enregistrements</label>
+			<label index="ext.saltedpasswords.tasks.bulkupdate.label.canDeactivateSelf">Désactiver si tous les enregistrements sont convertis</label>
+			<label index="ext.saltedpasswords.tasks.bulkupdate.label.numberOfRecords">Nombre d'enregistrements à traiter à chaque exécution</label>
+			<label index="ext.saltedpasswords.tasks.bulkupdate.name">Convertir les mots de passes utilisateur en MD5</label>
+			<label index="ext.saltedpasswords.title.blowfishsalt">Cryptage Blowfish (avancé)</label>
+			<label index="ext.saltedpasswords.title.md5salt">Cryptage MD5 (sécurisé)</label>
+			<label index="ext.saltedpasswords.title.phpasssalt">Cryptage de mot de passe portable PHP (phpass)</label>
+			<label index="ext.saltedpasswords.title.tx_saltedpasswords_salts_blowfish">Cryptage Blowfish (avancé)</label>
+			<label index="ext.saltedpasswords.title.tx_saltedpasswords_salts_md5">Cryptage MD5 (sécurisé)</label>
+			<label index="ext.saltedpasswords.title.tx_saltedpasswords_salts_phpass">Cryptage de mot de passe portable PHP (phpass)</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

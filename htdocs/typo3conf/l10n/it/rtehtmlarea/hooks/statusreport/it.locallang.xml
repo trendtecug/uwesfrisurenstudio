@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="keys"/>
+			<label index="none"/>
+			<label index="title"/>
+			<label index="uninstall"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

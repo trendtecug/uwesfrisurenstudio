@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="mlang_labels_tabdescr">Управляет расширениями TYPO3 из центрального репозитория. Расширения TYPO3 включают в себя плагины, модули, расширения классов, код настройки и т.д.&lt;br /&gt;&lt;em&gt;Только для пользователей группы 'admin'!&lt;/em&gt;</label>
+			<label index="mlang_labels_tablabel">Менеджер расширений TYPO3</label>
+			<label index="mlang_tabs_tab">Расширения</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

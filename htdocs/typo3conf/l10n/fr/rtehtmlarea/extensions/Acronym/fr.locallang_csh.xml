@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="abridgedTerm.alttitle">Abréviation</label>
+			<label index="abridgedTerm.description">Sélectionner la forme courte du terme.</label>
+			<label index=".alttitle">htmlArea RTE &gt; Abréviation</label>
+			<label index=".description">La boîte de dialogue "Abréviation" permet d'associer une abréviation à un terme.</label>
+			<label index=".details">Cliquer sur l'icône "insérer abréviation" dans la barre d'outil du RTE ouvre une boîte de dialogue permettant d'insérer une abréviation  ou d'éditer une abréviation déjà existante dans le contenu.
+Toute abréviation déjà existante est sous-lignée avec un trait interrompu et le curseur se transforme en point d'interrogation lorsque la souris la survole.
+La boîte de dialogue permet d'associer une abréviation à un terme. L'abréviation peut être sélectionnée parmi les abréviations qui ont été pré-définies dans la base de données ou peut-être entrée directement dans la boîte de dialogue.</label>
+			<label index=".image"/>
+			<label index=".image_descr">Icône "Insérer une abréviation" dans la barre d'outils de l'éditeur.</label>
+			<label index="language.alttitle">Langue</label>
+			<label index="language.description">Sélectionner la langue pour laquelle l’abréviation est définie.</label>
+			<label index="language.details">La langue sélectionnée sera utilisée en attribut "langue" de l'élément abréviation (ou acronyme).
+Si une abréviation pré-définie (ou un acronyme) est sélectionnée, la langue qui lui est associée, s'il y en a une, sera pré-sélectionnée.</label>
+			<label index="preDefinedAbbreviation.alttitle">Abréviations pré-définies</label>
+			<label index="preDefinedAbbreviation.description">Cette section vous permet de sélectionner des abréviations pré-définies dans la base de données.</label>
+			<label index="preDefinedAbbreviation.seeAlso"/>
+			<label index="preDefinedAcronym.alttitle">Acronymes prédéfinis</label>
+			<label index="preDefinedAcronym.description">Cette section vous permet de sélectionner des acronymes pré-définis dans la base de données.</label>
+			<label index="preDefinedAcronym.seeAlso"/>
+			<label index=".seeAlso"/>
+			<label index="termToAbridge.alttitle">Terme à abréger</label>
+			<label index="termToAbridge.description">Cette section vous permet de saisir le terme pour lequel la sélection courante sera la forme courte.</label>
+			<label index="unabridgedTerm.alttitle">Terme non-abrégé</label>
+			<label index="unabridgedTerm.description">Sélectionner la forme non-abrégée du terme.</label>
+			<label index="unabridgedTerm.details">Le terme sélectionné sera utilisé en attribut "title" de l'élément abréviation (ou acronyme).</label>
+			<label index="useThisTerm.alttitle">Utiliser ce terme</label>
+			<label index="useThisTerm.description">Saisir le terme que vous souhaitez associer en tant que forme non-abrégée de la sélection courante.</label>
+			<label index="useThisTerm.details">Le terme saisi sera utilisé en attribut "title" de l’élément abréviation (ou acronyme).</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

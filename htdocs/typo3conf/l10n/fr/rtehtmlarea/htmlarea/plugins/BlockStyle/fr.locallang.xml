@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="action-items">Actions</label>
+			<label index="BlockStyle-Tooltip">Appliquer le style sur le bloc</label>
+			<label index="component-items">Composantes</label>
+			<label index="detail">Détail</label>
+			<label index="Element style">Style du bloc</label>
+			<label index="frame-frame1">Cadre avec couleur de fond gris</label>
+			<label index="frame-frame2">Cadre avec couleur de fond jaune</label>
+			<label index="important">Important</label>
+			<label index="name-of-person">Nom d'une personne</label>
+			<label index="No style">Aucun</label>
+			<label index="Remove style">Supprimer le style de bloc</label>
+			<label index="Technische Universitat Ilmenau">Technische Universität Ilmenau</label>
+			<label index="Unknown style">Style de bloc inconnu</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

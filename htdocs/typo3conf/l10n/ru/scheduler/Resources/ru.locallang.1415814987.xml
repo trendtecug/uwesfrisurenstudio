@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="mlang_tabs_tab">Планировщик</label>
+			<label index="mlang_labels_tabdescr">Модуль управление планировщиком. Проверка всех зарегистрированных задач. Добавление, изменение или удаление задач. &lt;br /&gt;&lt;em&gt;Доступ только для администраторов!&lt;/em&gt;</label>
+			<label index="mlang_labels_tablabel">Планировщик TYPO3</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

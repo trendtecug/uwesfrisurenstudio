@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="frame"/>
+			<label index="frame_help"/>
+			<label index="Select some text"/>
+			<label index="URL"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

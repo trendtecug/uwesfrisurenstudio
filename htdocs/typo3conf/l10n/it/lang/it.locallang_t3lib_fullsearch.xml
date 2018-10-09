@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="query_from_action_loaded">Ricerca da azione "%s" caricata!</label>
+			<label index="query_loaded">Ricerca "%s" caricata!</label>
+			<label index="query_notsaved">Nessuna ricerca salvata!</label>
+			<label index="query_removed">Ricerca "%s" rimossa!</label>
+			<label index="query_saved">Ricerca salvata!</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="frame">Nom du cadre</label>
+			<label index="frame_help">Saisir le nom du cadre qui doit être utilisé comme cible</label>
+			<label index="Select some text">Vous devez sélectionner du texte avant de créer un lien</label>
+			<label index="URL">URL</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="de" type="array">
+			<label index="foldertreeview.noFolders.message">Sie haben keinen Zugriff auf irgendeinen Ordner. Bitte bitten Sie Ihren Administrator, die Zugriffsberechtigungen Ihres Benutzers anzupassen.</label>
+			<label index="foldertreeview.noFolders.title">Keine Ordner verfügbar</label>
+			<label index="no_modules_registered">Es wurden keine Module registriert. Bitte kontaktieren Sie Ihren Systemadministrator.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

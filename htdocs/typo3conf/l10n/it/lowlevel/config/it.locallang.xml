@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="beUser"/>
+			<label index="configuration">Configurazione</label>
+			<label index="copyPaste"/>
+			<label index="cropLines"/>
+			<label index="enterSearchPhrase"/>
+			<label index="loadedExt">$TYPO3_LOADED_EXT (Estensioni caricate)</label>
+			<label index="search">Cerca</label>
+			<label index="t3services"/>
+			<label index="tbemodules"/>
+			<label index="tbemodulesext"/>
+			<label index="tbeStyles">$TBE_STYLES (Skinning Styles)</label>
+			<label index="tca">$TCA (array di configurazione delle tabelle)</label>
+			<label index="tcaDescr">$TCA_DESCR (Tabella di aiuto descrizioni)</label>
+			<label index="typo3ConfVars">$TYPO3_CONF_VARS (Configurazione generale)</label>
+			<label index="useRegExp"/>
+			<label index="usersettings"/>
+			<label index="variable">Variabile:</label>
+			<label index="writeMessage"/>
+			<label index="writeMessageFailed"/>
+			<label index="writeValue"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

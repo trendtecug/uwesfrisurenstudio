@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T00:27:17Z" product-name="cms">
+		<header/>
+		<body>
+			<trans-unit id="hits_title" xml:space="preserve" approved="yes">
+				<source>Hit Statistics</source>
+			<target state="translated">Statistiques d'affichage</target></trans-unit>
+			<trans-unit id="lang_getlangsta_createNewTranslationHeaders" xml:space="preserve" approved="yes">
+				<source>Create new translation headers</source>
+			<target state="translated">Créer un nouvel en-tête d'enregistrement</target></trans-unit>
+			<trans-unit id="lang_renderl10n_badThingThereAre" xml:space="preserve" approved="yes">
+				<source>ERROR: there are two or more page overlay records for this language! Only one is allowed!</source>
+			<target state="translated">ERREUR: Il y a deux enregistrements de langue pour cet enregistrement! Un seul est permis!</target></trans-unit>
+			<trans-unit id="lang_renderl10n_CEcount" xml:space="preserve" approved="yes">
+				<source>Content Element Count</source>
+			<target state="translated">Compteur des éléments de contenu</target></trans-unit>
+			<trans-unit id="lang_renderl10n_default" xml:space="preserve" approved="yes">
+				<source>Default</source>
+			<target state="translated">Défaut</target></trans-unit>
+			<trans-unit id="lang_renderl10n_editDefaultLanguagePage" xml:space="preserve" approved="yes">
+				<source>Edit default language page properties</source>
+			<target state="translated">Editer la langue par défaut du titre de la page</target></trans-unit>
+			<trans-unit id="lang_renderl10n_editLangOverlays" xml:space="preserve" approved="yes">
+				<source>Edit all language overlay records</source>
+			<target state="translated">Editer tous les enregistrements de langue</target></trans-unit>
+			<trans-unit id="lang_renderl10n_editLanguageOverlayRecord" xml:space="preserve" approved="yes">
+				<source>Edit language overlay record</source>
+			<target state="translated">Editer l'enregistrement de langue</target></trans-unit>
+			<trans-unit id="lang_renderl10n_editPage" xml:space="preserve" approved="yes">
+				<source>Edit page</source>
+			<target state="translated">Editer la page</target></trans-unit>
+			<trans-unit id="lang_renderl10n_editPageLang" xml:space="preserve" approved="yes">
+				<source>Edit page translation</source>
+			<target state="translated">Editer la traduction de la page</target></trans-unit>
+			<trans-unit id="lang_renderl10n_editPageProperties" xml:space="preserve" approved="yes">
+				<source>Edit all page properties</source>
+			<target state="translated">Editer toutes les propriétés de la page</target></trans-unit>
+			<trans-unit id="lang_renderl10n_page" xml:space="preserve" approved="yes">
+				<source>Page</source>
+			<target state="translated">Page</target></trans-unit>
+			<trans-unit id="lang_renderl10n_viewPage" xml:space="preserve" approved="yes">
+				<source>View page</source>
+			<target state="translated">Voir la page</target></trans-unit>
+			<trans-unit id="lang_title" xml:space="preserve" approved="yes">
+				<source>Localization overview</source>
+			<target state="translated">Vue d'ensemble pour la localisation</target></trans-unit>
+			<trans-unit id="pageInformation" xml:space="preserve" approved="yes">
+				<source>Page information</source>
+			<target state="translated">Information sur la page</target></trans-unit>
+			<trans-unit id="pages_0" xml:space="preserve" approved="yes">
+				<source>Basic settings</source>
+			<target state="translated">Paramêtres de base</target></trans-unit>
+			<trans-unit id="pages_1" xml:space="preserve" approved="yes">
+				<source>Record overview</source>
+			<target state="translated">Enregistrement (vue d'ensemble)</target></trans-unit>
+			<trans-unit id="pages_2" xml:space="preserve" approved="yes">
+				<source>Cache and Age</source>
+			<target state="translated">Cache et âge</target></trans-unit>
+			<trans-unit id="page_sysnote" xml:space="preserve" approved="yes">
+				<source>Internal notes</source>
+			<target state="translated">Notes internes</target></trans-unit>
+			<trans-unit id="page_title" xml:space="preserve" approved="yes">
+				<source>Pagetree overview</source>
+			<target state="translated">Arborescence (vue d'ensemble)</target></trans-unit>
+			<trans-unit id="pI_crDate" xml:space="preserve" approved="yes">
+				<source>Created date</source>
+			<target state="translated">Date de création</target></trans-unit>
+			<trans-unit id="pI_crUser" xml:space="preserve" approved="yes">
+				<source>Created by</source>
+			<target state="translated">Créé par</target></trans-unit>
+			<trans-unit id="pI_lastChange" xml:space="preserve" approved="yes">
+				<source>Last change</source>
+			<target state="translated">Dernier changement</target></trans-unit>
+			<trans-unit id="pI_lastChangeContent" xml:space="preserve" approved="yes">
+				<source>Last change, content</source>
+			<target state="translated">Dernier changement, contenu</target></trans-unit>
+			<trans-unit id="stat_period" xml:space="preserve" approved="yes">
+				<source>Statistics in the period %s back to %s</source>
+			<target state="translated">Statistique pour la période du %s au %s</target></trans-unit>
+			<trans-unit id="stat_type_0" xml:space="preserve" approved="yes">
+				<source>Page hits</source>
+			<target state="translated">Affichages de la page</target></trans-unit>
+			<trans-unit id="stat_type_1" xml:space="preserve" approved="yes">
+				<source>Total hits</source>
+			<target state="translated">Affichages totals</target></trans-unit>
+			<trans-unit id="stat_type_2" xml:space="preserve" approved="yes">
+				<source>Hits in main sections</source>
+			<target state="translated">Affichages dans la section principale</target></trans-unit>
+		</body>
+	</file>
+</xliff>

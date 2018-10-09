@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-30T02:30:42Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id=".alttitle" approved="yes">
+				<source>Web &gt; Functions module</source>
+				<target state="translated">Web &gt; modulo Funzioni</target>
+			</trans-unit>
+			<trans-unit id=".description" approved="yes">
+				<source>The idea of the Web&gt;Functions module is to be a host module for backend applications that wish to perform processing of pages or branches of the page tree.</source>
+				<target state="translated">L'idea base del modulo Web&gt;Funzioni é quella di essere un modulo "contenitore" per quelle applicazioni del backend che devono eseguire operazioni sulle pagine o su gruppi di pagine.</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>L'idea base del modulo Web&gt;Funzioni è quella di essere un modulo "contenitore" per quelle applicazioni del backend che devono eseguire operazioni sulle pagine o su gruppi di pagine.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id=".details" approved="no">
+				<source>Conceptually the Web&gt;Functions module is different from the Web&gt;Info module only by offering processing  functionality rather than offering information only. It is up to extension programmers to decide in which of these two modules they want to insert functionality.</source>
+				<target state="needs-translation">Concettualmente il modulo Web&gt;Funzioni é differente dal modulo Web&gt;Informazioni solo per il fatto di poter operare con funzioni sulle pagine, anziché offrire soltanto informazioni su di esse. Sta ai programmatori delle estensioni decidere in quale di questi due moduli inserire le funzioni.</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Concettualmente il modulo Web&gt;Funzioni è differente dal modulo Web&gt;Informazioni solo per il fatto di poter operare con funzioni sulle pagine, anziché offrire soltanto informazioni su di esse. Sta ai programmatori delle estensioni decidere in quale di questi due moduli inserire le funzioni.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="_.image">
+				<source>EXT:lang/Resources/Public/Images/cshimages/pagetree_overview_11.png</source>
+				<target/>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id=".image_descr" approved="yes">
+				<source>The Web&gt;Functions module as provided by the core is an empty shell. It provides an API that extensions can use to attach function menu items to the Web&gt;Function module. This shows the Wizard extension (func_wizards) providing the main Function Menu item in upper right corner. The "Select Wizard" selectorbox allows the user to select another level of functionality (different wizards) which are provided by other extensions, here the "wizard_sortpages" extension.</source>
+				<target state="translated">Il modulo Web&gt;Funzioni fornito dal Core é una conchiglia vuota. Fornisce una API che le estensioni possono usare per aggiungere elementi al menù funzioni nel modulo Web&gt;Funzioni. Qui si mostra l'estensione Wizard (func_wizards) che fornisce le funzioni base del Menù Funzioni nell'angolo in alto a destra. Il selettore "Seleziona Wizard" permette all'utente di attivare un altro livello di funzionalità (altri wizards) che sono forniti da altre estensioni, qui ad esempio l'estensione "wizard_sortpages".</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Il modulo Web&gt;Funzioni fornito dal Core è un guscio vuoto. Fornisce una API che le estensioni possono usare per aggiungere elementi al menù funzioni nel modulo Web&gt;Funzioni. Qui si mostra l'estensione Wizard (func_wizards) che fornisce le funzioni base del Menù Funzioni nell'angolo in alto a destra. Il selettore "Seleziona Wizard" permette all'utente di attivare un altro livello di funzionalità (altri wizards) che sono forniti da altre estensioni, qui ad esempio l'estensione "wizard_sortpages".</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="_.seeAlso" xml:space="preserve">
+				<source>_MOD_web_info,
+More about the Web&gt;Functions module | https://docs.typo3.org/typo3cms/InsideTypo3Reference/CoreArchitecture/CoreModules/FunctionsModule/,,
+_MOD_web_func:tx_funcwizards,
+_MOD_web_func:tx_wizardsortpages</source>
+				<target/><note from="developer">A part of this string is an internal text, which must not be changed. Just copy this part into the translation field and do not change it. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

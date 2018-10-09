@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:34Z" product-name="linkvalidator" target-language="ru">
+    <header/>
+    <body>
+      <trans-unit id="menu.introduction" xml:space="preserve" approved="yes">
+        <source>Introduction</source>
+      <target state="translated">Введение</target></trans-unit>
+      <trans-unit id="menu.checkLinks" xml:space="preserve" approved="yes">
+        <source>Check Links for validity</source>
+      <target state="translated">Проверка ссылок</target></trans-unit>
+      <trans-unit id="menu.overview" xml:space="preserve" approved="yes">
+        <source>Overview of links on website</source>
+      <target state="translated">Обзор ссылок на сайте</target></trans-unit>
+      <trans-unit id="overview.header" xml:space="preserve" approved="yes">
+        <source>Overview - choose options to check the links</source>
+      <target state="translated">Обзор – выберете параметры для проверки ссылок</target></trans-unit>
+      <trans-unit id="overview.all.header" xml:space="preserve" approved="yes">
+        <source>Total amounts in tt_content</source>
+      <target state="translated">Общее количество в tt_content</target></trans-unit>
+      <trans-unit id="overview.all.records" xml:space="preserve" approved="yes">
+        <source>Records with ext. links:</source>
+      <target state="translated">Записей с внешн. ссылками:</target></trans-unit>
+      <trans-unit id="overview.all.links" xml:space="preserve" approved="yes">
+        <source>External links:</source>
+      <target state="translated">Внешние ссылки:</target></trans-unit>
+      <trans-unit id="overview.branch.header" xml:space="preserve" approved="yes">
+        <source>Amounts from actual branch in tt_content</source>
+      <target state="translated">Количество из фактической ветви в tt_content</target></trans-unit>
+      <trans-unit id="overview.branch.records" xml:space="preserve" approved="yes">
+        <source>Records with ext. links:</source>
+      <target state="translated">Записей с внешн. ссылками:</target></trans-unit>
+      <trans-unit id="overview.branch.links" xml:space="preserve" approved="yes">
+        <source>External links:</source>
+      <target state="translated">Внешние ссылки:</target></trans-unit>
+      <trans-unit id="overview.attention.header" xml:space="preserve" approved="yes">
+        <source>Attention:</source>
+      <target state="translated">Внимание:</target></trans-unit>
+      <trans-unit id="overview.attention.text" xml:space="preserve">
+        <source>Checking links may take up to several minutes. Checking ONE link can last up to 3 seconds.</source>
+      <target/></trans-unit>
+      <trans-unit id="Report" xml:space="preserve" approved="yes">
+        <source>Report</source>
+      <target state="translated">Отчет</target></trans-unit>
+      <trans-unit id="CheckLink" xml:space="preserve" approved="yes">
+        <source>Check Links</source>
+      <target state="translated">Проверка ссылок</target></trans-unit>
+      <trans-unit id="report.statistics.header" xml:space="preserve" approved="yes">
+        <source>Show these types of broken links</source>
+      <target state="translated">Показать эти типы не работающих ссылок</target></trans-unit>
+      <trans-unit id="checklinks.statistics.header" xml:space="preserve" approved="yes">
+        <source>Check these types of broken links</source>
+      <target state="translated">Проверить эти виды не работающих ссылок</target></trans-unit>
+      <trans-unit id="report.func.title" xml:space="preserve" approved="yes">
+        <source>Show this level</source>
+      <target state="translated">Показать этот уровень</target></trans-unit>
+      <trans-unit id="checklinks.func.title" xml:space="preserve" approved="yes">
+        <source>Check this level</source>
+      <target state="translated">Проверить этот уровень</target></trans-unit>
+      <trans-unit id="overviews.nbtotal" xml:space="preserve" approved="yes">
+        <source>Broken links total:</source>
+      <target state="translated">Всего неработающих ссылок:</target></trans-unit>
+      <trans-unit id="hooks.db" xml:space="preserve" approved="yes">
+        <source>Internal Links:</source>
+      <target state="translated">Внутренние ссылки:</target></trans-unit>
+      <trans-unit id="hooks.file" xml:space="preserve" approved="yes">
+        <source>File Links:</source>
+      <target state="translated">Файловые ссылки:</target></trans-unit>
+      <trans-unit id="hooks.external" xml:space="preserve" approved="yes">
+        <source>External Links:</source>
+      <target state="translated">Внешние ссылки:</target></trans-unit>
+      <trans-unit id="hooks.linkhandler" xml:space="preserve" approved="yes">
+        <source>Linkhandler Links:</source>
+      <target state="translated">Ссылки обработчика:</target></trans-unit>
+      <trans-unit id="label_refresh" xml:space="preserve" approved="yes">
+        <source>Refresh display</source>
+      <target state="translated">Обновить</target></trans-unit>
+      <trans-unit id="label_update" xml:space="preserve" approved="yes">
+        <source>Check links</source>
+      <target state="translated">Проверка ссылок</target></trans-unit>
+      <trans-unit id="list.header" xml:space="preserve" approved="yes">
+        <source>Listing of broken links</source>
+      <target state="translated">Список неработающих ссылок</target></trans-unit>
+      <trans-unit id="list.tableHead.path" xml:space="preserve" approved="yes">
+        <source>Path</source>
+      <target state="translated">Путь</target></trans-unit>
+      <trans-unit id="list.tableHead.element" xml:space="preserve" approved="yes">
+        <source>Element</source>
+      <target state="translated">Элемент</target></trans-unit>
+      <trans-unit id="list.tableHead.headlink" xml:space="preserve" approved="yes">
+        <source>Link</source>
+      <target state="translated">Ссылка</target></trans-unit>
+      <trans-unit id="list.tableHead.linktarget" xml:space="preserve" approved="yes">
+        <source>URL / Link Target</source>
+      <target state="translated">URL / цель ссылки</target></trans-unit>
+      <trans-unit id="list.tableHead.linkmessage" xml:space="preserve" approved="yes">
+        <source>Error message</source>
+      <target state="translated">Сообщение об ошибке</target></trans-unit>
+      <trans-unit id="list.tableHead.lastCheck" xml:space="preserve" approved="yes">
+        <source>Last check</source>
+      <target state="translated">Последняя проверка</target></trans-unit>
+      <trans-unit id="list.edit" xml:space="preserve" approved="yes">
+        <source>Edit element containing this broken link</source>
+      <target state="translated">Править элемент с этой неработающей ссылкой</target></trans-unit>
+      <trans-unit id="list.field" xml:space="preserve" approved="yes">
+        <source>(Field: %s)</source>
+      <target state="translated">(Поле: %s)</target></trans-unit>
+      <trans-unit id="list.no.headline" xml:space="preserve" approved="yes">
+        <source>no headline</source>
+      <target state="translated">нет заголовка</target></trans-unit>
+      <trans-unit id="list.report.pagedeleted" xml:space="preserve" approved="yes">
+        <source>Page '###title###' (###uid###) is deleted.</source>
+      <target state="translated">Страница '###title###' (###uid###) удалена.</target></trans-unit>
+      <trans-unit id="list.report.pagenotvisible" xml:space="preserve" approved="yes">
+        <source>Page '###title###' (###uid###) is not visible.</source>
+      <target state="translated">Страница '###title###' (###uid###) скрыта.</target></trans-unit>
+      <trans-unit id="list.report.pagenotexisting" xml:space="preserve" approved="yes">
+        <source>Page (###uid###) does not exist.</source>
+      <target state="translated">Страница (###uid###) не существует.</target></trans-unit>
+      <trans-unit id="list.report.contentmoved" xml:space="preserve">
+        <source>Element '###title###' (###uid###) is not located on page ###wrongpage###, but on page ###rightpage###.</source>
+      <target/></trans-unit>
+      <trans-unit id="list.report.contentdeleted" xml:space="preserve" approved="yes">
+        <source>Element '###title###' (###uid###) is deleted.</source>
+      <target state="translated">Элемент '###title###' (###uid###) удален.</target></trans-unit>
+      <trans-unit id="list.report.contentnotvisible" xml:space="preserve" approved="yes">
+        <source>Element '###title###' (###uid###) is not visible.</source>
+      <target state="translated">Элемент '###title###' (###uid###) скрыт.</target></trans-unit>
+      <trans-unit id="list.report.contentnotexisting" xml:space="preserve" approved="yes">
+        <source>Element (###uid###) does not exist.</source>
+      <target state="translated">Элемент (###uid###) не существует.</target></trans-unit>
+      <trans-unit id="list.report.rowdeleted" xml:space="preserve" approved="yes">
+        <source>###title### row (###uid###) is deleted.</source>
+      <target state="translated">###title### строка (###uid###) удалена.</target></trans-unit>
+      <trans-unit id="list.report.rowdeleted.default.title" xml:space="preserve" approved="yes">
+        <source>Linked</source>
+      <target state="translated">Связанный</target></trans-unit>
+      <trans-unit id="list.report.rownotexisting" xml:space="preserve" approved="yes">
+        <source>Row (###uid###) does not exist.</source>
+      <target state="translated">Строка (###uid###) не существует.</target></trans-unit>
+      <trans-unit id="list.report.noinformation" xml:space="preserve" approved="yes">
+        <source>No information about the error is available.</source>
+      <target state="translated">Недоступна информация об ошибке.</target></trans-unit>
+      <trans-unit id="list.report.noresponse" xml:space="preserve" approved="yes">
+        <source>External Link not reachable.</source>
+      <target state="translated">Внешняя ссылка недоступна.</target></trans-unit>
+      <trans-unit id="list.report.redirectloop" xml:space="preserve" approved="yes">
+        <source>A redirect loop occurred. (%s: %s)</source>
+      <target state="translated">Цикличное перенаправление. (%s: %s)</target></trans-unit>
+      <trans-unit id="list.report.pageforbidden403" xml:space="preserve" approved="yes">
+        <source>Accessing this address is not allowed (403).</source>
+      <target state="translated">Нет доступа по этому адресу (403).</target></trans-unit>
+      <trans-unit id="list.report.pagenotfound404" xml:space="preserve" approved="yes">
+        <source>The requested url was not found (404).</source>
+      <target state="translated">Запрашиваемый url не найден (404).</target></trans-unit>
+      <trans-unit id="list.report.externalerror" xml:space="preserve" approved="yes">
+        <source>External Link returned HTTP error code (%s).</source>
+      <target state="translated">Внешняя ссылка возвратила код ошибки HTTP (%s).</target></trans-unit>
+      <trans-unit id="list.report.filenotexisting" xml:space="preserve" approved="yes">
+        <source>File doesn't exist.</source>
+      <target state="translated">Файл не существует.</target></trans-unit>
+      <trans-unit id="list.report.timeout" xml:space="preserve">
+        <source>Operation timeout. The specified time-out period was reached according to the conditions.</source>
+      <target/></trans-unit>
+      <trans-unit id="list.report.internalerror500" xml:space="preserve" approved="yes">
+        <source>Internal Server Error (500)</source>
+      <target state="translated">Внутренняя ошибка сервера (500)</target></trans-unit>
+      <trans-unit id="list.report.couldnotresolvehost" xml:space="preserve" approved="yes">
+        <source>Could not resolve host. The given remote host was not resolved.</source>
+      <target state="translated">Невозможно разрешить хост. Заданный удаленный хост не разрешен.</target></trans-unit>
+      <trans-unit id="list.report.errornetworkdata" xml:space="preserve" approved="yes">
+        <source>Failure with receiving network data.</source>
+      <target state="translated">Ошибка с получением сетевых данных.</target></trans-unit>
+      <trans-unit id="list.report.otherhttpcode" xml:space="preserve" approved="yes">
+        <source>An error occurred (%s): "%s".</source>
+      <target state="translated">Ошибка (%s): "%s".</target></trans-unit>
+      <trans-unit id="list.report.httpexception" xml:space="preserve" approved="yes">
+        <source>Exception: %s</source>
+      <target state="translated">Исключение: %s</target></trans-unit>
+      <trans-unit id="list.msg.ok" xml:space="preserve" approved="yes">
+        <source>Ok</source>
+      <target state="translated">Ok</target></trans-unit>
+      <trans-unit id="list.msg.lastRun" xml:space="preserve" approved="yes">
+        <source>%1$s %2$s</source>
+      <target state="translated">%1$s %2$s</target></trans-unit>
+      <trans-unit id="list.no.broken.links.title" xml:space="preserve" approved="yes">
+        <source>No broken links to show!</source>
+      <target state="translated">Нет неработающих ссылок!</target></trans-unit>
+      <trans-unit id="list.no.broken.links" xml:space="preserve" approved="yes">
+        <source>There are no broken links to be displayed.</source>
+      <target state="translated">Нет неработающих ссылок.</target></trans-unit>
+      <trans-unit id="no.access.title" xml:space="preserve" approved="yes">
+        <source>No access!</source>
+      <target state="translated">Нет доступа!</target></trans-unit>
+      <trans-unit id="no.access" xml:space="preserve" approved="yes">
+        <source>You do not have access to these listings.</source>
+      <target state="translated">Нет разрешений для доступа к этому списку.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

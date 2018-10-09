@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-30T01:31:07Z" product-name="frontend">
+		<header/>
+		<body>
+			<trans-unit id="backend_layout" approved="yes">
+				<source>Backend Layout</source>
+				<target state="translated">Layout Backend</target>
+			</trans-unit>
+			<trans-unit id="backend_layout.config" approved="yes">
+				<source>Config</source>
+				<target state="translated">Configurazione</target>
+			</trans-unit>
+			<trans-unit id="backend_layout.description" approved="yes">
+				<source>Description</source>
+				<target state="translated">Descrizione</target>
+			</trans-unit>
+			<trans-unit id="backend_layout.icon" approved="yes">
+				<source>Icon</source>
+				<target state="translated">Icona</target>
+			</trans-unit>
+			<trans-unit id="backend_layout.title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Titolo</target>
+			</trans-unit>
+			<trans-unit id="backend_layout.wizard" approved="yes">
+				<source>Wizard</source>
+				<target state="translated">Procedura guidata</target>
+			</trans-unit>
+			<trans-unit id="fe_groups" approved="yes">
+				<source>Website Usergroup</source>
+				<target state="translated">Gruppo sito Web</target>
+			</trans-unit>
+			<trans-unit id="fe_groups.lockToDomain" approved="yes">
+				<source>Lock to Domain:</source>
+				<target state="translated">Blocco al Dominio:</target>
+			</trans-unit>
+			<trans-unit id="fe_groups.subgroup" approved="yes">
+				<source>Subgroups:</source>
+				<target state="translated">Sottogruppi:</target>
+			</trans-unit>
+			<trans-unit id="fe_groups.tabs.extended" approved="yes">
+				<source>Extended</source>
+				<target state="translated">Esteso</target>
+			</trans-unit>
+			<trans-unit id="fe_groups.tabs.options" approved="yes">
+				<source>Options</source>
+				<target state="translated">Opzioni</target>
+			</trans-unit>
+			<trans-unit id="fe_groups.title" approved="yes">
+				<source>Group Title:</source>
+				<target state="translated">Titolo Gruppo:</target>
+			</trans-unit>
+			<trans-unit id="fe_users" approved="yes">
+				<source>Website User</source>
+				<target state="translated">Utente Sito web</target>
+			</trans-unit>
+			<trans-unit id="fe_users.lockToDomain" approved="yes">
+				<source>Lock to Domain:</source>
+				<target state="translated">Blocco al Dominio:</target>
+			</trans-unit>
+			<trans-unit id="fe_users.password" approved="yes">
+				<source>Password:</source>
+				<target state="translated">Password:</target>
+			</trans-unit>
+			<trans-unit id="fe_users.tabs.access" approved="yes">
+				<source>Access</source>
+				<target state="translated">Accesso</target>
+			</trans-unit>
+			<trans-unit id="fe_users.tabs.extended" approved="yes">
+				<source>Extended</source>
+				<target state="translated">Esteso</target>
+			</trans-unit>
+			<trans-unit id="fe_users.tabs.options" approved="yes">
+				<source>Options</source>
+				<target state="translated">Opzioni</target>
+			</trans-unit>
+			<trans-unit id="fe_users.tabs.personelData" approved="yes">
+				<source>Personal Data</source>
+				<target state="translated">Dati Personali</target>
+			</trans-unit>
+			<trans-unit id="fe_users.usergroup" approved="yes">
+				<source>Groups:</source>
+				<target state="translated">Gruppi:</target>
+			</trans-unit>
+			<trans-unit id="fe_users.username" approved="yes">
+				<source>Username:</source>
+				<target state="translated">Nome utente:</target>
+			</trans-unit>
+			<trans-unit id="mod_tx_cms_webinfo_lang" approved="yes">
+				<source>Localization Overview</source>
+				<target state="translated">Panoramica Localizzazione</target>
+			</trans-unit>
+			<trans-unit id="mod_tx_cms_webinfo_page" approved="yes">
+				<source>Pagetree Overview</source>
+				<target state="translated">Panoramica Albero delle pagine</target>
+			</trans-unit>
+			<trans-unit id="pages.abstract" approved="yes">
+				<source>Abstract:</source>
+				<target state="translated">Estratto:</target>
+			</trans-unit>
+			<trans-unit id="pages.abstract_formlabel" approved="yes">
+				<source>Abstract</source>
+				<target state="translated">Estratto</target>
+			</trans-unit>
+			<trans-unit id="pages.alias" approved="yes">
+				<source>Alias:</source>
+				<target state="translated">Alias:</target>
+			</trans-unit>
+			<trans-unit id="pages.alias_formlabel">
+				<source>URL Alias</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.author_email_formlabel" approved="yes">
+				<source>Author Email</source>
+				<target state="translated">Email Autore</target>
+			</trans-unit>
+			<trans-unit id="pages.author_formlabel" approved="yes">
+				<source>Author Name</source>
+				<target state="translated">Nome Autore</target>
+			</trans-unit>
+			<trans-unit id="pages.backend_layout.default" approved="yes">
+				<source>Default</source>
+				<target state="translated">Predefinito</target>
+			</trans-unit>
+			<trans-unit id="pages.backend_layout_formlabel" approved="yes">
+				<source>Backend Layout (this page only)</source>
+				<target state="translated">Backend Layout (solo per questa pagina)</target>
+			</trans-unit>
+			<trans-unit id="pages.backend_layout_next_level_formlabel" approved="yes">
+				<source>Backend Layout (subpages of this page)</source>
+				<target state="translated">Backend Layout (sottopagine di questa pagina)</target>
+			</trans-unit>
+			<trans-unit id="pages.backend_layout.none" approved="yes">
+				<source>None</source>
+				<target state="translated">Nessuno</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_tags">
+				<source>Cache Tags:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout">
+				<source>Cache Expires:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout_formlabel">
+				<source>Cache Lifetime</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.1" approved="yes">
+				<source>1 min</source>
+				<target state="translated">1 min</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.10" approved="yes">
+				<source>1 month</source>
+				<target state="translated">1 mese</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.2" approved="yes">
+				<source>5 min</source>
+				<target state="translated">5 min</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.3" approved="yes">
+				<source>15 min</source>
+				<target state="translated">15 min</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.4" approved="yes">
+				<source>30 min</source>
+				<target state="translated">30 min</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.5" approved="yes">
+				<source>1 hour</source>
+				<target state="translated">1 ora</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.6" approved="yes">
+				<source>4 hours</source>
+				<target state="translated">4 ore</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.7" approved="yes">
+				<source>1 day</source>
+				<target state="translated">1 giorno</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.8" approved="yes">
+				<source>2 days</source>
+				<target state="translated">2 giorni</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.9" approved="yes">
+				<source>7 days</source>
+				<target state="translated">7 giorni</target>
+			</trans-unit>
+			<trans-unit id="pages.content_from_pid">
+				<source>Show content from this page instead:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.content_from_pid_formlabel" approved="yes">
+				<source>Show Content from Page</source>
+				<target state="translated">Mostra Contenuto della Pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.description_formlabel" approved="yes">
+				<source>Description</source>
+				<target state="translated">Descrizione</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.div.link" approved="yes">
+				<source>Link</source>
+				<target state="translated">Collegamento</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.div.page" approved="yes">
+				<source>Page</source>
+				<target state="translated">Pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.div.special" approved="yes">
+				<source>Special</source>
+				<target state="translated">Speciale</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype_formlabel" approved="yes">
+				<source>Type</source>
+				<target state="translated">Tipo</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.I.0" approved="yes">
+				<source>Advanced</source>
+				<target state="translated">Avanzato</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.I.2" approved="yes">
+				<source>Shortcut</source>
+				<target state="translated">Scorciatoia</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.I.3" approved="yes">
+				<source>Not in Menu</source>
+				<target state="translated">Non in Menu</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.I.4" approved="yes">
+				<source>Backend User Section</source>
+				<target state="translated">Sezione Utente Backend</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.I.5" approved="yes">
+				<source>Mount Point</source>
+				<target state="translated">Punto di Montaggio</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.I.7" approved="yes">
+				<source>Menu Separator</source>
+				<target state="translated">Separatore Menu</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.I.8" approved="yes">
+				<source>Link to External URL</source>
+				<target state="translated">Collegamento con URL Esterno</target>
+			</trans-unit>
+			<trans-unit id="pages.editlock_formlabel" approved="yes">
+				<source>Editable for Admins Only</source>
+				<target state="translated">Modificabile Solo dagli Amministratori</target>
+			</trans-unit>
+			<trans-unit id="pages.endtime_formlabel" approved="yes">
+				<source>Expiration Date</source>
+				<target state="translated">Data Scadenza</target>
+			</trans-unit>
+			<trans-unit id="pages.extendToSubpages" approved="yes">
+				<source>Include Subpages:</source>
+				<target state="translated">Includi Sottopagine:</target>
+			</trans-unit>
+			<trans-unit id="pages.extendToSubpages_formlabel" approved="yes">
+				<source>Extend to Subpages</source>
+				<target state="translated">Estendi a Sottopagine</target>
+			</trans-unit>
+			<trans-unit id="pages.fe_group_formlabel" approved="yes">
+				<source>Usergroup Access Rights</source>
+				<target state="translated">Diritti di Accesso Gruppo</target>
+			</trans-unit>
+			<trans-unit id="pages.fe_login_mode" approved="yes">
+				<source>Login Mode:</source>
+				<target state="translated">Modalità Login:</target>
+			</trans-unit>
+			<trans-unit id="pages.fe_login_mode.disable" approved="yes">
+				<source>Disable</source>
+				<target state="translated">Disabilita</target>
+			</trans-unit>
+			<trans-unit id="pages.fe_login_mode.disableAll" approved="yes">
+				<source>Disable login</source>
+				<target state="translated">Disabilita login</target>
+			</trans-unit>
+			<trans-unit id="pages.fe_login_mode.disableGroups" approved="yes">
+				<source>Enable user login, Disable usergroup login</source>
+				<target state="translated">Abilita login utente, Disabilita login gruppo</target>
+			</trans-unit>
+			<trans-unit id="pages.fe_login_mode.enable" approved="yes">
+				<source>Enable login</source>
+				<target state="translated">Abilita login</target>
+			</trans-unit>
+			<trans-unit id="pages.fe_login_mode.enableAgain" approved="no">
+				<source>Re-Enable login</source>
+				<target state="needs-translation">Abilita login</target>
+			</trans-unit>
+			<trans-unit id="pages.fe_login_mode_formlabel">
+				<source>Login Behaviour</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.hidden" approved="yes">
+				<source>Hide page:</source>
+				<target state="translated">Nascondi pagina:</target>
+			</trans-unit>
+			<trans-unit id="pages.hidden_checkbox_1_formlabel" approved="yes">
+				<source>Disable</source>
+				<target state="translated">Disabilita</target>
+			</trans-unit>
+			<trans-unit id="pages.hidden_formlabel" approved="yes">
+				<source>Page</source>
+				<target state="translated">Pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.is_siteroot">
+				<source>Is Root of Website:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.is_siteroot_formlabel">
+				<source>Use as Root Page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.keywords_formlabel" approved="yes">
+				<source>Keywords</source>
+				<target state="translated">Parole chiave</target>
+			</trans-unit>
+			<trans-unit id="pages.l18n_cfg" approved="yes">
+				<source>Localization Settings:</source>
+				<target state="translated">Impostazioni di Localizzazione:</target>
+			</trans-unit>
+			<trans-unit id="pages.l18n_cfg_formlabel" approved="yes">
+				<source>Localization</source>
+				<target state="translated">Localizzazione</target>
+			</trans-unit>
+			<trans-unit id="pages.l18n_cfg.I.1" approved="yes">
+				<source>Hide default translation of page</source>
+				<target state="translated">Nascondi la traduzione predefinita della pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.l18n_cfg.I.2" approved="yes">
+				<source>Hide page if no translation for current language exists</source>
+				<target state="translated">Nascondi la pagina se non è presente la traduzione per la lingua corrente</target>
+			</trans-unit>
+			<trans-unit id="pages.l18n_cfg.I.2a">
+				<source>Show page even if no translation exists</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages_language_overlay" approved="yes">
+				<source>Alternative Page Language</source>
+				<target state="translated">Pagina con Lingua Alternativa</target>
+			</trans-unit>
+			<trans-unit id="pages.lastUpdated" approved="yes">
+				<source>Last Updated:</source>
+				<target state="translated">Ultimo Aggiornamento:</target>
+			</trans-unit>
+			<trans-unit id="pages.lastUpdated_formlabel" approved="yes">
+				<source>Last Update</source>
+				<target state="translated">Ultimo Aggiornamento</target>
+			</trans-unit>
+			<trans-unit id="pages.layout_formlabel" approved="yes">
+				<source>Frontend Layout</source>
+				<target state="translated">Frontend Layout</target>
+			</trans-unit>
+			<trans-unit id="pages.layout.I.1" approved="yes">
+				<source>Layout 1</source>
+				<target state="translated">Layout 1</target>
+			</trans-unit>
+			<trans-unit id="pages.layout.I.2" approved="yes">
+				<source>Layout 2</source>
+				<target state="translated">Layout 2</target>
+			</trans-unit>
+			<trans-unit id="pages.layout.I.3" approved="yes">
+				<source>Layout 3</source>
+				<target state="translated">Layout 3</target>
+			</trans-unit>
+			<trans-unit id="pages.media" approved="yes">
+				<source>Files:</source>
+				<target state="translated">File:</target>
+			</trans-unit>
+			<trans-unit id="pages.media_formlabel" approved="yes">
+				<source>Media</source>
+				<target state="translated">Media</target>
+			</trans-unit>
+			<trans-unit id="pages.module" approved="yes">
+				<source>Contains Plugin:</source>
+				<target state="translated">Contiene Plugin:</target>
+			</trans-unit>
+			<trans-unit id="pages.module_formlabel" approved="yes">
+				<source>Contains Plugin</source>
+				<target state="translated">Contiene Plugin</target>
+			</trans-unit>
+			<trans-unit id="pages.module.I.1">
+				<source>Shop</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.module.I.2">
+				<source>Board</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.module.I.3" approved="yes">
+				<source>News</source>
+				<target state="translated">News</target>
+			</trans-unit>
+			<trans-unit id="pages.module.I.4" approved="yes">
+				<source>Website Users</source>
+				<target state="translated">Utenti Sito web</target>
+			</trans-unit>
+			<trans-unit id="pages.module.I.5">
+				<source>Direct Mail</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.module.I.6" approved="yes">
+				<source>Approvals</source>
+				<target state="translated">Approvazione</target>
+			</trans-unit>
+			<trans-unit id="pages.mount_pid">
+				<source>Mount Point (advanced):</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.mount_pid_formlabel" approved="no">
+				<source>Mounted page</source>
+				<target state="needs-translation">Pagina Montata</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Pagina montata</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="pages.mount_pid_ol">
+				<source>Substitute Mount Point (this page) with Mounted page:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.mount_pid_ol_formlabel" approved="yes">
+				<source>Show Content from</source>
+				<target state="translated">Mostra Contenuto da</target>
+			</trans-unit>
+			<trans-unit id="pages.mount_pid_ol.I.0" approved="yes">
+				<source>This Page</source>
+				<target state="translated">Questa Pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.mount_pid_ol.I.1" approved="yes">
+				<source>Mounted Page</source>
+				<target state="translated">Pagina Montata</target>
+			</trans-unit>
+			<trans-unit id="pages.nav_hide" approved="yes">
+				<source>Hide in Menu:</source>
+				<target state="translated">Nascondi in Menu:</target>
+			</trans-unit>
+			<trans-unit id="pages.nav_hide_checkbox_1_formlabel" approved="yes">
+				<source>Hide</source>
+				<target state="translated">Nascondi</target>
+			</trans-unit>
+			<trans-unit id="pages.nav_hide_formlabel" approved="yes">
+				<source>In Menus</source>
+				<target state="translated">In Menu</target>
+			</trans-unit>
+			<trans-unit id="pages.nav_title" approved="yes">
+				<source>Navigation Title:</source>
+				<target state="translated">Titolo di Navigazione:</target>
+			</trans-unit>
+			<trans-unit id="pages.nav_title_formlabel" approved="yes">
+				<source>Alternative Navigation Title</source>
+				<target state="translated">Titolo di Navigazione Alternativo</target>
+			</trans-unit>
+			<trans-unit id="pages.newUntil">
+				<source>'New' Until:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.newUntil_formlabel">
+				<source>Mark as 'New' Until</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.no_cache" approved="yes">
+				<source>No Cache:</source>
+				<target state="translated">No Cache:</target>
+			</trans-unit>
+			<trans-unit id="pages.no_cache_checkbox_1_formlabel" approved="yes">
+				<source>Disable</source>
+				<target state="translated">Disabilita</target>
+			</trans-unit>
+			<trans-unit id="pages.no_cache_formlabel" approved="yes">
+				<source>Cache</source>
+				<target state="translated">Cache</target>
+			</trans-unit>
+			<trans-unit id="pages.no_search" approved="yes">
+				<source>No Search:</source>
+				<target state="translated">Nessuna Ricerca:</target>
+			</trans-unit>
+			<trans-unit id="pages.no_search_checkbox_1_formlabel" approved="yes">
+				<source>Disable</source>
+				<target state="translated">Disabilita</target>
+			</trans-unit>
+			<trans-unit id="pages.no_search_formlabel" approved="yes">
+				<source>Include in Search</source>
+				<target state="translated">Includi nella Ricerca</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.abstract" approved="yes">
+				<source>Abstract</source>
+				<target state="translated">Estratto</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.access" approved="yes">
+				<source>Publish Dates and Access Rights</source>
+				<target state="translated">Date di pubblicazione e Diritti di Accesso</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.caching" approved="yes">
+				<source>Caching</source>
+				<target state="translated">Mettere in cache</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.config" approved="yes">
+				<source>TypoScript Configuration</source>
+				<target state="translated">Configurazione TypoScript</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.editorial" approved="yes">
+				<source>Editorial</source>
+				<target state="translated">Editoriale</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.language" approved="yes">
+				<source>Language</source>
+				<target state="translated">Lingua</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.layout" approved="yes">
+				<source>Page Layout</source>
+				<target state="translated">Aspetto della Pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.links" approved="yes">
+				<source>Links to this Page</source>
+				<target state="translated">Collegamenti a questa Pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.media" approved="yes">
+				<source>Files</source>
+				<target state="translated">File</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.metatags">
+				<source>Meta Tags</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.palettes.miscellaneous" approved="yes">
+				<source>Miscellaneous</source>
+				<target state="translated">Varie</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.module" approved="yes">
+				<source>Use as Container</source>
+				<target state="translated">Utilizza come Contenitore</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.replace" approved="yes">
+				<source>Replace Content</source>
+				<target state="translated">Sostituisci Contenuto</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.standard" approved="yes">
+				<source>Page</source>
+				<target state="translated">Pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.storage">
+				<source>General Record Storage Page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.palettes.title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Titolo</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.visibility" approved="yes">
+				<source>Visibility</source>
+				<target state="translated">Visibilità</target>
+			</trans-unit>
+			<trans-unit id="pages.php_tree_stop_formlabel">
+				<source>Stop Page Tree</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.shortcut_formlabel">
+				<source>Shortcut Target</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.shortcut_mode" approved="yes">
+				<source>Shortcut Mode:</source>
+				<target state="translated">Modalità Scorciatoia:</target>
+			</trans-unit>
+			<trans-unit id="pages.shortcut_mode_formlabel" approved="yes">
+				<source>Shortcut Mode</source>
+				<target state="translated">Modalità Scorciatoia</target>
+			</trans-unit>
+			<trans-unit id="pages.shortcut_mode.I.0" approved="yes">
+				<source>Selected page</source>
+				<target state="translated">Pagina selezionata</target>
+			</trans-unit>
+			<trans-unit id="pages.shortcut_mode.I.1" approved="yes">
+				<source>First subpage of selected/current page</source>
+				<target state="translated">Prima sottopagina della pagina selezionata/corrente</target>
+			</trans-unit>
+			<trans-unit id="pages.shortcut_mode.I.2" approved="yes">
+				<source>Random subpage of selected/current page</source>
+				<target state="translated">Sottopagina casuale della pagina selezionata/corrente</target>
+			</trans-unit>
+			<trans-unit id="pages.shortcut_mode.I.3" approved="no">
+				<source>Parent page of selected/current page</source>
+				<target state="needs-translation">Prima sottopagina della pagina selezionata/corrente</target>
+			</trans-unit>
+			<trans-unit id="pages.starttime_formlabel" approved="yes">
+				<source>Publish Date</source>
+				<target state="translated">Data di Pubblicazione</target>
+			</trans-unit>
+			<trans-unit id="pages.storage_pid_formlabel" approved="yes">
+				<source>Page</source>
+				<target state="translated">Pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.subtitle" approved="yes">
+				<source>Subtitle:</source>
+				<target state="translated">Sottotitolo:</target>
+			</trans-unit>
+			<trans-unit id="pages.subtitle_formlabel" approved="yes">
+				<source>Subtitle</source>
+				<target state="translated">Sottotitolo</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.access" approved="yes">
+				<source>Access</source>
+				<target state="translated">Accesso</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.appearance" approved="yes">
+				<source>Appearance</source>
+				<target state="translated">Aspetto</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.behaviour" approved="yes">
+				<source>Behaviour</source>
+				<target state="translated">Comportamento</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.extended" approved="yes">
+				<source>Extended</source>
+				<target state="translated">Esteso</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.files" approved="yes">
+				<source>Resources</source>
+				<target state="translated">Risorse</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.metadata" approved="yes">
+				<source>Metadata</source>
+				<target state="translated">Metadati</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.mount" approved="yes">
+				<source>Mount</source>
+				<target state="translated">Monta</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.options" approved="yes">
+				<source>Options</source>
+				<target state="translated">Opzioni</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.resources" approved="yes">
+				<source>Resources</source>
+				<target state="translated">Risorse</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.shortcut" approved="yes">
+				<source>Shortcut</source>
+				<target state="translated">Scorciatoia</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.url" approved="yes">
+				<source>URL</source>
+				<target state="translated">URL</target>
+			</trans-unit>
+			<trans-unit id="pages.target" approved="yes">
+				<source>Target:</source>
+				<target state="translated">Target:</target>
+			</trans-unit>
+			<trans-unit id="pages.target_formlabel">
+				<source>Link Target</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.title_formlabel" approved="yes">
+				<source>Page Title</source>
+				<target state="translated">Titolo della pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.TSconfig_formlabel" approved="yes">
+				<source>Page TSConfig</source>
+				<target state="translated">Pagina TSConfig</target>
+			</trans-unit>
+			<trans-unit id="pages.tsconfig_includes">
+				<source>Include Page TSConfig (from extensions):</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.url" approved="yes">
+				<source>URL:</source>
+				<target state="translated">URL:</target>
+			</trans-unit>
+			<trans-unit id="pages.url_formlabel" approved="yes">
+				<source>URL</source>
+				<target state="translated">URL</target>
+			</trans-unit>
+			<trans-unit id="pages.url_scheme" approved="yes">
+				<source>Enforce Protocol:</source>
+				<target state="translated">Forza Protocollo:</target>
+			</trans-unit>
+			<trans-unit id="pages.url_scheme_formlabel" approved="yes">
+				<source>Use Protocol</source>
+				<target state="translated">Usa Protocollo</target>
+			</trans-unit>
+			<trans-unit id="pages.url_scheme.http" approved="yes">
+				<source>http://</source>
+				<target state="translated">http://</target>
+			</trans-unit>
+			<trans-unit id="pages.url_scheme.https" approved="yes">
+				<source>https://</source>
+				<target state="translated">https://</target>
+			</trans-unit>
+			<trans-unit id="pages.urltype_formlabel" approved="yes">
+				<source>Protocol</source>
+				<target state="translated">Protocollo</target>
+			</trans-unit>
+			<trans-unit id="sys_domain" approved="yes">
+				<source>Domain</source>
+				<target state="translated">Dominio</target>
+			</trans-unit>
+			<trans-unit id="sys_domain.domainName" approved="yes">
+				<source>Domain:</source>
+				<target state="translated">Dominio:</target>
+			</trans-unit>
+			<trans-unit id="sys_domain.forced">
+				<source>Always prepend this domain in links:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_domain.prepend_params">
+				<source>Transfer parameters to Redirect URL:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_domain.redirectHttpStatusCode">
+				<source>HTTP Status Code for the Redirect:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_domain.redirectHttpStatusCode.301" approved="yes">
+				<source>Moved permanently (301)</source>
+				<target state="translated">Spostato permanentemente (301)</target>
+			</trans-unit>
+			<trans-unit id="sys_domain.redirectHttpStatusCode.302" approved="yes">
+				<source>Found (302)</source>
+				<target state="translated">Trovato (302)</target>
+			</trans-unit>
+			<trans-unit id="sys_domain.redirectHttpStatusCode.303" approved="yes">
+				<source>See Other (303)</source>
+				<target state="translated">Vedi Altro (303)</target>
+			</trans-unit>
+			<trans-unit id="sys_domain.redirectHttpStatusCode.307" approved="yes">
+				<source>Moved Temporarily (307)</source>
+				<target state="translated">Spostato Temporaneamente (307)</target>
+			</trans-unit>
+			<trans-unit id="sys_domain.redirectTo">
+				<source>Redirect to:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_template" approved="yes">
+				<source>Template</source>
+				<target state="translated">Template</target>
+			</trans-unit>
+			<trans-unit id="sys_template.basedOn">
+				<source>Include Basis Template:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_template.basedOn_add">
+				<source>Add New Basis Template</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_template.clear" approved="yes">
+				<source>Clear:</source>
+				<target state="translated">Pulisci:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.config" approved="yes">
+				<source>Setup:</source>
+				<target state="translated">Configurazione:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.constants" approved="yes">
+				<source>Constants:</source>
+				<target state="translated">Costanti:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.description" approved="yes">
+				<source>Description:</source>
+				<target state="translated">Descrizione:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.editorcfg" approved="yes">
+				<source>Backend Editor Configuration:</source>
+				<target state="translated">Configurazione Editor Backend:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.includeStaticAfterBasedOn">
+				<source>Include Static Templates After Basis Templates:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_template.include_static_file">
+				<source>Include static (from extensions):</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_template.nextLevel" approved="yes">
+				<source>Template on Next Level:</source>
+				<target state="translated">Template nel Livello Successivo:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.resources" approved="yes">
+				<source>Resources:</source>
+				<target state="translated">Risorse:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.root" approved="yes">
+				<source>Rootlevel:</source>
+				<target state="translated">Rootlevel:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.sitetitle" approved="yes">
+				<source>Website Title:</source>
+				<target state="translated">Titolo Sito Web:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.static_file_mode">
+				<source>Static Template Files from TYPO3 Extensions:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_template.static_file_mode.0">
+				<source>Default (include before if root flag is set)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_template.static_file_mode.1">
+				<source>Always include before this template record</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_template.static_file_mode.2">
+				<source>Never include before this template record</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_template.static_file_mode.3">
+				<source>Include before all static templates if root flag is set</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_template.tabs.access" approved="yes">
+				<source>Access</source>
+				<target state="translated">Accesso</target>
+			</trans-unit>
+			<trans-unit id="sys_template.tabs.files" approved="yes">
+				<source>Resources</source>
+				<target state="translated">Risorse</target>
+			</trans-unit>
+			<trans-unit id="sys_template.tabs.include" approved="yes">
+				<source>Includes</source>
+				<target state="translated">Includi</target>
+			</trans-unit>
+			<trans-unit id="sys_template.tabs.options" approved="yes">
+				<source>Options</source>
+				<target state="translated">Opzioni</target>
+			</trans-unit>
+			<trans-unit id="sys_template.title" approved="yes">
+				<source>Template Title:</source>
+				<target state="translated">Titolo Template:</target>
+			</trans-unit>
+			<trans-unit id="tt_content" approved="yes">
+				<source>Page Content</source>
+				<target state="translated">Contenuto di Pagina</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

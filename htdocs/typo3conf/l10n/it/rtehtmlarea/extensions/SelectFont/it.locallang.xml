@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="Arial"/>
+			<label index="Arial Black"/>
+			<label index="Courier"/>
+			<label index="Default font">Carattere predefinito</label>
+			<label index="Default size">Dimensione predefinita</label>
+			<label index="Extra large"/>
+			<label index="Extra small"/>
+			<label index="Garamond"/>
+			<label index="Large"/>
+			<label index="Lucida Handwriting"/>
+			<label index="Medium"/>
+			<label index="No font">Nessun carattere</label>
+			<label index="No size">Nessuna dimensione del carattere</label>
+			<label index="Small"/>
+			<label index="Times New Roman"/>
+			<label index="Verdana"/>
+			<label index="Very large"/>
+			<label index="Very small"/>
+			<label index="Webdings"/>
+			<label index="Wingdings"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

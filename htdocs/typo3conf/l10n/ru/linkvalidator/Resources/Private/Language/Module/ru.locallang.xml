@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="CheckLink">Проверка ссылок</label>
+			<label index="checklinks.func.title">Проверить этот уровень</label>
+			<label index="checklinks.statistics.header">Проверить следующие типы битых ссылок</label>
+			<label index="hooks.db">Внутренних ссылок:</label>
+			<label index="hooks.external">Внешних ссылок:</label>
+			<label index="hooks.file">Ссылок на файлы:</label>
+			<label index="hooks.linkhandler">Обработано ссылок:</label>
+			<label index="label_refresh">Обновить</label>
+			<label index="label_update">Проверить ссылки</label>
+			<label index="list.edit">Правка элемента, содержащего эту битую ссылку</label>
+			<label index="list.field">(Поле: %s)</label>
+			<label index="list.header">Список битых ссылок</label>
+			<label index="list.msg.lastRun">%1$s %2$s</label>
+			<label index="list.msg.ok">Ok</label>
+			<label index="list.no.broken.links">Нет битых ссылок.</label>
+			<label index="list.no.broken.links.title">Нет битых ссылок!</label>
+			<label index="list.no.headline">нет заголовка</label>
+			<label index="list.report.contentdeleted">Элемент '###title###' (###uid###) удалён.</label>
+			<label index="list.report.contentmoved">Элемент '###title###' (###uid###) находится не на странице ###wrongpage###, а на странице ###rightpage###.</label>
+			<label index="list.report.contentnotexisting">Элемент (###uid###) не существует.</label>
+			<label index="list.report.contentnotvisible">Элемент '###title###' (###uid###) скрыт.</label>
+			<label index="list.report.couldnotresolvehost">Невозможно найти узел. Заданный удалённый узел не найден.</label>
+			<label index="list.report.errornetworkdata">Ошибка при получении данных по сети.</label>
+			<label index="list.report.externalerror">Внешняя ссылка возвратила код ошибки HTTP (%s).</label>
+			<label index="list.report.filenotexisting">Файл не существует.</label>
+			<label index="list.report.httpexception">Исключение: %s</label>
+			<label index="list.report.internalerror500">Внутренняя ошибка сервера (500)</label>
+			<label index="list.report.noinformation">Информация об ошибке недоступна.</label>
+			<label index="list.report.noresponse">Внешняя ссылка недоступна.</label>
+			<label index="list.report.otherhttpcode">Ошибка (%s): "%s".</label>
+			<label index="list.report.pagedeleted">Страница '###title###' (###uid###) удалена.</label>
+			<label index="list.report.pageforbidden403">Нет доступа по этому адресу (403).</label>
+			<label index="list.report.pagenotexisting">Страница (###uid###) не существует.</label>
+			<label index="list.report.pagenotfound404">Запрашиваемый url не найден (404).</label>
+			<label index="list.report.pagenotvisible">Страница '###title###' (###uid###) скрыта.</label>
+			<label index="list.report.redirectloop">Циклическое перенаправление. (%s: %s)</label>
+			<label index="list.report.rowdeleted">###title### строка (###uid###) удалена.</label>
+			<label index="list.report.rowdeleted.default.title">Связано</label>
+			<label index="list.report.rownotexisting">Ряд (###uid###) не существует.</label>
+			<label index="list.report.timeout">Превышено время выполнения операции. Указанное время на выполнение операции превышено.</label>
+			<label index="list.tableHead.element">Элемент</label>
+			<label index="list.tableHead.headlink">Ссылка</label>
+			<label index="list.tableHead.lastCheck">Последняя проверка</label>
+			<label index="list.tableHead.linkmessage">Сообщение об ошибке</label>
+			<label index="list.tableHead.linktarget">Цель URL / ссылки</label>
+			<label index="list.tableHead.path">Путь</label>
+			<label index="menu.checkLinks">Проверка ссылок</label>
+			<label index="menu.introduction">Введение</label>
+			<label index="menu.overview">Обзор ссылок на сайте</label>
+			<label index="no.access">У вас нет доступа к этим спискам.</label>
+			<label index="no.access.title">Нет доступа!</label>
+			<label index="overview.all.header">Общее количество в tt_content</label>
+			<label index="overview.all.links">Внешние ссылки:</label>
+			<label index="overview.all.records">Записи с внешними ссылками:</label>
+			<label index="overview.attention.header">Внимание:</label>
+			<label index="overview.attention.text">Проверка ссылок может занять несколько минут. Проверка ОДНОЙ ссылки занимает до 3 секунд.</label>
+			<label index="overview.branch.header">Количество из актуальной ветви в tt_content</label>
+			<label index="overview.branch.links">Внешние ссылки:</label>
+			<label index="overview.branch.records">Записи с внешними ссылками:</label>
+			<label index="overview.header">Обзор - выберете режим проверки ссылок</label>
+			<label index="overviews.nbtotal">Всего битых ссылок:</label>
+			<label index="Report">Отчёт</label>
+			<label index="report.func.title">Показать этот уровень</label>
+			<label index="report.statistics.header">Показать следующие типы битых ссылок</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

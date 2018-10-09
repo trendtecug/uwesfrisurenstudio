@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="basedOn.description">Другие записи шаблонов, включаемые как и "статические шаблоны"</label>
+			<label index="clear.description">Флаги, очищающие наследование кода TypoScript от прежних корневых шаблонов. Существует флаг для Констант и для кода Настройки.</label>
+			<label index="clear.details">В модуле Веб&gt; Шаблон / Анализатор Шаблона, можно проследить, где в дереве шаблона находятся наследуемые константы и код настроек.</label>
+			<label index="_clear.image">EXT:context_help/Resources/Public/Images/cshimages/systemplate2.png</label>
+			<label index="_clear.seeAlso">sys_template:root</label>
+			<label index="config.description">Код настройки TypoScript</label>
+			<label index="config.details">Дополнително читайте о Шаблонах TypoScript в "TSref", "TypoScript на примерах" и "Как начать".</label>
+			<label index="_config.seeAlso">static_template:config,
+TSref | https://docs.typo3.org/typo3cms/TyposcriptReference/
+Getting Started | https://docs.typo3.org/typo3cms/GettingStartedTutorial/
+TypoScript in 45 min| https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/
+TypoScript Syntax | https://docs.typo3.org/typo3cms/TyposcriptSyntaxReference/</label>
+			<label index="constants.description">Константы TypoScript</label>
+			<label index="_constants.seeAlso">static_template:constants</label>
+			<label index=".description">Запись шаблона TypoScript</label>
+			<label index="description.description">Если хотите, введите описание своего шаблона.</label>
+			<label index=".details">Записи "Шаблона" - жизненно необходимые компоненты, использующиеся для определения дизайна web страниц. Почти не важно как Вы хотите строить сайт, но он должен начинаться с записи "Шаблона" на корневой странице в дереве сайта. Сначала создайте запись "Шаблона", введя ее название и убедитесь, что выбрали "Очистить константы" и "Настройки", а также установите флажок "Корень сайта". После чего нужно ввести некую настройку TypoScript в поле Настройка. Очень важно прочитать, как это все сделать в упомянутых ниже документах! Убедитесь, что используйте модуль Веб&gt;Шаблон для работы с шаблоном. Это инструмент, специально разработанный для этого.</label>
+			<label index="editorcfg.description">Редактор настроек для расширения редактирования таблицы стилей.</label>
+			<label index="endtime.description">Время окончания. Используйте для выключения шаблона в определенную дату.</label>
+			<label index="hidden.description">Скрыв шаблон, вы отключите запись шаблона.</label>
+			<label index="hidden.details">Есил запись шаблона была первой записью, ее сокрытие приведет к использованию второй записи вместо нее.</label>
+			<label index="_.image">EXT:context_help/Resources/Public/Images/cshimages/systemplate.png,
+EXT:context_help/Resources/Public/Images/cshimages/systemplate1.png</label>
+			<label index=".image_descr">Запись шаблона с константами и кодом настройки. Модуль Веб&gt;Шаблон содержит инструменты для редактирования и настройки структуры TypoScript.</label>
+			<label index="includeStaticAfterBasedOn.description">Если включено, то статические шаблоны включаются после "базовых" шаблонов. Что в основном меняет порядок включения внешних источников TypoScript.</label>
+			<label index="includeStaticAfterBasedOn.details">Модуль Веб&gt; Шаблон / Анализатор Шаблона позволяет проследить порядок включения всех используемых источников TypoScript в шаблон.</label>
+			<label index="include_static.description">Включаемые записи из статических шаблонов</label>
+			<label index="include_static_file.description">Включаемые файлы статических шаблонов</label>
+			<label index="include_static_file.details">Статические файлы шаблонов вносятся из расширений, вопреки Статическим записям Шаблонов, которые заносятся из статической таблицы базы данных, "static_template".</label>
+			<label index="_include_static_file.seeAlso">sys_template:include_static</label>
+			<label index="_include_static.seeAlso">static_template</label>
+			<label index="nextLevel.description">Определяется запись шаблона, для выделения уровня этой ветви в дереве страниц. Можно использовать для определения одной записи шаблона для всего web сайта, а для определенных страниц использовать другую запись.</label>
+			<label index="resources.description">Файлы ресурсов для шаблона. Например - логотип, TTF шрифт и т.п.</label>
+			<label index="resources.details">На файлы ресурсов в коде шаблона TypoScript можно сослаться через [filename]*.[ext] и имеет преимущество, если ссылка из TypoScript не разорвалась при копировании или экспорте записи шаблона, без включения ресурсов или при изменении их имен.</label>
+			<label index="root.description">Говорит о том, что шаблон представляет корень web сайта.</label>
+			<label index="_root.seeAlso">sys_template:clear</label>
+			<label index="_.seeAlso">static_template
+TSref | https://docs.typo3.org/typo3cms/TyposcriptReference/
+TypoScript in 45 min| https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/</label>
+			<label index="sitetitle.description">Заголовок web-сайта. Обычно он автоматически предшествует заголовку всех страниц в теге &lt;title&gt; во внешнем интерфейсе.</label>
+			<label index="starttime.description">Начальное время. Используйте для включения шаблона в определенную дату.</label>
+			<label index="static_file_mode.description">Определяет способ включения статических файлов шаблонов.</label>
+			<label index="static_file_mode.details">Если порядке включения вызывает подозрение, разберитесь, используя Веб&gt; Шаблон / Анализатор Шаблона, для просмотра порядка включения.</label>
+			<label index="title.description">Заголовок записи шаблона - лишь внутренняя метка, не влияющая на отображение во внешнем интерфейсе.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="clickAPage_content">Clicca sul titolo di una pagina dell'albero delle pagine</label>
+			<label index="mlang_labels_tabdescr">Nel modulo sono presenti funzioni per importare/esportare dati, e assistenti (wizard) per creare velocemente o riordinare le pagine.</label>
+			<label index="mlang_labels_tablabel">Funzioni avanzate</label>
+			<label index="mlang_tabs_tab">Funzioni</label>
+			<label index="title">Funzioni avanzate</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

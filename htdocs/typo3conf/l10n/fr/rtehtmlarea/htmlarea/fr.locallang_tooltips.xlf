@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-29T03:42:25Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="about" approved="yes">
+				<source>About this editor</source>
+				<target state="translated">A propos de cet éditeur</target>
+			</trans-unit>
+			<trans-unit id="bold" approved="yes">
+				<source>Bold</source>
+				<target state="translated">Gras</target>
+			</trans-unit>
+			<trans-unit id="copy" approved="yes">
+				<source>Copy selection</source>
+				<target state="translated">Copier la sélection</target>
+			</trans-unit>
+			<trans-unit id="createlink" approved="yes">
+				<source>Insert Web Link</source>
+				<target state="translated">Insérer un lien</target>
+			</trans-unit>
+			<trans-unit id="cut" approved="yes">
+				<source>Cut selection</source>
+				<target state="translated">Couper la sélection</target>
+			</trans-unit>
+			<trans-unit id="fontname" approved="yes">
+				<source>Font</source>
+				<target state="translated">Police</target>
+			</trans-unit>
+			<trans-unit id="fontsize" approved="yes">
+				<source>Font size</source>
+				<target state="translated">Taille de la police</target>
+			</trans-unit>
+			<trans-unit id="forecolor" approved="yes">
+				<source>Font Color</source>
+				<target state="translated">Couleur du texte</target>
+			</trans-unit>
+			<trans-unit id="formatblock" approved="yes">
+				<source>Type of paragragh</source>
+				<target state="translated">Type de paragraghe</target>
+			</trans-unit>
+			<trans-unit id="hilitecolor" approved="yes">
+				<source>Background Color</source>
+				<target state="translated">Couleur du fond</target>
+			</trans-unit>
+			<trans-unit id="htmlmode" approved="yes">
+				<source>Toggle HTML Source</source>
+				<target state="translated">Mode source HTML</target>
+			</trans-unit>
+			<trans-unit id="indent" approved="yes">
+				<source>Increase Indent</source>
+				<target state="translated">Augmenter le retrait</target>
+			</trans-unit>
+			<trans-unit id="inserthorizontalrule" approved="yes">
+				<source>Horizontal Rule</source>
+				<target state="translated">Ligne horizontale</target>
+			</trans-unit>
+			<trans-unit id="insertimage" approved="yes">
+				<source>Insert/Modify Image</source>
+				<target state="translated">Insérer/Modifier une image</target>
+			</trans-unit>
+			<trans-unit id="insertorderedlist" approved="yes">
+				<source>Ordered List</source>
+				<target state="translated">Liste numérotée</target>
+			</trans-unit>
+			<trans-unit id="inserttable" approved="yes">
+				<source>Insert Table</source>
+				<target state="translated">Insérer un tableau</target>
+			</trans-unit>
+			<trans-unit id="insertunorderedlist" approved="yes">
+				<source>Bulleted List</source>
+				<target state="translated">Liste à puces</target>
+			</trans-unit>
+			<trans-unit id="italic" approved="yes">
+				<source>Italic</source>
+				<target state="translated">Italique</target>
+			</trans-unit>
+			<trans-unit id="justifycenter" approved="yes">
+				<source>Justify Center</source>
+				<target state="translated">Centré</target>
+			</trans-unit>
+			<trans-unit id="justifyfull" approved="yes">
+				<source>Justify Full</source>
+				<target state="translated">Justifié</target>
+			</trans-unit>
+			<trans-unit id="justifyleft" approved="yes">
+				<source>Justify Left</source>
+				<target state="translated">Aligné à gauche</target>
+			</trans-unit>
+			<trans-unit id="justifyright" approved="yes">
+				<source>Justify Right</source>
+				<target state="translated">Aligné à droite</target>
+			</trans-unit>
+			<trans-unit id="killword" approved="yes">
+				<source>Clear MSOffice tags</source>
+				<target state="translated">Enlever les balises MSOffice</target>
+			</trans-unit>
+			<trans-unit id="lefttoright" approved="yes">
+				<source>Direction left to right</source>
+				<target state="translated">Texte de gauche à droite</target>
+			</trans-unit>
+			<trans-unit id="outdent" approved="yes">
+				<source>Decrease Indent</source>
+				<target state="translated">Diminuer le retrait</target>
+			</trans-unit>
+			<trans-unit id="paste" approved="yes">
+				<source>Paste from clipboard</source>
+				<target state="translated">Coller depuis le presse-papiers</target>
+			</trans-unit>
+			<trans-unit id="popupeditor" approved="yes">
+				<source>Enlarge the editor</source>
+				<target state="translated">Agrandir l'éditeur</target>
+			</trans-unit>
+			<trans-unit id="print" approved="yes">
+				<source>Print document</source>
+				<target state="translated">Imprimer le document</target>
+			</trans-unit>
+			<trans-unit id="redo" approved="yes">
+				<source>Redo the last action</source>
+				<target state="translated">Refaire la dernière action</target>
+			</trans-unit>
+			<trans-unit id="removeformat" approved="yes">
+				<source>Remove formatting</source>
+				<target state="translated">Enlever le formatage</target>
+			</trans-unit>
+			<trans-unit id="righttoleft" approved="yes">
+				<source>Direction right to left</source>
+				<target state="translated">Texte de droite à gauche</target>
+			</trans-unit>
+			<trans-unit id="showhelp" xml:space="preserve" approved="yes">
+				<source>Help using editor</source>
+			<target state="translated">Aide sur l'éditeur</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="strikethrough" approved="yes">
+				<source>Strikethrough</source>
+				<target state="translated">Barré</target>
+			</trans-unit>
+			<trans-unit id="subscript" approved="yes">
+				<source>Subscript</source>
+				<target state="translated">Indice inférieur</target>
+			</trans-unit>
+			<trans-unit id="superscript" approved="yes">
+				<source>Superscript</source>
+				<target state="translated">Indice supérieur</target>
+			</trans-unit>
+			<trans-unit id="textindicator" approved="yes">
+				<source>Current style</source>
+				<target state="translated">Style courant</target>
+			</trans-unit>
+			<trans-unit id="underline" approved="yes">
+				<source>Underline</source>
+				<target state="translated">Souligné</target>
+			</trans-unit>
+			<trans-unit id="undo" approved="yes">
+				<source>Undo the last action</source>
+				<target state="translated">Annuler la dernière action</target>
+			</trans-unit>
+			<trans-unit id="unlink" approved="yes">
+				<source>Remove link</source>
+				<target state="translated">Supprimer le lien</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

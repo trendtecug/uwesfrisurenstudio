@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T04:50:13Z" product-name="tstemplate">
+		<header/>
+		<body>
+			<trans-unit id="areYouSure" approved="yes">
+				<source>Are you sure you want to do this?</source>
+				<target state="translated">Confermare questa operazione?</target>
+			</trans-unit>
+			<trans-unit id="constantEditor" approved="yes">
+				<source>Constant Editor</source>
+				<target state="translated">Editor Costanti</target>
+			</trans-unit>
+			<trans-unit id="createTemplate" approved="yes">
+				<source>Create a template record first in order to edit constants!</source>
+				<target state="translated">Creare un record di template prima di modificare le costanti!</target>
+			</trans-unit>
+			<trans-unit id="createTemplateToEditConfiguration" approved="yes">
+				<source>You need to create a template record below in order to edit your configuration.</source>
+				<target state="translated">Occore creare un record di template nella sezione sottostante per poter modificare la propria configurazione.</target>
+			</trans-unit>
+			<trans-unit id="extTemplate" approved="yes">
+				<source>Create extension template</source>
+				<target state="translated">Crea estensione template</target>
+			</trans-unit>
+			<trans-unit id="extTemplateAction" approved="yes">
+				<source>Click here to create an extension template.</source>
+				<target state="translated">Clicca qui per creare un'estensione template.</target>
+			</trans-unit>
+			<trans-unit id="extTemplateDescription" approved="yes">
+				<source>An extension template allows you to enter TypoScript values that will affect only this page and subpages.</source>
+				<target state="translated">Un template di estensione permette di inserire valori TypoScript che condizionano solo la pagina e le sottopagine relative.</target>
+			</trans-unit>
+			<trans-unit id="goToClosest" approved="yes">
+				<source>Go to closest page with template</source>
+				<target state="translated">Vai al template più vicino</target>
+			</trans-unit>
+			<trans-unit id="goToClosestAction" approved="yes">
+				<source>Click here to go.</source>
+				<target state="translated">Clicca qui per iniziare.</target>
+			</trans-unit>
+			<trans-unit id="goToClosestDescription" approved="yes">
+				<source>Closest template is on page '%s' (uid %s).</source>
+				<target state="translated">Il template più vicino è nella pagina '%s' (uid %s).</target>
+			</trans-unit>
+			<trans-unit id="infoModify" approved="yes">
+				<source>Info/Modify</source>
+				<target state="translated">Info/Modifica</target>
+			</trans-unit>
+			<trans-unit id="isExt" approved="yes">
+				<source>Is Ext?</source>
+				<target state="translated">Ext?</target>
+			</trans-unit>
+			<trans-unit id="isRoot" approved="yes">
+				<source>Is Root?</source>
+				<target state="translated">Radice ?</target>
+			</trans-unit>
+			<trans-unit id="moduleTitle" approved="yes">
+				<source>Template tools</source>
+				<target state="translated">Strumenti Template</target>
+			</trans-unit>
+			<trans-unit id="newWebsite" approved="yes">
+				<source>Create new website</source>
+				<target state="translated">Crea nuovo sito web</target>
+			</trans-unit>
+			<trans-unit id="newWebsiteAction" approved="yes">
+				<source>Create template for a new site</source>
+				<target state="translated">Crea template per un nuovo sito</target>
+			</trans-unit>
+			<trans-unit id="newWebsiteDescription" approved="yes">
+				<source>If you want this page to be the root of a new website, optionally based on one of the standard templates, then press the button below:</source>
+				<target state="translated">Se si vuole che questa pagina sia la radice di un nuovo sito web, eventualmente basata su uno dei template standard, allora cliccate sul pulsante sottostante:</target>
+			</trans-unit>
+			<trans-unit id="noTemplate" approved="yes">
+				<source>No template</source>
+				<target state="translated">Nessun template</target>
+			</trans-unit>
+			<trans-unit id="noTemplateDescription" approved="yes">
+				<source>There was no template on this page!</source>
+				<target state="translated">Non esiste alcun template in questa pagina!</target>
+			</trans-unit>
+			<trans-unit id="objectBrowser" approved="yes">
+				<source>TypoScript Object Browser</source>
+				<target state="translated">TypoScript Object Browser</target>
+			</trans-unit>
+			<trans-unit id="overview" approved="yes">
+				<source>This is an overview of the pages in the database containing one or more template records. Click a page title to go to the page.</source>
+				<target state="translated">Questa è un'anteprima delle pagine nel database contenenti uno o più record di template. Cliccare sul titolo per andare alla rispettiva pagina.</target>
+			</trans-unit>
+			<trans-unit id="pageName" approved="yes">
+				<source>Page name</source>
+				<target state="translated">Titolo pagina</target>
+			</trans-unit>
+			<trans-unit id="templateAnalyzer" approved="yes">
+				<source>Template Analyzer</source>
+				<target state="translated">Analizza Template</target>
+			</trans-unit>
+			<trans-unit id="templates" approved="yes">
+				<source>Templates</source>
+				<target state="translated"># Template</target>
+			</trans-unit>
+			<trans-unit id="titleNewSite" approved="yes">
+				<source>NEW SITE</source>
+				<target state="translated">NUOVO SITO</target>
+			</trans-unit>
+			<trans-unit id="titleNewSiteStandard" approved="yes">
+				<source>NEW SITE, based on standard</source>
+				<target state="translated">NUOVO SITO, modello standard</target>
+			</trans-unit>
+			<trans-unit id="viewTemplates" approved="yes">
+				<source>Viewing templates of</source>
+				<target state="translated">Mostro i templates di</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:09:33Z" product-name="lowlevel">
+		<header/>
+		<body>
+			<trans-unit id="beUser" approved="no">
+				<source>$GLOBALS['BE_USER']-&gt;uc (User Settings)</source>
+				<target state="needs-translation">$BE_USER-&gt;uc (пользовательские настройки)</target>
+			</trans-unit>
+			<trans-unit id="configuration" approved="yes">
+				<source>Configuration</source>
+				<target state="translated">Настройка</target>
+			</trans-unit>
+			<trans-unit id="copyPaste" approved="yes">
+				<source>(Now, copy/paste this value into the configuration file where you can set it. This is all you can do from here...)</source>
+				<target state="translated">(На данный момент возможно лишь скопировать отсюда эти значения и вставить в файл для настроек...)</target>
+			</trans-unit>
+			<trans-unit id="cropLines" approved="yes">
+				<source>Crop lines</source>
+				<target state="translated">Перенос строк</target>
+			</trans-unit>
+			<trans-unit id="enterSearchPhrase" approved="yes">
+				<source>Enter search phrase:</source>
+				<target state="translated">Введите искомую фразу:</target>
+			</trans-unit>
+			<trans-unit id="loadedExt" approved="no">
+				<source>$GLOBALS['TYPO3_LOADED_EXT'] (Loaded Extensions)</source>
+				<target state="needs-translation">$TYPO3_LOADED_EXT (загруженные расширения)</target>
+			</trans-unit>
+			<trans-unit id="search" approved="yes">
+				<source>Search</source>
+				<target state="translated">Поиск</target>
+			</trans-unit>
+			<trans-unit id="t3services" approved="no">
+				<source>$GLOBALS['T3_SERVICES'] (Registered Services)</source>
+				<target state="needs-translation">$T3_SERVICES (зарегистрированные службы)</target>
+			</trans-unit>
+			<trans-unit id="tbemodules" approved="no">
+				<source>$GLOBALS['TBE_MODULES'] (BE Modules)</source>
+				<target state="needs-translation">$TBE_MODULES (модули внутреннего интерфейса)</target>
+			</trans-unit>
+			<trans-unit id="tbemodulesext" approved="no">
+				<source>$GLOBALS['TBE_MODULES_EXT'] (BE Modules Extensions)</source>
+				<target state="needs-translation">$TBE_MODULES_EXT (расширения модулей внутреннего интерфейса)</target>
+			</trans-unit>
+			<trans-unit id="tbeStyles" approved="no">
+				<source>$GLOBALS['TBE_STYLES'] (Skinning Styles)</source>
+				<target state="needs-translation">$TBE_STYLES (стили оформления)</target>
+			</trans-unit>
+			<trans-unit id="tca" approved="no">
+				<source>$GLOBALS['TCA'] (Table configuration array)</source>
+				<target state="needs-translation">$TCA (область настройки таблиц)</target>
+			</trans-unit>
+			<trans-unit id="tcaDescr" approved="no">
+				<source>$GLOBALS['TCA_DESCR'] (Table Help Description)</source>
+				<target state="needs-translation">$TCA_DESCR (описание таблицы справки)</target>
+			</trans-unit>
+			<trans-unit id="typo3ConfVars" approved="no">
+				<source>$GLOBALS['TYPO3_CONF_VARS'] (Global Configuration)</source>
+				<target state="needs-translation">$TYPO3_CONF_VARS (глобальная настройка)</target>
+			</trans-unit>
+			<trans-unit id="useRegExp" approved="yes">
+				<source>Use regular expression (phrase is surrounded by slashes automatically)</source>
+				<target state="translated">Фраза целиком</target>
+			</trans-unit>
+			<trans-unit id="usersettings" approved="no">
+				<source>$GLOBALS['TYPO3_USER_SETTINGS'] (User Settings Configuration)</source>
+				<target state="needs-translation">$TYPO3_USER_SETTINGS (настройки для пользователей)</target>
+			</trans-unit>
+			<trans-unit id="variable" approved="yes">
+				<source>Variable:</source>
+				<target state="translated">Переменная:</target>
+			</trans-unit>
+			<trans-unit id="writeMessage" approved="yes">
+				<source>Following line was added to configuration file (%s): %s%s</source>
+				<target state="translated">В файл настроек была добавлена следующая строка (%s): %s%s</target>
+			</trans-unit>
+			<trans-unit id="writeMessageFailed" approved="yes">
+				<source>Write to configuration file failed (%s)!</source>
+				<target state="translated">Ошибка записи в файл настроек (%s)!</target>
+			</trans-unit>
+			<trans-unit id="writeValue" approved="yes">
+				<source>Write value to configuration file</source>
+				<target state="translated">Записать значение в файл настроек</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-29T04:34:53Z" product-name="sys_action">
+		<header/>
+		<body>
+			<trans-unit id="action_BEu_db_mount" approved="yes">
+				<source>Pagetree starting points</source>
+				<target state="translated">Départs de l'arborescence</target>
+			</trans-unit>
+			<trans-unit id="action_BEu_email" approved="yes">
+				<source>Email</source>
+				<target state="translated">E-mail</target>
+			</trans-unit>
+			<trans-unit id="action_BEu_hidden" approved="yes">
+				<source>Disable user</source>
+				<target state="translated">Désactiver l'utilisateur</target>
+			</trans-unit>
+			<trans-unit id="action_BEu_password" approved="yes">
+				<source>Password</source>
+				<target state="translated">Mot de passe</target>
+			</trans-unit>
+			<trans-unit id="action_BEu_realName" approved="yes">
+				<source>Real name</source>
+				<target state="translated">Nom</target>
+			</trans-unit>
+			<trans-unit id="action_BEu_usergroups" approved="yes">
+				<source>Member of groups</source>
+				<target state="translated">Membre de(s) groupe(s)</target>
+			</trans-unit>
+			<trans-unit id="action_BEu_username" approved="yes">
+				<source>Login name</source>
+				<target state="translated">Nom d'identification</target>
+			</trans-unit>
+			<trans-unit id="action_Create" approved="yes">
+				<source>Create Backend User</source>
+				<target state="translated">Créer un utilisateur Backend</target>
+			</trans-unit>
+			<trans-unit id="action_createQuery" approved="yes">
+				<source>Create Query</source>
+				<target state="translated">Créer une requête</target>
+			</trans-unit>
+			<trans-unit id="action_download_file" approved="yes">
+				<source>Click here to download the exported data in a file</source>
+				<target state="translated">Ciquer ici pour télécharger les données exportées.</target>
+			</trans-unit>
+			<trans-unit id="action_editQuery" approved="yes">
+				<source>Edit Query</source>
+				<target state="translated">Editer la requête</target>
+			</trans-unit>
+			<trans-unit id="action_emptyQuery" approved="yes">
+				<source>Query is empty, create one first!</source>
+				<target state="translated">La requête est vide, créer en une avant!</target>
+			</trans-unit>
+			<trans-unit id="action_error" approved="yes">
+				<source>Action error!</source>
+				<target state="translated">Erreur d'action!</target>
+			</trans-unit>
+			<trans-unit id="action_error-access" approved="yes">
+				<source>You don't have sufficient rights to see the records. Please ask the administrator to set those for you.</source>
+				<target state="translated">Vous n'avez pas les droits suffisants pour voir ces enregistrements. Demander à un administrateur de vous les donner.</target>
+			</trans-unit>
+			<trans-unit id="action_error-not-found" approved="yes">
+				<source>The action doesn't exist</source>
+				<target state="translated">L'action n’existe pas</target>
+			</trans-unit>
+			<trans-unit id="action_lowlevelMissing" approved="no">
+				<source>The extension 'lowlevel' must be installed in order to create a query.</source>
+				<target state="needs-translation">L'extension "lowlevel" doit être instalée pour créer une requête.</target>
+			</trans-unit>
+			<trans-unit id="action_not-found" approved="yes">
+				<source>No actions found</source>
+				<target state="translated">Pas d'action trouvée</target>
+			</trans-unit>
+			<trans-unit id="action_not-found-description" approved="yes">
+				<source>Currently there are no actions yet defined!</source>
+				<target state="translated">Il n'y a actuellement aucune action définie!</target>
+			</trans-unit>
+			<trans-unit id="action_notReady" approved="yes">
+				<source>Error: The action configuration is not finished.</source>
+				<target state="translated">Erreur: La configuration de l'action n'est pas finie.</target>
+			</trans-unit>
+			<trans-unit id="action_noType" approved="yes">
+				<source>Error: The action had no type defined.</source>
+				<target state="translated">Erreur: L'action n'a pas de type défini.</target>
+			</trans-unit>
+			<trans-unit id="action_t1_legend_configuration">
+				<source>Configuration</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_t1_legend_generalFields">
+				<source>General fields</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_t1_listOfUsers" approved="yes">
+				<source>List of backend users</source>
+				<target state="translated">Lister les utilisateurs Backend</target>
+			</trans-unit>
+			<trans-unit id="action_t2_result" approved="yes">
+				<source>Result of query</source>
+				<target state="translated">Résultat de la requète</target>
+			</trans-unit>
+			<trans-unit id="action_t4_edit" approved="yes">
+				<source>Select record to edit:</source>
+				<target state="translated">Séléctionnez un enregistrement à éditer:</target>
+			</trans-unit>
+			<trans-unit id="action_toolbaritem" approved="yes">
+				<source>Open System Actions</source>
+				<target state="translated">Actions Système Ouvert</target>
+			</trans-unit>
+			<trans-unit id="action_Update" approved="yes">
+				<source>Update Backend User</source>
+				<target state="translated">Modifier une utilisateur Backend</target>
+			</trans-unit>
+			<trans-unit id="description" approved="yes">
+				<source>An 'Action' is a configuration of a specific task which may be performed by assigned usergroups via the Task Center.</source>
+				<target state="translated">Une 'Action' est une configuration spécifique de tâche qui peut être exécutée par un groupe assigné par le centre des tâches.</target>
+			</trans-unit>
+			<trans-unit id="edit-sys_action" approved="yes">
+				<source>Edit record</source>
+				<target state="translated">Editer l'enregistrement</target>
+			</trans-unit>
+			<trans-unit id="error-password-empty" approved="yes">
+				<source>The password is empty.</source>
+				<target state="translated">Le mot de passe est vide.</target>
+			</trans-unit>
+			<trans-unit id="error-username-empty" approved="yes">
+				<source>The username is empty.</source>
+				<target state="translated">Le nom d'utilisateur est vide.</target>
+			</trans-unit>
+			<trans-unit id="error-wrong-email" approved="yes">
+				<source>The E-mail address is wrong.</source>
+				<target state="translated">L'adresse e-mail est incorrecte.</target>
+			</trans-unit>
+			<trans-unit id="error-wrong-user" approved="yes">
+				<source>You are not allowed to edit this user.</source>
+				<target state="translated">Vous n'êtes pas autorisé à éditer cet utilisateur.</target>
+			</trans-unit>
+			<trans-unit id="new-sys_action" approved="yes">
+				<source>Create a new action</source>
+				<target state="translated">Créer une nouvelle action</target>
+			</trans-unit>
+			<trans-unit id="success" approved="yes">
+				<source>Success</source>
+				<target state="translated">Succès</target>
+			</trans-unit>
+			<trans-unit id="success-user-created" approved="yes">
+				<source>The user has been created.</source>
+				<target state="translated">L'utilisateur a été créé.</target>
+			</trans-unit>
+			<trans-unit id="success-user-updated" approved="yes">
+				<source>The user has been updated.</source>
+				<target state="translated">L'utilisateur a été mis à jour.</target>
+			</trans-unit>
+			<trans-unit id="sys_action" approved="yes">
+				<source>Action</source>
+				<target state="translated">Action</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

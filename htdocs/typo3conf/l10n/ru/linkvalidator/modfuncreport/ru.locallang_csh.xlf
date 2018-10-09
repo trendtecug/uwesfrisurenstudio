@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:34Z" product-name="linkvalidator" target-language="ru">
+    <header/>
+    <body>
+      <trans-unit id="checkboxes.description" xml:space="preserve" approved="yes">
+        <source>Click the following checkboxes to consider or to ignore the corresponding broken links.</source>
+      <target state="translated">Поставьте соответствующие флажки для учета или игнорирования соответствующих неработающих ссылок.</target></trans-unit>
+      <trans-unit id="tablehead_path.description" xml:space="preserve" approved="yes">
+        <source>Path to the content element, which contains the broken link.</source>
+      <target state="translated">Путь к элементу содержимого, содержащему неработающую ссылку.</target></trans-unit>
+      <trans-unit id="tablehead_element.description" xml:space="preserve" approved="yes">
+        <source>Type of the element containing the broken link, its headline and the field in which the broken link is located.</source>
+      <target state="translated">Тип элемента, содержащего неработающую ссылку, его заголовок и поле, в котором находится неработающая ссылка.</target></trans-unit>
+      <trans-unit id="tablehead_headlink.description" xml:space="preserve" approved="yes">
+        <source>The linking text.</source>
+      <target state="translated">Текст ссылки.</target></trans-unit>
+      <trans-unit id="tablehead_linktarget.description" xml:space="preserve" approved="yes">
+        <source>URL to which the broken link is pointing.</source>
+      <target state="translated">URL, на который указывает неработающая ссылка.</target></trans-unit>
+      <trans-unit id="tablehead_linkmessage.description" xml:space="preserve" approved="yes">
+        <source>Status of that link.</source>
+      <target state="translated">Статус ссылки.</target></trans-unit>
+      <trans-unit id="tablehead_lastcheck.description" xml:space="preserve" approved="yes">
+        <source>Date and time of the last update of the information in each table row.</source>
+      <target state="translated">Дата и время последнего обновления информации в каждой из строк таблицы.</target></trans-unit>
+      <trans-unit id="task_page.alttitle" xml:space="preserve" approved="yes">
+        <source>Start page of the task</source>
+      <target state="translated">Начальная страница задачи</target></trans-unit>
+      <trans-unit id="task_page.description" xml:space="preserve" approved="yes">
+        <source>UID of the start page for this task.</source>
+      <target state="translated">UID начальной страницы этой задачи.</target></trans-unit>
+      <trans-unit id="task_depth.alttitle" xml:space="preserve" approved="yes">
+        <source>Depth of the task</source>
+      <target state="translated">Глубина задачи</target></trans-unit>
+      <trans-unit id="task_depth.description" xml:space="preserve" approved="yes">
+        <source>Level of pages the task should check.</source>
+      <target state="translated">Уровень страниц, который должна проверять задача.</target></trans-unit>
+      <trans-unit id="task_configuration.alttitle" xml:space="preserve" approved="yes">
+        <source>Special TSconfig code</source>
+      <target state="translated">Специфичный код TSconfig</target></trans-unit>
+      <trans-unit id="task_configuration.description" xml:space="preserve" approved="yes">
+        <source>TSconfig Code which defines settings for linkvalidator to be used for this task.</source>
+      <target state="translated">Код TSconfig, определяющий настройки проверки ссылок и используемый для этой задачи.</target></trans-unit>
+      <trans-unit id="task_email.alttitle" xml:space="preserve" approved="yes">
+        <source>Email address</source>
+      <target state="translated">Адрес email</target></trans-unit>
+      <trans-unit id="task_email.description" xml:space="preserve" approved="yes">
+        <source>Email address to which an email report is sent.</source>
+      <target state="translated">Адрес email, на который отправлен отчет.</target></trans-unit>
+      <trans-unit id="task_emailonbrokenlinkonly.alttitle" xml:space="preserve" approved="yes">
+        <source>Mailing option</source>
+      <target state="translated">Параметры почты</target></trans-unit>
+      <trans-unit id="task_emailonbrokenlinkonly.description" xml:space="preserve" approved="yes">
+        <source>Only send an email, if new broken links were found.</source>
+      <target state="translated">Отсылать письмо, только если найдены новые неработающие ссылки.</target></trans-unit>
+      <trans-unit id="task_emailfile.alttitle" xml:space="preserve" approved="yes">
+        <source>Email template file</source>
+      <target state="translated">Файл шаблона для письма</target></trans-unit>
+      <trans-unit id="task_emailfile.description" xml:space="preserve" approved="yes">
+        <source>Define a template to be used for the email.</source>
+      <target state="translated">Шаблон, используемый для письма.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

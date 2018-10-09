@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="ext.saltedpasswords.tasks.bulkupdate.description">Aggiorna tutte le password degli utenti di frontend e di backend in hash con entropia. Questo compito si disattiva autonomamente una volta completato.</label>
+			<label index="ext.saltedpasswords.tasks.bulkupdate.invalidNumberOfRecords"/>
+			<label index="ext.saltedpasswords.tasks.bulkupdate.label.additionalinformation.deactivateself"/>
+			<label index="ext.saltedpasswords.tasks.bulkupdate.label.additionalinformation.numberofrecords"/>
+			<label index="ext.saltedpasswords.tasks.bulkupdate.label.canDeactivateSelf"/>
+			<label index="ext.saltedpasswords.tasks.bulkupdate.label.numberOfRecords"/>
+			<label index="ext.saltedpasswords.tasks.bulkupdate.name">Converti le password utente in hash con entropia</label>
+			<label index="ext.saltedpasswords.title.blowfishsalt">Hashing Blowfish con entropia (avanzato)</label>
+			<label index="ext.saltedpasswords.title.md5salt">Hashing MD5 con entropia (sicuro)</label>
+			<label index="ext.saltedpasswords.title.phpasssalt">Hashing portabile PHP delle password (phpass)</label>
+			<label index="ext.saltedpasswords.title.tx_saltedpasswords_salts_blowfish">Hashing Blowfish con entropia (avanzato)</label>
+			<label index="ext.saltedpasswords.title.tx_saltedpasswords_salts_md5">Hashing MD5 con entropia (sicuro)</label>
+			<label index="ext.saltedpasswords.title.tx_saltedpasswords_salts_phpass">Hashing portabile PHP delle password (phpass)</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

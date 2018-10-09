@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T05:08:55Z" product-name="workspaces">
+		<header/>
+		<body>
+			<trans-unit id="actionSendToStage" approved="yes">
+				<source>Send to stage</source>
+				<target state="translated">Invia a Stage</target>
+			</trans-unit>
+			<trans-unit id="cancel" approved="no">
+				<source>Cancel</source>
+				<target state="needs-translation">annulla</target>
+			</trans-unit>
+			<trans-unit id="chooseAction" approved="no">
+				<source>Choose staging action</source>
+				<target state="needs-translation">seleziona Azione</target>
+			</trans-unit>
+			<trans-unit id="chooseMassAction" approved="no">
+				<source>Choose mass action</source>
+				<target state="needs-translation">seleziona Azione Multipla</target>
+			</trans-unit>
+			<trans-unit id="close" approved="yes">
+				<source>Close</source>
+				<target state="translated">Chiudi</target>
+			</trans-unit>
+			<trans-unit id="column.actions" approved="yes">
+				<source>Actions</source>
+				<target state="translated">Azioni</target>
+			</trans-unit>
+			<trans-unit id="column.changeDate" approved="yes">
+				<source>Modification</source>
+				<target state="translated">Modifica</target>
+			</trans-unit>
+			<trans-unit id="column.difference" approved="yes">
+				<source>Difference</source>
+				<target state="translated">Differenze</target>
+			</trans-unit>
+			<trans-unit id="column.livePath" approved="no">
+				<source>Live path</source>
+				<target state="needs-translation">Live-Path</target>
+			</trans-unit>
+			<trans-unit id="column.liveTitle" approved="no">
+				<source>Live title</source>
+				<target state="needs-translation">Live-Titolo</target>
+			</trans-unit>
+			<trans-unit id="column.oid" approved="no">
+				<source>Live ID</source>
+				<target state="needs-translation">Live-Id</target>
+			</trans-unit>
+			<trans-unit id="column.stage" approved="yes">
+				<source>Current Stage</source>
+				<target state="translated">Stage corrente</target>
+			</trans-unit>
+			<trans-unit id="column.uid" approved="no">
+				<source>WS ID</source>
+				<target state="needs-translation">WS-Id</target>
+			</trans-unit>
+			<trans-unit id="column.workspaceName" approved="yes">
+				<source>Workspace</source>
+				<target state="translated">Workspace</target>
+			</trans-unit>
+			<trans-unit id="column.wsPath" approved="yes">
+				<source>Path</source>
+				<target state="translated">Percorso</target>
+			</trans-unit>
+			<trans-unit id="column.wsSwapColumn" approved="yes">
+				<source>Swap workspace</source>
+				<target state="translated">Scambia workspace</target>
+			</trans-unit>
+			<trans-unit id="column.wsTitle" approved="yes">
+				<source>Changed</source>
+				<target state="translated">Cambiato</target>
+			</trans-unit>
+			<trans-unit id="comments" approved="yes">
+				<source>User comments for &lt;b&gt;step {0} of stage&lt;/b&gt; "{1}"</source>
+				<target state="translated">Commento utente per lo &lt;b&gt;step {0} dello stage&lt;/b&gt; "{1}"</target>
+			</trans-unit>
+			<trans-unit id="current_step" approved="yes">
+				<source>&lt;b&gt;Current stage step&lt;/b&gt;: {0} (&lt;b&gt;{1}&lt;/b&gt;/{2})</source>
+				<target state="translated">&lt;b&gt;Step stage corrente&lt;/b&gt;: {0} (&lt;b&gt;{1}&lt;/b&gt;/{2})</target>
+			</trans-unit>
+			<trans-unit id="editorInLive" xml:space="preserve" approved="yes">
+				<source>You are in LIVE workspace. You have to select a draft workspace before you can review and
+					publish changes.
+				</source>
+			<target state="translated">Sei nel Workspace LIVE. Devi selezionare un workspace di lavoro prima di poter revisionare e pubblicare modifiche.</target></trans-unit>
+			<trans-unit id="error.getStageTitle.stageNotFound" approved="yes">
+				<source>Stage not found</source>
+				<target state="translated">Stage non trovato</target>
+			</trans-unit>
+			<trans-unit id="error.noResponse" approved="yes">
+				<source>The server did not send any response whether the action was successful.</source>
+				<target state="translated">Il server non ha inviato alcuna risposta anche se l'operazione è stato completata con successo.</target>
+			</trans-unit>
+			<trans-unit id="error.sendToNextStage.noRecordFound" approved="yes">
+				<source>The record element could not be found.</source>
+				<target state="translated">Il record dell'elemento non è stato trovato</target>
+			</trans-unit>
+			<trans-unit id="error.sendToPrevStage.noPreviousStage" approved="yes">
+				<source>The record element is already in editing stage, there is no previous stage.</source>
+				<target state="translated">Il record dell'elemento è già nello stage Modifica, non esiste uno stage precedente.</target>
+			</trans-unit>
+			<trans-unit id="error.stageId.integer" approved="yes">
+				<source>StageId is supposed to be an integer</source>
+				<target state="translated">Lo StageId dovrebbe essere un numero intero</target>
+			</trans-unit>
+			<trans-unit id="error.stageId.invalid" xml:space="preserve" approved="yes">
+				<source>The stage to be used seems to be invalid and cannot be used. Please consider to use the update
+					wizard in the install tool to fix this.
+				</source>
+			<target state="translated">Lo stage che si desidera utilizzare sembrerebbe non valido . Si provi ad utilizzare l'update wizard
+					dell'install tool per rimediare.
+				</target></trans-unit>
+			<trans-unit id="info.elementAlreadyModified" approved="yes">
+				<source>Element is in workspace stage "%s", modifications will send it back to "%s".</source>
+				<target state="translated">L'elemento si trova nello stage di workspace "%s", le modifiche lo sposteranno indietro in "%s".</target>
+			</trans-unit>
+			<trans-unit id="info.newpage" approved="yes">
+				<source>New Page!</source>
+				<target state="translated">Nuova Pagina!</target>
+			</trans-unit>
+			<trans-unit id="info.newpage.detail" approved="yes">
+				<source>The previewed page has been created in a workspace and has no live counterpart.</source>
+				<target state="translated">La pagina in anteprima è stata creata in un workspace e non ha una controparte "live".</target>
+			</trans-unit>
+			<trans-unit id="integrity.dependsOnDefaultLanguageRecord" approved="yes">
+				<source>Record "%s" depends on default language record</source>
+				<target state="translated">Il record "%s" dipende dal record con lingua di default</target>
+			</trans-unit>
+			<trans-unit id="integrity.hasIssuesDescription" approved="yes">
+				<source>The integrity check discovered several issues, see status icons infront of each record for further details.</source>
+				<target state="translated">Il controllo di integritá ha evidenziato diversi problemi, controlla lo stato delle icone di ogni record per ulteriori dettagli.</target>
+			</trans-unit>
+			<trans-unit id="integrity.hasIssuesQuestion" approved="yes">
+				<source>Do you want to continue?</source>
+				<target state="translated">Vuoi continuare?</target>
+			</trans-unit>
+			<trans-unit id="integrity.isDefaultLanguageRecord" approved="yes">
+				<source>Default language record for record "%s"</source>
+				<target state="translated">Record con lingua di default per il record "%s"</target>
+			</trans-unit>
+			<trans-unit id="item" approved="yes">
+				<source>item</source>
+				<target state="translated">elemento</target>
+			</trans-unit>
+			<trans-unit id="items" approved="yes">
+				<source>items</source>
+				<target state="translated">elementi</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_discard" approved="yes">
+				<source>Discard</source>
+				<target state="translated">Scartare</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_generatePreviewLinks" approved="no">
+				<source>Generate Workspace Preview Links</source>
+				<target state="needs-translation">Genera link di anterpima del workspace</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_publish" approved="yes">
+				<source>Publish</source>
+				<target state="translated">Pubblicare</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_swap" approved="yes">
+				<source>Swap</source>
+				<target state="translated">Scambiare</target>
+			</trans-unit>
+			<trans-unit id="language.allLanguages" approved="yes">
+				<source>all languages</source>
+				<target state="translated">tutte le lingue</target>
+			</trans-unit>
+			<trans-unit id="language.selectLanguage" approved="yes">
+				<source>all languages</source>
+				<target state="translated">tutte le lingue</target>
+			</trans-unit>
+			<trans-unit id="legend.deleted" approved="yes">
+				<source>deleted</source>
+				<target state="translated">eliminato</target>
+			</trans-unit>
+			<trans-unit id="legend.edited" approved="yes">
+				<source>edited</source>
+				<target state="translated">modificato</target>
+			</trans-unit>
+			<trans-unit id="legend.hidden" approved="yes">
+				<source>hidden</source>
+				<target state="translated">nascosto</target>
+			</trans-unit>
+			<trans-unit id="legend.label" approved="yes">
+				<source>Legend:</source>
+				<target state="translated">Legenda:</target>
+			</trans-unit>
+			<trans-unit id="legend.moved" approved="yes">
+				<source>moved</source>
+				<target state="translated">spostato</target>
+			</trans-unit>
+			<trans-unit id="legend.new" approved="yes">
+				<source>created</source>
+				<target state="translated">creato</target>
+			</trans-unit>
+			<trans-unit id="live_workspace" approved="yes">
+				<source>Live Workspace</source>
+				<target state="translated">Workspace Live</target>
+			</trans-unit>
+			<trans-unit id="ok" approved="no">
+				<source>Ok</source>
+				<target state="needs-translation">ok</target>
+			</trans-unit>
+			<trans-unit id="path" approved="yes">
+				<source>&lt;b&gt;Path&lt;/b&gt;: {0}</source>
+				<target state="translated">&lt;b&gt;Path&lt;/b&gt;: {0}</target>
+			</trans-unit>
+			<trans-unit id="previewLink" approved="yes">
+				<source>Preview Link</source>
+				<target state="translated">Link di Anteprima</target>
+			</trans-unit>
+			<trans-unit id="preview.listView" approved="yes">
+				<source>List view</source>
+				<target state="translated">Vista Elenco</target>
+			</trans-unit>
+			<trans-unit id="preview.livePreview" approved="yes">
+				<source>Live</source>
+				<target state="translated">Live</target>
+			</trans-unit>
+			<trans-unit id="preview.livePreviewDetail" approved="yes">
+				<source>Click this element to hide the workspace version and see the live version of the page.</source>
+				<target state="translated">Cliccare questo elemento per nascondere la versione di workspace e visualizzare la versione live della pagina.</target>
+			</trans-unit>
+			<trans-unit id="preview.modeHbox" approved="yes">
+				<source>Horizontal</source>
+				<target state="translated">Orizzontale</target>
+			</trans-unit>
+			<trans-unit id="preview.modeSlider" approved="yes">
+				<source>Slider</source>
+				<target state="translated">Slider</target>
+			</trans-unit>
+			<trans-unit id="preview.modeVbox" approved="yes">
+				<source>Vertical</source>
+				<target state="translated">Verticale</target>
+			</trans-unit>
+			<trans-unit id="preview.visualPreview" approved="yes">
+				<source>Visual preview</source>
+				<target state="translated">Anteprima visuale</target>
+			</trans-unit>
+			<trans-unit id="preview.workspacePreview" approved="yes">
+				<source>Workspace</source>
+				<target state="translated">Workspace</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="preview.workspacePreviewDetail" approved="yes">
+				<source>Click this element to hide the live version and see the workspace version of the page.</source>
+				<target state="translated">Cliccare questo elemento per nascondere la versione live e visualizzare la versione di workspace della pagina.</target>
+			</trans-unit>
+			<trans-unit id="publish_execute_action_option" approved="yes">
+				<source>Publish to LIVE</source>
+				<target state="translated">Pubblica LIVE</target>
+			</trans-unit>
+			<trans-unit id="recordsToDisplay" approved="yes">
+				<source>Records to display</source>
+				<target state="translated">Elementi da mostrare</target>
+			</trans-unit>
+			<trans-unit id="reviewandpublish" approved="yes">
+				<source>review and publish</source>
+				<target state="translated">revisiona e pubblica</target>
+			</trans-unit>
+			<trans-unit id="rowDetails" approved="yes">
+				<source>Row details...</source>
+				<target state="translated">Riga dei dettagli...</target>
+			</trans-unit>
+			<trans-unit id="runMassAction.done" approved="yes">
+				<source>Done processing %d elements</source>
+				<target state="translated">Elaborazione di %d elementi terminata</target>
+			</trans-unit>
+			<trans-unit id="runMassAction.init" approved="yes">
+				<source>init</source>
+				<target state="translated">init</target>
+			</trans-unit>
+			<trans-unit id="stage" approved="yes">
+				<source>Stage {0}</source>
+				<target state="translated">Stage {0}</target>
+			</trans-unit>
+			<trans-unit id="status.error" approved="yes">
+				<source>Error</source>
+				<target state="translated">Errore</target>
+			</trans-unit>
+			<trans-unit id="status.info" approved="yes">
+				<source>Information</source>
+				<target state="translated">Informazione</target>
+			</trans-unit>
+			<trans-unit id="status.warning" approved="yes">
+				<source>Warning</source>
+				<target state="translated">Attenzione</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Workspaces</source>
+				<target state="translated">Workspaces</target>
+			</trans-unit>
+			<trans-unit id="tooltip.affectWholeWorkspace" xml:space="preserve" approved="yes">
+				<source>Please note that this will affect all changes in the current workspace, which may be more than
+					you are currently seeing on your screen.
+				</source>
+			<target state="translated">Attenzione che ciò coinvolgerà tutte le modifiche al workspace corrente, che potrebbero essere di più
+					di quante ne state visualizzando sullo schermo.
+				</target></trans-unit>
+			<trans-unit id="tooltip.discardAll" approved="yes">
+				<source>Do you really want to discard changes from the whole workspace?</source>
+				<target state="translated">Siete sicuri di voler scartare le modifiche dallìintero workspace?</target>
+			</trans-unit>
+			<trans-unit id="tooltip.discardSelected">
+				<source>Really discard changes of the selected elements?</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="erredeco">
+					<target>Sei sicuro di voler ignorare le modifiche degli elementi selezionati?</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tooltip.discardVersion" approved="yes">
+				<source>Discard workspace version of record.</source>
+				<target state="translated">Scarta la versione in workspace del record.</target>
+			</trans-unit>
+			<trans-unit id="tooltip.editElementAction" approved="yes">
+				<source>Edit element</source>
+				<target state="translated">Modifica elemento</target>
+			</trans-unit>
+			<trans-unit id="tooltip.generatePagePreview" approved="no">
+				<source>Generate page preview links</source>
+				<target state="needs-translation">Genera anteprima di pagina</target>
+			</trans-unit>
+			<trans-unit id="tooltip.openPage" approved="yes">
+				<source>Open version of page</source>
+				<target state="translated">Apri la versione della pagina</target>
+			</trans-unit>
+			<trans-unit id="tooltip.publishAll" approved="yes">
+				<source>Really publish entire workspace?</source>
+				<target state="translated">Pronto a pubblicare l'intero workspace?</target>
+			</trans-unit>
+			<trans-unit id="tooltip.publishSelected">
+				<source>Really publish selected elements?</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="erredeco">
+					<target>Sei sicuro di voler pubblicare gli elementi selezionati?</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tooltip.sendToNextStage" approved="yes">
+				<source>Send record to next Stage</source>
+				<target state="translated">Invia il record allo stage successivo</target>
+			</trans-unit>
+			<trans-unit id="tooltip.sendToPrevStage" approved="yes">
+				<source>Send record to previous Stage</source>
+				<target state="translated">Invia il record allo stage precedente</target>
+			</trans-unit>
+			<trans-unit id="tooltip.showHistory" approved="yes">
+				<source>Show history of workspace version</source>
+				<target state="translated">Mostra la cronologia delle versioni in workspace</target>
+			</trans-unit>
+			<trans-unit id="tooltip.swap" approved="yes">
+				<source>Swap live and workspace versions of record</source>
+				<target state="translated">Scambia versione live e workspace del record</target>
+			</trans-unit>
+			<trans-unit id="tooltip.swapAll" approved="yes">
+				<source>Really swap entire workspace?</source>
+				<target state="translated">Switchare completamente l'intero workspace?</target>
+			</trans-unit>
+			<trans-unit id="tooltip.swapSelected">
+				<source>Really swap selected elements?</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tooltip.viewElementAction" approved="yes">
+				<source>Preview element</source>
+				<target state="translated">Anteprima elemento</target>
+			</trans-unit>
+			<trans-unit id="warning.oldStyleWorkspaceInUser" xml:space="preserve" approved="yes">
+				<source>It seems that you're still using old-style workspace. Please use the update scripts in the TYPO3
+					Install Tool to run the necessary updates. If you continue using this module without migrating your
+					workspace you might loose data.
+				</source>
+			<target state="translated">Sembra si stia utilizzando una vecchia versione di workspace. Si utilizzino gli script per aggiornare TYPO3
+					tramite l'Install Tool. Continuando a usare questo modulo senza aggiornare workspaces
+					si potrebbero perdere dei dati.
+				</target></trans-unit>
+			<trans-unit id="window.discardAll.message" approved="yes">
+				<source>Do you really want to discard all versions from page?</source>
+				<target state="translated">Siete sicuri di voler scartare tutte le versioni dalla pagina?</target>
+			</trans-unit>
+			<trans-unit id="window.discardAll.title" approved="yes">
+				<source>Discard all workspace version of current page.</source>
+				<target state="translated">Scarta tutte le versioni workspace della pagina corrente</target>
+			</trans-unit>
+			<trans-unit id="window.discard.message" approved="yes">
+				<source>Do you really want to discard this version from workspace?</source>
+				<target state="translated">Siete sicuri di voler scartare questa versione dal workspace?</target>
+			</trans-unit>
+			<trans-unit id="window.discard.title" approved="yes">
+				<source>Discard workspace version of record.</source>
+				<target state="translated">Scarta la versione workspace del record.</target>
+			</trans-unit>
+			<trans-unit id="window.massAction.title" approved="yes">
+				<source>Prepare to start mass action</source>
+				<target state="translated">Preparazione per l'attivazione di una operazione massiva</target>
+			</trans-unit>
+			<trans-unit id="window.selectionAction.title">
+				<source>Prepare to execute actions on selection</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="erredeco">
+					<target>Esecuzione delle azioni selezionate in corso</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="window.sendToNextStageWindow.additionalRecipients" approved="yes">
+				<source>Additional recipients</source>
+				<target state="translated">Destinatari aggiuntivi</target>
+			</trans-unit>
+			<trans-unit id="window.sendToNextStageWindow.comments" approved="yes">
+				<source>Comments</source>
+				<target state="translated">Commenti</target>
+			</trans-unit>
+			<trans-unit id="window.sendToNextStageWindow.itemsWillBeSentTo" approved="yes">
+				<source>The selected element(s) will be sent to</source>
+				<target state="translated">Gli elementi selezionati verranno inviati a</target>
+			</trans-unit>
+			<trans-unit id="window.sendToNextStageWindow.sendMailTo" approved="yes">
+				<source>Send mail to</source>
+				<target state="translated">Invia e-mail a</target>
+			</trans-unit>
+			<trans-unit id="window.swap.message" approved="yes">
+				<source>Do you really want to swap this version?</source>
+				<target state="translated">Siete sicuri di voler scambiare questa versione?</target>
+			</trans-unit>
+			<trans-unit id="window.swap.title" approved="yes">
+				<source>Swap version</source>
+				<target state="translated">Scambia versioni</target>
+			</trans-unit>
+			<trans-unit id="workspacelist" approved="yes">
+				<source>Workspace List</source>
+				<target state="translated">Elenco Workspace</target>
+			</trans-unit>
+			<trans-unit id="workspace_version" approved="yes">
+				<source>Workspace version</source>
+				<target state="translated">Versione workspace</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

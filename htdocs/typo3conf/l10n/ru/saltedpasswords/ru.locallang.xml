@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="ext.saltedpasswords.tasks.bulkupdate.description">Обновление всех паролей внешних и внутренних пользователей в salted хешированые. По завершении эта задача деактивирует сама себя самостоятельно.</label>
+			<label index="ext.saltedpasswords.tasks.bulkupdate.invalidNumberOfRecords">Количество записей, обрабатываемых за проход должно быть положительным целым числом.</label>
+			<label index="ext.saltedpasswords.tasks.bulkupdate.label.additionalinformation.deactivateself">Отключить=</label>
+			<label index="ext.saltedpasswords.tasks.bulkupdate.label.additionalinformation.numberofrecords">Количество записей=</label>
+			<label index="ext.saltedpasswords.tasks.bulkupdate.label.canDeactivateSelf">Отключить после преобразования всех записей</label>
+			<label index="ext.saltedpasswords.tasks.bulkupdate.label.numberOfRecords">Количество записей, обрабатываемых за проход</label>
+			<label index="ext.saltedpasswords.tasks.bulkupdate.name">Преобразовать пароли пользователей в salted хешированные</label>
+			<label index="ext.saltedpasswords.title.blowfishsalt">Blowfish salted хеширование (расширенное)</label>
+			<label index="ext.saltedpasswords.title.md5salt">MD5 salted хеширование (безопасное)</label>
+			<label index="ext.saltedpasswords.title.phpasssalt">Портативное хеширование пароля PHP (phpass)</label>
+			<label index="ext.saltedpasswords.title.tx_saltedpasswords_salts_blowfish">Blowfish salted хеширование (расширенное)</label>
+			<label index="ext.saltedpasswords.title.tx_saltedpasswords_salts_md5">MD5 salted хеширование (безопасное)</label>
+			<label index="ext.saltedpasswords.title.tx_saltedpasswords_salts_phpass">Портативное хеширование пароля PHP (phpass)</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

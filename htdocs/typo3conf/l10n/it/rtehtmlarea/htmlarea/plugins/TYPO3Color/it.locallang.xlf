@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:44:14Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="color_title" approved="yes">
+				<source>Choose a color</source>
+				<target state="translated">Selezionare un colore</target>
+			</trans-unit>
+			<trans-unit id="ForeColor" approved="yes">
+				<source>Text Color</source>
+				<target state="translated">Colore Testo</target>
+			</trans-unit>
+			<trans-unit id="ForeColor_title">
+				<source>Set the text color</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="HiliteColor">
+				<source>Background Color</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="HiliteColor_title">
+				<source>Set the background color</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="no_color" approved="yes">
+				<source>No color</source>
+				<target state="translated">Nessun colore</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

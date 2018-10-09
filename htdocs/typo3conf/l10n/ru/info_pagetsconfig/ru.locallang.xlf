@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T01:57:04Z" product-name="info_pagetsconfig">
+		<header/>
+		<body>
+			<trans-unit id="editThisColumn" approved="yes">
+				<source>Edit the field '%s' for all listed pages</source>
+				<target state="translated">Редактировать поле '%s' для всех указанных страниц</target>
+			</trans-unit>
+			<trans-unit id="editTSconfig" approved="yes">
+				<source>Edit TSconfig for this page</source>
+				<target state="translated">Редактировать TSconfig для текущей страницы</target>
+			</trans-unit>
+			<trans-unit id="editTSconfig_all" approved="yes">
+				<source>Edit TSconfig for all shown pages</source>
+				<target state="translated">Редактировать TSconfig для всех показанных страниц</target>
+			</trans-unit>
+			<trans-unit id="editTSconfig_default" approved="yes">
+				<source>Default Configuration from TYPO3_CONF_VARS</source>
+				<target state="translated">Конфигурация по умолчанию из TYPO3_CONF_VARS</target>
+			</trans-unit>
+			<trans-unit id="mod_pagetsconfig" approved="yes">
+				<source>Page TSconfig</source>
+				<target state="translated">TSconfig страницы</target>
+			</trans-unit>
+			<trans-unit id="sort_alphabetic" approved="no">
+				<source>Sort alphabetically</source>
+				<target state="needs-translation">Сортировка по алфавиту:</target>
+			</trans-unit>
+			<trans-unit id="tsconf_configFields" approved="yes">
+				<source>View TSconfig fields content</source>
+				<target state="translated">Просмотреть значения полей TSconfig</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_0" approved="yes">
+				<source>All</source>
+				<target state="translated">Всё</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1" approved="yes">
+				<source>Module key ('mod') with overruling user settings</source>
+				<target state="translated">Ключ модуля ('mod') с переназначением настроек пользователя</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1a" approved="yes">
+				<source>Module: Web&gt;Page</source>
+				<target state="translated">Модуль: Веб&gt;Страница</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1b" approved="yes">
+				<source>Module: Web&gt;View</source>
+				<target state="translated">Модуль: Веб&gt;Просмотр</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1c" approved="yes">
+				<source>Module: Web&gt;Modules</source>
+				<target state="translated">Модуль: Веб&gt;Модули</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1d" approved="yes">
+				<source>Module: Web&gt;List</source>
+				<target state="translated">Модуль: Веб&gt;Список</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1e" approved="yes">
+				<source>Module: Web&gt;Info</source>
+				<target state="translated">Модуль: Веб&gt;Инфо</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1f" approved="yes">
+				<source>Module: Web&gt;Func</source>
+				<target state="translated">Модуль: Веб&gt;Функции</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1g" approved="yes">
+				<source>Module: Web&gt;Template</source>
+				<target state="translated">Модуль: Веб&gt;Шаблон</target>
+			</trans-unit>
+			<trans-unit id="tsconf_title" approved="yes">
+				<source>Page TSconfig</source>
+				<target state="translated">TSconfig страницы</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

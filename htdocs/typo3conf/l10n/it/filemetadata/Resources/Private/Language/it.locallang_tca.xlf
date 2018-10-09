@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-30T01:13:48Z" product-name="filemetadata">
+		<header/>
+		<body>
+			<trans-unit id="fe_groups.files" approved="yes">
+				<source>Allowed files</source>
+				<target state="translated">File consentiti</target>
+			</trans-unit>
+			<trans-unit id="palette.content_date" approved="yes">
+				<source>Content Date</source>
+				<target state="translated">Data del contenuto</target>
+			</trans-unit>
+			<trans-unit id="palette.geo_location" approved="yes">
+				<source>Geo Location</source>
+				<target state="translated">Geolocalizzazione</target>
+			</trans-unit>
+			<trans-unit id="palette.metrics" approved="yes">
+				<source>Metrics</source>
+				<target state="translated">Metriche</target>
+			</trans-unit>
+			<trans-unit id="palette.visibility" approved="yes">
+				<source>Visibility</source>
+				<target state="translated">Visibilità</target>
+			</trans-unit>
+			<trans-unit id="placeholder.keywords" approved="yes">
+				<source>Keyword #1, keyword #2, ...</source>
+				<target state="translated">Parola chiave #1, Parola chiave #2, ...</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.caption" approved="yes">
+				<source>Caption</source>
+				<target state="translated">Didascalia</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.color_space" approved="yes">
+				<source>Color Space</source>
+				<target state="translated">Spazio di colore</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.content_creation_date" approved="yes">
+				<source>Content Creation Date</source>
+				<target state="translated">Data di creazione</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.content_modification_date" approved="yes">
+				<source>Content Modification Date</source>
+				<target state="translated">Data di modifica</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.creator" approved="yes">
+				<source>Creator</source>
+				<target state="translated">Creatore</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.creator_tool" approved="yes">
+				<source>Creator Tool</source>
+				<target state="translated">Strumento di Creazione</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.download_name" approved="yes">
+				<source>Download Name</source>
+				<target state="translated">Nome per il Download</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.duration" approved="yes">
+				<source>Duration (in seconds)</source>
+				<target state="translated">Durata (in secondi)</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.fe_groups" approved="yes">
+				<source>Frontend Permission</source>
+				<target state="translated">Permessi Frontend</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.height" approved="yes">
+				<source>Height</source>
+				<target state="translated">Altezza</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.keywords" approved="yes">
+				<source>Keywords</source>
+				<target state="translated">Keywords</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.language" approved="yes">
+				<source>File Language</source>
+				<target state="translated">Lingua del file</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.latitude" approved="yes">
+				<source>Latitude</source>
+				<target state="translated">Latitudine</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.location_city" approved="yes">
+				<source>City</source>
+				<target state="translated">Città</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.location_country" approved="yes">
+				<source>Country</source>
+				<target state="translated">Nazione</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.location_region" approved="yes">
+				<source>Region</source>
+				<target state="translated">Regione</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.longitude" approved="yes">
+				<source>Longitude</source>
+				<target state="translated">Longitudine</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.note" approved="yes">
+				<source>Note</source>
+				<target state="translated">Nota</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.pages" approved="yes">
+				<source>Number of Pages</source>
+				<target state="translated">Numero di Pagine</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.publisher" approved="yes">
+				<source>Publisher</source>
+				<target state="translated">Pubblicatore</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.ranking" approved="yes">
+				<source>Ranking</source>
+				<target state="translated">Ranking</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.source" approved="yes">
+				<source>Source</source>
+				<target state="translated">Origine</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.status" approved="yes">
+				<source>Status</source>
+				<target state="translated">Stato</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.status.1" approved="yes">
+				<source>Ok</source>
+				<target state="translated">Ok</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.status.2" approved="yes">
+				<source>Pending</source>
+				<target state="translated">In attesa</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.status.3" approved="yes">
+				<source>Under review</source>
+				<target state="translated">In revisione</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.unit" approved="yes">
+				<source>Unit</source>
+				<target state="translated">Unità</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.visible" approved="yes">
+				<source>Visible</source>
+				<target state="translated">Visibile</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata.width" approved="yes">
+				<source>Width</source>
+				<target state="translated">Larghezza</target>
+			</trans-unit>
+			<trans-unit id="tabs.metadata" approved="yes">
+				<source>Metadata</source>
+				<target state="translated">Metadati</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:44:13Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="expand" approved="yes">
+				<source>Expand category</source>
+				<target state="translated">Espandi categoria</target>
+			</trans-unit>
+			<trans-unit id="filesize" approved="yes">
+				<source>Filesize</source>
+				<target state="translated">Dimensioni file</target>
+			</trans-unit>
+			<trans-unit id="noTextSelection" approved="yes">
+				<source>Error: There was no selected text to wrap.</source>
+				<target state="translated">Errore: nessun testo selezionato.</target>
+			</trans-unit>
+			<trans-unit id="noTitle" approved="yes">
+				<source>No title</source>
+				<target state="translated">Nessun titolo</target>
+			</trans-unit>
+			<trans-unit id="pixels" approved="yes">
+				<source>Pixels</source>
+				<target state="translated">Pixels</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

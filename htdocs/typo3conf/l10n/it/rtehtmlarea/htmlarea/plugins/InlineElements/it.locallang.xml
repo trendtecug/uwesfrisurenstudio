@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="BiDiOverride-Tooltip"/>
+			<label index="Big-Tooltip"/>
+			<label index="Bold-Tooltip"/>
+			<label index="Citation-Tooltip"/>
+			<label index="Code-contextMenuTitle"/>
+			<label index="Code-Tooltip"/>
+			<label index="Definition-Tooltip"/>
+			<label index="DeletedText-Tooltip"/>
+			<label index="Emphasis-Tooltip"/>
+			<label index="FormatText-Tooltip"/>
+			<label index="InsertedText-Tooltip"/>
+			<label index="Italic-Tooltip"/>
+			<label index="Keyboard-contextMenuTitle"/>
+			<label index="Keyboard-Tooltip"/>
+			<label index="MonoSpaced-Tooltip"/>
+			<label index="No markup"/>
+			<label index="Quotation-contextMenuTitle"/>
+			<label index="Quotation-Tooltip"/>
+			<label index="Remove markup"/>
+			<label index="Sample-contextMenuTitle"/>
+			<label index="Sample-Tooltip"/>
+			<label index="Small-Tooltip"/>
+			<label index="Span-Tooltip"/>
+			<label index="StrikeThrough-Tooltip"/>
+			<label index="Strong-Tooltip"/>
+			<label index="Subscript-Tooltip"/>
+			<label index="Superscript-Tooltip"/>
+			<label index="Technische Universitat Ilmenau"/>
+			<label index="Underline-Tooltip"/>
+			<label index="Variable-contextMenuTitle"/>
+			<label index="Variable-Tooltip"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

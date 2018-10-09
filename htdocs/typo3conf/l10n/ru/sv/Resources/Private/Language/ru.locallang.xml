@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="any">Любой</label>
+			<label index="available">Доступен</label>
+			<label index="externals">Внешние</label>
+			<label index="externals_explanation">Столбец "внешние" показывает, на какие внешние программы опирается указанная служба. Если такая программа отсутствует или недоступна для выполнения, служба будет недоступной. Пути поиска выполнимых программ указаны в конце отчёта.</label>
+			<label index="no_search_paths"/>
+			<label index="os">ОС</label>
+			<label index="path">Путь</label>
+			<label index="priority">Приоритет</label>
+			<label index="quality">Качество</label>
+			<label index="report_description">Список всех установленных служб с информацией и статусом по каждой из них.</label>
+			<label index="report_explanation">Этот отчёт выводит все установленные службы с детально информацией по ним. Службы упорядочены по типу, приоритету и качеству. Недоступные службы выделены статусом ошибки.</label>
+			<label index="report_title">Установленные службы</label>
+			<label index="search_paths">Настроенные пути поиска внешних программ</label>
+			<label index="service">Служба</label>
+			<label index="service_type">Тип службы: %s</label>
+			<label index="subtypes">Подтипы</label>
+			<label index="valid">Корректен</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index=".alttitle">htmlArea RTE &gt; Очистить вставляемое</label>
+			<label index="behaviour.alttitle">Выбор поведения при вставке</label>
+			<label index="behaviour.description">Выберете поведение при вставке из трех альтернативных.</label>
+			<label index="behaviour.details">При включении "Очистки вставляемого" из панели инструментов редактора, содержимое из буфера обмена, перед помещением в область редактирования будет преобразовано следующим образом: - обычный текст: удаляется вся разметка HTML; - только структура: остается лишь разметка структуры HTML, а все теги форматирования удаляются; - структура и основное форматирование: остается как разметка HTML для структуры, так и основное форматирование для встроенных элементов HTML. Используемое при включении очистки содержимого буфера обмена поведение можно установить либо в настройках для внутреннего пользователя TYPO3, либо в диалоге "Поведение при очистке вставляемого". Если поведение не определено, по умолчанию используется "вставлять как простой текст". Диалог "Поведение при очистке вставляемого" выводится щелчком по кнопке "Поведение при очистке вставляемого" на панели инструментов редактора.</label>
+			<label index="behaviour.seeAlso">xEXT_rtehtmlarea_PlainText:plainText,xEXT_rtehtmlarea_PlainText:pasteStructure,xEXT_rtehtmlarea_PlainText:pasteFormat,_MOD_user_setup</label>
+			<label index=".description">Возможность очистки содержимого, вставляемого в область редактирования из внешнего источника.</label>
+			<label index=".details">Такая возможность полезна при вставке текста, скопированного в буфер обмена из любых внешних источников. Кнопка "Очистить вставляемое" позволяет переключаться между режимом очистки и обычным режимом. Щелчок по кнопке "Очистить вставляемое" включает режим очистки. При этом ничего не будет вставлено, просто включает режим очистки, в котором содержимое буфера обмена определенным образом преобразуется перед помещением в область редактирования. Новый щелчок по кнопке выключает режим очистки, после чего содержимое буфера обмена не преобразуется перед помещением в область редактирования.</label>
+			<label index=".image">EXT:rtehtmlarea/extensions/PlainText/skin/images/paste-toggle.gif, EXT:rtehtmlarea/extensions/PlainText/skin/images/paste-behaviour.gif</label>
+			<label index=".image_descr">Значок "Очистить вставку" в панели инструментов редактора. Щелчок по нему изменяет поведение при вставке содержимого из буфера обмена в область редактирования. Значок "Поведение при очистки вставляемого" в панели инструментов редактора. Щелчок по нему открывает диалог, позволяющий изменить поведение по очистке содержимого буфера обмена.</label>
+			<label index="pasteFormat.alttitle">Вставить структуру и основное форматирование</label>
+			<label index="pasteFormat.description">При включении текущего поведения, в содержимом буфера обмена остаются все теги HTML для структуры документа, наряду с разметкой для форматирования встроенных элементов HTML.</label>
+			<label index="pasteFormat.details">По умолчанию, режим "структура и основное форматирование" означает следующее: - остаются следующие элементы HTML, определяющие структуру: a, p, h[0-6], pre, address, blockquote, div, hr, br, table, thead, tbody, tfoot, caption, tr, th, td, ul, ol, dl, li, dt, dd; - кроме того, остаются встроенные элементы HTML: b, bdo, big, cite, code, del, dfn, em, i, ins, kbd, label, q, samp, small, strike, strong, sub, sup, tt, u, var; - удаляются следующие атрибуты HTML: id, style, class, lang, align, valign, bgcolor, color, border, face, любые атрибуты, начинающиеся с "on", и содержащие ":". Режим по умолчанию можно изменить в TSConfig страницы.</label>
+			<label index="pasteFormat.seeAlso">xEXT_rtehtmlarea_PlainText:behaviour</label>
+			<label index="pasteInPastingPad.description">Содержимое, помещаемое в редактор из буфера обмена будет очищено. Щелкните OK для применения режима очистки.</label>
+			<label index="pasteInPastingPad.details">При использовании Internet Explorer с поведением очистки содержимого буфера обмена "Вставить только структуру" или "Вставить структуру и основное форматирование", содержимое сначала должно быть помещено в буфер обмена. Только после этого оно будет очищено при вставке в область редактирования.</label>
+			<label index="pasteStructure.alttitle">Вставить только структуру</label>
+			<label index="pasteStructure.description">При включении текущего поведения, из содержимого буфера обмена удаляется вся разметка HTML для форматирования элементов, но остаются все теги HTML для структуры документа.</label>
+			<label index="pasteStructure.details">По умолчанию, режим "только структура" означает следующее: - остаются только следующие элементы HTML: a, p, h[0-6], pre, address, blockquote, div, hr, br, table, thead, tbody, tfoot, caption, tr, th, td, ul, ol, dl, li, dt, dd; - удаляются следующие атрибуты HTML: id, style, class, lang, align, valign, bgcolor, color, border, face, любые атрибуты, начинающиеся с "on", и содержащие ":". Режим по умолчанию можно изменить в TSConfig страницы.</label>
+			<label index="pasteStructure.seeAlso">xEXT_rtehtmlarea_PlainText:behaviour</label>
+			<label index="plainText.alttitle">Вставить как простой текст</label>
+			<label index="plainText.description">При включении текущего поведения, из содержимого буфера обмена удаляется вся разметка HTML.</label>
+			<label index="plainText.seeAlso">xEXT_rtehtmlarea_PlainText:behaviour</label>
+			<label index=".seeAlso">xEXT_rtehtmlarea_PlainText:behaviour</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

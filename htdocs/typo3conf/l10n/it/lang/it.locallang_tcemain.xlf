@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-30T02:30:26Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="version_swap.offline_record_updated" approved="yes">
+				<source>Record '%s' (%s) was updated. (Offline version)</source>
+				<target state="translated">Il record '%s' (%s) è stato aggiornato. (versione offline)</target>
+			</trans-unit>
+			<trans-unit id="version_swap.online_record_updated" approved="yes">
+				<source>Record '%s' (%s) was updated. (Online version)</source>
+				<target state="translated">Il record '%s' (%s) è stato aggiornato. (versione online)</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

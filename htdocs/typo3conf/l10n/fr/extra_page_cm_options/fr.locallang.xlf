@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T01:08:43Z" product-name="extra_page_cm_options">
+		<header/>
+		<body>
+			<trans-unit id="label" xml:space="preserve" approved="yes">
+				<source>More options...</source>
+			<target state="translated">Plus d'options ...</target></trans-unit>
+		</body>
+	</file>
+</xliff>

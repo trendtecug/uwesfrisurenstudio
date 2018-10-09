@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="de" datatype="plaintext" original="messages" date="2015-06-13T11:05:54Z" product-name="js_contact_form">
+		<header/>
+		<body>
+		
+			<trans-unit id="plugin-title">
+				<source>Kontakt Formular</source>
+			</trans-unit>
+			<trans-unit id="plugin-description">
+				<source>Hier können Sie verfügbare Felder, Pflichtfelder und andere Einstellungen vornehmen.</source>
+			</trans-unit>
+
+			<trans-unit id="tx_jscontactform_domain_model_contactform">
+				<source>Kontaktformular</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.firstname">
+				<source>Vorname</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.lastname">
+				<source>Nachname</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.enquiry">
+				<source>Anfrage</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.company">
+				<source>Firma</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.url">
+				<source>URL</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.email">
+				<source>E-Mail</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.phone">
+				<source>Telefon</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.fax">
+				<source>Fax</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.address">
+				<source>Addresse</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.zip">
+				<source>PLZ</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.city">
+				<source>Stadt</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.country">
+				<source>Land</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.message">
+				<source>Nachricht</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.subject">
+				<source>Betreff der Email an den Kunden</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.page">
+				<source>Der Kunde hat von folgeneder Seite das Kontaktformular genutzt</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.contact_date">
+				<source>Der Kunde hat an folgendem Datum das Kontaktformular genutzt</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.ip">
+				<source>IP Adresse</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.useragent">
+				<source>User Agent</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_jscontactform_domain_model_contactform.save">
+				<source>Senden</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_jscontactform_domain_model_contactform.required.field.alert">
+				<source>Bitte füllen Sie alle Pflichtfelder aus.</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_jscontactform_domain_model_contactform.blank_firstname">
+				<source>Das Feld Vorname kann nicht leer sein!</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.blank_lastname">
+				<source>Das Feld Nachname kann nicht leer sein!</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.blank_company">
+				<source>Das Feld Firma kann nicht leer sein!</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.blank_url">
+				<source>Das Feld URL kann nicht leer sein!</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.valid_url">
+				<source>Bitte geben Sie eine gültige URL ein</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.blank_email">
+				<source>Das Feld E-Mail Adresse kann nicht leer sein!</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.valid_email">
+				<source>Bitte geben Sie eine gültige E-Mail Adresse ein!</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.blank_phone">
+				<source>Das Feld Telefon kann nicht leer sein!</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.valid_phone">
+				<source>Bitte geben Sie eine gültige Telefonnummer ein!</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.blank_fax">
+				<source>Das Feld Fax kann nicht leer sein!</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.blank_address">
+				<source>Das Feld Adresse kann nicht leer sein!</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.blank_zip">
+				<source>Das Feld PLZ kann nicht leer sein!</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.valid_zip">
+				<source>Bitte geben Sie eine gültige Postleitzahl mit maximal 6 Zeichen ein!</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.blank_city">
+				<source>Das Feld Stadt kann nicht leer sein!</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.blank_country">
+				<source>Das Feld Land kann nicht leer sein!</source>
+			</trans-unit>
+			<trans-unit id="tx_jscontactform_domain_model_contactform.blank_message">
+				<source>Das Feld Nachricht kann nicht leer sein!</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_jscontactform_domain_model_contactform.include_template">
+				<source>Sind Sie sicher, dass Sie das "Main" static Template eingebunden haben?</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_jscontactform_domain_model_contactform.missing_configuration">
+				<source>E-Mail Informationen wie Admin E-Mail, Absender E-Mail, Betreff etc. sind nicht konfiguriert. Bitte konfigurieren Sie die E-Mail Einstellungen im Plugin.</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_jscontactform_domain_model_contactform.errorMessage">
+				<source>Bitte kontaktieren Sie uns noch einmal.</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_jscontactform_domain_model_contactform.dear.sir.madam">
+				<source>Sehr geehrte Damen und Herren</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_jscontactform_domain_model_contactform.user.message_before_contact_data">
+				<source>Ihre eingegebenen Kontaktdaten lauten</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_jscontactform_domain_model_contactform.user.message_after_contact_data">
+				<source>Vielen Dank für Ihre Anfrage. Wir werden uns schnellstmöglich mit Ihnen in Verbindung setzen.</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_jscontactform_domain_model_contactform.admin.message_before_contact_data">
+				<source>Die eingegebenen Kontaktdaten lauten:</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_jscontactform_domain_model_contactform.admin.message_after_contact_data">
+				<source>Ein Kunde hat Ihnen eine Kontaktanfrage gesendet.</source>
+			</trans-unit>
+			
+			<trans-unit id="tx_jscontactform_domain_model_contactform.regards">
+                <source>Mit freundlichen Grüßen</source>
+            </trans-unit>
+            
+            <trans-unit id="tx_jscontactform_domain_model_contactform.regards_name">
+                <source>Stefan Schupp</source>
+            </trans-unit>
+            
+            <trans-unit id="tx_jscontactform_domain_model_contactform.after_regards">
+                <source>Ingenieurbüro Schupp %1$s Drususwall 60 %1$s 55131 Mainz %1$s %1$s E-Mail: s.schupp@schupp-kfz.de %1$s http://www.schupp-kfz.de %1$s %1$s Telefon: 06131 / 574546 %1$s Telefax: 06131 / 574548</source>
+            </trans-unit>
+            
+            <trans-unit id="tx_jscontactform_domain_model_contactform.after_regards2">
+                <source>Der Inhalt dieser E-Mail oder eventueller Anhänge ist ausschließlich für den bezeichneten Adressaten bestimmt. Wenn Sie nicht der vorgesehene Adressat dieser E-Mail oder dessen Vertreter sein sollten, so beachten Sie bitte, dass jede Form der Kenntnisnahme, Veröffentlichung, Vervielfältigung oder Weitergabe des Inhalts dieser E-Mail unzulässig ist. Wir bitten Sie, sich in diesem Fall mit dem Absender der E-Mail in Verbindung zu setzen. </source>
+            </trans-unit>
+            
+            <trans-unit id="tx_jscontactform_domain_model_contactform.after_regards3">
+                <source>Der Umwelt zu Liebe: überlegen Sie, ob Sie diese E-Mail wirklich ausdrucken müssen.</source>
+            </trans-unit>
+            <trans-unit id="tx_jscontactform_domain_model_contactform.after_regards4">
+                <source>This e-mail may contain confidential and/or privileged information. If you are not the intended recipient (or have received this e-mail in error) please notify the sender immediately and delete this e-mail. Any unauthorized copying, disclosure or distribution of the material in this e-mail is strictly forbidden. The above information is automatically added to this e-mail. This addition does not constitute a representation that the content of this e-mail is legally relevant and/or is intended to be legally binding upon KFZ Schupp.</source>
+            </trans-unit>
+            <trans-unit id="tx_jscontactform_domain_model_contactform.after_regards5">
+                <source>Think Before Printing. Please consider the environment before printing.</source>
+            </trans-unit>
+
+		</body>
+	</file>
+</xliff>

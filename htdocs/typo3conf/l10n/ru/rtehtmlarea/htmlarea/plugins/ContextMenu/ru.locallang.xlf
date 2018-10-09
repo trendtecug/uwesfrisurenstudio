@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:10Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Check Link" approved="yes">
+				<source>Chec_k Link</source>
+				<target state="translated">Проверить ссы_лку</target>
+			</trans-unit>
+			<trans-unit id="Copy" approved="yes">
+				<source>Copy</source>
+				<target state="translated">Копировать</target>
+			</trans-unit>
+			<trans-unit id="Create a link" approved="yes">
+				<source>Create a link</source>
+				<target state="translated">Создать ссылку</target>
+			</trans-unit>
+			<trans-unit id="Current URL is" approved="yes">
+				<source>Current URL is</source>
+				<target state="translated">Текущий адрес</target>
+			</trans-unit>
+			<trans-unit id="Cut" approved="yes">
+				<source>Cut</source>
+				<target state="translated">Вырезать</target>
+			</trans-unit>
+			<trans-unit id="Element" approved="yes">
+				<source>Element</source>
+				<target state="translated">Элемент</target>
+			</trans-unit>
+			<trans-unit id="How did you get here? (Please report!)" approved="yes">
+				<source>How did you get here? (Please report!)</source>
+				<target state="translated">Как это Вы сюда попали? Пожалуйста, сообщите разработчикам об этом!</target>
+			</trans-unit>
+			<trans-unit id="Image Properties" approved="yes">
+				<source>_Image Properties</source>
+				<target state="translated">Свойства изображения</target>
+			</trans-unit>
+			<trans-unit id="Insert a paragraph after the current node" approved="yes">
+				<source>Insert a paragraph after the current node</source>
+				<target state="translated">Вставить параграф после текущего элемента</target>
+			</trans-unit>
+			<trans-unit id="Insert a paragraph before the current node" approved="yes">
+				<source>Insert a paragraph before the current node</source>
+				<target state="translated">Вставить параграф перед текущим элементом</target>
+			</trans-unit>
+			<trans-unit id="Insert paragraph after" approved="yes">
+				<source>Insert paragraph after</source>
+				<target state="translated">Вставить параграф ниже</target>
+			</trans-unit>
+			<trans-unit id="Insert paragraph before" approved="yes">
+				<source>Insert paragraph before</source>
+				<target state="translated">Вставить параграф выше</target>
+			</trans-unit>
+			<trans-unit id="JustifyCenter-title" approved="yes">
+				<source>Justify Center</source>
+				<target state="translated">Выключка по центру</target>
+			</trans-unit>
+			<trans-unit id="JustifyCenter-tooltip" approved="yes">
+				<source>Centers the text</source>
+				<target state="translated">Центрировать текст</target>
+			</trans-unit>
+			<trans-unit id="JustifyFull-title" approved="yes">
+				<source>Justify Full</source>
+				<target state="translated">Выключка по ширине</target>
+			</trans-unit>
+			<trans-unit id="JustifyFull-tooltip" approved="yes">
+				<source>Aligns text both to the left and the right</source>
+				<target state="translated">Выровнять текст по ширине</target>
+			</trans-unit>
+			<trans-unit id="JustifyLeft-title" approved="yes">
+				<source>Justify Left</source>
+				<target state="translated">Выключка влево</target>
+			</trans-unit>
+			<trans-unit id="JustifyLeft-tooltip" approved="yes">
+				<source>Aligns text to the left</source>
+				<target state="translated">Выровнять текст по левому краю</target>
+			</trans-unit>
+			<trans-unit id="JustifyRight-title" approved="yes">
+				<source>Justify Right</source>
+				<target state="translated">Выключка вправо</target>
+			</trans-unit>
+			<trans-unit id="JustifyRight-tooltip" approved="yes">
+				<source>Aligns text to the right</source>
+				<target state="translated">Выровнять текст по правому краю</target>
+			</trans-unit>
+			<trans-unit id="Link points to:" approved="yes">
+				<source>Link points to:</source>
+				<target state="translated">Ссылка указывает на:</target>
+			</trans-unit>
+			<trans-unit id="Make link" approved="yes">
+				<source>Make lin_k</source>
+				<target state="translated">Создать ссылку</target>
+			</trans-unit>
+			<trans-unit id="Modify Link" approved="yes">
+				<source>_Modify Link</source>
+				<target state="translated">Изменить ссылку</target>
+			</trans-unit>
+			<trans-unit id="Modify URL" approved="yes">
+				<source>Modify URL</source>
+				<target state="translated">Изменить адрес</target>
+			</trans-unit>
+			<trans-unit id="Opens this link in a new window" approved="yes">
+				<source>Opens this link in a new window</source>
+				<target state="translated">Открывает ссылку в новом окне</target>
+			</trans-unit>
+			<trans-unit id="Paste" approved="yes">
+				<source>Paste</source>
+				<target state="translated">Вставить</target>
+			</trans-unit>
+			<trans-unit id="Please confirm remove" approved="yes">
+				<source>Please confirm that you want to remove this element:</source>
+				<target state="translated">Пожалуйста подтвердите, что Вы хотите удалить этот элемент:</target>
+			</trans-unit>
+			<trans-unit id="Please confirm unlink" approved="yes">
+				<source>Please confirm that you want to unlink this element.</source>
+				<target state="translated">Пожалуйста подтвердите, что Вы хотите убрать ссылку с этого элемента.</target>
+			</trans-unit>
+			<trans-unit id="Remove Link" approved="yes">
+				<source>_Remove Link</source>
+				<target state="translated">Удалить ссыл_ку</target>
+			</trans-unit>
+			<trans-unit id="Remove the" approved="yes">
+				<source>Remove the</source>
+				<target state="translated">Удалить</target>
+			</trans-unit>
+			<trans-unit id="Remove this node from the document" approved="yes">
+				<source>Removes this node from the document</source>
+				<target state="translated">Удаление этого элемента с подэлементами из документа</target>
+			</trans-unit>
+			<trans-unit id="Show the image properties dialog" approved="yes">
+				<source>Show the image properties dialog</source>
+				<target state="translated">Показать диалог свойств изображения</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-delete-title" approved="yes">
+				<source>Delete Cell</source>
+				<target state="translated">Удалить ячейку</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-delete-tooltip" approved="yes">
+				<source>Deletes the current cell</source>
+				<target state="translated">Удалить текущую ячейку</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-insert-after-title" approved="yes">
+				<source>Insert cell after</source>
+				<target state="translated">Вставить ячейку после</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-insert-after-tooltip" approved="yes">
+				<source>Inserts a new cell after the current one</source>
+				<target state="translated">Вставить новую ячейку после текущей</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-insert-before-title" approved="yes">
+				<source>Insert cell before</source>
+				<target state="translated">Вставить ячейку перед</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-insert-before-tooltip" approved="yes">
+				<source>Inserts a new cell before the current one</source>
+				<target state="translated">Вставить новую ячейку перед текущей</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-merge-title" approved="yes">
+				<source>Merge Cells</source>
+				<target state="translated">Соединить ячейки</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-merge-tooltip" approved="yes">
+				<source>Merges the selected cells</source>
+				<target state="translated">Соединить выбранные ячейки</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-prop-title" approved="yes">
+				<source>C_ell Properties</source>
+				<target state="translated">Свойства ячейки</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-prop-tooltip" approved="yes">
+				<source>Shows the Table Cell Properties dialogue</source>
+				<target state="translated">Показать диалог свойств ячеек таблицы</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-split-title" approved="yes">
+				<source>Split Cell</source>
+				<target state="translated">Разделить ячейку</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-split-tooltip" approved="yes">
+				<source>Splits the current cell</source>
+				<target state="translated">Разделить текущую ячейку</target>
+			</trans-unit>
+			<trans-unit id="TO-col-delete-title" approved="yes">
+				<source>De_lete Column</source>
+				<target state="translated">Удалить колонку</target>
+			</trans-unit>
+			<trans-unit id="TO-col-delete-tooltip" approved="yes">
+				<source>Deletes the current column</source>
+				<target state="translated">Удалить текущую колонку</target>
+			</trans-unit>
+			<trans-unit id="TO-col-insert-after-title" approved="yes">
+				<source>Insert C_olumn After</source>
+				<target state="translated">Вставить колонку справа</target>
+			</trans-unit>
+			<trans-unit id="TO-col-insert-after-tooltip" approved="yes">
+				<source>Inserts a new column after the current one</source>
+				<target state="translated">Вставить колонку после текущей</target>
+			</trans-unit>
+			<trans-unit id="TO-col-insert-before-title" approved="yes">
+				<source>Insert _Column Before</source>
+				<target state="translated">Вставить колонку слева</target>
+			</trans-unit>
+			<trans-unit id="TO-col-insert-before-tooltip" approved="yes">
+				<source>Inserts a new column before the current one</source>
+				<target state="translated">Вставить колонку перед текущей</target>
+			</trans-unit>
+			<trans-unit id="TO-col-prop-title" approved="yes">
+				<source>Column Cells Properties</source>
+				<target state="translated">Свойства ячеек столбца</target>
+			</trans-unit>
+			<trans-unit id="TO-col-prop-tooltip" approved="yes">
+				<source>Shows the Column Cells Properties dialogue</source>
+				<target state="translated">Показать диалог свойств ячеек столбца</target>
+			</trans-unit>
+			<trans-unit id="TO-col-split-title" approved="yes">
+				<source>Split Column</source>
+				<target state="translated">Разделить колонку</target>
+			</trans-unit>
+			<trans-unit id="TO-col-split-tooltip" approved="yes">
+				<source>Splits the current column</source>
+				<target state="translated">Разделить текущую колонку</target>
+			</trans-unit>
+			<trans-unit id="TO-row-delete-title" approved="yes">
+				<source>_Delete Row</source>
+				<target state="translated">Удалить строку</target>
+			</trans-unit>
+			<trans-unit id="TO-row-delete-tooltip" approved="yes">
+				<source>Deletes the current row</source>
+				<target state="translated">Удалить текущую строку</target>
+			</trans-unit>
+			<trans-unit id="TO-row-insert-above-title" approved="yes">
+				<source>I_nsert Row Before</source>
+				<target state="translated">Вставить строку выше</target>
+			</trans-unit>
+			<trans-unit id="TO-row-insert-above-tooltip" approved="yes">
+				<source>Inserts a new row before the current one</source>
+				<target state="translated">Вставить новую строку перед текущей</target>
+			</trans-unit>
+			<trans-unit id="TO-row-insert-under-title" approved="yes">
+				<source>In_sert Row After</source>
+				<target state="translated">Вставить строку ниже</target>
+			</trans-unit>
+			<trans-unit id="TO-row-insert-under-tooltip" approved="yes">
+				<source>Inserts a new row after the current one</source>
+				<target state="translated">Вставить новую строку после текущей</target>
+			</trans-unit>
+			<trans-unit id="TO-row-prop-title" approved="yes">
+				<source>Ro_w Properties</source>
+				<target state="translated">Свойства строки</target>
+			</trans-unit>
+			<trans-unit id="TO-row-prop-tooltip" approved="yes">
+				<source>Shows the Table Row Properties dialogue</source>
+				<target state="translated">Показать диалог свойств строк таблицы</target>
+			</trans-unit>
+			<trans-unit id="TO-row-split-title" approved="yes">
+				<source>Split Row</source>
+				<target state="translated">Разделить строку</target>
+			</trans-unit>
+			<trans-unit id="TO-row-split-tooltip" approved="yes">
+				<source>Splits the current row</source>
+				<target state="translated">Разделить текущую строку</target>
+			</trans-unit>
+			<trans-unit id="TO-table-prop-title" approved="yes">
+				<source>_Table Properties</source>
+				<target state="translated">_Свойства таблицы</target>
+			</trans-unit>
+			<trans-unit id="TO-table-prop-tooltip" approved="yes">
+				<source>Shows the Table Properties dialogue</source>
+				<target state="translated">Показать диалог свойств таблицы</target>
+			</trans-unit>
+			<trans-unit id="TO-table-restyle-title" approved="yes">
+				<source>Re-apply table styles</source>
+				<target state="translated">Пере-применить стили таблицы</target>
+			</trans-unit>
+			<trans-unit id="TO-table-restyle-tooltip" approved="yes">
+				<source>Re-applies the odd-even styles on the table</source>
+				<target state="translated">Пере-применить стили "зебры" к таблице</target>
+			</trans-unit>
+			<trans-unit id="TO-toggle-borders-title" approved="yes">
+				<source>Toggle borders</source>
+				<target state="translated">Включить границы</target>
+			</trans-unit>
+			<trans-unit id="TO-toggle-borders-tooltip" approved="yes">
+				<source>Toggle borders</source>
+				<target state="translated">Включить границы</target>
+			</trans-unit>
+			<trans-unit id="Unlink the current element" approved="yes">
+				<source>Unlink the current element</source>
+				<target state="translated">Убрать ссылку с этого элемента</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

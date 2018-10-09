@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="mlang_labels_tabdescr">Vous pouvez régler le moteur d'indexation depuis cette page. Vous pouvez aussi consulter ses statistiques.</label>
+			<label index="mlang_labels_tablabel">Voir les statistiques du moteur d'indexation</label>
+			<label index="mlang_tabs_tab">Moteur d'indexation</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

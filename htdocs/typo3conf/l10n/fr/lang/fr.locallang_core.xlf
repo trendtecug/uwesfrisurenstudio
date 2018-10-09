@@ -1,0 +1,1681 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T02:26:59Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="alttext.suggestSearching" approved="yes">
+				<source>Searching...</source>
+				<target state="translated">Recherche en cours...</target>
+			</trans-unit>
+			<trans-unit id="buttons.clear" approved="yes">
+				<source>Clear</source>
+				<target state="translated">Effacer</target>
+			</trans-unit>
+			<trans-unit id="buttons.clipboard" approved="yes">
+				<source>Clipboard</source>
+				<target state="translated">Presse-papier</target>
+			</trans-unit>
+			<trans-unit id="buttons.exit" approved="yes">
+				<source>Exit</source>
+				<target state="translated">Quitter</target>
+			</trans-unit>
+			<trans-unit id="buttons.logout" approved="yes">
+				<source>Logout</source>
+				<target state="translated">Déconnexion</target>
+				<note>"Fermer la session" est plus un langage d'informaticien. "Quitter" ou "Déconnexion" semble plus courant. A noter que lors du "login" au backend TYPO3, le label est bien "Connexion" et non "Ouvrir la session". Erreur de cohérence donc en plus.</note>
+			</trans-unit>
+			<trans-unit id="buttons.selMenu_modules" approved="yes">
+				<source>MODULES</source>
+				<target state="translated">MODULES</target>
+			</trans-unit>
+			<trans-unit id="cm.branchActions" approved="yes">
+				<source>Branch Actions</source>
+				<target state="translated">Actions pour la branche</target>
+			</trans-unit>
+			<trans-unit id="cm.collapseBranch" approved="yes">
+				<source>Collapse Branch</source>
+				<target state="translated">Replier la branche</target>
+			</trans-unit>
+			<trans-unit id="cm.copy" approved="yes">
+				<source>Copy</source>
+				<target state="translated">Copier</target>
+			</trans-unit>
+			<trans-unit id="cm.copyFolder_into" approved="yes">
+				<source>Copy folder into</source>
+				<target state="translated">Copier le dossier dans</target>
+			</trans-unit>
+			<trans-unit id="cm.copyPage_after" approved="yes">
+				<source>Copy page after</source>
+				<target state="translated">Copier la page après</target>
+			</trans-unit>
+			<trans-unit id="cm.copyPage_into" approved="yes">
+				<source>Copy page into</source>
+				<target state="translated">Copier la page dans</target>
+			</trans-unit>
+			<trans-unit id="cm.copyPasteActions" approved="yes">
+				<source>Page Actions</source>
+				<target state="translated">Actions pour la page</target>
+			</trans-unit>
+			<trans-unit id="cm.createnew" approved="yes">
+				<source>Create new</source>
+				<target state="translated">Créer nouveau</target>
+			</trans-unit>
+			<trans-unit id="cm.createnew.link" approved="yes">
+				<source>Create new %s</source>
+				<target state="translated">Créer un nouvel enregistrement %s</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="cm.createNewRelation" approved="yes">
+				<source>Create new relation</source>
+				<target state="translated">Créer une nouvelle relation</target>
+			</trans-unit>
+			<trans-unit id="cm.cut" approved="yes">
+				<source>Cut</source>
+				<target state="translated">Couper</target>
+			</trans-unit>
+			<trans-unit id="cm.delete" approved="yes">
+				<source>Delete</source>
+				<target state="translated">Supprimer</target>
+			</trans-unit>
+			<trans-unit id="cm.deselect" approved="yes">
+				<source>Deselect</source>
+				<target state="translated">Désélectionner</target>
+			</trans-unit>
+			<trans-unit id="cm.deselectto" approved="yes">
+				<source>Deselect to</source>
+				<target state="translated">Désélectionner vers</target>
+			</trans-unit>
+			<trans-unit id="cm.edit" approved="yes">
+				<source>Edit</source>
+				<target state="translated">Éditer</target>
+			</trans-unit>
+			<trans-unit id="cm.editcontent" approved="yes">
+				<source>Edit content</source>
+				<target state="translated">Éditer le contenu</target>
+			</trans-unit>
+			<trans-unit id="cm.editMetadata" approved="yes">
+				<source>Edit Metadata of this file</source>
+				<target state="translated">Éditer les méta-données de ce fichier</target>
+			</trans-unit>
+			<trans-unit id="cm.expandBranch" approved="yes">
+				<source>Expand Branch</source>
+				<target state="translated">Déplier la branche</target>
+			</trans-unit>
+			<trans-unit id="cm.hide" approved="yes">
+				<source>Hide</source>
+				<target state="translated">Cacher</target>
+			</trans-unit>
+			<trans-unit id="cm.info" approved="yes">
+				<source>Info</source>
+				<target state="translated">Info</target>
+			</trans-unit>
+			<trans-unit id="cm.moveFolder_into" approved="yes">
+				<source>Move folder into</source>
+				<target state="translated">Déplacer le dossier dans</target>
+			</trans-unit>
+			<trans-unit id="cm.movePage_after" approved="yes">
+				<source>Move page after</source>
+				<target state="translated">Déplacer la page après</target>
+			</trans-unit>
+			<trans-unit id="cm.movePage_into" approved="yes">
+				<source>Move page into</source>
+				<target state="translated">Déplacer la page dans</target>
+			</trans-unit>
+			<trans-unit id="cm.new" approved="yes">
+				<source>New</source>
+				<target state="translated">Nouveau</target>
+			</trans-unit>
+			<trans-unit id="cm.offline" approved="yes">
+				<source>Turn offline</source>
+				<target state="translated">Travailler hors-ligne</target>
+			</trans-unit>
+			<trans-unit id="cm.online" approved="yes">
+				<source>Turn online</source>
+				<target state="translated">Travailler en ligne</target>
+			</trans-unit>
+			<trans-unit id="cm.open" approved="yes">
+				<source>Open</source>
+				<target state="translated">Ouvrir</target>
+			</trans-unit>
+			<trans-unit id="cm.pasteafter" approved="yes">
+				<source>Paste after</source>
+				<target state="translated">Coller après</target>
+			</trans-unit>
+			<trans-unit id="cm.pasteinto" approved="yes">
+				<source>Paste into</source>
+				<target state="translated">Coller dans</target>
+			</trans-unit>
+			<trans-unit id="cm.rename" approved="yes">
+				<source>Rename</source>
+				<target state="translated">Renommer</target>
+			</trans-unit>
+			<trans-unit id="cm.save" approved="yes">
+				<source>Save</source>
+				<target state="translated">Enregistrer</target>
+			</trans-unit>
+			<trans-unit id="cm.select" approved="yes">
+				<source>Select</source>
+				<target state="translated">Sélectionner</target>
+			</trans-unit>
+			<trans-unit id="cm.selectto" approved="yes">
+				<source>Select to</source>
+				<target state="translated">Sélectionner vers</target>
+			</trans-unit>
+			<trans-unit id="cm.tempMountPoint" approved="yes">
+				<source>Mount as treeroot</source>
+				<target state="translated">Zoomer sur la rubrique</target>
+			</trans-unit>
+			<trans-unit id="cm.unhide" approved="yes">
+				<source>Unhide</source>
+				<target state="translated">Afficher</target>
+			</trans-unit>
+			<trans-unit id="cm.unzip" approved="yes">
+				<source>Unzip</source>
+				<target state="translated">Dézipper</target>
+			</trans-unit>
+			<trans-unit id="cm.upload" approved="yes">
+				<source>Upload Files</source>
+				<target state="translated">Envoyer des fichiers</target>
+			</trans-unit>
+			<trans-unit id="cm.view" approved="yes">
+				<source>Show</source>
+				<target state="translated">Visualiser</target>
+			</trans-unit>
+			<trans-unit id="csh_tooltip_loading" approved="yes">
+				<source>Loading help...</source>
+				<target state="translated">Chargement de l'aide...</target>
+			</trans-unit>
+			<trans-unit id="db_new.php.after" approved="yes">
+				<source>after</source>
+				<target state="translated">après</target>
+			</trans-unit>
+			<trans-unit id="db_new.php.inside" approved="yes">
+				<source>inside</source>
+				<target state="translated">dans</target>
+			</trans-unit>
+			<trans-unit id="db_new.php.pagetitle" approved="yes">
+				<source>New record</source>
+				<target state="translated">Nouvel enregistrement</target>
+			</trans-unit>
+			<trans-unit id="donateWindow.button_disable" approved="yes">
+				<source>Never show again</source>
+				<target state="translated">Ne plus afficher</target>
+			</trans-unit>
+			<trans-unit id="donateWindow.button_donate" approved="yes">
+				<source>Donate now</source>
+				<target state="translated">Faire une donation maintenant</target>
+			</trans-unit>
+			<trans-unit id="donateWindow.button_postpone" approved="yes">
+				<source>Remind me later</source>
+				<target state="translated">Me rappeler plus tard</target>
+			</trans-unit>
+			<trans-unit id="donateWindow.message" approved="yes">
+				<source>&lt;b&gt;You have now used TYPO3 for more than three months.&lt;/b&gt; It would be great if you could donate. TYPO3 is Open Source and relies heavily on donations from its users and supporters.&lt;br/&gt; &lt;b&gt;Thank you&lt;/b&gt; for making this great Content Management System even better with your help!</source>
+				<target state="translated">&lt;strong&gt;Vous avez maintenant utilisé TYPO3 durant 3 mois.&lt;/strong&gt; Ce serait bien si vous pouviez faire une donation. TYPO3 est Open Source et repose fortement sur les donations de ses utilisateurs et supporteurs &lt;br/&gt; &lt;strong&gt;Merci&lt;/strong&gt; de votre aide pour rendre encore meilleur cet excellent outil de gestion de contenu !</target>
+			</trans-unit>
+			<trans-unit id="donateWindow.title" approved="yes">
+				<source>TYPO3 donation notice</source>
+				<target state="translated">Note à propos des donations TYPO3</target>
+			</trans-unit>
+			<trans-unit id="error.database_schema_mismatch" approved="yes">
+				<source>A SQL error occurred. This may indicate a schema mismatch between TCA and the database. Try running database compare in the Install Tool.</source>
+				<target state="translated">Une erreur SQL est apparue. Cela peut indiquer une discordance entre le TCA et la base de données. Essayez de lancer l'outil de comparaison de base de données dans l'Install Tool.</target>
+			</trans-unit>
+			<trans-unit id="error.database_schema_mismatch_title" approved="yes">
+				<source>Database Error</source>
+				<target state="translated">Erreur en base de données</target>
+			</trans-unit>
+			<trans-unit id="error.formProtection.tokenInvalid" approved="yes">
+				<source>Validating the security token of this form has failed. Please reload the form and submit it again.</source>
+				<target state="translated">La validation du jeton de sécurité du formulaire a échoué. Rechargez le formulaire et envoyez-le de nouveau.</target>
+			</trans-unit>
+			<trans-unit id="error.items_proc_func_error" approved="yes">
+				<source>An error occurred trying to process items for field "%1$s" (%2$s).</source>
+				<target state="translated">Une erreur est survenue en essayant de traiter les éléments pour le champ "%1$s" (%2$s).</target>
+			</trans-unit>
+			<trans-unit id="ExtDirect.namespaceError" xml:space="preserve" approved="no">
+				<source>Ext Direct error in "%s" with namespace: "%s"\n
+Try to clear the TYPO3 cache and / or use parameter no_cache=1 as parameter in URL typo3/index.php\n\n
+Check also the following points:\n
+- configuration in ext_localconf.php: registration key should be like "TYPO3.MyExtension.Sample"\n
+- URL typo3/index.php: namespace parameter should be like: "TYPO3.MyExtension"\n
+- javascript: method\'s name should be like: "TYPO3.MyExtension.Sample.myMethod"\n</source>
+			<target state="needs-translation">Erreur Ext Direct dans "%s" avec le namespace : "%s"\n Essayez de vider le cache TYPO3 et/ou utiliser le paramètre no_cache=1 comme paramètre dans l\'URL typo3/ajax.php\n\n Vérifiez également les points suivants :\n - configuration dans ext_localconf.php : la clé d\'enregistrement devrait être de la forme "TYPO3.MyExtension.Sample"\n - URL typo3/ajax.php : le paramètre du namespace devrait être de la forme : "TYPO3.MyExtension"\n - javascript : le nom de la méthode devrait être de la forme : "TYPO3.MyExtension.Sample.myMethod"\n</target></trans-unit>
+			<trans-unit id="ExtDirect.noNamespace" approved="yes">
+				<source>Ext Direct error in "%s": no namespace has been found.</source>
+				<target state="translated">Erreur Ext Direct dans "%s" : aucun namespace trouvé.</target>
+			</trans-unit>
+			<trans-unit id="extension.not.installed" approved="yes">
+				<source>Extension "%s" is not installed.</source>
+				<target state="translated">L'extension "%s" n'est pas installée.</target>
+			</trans-unit>
+			<trans-unit id="file_clipupload.php.warning" approved="yes">
+				<source>No upload-folder is found. You should create a TEMP-folder ("_temp_") in the root of one of your mounts first!</source>
+				<target state="translated">Impossible de trouver le dossier d'envoi. Vous devez créer un dossier temporaire nommé "_temp_" au premier niveau d'un de vos points de montage.</target>
+			</trans-unit>
+			<trans-unit id="file_clipupload.php.warning_head" approved="yes">
+				<source>Upload path error</source>
+				<target state="translated">Chemin d'envoi erroné</target>
+			</trans-unit>
+			<trans-unit id="file_edit.php.coundNot" approved="yes">
+				<source>This filetype cannot be edited.&lt;br /&gt;The file must have an extension like:&lt;br /&gt;&lt;br /&gt; &lt;b&gt;%s&lt;/b&gt;</source>
+				<target state="translated">Ce type de fichier ne peut être édité.&lt;br /&gt;Le fichier doit avoir une des extensions suivantes :&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;%s&lt;/strong&gt;</target>
+			</trans-unit>
+			<trans-unit id="file_edit.php.pagetitle" approved="yes">
+				<source>Edit</source>
+				<target state="translated">Editer</target>
+			</trans-unit>
+			<trans-unit id="file_edit.php.saveAndClose" approved="yes">
+				<source>Save and Close</source>
+				<target state="translated">Enregistrer et Fermer</target>
+			</trans-unit>
+			<trans-unit id="file_edit.php.submit" approved="yes">
+				<source>Save</source>
+				<target state="translated">Enregistrer</target>
+			</trans-unit>
+			<trans-unit id="file_newfolder.php.folders" approved="yes">
+				<source>folders</source>
+				<target state="translated">dossiers</target>
+			</trans-unit>
+			<trans-unit id="file_newfolder.php.newfile" approved="yes">
+				<source>Create new textfile</source>
+				<target state="translated">Créer un nouveau fichier texte</target>
+			</trans-unit>
+			<trans-unit id="file_newfolder.php.newfile_submit" approved="yes">
+				<source>Create file</source>
+				<target state="translated">Créer un fichier</target>
+			</trans-unit>
+			<trans-unit id="file_newfolder.php.number_of_folders" approved="yes">
+				<source>Number of folders:</source>
+				<target state="translated">Nombre de dossiers :</target>
+			</trans-unit>
+			<trans-unit id="file_newfolder.php.pagetitle" approved="yes">
+				<source>New file or folder</source>
+				<target state="translated">Nouveau fichier ou dossier</target>
+			</trans-unit>
+			<trans-unit id="file_newfolder.php.submit" approved="yes">
+				<source>Create folders</source>
+				<target state="translated">Créer des dossiers</target>
+			</trans-unit>
+			<trans-unit id="file_rename.php.pagetitle" approved="yes">
+				<source>Rename</source>
+				<target state="translated">Renommer</target>
+			</trans-unit>
+			<trans-unit id="file_rename.php.submit" approved="yes">
+				<source>Rename</source>
+				<target state="translated">Renommer</target>
+			</trans-unit>
+			<trans-unit id="file_upload.dropzonehint.message" approved="yes">
+				<source>Drop your files here, or &lt;u&gt;click, browse &amp; choose files&lt;/u&gt;</source>
+				<target state="translated">Déposez vos fichiers ici, ou &lt;u&gt;cliquez pour sélectionner des fichiers&lt;/u&gt;</target>
+			</trans-unit>
+			<trans-unit id="file_upload.dropzonehint.title" approved="yes">
+				<source>Drag &amp; drop to upload files</source>
+				<target state="translated">Glissez-déposez les fichiers à transférer</target>
+			</trans-unit>
+			<trans-unit id="file_upload.fileExtensionExpected" approved="yes">
+				<source>Upload failed! A file with "{0}" extension is expected!</source>
+				<target state="translated">Le transfert a échoué ! Un fichier avec l'extension "{0} est requis !</target>
+			</trans-unit>
+			<trans-unit id="file_upload.fileNotAllowed" approved="yes">
+				<source>Filename "{0}" is not allowed!</source>
+				<target state="translated">Le fichier "{0}" n'est pas autorisé !</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="file_upload.maxFileSizeExceeded" approved="yes">
+				<source>File "{0}" exceeds maximum file size of {1}!</source>
+				<target state="translated">Le fichier "{0}" dépasse la taille maximale de {1} !</target>
+				<note>85%</note>
+			</trans-unit>
+			<trans-unit id="file_upload.overwriteExistingFiles" approved="yes">
+				<source>Shall existing files be overwritten?</source>
+				<target state="translated">Les fichiers existants doivent-ils être écrasés ?</target>
+			</trans-unit>
+			<trans-unit id="file_upload.php.files" approved="yes">
+				<source>files</source>
+				<target state="translated">fichiers</target>
+			</trans-unit>
+			<trans-unit id="file_upload.php.number_of_files" approved="yes">
+				<source>Number of files:</source>
+				<target state="translated">Nombre de fichiers :</target>
+			</trans-unit>
+			<trans-unit id="file_upload.php.pagetitle" approved="yes">
+				<source>Upload files</source>
+				<target state="translated">Envoyer des fichiers</target>
+			</trans-unit>
+			<trans-unit id="file_upload.php.submit" approved="yes">
+				<source>Upload files</source>
+				<target state="translated">Envoyer des fichiers</target>
+			</trans-unit>
+			<trans-unit id="file_upload.select-and-submit" approved="yes">
+				<source>Select &amp; upload files</source>
+				<target state="translated">Sélectionner et transférer des fichiers</target>
+			</trans-unit>
+			<trans-unit id="file_upload.uploadFailed" approved="yes">
+				<source>Upload of file "{0}" failed!</source>
+				<target state="translated">Le transfert du fichier "{0}" a échoué !</target>
+			</trans-unit>
+			<trans-unit id="file_upload.upload-finished" approved="yes">
+				<source>Upload complete! Filelist reloading...</source>
+				<target state="translated">Envoi terminé ! La liste de fichiers se recharge...</target>
+			</trans-unit>
+			<trans-unit id="file_upload.upload-in-progress" approved="yes">
+				<source>File upload in progress...</source>
+				<target state="translated">Transfert du fichier en cours...</target>
+			</trans-unit>
+			<trans-unit id="file_upload.upload-progress-info" approved="yes">
+				<source>Uploading file {0} out of {1} files.</source>
+				<target state="translated">Envoi du fichier {0} sur {1}.</target>
+			</trans-unit>
+			<trans-unit id="flushAllCachesDescription" approved="yes">
+				<source>Clear all caches, including frontend caches, and extension-specific caches. Compile-time caches / system caches that are needed for TYPO3 to run are not touched.</source>
+				<target state="translated">Vide tous les caches, y.c. les caches frontend et les caches spécifiques aux extensions. Les caches de compilation et les caches systèmes qui sont nécessaires au fonctionnement de TYPO3 ne sont pas touchés.</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v8</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v8</note>
+			</trans-unit>
+			<trans-unit id="flushAllCachesTitle" approved="yes">
+				<source>Flush all caches</source>
+				<target state="translated">Vider tous les caches</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v8</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v8</note>
+			</trans-unit>
+			<trans-unit id="flushGeneralCachesDescription" approved="yes">
+				<source>Clear frontend and page-related caches, plus some backend-related caches.</source>
+				<target state="translated">Vide le cache frontend et les caches liés aux pages, ainsi que certains caches liés au backend.</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v8</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v8</note>
+			</trans-unit>
+			<trans-unit id="flushGeneralCachesTitle" approved="yes">
+				<source>Flush general caches</source>
+				<target state="translated">Vider les caches généraux</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v8</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v8</note>
+			</trans-unit>
+			<trans-unit id="flushPageCachesDescription" approved="yes">
+				<source>Clear frontend and page-related caches.</source>
+				<target state="translated">Vide le cache frontend et les caches liés aux pages</target>
+			</trans-unit>
+			<trans-unit id="flushPageCachesTitle" approved="yes">
+				<source>Flush frontend caches</source>
+				<target state="translated">Vider le cache frontend</target>
+			</trans-unit>
+			<trans-unit id="flushSystemCachesDescription" approved="no">
+				<source>Clear all system-related caches, including the class loader, localization and extension configuration file caches. Rebuilding this cache may take some time. </source>
+				<target state="needs-translation">Vide tous les caches système, y.c. celui du chargeur de classes, des langues et des fichiers de configuration des extensions. La recréation de ce cache peut prendre du temps.</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v8</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v8</note>
+			</trans-unit>
+			<trans-unit id="flushSystemCachesTitle" approved="no">
+				<source>Flush system caches</source>
+				<target state="needs-translation">Vider les caches système</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v8</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v8</note>
+			</trans-unit>
+			<trans-unit id="labels.addnew" approved="yes">
+				<source>Add new</source>
+				<target state="translated">Ajouter nouveau</target>
+			</trans-unit>
+			<trans-unit id="labels.allow" approved="yes">
+				<source>Allow</source>
+				<target state="translated">Autorisé</target>
+			</trans-unit>
+			<trans-unit id="labels.allTables" approved="yes">
+				<source>[All tables]</source>
+				<target state="translated">[Toutes les tables]</target>
+			</trans-unit>
+			<trans-unit id="labels.author" approved="yes">
+				<source>Author:</source>
+				<target state="translated">Auteur :</target>
+			</trans-unit>
+			<trans-unit id="labels.automatic" approved="yes">
+				<source>Auto</source>
+				<target state="translated">Auto</target>
+			</trans-unit>
+			<trans-unit id="labels.beUser" approved="yes">
+				<source>BE-User</source>
+				<target state="translated">Utilisateur BE</target>
+			</trans-unit>
+			<trans-unit id="labels.browse_db" approved="yes">
+				<source>Browse for records</source>
+				<target state="translated">Naviguer dans les enregistrements</target>
+			</trans-unit>
+			<trans-unit id="labels.browse_file" approved="yes">
+				<source>Browse for files</source>
+				<target state="translated">Naviguer dans les fichiers</target>
+			</trans-unit>
+			<trans-unit id="labels.cancel" approved="yes">
+				<source>Cancel</source>
+				<target state="translated">Annuler</target>
+			</trans-unit>
+			<trans-unit id="labels.category" approved="yes">
+				<source>Category:</source>
+				<target state="translated">Catégorie :</target>
+			</trans-unit>
+			<trans-unit id="labels.changeInOrig" approved="yes">
+				<source>Changed in original translation</source>
+				<target state="translated">Modifié dans la traduction originale</target>
+			</trans-unit>
+			<trans-unit id="labels.checkAll" approved="yes">
+				<source>Check all</source>
+				<target state="translated">Tout sélectionner</target>
+			</trans-unit>
+			<trans-unit id="labels.clear_cache" approved="yes">
+				<source>Clear cache for this page</source>
+				<target state="translated">Effacer le cache de cette page</target>
+			</trans-unit>
+			<trans-unit id="labels.clipInsert_db" approved="yes">
+				<source>Insert %s record(s) from the clipboard</source>
+				<target state="translated">Insérer %s enregistrement(s) depuis le presse-papier</target>
+			</trans-unit>
+			<trans-unit id="labels.clipInsert_file" approved="yes">
+				<source>Insert %s file(s) from the clipboard</source>
+				<target state="translated">Insérer %s fichier(s) depuis le presse-papier</target>
+				<note>Le tampon, il est de quelle marque ? Vania, Always, ... ? Cohérence.</note>
+			</trans-unit>
+			<trans-unit id="labels.clipNoEl" xml:space="preserve" approved="yes">
+				<source>No elements</source>
+			<target state="translated">Pas d'éléments</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="labels.cliptabs" approved="yes">
+				<source>Clipboard #</source>
+				<target state="translated">Presse-papier No</target>
+				<note>n° = n+symbole du degré. L'abréviation correcte est "no".</note>
+			</trans-unit>
+			<trans-unit id="labels.cliptabs-description" approved="yes">
+				<source>This clipboard allows to select and edit/copy/move multiple records at once. Choose it to show a checkbox by each record.</source>
+				<target state="translated">Ce presse-papier vous permet de sélectionner et éditer/copier/déplacer plusieurs enregistrements à la fois. Choisissez-le pour afficher une case à cocher pour chaque enregistrement.</target>
+			</trans-unit>
+			<trans-unit id="labels.cliptabs-name" approved="yes">
+				<source>Clipboard #%s (multi-selection mode)</source>
+				<target state="translated">Presse-papier No %s (mode enregistrements multiples)</target>
+			</trans-unit>
+			<trans-unit id="labels.close" approved="yes">
+				<source>Close</source>
+				<target state="translated">Fermer</target>
+			</trans-unit>
+			<trans-unit id="labels.collapseTable" approved="yes">
+				<source>Collapse table</source>
+				<target state="translated">Replier le tableau</target>
+			</trans-unit>
+			<trans-unit id="labels._CONTROL_" approved="yes">
+				<source>Control</source>
+				<target state="translated">Contrôle</target>
+			</trans-unit>
+			<trans-unit id="labels.copymode" approved="yes">
+				<source>Copy items instead of moving them</source>
+				<target state="translated">Copier les éléments plutôt que les déplacer</target>
+			</trans-unit>
+			<trans-unit id="labels.count" approved="yes">
+				<source>Quantity:</source>
+				<target state="translated">Quantité :</target>
+			</trans-unit>
+			<trans-unit id="labels.createNewPage" approved="yes">
+				<source>Create new %s</source>
+				<target state="translated">Créer un nouvel enregistrement %s</target>
+			</trans-unit>
+			<trans-unit id="labels.createNewRecord" approved="yes">
+				<source>Create new %s on page "%s"</source>
+				<target state="translated">Créer un nouvel enregistrement %s sur la page "%s"</target>
+			</trans-unit>
+			<trans-unit id="labels.createNewRecordRootLevel" approved="yes">
+				<source>Create new %s on root level</source>
+				<target state="translated">Créer un nouvel enregistrement %s à la racine</target>
+			</trans-unit>
+			<trans-unit id="labels.csv" approved="yes">
+				<source>Download CSV file</source>
+				<target state="translated">Télécharger le fichier CSV</target>
+			</trans-unit>
+			<trans-unit id="labels.days" approved="yes">
+				<source>days</source>
+				<target state="translated">Jours</target>
+			</trans-unit>
+			<trans-unit id="labels.deny" approved="yes">
+				<source>Deny</source>
+				<target state="translated">Interdit</target>
+			</trans-unit>
+			<trans-unit id="labels.depth_0" approved="yes">
+				<source>This page</source>
+				<target state="translated">Cette page</target>
+			</trans-unit>
+			<trans-unit id="labels.depth_1" approved="yes">
+				<source>1 level</source>
+				<target state="translated">1 niveau</target>
+			</trans-unit>
+			<trans-unit id="labels.depth_2" approved="yes">
+				<source>2 levels</source>
+				<target state="translated">2 niveaux</target>
+			</trans-unit>
+			<trans-unit id="labels.depth_3" approved="yes">
+				<source>3 levels</source>
+				<target state="translated">3 niveaux</target>
+			</trans-unit>
+			<trans-unit id="labels.depth_4" approved="yes">
+				<source>4 levels</source>
+				<target state="translated">4 niveaux</target>
+			</trans-unit>
+			<trans-unit id="labels.depth_infi" approved="yes">
+				<source>Infinite</source>
+				<target state="translated">Infini</target>
+			</trans-unit>
+			<trans-unit id="labels.disableRTE" approved="yes">
+				<source>Disable Rich Text Editor (RTE)</source>
+				<target state="translated">Désactiver l'éditeur de texte avancé (RTE)</target>
+			</trans-unit>
+			<trans-unit id="labels.editPage" approved="yes">
+				<source>Edit %s "%s"</source>
+				<target state="translated">Modifier la page "%s"</target>
+			</trans-unit>
+			<trans-unit id="labels.editRecord" approved="yes">
+				<source>Edit %s "%s" on page "%s"</source>
+				<target state="translated">Modifier le contenu "%s" sur la page "%s"</target>
+			</trans-unit>
+			<trans-unit id="labels.editRecordNoTitle" approved="yes">
+				<source>Edit %s on page "%s"</source>
+				<target state="translated">Modifier le contenu %s de la page "%s"</target>
+			</trans-unit>
+			<trans-unit id="labels.editRecordRootLevel" approved="yes">
+				<source>Edit %s "%s" on root level</source>
+				<target state="translated">Modifier l'enregistrement %s "%s" à la racine</target>
+			</trans-unit>
+			<trans-unit id="labels.enabled" approved="yes">
+				<source>Enabled</source>
+				<target state="translated">Activer</target>
+			</trans-unit>
+			<trans-unit id="labels.endtime" approved="yes">
+				<source>End</source>
+				<target state="translated">Fin</target>
+			</trans-unit>
+			<trans-unit id="labels.enterSearchLevels" approved="yes">
+				<source>This page|1 level down|2 levels down|3 levels down|4 levels down</source>
+				<target state="translated">Cette page|1 niveau inférieur|2 niveaux inférieurs|3 niveaux inférieurs|4 niveaux inférieurs</target>
+			</trans-unit>
+			<trans-unit id="labels.enterSearchString" approved="yes">
+				<source>Enter search term</source>
+				<target state="translated">Saisissez un terme à rechercher</target>
+			</trans-unit>
+			<trans-unit id="labels.expandAll" approved="yes">
+				<source>Expand all</source>
+				<target state="translated">Déplier tout</target>
+			</trans-unit>
+			<trans-unit id="labels.expandTable" approved="yes">
+				<source>Expand table</source>
+				<target state="translated">Déplier le tableau</target>
+			</trans-unit>
+			<trans-unit id="labels.feUser" approved="yes">
+				<source>FE-User</source>
+				<target state="translated">Utilisateur FE</target>
+			</trans-unit>
+			<trans-unit id="labels.fieldsChanged" xml:space="preserve" approved="yes">
+				<source>There are unsaved changes in the form!
+Do you want to continue WITHOUT saving?</source>
+			<target state="translated">Il y des informations non sauvegardées dans ce formulaire ! Souhaitez-vous continuer sans sauver ?</target><alt-trans xml:space="preserve" origin="bidau"><target>Il y des informations non sauvegardées dans ce formulaire !Souhaitez-vous continuer sans sauver ?</target></alt-trans></trans-unit>
+			<trans-unit id="labels.fieldsMissing" approved="yes">
+				<source>The fields marked with an exclamation mark are not yet correctly filled in. Please complete them properly.</source>
+				<target state="translated">Les champs marqués d'un point d'exclamation jaune ne sont pas correctement remplis. Veuillez les compléter correctement.</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Les champs marqués d'un point d'exclamation ne sont pas correctement remplis. Veuillez les compléter correctement.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="labels.findRecord" approved="yes">
+				<source>Find records</source>
+				<target state="translated">Enregistrements trouvés</target>
+			</trans-unit>
+			<trans-unit id="labels.generalOptions" approved="yes">
+				<source>General options:</source>
+				<target state="translated">Options générales</target>
+			</trans-unit>
+			<trans-unit id="labels.generalOptions_more" approved="yes">
+				<source>General options (continued):</source>
+				<target state="translated">Options générales (suite) :</target>
+			</trans-unit>
+			<trans-unit id="labels.generalTab" approved="yes">
+				<source>General</source>
+				<target state="translated">Général</target>
+			</trans-unit>
+			<trans-unit id="labels.goBack" approved="yes">
+				<source>Go back</source>
+				<target state="translated">Retour</target>
+			</trans-unit>
+			<trans-unit id="labels.hidden" approved="yes">
+				<source>Hidden</source>
+				<target state="translated">Caché</target>
+			</trans-unit>
+			<trans-unit id="labels.holdDownCTRL" approved="yes">
+				<source>Important: Hold down the CTRL key while toggling elements in this list!</source>
+				<target state="translated">Important : Maintenez la touche CTRL (ou CMD) tout en sélectionnant des éléments dans cette liste !</target>
+			</trans-unit>
+			<trans-unit id="labels.items" approved="yes">
+				<source>Available Items</source>
+				<target state="translated">Eléments disponibles</target>
+			</trans-unit>
+			<trans-unit id="labels._LOCALIZATION_" approved="yes">
+				<source>Localization</source>
+				<target state="translated">Localisation</target>
+			</trans-unit>
+			<trans-unit id="labels.lockedRecord" approved="yes">
+				<source>The user '%s' began to edit this record %s ago.</source>
+				<target state="translated">L'utilisateur '%s' édite cette élément depuis %s.</target>
+			</trans-unit>
+			<trans-unit id="labels.lockedRecord_content" approved="yes">
+				<source>The user '%s' began to edit content on this page %s ago.</source>
+				<target state="translated">L'utilisateur '%s' édite un élément de cette page depuis %s.</target>
+			</trans-unit>
+			<trans-unit id="labels.lockedRecordUser" approved="yes">
+				<source>The %s '%s' began to edit this record %s ago.</source>
+				<target state="translated">%s '%s' modifie cet enregistrement depuis %s.</target>
+			</trans-unit>
+			<trans-unit id="labels.lockedRecordUser_content" approved="yes">
+				<source>The %s '%s' began to edit content on this page %s ago.</source>
+				<target state="translated">%s '%s' modifie ce contenu sur cette page depuis %s.</target>
+			</trans-unit>
+			<trans-unit id="labels.makeBookmark" approved="yes">
+				<source>Create a bookmark to this page</source>
+				<target state="translated">Créer un favori vers cette page</target>
+			</trans-unit>
+			<trans-unit id="labels.makeShortcut" approved="yes">
+				<source>Create a shortcut to this page?</source>
+				<target state="translated">Créer un raccourci vers cette page ?</target>
+			</trans-unit>
+			<trans-unit id="labels.menu" approved="yes">
+				<source>Menu:</source>
+				<target state="translated">Menu :</target>
+			</trans-unit>
+			<trans-unit id="labels.minutesHoursDaysYears" approved="yes">
+				<source> min| hrs| days| yrs| min| hour| day| year</source>
+				<target state="translated">min.| h.| j.| a.| min.| h.| j.| a.</target>
+			</trans-unit>
+			<trans-unit id="labels.moreOptions" xml:space="preserve" approved="yes">
+				<source>More options...</source>
+			<target state="translated">Plus d'options...</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="labels.move" approved="yes">
+				<source>Move this item</source>
+				<target state="translated">Déplacer cet élément</target>
+			</trans-unit>
+			<trans-unit id="labels.move_down" approved="yes">
+				<source>Move selected items downwards</source>
+				<target state="translated">Déplacer vers le bas les éléments sélectionnés</target>
+			</trans-unit>
+			<trans-unit id="labels.move_to_bottom" approved="yes">
+				<source>Move selected items to bottom</source>
+				<target state="translated">Déplacer les éléments sélectionnés en bas</target>
+			</trans-unit>
+			<trans-unit id="labels.move_to_top" approved="yes">
+				<source>Move selected items to top</source>
+				<target state="translated">Déplacer vers le haut les éléments sélectionnés</target>
+			</trans-unit>
+			<trans-unit id="labels.move_up" approved="yes">
+				<source>Move selected items upwards</source>
+				<target state="translated">Déplacer l'élément vers le haut</target>
+			</trans-unit>
+			<trans-unit id="labels.new" approved="yes">
+				<source>NEW</source>
+				<target state="translated">NOUVEAU</target>
+			</trans-unit>
+			<trans-unit id="labels.new_section" approved="yes">
+				<source>Create new:</source>
+				<target state="translated">Créer nouveau :</target>
+			</trans-unit>
+			<trans-unit id="labels.noEditPermission" approved="yes">
+				<source>Sorry, you didn't have proper permissions to perform this change.</source>
+				<target state="translated">Désolé, vous n'avez pas les droits d'accès requis pour effectuer ces changements.</target>
+			</trans-unit>
+			<trans-unit id="labels.noMatchingValue" approved="yes">
+				<source>INVALID VALUE ("%s")</source>
+				<target state="translated">VALEUR NON-VALIDE ("%s")</target>
+			</trans-unit>
+			<trans-unit id="labels.noRecordFound" approved="yes">
+				<source>No record found</source>
+				<target state="translated">Aucun enregistrement trouvé</target>
+			</trans-unit>
+			<trans-unit id="labels.normal" approved="yes">
+				<source>Normal (single record mode)</source>
+				<target state="translated">Normal (mode enregistrement unique)</target>
+			</trans-unit>
+			<trans-unit id="labels.normal-description" approved="yes">
+				<source>"Normal" clipboard allows to copy/move one record at time.</source>
+				<target state="translated">Le presse-papier "Normal" vous permet de copier/déplacer un enregistrement à la fois.</target>
+			</trans-unit>
+			<trans-unit id="labels.noRTEfound" approved="yes">
+				<source>Notice: This field can only be edited with a Rich Text Editor. No editor is currently available or enabled.</source>
+				<target state="translated">Note : Vous ne pouvez éditer ce champ car il ne peut être édité qu'avec l'éditeur de texte avancé (RTE). Aucun éditeur n'est disponible ou l'édition avec le RTE a été désactivée.</target>
+			</trans-unit>
+			<trans-unit id="labels.note" approved="yes">
+				<source>Note:</source>
+				<target state="translated">Note :</target>
+			</trans-unit>
+			<trans-unit id="labels.no_title" approved="yes">
+				<source>No title</source>
+				<target state="translated">Sans titre</target>
+			</trans-unit>
+			<trans-unit id="labels.openInNewWindow" approved="yes">
+				<source>Open in new window</source>
+				<target state="translated">Ouvrir dans une nouvelle fenêtre</target>
+			</trans-unit>
+			<trans-unit id="labels.path" approved="yes">
+				<source>Path</source>
+				<target state="translated">Chemin</target>
+			</trans-unit>
+			<trans-unit id="labels._PATH_" approved="yes">
+				<source>Path</source>
+				<target state="translated">Chemin</target>
+			</trans-unit>
+			<trans-unit id="labels.placeholder.override" approved="no">
+				<source>Set element specific value (Default: "%s")</source>
+				<target state="needs-translation">Surcharger "%s" ?</target>
+			</trans-unit>
+			<trans-unit id="labels.referencesToFile" approved="no">
+				<source>(There are %s reference(s) to this file!)</source>
+				<target state="needs-translation">(Il y a %s référence(s) à cet enregistrement)</target>
+			</trans-unit>
+			<trans-unit id="labels.referencesToFolder" approved="no">
+				<source>(There are %s reference(s) to this folder!)</source>
+				<target state="needs-translation">(Il y a %s référence(s) à cet enregistrement)</target>
+			</trans-unit>
+			<trans-unit id="labels.referencesToRecord" approved="yes">
+				<source>(There are %s reference(s) to this record!)</source>
+				<target state="translated">(Il y a %s référence(s) à cet enregistrement)</target>
+			</trans-unit>
+			<trans-unit id="labels.refresh" approved="yes">
+				<source>Reload the tree from server</source>
+				<target state="translated">Recharger l'arborescence</target>
+			</trans-unit>
+			<trans-unit id="labels.refreshList" approved="yes">
+				<source>Reload list from server</source>
+				<target state="translated">Recharger la liste</target>
+			</trans-unit>
+			<trans-unit id="labels.reload" approved="yes">
+				<source>Reload</source>
+				<target state="translated">Recharger</target>
+			</trans-unit>
+			<trans-unit id="labels.removeItem" approved="yes">
+				<source>Remove item</source>
+				<target state="translated">Supprimer l'élément</target>
+			</trans-unit>
+			<trans-unit id="labels.remove_selected" approved="yes">
+				<source>Remove selected items</source>
+				<target state="translated">Supprimer les éléments sélectionnés</target>
+			</trans-unit>
+			<trans-unit id="labels.resetFilter" approved="yes">
+				<source>Reset Filter</source>
+				<target state="translated">Désactiver le filtre</target>
+			</trans-unit>
+			<trans-unit id="labels.revertSelection" approved="yes">
+				<source>Revert selection</source>
+				<target state="translated">Inverser la sélection</target>
+			</trans-unit>
+			<trans-unit id="labels.rootLevel" approved="yes">
+				<source>root level</source>
+				<target state="translated">racine</target>
+			</trans-unit>
+			<trans-unit id="labels.search" approved="yes">
+				<source>Search</source>
+				<target state="translated">Rechercher</target>
+			</trans-unit>
+			<trans-unit id="labels.selected" approved="yes">
+				<source>Selected Items</source>
+				<target state="translated">Sélectionné(s)</target>
+			</trans-unit>
+			<trans-unit id="labels.setAllCheckboxes" approved="yes">
+				<source>Select All Checkboxes</source>
+				<target state="translated">Sélectionner toutes les cases à cocher</target>
+			</trans-unit>
+			<trans-unit id="labels.setFields" approved="yes">
+				<source>Set fields</source>
+				<target state="translated">Paramétrer un champ</target>
+			</trans-unit>
+			<trans-unit id="labels.show" approved="yes">
+				<source>Show</source>
+				<target state="translated">Afficher</target>
+			</trans-unit>
+			<trans-unit id="labels.showDescriptions" xml:space="preserve" approved="yes">
+				<source>Show field descriptions</source>
+			<target state="translated">Afficher la description des champs</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="labels.showList" approved="yes">
+				<source>Show record list</source>
+				<target state="translated">Afficher la liste des enregistrements</target>
+			</trans-unit>
+			<trans-unit id="labels.showPage" approved="yes">
+				<source>View webpage</source>
+				<target state="translated">Visualiser la page web</target>
+			</trans-unit>
+			<trans-unit id="labels.showPalettes" xml:space="preserve" approved="yes">
+				<source>Show secondary options (palettes)</source>
+			<target state="translated">Afficher les options secondaires</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+This label is deprecated (not used anymore) since TYPO3v7
+La notion de "palettes" n'apporte rien au contraire elle embrouille. KIS.</note></trans-unit>
+			<trans-unit id="labels.showRecords" approved="yes">
+				<source>Show records</source>
+				<target state="translated">Afficher les enregistrements</target>
+			</trans-unit>
+			<trans-unit id="labels.starttime" approved="yes">
+				<source>Start</source>
+				<target state="translated">Début</target>
+			</trans-unit>
+			<trans-unit id="labels.table" approved="yes">
+				<source>Table</source>
+				<target state="translated">Table</target>
+			</trans-unit>
+			<trans-unit id="labels.temporaryDBmount" approved="yes">
+				<source>Cancel temporary DB mount</source>
+				<target state="translated">Annuler le point de montage temporaire</target>
+			</trans-unit>
+			<trans-unit id="labels.thumbmode_clip" approved="yes">
+				<source>Show Thumbnails on ClipBoard</source>
+				<target state="translated">Visualiser les miniatures dans le presse-papier</target>
+			</trans-unit>
+			<trans-unit id="labels.toggleall" approved="yes">
+				<source>Toggle all</source>
+				<target state="translated">Tout basculer</target>
+			</trans-unit>
+			<trans-unit id="labels.translationsOfRecord" approved="yes">
+				<source>(This record has %s translation(s) which will be deleted, too!)</source>
+				<target state="translated">(Cet enregistrement a %s traduction(s) qui vont aussi être supprimées)</target>
+			</trans-unit>
+			<trans-unit id="labels.uncheckAll" approved="yes">
+				<source>Uncheck all</source>
+				<target state="translated">Tout désélectionner</target>
+			</trans-unit>
+			<trans-unit id="labels.unknownUser" approved="yes">
+				<source>-Unknown-</source>
+				<target state="translated">- inconnu -</target>
+			</trans-unit>
+			<trans-unit id="labels.upOneLevel" approved="yes">
+				<source>Up one level</source>
+				<target state="translated">Remonter d'un niveau</target>
+			</trans-unit>
+			<trans-unit id="labels.user" approved="yes">
+				<source>User</source>
+				<target state="translated">Utilisateur</target>
+			</trans-unit>
+			<trans-unit id="link.to.dblist.correctly" approved="yes">
+				<source>Please, do not link to this page. Use \TYPO3\CMS\Backend\Utility\BackendUtility::getListViewLink() for link generation.</source>
+				<target state="translated">Ne faites pas de lien sur cette page SVP. Utilisez t3lib_extMgm::createListViewLink() pour la génération de liens.</target>
+			</trans-unit>
+			<trans-unit id="link.to.filefile.correctly" approved="yes">
+				<source>Please, do not link to this page.</source>
+				<target state="translated">Ne faites pas de lien sur cette page SVP.</target>
+			</trans-unit>
+			<trans-unit id="loadingIndicator" approved="yes">
+				<source>Loading ...</source>
+				<target state="translated">Chargement...</target>
+			</trans-unit>
+			<trans-unit id="message.description.fileDeleted" approved="yes">
+				<source>The file "%s" was successfully deleted.</source>
+				<target state="translated">Le fichier "%s" a été supprimé avec succès.</target>
+			</trans-unit>
+			<trans-unit id="message.description.fileHasBrokenReferences" approved="yes">
+				<source>The file has %s broken reference(s) but it will be deleted regardless.</source>
+				<target state="translated">Le fichier a %s référence(s) manquante(s), mais il sera tout de même effacé.</target>
+			</trans-unit>
+			<trans-unit id="message.description.fileNotDeletedHasReferences" approved="yes">
+				<source>The file cannot be deleted since it is still used at the following places:</source>
+				<target state="translated">Le fichier ne peut pas être supprimé parce qu'il est encore utilisé dans les endroits suivants :</target>
+			</trans-unit>
+			<trans-unit id="message.description.fileNotFound" approved="yes">
+				<source>The file %s is not found, possible already removed.</source>
+				<target state="translated">Le fichier %s est inexistant, peut-être est-il déjà supprimé.</target>
+			</trans-unit>
+			<trans-unit id="message.description.folderDeleted" approved="yes">
+				<source>The folder "%s" was successfully deleted.</source>
+				<target state="translated">Le dossier "%s" a été supprimé avec succès.</target>
+			</trans-unit>
+			<trans-unit id="message.description.folderNotDeletedHasFiles" approved="yes">
+				<source>The folder cannot be deleted since it still contains files.</source>
+				<target state="translated">Le dossier n'a pas pu être supprimé parce qu'il contient encore des fichiers.</target>
+			</trans-unit>
+			<trans-unit id="message.description.folderNotDeletedHasFilesWithReferences" approved="yes">
+				<source>The folder cannot be deleted since it still contains files in use.</source>
+				<target state="translated">Le dossier n'a pas pu être supprimé parce qu'il contient encore des fichiers utilisés.</target>
+				<note>89%</note>
+			</trans-unit>
+			<trans-unit id="message.header.fileDeleted" approved="yes">
+				<source>File deleted</source>
+				<target state="translated">Fichier supprimé</target>
+			</trans-unit>
+			<trans-unit id="message.header.fileHasBrokenReferences" approved="yes">
+				<source>File has broken references</source>
+				<target state="translated">Le fichier a des références erronnées</target>
+			</trans-unit>
+			<trans-unit id="message.header.fileNotDeletedHasReferences" approved="yes">
+				<source>File not deleted</source>
+				<target state="translated">Fichier non supprimé</target>
+			</trans-unit>
+			<trans-unit id="message.header.fileNotFound" approved="yes">
+				<source>File not found</source>
+				<target state="translated">Fichier inexistant</target>
+			</trans-unit>
+			<trans-unit id="message.header.folderDeleted" approved="yes">
+				<source>Folder deleted</source>
+				<target state="translated">Dossier supprimé</target>
+			</trans-unit>
+			<trans-unit id="message.header.folderNotDeletedHasFiles" approved="yes">
+				<source>Folder not deleted</source>
+				<target state="translated">Dossier non supprimé</target>
+			</trans-unit>
+			<trans-unit id="message.header.folderNotDeletedHasFilesWithReferences" approved="yes">
+				<source>Folder not deleted</source>
+				<target state="translated">Dossier non supprimé</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="mess.be_locked" approved="yes">
+				<source>The TYPO3 backend is currently locked for maintenance. Leave this browser window open and the backend will automatically become available again once maintenance is complete.</source>
+				<target state="translated">Le backend de TYPO3 est actuellement verrouillé pour cause de maintenance. Dès que la maintenance sera terminée, le backend sera à nouveau disponible. En attendant, vous pouvez laisser votre navigateur ouvert. Merci pour votre patience.</target>
+			</trans-unit>
+			<trans-unit id="mess.copy_after" approved="yes">
+				<source>Copy "%s" to after "%s"?</source>
+				<target state="translated">Copier "%s" après "%s" ?</target>
+			</trans-unit>
+			<trans-unit id="mess.copycb_after" approved="yes">
+				<source>Copy all elements (%s) from the clipboard to the position after "%s"?</source>
+				<target state="translated">Copier tous les éléments (%s) du presse-papier après "%s" ?</target>
+			</trans-unit>
+			<trans-unit id="mess.copycb_into" approved="yes">
+				<source>Copy all elements (%s) from the clipboard into "%s"?</source>
+				<target state="translated">Copier tous les éléments (%s) du presse-papier dans "%s" ?</target>
+			</trans-unit>
+			<trans-unit id="mess.copy_into" approved="yes">
+				<source>Copy "%s" into "%s"?</source>
+				<target state="translated">Copier "%s" dans "%s" ?</target>
+			</trans-unit>
+			<trans-unit id="mess.copy_into_colPos" approved="yes">
+				<source>Copy "%1$s" into column "%3$s" on page "%2$s"?</source>
+				<target state="translated">Copier "%1$s" dans la colonne "%3$s" de la page "%2$s"?</target>
+			</trans-unit>
+			<trans-unit id="mess.delete" approved="no">
+				<source>Are you sure you want to delete '%s'?</source>
+				<target state="needs-translation">Etes-vous sûr de vouloir supprimer "%s" ?</target>
+			</trans-unit>
+			<trans-unit id="mess.deleteClip" approved="no">
+				<source>Are you sure you want to delete ALL referenced elements (%s) on the clipboard?</source>
+				<target state="needs-translation">Etes-vous sûr de vouloir supprimer TOUS les éléments sélectionnés (%s) dans le presse-papier ?</target>
+			</trans-unit>
+			<trans-unit id="mess.login_about_to_expire" approved="yes">
+				<source>Your TYPO3 login is about to expire. Please confirm that you want to stay logged in.</source>
+				<target state="translated">Votre connexion TYPO3 a expirée. Merci de confirmer que vous souhaitez rester connecté.</target>
+			</trans-unit>
+			<trans-unit id="mess.login_about_to_expire_title" approved="yes">
+				<source>TYPO3 login expiration notice</source>
+				<target state="translated">Avis d'expiration de connexion</target>
+			</trans-unit>
+			<trans-unit id="mess.login_expired" approved="yes">
+				<source>Your TYPO3 login has expired. You need to login again if you want to continue. Otherwise you can close the current browser window.</source>
+				<target state="translated">Votre connexion TYPO3 a expiré. Vous devez vous reconnecter pour continuer. Sinon vous pouvez fermer la fenêtre de votre navigateur.</target>
+			</trans-unit>
+			<trans-unit id="mess.move_after" approved="yes">
+				<source>Move "%s" to after "%s"?</source>
+				<target state="translated">Déplacer "%s" après "%s" ?</target>
+			</trans-unit>
+			<trans-unit id="mess.movecb_after" approved="yes">
+				<source>Move all elements (%s) from the clipboard to the position after "%s"?</source>
+				<target state="translated">Déplacer tous les éléments (%s) du presse-papier après "%s" ?</target>
+			</trans-unit>
+			<trans-unit id="mess.movecb_into" approved="yes">
+				<source>Move all elements (%s) from the clipboard into "%s"?</source>
+				<target state="translated">Déplacer tous les éléments (%s) du presse-papier dans "%s" ?</target>
+			</trans-unit>
+			<trans-unit id="mess.move_into" approved="yes">
+				<source>Move "%s" into "%s"?</source>
+				<target state="translated">Déplacer "%s" dans "%s" ?</target>
+			</trans-unit>
+			<trans-unit id="mess.move_into_colPos" approved="yes">
+				<source>Move "%1$s" into column "%3$s" on page "%2$s"?</source>
+				<target state="translated">Déplacer "%1$s" dans la colonne "%3$s" de la page "%2$s"?</target>
+			</trans-unit>
+			<trans-unit id="mess.noSelItemForEdit" approved="yes">
+				<source>Please select one or more items in the list before you can edit.</source>
+				<target state="translated">Veuillez sélectionner au moins un élément avant de pouvoir le(s) éditer.</target>
+			</trans-unit>
+			<trans-unit id="mess.onChangeAlert" xml:space="preserve" approved="yes">
+				<source>This change will affect which fields are available in the form.
+Would you like to save now in order to refresh the display?</source>
+			<target state="translated">Ce changement va affecter les champs disponibles dans le formulaire.
+Voulez-vous sauver maintenant afin de pouvoir rafraîchir l'écran ?</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="mess.please_wait" approved="yes">
+				<source>Please wait ...</source>
+				<target state="translated">Merci de patienter...</target>
+			</trans-unit>
+			<trans-unit id="mess.redraw" approved="yes">
+				<source>Redrawing the page will discard the current data. Do you want to continue?</source>
+				<target state="translated">La mise à jour de l'affichage de la page annule les données en cours de saisie. Souhaitez-vous poursuivre ?</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_direct_logout_button" approved="yes">
+				<source>No, log out.</source>
+				<target state="translated">Non, déconnexion.</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login" xml:space="preserve" approved="yes">
+				<source>Your login has probably expired.
+Do you want to refresh it now?</source>
+			<target state="translated">Connexion désactivée. Souhaitez-vous vous reconnecter ?</target></trans-unit>
+			<trans-unit id="mess.refresh_login_button" approved="yes">
+				<source>Login</source>
+				<target state="translated">Connexion</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_countdown" approved="yes">
+				<source>{0} seconds</source>
+				<target state="translated">{0} secondes</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_countdown_singular" approved="yes">
+				<source>{0} second</source>
+				<target state="translated">{0} seconde</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_emptyPassword" approved="yes">
+				<source>Empty password is not allowed!</source>
+				<target state="translated">Un mot de passe vide n'est pas accepté !</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_failed" approved="yes">
+				<source>Login failed</source>
+				<target state="translated">Impossible de se connecter</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_failed_message" approved="yes">
+				<source>Password not correct.</source>
+				<target state="translated">Le mot de passe est incorrect.</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_logging_in" approved="yes">
+				<source>Logging in...</source>
+				<target state="translated">Connexion en cours...</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_password" approved="yes">
+				<source>Password</source>
+				<target state="translated">Mot de passe</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_refresh_button" approved="yes">
+				<source>Stay logged in!</source>
+				<target state="translated">Rester connecté !</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_title" approved="yes">
+				<source>Refresh Login to TYPO3 (User: %s)</source>
+				<target state="translated">Actualiser la connexion à TYPO3 (utilisateur : %s)</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_username" approved="yes">
+				<source>Username</source>
+				<target state="translated">Utilisateur</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_logout_button" approved="yes">
+				<source>Logout</source>
+				<target state="translated">Déconnexion</target>
+			</trans-unit>
+			<trans-unit id="rm.adminFunctions" approved="yes">
+				<source>Admin functions</source>
+				<target state="translated">Fonctions d'administration</target>
+			</trans-unit>
+			<trans-unit id="rm.clearCache_all" approved="yes">
+				<source>Clear FE cache</source>
+				<target state="translated">Vider le cache FE</target>
+			</trans-unit>
+			<trans-unit id="rm.clearCache_allTypo3Conf" approved="yes">
+				<source>Clear cache in typo3conf/</source>
+				<target state="translated">Vider le cache dans typo3conf/</target>
+			</trans-unit>
+			<trans-unit id="rm.clearCache_clearCache" approved="yes">
+				<source>Clear cache</source>
+				<target state="translated">Vider le cache</target>
+			</trans-unit>
+			<trans-unit id="rm.clearCacheMenu_all" approved="yes">
+				<source>Clear all caches</source>
+				<target state="translated">Vider tous les caches</target>
+			</trans-unit>
+			<trans-unit id="rm.clearCacheMenu_allTypo3Conf" approved="yes">
+				<source>Clear configuration cache</source>
+				<target state="translated">Vider le cache de configuration</target>
+			</trans-unit>
+			<trans-unit id="rm.clearCacheMenu_pages" approved="yes">
+				<source>Clear page content cache</source>
+				<target state="translated">Vider le cache de la page</target>
+			</trans-unit>
+			<trans-unit id="rm.clearCache_pages" approved="yes">
+				<source>Clear Page Cache</source>
+				<target state="translated">Vider le cache de cette page</target>
+			</trans-unit>
+			<trans-unit id="rm.clearCache_thisPage" approved="yes">
+				<source>This page</source>
+				<target state="translated">Cette page</target>
+			</trans-unit>
+			<trans-unit id="rm.closeAllDocs" approved="yes">
+				<source>Close all</source>
+				<target state="translated">Fermer tout</target>
+			</trans-unit>
+			<trans-unit id="rm.closeDoc" approved="yes">
+				<source>Close</source>
+				<target state="translated">Fermer</target>
+			</trans-unit>
+			<trans-unit id="rm.delete" approved="yes">
+				<source>Delete</source>
+				<target state="translated">Supprimer</target>
+			</trans-unit>
+			<trans-unit id="rm.edit" approved="yes">
+				<source>Edit</source>
+				<target state="translated">Editer</target>
+			</trans-unit>
+			<trans-unit id="rm.export" approved="yes">
+				<source>Export</source>
+				<target state="translated">Exporter</target>
+			</trans-unit>
+			<trans-unit id="rm.menu" approved="yes">
+				<source>[menu]</source>
+				<target state="translated">[menu]</target>
+			</trans-unit>
+			<trans-unit id="rm.saveCloseAllDocs" approved="yes">
+				<source>Save and close all</source>
+				<target state="translated">Enregistrer et tout fermer</target>
+			</trans-unit>
+			<trans-unit id="rm.saveCloseDoc" approved="yes">
+				<source>Save and close</source>
+				<target state="translated">Enregistrer et fermer</target>
+			</trans-unit>
+			<trans-unit id="rm.saveDoc" approved="yes">
+				<source>Save</source>
+				<target state="translated">Enregistrer</target>
+			</trans-unit>
+			<trans-unit id="rm.saveDocShow" approved="yes">
+				<source>Save and view page</source>
+				<target state="translated">Enregistrer et visualiser le document</target>
+			</trans-unit>
+			<trans-unit id="rm.saveNewDoc" approved="yes">
+				<source>Save and create a new one</source>
+				<target state="translated">Enregistrer le document et en créer un nouveau</target>
+			</trans-unit>
+			<trans-unit id="rm.translationSaveDoc" approved="yes">
+				<source>Translation finished, save and close</source>
+				<target state="translated">Traduction terminée, enregistrée et fermée</target>
+			</trans-unit>
+			<trans-unit id="rm.translationSaveDocClear" approved="yes">
+				<source>Translation NOT finished, Save</source>
+				<target state="translated">Les traductions ne sont PAS terminées, Enregistrer</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.cannotDisplayArchive" approved="yes">
+				<source>Sorry, TYPO3_CONF_VARS[BE][disable_exec_function] was set, so cannot display content of archive file.</source>
+				<target state="translated">Désolé, TYPO3_CONF_VARS[BE][disable_exec_function] est activé, il est impossible d'afficher le contenu de ce fichier archive</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.dimensions" approved="yes">
+				<source>Dimensions</source>
+				<target state="translated">Dimensions</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.field" approved="yes">
+				<source>Field:</source>
+				<target state="translated">Champ :</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.file" approved="yes">
+				<source>File</source>
+				<target state="translated">Fichier</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.files" approved="yes">
+				<source>files</source>
+				<target state="translated">Fichiers</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.filesize" approved="yes">
+				<source>Size</source>
+				<target state="translated">Taille</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.flexpointer" approved="yes">
+				<source>Flexpointer:</source>
+				<target state="translated">Pointeur Flex :</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.ftp_area" approved="yes">
+				<source>FTP AREA</source>
+				<target state="translated">ZONE FTP</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.missing_record" approved="yes">
+				<source>Missing</source>
+				<target state="translated">Manquant</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.pixels" approved="yes">
+				<source>Pixels</source>
+				<target state="translated">Pixels</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.referencesFromThisItem" approved="yes">
+				<source>References from this item:</source>
+				<target state="translated">Références de cet élément :</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.referencesToThisItem" approved="yes">
+				<source>References to this item:</source>
+				<target state="translated">Références à cet élément :</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.refString" approved="yes">
+				<source>Ref String:</source>
+				<target state="translated">Phrase ref :</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.refTable" approved="yes">
+				<source>Ref Table:</source>
+				<target state="translated">Table ref :</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.refUid" approved="yes">
+				<source>Ref Uid:</source>
+				<target state="translated">Uid ref :</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.softrefKey" approved="yes">
+				<source>Softref Key:</source>
+				<target state="translated">Clé Softref :</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.sorting" approved="yes">
+				<source>Sorting:</source>
+				<target state="translated">Tri :</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.table" approved="yes">
+				<source>Table:</source>
+				<target state="translated">Table :</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.title" approved="yes">
+				<source>Title:</source>
+				<target state="translated">Titre :</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.uid" approved="yes">
+				<source>Uid:</source>
+				<target state="translated">Uid :</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.viewItem" approved="yes">
+				<source>View Item</source>
+				<target state="translated">Visualiser l'élément</target>
+			</trans-unit>
+			<trans-unit id="tabs.close" approved="yes">
+				<source>Close Tab</source>
+				<target state="translated">Fermer l'onglet</target>
+			</trans-unit>
+			<trans-unit id="tabs.closeAll" approved="yes">
+				<source>Close All Tabs</source>
+				<target state="translated">Fermer tous les onglets</target>
+			</trans-unit>
+			<trans-unit id="tabs.closeOther" approved="yes">
+				<source>Close Other Tabs</source>
+				<target state="translated">Fermer les autres onglets</target>
+			</trans-unit>
+			<trans-unit id="tabs.openInBrowserWindow" approved="yes">
+				<source>Open In Browser Window</source>
+				<target state="translated">Ouvrir dans une nouvelle fenêtre</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.bookmark" approved="yes">
+				<source>Bookmark</source>
+				<target state="translated">Favori</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.bookmarks" approved="yes">
+				<source>Bookmarks</source>
+				<target state="translated">Favoris</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.bookmarksDelete" approved="yes">
+				<source>Delete bookmark</source>
+				<target state="translated">Supprimer le favori</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.bookmarksEdit" approved="yes">
+				<source>Edit bookmark</source>
+				<target state="translated">Éditer le favori</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.bookmarksGroup" approved="yes">
+				<source>Bookmark group</source>
+				<target state="translated">Groupe de favoris</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.search" approved="yes">
+				<source>Search</source>
+				<target state="translated">Rechercher</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.shortcut" approved="yes">
+				<source>Shortcut</source>
+				<target state="translated">Raccourci</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.shortcuts" approved="yes">
+				<source>Shortcuts</source>
+				<target state="translated">Raccourcis</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.shortcutsDelete" approved="yes">
+				<source>Delete Shortcut</source>
+				<target state="translated">Supprimer le raccourci</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.shortcutsEdit" approved="yes">
+				<source>Edit Shortcut</source>
+				<target state="translated">Modifier le raccourci</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.shortcutsGroup" approved="yes">
+				<source>Shortcut Group</source>
+				<target state="translated">Groupe de raccourci</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.workspace" approved="yes">
+				<source>Workspace</source>
+				<target state="translated">Espace de travail</target>
+			</trans-unit>
+			<trans-unit id="tree.activeFilterMode" approved="yes">
+				<source>Active Filtering Mode</source>
+				<target state="translated">Filtre activé</target>
+			</trans-unit>
+			<trans-unit id="tree.buttonFilter" approved="yes">
+				<source>Filter tree</source>
+				<target state="translated">Filtrer l'arborescence</target>
+			</trans-unit>
+			<trans-unit id="tree.buttonNewNode" approved="yes">
+				<source>Create new pages</source>
+				<target state="translated">Créer de nouvelles pages</target>
+			</trans-unit>
+			<trans-unit id="tree.copyHint" approved="yes">
+				<source>Press Ctrl to copy.</source>
+				<target state="translated">Appuyez sur Ctrl ou Cmd pour copier.</target>
+			</trans-unit>
+			<trans-unit id="tree.defaultPageTitle" approved="yes">
+				<source>[Default Title]</source>
+				<target state="translated">[Titre par défaut]</target>
+			</trans-unit>
+			<trans-unit id="tree.dropToRemove" approved="yes">
+				<source>Drop here to delete</source>
+				<target state="translated">Déplacez ici pour supprimer</target>
+			</trans-unit>
+			<trans-unit id="tree.dropZoneElementRemoved" approved="yes">
+				<source>Click here to undelete</source>
+				<target state="translated">Cliquez ici pour annuler la suppression</target>
+			</trans-unit>
+			<trans-unit id="tree.dropZoneElementRestored" approved="yes">
+				<source>Page restored</source>
+				<target state="translated">Page restaurée</target>
+			</trans-unit>
+			<trans-unit id="tree.searchTermInfo" approved="yes">
+				<source>Enter search term</source>
+				<target state="translated">Saisir les termes à rechercher</target>
+			</trans-unit>
+			<trans-unit id="TYPO3_Element_Browser" approved="yes">
+				<source>TYPO3 Element Browser</source>
+				<target state="translated">Navigateur d'éléments TYPO3</target>
+			</trans-unit>
+			<trans-unit id="ver.mgm" approved="yes">
+				<source>Version Management</source>
+				<target state="translated">Gestionnaire de version</target>
+			</trans-unit>
+			<trans-unit id="ver.online" approved="yes">
+				<source>ONLINE</source>
+				<target state="translated">EN LIGNE</target>
+			</trans-unit>
+			<trans-unit id="ver.selVer" approved="yes">
+				<source>Select version:</source>
+				<target state="translated">Choisir la version :</target>
+			</trans-unit>
+			<trans-unit id="ver.swap" approved="yes">
+				<source>Swap/Publish</source>
+				<target state="translated">Echanger / Editer</target>
+			</trans-unit>
+			<trans-unit id="ver.swapPage" approved="yes">
+				<source>Publish this version of the page including content</source>
+				<target state="translated">Publier cette version de la page (incluant le contenu)</target>
+			</trans-unit>
+			<trans-unit id="warning.backend_admin" approved="yes">
+				<source>The default backend user "admin" with password "password" is still present. %sEdit this account%s, either deleting it completely or changing the username and password.</source>
+				<target state="translated">L'utilisateur backend "admin", utilisant le mot de passe "password" est toujours actif. %sEdit this account%s, supprimez ce compte ou modifiez l'identifiant et le mot de passe.</target>
+			</trans-unit>
+			<trans-unit id="warning.backend_reference" approved="yes">
+				<source>The Reference Index table is empty which is likely the result of a recent TYPO3 upgrade. Please go to %sTools&gt;DB Check%s and update the reference index.</source>
+				<target state="translated">La table "Reference index" est vide ce qui peut être le cas lors d'une mise à jour récente de la version de TYPO3. Merci d'aller dans le module %sTools&gt;DB Check%s et de mettre à jour l'index de référence.</target>
+			</trans-unit>
+			<trans-unit id="warning.backend_reference_index" approved="no">
+				<source>The Reference Index table is empty which is likely the result of a recent TYPO3 upgrade. The Reference Index was last updated on %3$s. Please go to %sTools&gt;DB Check%s and update the reference index.</source>
+				<target state="needs-translation">La table "Reference index" est vide ce qui peut être le cas lors d'une mise à jour récente de la version de TYPO3. La table "Reference Index" a été mise à jour pour la dernière fois le %3$s. Merci d'aller dans le module %sTools&gt;DB Check%s et de mettre à jour l'index de référence.</target>
+			</trans-unit>
+			<trans-unit id="warning.file_deny_htaccess" approved="yes">
+				<source>The current value of fileDenyPattern allows to upload/create files with the name ".htaccess". If TYPO3 is running on Apache, this enables backend or frontend users to create and execute php scripts. Please reset the value of fileDenyPattern to its default.</source>
+				<target state="translated">La valeur actuelle de "fileDenyPattern" permet de télécharger / créer des fichiers avec le nom ".htaccess". Si TYPO3 est exécuté avec Apache, ceci permet à des utilisateurs backend ou frontend d'exécuter des scripts php dangereux. Veuillez réinitialiser la valeur de "fileDenyPattern" à sa valeur par défaut.</target>
+			</trans-unit>
+			<trans-unit id="warning.file_deny_pattern" approved="yes">
+				<source>The value of fileDenyPattern is not set to its default:%s If TYPO3 is running on Apache, a customized value might enable backend or frontend users to execute malicious php scripts.</source>
+				<target state="translated">La valeur de "fileDenyPattern" n'est pas paramétrée avec sa valeur par défaut : %s . Si TYPO3 est exécuté avec Apache, une valeur personnalisée pourrait permettre à des utilisateurs backend ou frontend d'exécuter des scripts php dangereux.</target>
+			</trans-unit>
+			<trans-unit id="warning.file_deny_pattern_partsNotPresent" approved="yes">
+				<source>Security Risk! The new value of fileDenyPattern misses parts of its default:%s If TYPO3 is running on Apache, a customized value might enable backend or frontend users to execute malicious php scripts.</source>
+				<target state="translated">Risque de sécurité ! La nouvelle valeur de "fileDenyPattern" a des éléments manquants par rapport à sa valeur par défaut : %s . Si TYPO3 est exécuté avec Apache, une valeur personnalisée pourrait permettre à des utilisateurs backend ou frontend d'exécuter des scripts php dangereux.</target>
+			</trans-unit>
+			<trans-unit id="warning.file_missing" approved="yes">
+				<source>File is missing!</source>
+				<target state="translated">Fichier manquant !</target>
+			</trans-unit>
+			<trans-unit id="warning.file_missing_text" approved="yes">
+				<source>This file is marked as missing:</source>
+				<target state="translated">Ce contenu fait référence à un fichier qui semble ne pas exister :</target>
+			</trans-unit>
+			<trans-unit id="warning.header" approved="yes">
+				<source>Important Notice!</source>
+				<target state="translated">Avertissement important !</target>
+			</trans-unit>
+			<trans-unit id="warning.header.storage_is_no_public" approved="yes">
+				<source>Storage is not public</source>
+				<target state="translated">Le stockage n'est pas public</target>
+			</trans-unit>
+			<trans-unit id="warning.inline_use_combination" approved="yes">
+				<source>This record will be modified globally.</source>
+				<target state="translated">Cet enregistrement sera modifié globalement.</target>
+			</trans-unit>
+			<trans-unit id="warning.install_enabled" approved="yes">
+				<source>The Install Tool is permanently enabled. Delete the file "%s" when you have finished setting up TYPO3.</source>
+				<target state="translated">Le module d'installation est actif. Supprimez le fichier "%s" une fois la configuration de TYPO3 terminée.</target>
+			</trans-unit>
+			<trans-unit id="warning.install_enabled_cmd" approved="yes">
+				<source>Click to remove the file now!</source>
+				<target state="translated">Supprimer le fichier maintenant !</target>
+			</trans-unit>
+			<trans-unit id="warning.install_encryption" approved="yes">
+				<source>The encryption key is not set. Set it in the %sBasic Configuration section%s of the Install Tool.</source>
+				<target state="translated">La clé de chiffrement n'a pas été définie. Activez la dans la section %sBasic Configuration section%s du module d'installation.</target>
+			</trans-unit>
+			<trans-unit id="warning.install_password" approved="yes">
+				<source>The Install Tool is still using the default password "joh316". Update this within the %sAbout section%s of the Install Tool.</source>
+				<target state="translated">Le module d'installation utilise actuellement le mot de passe par défaut "joh316". N'oubliez pas de le modifier dans la section %sAbout section%s du module d'installation.</target>
+			</trans-unit>
+			<trans-unit id="warning.installtool_default_password" approved="yes">
+				<source>The Install Tool is still using the default password "joh316". Update this within the %sImportant actions section%s of the Install Tool.</source>
+				<target state="translated">L'Install Tool utilise encore le mot de passe par défaut "joh316". Changez-le dans la %ssection des actions importantes%s de l'Install Tool.</target>
+			</trans-unit>
+			<trans-unit id="warning.install_update" approved="yes">
+				<source>This installation is not configured for the TYPO3 version it is running. If you did so intentionally, this message can be safely ignored. If you are unsure, visit the Update Wizard section of the %sInstall Tool%s to see how TYPO3 would change.</source>
+				<target state="translated">Cette installation TYPO3 n'est pas configurée pour la version de TYPO3 utilisée. Si cela est intentionnel, ignorez ce message. Si vous n'êtes pas certain, utilisez la section %sUpdate Wizard%s du module d'installation pour voir comme TYPO3 peut la modifier.</target>
+			</trans-unit>
+			<trans-unit id="warning.memcache_not_usable" approved="yes">
+				<source>Memcache is configured, but connection to memcached failed with these configuration(s):</source>
+				<target state="translated">Memcache est configuré, mais la connexion à memcache ne fonctionne pas avec cette / ces configuration(s) :</target>
+			</trans-unit>
+			<trans-unit id="warning.message.storage_is_no_public" approved="yes">
+				<source>The storage has been marked to be "publicly available" but is not detected as such by the driver. The setting has been reverted.</source>
+				<target state="translated">Le stockage a été marqué comme "disponible publiquement" but n'est pas détecté comme tel par le driver. La configuration précédente a été restaurée.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

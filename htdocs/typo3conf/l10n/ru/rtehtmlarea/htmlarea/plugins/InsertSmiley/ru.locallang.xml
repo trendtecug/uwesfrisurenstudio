@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="Cancel">Отмена</label>
+			<label index="Insert Smiley">Вставить смайлик</label>
+			<label index="mozilla_cool">Класс</label>
+			<label index="mozilla_cry">Слезы</label>
+			<label index="mozilla_embarassed">Смущение</label>
+			<label index="mozilla_footinmouth">Нога в рот</label>
+			<label index="mozilla_frown">Хмурый взгляд</label>
+			<label index="mozilla_innocent">Невинность</label>
+			<label index="mozilla_kiss">Поцелуй</label>
+			<label index="mozilla_laughing">Смех</label>
+			<label index="mozilla_moneyinmouth">Деньги во рту</label>
+			<label index="mozilla_sealed">Рот на замке</label>
+			<label index="mozilla_smile">Улыбка</label>
+			<label index="mozilla_surprised">Удивление</label>
+			<label index="mozilla_tongueout">Язык</label>
+			<label index="mozilla_undecided">Нерешительность</label>
+			<label index="mozilla_wink">Подмигнуть</label>
+			<label index="mozilla_yell">Вопль</label>
+			<label index="Smiley">Смайлик</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,1465 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T02:37:23Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="alttext.suggestSearching" approved="yes">
+				<source>Searching...</source>
+				<target state="translated">Поиск...</target>
+			</trans-unit>
+			<trans-unit id="buttons.clear" approved="yes">
+				<source>Clear</source>
+				<target state="translated">Очистить</target>
+			</trans-unit>
+			<trans-unit id="buttons.clipboard" approved="yes">
+				<source>Clipboard</source>
+				<target state="translated">Буфер обмена</target>
+			</trans-unit>
+			<trans-unit id="buttons.exit" approved="yes">
+				<source>Exit</source>
+				<target state="translated">Выход</target>
+			</trans-unit>
+			<trans-unit id="buttons.logout" approved="yes">
+				<source>Logout</source>
+				<target state="translated">Выход</target>
+			</trans-unit>
+			<trans-unit id="buttons.selMenu_modules" approved="yes">
+				<source>MODULES</source>
+				<target state="translated">МОДУЛИ</target>
+			</trans-unit>
+			<trans-unit id="cm.branchActions" approved="yes">
+				<source>Branch Actions</source>
+				<target state="translated">Действия для ветви</target>
+			</trans-unit>
+			<trans-unit id="cm.collapseBranch" approved="yes">
+				<source>Collapse Branch</source>
+				<target state="translated">Свернуть ветвь</target>
+			</trans-unit>
+			<trans-unit id="cm.copy" approved="yes">
+				<source>Copy</source>
+				<target state="translated">Копировать</target>
+			</trans-unit>
+			<trans-unit id="cm.copyFolder_into" approved="yes">
+				<source>Copy folder into</source>
+				<target state="translated">Копировать папку внутрь</target>
+			</trans-unit>
+			<trans-unit id="cm.copyPage_after" approved="yes">
+				<source>Copy page after</source>
+				<target state="translated">Копировать страницу после</target>
+			</trans-unit>
+			<trans-unit id="cm.copyPage_into" approved="yes">
+				<source>Copy page into</source>
+				<target state="translated">Копировать страницу внутрь</target>
+			</trans-unit>
+			<trans-unit id="cm.copyPasteActions" approved="yes">
+				<source>Page Actions</source>
+				<target state="translated">Действия со страницей</target>
+			</trans-unit>
+			<trans-unit id="cm.createnew" approved="yes">
+				<source>Create new</source>
+				<target state="translated">Создать заново</target>
+			</trans-unit>
+			<trans-unit id="cm.createnew.link" approved="yes">
+				<source>Create new %s</source>
+				<target state="translated">Создание нового %s</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="cm.createNewRelation" approved="yes">
+				<source>Create new relation</source>
+				<target state="translated">Создать новую связь</target>
+			</trans-unit>
+			<trans-unit id="cm.cut" approved="yes">
+				<source>Cut</source>
+				<target state="translated">Вырезать</target>
+			</trans-unit>
+			<trans-unit id="cm.delete" approved="yes">
+				<source>Delete</source>
+				<target state="translated">Удалить</target>
+			</trans-unit>
+			<trans-unit id="cm.deselect" approved="yes">
+				<source>Deselect</source>
+				<target state="translated">Снять выделение</target>
+			</trans-unit>
+			<trans-unit id="cm.deselectto" approved="yes">
+				<source>Deselect to</source>
+				<target state="translated">Снять выделение до</target>
+			</trans-unit>
+			<trans-unit id="cm.edit" approved="yes">
+				<source>Edit</source>
+				<target state="translated">Правка</target>
+			</trans-unit>
+			<trans-unit id="cm.editcontent" approved="yes">
+				<source>Edit content</source>
+				<target state="translated">Правка содержимого</target>
+			</trans-unit>
+			<trans-unit id="cm.editMetadata" approved="yes">
+				<source>Edit Metadata of this file</source>
+				<target state="translated">Править мета данные этого файла</target>
+			</trans-unit>
+			<trans-unit id="cm.expandBranch" approved="yes">
+				<source>Expand Branch</source>
+				<target state="translated">Раскрыть ветвь</target>
+			</trans-unit>
+			<trans-unit id="cm.hide" approved="yes">
+				<source>Hide</source>
+				<target state="translated">Сделать невидимым</target>
+			</trans-unit>
+			<trans-unit id="cm.info" approved="yes">
+				<source>Info</source>
+				<target state="translated">Информация</target>
+			</trans-unit>
+			<trans-unit id="cm.moveFolder_into" approved="yes">
+				<source>Move folder into</source>
+				<target state="translated">Переместить папку внутрь</target>
+			</trans-unit>
+			<trans-unit id="cm.movePage_after" approved="yes">
+				<source>Move page after</source>
+				<target state="translated">Переместить страницу после</target>
+			</trans-unit>
+			<trans-unit id="cm.movePage_into" approved="yes">
+				<source>Move page into</source>
+				<target state="translated">Переместить страницу внутрь</target>
+			</trans-unit>
+			<trans-unit id="cm.new" approved="yes">
+				<source>New</source>
+				<target state="translated">Создать</target>
+			</trans-unit>
+			<trans-unit id="cm.offline" approved="yes">
+				<source>Turn offline</source>
+				<target state="translated">Включить offline</target>
+			</trans-unit>
+			<trans-unit id="cm.online" approved="yes">
+				<source>Turn online</source>
+				<target state="translated">Включить online</target>
+			</trans-unit>
+			<trans-unit id="cm.open" approved="yes">
+				<source>Open</source>
+				<target state="translated">Открыть</target>
+			</trans-unit>
+			<trans-unit id="cm.pasteafter" approved="yes">
+				<source>Paste after</source>
+				<target state="translated">Вставить после</target>
+			</trans-unit>
+			<trans-unit id="cm.pasteinto" approved="yes">
+				<source>Paste into</source>
+				<target state="translated">Вставить внутрь</target>
+			</trans-unit>
+			<trans-unit id="cm.rename" approved="yes">
+				<source>Rename</source>
+				<target state="translated">Переименовать</target>
+			</trans-unit>
+			<trans-unit id="cm.save" approved="yes">
+				<source>Save</source>
+				<target state="translated">Сохранить</target>
+			</trans-unit>
+			<trans-unit id="cm.select" approved="yes">
+				<source>Select</source>
+				<target state="translated">Выделить</target>
+			</trans-unit>
+			<trans-unit id="cm.selectto" approved="yes">
+				<source>Select to</source>
+				<target state="translated">Выделить до</target>
+			</trans-unit>
+			<trans-unit id="cm.tempMountPoint" approved="yes">
+				<source>Mount as treeroot</source>
+				<target state="translated">Монтировать как корень дерева</target>
+			</trans-unit>
+			<trans-unit id="cm.unhide" approved="yes">
+				<source>Unhide</source>
+				<target state="translated">Сделать видимым</target>
+			</trans-unit>
+			<trans-unit id="cm.unzip" approved="yes">
+				<source>Unzip</source>
+				<target state="translated">Разархивировать ZIP</target>
+			</trans-unit>
+			<trans-unit id="cm.upload" approved="yes">
+				<source>Upload Files</source>
+				<target state="translated">Загрузка файлов</target>
+			</trans-unit>
+			<trans-unit id="cm.view" approved="yes">
+				<source>Show</source>
+				<target state="translated">Просмотр</target>
+			</trans-unit>
+			<trans-unit id="csh_tooltip_loading" approved="yes">
+				<source>Loading help...</source>
+				<target state="translated">Загрузка справки...</target>
+			</trans-unit>
+			<trans-unit id="db_new.php.after" approved="yes">
+				<source>after</source>
+				<target state="translated">После</target>
+			</trans-unit>
+			<trans-unit id="db_new.php.inside" approved="yes">
+				<source>inside</source>
+				<target state="translated">Внутри</target>
+			</trans-unit>
+			<trans-unit id="db_new.php.pagetitle" approved="yes">
+				<source>New record</source>
+				<target state="translated">Новая запись</target>
+			</trans-unit>
+			<trans-unit id="donateWindow.button_disable" approved="yes">
+				<source>Never show again</source>
+				<target state="translated">Больше не показывать</target>
+			</trans-unit>
+			<trans-unit id="donateWindow.button_donate" approved="yes">
+				<source>Donate now</source>
+				<target state="translated">Сделать пожертвование</target>
+			</trans-unit>
+			<trans-unit id="donateWindow.button_postpone" approved="yes">
+				<source>Remind me later</source>
+				<target state="translated">Напомнить позже</target>
+			</trans-unit>
+			<trans-unit id="donateWindow.message" approved="yes">
+				<source>&lt;b&gt;You have now used TYPO3 for more than three months.&lt;/b&gt; It would be great if you could donate. TYPO3 is Open Source and relies heavily on donations from its users and supporters.&lt;br/&gt; &lt;b&gt;Thank you&lt;/b&gt; for making this great Content Management System even better with your help!</source>
+				<target state="translated">&lt;b&gt;На данный момент Вы пользуетесь TYPO3 более трех месяцев.&lt;/b&gt; Было бы замечательно, если бы Вы рассмотрели возможность сделать пожертвоание. TYPO3 является программным обеспечением с открытым кодом и развивается в основном за счет пожертвоаний от своих пользователей и приверженцев.&lt;br/&gt; &lt;b&gt;Благодарим&lt;/b&gt; за Вашу помощь в развитии этой превосходной Системы управления информационным наполнением!</target>
+			</trans-unit>
+			<trans-unit id="donateWindow.title" approved="yes">
+				<source>TYPO3 donation notice</source>
+				<target state="translated">Заметки о пожертвовании для TYPO3</target>
+			</trans-unit>
+			<trans-unit id="error.database_schema_mismatch" approved="yes">
+				<source>A SQL error occurred. This may indicate a schema mismatch between TCA and the database. Try running database compare in the Install Tool.</source>
+				<target state="translated">Ошибка SQL. Это может указывать на различие схем TCA и базы данных. Попытайтесь выполнить команду database compare в Install Tool.</target>
+			</trans-unit>
+			<trans-unit id="error.database_schema_mismatch_title" approved="yes">
+				<source>Database Error</source>
+				<target state="translated">Ошибка базы данных</target>
+			</trans-unit>
+			<trans-unit id="error.formProtection.tokenInvalid" approved="yes">
+				<source>Validating the security token of this form has failed. Please reload the form and submit it again.</source>
+				<target state="translated">Произошла ошибка при проверке этой формы. Перезагрузите форму и сохраните данные снова.</target>
+			</trans-unit>
+			<trans-unit id="error.items_proc_func_error" approved="no">
+				<source>An error occurred trying to process items for field "%1$s" (%2$s).</source>
+				<target state="needs-translation">При обработке поля "%1$s" (%2$s) записи произошла ошибка.</target>
+			</trans-unit>
+			<trans-unit id="ExtDirect.namespaceError" xml:space="preserve" approved="yes">
+				<source>Ext Direct error in "%s" with namespace: "%s"\n
+Try to clear the TYPO3 cache and / or use parameter no_cache=1 as parameter in URL typo3/index.php\n\n
+Check also the following points:\n
+- configuration in ext_localconf.php: registration key should be like "TYPO3.MyExtension.Sample"\n
+- URL typo3/index.php: namespace parameter should be like: "TYPO3.MyExtension"\n
+- javascript: method\'s name should be like: "TYPO3.MyExtension.Sample.myMethod"\n</source>
+			<target state="translated">Ошибка предписания расширения в "%s" с пространством имен: "%s"\n
+Попытайтесь очистить кеш TYPO3 и / или используйте параметр no_cache=1 для URL typo3/index.php\n\n
+Также проверьте следующие моменты:\n
+- настройку в ext_localconf.php: ключ регистрации должен быть похож на "TYPO3.MyExtension.Sample"\n
+- URL typo3/index.php: параметр области имен должен выглядеть примерно так: "TYPO3.MyExtension"\n
+- javascript: method\'s название метода должно быть примерно таким: "TYPO3.MyExtension.Sample.myMethod"\n</target></trans-unit>
+			<trans-unit id="ExtDirect.noNamespace" approved="yes">
+				<source>Ext Direct error in "%s": no namespace has been found.</source>
+				<target state="translated">Ошибка предписания расширения в "%s": не найдено пространство имен.</target>
+			</trans-unit>
+			<trans-unit id="extension.not.installed" approved="yes">
+				<source>Extension "%s" is not installed.</source>
+				<target state="translated">Не установлено расширение "%s".</target>
+			</trans-unit>
+			<trans-unit id="file_clipupload.php.warning" approved="yes">
+				<source>No upload-folder is found. You should create a TEMP-folder ("_temp_") in the root of one of your mounts first!</source>
+				<target state="translated">Не найдена папка для загрузки на сервер. Создайте папку '_temp_' в одной из ваших папок.</target>
+			</trans-unit>
+			<trans-unit id="file_clipupload.php.warning_head" approved="yes">
+				<source>Upload path error</source>
+				<target state="translated">Ошибка: путь для загрузки на сервер</target>
+			</trans-unit>
+			<trans-unit id="file_edit.php.coundNot" approved="yes">
+				<source>This filetype cannot be edited.&lt;br /&gt;The file must have an extension like:&lt;br /&gt;&lt;br /&gt; &lt;b&gt;%s&lt;/b&gt;</source>
+				<target state="translated">Файл этого типа нельзя редактировать.&lt;br /&gt;Поддерживаются только файлы с расширениями:&lt;br /&gt;&lt;br /&gt; &lt;b&gt;%s&lt;/b&gt;</target>
+			</trans-unit>
+			<trans-unit id="file_edit.php.pagetitle" approved="yes">
+				<source>Edit</source>
+				<target state="translated">Редактирование</target>
+			</trans-unit>
+			<trans-unit id="file_edit.php.saveAndClose" approved="yes">
+				<source>Save and Close</source>
+				<target state="translated">Сохранить и закрыть</target>
+			</trans-unit>
+			<trans-unit id="file_edit.php.submit" approved="yes">
+				<source>Save</source>
+				<target state="translated">Сохранить</target>
+			</trans-unit>
+			<trans-unit id="file_newfolder.php.folders" approved="yes">
+				<source>folders</source>
+				<target state="translated">Директории</target>
+			</trans-unit>
+			<trans-unit id="file_newfolder.php.newfile" approved="yes">
+				<source>Create new textfile</source>
+				<target state="translated">Создать текстовой файл</target>
+			</trans-unit>
+			<trans-unit id="file_newfolder.php.newfile_submit" approved="yes">
+				<source>Create file</source>
+				<target state="translated">Создать файл</target>
+			</trans-unit>
+			<trans-unit id="file_newfolder.php.number_of_folders" approved="yes">
+				<source>Number of folders:</source>
+				<target state="translated">Количество папок:</target>
+			</trans-unit>
+			<trans-unit id="file_newfolder.php.pagetitle" approved="yes">
+				<source>New file or folder</source>
+				<target state="translated">Новый файл или директория</target>
+			</trans-unit>
+			<trans-unit id="file_newfolder.php.submit" approved="yes">
+				<source>Create folders</source>
+				<target state="translated">Создать директорию</target>
+			</trans-unit>
+			<trans-unit id="file_rename.php.pagetitle" approved="yes">
+				<source>Rename</source>
+				<target state="translated">Переименовать</target>
+			</trans-unit>
+			<trans-unit id="file_rename.php.submit" approved="yes">
+				<source>Rename</source>
+				<target state="translated">Переименовать</target>
+			</trans-unit>
+			<trans-unit id="file_upload.dropzonehint.message" approved="yes">
+				<source>Drop your files here, or &lt;u&gt;click, browse &amp; choose files&lt;/u&gt;</source>
+				<target state="translated">Перетащите файлы сюда или &lt;u&gt;щелкните, найдите и выберете файлы&lt;/u&gt;</target>
+			</trans-unit>
+			<trans-unit id="file_upload.dropzonehint.title" approved="yes">
+				<source>Drag &amp; drop to upload files</source>
+				<target state="translated">Перетащите файлы сюда для загрузки</target>
+			</trans-unit>
+			<trans-unit id="file_upload.fileExtensionExpected" approved="yes">
+				<source>Upload failed! A file with "{0}" extension is expected!</source>
+				<target state="translated">Ошибка загрузки! Ожидается файл с расширением "{0}"!</target>
+			</trans-unit>
+			<trans-unit id="file_upload.fileNotAllowed" approved="yes">
+				<source>Filename "{0}" is not allowed!</source>
+				<target state="translated">Недопустимое имя файла "{0}"!</target>
+			</trans-unit>
+			<trans-unit id="file_upload.maxFileSizeExceeded" approved="yes">
+				<source>File "{0}" exceeds maximum file size of {1}!</source>
+				<target state="translated">Файл "{0}" превышает максимальный размер для файла в {1}!</target>
+			</trans-unit>
+			<trans-unit id="file_upload.overwriteExistingFiles" approved="no">
+				<source>Shall existing files be overwritten?</source>
+				<target state="needs-translation">Перезаписать существующие файлы?</target>
+			</trans-unit>
+			<trans-unit id="file_upload.php.files" approved="yes">
+				<source>files</source>
+				<target state="translated">Файлы</target>
+			</trans-unit>
+			<trans-unit id="file_upload.php.number_of_files" approved="yes">
+				<source>Number of files:</source>
+				<target state="translated">Количество файлов:</target>
+			</trans-unit>
+			<trans-unit id="file_upload.php.pagetitle" approved="yes">
+				<source>Upload files</source>
+				<target state="translated">Загрузка файлов на сервер</target>
+			</trans-unit>
+			<trans-unit id="file_upload.php.submit" approved="yes">
+				<source>Upload files</source>
+				<target state="translated">Загрузить</target>
+			</trans-unit>
+			<trans-unit id="file_upload.select-and-submit" approved="yes">
+				<source>Select &amp; upload files</source>
+				<target state="translated">Выберите и загрузите файлы</target>
+			</trans-unit>
+			<trans-unit id="file_upload.uploadFailed" approved="yes">
+				<source>Upload of file "{0}" failed!</source>
+				<target state="translated">Ошибка загрузки файла "{0}"!</target>
+			</trans-unit>
+			<trans-unit id="file_upload.upload-finished" approved="yes">
+				<source>Upload complete! Filelist reloading...</source>
+				<target state="translated">Загрузка завершена! Обновление списка файлов...</target>
+			</trans-unit>
+			<trans-unit id="file_upload.upload-in-progress" approved="yes">
+				<source>File upload in progress...</source>
+				<target state="translated">Загрузка файлов...</target>
+			</trans-unit>
+			<trans-unit id="file_upload.upload-progress-info" approved="yes">
+				<source>Uploading file {0} out of {1} files.</source>
+				<target state="translated">Загружается файл {0} из {1}.</target>
+			</trans-unit>
+			<trans-unit id="flushAllCachesDescription" approved="yes">
+				<source>Clear all caches, including frontend caches, and extension-specific caches. Compile-time caches / system caches that are needed for TYPO3 to run are not touched.</source>
+				<target state="translated">Очистка всех кешей, включая кеши внешнего интерфейса и кеши расширений. Кеши временной компиляции / системные кеши, необходимые для работы TYPO3 не затрагиваются.</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v8</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v8</note>
+			</trans-unit>
+			<trans-unit id="flushAllCachesTitle" approved="yes">
+				<source>Flush all caches</source>
+				<target state="translated">Очистить все кеши</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v8</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v8
+This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 This label is deprecated (not used anymore) since TYPO3v8 75%</note>
+			</trans-unit>
+			<trans-unit id="flushGeneralCachesDescription" approved="yes">
+				<source>Clear frontend and page-related caches, plus some backend-related caches.</source>
+				<target state="translated">Очистка кешей внешнего интерфейса и страниц, плюс некоторых внутренних кешей.</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v8</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v8</note>
+			</trans-unit>
+			<trans-unit id="flushGeneralCachesTitle" approved="yes">
+				<source>Flush general caches</source>
+				<target state="translated">Очистить общий кеш</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v8</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v8</note>
+			</trans-unit>
+			<trans-unit id="flushPageCachesDescription" approved="yes">
+				<source>Clear frontend and page-related caches.</source>
+				<target state="translated">Очистка внешнего интерфейса и связанных со страницами сайта кешей.</target>
+			</trans-unit>
+			<trans-unit id="flushPageCachesTitle" approved="yes">
+				<source>Flush frontend caches</source>
+				<target state="translated">Очистить кеш внешнего интерфейса</target>
+			</trans-unit>
+			<trans-unit id="flushSystemCachesDescription" approved="no">
+				<source>Clear all system-related caches, including the class loader, localization and extension configuration file caches. Rebuilding this cache may take some time. </source>
+				<target state="needs-translation">Очистка всех системных кешей, включая файлы загрузчика классов, локализации и настройки расширений. Перестроение этого кеша может потребовать времени.</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v8</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v8</note>
+			</trans-unit>
+			<trans-unit id="flushSystemCachesTitle" approved="no">
+				<source>Flush system caches</source>
+				<target state="needs-translation">Очистить системный кеш</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v8</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v8</note>
+			</trans-unit>
+			<trans-unit id="labels.addnew" approved="yes">
+				<source>Add new</source>
+				<target state="translated">Добавить новую</target>
+			</trans-unit>
+			<trans-unit id="labels.allow" approved="yes">
+				<source>Allow</source>
+				<target state="translated">Разрешить</target>
+			</trans-unit>
+			<trans-unit id="labels.allTables" approved="yes">
+				<source>[All tables]</source>
+				<target state="translated">[Все таблицы]</target>
+			</trans-unit>
+			<trans-unit id="labels.author" approved="yes">
+				<source>Author:</source>
+				<target state="translated">Автор:</target>
+			</trans-unit>
+			<trans-unit id="labels.automatic" approved="yes">
+				<source>Auto</source>
+				<target state="translated">Авто</target>
+			</trans-unit>
+			<trans-unit id="labels.beUser" approved="yes">
+				<source>BE-User</source>
+				<target state="translated">Внутренний пользователь</target>
+			</trans-unit>
+			<trans-unit id="labels.browse_db" approved="yes">
+				<source>Browse for records</source>
+				<target state="translated">Обзор записей</target>
+			</trans-unit>
+			<trans-unit id="labels.browse_file" approved="yes">
+				<source>Browse for files</source>
+				<target state="translated">Обзор файлов</target>
+			</trans-unit>
+			<trans-unit id="labels.cancel" approved="yes">
+				<source>Cancel</source>
+				<target state="translated">Отменить</target>
+			</trans-unit>
+			<trans-unit id="labels.category" approved="yes">
+				<source>Category:</source>
+				<target state="translated">Категория:</target>
+			</trans-unit>
+			<trans-unit id="labels.changeInOrig" approved="yes">
+				<source>Changed in original translation</source>
+				<target state="translated">Изменено в оригинале</target>
+			</trans-unit>
+			<trans-unit id="labels.checkAll" approved="yes">
+				<source>Check all</source>
+				<target state="translated">Выбрать все</target>
+			</trans-unit>
+			<trans-unit id="labels.clear_cache" approved="yes">
+				<source>Clear cache for this page</source>
+				<target state="translated">Очистить кеш этой страницы</target>
+			</trans-unit>
+			<trans-unit id="labels.clipInsert_db" approved="yes">
+				<source>Insert %s record(s) from the clipboard</source>
+				<target state="translated">Вставить %s записи из буфера обмена</target>
+			</trans-unit>
+			<trans-unit id="labels.clipInsert_file" approved="yes">
+				<source>Insert %s file(s) from the clipboard</source>
+				<target state="translated">Вставить %s файлы из буфера обмена</target>
+			</trans-unit>
+			<trans-unit id="labels.clipNoEl" xml:space="preserve" approved="yes">
+				<source>No elements</source>
+			<target state="translated">Нет элементов</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="labels.cliptabs" approved="yes">
+				<source>Clipboard #</source>
+				<target state="translated">Буфер №</target>
+			</trans-unit>
+			<trans-unit id="labels.cliptabs-description" approved="yes">
+				<source>This clipboard allows to select and edit/copy/move multiple records at once. Choose it to show a checkbox by each record.</source>
+				<target state="translated">Такой буфер позволяет выбирать и править/копировать/перемещать несколько записей за раз. Выберете его для вывода флажков для выбора отдельных записей.</target>
+			</trans-unit>
+			<trans-unit id="labels.cliptabs-name" approved="yes">
+				<source>Clipboard #%s (multi-selection mode)</source>
+				<target state="translated">Буфер №%s (режим множественного выбора)</target>
+			</trans-unit>
+			<trans-unit id="labels.close" approved="yes">
+				<source>Close</source>
+				<target state="translated">Закрыть</target>
+			</trans-unit>
+			<trans-unit id="labels.collapseTable" approved="yes">
+				<source>Collapse table</source>
+				<target state="translated">Свернуть таблицу</target>
+			</trans-unit>
+			<trans-unit id="labels._CONTROL_" approved="yes">
+				<source>Control</source>
+				<target state="translated">Управление</target>
+			</trans-unit>
+			<trans-unit id="labels.copymode" approved="yes">
+				<source>Copy items instead of moving them</source>
+				<target state="translated">Копирование элементов вместо перемещения</target>
+			</trans-unit>
+			<trans-unit id="labels.count" approved="yes">
+				<source>Quantity:</source>
+				<target state="translated">Количество:</target>
+			</trans-unit>
+			<trans-unit id="labels.createNewPage" approved="yes">
+				<source>Create new %s</source>
+				<target state="translated">Создание нового %s</target>
+			</trans-unit>
+			<trans-unit id="labels.createNewRecord" approved="yes">
+				<source>Create new %s on page "%s"</source>
+				<target state="translated">Создание новой %s на странице "%s"</target>
+			</trans-unit>
+			<trans-unit id="labels.createNewRecordRootLevel" approved="yes">
+				<source>Create new %s on root level</source>
+				<target state="translated">Создание новой %s на корневом уровне</target>
+			</trans-unit>
+			<trans-unit id="labels.csv" approved="yes">
+				<source>Download CSV file</source>
+				<target state="translated">Загрузить CSV-файл</target>
+			</trans-unit>
+			<trans-unit id="labels.days" approved="yes">
+				<source>days</source>
+				<target state="translated">Дн.</target>
+			</trans-unit>
+			<trans-unit id="labels.deny" approved="yes">
+				<source>Deny</source>
+				<target state="translated">Отказать</target>
+			</trans-unit>
+			<trans-unit id="labels.depth_0" approved="yes">
+				<source>This page</source>
+				<target state="translated">Эта страница</target>
+			</trans-unit>
+			<trans-unit id="labels.depth_1" approved="yes">
+				<source>1 level</source>
+				<target state="translated">1 подуровень</target>
+			</trans-unit>
+			<trans-unit id="labels.depth_2" approved="yes">
+				<source>2 levels</source>
+				<target state="translated">2 подуровня</target>
+			</trans-unit>
+			<trans-unit id="labels.depth_3" approved="yes">
+				<source>3 levels</source>
+				<target state="translated">3 подуровня</target>
+			</trans-unit>
+			<trans-unit id="labels.depth_4" approved="yes">
+				<source>4 levels</source>
+				<target state="translated">4 подуровня</target>
+			</trans-unit>
+			<trans-unit id="labels.depth_infi" approved="yes">
+				<source>Infinite</source>
+				<target state="translated">бесконечно</target>
+			</trans-unit>
+			<trans-unit id="labels.disableRTE" approved="yes">
+				<source>Disable Rich Text Editor (RTE)</source>
+				<target state="translated">Выключить визуальный редактор (RTE)</target>
+			</trans-unit>
+			<trans-unit id="labels.editPage" approved="yes">
+				<source>Edit %s "%s"</source>
+				<target state="translated">Правка %s "%s"</target>
+			</trans-unit>
+			<trans-unit id="labels.editRecord" approved="yes">
+				<source>Edit %s "%s" on page "%s"</source>
+				<target state="translated">Правка %s "%s" на странице "%s"</target>
+			</trans-unit>
+			<trans-unit id="labels.editRecordNoTitle" approved="yes">
+				<source>Edit %s on page "%s"</source>
+				<target state="translated">Правка %s на странице "%s"</target>
+			</trans-unit>
+			<trans-unit id="labels.editRecordRootLevel" approved="yes">
+				<source>Edit %s "%s" on root level</source>
+				<target state="translated">Правка %s "%s" на корневом уровне</target>
+			</trans-unit>
+			<trans-unit id="labels.enabled" approved="yes">
+				<source>Enabled</source>
+				<target state="translated">Включено</target>
+			</trans-unit>
+			<trans-unit id="labels.endtime" approved="yes">
+				<source>End</source>
+				<target state="translated">Конец публикации</target>
+			</trans-unit>
+			<trans-unit id="labels.enterSearchLevels" approved="yes">
+				<source>This page|1 level down|2 levels down|3 levels down|4 levels down</source>
+				<target state="translated">На этой странице | Включая 1 подуровень | Включая 2 подуровня | Включая 3 подуровня | Включая 4 подуровня</target>
+			</trans-unit>
+			<trans-unit id="labels.enterSearchString" approved="no">
+				<source>Enter search term</source>
+				<target state="needs-translation">Найти текст:</target>
+			</trans-unit>
+			<trans-unit id="labels.expandAll" approved="yes">
+				<source>Expand all</source>
+				<target state="translated">Развернуть все</target>
+			</trans-unit>
+			<trans-unit id="labels.expandTable" approved="yes">
+				<source>Expand table</source>
+				<target state="translated">Развернуть таблицу</target>
+			</trans-unit>
+			<trans-unit id="labels.feUser" approved="yes">
+				<source>FE-User</source>
+				<target state="translated">Внешний пользователь</target>
+			</trans-unit>
+			<trans-unit id="labels.fieldsChanged" xml:space="preserve" approved="yes">
+				<source>There are unsaved changes in the form!
+Do you want to continue WITHOUT saving?</source>
+			<target state="translated">Некоторые изменения в форме не сохранены! Вы уверены, что хотите продолжить БЕЗ сохранения?</target></trans-unit>
+			<trans-unit id="labels.fieldsMissing" approved="no">
+				<source>The fields marked with an exclamation mark are not yet correctly filled in. Please complete them properly.</source>
+				<target state="needs-translation">Некоторые поля формы заполнены неправильно. Они помечены желтым восклицательным знаком. Пожалуйста, заполните их надлежащим образом.</target>
+			</trans-unit>
+			<trans-unit id="labels.findRecord" approved="yes">
+				<source>Find records</source>
+				<target state="translated">Найти записи</target>
+			</trans-unit>
+			<trans-unit id="labels.generalOptions" approved="yes">
+				<source>General options:</source>
+				<target state="translated">Общие настройки:</target>
+			</trans-unit>
+			<trans-unit id="labels.generalOptions_more" approved="yes">
+				<source>General options (continued):</source>
+				<target state="translated">Общие настройки (продолжение):</target>
+			</trans-unit>
+			<trans-unit id="labels.generalTab" approved="yes">
+				<source>General</source>
+				<target state="translated">Общее</target>
+			</trans-unit>
+			<trans-unit id="labels.goBack" approved="yes">
+				<source>Go back</source>
+				<target state="translated">Вернуться</target>
+			</trans-unit>
+			<trans-unit id="labels.hidden" approved="yes">
+				<source>Hidden</source>
+				<target state="translated">Скрыта</target>
+			</trans-unit>
+			<trans-unit id="labels.holdDownCTRL" approved="yes">
+				<source>Important: Hold down the CTRL key while toggling elements in this list!</source>
+				<target state="translated">Важно: держите клавишу Ctrl, выбирая элементы этого списка!</target>
+			</trans-unit>
+			<trans-unit id="labels.items" approved="yes">
+				<source>Available Items</source>
+				<target state="translated">Доступны записи</target>
+			</trans-unit>
+			<trans-unit id="labels._LOCALIZATION_" approved="yes">
+				<source>Localization</source>
+				<target state="translated">Локализация</target>
+			</trans-unit>
+			<trans-unit id="labels.lockedRecord" approved="yes">
+				<source>The user '%s' began to edit this record %s ago.</source>
+				<target state="translated">Пользователь '%s' начал редактирование этой записи %s назад.</target>
+			</trans-unit>
+			<trans-unit id="labels.lockedRecord_content" approved="yes">
+				<source>The user '%s' began to edit content on this page %s ago.</source>
+				<target state="translated">Пользователь '%s' начал редактирование содержимого этой страницы %s назад.</target>
+			</trans-unit>
+			<trans-unit id="labels.lockedRecordUser" approved="yes">
+				<source>The %s '%s' began to edit this record %s ago.</source>
+				<target state="translated">%s '%s' начал редактирование этой записи %s назад.</target>
+			</trans-unit>
+			<trans-unit id="labels.lockedRecordUser_content" approved="yes">
+				<source>The %s '%s' began to edit content on this page %s ago.</source>
+				<target state="translated">%s '%s' начал редактирование содержимого этой страницы %s назад.</target>
+			</trans-unit>
+			<trans-unit id="labels.makeBookmark" approved="yes">
+				<source>Create a bookmark to this page</source>
+				<target state="translated">Создать закладку на этой странице</target>
+			</trans-unit>
+			<trans-unit id="labels.makeShortcut" approved="yes">
+				<source>Create a shortcut to this page?</source>
+				<target state="translated">Создать указатель на эту страницу?</target>
+			</trans-unit>
+			<trans-unit id="labels.menu" approved="yes">
+				<source>Menu:</source>
+				<target state="translated">Меню:</target>
+			</trans-unit>
+			<trans-unit id="labels.minutesHoursDaysYears" approved="no">
+				<source> min| hrs| days| yrs| min| hour| day| year</source>
+				<target state="needs-translation">мин.| час.| дн.| гд.</target>
+			</trans-unit>
+			<trans-unit id="labels.moreOptions" xml:space="preserve" approved="yes">
+				<source>More options...</source>
+			<target state="translated">Дополнительные настройки...</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="labels.move" approved="yes">
+				<source>Move this item</source>
+				<target state="translated">Переместить этот элемент</target>
+			</trans-unit>
+			<trans-unit id="labels.move_down" approved="yes">
+				<source>Move selected items downwards</source>
+				<target state="translated">Переместить выбранные записи ниже</target>
+			</trans-unit>
+			<trans-unit id="labels.move_to_bottom" approved="yes">
+				<source>Move selected items to bottom</source>
+				<target state="translated">Переместить выбранные записи вниз</target>
+			</trans-unit>
+			<trans-unit id="labels.move_to_top" approved="yes">
+				<source>Move selected items to top</source>
+				<target state="translated">Переместить выбранную запись вверх</target>
+			</trans-unit>
+			<trans-unit id="labels.move_up" approved="yes">
+				<source>Move selected items upwards</source>
+				<target state="translated">Переместить выбранные записи выше</target>
+			</trans-unit>
+			<trans-unit id="labels.new" approved="yes">
+				<source>NEW</source>
+				<target state="translated">СОЗДАТЬ</target>
+			</trans-unit>
+			<trans-unit id="labels.new_section" approved="yes">
+				<source>Create new:</source>
+				<target state="translated">Создать новое:</target>
+			</trans-unit>
+			<trans-unit id="labels.noEditPermission" approved="yes">
+				<source>Sorry, you didn't have proper permissions to perform this change.</source>
+				<target state="translated">К сожалению, у вас недостаточно прав, чтобы выполнить это изменение.</target>
+			</trans-unit>
+			<trans-unit id="labels.noMatchingValue" approved="yes">
+				<source>INVALID VALUE ("%s")</source>
+				<target state="translated">НЕВЕРНОЕ ЗНАЧЕНИЕ (%s)</target>
+			</trans-unit>
+			<trans-unit id="labels.noRecordFound" approved="yes">
+				<source>No record found</source>
+				<target state="translated">Записи не найдены</target>
+			</trans-unit>
+			<trans-unit id="labels.normal" approved="yes">
+				<source>Normal (single record mode)</source>
+				<target state="translated">Обычный (режим одной записи)</target>
+			</trans-unit>
+			<trans-unit id="labels.normal-description" approved="yes">
+				<source>"Normal" clipboard allows to copy/move one record at time.</source>
+				<target state="translated">"Обычный" буфер обмена позволяет копировать/перемещать по одной записи за раз.</target>
+			</trans-unit>
+			<trans-unit id="labels.noRTEfound" approved="yes">
+				<source>Notice: This field can only be edited with a Rich Text Editor. No editor is currently available or enabled.</source>
+				<target state="translated">Внимание, это поле можно редактировать только с помощью визуального редактора (RTE), а он не установлен или отключен.</target>
+			</trans-unit>
+			<trans-unit id="labels.note" approved="yes">
+				<source>Note:</source>
+				<target state="translated">Комментарий:</target>
+			</trans-unit>
+			<trans-unit id="labels.no_title" approved="yes">
+				<source>No title</source>
+				<target state="translated">Без названия</target>
+			</trans-unit>
+			<trans-unit id="labels.openInNewWindow" approved="yes">
+				<source>Open in new window</source>
+				<target state="translated">Открыть в новом окне</target>
+			</trans-unit>
+			<trans-unit id="labels.path" approved="yes">
+				<source>Path</source>
+				<target state="translated">Путь</target>
+			</trans-unit>
+			<trans-unit id="labels._PATH_" approved="yes">
+				<source>Path</source>
+				<target state="translated">Путь</target>
+			</trans-unit>
+			<trans-unit id="labels.placeholder.override" approved="no">
+				<source>Set element specific value (Default: "%s")</source>
+				<target state="needs-translation">Переписать "%s"?</target>
+			</trans-unit>
+			<trans-unit id="labels.referencesToFile" approved="no">
+				<source>(There are %s reference(s) to this file!)</source>
+				<target state="needs-translation">(Имеется %s ссылок на эту запись!)</target>
+			</trans-unit>
+			<trans-unit id="labels.referencesToFolder" approved="no">
+				<source>(There are %s reference(s) to this folder!)</source>
+				<target state="needs-translation">(Имеется %s ссылок на эту запись!)</target>
+			</trans-unit>
+			<trans-unit id="labels.referencesToRecord" approved="yes">
+				<source>(There are %s reference(s) to this record!)</source>
+				<target state="translated">(Имеется %s ссылок на эту запись!)</target>
+			</trans-unit>
+			<trans-unit id="labels.refresh" approved="yes">
+				<source>Reload the tree from server</source>
+				<target state="translated">Обновить дерево</target>
+			</trans-unit>
+			<trans-unit id="labels.refreshList" approved="yes">
+				<source>Reload list from server</source>
+				<target state="translated">Обновить список</target>
+			</trans-unit>
+			<trans-unit id="labels.reload" approved="yes">
+				<source>Reload</source>
+				<target state="translated">Перезагрузить</target>
+			</trans-unit>
+			<trans-unit id="labels.removeItem" approved="yes">
+				<source>Remove item</source>
+				<target state="translated">Удалить запись</target>
+			</trans-unit>
+			<trans-unit id="labels.remove_selected" approved="yes">
+				<source>Remove selected items</source>
+				<target state="translated">Удалить выбранные записи</target>
+			</trans-unit>
+			<trans-unit id="labels.resetFilter" approved="yes">
+				<source>Reset Filter</source>
+				<target state="translated">Убрать фильтр</target>
+			</trans-unit>
+			<trans-unit id="labels.revertSelection" approved="yes">
+				<source>Revert selection</source>
+				<target state="translated">Обратить изменение</target>
+			</trans-unit>
+			<trans-unit id="labels.rootLevel" approved="yes">
+				<source>root level</source>
+				<target state="translated">корневой уровень</target>
+			</trans-unit>
+			<trans-unit id="labels.search" approved="yes">
+				<source>Search</source>
+				<target state="translated">Поиск</target>
+			</trans-unit>
+			<trans-unit id="labels.selected" approved="yes">
+				<source>Selected Items</source>
+				<target state="translated">Выбраны записи</target>
+			</trans-unit>
+			<trans-unit id="labels.setAllCheckboxes" approved="yes">
+				<source>Select All Checkboxes</source>
+				<target state="translated">Выбрать все</target>
+			</trans-unit>
+			<trans-unit id="labels.setFields" approved="yes">
+				<source>Set fields</source>
+				<target state="translated">Заполнить поля</target>
+			</trans-unit>
+			<trans-unit id="labels.show" approved="yes">
+				<source>Show</source>
+				<target state="translated">Показать</target>
+			</trans-unit>
+			<trans-unit id="labels.showDescriptions" xml:space="preserve" approved="yes">
+				<source>Show field descriptions</source>
+			<target state="translated">Показать описания полей</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="labels.showList" approved="yes">
+				<source>Show record list</source>
+				<target state="translated">Показать список записей</target>
+			</trans-unit>
+			<trans-unit id="labels.showPage" approved="yes">
+				<source>View webpage</source>
+				<target state="translated">Просмотреть веб-страницу</target>
+			</trans-unit>
+			<trans-unit id="labels.showPalettes" xml:space="preserve" approved="yes">
+				<source>Show secondary options (palettes)</source>
+			<target state="translated">Показать дополнительные настройки</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="labels.showRecords" approved="yes">
+				<source>Show records</source>
+				<target state="translated">Просмотр записей</target>
+			</trans-unit>
+			<trans-unit id="labels.starttime" approved="yes">
+				<source>Start</source>
+				<target state="translated">Начало публикации</target>
+			</trans-unit>
+			<trans-unit id="labels.table" approved="yes">
+				<source>Table</source>
+				<target state="translated">Таблица</target>
+			</trans-unit>
+			<trans-unit id="labels.temporaryDBmount" approved="yes">
+				<source>Cancel temporary DB mount</source>
+				<target state="translated">Отменить временное монтирование БД</target>
+			</trans-unit>
+			<trans-unit id="labels.thumbmode_clip" approved="yes">
+				<source>Show Thumbnails on ClipBoard</source>
+				<target state="translated">Показать миниатюры в буфере обмена</target>
+			</trans-unit>
+			<trans-unit id="labels.toggleall" approved="yes">
+				<source>Toggle all</source>
+				<target state="translated">Переключить все</target>
+			</trans-unit>
+			<trans-unit id="labels.translationsOfRecord" approved="yes">
+				<source>(This record has %s translation(s) which will be deleted, too!)</source>
+				<target state="translated">(Запись имела %s переводов, которые также были удалены!)</target>
+			</trans-unit>
+			<trans-unit id="labels.uncheckAll" approved="yes">
+				<source>Uncheck all</source>
+				<target state="translated">Сбросить все</target>
+			</trans-unit>
+			<trans-unit id="labels.unknownUser" approved="yes">
+				<source>-Unknown-</source>
+				<target state="translated">-Неизвестно-</target>
+			</trans-unit>
+			<trans-unit id="labels.upOneLevel" approved="yes">
+				<source>Up one level</source>
+				<target state="translated">Подняться на уровень выше</target>
+			</trans-unit>
+			<trans-unit id="labels.user" approved="yes">
+				<source>User</source>
+				<target state="translated">Пользователь</target>
+			</trans-unit>
+			<trans-unit id="link.to.dblist.correctly" approved="yes">
+				<source>Please, do not link to this page. Use \TYPO3\CMS\Backend\Utility\BackendUtility::getListViewLink() for link generation.</source>
+				<target state="translated">Не устанавливайте ссылку на эту страницу. Используйте \TYPO3\CMS\Backend\Utility\BackendUtility::getListViewLink() для формирования ссылки.</target>
+			</trans-unit>
+			<trans-unit id="link.to.filefile.correctly" approved="yes">
+				<source>Please, do not link to this page.</source>
+				<target state="translated">Не устанавливайте ссылку на эту страницу.</target>
+			</trans-unit>
+			<trans-unit id="loadingIndicator" approved="yes">
+				<source>Loading ...</source>
+				<target state="translated">Загрузка...</target>
+			</trans-unit>
+			<trans-unit id="message.description.fileDeleted" approved="yes">
+				<source>The file "%s" was successfully deleted.</source>
+				<target state="translated">Файл "%s" был успешно удален.</target>
+			</trans-unit>
+			<trans-unit id="message.description.fileHasBrokenReferences">
+				<source>The file has %s broken reference(s) but it will be deleted regardless.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="message.description.fileNotDeletedHasReferences" approved="yes">
+				<source>The file cannot be deleted since it is still used at the following places:</source>
+				<target state="translated">Файл не может быть удален, т.к. он используется в следующих местах:</target>
+			</trans-unit>
+			<trans-unit id="message.description.fileNotFound" approved="yes">
+				<source>The file %s is not found, possible already removed.</source>
+				<target state="translated">Файл %s не найден, возможно он был удалён ранее.</target>
+			</trans-unit>
+			<trans-unit id="message.description.folderDeleted" approved="yes">
+				<source>The folder "%s" was successfully deleted.</source>
+				<target state="translated">Папка "%s" была успешно удалена.</target>
+			</trans-unit>
+			<trans-unit id="message.description.folderNotDeletedHasFiles" approved="yes">
+				<source>The folder cannot be deleted since it still contains files.</source>
+				<target state="translated">Папка не может быть удалена, т.к. в ней все еще находятся файлы.</target>
+			</trans-unit>
+			<trans-unit id="message.description.folderNotDeletedHasFilesWithReferences" approved="no">
+				<source>The folder cannot be deleted since it still contains files in use.</source>
+				<target state="needs-translation">Папка не может быть удалена, т.к. в ней все еще находятся файлы.</target>
+				<note>89% 100%</note>
+			</trans-unit>
+			<trans-unit id="message.header.fileDeleted" approved="yes">
+				<source>File deleted</source>
+				<target state="translated">Файл удален</target>
+			</trans-unit>
+			<trans-unit id="message.header.fileHasBrokenReferences" approved="yes">
+				<source>File has broken references</source>
+				<target state="translated">Файл имеет битые ссылки</target>
+			</trans-unit>
+			<trans-unit id="message.header.fileNotDeletedHasReferences" approved="yes">
+				<source>File not deleted</source>
+				<target state="translated">Файл не был удален</target>
+			</trans-unit>
+			<trans-unit id="message.header.fileNotFound" approved="yes">
+				<source>File not found</source>
+				<target state="translated">Файл не найден</target>
+			</trans-unit>
+			<trans-unit id="message.header.folderDeleted" approved="yes">
+				<source>Folder deleted</source>
+				<target state="translated">Папка удалена</target>
+			</trans-unit>
+			<trans-unit id="message.header.folderNotDeletedHasFiles" approved="yes">
+				<source>Folder not deleted</source>
+				<target state="translated">Папка не была удалена</target>
+			</trans-unit>
+			<trans-unit id="message.header.folderNotDeletedHasFilesWithReferences" approved="yes">
+				<source>Folder not deleted</source>
+				<target state="translated">Папка не была удалена</target>
+				<note>100% 100%</note>
+			</trans-unit>
+			<trans-unit id="mess.be_locked" approved="yes">
+				<source>The TYPO3 backend is currently locked for maintenance. Leave this browser window open and the backend will automatically become available again once maintenance is complete.</source>
+				<target state="translated">Внутренний интерфейс TYPO3 в настоящий момент заблокирован для обслуживания. Оставьте это окно браузера открытым и внутренний интерфейс станет автоматически доступным по окончании обслуживания.</target>
+			</trans-unit>
+			<trans-unit id="mess.copy_after" approved="yes">
+				<source>Copy "%s" to after "%s"?</source>
+				<target state="translated">Копировать '%s' на позицию после '%s'?</target>
+			</trans-unit>
+			<trans-unit id="mess.copycb_after" approved="yes">
+				<source>Copy all elements (%s) from the clipboard to the position after "%s"?</source>
+				<target state="translated">Копировать все записи (%s) из буфера обмена в '%s'?</target>
+			</trans-unit>
+			<trans-unit id="mess.copycb_into" approved="yes">
+				<source>Copy all elements (%s) from the clipboard into "%s"?</source>
+				<target state="translated">Копировать все записи (%s) из буфера обмена в '%s'</target>
+			</trans-unit>
+			<trans-unit id="mess.copy_into" approved="yes">
+				<source>Copy "%s" into "%s"?</source>
+				<target state="translated">Копировать '%s' в '%s'?</target>
+			</trans-unit>
+			<trans-unit id="mess.copy_into_colPos" approved="no">
+				<source>Copy "%1$s" into column "%3$s" on page "%2$s"?</source>
+				<target state="needs-translation">Копировать "%1$s" в столбец "%3$s" на странице "%2$s"?</target>
+			</trans-unit>
+			<trans-unit id="mess.delete" approved="no">
+				<source>Are you sure you want to delete '%s'?</source>
+				<target state="needs-translation">Действительно удалить '%s'?</target>
+			</trans-unit>
+			<trans-unit id="mess.deleteClip" approved="no">
+				<source>Are you sure you want to delete ALL referenced elements (%s) on the clipboard?</source>
+				<target state="needs-translation">Действительно удалить ВСЕ выбранные записи '%s' из Буфера обмена?</target>
+			</trans-unit>
+			<trans-unit id="mess.login_about_to_expire" approved="yes">
+				<source>Your TYPO3 login is about to expire. Please confirm that you want to stay logged in.</source>
+				<target state="translated">Регистрация в TYPO3 истекает. Подтвердите, что хотите остаться зарегистрированным в системе.</target>
+			</trans-unit>
+			<trans-unit id="mess.login_about_to_expire_title" approved="yes">
+				<source>TYPO3 login expiration notice</source>
+				<target state="translated">Напоминание об истечении времени регистрации в TYPO3/</target>
+			</trans-unit>
+			<trans-unit id="mess.login_expired" approved="yes">
+				<source>Your TYPO3 login has expired. You need to login again if you want to continue. Otherwise you can close the current browser window.</source>
+				<target state="translated">Регистрация в TYPO3 истекла. Нужно заново выполнить вход в систему для продолжения работы. Иначе можно закрыть текущее окно браузера.</target>
+			</trans-unit>
+			<trans-unit id="mess.move_after" approved="yes">
+				<source>Move "%s" to after "%s"?</source>
+				<target state="translated">Переместить '%s' на позицию после '%s'?</target>
+			</trans-unit>
+			<trans-unit id="mess.movecb_after" approved="yes">
+				<source>Move all elements (%s) from the clipboard to the position after "%s"?</source>
+				<target state="translated">Передвинуть все записи (%s) из буфера обмена на позицию после "%s"?</target>
+			</trans-unit>
+			<trans-unit id="mess.movecb_into" approved="yes">
+				<source>Move all elements (%s) from the clipboard into "%s"?</source>
+				<target state="translated">Передвинуть все записи (%s) из буфера обмена в '%s'?</target>
+			</trans-unit>
+			<trans-unit id="mess.move_into" approved="yes">
+				<source>Move "%s" into "%s"?</source>
+				<target state="translated">Переместить '%s' в '%s'?</target>
+			</trans-unit>
+			<trans-unit id="mess.move_into_colPos" approved="no">
+				<source>Move "%1$s" into column "%3$s" on page "%2$s"?</source>
+				<target state="needs-translation">Переместить "%1$s" в столбец "%3$s" на странице "%2$s"?</target>
+			</trans-unit>
+			<trans-unit id="mess.noSelItemForEdit" approved="yes">
+				<source>Please select one or more items in the list before you can edit.</source>
+				<target state="translated">Выберите одну или несколько записей для редактирования.</target>
+			</trans-unit>
+			<trans-unit id="mess.onChangeAlert" xml:space="preserve" approved="yes">
+				<source>This change will affect which fields are available in the form.
+Would you like to save now in order to refresh the display?</source>
+			<target state="translated">Изменен состав полей формы. Хотите сохранить данные, чтобы обновить форму?</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="mess.please_wait" approved="yes">
+				<source>Please wait ...</source>
+				<target state="translated">Подождите...</target>
+			</trans-unit>
+			<trans-unit id="mess.redraw" approved="yes">
+				<source>Redrawing the page will discard the current data. Do you want to continue?</source>
+				<target state="translated">При обновлении страницы будут утеряны последние изменения. Уверены, что хотите продолжать?</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_direct_logout_button" approved="yes">
+				<source>No, log out.</source>
+				<target state="translated">Нет, выйти.</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login" xml:space="preserve" approved="yes">
+				<source>Your login has probably expired.
+Do you want to refresh it now?</source>
+			<target state="translated">Время действия вашей регистрации в системе истекло. Хотите перерегистрироваться?</target></trans-unit>
+			<trans-unit id="mess.refresh_login_button" approved="yes">
+				<source>Login</source>
+				<target state="translated">Вход</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_countdown" approved="yes">
+				<source>{0} seconds</source>
+				<target state="translated">{0} сек.</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_countdown_singular" approved="yes">
+				<source>{0} second</source>
+				<target state="translated">{0} сек.</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_emptyPassword" approved="yes">
+				<source>Empty password is not allowed!</source>
+				<target state="translated">Пустые пароли недопустимы!</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_failed" approved="yes">
+				<source>Login failed</source>
+				<target state="translated">Вход не удачен</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_failed_message" approved="yes">
+				<source>Password not correct.</source>
+				<target state="translated">Неверный пароль</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_logging_in" approved="yes">
+				<source>Logging in...</source>
+				<target state="translated">Вход...</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_password" approved="yes">
+				<source>Password</source>
+				<target state="translated">Пароль</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_refresh_button" approved="yes">
+				<source>Stay logged in!</source>
+				<target state="translated">Оставаться зарегистрированным!</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_title" approved="yes">
+				<source>Refresh Login to TYPO3 (User: %s)</source>
+				<target state="translated">Обновить регистрацию в TYPO3 (пользователь: %s)</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_login_username" approved="yes">
+				<source>Username</source>
+				<target state="translated">Имя пользователя</target>
+			</trans-unit>
+			<trans-unit id="mess.refresh_logout_button" approved="yes">
+				<source>Logout</source>
+				<target state="translated">Выход</target>
+			</trans-unit>
+			<trans-unit id="rm.adminFunctions" approved="yes">
+				<source>Admin functions</source>
+				<target state="translated">Инструменты администратора</target>
+			</trans-unit>
+			<trans-unit id="rm.clearCache_all" approved="yes">
+				<source>Clear FE cache</source>
+				<target state="translated">Очистить все кеши</target>
+			</trans-unit>
+			<trans-unit id="rm.clearCache_allTypo3Conf" approved="yes">
+				<source>Clear cache in typo3conf/</source>
+				<target state="translated">Удалить кеш-файлы в typo3conf/</target>
+			</trans-unit>
+			<trans-unit id="rm.clearCache_clearCache" approved="yes">
+				<source>Clear cache</source>
+				<target state="translated">Очистить кеш</target>
+			</trans-unit>
+			<trans-unit id="rm.clearCacheMenu_all" approved="yes">
+				<source>Clear all caches</source>
+				<target state="translated">Очистить все кеши</target>
+			</trans-unit>
+			<trans-unit id="rm.clearCacheMenu_allTypo3Conf" approved="yes">
+				<source>Clear configuration cache</source>
+				<target state="translated">Очистить кеш настроек</target>
+			</trans-unit>
+			<trans-unit id="rm.clearCacheMenu_pages" approved="yes">
+				<source>Clear page content cache</source>
+				<target state="translated">Очистить кеш страниц</target>
+			</trans-unit>
+			<trans-unit id="rm.clearCache_pages" approved="yes">
+				<source>Clear Page Cache</source>
+				<target state="translated">Очистить кеш страниц</target>
+			</trans-unit>
+			<trans-unit id="rm.clearCache_thisPage" approved="yes">
+				<source>This page</source>
+				<target state="translated">Этой страницы</target>
+			</trans-unit>
+			<trans-unit id="rm.closeAllDocs" approved="no">
+				<source>Close all</source>
+				<target state="needs-translation">Закрыть все документы</target>
+			</trans-unit>
+			<trans-unit id="rm.closeDoc" approved="no">
+				<source>Close</source>
+				<target state="needs-translation">Закрыть документ</target>
+			</trans-unit>
+			<trans-unit id="rm.delete" approved="yes">
+				<source>Delete</source>
+				<target state="translated">Удаление</target>
+			</trans-unit>
+			<trans-unit id="rm.edit" approved="yes">
+				<source>Edit</source>
+				<target state="translated">Правка</target>
+			</trans-unit>
+			<trans-unit id="rm.export" approved="yes">
+				<source>Export</source>
+				<target state="translated">Экспорт</target>
+			</trans-unit>
+			<trans-unit id="rm.menu" approved="yes">
+				<source>[menu]</source>
+				<target state="translated">[меню]</target>
+			</trans-unit>
+			<trans-unit id="rm.saveCloseAllDocs" approved="no">
+				<source>Save and close all</source>
+				<target state="needs-translation">Сохранить и закрыть все документы</target>
+			</trans-unit>
+			<trans-unit id="rm.saveCloseDoc" approved="no">
+				<source>Save and close</source>
+				<target state="needs-translation">Сохранить и закрыть документ</target>
+			</trans-unit>
+			<trans-unit id="rm.saveDoc" approved="no">
+				<source>Save</source>
+				<target state="needs-translation">Сохранить документ</target>
+			</trans-unit>
+			<trans-unit id="rm.saveDocShow" approved="no">
+				<source>Save and view page</source>
+				<target state="needs-translation">Сохранить документ и посмотреть страницу</target>
+			</trans-unit>
+			<trans-unit id="rm.saveNewDoc" approved="no">
+				<source>Save and create a new one</source>
+				<target state="needs-translation">Сохранить документ и создать новый</target>
+			</trans-unit>
+			<trans-unit id="rm.translationSaveDoc" approved="yes">
+				<source>Translation finished, save and close</source>
+				<target state="translated">Перевод завершен, сохранить и закрыть</target>
+			</trans-unit>
+			<trans-unit id="rm.translationSaveDocClear" approved="yes">
+				<source>Translation NOT finished, Save</source>
+				<target state="translated">Перевод НЕ завершен, сохранитесь</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.cannotDisplayArchive" approved="yes">
+				<source>Sorry, TYPO3_CONF_VARS[BE][disable_exec_function] was set, so cannot display content of archive file.</source>
+				<target state="translated">Извините, было установлено TYPO3_CONF_VARS[BE][disable_exec_function], поэтому невозможно отобразить содержимое файлов архивов.</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.dimensions" approved="yes">
+				<source>Dimensions</source>
+				<target state="translated">Размеры</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.field" approved="yes">
+				<source>Field:</source>
+				<target state="translated">Поле:</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.file" approved="yes">
+				<source>File</source>
+				<target state="translated">Файл</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.files" approved="yes">
+				<source>files</source>
+				<target state="translated">файлов</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.filesize" approved="yes">
+				<source>Size</source>
+				<target state="translated">Величина файла</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.flexpointer" approved="yes">
+				<source>Flexpointer:</source>
+				<target state="translated">Гибкий указатель:</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.ftp_area" approved="yes">
+				<source>FTP AREA</source>
+				<target state="translated">Область FTP</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.missing_record" approved="yes">
+				<source>Missing</source>
+				<target state="translated">Отсутствует</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.pixels" approved="yes">
+				<source>Pixels</source>
+				<target state="translated">Пикс.</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.referencesFromThisItem" approved="yes">
+				<source>References from this item:</source>
+				<target state="translated">Ссылки с этого элемента:</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.referencesToThisItem" approved="yes">
+				<source>References to this item:</source>
+				<target state="translated">Ссылки на этот элемент:</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.refString" approved="yes">
+				<source>Ref String:</source>
+				<target state="translated">Строка ссылки:</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.refTable" approved="yes">
+				<source>Ref Table:</source>
+				<target state="translated">Ссылочная таблица:</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.refUid" approved="yes">
+				<source>Ref Uid:</source>
+				<target state="translated">Ссылочный Uid:</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.softrefKey" approved="yes">
+				<source>Softref Key:</source>
+				<target state="translated">Ключ softref:</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.sorting" approved="yes">
+				<source>Sorting:</source>
+				<target state="translated">Сортировка:</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.table" approved="yes">
+				<source>Table:</source>
+				<target state="translated">Таблица:</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.title" approved="yes">
+				<source>Title:</source>
+				<target state="translated">Название:</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.uid" approved="yes">
+				<source>Uid:</source>
+				<target state="translated">Uid:</target>
+			</trans-unit>
+			<trans-unit id="show_item.php.viewItem" approved="yes">
+				<source>View Item</source>
+				<target state="translated">Показать запись</target>
+			</trans-unit>
+			<trans-unit id="tabs.close" approved="yes">
+				<source>Close Tab</source>
+				<target state="translated">Закрыть вкладку</target>
+			</trans-unit>
+			<trans-unit id="tabs.closeAll" approved="yes">
+				<source>Close All Tabs</source>
+				<target state="translated">Закрыть все вкладки</target>
+			</trans-unit>
+			<trans-unit id="tabs.closeOther" approved="yes">
+				<source>Close Other Tabs</source>
+				<target state="translated">Закрыть другие вкладки</target>
+			</trans-unit>
+			<trans-unit id="tabs.openInBrowserWindow" approved="yes">
+				<source>Open In Browser Window</source>
+				<target state="translated">Открыть в окне браузера</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.bookmark" approved="yes">
+				<source>Bookmark</source>
+				<target state="translated">Закладка</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.bookmarks" approved="yes">
+				<source>Bookmarks</source>
+				<target state="translated">Закладки</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.bookmarksDelete" approved="yes">
+				<source>Delete bookmark</source>
+				<target state="translated">Удалить закладку</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.bookmarksEdit" approved="yes">
+				<source>Edit bookmark</source>
+				<target state="translated">Править закладку</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.bookmarksGroup" approved="yes">
+				<source>Bookmark group</source>
+				<target state="translated">Группа закладок</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.search" approved="yes">
+				<source>Search</source>
+				<target state="translated">Поиск</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.shortcut" approved="yes">
+				<source>Shortcut</source>
+				<target state="translated">Ярлык</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.shortcuts" approved="yes">
+				<source>Shortcuts</source>
+				<target state="translated">Ярлыки</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.shortcutsDelete" approved="yes">
+				<source>Delete Shortcut</source>
+				<target state="translated">Удалить ярлык</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.shortcutsEdit" approved="yes">
+				<source>Edit Shortcut</source>
+				<target state="translated">Правка ярлыка</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.shortcutsGroup" approved="yes">
+				<source>Shortcut Group</source>
+				<target state="translated">Группа ярлыков</target>
+			</trans-unit>
+			<trans-unit id="toolbarItems.workspace" approved="yes">
+				<source>Workspace</source>
+				<target state="translated">Рабочая область</target>
+			</trans-unit>
+			<trans-unit id="tree.activeFilterMode" approved="yes">
+				<source>Active Filtering Mode</source>
+				<target state="translated">Активен режим фильтрации</target>
+			</trans-unit>
+			<trans-unit id="tree.buttonFilter" approved="yes">
+				<source>Filter tree</source>
+				<target state="translated">Фильтр дерева</target>
+			</trans-unit>
+			<trans-unit id="tree.buttonNewNode" approved="yes">
+				<source>Create new pages</source>
+				<target state="translated">Создание новых страниц</target>
+			</trans-unit>
+			<trans-unit id="tree.copyHint" approved="yes">
+				<source>Press Ctrl to copy.</source>
+				<target state="translated">Для создания копии, удерживайте Ctrl</target>
+			</trans-unit>
+			<trans-unit id="tree.defaultPageTitle" approved="yes">
+				<source>[Default Title]</source>
+				<target state="translated">[Заголовок по умолчанию]</target>
+			</trans-unit>
+			<trans-unit id="tree.dropToRemove" approved="yes">
+				<source>Drop here to delete</source>
+				<target state="translated">Перенесите сюда для удаления</target>
+			</trans-unit>
+			<trans-unit id="tree.dropZoneElementRemoved" approved="yes">
+				<source>Click here to undelete</source>
+				<target state="translated">Щелкните для отмены удаления</target>
+			</trans-unit>
+			<trans-unit id="tree.dropZoneElementRestored" approved="yes">
+				<source>Page restored</source>
+				<target state="translated">Страница восстановлена</target>
+			</trans-unit>
+			<trans-unit id="tree.searchTermInfo" approved="yes">
+				<source>Enter search term</source>
+				<target state="translated">Введите условия поиска</target>
+			</trans-unit>
+			<trans-unit id="TYPO3_Element_Browser" approved="yes">
+				<source>TYPO3 Element Browser</source>
+				<target state="translated">Проводник по записям TYPO3</target>
+			</trans-unit>
+			<trans-unit id="ver.mgm" approved="yes">
+				<source>Version Management</source>
+				<target state="translated">Управление версиями</target>
+			</trans-unit>
+			<trans-unit id="ver.online" approved="yes">
+				<source>ONLINE</source>
+				<target state="translated">ОНЛАЙН</target>
+			</trans-unit>
+			<trans-unit id="ver.selVer" approved="yes">
+				<source>Select version:</source>
+				<target state="translated">Выберите версию:</target>
+			</trans-unit>
+			<trans-unit id="ver.swap" approved="yes">
+				<source>Swap/Publish</source>
+				<target state="translated">Обменять/публиковать</target>
+			</trans-unit>
+			<trans-unit id="ver.swapPage" approved="yes">
+				<source>Publish this version of the page including content</source>
+				<target state="translated">Опубликовать эту версию страницы, включая содержимое</target>
+			</trans-unit>
+			<trans-unit id="warning.backend_admin" approved="yes">
+				<source>The default backend user "admin" with password "password" is still present. %sEdit this account%s, either deleting it completely or changing the username and password.</source>
+				<target state="translated">Созданный при установке внутренний пользователь "admin" с паролем "password" всё ещё существует. %sОтредактируйте эту учётную запись%s: измените имя пользователя и пароль или совсем удалите её.</target>
+			</trans-unit>
+			<trans-unit id="warning.backend_reference" approved="yes">
+				<source>The Reference Index table is empty which is likely the result of a recent TYPO3 upgrade. Please go to %sTools&gt;DB Check%s and update the reference index.</source>
+				<target state="translated">В таблице Индекса Ссылок пусто, вероятно это вызвано недавним обновлением TYPO3. Пожалуйста, перейдите %sСистема&gt;Проверка БД%s и обновите справочный указатель.</target>
+			</trans-unit>
+			<trans-unit id="warning.backend_reference_index" approved="no">
+				<source>The Reference Index table is empty which is likely the result of a recent TYPO3 upgrade. The Reference Index was last updated on %3$s. Please go to %sTools&gt;DB Check%s and update the reference index.</source>
+				<target state="needs-translation">Таблица ссылочного индекса не заполнена, что скорее всего является результатом недавнего обновления ядра TYPO3. Последний раз ссылочный индекс обновлялся %3$s. Перейдите в %sИнструменты администратора&gt;Проверка БД%s и обновите ссылочный индекс.</target>
+			</trans-unit>
+			<trans-unit id="warning.file_deny_htaccess" approved="yes">
+				<source>The current value of fileDenyPattern allows to upload/create files with the name ".htaccess". If TYPO3 is running on Apache, this enables backend or frontend users to create and execute php scripts. Please reset the value of fileDenyPattern to its default.</source>
+				<target state="translated">Текущее значение переменной fileDenyPattern позволяет загружать и создавать файлы с именем ".htaccess". Если TYPO3 запущена из-под Apache, это позволяет внешним и внутренним пользователям создавать и запускать php-скрипты. Пожалуйста, сбросьте это значение в значение по умолчанию.</target>
+			</trans-unit>
+			<trans-unit id="warning.file_deny_pattern" approved="yes">
+				<source>The value of fileDenyPattern is not set to its default:%s If TYPO3 is running on Apache, a customized value might enable backend or frontend users to execute malicious php scripts.</source>
+				<target state="translated">Значение fileDenyPattern установлено не в своё значение по умолчанию (%s). Если TYPO3 запущена из-под Apache, значение, отличное от значения по умолчанию, может привести к тому, что внутренние или внешние пользователи смогут запускать злонамеренные PHP-скрипты.</target>
+			</trans-unit>
+			<trans-unit id="warning.file_deny_pattern_partsNotPresent" approved="yes">
+				<source>Security Risk! The new value of fileDenyPattern misses parts of its default:%s If TYPO3 is running on Apache, a customized value might enable backend or frontend users to execute malicious php scripts.</source>
+				<target state="translated">Риск безопасности! В новом значении fileDenyPattern ошибка в частях по умолчанию:%s если TYPO3 работает под Apache, определенное значение может позволить внутренним или внешним пользователям выполнять вредоносные сценарии php.</target>
+			</trans-unit>
+			<trans-unit id="warning.file_missing" approved="yes">
+				<source>File is missing!</source>
+				<target state="translated">Ошибка файла!</target>
+			</trans-unit>
+			<trans-unit id="warning.file_missing_text" approved="yes">
+				<source>This file is marked as missing:</source>
+				<target state="translated">Этот элемент содержимого ссылается на файл, который, возможно, не существует:</target>
+			</trans-unit>
+			<trans-unit id="warning.header" approved="yes">
+				<source>Important Notice!</source>
+				<target state="translated">Важное сообщение!</target>
+			</trans-unit>
+			<trans-unit id="warning.header.storage_is_no_public" approved="yes">
+				<source>Storage is not public</source>
+				<target state="translated">Не публичное хранилище</target>
+			</trans-unit>
+			<trans-unit id="warning.inline_use_combination" approved="yes">
+				<source>This record will be modified globally.</source>
+				<target state="translated">Эта запись будет изменена глобально.</target>
+			</trans-unit>
+			<trans-unit id="warning.install_enabled" approved="yes">
+				<source>The Install Tool is permanently enabled. Delete the file "%s" when you have finished setting up TYPO3.</source>
+				<target state="translated">Доступ к установщику временно разрешён. Удалите файл "%s", когда закончите настраивать TYPO3.</target>
+			</trans-unit>
+			<trans-unit id="warning.install_enabled_cmd" approved="yes">
+				<source>Click to remove the file now!</source>
+				<target state="translated">Кликните, чтобы удалить этот файл сейчас!</target>
+			</trans-unit>
+			<trans-unit id="warning.install_encryption" approved="yes">
+				<source>The encryption key is not set. Set it in the %sBasic Configuration section%s of the Install Tool.</source>
+				<target state="translated">Ключ шифрования не задан. Задайте его в %sразделе базовой конфигурации%s установщика.</target>
+			</trans-unit>
+			<trans-unit id="warning.install_password" approved="yes">
+				<source>The Install Tool is still using the default password "joh316". Update this within the %sAbout section%s of the Install Tool.</source>
+				<target state="translated">Установщик всё ещё использует пароль по умолчанию "joh316". Измените его в разделе %sAbout section%s установщика.</target>
+			</trans-unit>
+			<trans-unit id="warning.installtool_default_password" approved="yes">
+				<source>The Install Tool is still using the default password "joh316". Update this within the %sImportant actions section%s of the Install Tool.</source>
+				<target state="translated">Install Tool продолжает использовать пароль по умолчанию "joh316". Измените его в разделе %sImportant actions section%s из Install Tool.</target>
+			</trans-unit>
+			<trans-unit id="warning.install_update" approved="yes">
+				<source>This installation is not configured for the TYPO3 version it is running. If you did so intentionally, this message can be safely ignored. If you are unsure, visit the Update Wizard section of the %sInstall Tool%s to see how TYPO3 would change.</source>
+				<target state="translated">Эта инсталляция не настроена для версии TYPO3, на которой она запущена. Если вы допустили это умышленно, вы можете спокойно игнорировать это сообщение. Если вы не уверены, зайдите в секцию %sМастер обновления%s установщика, чтобы увидеть, как изменится TYPO3.</target>
+			</trans-unit>
+			<trans-unit id="warning.memcache_not_usable" approved="yes">
+				<source>Memcache is configured, but connection to memcached failed with these configuration(s):</source>
+				<target state="translated">Кеш настроен, но соединение с кешем, при данной(ых) настройке(ах) неудачна:</target>
+			</trans-unit>
+			<trans-unit id="warning.message.storage_is_no_public" approved="yes">
+				<source>The storage has been marked to be "publicly available" but is not detected as such by the driver. The setting has been reverted.</source>
+				<target state="translated">Хранилище помечено как "доступно публично", но не определяется как таковое через драйвер. Настройка сброшена.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

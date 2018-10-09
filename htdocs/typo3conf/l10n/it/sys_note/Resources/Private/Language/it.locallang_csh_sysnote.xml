@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="author.description">Inserire il proprio nome.</label>
+			<label index="category.description">Seleziona una categoria che descrive il tipo di nota.</label>
+			<label index=".description">Nota interna allegata alla pagina.</label>
+			<label index=".details">Questo fornisce un modo semplice per allegare note informative ad una pagina su questioni legate al backend. Usalo come preferisci per promemoria, istruzioni, etc.</label>
+			<label index="email.description">Inserire il proprio indirizzo email.</label>
+			<label index="message.description">Questa é la nota stessa.</label>
+			<label index="personal.description">Spuntare qui se non si desidera far visualizzare la nota ad altri utenti.</label>
+			<label index="_.seeAlso">pagine</label>
+			<label index="subject.description">Inserire un titolo per la nota.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

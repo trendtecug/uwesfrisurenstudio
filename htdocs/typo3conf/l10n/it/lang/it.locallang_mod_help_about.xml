@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="cms_description"/>
+			<label index="community_credits">Credits Comunità</label>
+			<label index="coredevs">Core Team</label>
+			<label index="coredevs_detail">Visita &lt;a href="http://typo3.org/teams/core/members/" target="_blank"&gt;typo3.org/teams/core/members/&lt;/a&gt; per l'elenco completo del team.&lt;br /&gt;&lt;br /&gt;L'archivio SVN e il ChangeLog sono &lt;a href="http://forge.typo3.org/projects/show/typo3v4-core/" target="_blank"&gt;qui&lt;/a&gt;.</label>
+			<label index="donation_button">Donare ora</label>
+			<label index="donation_header">Donazione a TYPO3</label>
+			<label index="donation_message">Vorreste fare una donazione? TYPO3 è un progetto OpenSource ed è finanziato sopratutto dalle donazioni dei suoi utenti.&lt;br/&gt;&lt;b&gt;Grazie&lt;/b&gt; per aiutarci a rendere questo CMS ancora migliore!</label>
+			<label index="extension">Estensione</label>
+			<label index="extension_author">Autore</label>
+			<label index="extension_authors">Autori delle estensioni</label>
+			<label index="extension_list_info">Questa è una lista delle persone che hanno contribuito alle estensioni usate in questa installazione di TYPO3</label>
+			<label index="external_libraries">Librerie Esterne</label>
+			<label index="external_thanks">Il core di TYPO3 utilizza e ringrazia questi progetti Open Source:</label>
+			<label index="information">Informazioni su TYPO3</label>
+			<label index="information_detail">Visita &lt;a href="http://typo3.org/community" target="_blank"&gt;typo3.org/community&lt;/a&gt; se vuoi scoprire perchè TYPO3 è così fenomenale!</label>
+			<label index="minor">TYPO3 è un Web-CMS Open Source flessibile e professionale, basato su PHP e MySQL.&lt;br /&gt;&lt;br /&gt;TYPO3 è &lt;b&gt;liberamente disponibile&lt;/b&gt; su &lt;a href="http://typo3.com/1316.0.html" target="_blank"&gt;TYPO3-license (GNU/GPL)&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;%s %s&lt;br /&gt;</label>
+			<label index="mlang_labels_tabdescr">Mostra notizie di carattere generale su TYPO3, quali la versione e la licenza d'uso.</label>
+			<label index="mlang_labels_tablabel">Informazioni su TYPO3</label>
+			<label index="mlang_tabs_tab">Informazioni su TYPO3</label>
+			<label index="title">Informazioni su TYPO3</label>
+			<label index="typo3_logo">TYPO3 logo</label>
+			<label index="welcome">TYPO3 Professional Web Content Management System</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

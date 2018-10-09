@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="Abbreviation">Abréviation</label>
+			<label index="Abridged_term">Forme courte</label>
+			<label index="Acronym">Acronyme</label>
+			<label index="Defined_abbr">Abréviations pré-définis</label>
+			<label index="Defined_acronym">Acronymes pré-définis</label>
+			<label index="Delete">Supprimer</label>
+			<label index="Edit abbreviation">Editer une abréviation</label>
+			<label index="Insert abbreviation">Inserer une abréviation</label>
+			<label index="Insert/Modify Acronym">Insérer/modifier une abréviation</label>
+			<label index="Language_abbr_helpText">Ceci est la langue pour laquelle l'abréviation est définie</label>
+			<label index="Language_acronym_helpText">Ceci est la langue pour laquelle l'acronyme est définie</label>
+			<label index="Select_a_language">Sélectionner une langue</label>
+			<label index="Select_an_abbr">Sélectionner une abbréviation</label>
+			<label index="Select_an_acronym">Sélectionner un acronyme</label>
+			<label index="Select_a_term">Sélectionner un terme</label>
+			<label index="Term">Terme</label>
+			<label index="Term_to_abridge">Terme à abrévier</label>
+			<label index="Unabridged_term">Terme</label>
+			<label index="Use_this_term">Utiliser ce terme</label>
+			<label index="Use_this_term_explain">Associer ce terme à la sélection courante</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

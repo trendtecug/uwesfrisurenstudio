@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="Cached_info">Cached info</label>
+			<label index="Debug_log">Log Debug</label>
+			<label index="SQL_check">Check SQL</label>
+			<label index="title">Moldulo Analisi DBAL</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

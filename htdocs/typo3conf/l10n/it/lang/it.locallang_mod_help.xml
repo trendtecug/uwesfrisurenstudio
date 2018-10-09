@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="mlang_labels_tablabel">Aiuto e supporto</label>
+			<label index="mlang_tabs_tab">Aiuto</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

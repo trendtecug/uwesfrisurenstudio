@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index=".description">Usergroup per gli utenti web del sito.</label>
+			<label index="description.description">Inserisci la descrizione del gruppo.</label>
+			<label index="description.details">Destinato solo a uso interno;   serve per inserire una nota sul gruppo, ad esempio perchè è stato creato e quali potrebbero essere i membri. Campo da riempire a piacimento.</label>
+			<label index=".details">La restrizione di accesso in TYPO3 è assegnata a questi gruppi di utenti. Quando una pagina o un altro elemento ha una restrizione d'accesso per un gruppo, solo gli utenti web che sono membri di questo gruppo potranno vedere l'elemento del sito web.</label>
+			<label index="hidden.description">Questa opzione disabilita il gruppo degli utenti.</label>
+			<label index="hidden.details">Se un gruppo utenti viene disabilitato, tutti gli utenti che appartengono a quel gruppo non erediteranno alcuna proprietà del gruppo. Per esempio se una pagina o un contenuto erano accessibili solo a questo gruppo, che viene disabilitato, nessuno poi potrà ottenere l'accesso alla pagina o al contenuto.</label>
+			<label index="_hidden.seeAlso">fe_users:disable</label>
+			<label index="_.image">EXT:context_help/cshimages/fegroups_3.png,
+EXT:context_help/cshimages/fegroups_4.png</label>
+			<label index=".image_descr">Modulo  per editare i gruppi degli utenti frontend. Le Pagine, i Contenuti e altri records che vengono visualizzati nel frontend spesso hanno un selettore con il quale puoi definire le restrizioni di accesso, selezionando l'accesso solo per un determinato gruppo.</label>
+			<label index="lockToDomain.description">Inserire l'hostname da cui il gruppo sarà disponibile.</label>
+			<label index="lockToDomain.details">Questa opzione è importante se hai  siti web distinti nello stesso database di TYPO3 e dotati  ancora  di una sola pagina principale nella quale tutti gli utenti vengono salvati. In questo modo gli utenti dovranno fare un diverso login in ciascuno degli indirizzi associati al sito web. Questo può essere considerato una caratteristica positiva (avendo un login globale come un utente) o un problema (nel caso ci dovessero essere differenti cartelle utente). Si può voler limitare l'uso di un usergroup ad un determinato sito web, e non permettere il login da url differenti. Inserendo l'host name del sito, si fa in modo che il gruppo di utenti  sia usato solo da questo dominio. &lt;b&gt;Nota:&lt;/b&gt; L'uso di questa opzione non è critica se hai Website user storages multipli, ovvero una cartella-utenti  per ciascun sito.</label>
+			<label index="_lockToDomain.seeAlso">fe_users:lockToDomain</label>
+			<label index="_.seeAlso">fe_users,
+per l'accesso riservato alle pagine protette  | http://typo3.org/documentation/document-library/doc_tut_quickstart/Create_restricted_pa/</label>
+			<label index="subgroup.description">Membro di altri gruppi.</label>
+			<label index="subgroup.details">Elenco degli altri gruppi di cui fa parte questo gruppo.</label>
+			<label index="title.description">Nome del gruppo.</label>
+			<label index="title.details">Questo titolo apparirà come il nome del gruppo nella "Access-list" negli altri records.</label>
+			<label index="TSconfig.description">TSconfig per il gruppo (avanzato).</label>
+			<label index="TSconfig.details">Questo è il TSconfig per il gruppo. I valori sono ereditati da ciascun utente che è membro di questo gruppo. La configurazione può venire sovrascritta da altri gruppi e dal TSconfig dell'utente stesso.</label>
+			<label index="_TSconfig.seeAlso">fe_users:TSconfig</label>
+			<label index="TSconfig.syntax">Sintassi TypoScript, senza condizioni e costanti.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

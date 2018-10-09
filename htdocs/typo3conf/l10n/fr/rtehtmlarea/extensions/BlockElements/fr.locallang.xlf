@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-29T03:42:27Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Address" approved="yes">
+				<source>Address</source>
+				<target state="translated">Adresse</target>
+			</trans-unit>
+			<trans-unit id="Article" approved="yes">
+				<source>Article</source>
+				<target state="translated">Article</target>
+			</trans-unit>
+			<trans-unit id="Aside">
+				<source>Aside</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="Container" approved="yes">
+				<source>Container</source>
+				<target state="translated">Conteneur</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="Footer">
+				<source>Footer</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="Header">
+				<source>Header</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="Heading 1" approved="yes">
+				<source>Heading 1</source>
+				<target state="translated">Titre 1</target>
+			</trans-unit>
+			<trans-unit id="Heading 2" approved="yes">
+				<source>Heading 2</source>
+				<target state="translated">Titre 2</target>
+			</trans-unit>
+			<trans-unit id="Heading 3" approved="yes">
+				<source>Heading 3</source>
+				<target state="translated">Titre 3</target>
+			</trans-unit>
+			<trans-unit id="Heading 4" approved="yes">
+				<source>Heading 4</source>
+				<target state="translated">Titre 4</target>
+			</trans-unit>
+			<trans-unit id="Heading 5" approved="yes">
+				<source>Heading 5</source>
+				<target state="translated">Titre 5</target>
+			</trans-unit>
+			<trans-unit id="Heading 6" approved="yes">
+				<source>Heading 6</source>
+				<target state="translated">Titre 6</target>
+			</trans-unit>
+			<trans-unit id="Long quotation" approved="yes">
+				<source>Quotation</source>
+				<target state="translated">Citation</target>
+			</trans-unit>
+			<trans-unit id="Navigation">
+				<source>Navigation</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="No block" approved="yes">
+				<source>No block format</source>
+				<target state="translated">Pas de format de bloc</target>
+			</trans-unit>
+			<trans-unit id="Paragraph" approved="yes">
+				<source>Paragraph</source>
+				<target state="translated">Paragraphe</target>
+			</trans-unit>
+			<trans-unit id="Preformatted" approved="yes">
+				<source>Preformatted</source>
+				<target state="translated">Préformaté</target>
+			</trans-unit>
+			<trans-unit id="Section" approved="yes">
+				<source>Section</source>
+				<target state="translated">Conteneur</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Section</target>
+				</alt-trans>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

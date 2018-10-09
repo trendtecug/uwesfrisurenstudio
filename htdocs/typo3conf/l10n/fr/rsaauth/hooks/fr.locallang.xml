@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="hook_directory_inside_siteroot">Le dossier temporaire RSA se trouve à l'intérieur de la racine du site. Ceci est une faille de sécurité. Veuillez vous rendre sur le gestionnaire d'extension, sélectionner l'extension "Authentification RSA" et paramétrer le dossier conformément aux instructions.</label>
+			<label index="hook_directory_not_absolute">Le chemin du dossier temporaire RSA n'est pas absolu. Ceci peut causer des erreurs d'authentification RSA et ceci est une faille de sécurité. Veuillez vous rendre sur le gestionnaire d'extension, sélectionner l'extension "Authentification RSA" et paramétrer le dossier conformément aux instructions.</label>
+			<label index="hook_directory_not_exist">Le dossier temporaire RSA n'existe pas. Ceci est une faille de sécurité car un dossier non sécurisé sera utilisé pour les opérations RSA. Veuillez vous rendre sur le gestionnaire d'extension, sélectionner l'extension "Authentification RSA" et paramétrer le dossier conformément aux instructions.</label>
+			<label index="hook_directory_not_writable">Le dossier RSA n'a pas les droits en écriture. Ceci pourrait causer des erreurs d'authentification RSA est ceci est une faille de sécurité. Veuillez vous rendre sur le gestionnaire d'extension, sélectionner l'extension "Authentification RSA" et paramétrer le dossier conformément aux instructions.</label>
+			<label index="hook_empty_directory">Le dossier temporaire RSA est vide. C'est une faille de sécurité. Veuillez vous rendre sur le gestionnaire d'extension, sélectionner l'extension "Authentification RSA" et paramétrer le dossier conformément aux instructions.</label>
+			<label index="hook_using_cmdline">L'authentification RSA n'a pas pu détecter l'extension PHP openssl. L'authentification RSA utilise actuellement une ligne de commande utilitaire openssl. Ceci est plus lent et moins sécurisé. Veuillez pensez à installer l'extension PHP openssl.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

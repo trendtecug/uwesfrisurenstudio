@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="mlang_labels_tabdescr">La corbeille offre la possibilité de restaurer les enregistrements supprimés ou de les supprimer définitivement de la BDD. Ces actions peuvent être appliquées à un enregistrement seul, plusieurs enregistrements, et récursivement à des enregistrements enfants (exemple : restaurer une page permet de restaurer tous les contenus de cette page). Filtrer par page et par table procure un rapide aperçu des enregistrements supprimés avant d'agir sur ceux-ci.</label>
+			<label index="mlang_labels_tablabel">Corbeille TYPO3</label>
+			<label index="mlang_tabs_tab">Corbeille</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

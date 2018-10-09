@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="All">Tutto</label>
+			<label index="All HTML:">Tutti i tag HTML:</label>
+			<label index="Cancel">Annulla</label>
+			<label index="Cleaning Area">Area Pulitura</label>
+			<label index="Cleaning options">Tipo di formattazione da rimuovere</label>
+			<label index="Formatting:">Formattazione HTML:</label>
+			<label index="Images:">Immagini:</label>
+			<label index="MS Word Formatting:">Formattazione MS Word:</label>
+			<label index="OK">OK</label>
+			<label index="Remove formatting">Rimuovi formattazione</label>
+			<label index="RemoveFormatTooltip">Rimuovi formattazione</label>
+			<label index="Selection">Selezione</label>
+			<label index="Select the type of formatting you wish to remove.">Seleziona il tipo di formattazione da rimuovere.</label>
+			<label index="Spaces"/>
+			<label index="Typographical punctuation:"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

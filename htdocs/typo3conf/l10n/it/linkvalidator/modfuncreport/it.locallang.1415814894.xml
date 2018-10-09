@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="menu.introduction">Introduzione</label>
+			<label index="menu.checkLinks">Verifica se i link sono validi</label>
+			<label index="menu.overview">Panoramica dei link di questo sito</label>
+			<label index="overview.header">Panoramica - scegli le opzioni per verificare i links</label>
+			<label index="overview.all.header">Totale generale in tt_content</label>
+			<label index="overview.all.records">Record con link esterni:</label>
+			<label index="overview.all.links">Link esterni:</label>
+			<label index="overview.branch.header">Totale dal ramo corrente di tt_content</label>
+			<label index="overview.branch.records">Records con link esterni:</label>
+			<label index="overview.branch.links">Link esterni:</label>
+			<label index="overview.attention.header">Attenzione:</label>
+			<label index="overview.attention.text">La verifica dei link può richiedere diversi minuti. La sola verifica di un link può richiedere fino a 3 secondi.</label>
+			<label index="Report">Rapporto</label>
+			<label index="CheckLink">Verifica i links</label>
+			<label index="report.statistics.header">Mostra questi di link malfunzionanti</label>
+			<label index="checklinks.statistics.header">Verifica questi tipi di link malfunzionanti</label>
+			<label index="report.func.title">Mostra questo livello</label>
+			<label index="checklinks.func.title">Verifica questo livello</label>
+			<label index="overviews.nbtotal">Totale di link malfunzionanti:</label>
+			<label index="hooks.db">Link Interni:</label>
+			<label index="hooks.file">Link a files:</label>
+			<label index="hooks.external">Link esterni:</label>
+			<label index="hooks.linkhandler">Gestore dei links:</label>
+			<label index="label_refresh">Aggiorna lo schermo</label>
+			<label index="label_update">Verifica i links</label>
+			<label index="list.header">Elenco dei link malfunzionanti</label>
+			<label index="list.tableHead.path">Percorso</label>
+			<label index="list.tableHead.element">Elemento</label>
+			<label index="list.tableHead.headlink">Link</label>
+			<label index="list.tableHead.linktarget">URL / destinazione del link</label>
+			<label index="list.tableHead.linkmessage">Messaggio di errore</label>
+			<label index="list.tableHead.lastCheck">Ultima verifica</label>
+			<label index="list.edit">Edita gli elementi che contengono i link malfunzionanti</label>
+			<label index="list.field">(Campo: %s)</label>
+			<label index="list.no.headline">nessuna headline</label>
+			<label index="list.report.pagedeleted">La pagina '###title###' (###uid###) è stata cancellata.</label>
+			<label index="list.report.pagenotvisible">La pagina '###title###' (###uid###) non è visibile.</label>
+			<label index="list.report.pagenotexisting">La pagina(###uid###) non esiste.</label>
+			<label index="list.report.contentmoved">Elemento '###title###' (###uid###) non si trova nella pagina ###wrongpage###, bensì nella pagina ###rightpage###.</label>
+			<label index="list.report.contentdeleted">Elemento '###title###' (###uid###) è stato cancellato.</label>
+			<label index="list.report.contentnotvisible">Elemento '###title###' (###uid###) non è visibile.</label>
+			<label index="list.report.contentnotexisting">Elemento (###uid###) non esiste.</label>
+			<label index="list.report.rowdeleted">riga ###title### (###uid###) è stata cancellata.</label>
+			<label index="list.report.rowdeleted.default.title">Collegato a</label>
+			<label index="list.report.rownotexisting">La riga (###uid###) non esiste.</label>
+			<label index="list.report.noinformation">Non esistono informazioni più precise su questo errore.</label>
+			<label index="list.report.noresponse">Link esterno non raggiungibile.</label>
+			<label index="list.report.redirectloop">Si è verificato un problema causato da una redirezione circolare (%s: %s)</label>
+			<label index="list.report.pageforbidden403">L'accesso a questo indirizzo non è consentito (403).</label>
+			<label index="list.report.pagenotfound404">L'url richiesto non è stato trovato (404).</label>
+			<label index="list.report.externalerror">Il link esterno ha restituito un codice di errore HTTP (%s).</label>
+			<label index="list.report.filenotexisting">Il file non esiste.</label>
+			<label index="list.report.timeout">Timeout nella elaborazione. Il periodo massimo per la elaborazione è stato raggiunto.</label>
+			<label index="list.report.internalerror500">Errore interno al Server (500)</label>
+			<label index="list.report.couldnotresolvehost">L'host non può essere risolto. L'host remoto inserito non è stato risolto.</label>
+			<label index="list.report.errornetworkdata">Errore nel ricevere dati via rete.</label>
+			<label index="list.report.otherhttpcode">Si è verificato un errore (%s): "%s".</label>
+			<label index="list.report.httpexception">Eccezione: %s</label>
+			<label index="list.msg.ok">Ok</label>
+			<label index="list.msg.lastRun">%1$s %2$s</label>
+			<label index="list.no.broken.links.title">Non esistono link malfunzionanti da mostrare!</label>
+			<label index="list.no.broken.links">Non esistono link malfunzionanti da visualizzare.</label>
+			<label index="no.access.title">Mancato accesso!</label>
+			<label index="no.access">Non hai accesso a questi elenchi.</label>
+			<label index="linkvalidator"/>
+			<label index="list.report.rownotvisible">La pagina '###title###' (###uid###) non è visibile.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

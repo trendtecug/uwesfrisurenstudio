@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="mlang_labels_tablabel">Configurazione localconf.php e tables.php</label>
+			<label index="mlang_labels_tabdescr">Consente di sfogliare i valori dell'array $TCA (configurazione delle tabelle) e di $TYPO3_CONF_VARS. Non potete impostare alcun valore, ma solo leggerli.&lt;br /&gt;&lt;em&gt;Accesso riservato ai soli utenti 'admin'!&lt;/em&gt;</label>
+			<label index="mlang_tabs_tab">Configurazione</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

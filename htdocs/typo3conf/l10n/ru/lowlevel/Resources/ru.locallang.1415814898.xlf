@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns:t3="http://typo3.org/schemas/xliff" version="1.0">
+	<file t3:id="1415814898" source-language="en" datatype="plaintext" original="messages" date="2015-07-18T18:11:20Z" product-name="lowlevel" target-language="ru">
+		<header/>
+		<body>
+			<trans-unit id="menu" xml:space="preserve" approved="yes">
+				<source>[ MENU ]</source>
+			<target state="translated">[ МЕНЮ ]</target></trans-unit>
+			<trans-unit id="recordStatistics" xml:space="preserve" approved="yes">
+				<source>Record Statistics</source>
+			<target state="translated">Статистика записей</target></trans-unit>
+			<trans-unit id="totalPageTree" xml:space="preserve" approved="yes">
+				<source>Total Page Tree</source>
+			<target state="translated">Все дерево страниц</target></trans-unit>
+			<trans-unit id="databaseRelations" xml:space="preserve" approved="yes">
+				<source>Database Relations</source>
+			<target state="translated">Отношения в базе данных</target></trans-unit>
+			<trans-unit id="fullSearch" xml:space="preserve" approved="yes">
+				<source>Full search</source>
+			<target state="translated">Поиск во всем</target></trans-unit>
+			<trans-unit id="findFilename" xml:space="preserve" approved="yes">
+				<source>Find filename</source>
+			<target state="translated">Поиск названия файла</target></trans-unit>
+			<trans-unit id="manageRefIndex" xml:space="preserve" approved="yes">
+				<source>Manage Reference Index</source>
+			<target state="translated">Управление справочным указателем</target></trans-unit>
+			<trans-unit id="rawSearch" xml:space="preserve" approved="yes">
+				<source>Raw search in all fields</source>
+			<target state="translated">Прямой поиск по всем полям</target></trans-unit>
+			<trans-unit id="advancedQuery" xml:space="preserve" approved="yes">
+				<source>Advanced query</source>
+			<target state="translated">Дополнительный запрос</target></trans-unit>
+			<trans-unit id="selectRecords" xml:space="preserve" approved="yes">
+				<source>Select records</source>
+			<target state="translated">Выбор записей</target></trans-unit>
+			<trans-unit id="countResults" xml:space="preserve" approved="yes">
+				<source>Count results</source>
+			<target state="translated">Количество результатов</target></trans-unit>
+			<trans-unit id="explainQuery" xml:space="preserve" approved="yes">
+				<source>Explain query</source>
+			<target state="translated">Объяснить запрос</target></trans-unit>
+			<trans-unit id="csvExport" xml:space="preserve" approved="yes">
+				<source>CSV Export</source>
+			<target state="translated">Экспорт в CSV</target></trans-unit>
+			<trans-unit id="xmlExport" xml:space="preserve" approved="yes">
+				<source>XML Export</source>
+			<target state="translated">Экспорт в XML</target></trans-unit>
+			<trans-unit id="clickToUpdateRefIndex" xml:space="preserve" approved="yes">
+				<source>Click here to update reference index</source>
+			<target state="translated">Щелкните для обновления справочного указателя:</target></trans-unit>
+			<trans-unit id="updateNow" xml:space="preserve" approved="yes">
+				<source>Update now!</source>
+			<target state="translated">Обновить немедленно!</target></trans-unit>
+			<trans-unit id="clickToTestRefIndex" xml:space="preserve" approved="yes">
+				<source>Click here to test reference index</source>
+			<target state="translated">Щелкните для тестирования справочного указателя:</target></trans-unit>
+			<trans-unit id="referenceIndex_description" xml:space="preserve" approved="yes">
+				<source>TYPO3's reference index keeps track of the relations between records. As it can happen that the reference index contains outdated values, you can check and update it here.</source>
+			<target state="translated">Индексы ссылок TYPO3 хранят отношения между записями. Может случиться, что в индексы ссылок попадут старые значения, здесь можно проверить это и обновить.</target></trans-unit>
+			<trans-unit id="referenceIndex_buttonUpdate" xml:space="preserve" approved="yes">
+				<source>Update reference index</source>
+			<target state="translated">Обновить индексы ссылок</target></trans-unit>
+			<trans-unit id="referenceIndex_buttonCheck" xml:space="preserve" approved="yes">
+				<source>Check reference index</source>
+			<target state="translated">Проверить индексы ссылок</target></trans-unit>
+			<trans-unit id="checkNow" xml:space="preserve" approved="yes">
+				<source>Check now!</source>
+			<target state="translated">Проверить!</target></trans-unit>
+			<trans-unit id="checkScript_headline" xml:space="preserve" approved="yes">
+				<source>Using the command line interface</source>
+			<target state="translated">Использование интерфейса командной строки</target></trans-unit>
+			<trans-unit id="checkScript" xml:space="preserve" approved="yes">
+				<source>You can also run the check as a shell script using CLI if the processing takes longer than the PHP max_execution_time allows.</source>
+			<target state="translated">Также можно запустить проверку, как сценарий оболочки, используя CLI, если проверка занимает больше времени, чем позволяет PHP max_execution_time.</target></trans-unit>
+			<trans-unit id="checkScript_check_description" xml:space="preserve" approved="yes">
+				<source>To check the reference index use</source>
+			<target state="translated">Для проверки справочного указателя используйте:</target></trans-unit>
+			<trans-unit id="checkScript_check_example" xml:space="preserve" approved="yes">
+				<source>php /path/to/your/typo3/cli_dispatch.phpsh lowlevel_refindex -c</source>
+			<target state="translated">php /path/to/your/typo3/cli_dispatch.phpsh lowlevel_refindex -c</target></trans-unit>
+			<trans-unit id="checkScript_update_description" xml:space="preserve" approved="yes">
+				<source>To update the reference index use</source>
+			<target state="translated">Для обновления справочного указателя используйте:</target></trans-unit>
+			<trans-unit id="checkScript_update_example" xml:space="preserve" approved="yes">
+				<source>php /path/to/your/typo3/cli_dispatch.phpsh lowlevel_refindex -e</source>
+			<target state="translated">hp /path/to/your/typo3/cli_dispatch.phpsh lowlevel_refindex -e</target></trans-unit>
+			<trans-unit id="checkScript_more" xml:space="preserve" approved="yes">
+				<source>Make sure that a BE user with the name _cli_lowlevel exists. For more details see: /path/to/your/typo3/sysext/lowlevel/HOWTO_clean_up_TYPO3_installations.txt</source>
+			<target state="translated">Удостоверьтесь, что существует внутренний пользователь с именем _cli_lowlevel. За дополнительной информацией обратитесь: /path/to/your/typo3/sysext/lowlevel/HOWTO_clean_up_TYPO3_installations.txt</target></trans-unit>
+			<trans-unit id="checkScript_information" xml:space="preserve" approved="yes">
+				<source>If you run these commands from the command line, make sure that a BE user with the name _cli_lowlevel exists.</source>
+			<target state="translated">Если эти команды запускаются из командной строки, убедитесь, что существует внутренний пользователь с именем _cli_lowlevel exists.</target></trans-unit>
+			<trans-unit id="checkScript_moreDetails" xml:space="preserve" approved="yes">
+				<source>For more details see</source>
+			<target state="translated">За деталями обратитесь:</target></trans-unit>
+			<trans-unit id="updateRefIndex" xml:space="preserve" approved="yes">
+				<source>Update reference index</source>
+			<target state="translated">Обновить справочный указатель</target></trans-unit>
+			<trans-unit id="showSQL" xml:space="preserve" approved="yes">
+				<source>Show SQL parts</source>
+			<target state="translated">Показать части SQL</target></trans-unit>
+			<trans-unit id="useFormattedStrings" xml:space="preserve" approved="yes">
+				<source>Use formatted strings, labels and dates instead of original values for results</source>
+			<target state="translated">Использовать для результатов форматированные строки, метки и даты вместо исходных значений</target></trans-unit>
+			<trans-unit id="dontUseOrigValues" xml:space="preserve" approved="yes">
+				<source>Don't use original values in brackets as prefix for labelled results</source>
+			<target state="translated">Не использовать исходные значения в скобках, как префикс для отметок результатов</target></trans-unit>
+			<trans-unit id="sortOptions" xml:space="preserve" approved="yes">
+				<source>Sort selectbox-options for relations by label and not by value</source>
+			<target state="translated">Упорядочить выбор параметров для отношений по меткам, а не по значениям</target></trans-unit>
+			<trans-unit id="showDeleted" xml:space="preserve" approved="yes">
+				<source>Show even deleted entries (with undelete buttons)</source>
+			<target state="translated">Показать даже удаленные записи (с кнопками для восстановления)</target></trans-unit>
+			<trans-unit id="searchOptions" xml:space="preserve" approved="yes">
+				<source>Search options</source>
+			<target state="translated">Параметры поиска:</target></trans-unit>
+			<trans-unit id="result" xml:space="preserve" approved="yes">
+				<source>Result</source>
+			<target state="translated">Результат:</target></trans-unit>
+			<trans-unit id="tables" xml:space="preserve" approved="yes">
+				<source>Tables</source>
+			<target state="translated">Таблицы:</target></trans-unit>
+			<trans-unit id="references" xml:space="preserve" approved="yes">
+				<source>references</source>
+			<target state="translated">ссылки:</target></trans-unit>
+			<trans-unit id="isMissing" xml:space="preserve" approved="yes">
+				<source>is missing!</source>
+			<target state="translated">ошибка!</target></trans-unit>
+			<trans-unit id="referencedFrom" xml:space="preserve" approved="yes">
+				<source>Referenced from</source>
+			<target state="translated">Ссылка от:</target></trans-unit>
+			<trans-unit id="enterRegexPattern" xml:space="preserve" approved="yes">
+				<source>Enter regex pattern</source>
+			<target state="translated">Ввод шаблона regex:</target></trans-unit>
+			<trans-unit id="searchButton" xml:space="preserve" approved="yes">
+				<source>Search</source>
+			<target state="translated">Поиск</target></trans-unit>
+			<trans-unit id="pattern" xml:space="preserve" approved="yes">
+				<source>Pattern</source>
+			<target state="translated">Шаблон</target></trans-unit>
+			<trans-unit id="beingChecked" xml:space="preserve" approved="yes">
+				<source>being checked...</source>
+			<target state="translated">проверены...</target></trans-unit>
+			<trans-unit id="directories" xml:space="preserve" approved="yes">
+				<source>Dirs</source>
+			<target state="translated">Дир.:</target></trans-unit>
+			<trans-unit id="directoriesTooDeep" xml:space="preserve" approved="yes">
+				<source>ERROR: Directories deeper than the following number of levels</source>
+			<target state="translated">ОШИБКА: директория глубже текущего количества уровней:</target></trans-unit>
+			<trans-unit id="files" xml:space="preserve" approved="yes">
+				<source>Files</source>
+			<target state="translated">Файлы:</target></trans-unit>
+			<trans-unit id="matchingFiles" xml:space="preserve" approved="yes">
+				<source>Matching files</source>
+			<target state="translated">Соответствующие файлы:</target></trans-unit>
+			<trans-unit id="notChecked" xml:space="preserve" approved="yes">
+				<source>not checked.</source>
+			<target state="translated">не проверено.</target></trans-unit>
+			<trans-unit id="searchingForFilenames" xml:space="preserve" approved="yes">
+				<source>Searching for filenames</source>
+			<target state="translated">Поиск названий файлов:</target></trans-unit>
+			<trans-unit id="fixLostRecord" xml:space="preserve" approved="yes">
+				<source>Click to move this lost record to rootlevel (pid=0)</source>
+			<target state="translated">Щелкните для перемещения этой потерянной записи на корневую страницу (pid=0)</target></trans-unit>
+			<trans-unit id="doktype" xml:space="preserve" approved="yes">
+				<source>Document types</source>
+			<target state="translated">Типы документов:</target></trans-unit>
+			<trans-unit id="doktype_value" xml:space="preserve" approved="yes">
+				<source>Document types (value)</source>
+			<target state="translated">Типы документов (количество)</target></trans-unit>
+			<trans-unit id="pages" xml:space="preserve" approved="yes">
+				<source>Pages</source>
+			<target state="translated">Страницы:</target></trans-unit>
+			<trans-unit id="total_pages" xml:space="preserve" approved="yes">
+				<source>Total number of pages</source>
+			<target state="translated">Общее количество страниц:</target></trans-unit>
+			<trans-unit id="deleted_pages" xml:space="preserve" approved="yes">
+				<source>Marked-deleted pages</source>
+			<target state="translated">Помеченные удаленными страницы:</target></trans-unit>
+			<trans-unit id="hidden_pages" xml:space="preserve" approved="yes">
+				<source>Hidden pages</source>
+			<target state="translated">Скрытые страницы:</target></trans-unit>
+			<trans-unit id="count" xml:space="preserve" approved="yes">
+				<source>Count</source>
+			<target state="translated">Количество</target></trans-unit>
+			<trans-unit id="label" xml:space="preserve" approved="yes">
+				<source>Label</source>
+			<target state="translated">Метка</target></trans-unit>
+			<trans-unit id="tablename" xml:space="preserve" approved="yes">
+				<source>Table name</source>
+			<target state="translated">Название таблицы</target></trans-unit>
+			<trans-unit id="total_lost" xml:space="preserve" approved="yes">
+				<source>Records total / lost</source>
+			<target state="translated">Записи всего / потеряно</target></trans-unit>
+			<trans-unit id="relations" xml:space="preserve" approved="yes">
+				<source>Relations</source>
+			<target state="translated">Связи</target></trans-unit>
+			<trans-unit id="relations_description" xml:space="preserve" approved="yes">
+				<source>This will analyse the content of the tables and check if there are 'empty' relations between records or if files are missing from their expected position.</source>
+			<target state="translated">Анализирует содержимое страниц и проверяет наличие 'пустых' связей между записями или ошибки в расположении файлов.</target></trans-unit>
+			<trans-unit id="files_many_ref" xml:space="preserve" approved="yes">
+				<source>Files referenced from more than one record</source>
+			<target state="translated">Файлы, связанные с несколькими записями:</target></trans-unit>
+			<trans-unit id="no_files_found" xml:space="preserve" approved="yes">
+				<source>No files found.</source>
+			<target state="translated">Файлы не найдены.</target></trans-unit>
+			<trans-unit id="files_no_ref" xml:space="preserve" approved="yes">
+				<source>Files with no references at all (delete them!)</source>
+			<target state="translated">Фалы вообще без связей (удалите их!):</target></trans-unit>
+			<trans-unit id="files_no_file" xml:space="preserve" approved="yes">
+				<source>Missing files</source>
+			<target state="translated">Ошибочные файлы:</target></trans-unit>
+			<trans-unit id="select_db" xml:space="preserve" approved="yes">
+				<source>Select fields</source>
+			<target state="translated">Выбрать поля:</target></trans-unit>
+			<trans-unit id="group_db" xml:space="preserve" approved="yes">
+				<source>Group fields</source>
+			<target state="translated">Группировать поля:</target></trans-unit>
+			<trans-unit id="tree" xml:space="preserve" approved="yes">
+				<source>The Page Tree</source>
+			<target state="translated">Дерево страниц:</target></trans-unit>
+			<trans-unit id="tree_description" xml:space="preserve" approved="yes">
+				<source>This shows all pages in the system in one large tree. Beware that this will probably result in a very long document which will also take some time for the server to compute!</source>
+			<target state="translated">Отображение всех страниц в системе в виде большого дерева. Помните, что список может быть очень большим и может потребоваться много времени для просчета и отображения страниц!</target></trans-unit>
+			<trans-unit id="records" xml:space="preserve" approved="yes">
+				<source>Records Statistics</source>
+			<target state="translated">Статистика записей</target></trans-unit>
+			<trans-unit id="records_description" xml:space="preserve" approved="yes">
+				<source>This shows some statistics for the records in the database. This runs through the entire page-tree and therefore it will also load the server heavily!</source>
+			<target state="translated">Статистический обзор записей базы данных. Необходима обработка всех страниц, что составить достаточную нагрузку для сервера!</target></trans-unit>
+			<trans-unit id="search" xml:space="preserve" approved="yes">
+				<source>Search whole Database</source>
+			<target state="translated">Поиск по всей базе данных</target></trans-unit>
+			<trans-unit id="search_description" xml:space="preserve" approved="yes">
+				<source>This searches through all database tables and records for a text string.</source>
+			<target state="translated">Этот поиск задействует все таблицы и записи для поиска текстовой строки.</target></trans-unit>
+			<trans-unit id="filesearch" xml:space="preserve" approved="yes">
+				<source>Search all filenames for pattern</source>
+			<target state="translated">Поиск образца во всех файлах</target></trans-unit>
+			<trans-unit id="filesearch_description" xml:space="preserve" approved="yes">
+				<source>Will search recursively for filenames in the PATH_site (subdirs to the website path) matching a certain regex pattern.</source>
+			<target state="translated">Поиск по названиям файлов в корневой директории сайта и всех его поддиректориях.</target></trans-unit>
+			<trans-unit id="refindex" xml:space="preserve" approved="yes">
+				<source>Check and update global reference index</source>
+			<target state="translated">Проверить и обновить глобальный индекс связей</target></trans-unit>
+			<trans-unit id="refindex_description" xml:space="preserve" approved="yes">
+				<source>Allows you to maintain the reference index kept by TYPO3.</source>
+			<target state="translated">Позволяет управлять индексом связей, поддерживаемым TYPO3.</target></trans-unit>
+			<trans-unit id="title" xml:space="preserve" approved="yes">
+				<source>Database integrity check</source>
+			<target state="translated">Проверка целостности базы данных</target></trans-unit>
+		</body>
+	</file>
+</xliff>

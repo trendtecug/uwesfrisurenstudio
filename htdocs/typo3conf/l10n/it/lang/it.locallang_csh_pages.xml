@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index=".description">Una record 'Pagina' generalmente in TYPO3 rappresenta una pagina web. Ogni pagina hanno un proprio numero id con il quale possono essere collegate e richiamate. Il record 'Pagina' non contiente in sè il contenuto della pagina - per farlo dovrete creare dei 'Contenuti di Pagina' (Elementi di Contenuto)</label>
+			<label index=".details"/>
+			<label index="doktype.description">Seleziona il tipo di pagina. Questa opzione determina se la pagina rappresenta una pagina web visibile, oppure se viene usata in altri modi.</label>
+			<label index="doktype.details"/>
+			<label index="_doktype.image"/>
+			<label index="doktype.image_descr"/>
+			<label index="_doktype.seeAlso"/>
+			<label index="editlock.description">Se selezionato, gli utenti non-Admin non possono modificare l'intestazione o alcun record di questa pagina (a parte le sottopagine). Non possono inoltre creare nuovi contenuti o altre pagine sotto di questa.</label>
+			<label index="fe_login_mode.description"/>
+			<label index="fe_login_mode.details"/>
+			<label index="_.image"/>
+			<label index=".image_descr"/>
+			<label index="php_tree_stop.description"/>
+			<label index="php_tree_stop.details"/>
+			<label index="_php_tree_stop.image"/>
+			<label index="php_tree_stop.image_descr"/>
+			<label index="_php_tree_stop.seeAlso"/>
+			<label index="_.seeAlso"/>
+			<label index="storage_pid.description"/>
+			<label index="storage_pid.details"/>
+			<label index="_storage_pid.seeAlso"/>
+			<label index="title.description">Inserisci il titolo della pagina o della cartella. Devi inserire un titolo (è un dato obbligatorio)</label>
+			<label index="title.details"/>
+			<label index="_title.image"/>
+			<label index="title.image_descr"/>
+			<label index="TSconfig.description">Configurazione di TypoScript della pagina.</label>
+			<label index="TSconfig.details"/>
+			<label index="_TSconfig.image"/>
+			<label index="TSconfig.image_descr"/>
+			<label index="_TSconfig.seeAlso"/>
+			<label index="TSconfig.syntax"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="tx_scheduler_task_group">Группа задач планировщика</label>
+			<label index="tx_scheduler_task_group.groupName">Название группы</label>
+			<label index="tx_scheduler_task_group.description"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

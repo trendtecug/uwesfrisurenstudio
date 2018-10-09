@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="download_altText">Начинается скачивание файла</label>
+			<label index="download_titleText">Начинается скачивание файла</label>
+			<label index="external_link_altText">Внешняя ссылка открывается в текущем окне</label>
+			<label index="external_link_new_window_altText">Внешняя ссылка открывается в новом окне</label>
+			<label index="external_link_new_window_titleText">Внешняя ссылка открывается в новом окне</label>
+			<label index="external_link_titleText">Внешняя ссылка открывается в текущем окне</label>
+			<label index="internal_link_altText">Внутренняя ссылка открывается в текущем окне</label>
+			<label index="internal_link_new_window_altText">Внутренняя ссылка открывается в новом окне</label>
+			<label index="internal_link_new_window_titleText">Внутренняя ссылка открывается в новом окне</label>
+			<label index="internal_link_titleText">Внутренняя ссылка открывается в текущем окне</label>
+			<label index="mail_altText">Открывается окно почтовой программы для отправки email</label>
+			<label index="mail_titleText">Открывается окно почтовой программы для отправки email</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

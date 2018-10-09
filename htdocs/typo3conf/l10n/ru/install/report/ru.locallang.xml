@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+      <label index="status_fileSystem">Файловая система</label>
+      <label index="status_writable">Запись разрешена</label>
+      <label index="status_missingDirectory">Ошибка в требуемой директории</label>
+      <label index="status_nonExistingDirectory">Директория не существует</label>
+      <label index="status_recommendedWritableDirectory">Запись в директорию должна быть разрешена</label>
+      <label index="status_requiredWritableDirectory">Директория защищена от записи</label>
+      <label index="status_directoryDoesNotExist">%s не существует.</label>
+      <label index="status_directoryDoesNotExistCouldNotCreate">%s не существует и не может быть создана.</label>
+      <label index="status_directoryShouldAlsoBeWritable">Также помните, что при ее существовании, запись туда должна быть разрешена.</label>
+      <label index="status_directoryShouldBeWritable">%s должна быть разрешена запись.</label>
+      <label index="status_directoryMustBeWritable">%s должна быть разрешена запись.</label>
+      <label index="status_remainingUpdates">Ожидает обновления</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

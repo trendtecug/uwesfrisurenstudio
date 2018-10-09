@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="availableInterfaces">Внутренний интерфейс,Внешний интерфейс,Традиционный внутренний интерфейс</label>
+			<label index="clear">Очистить это поле!</label>
+			<label index="copyright">Авторское право</label>
+			<label index="details.link">За деталями обратитесь на %s.</label>
+			<label index="error.capslock">Внимание: включен Caps lock!</label>
+			<label index="error.cookies">Включите Cookies!</label>
+			<label index="error.cookies_ignore">Игнорировать!</label>
+			<label index="error.furtherInformation">Для дополнительной информации или для помощи, щелкните здесь</label>
+			<label index="error.javascript">Включите JavaScript!</label>
+			<label index="error.login">Регистрация не удалась. Убедитесь в правильности ввода имени пользователя и пароля, включая регистр символов.</label>
+			<label index="error.login.description">Убедитесь, что правильно вводите имя пользователя и пароль, включая регистр символов.</label>
+			<label index="error.login.title">Попытка регистрации неудачна</label>
+			<label index="extension.copyright">Авторские права на расширения принадлежат их владельцам.</label>
+			<label index="free.software">Это бесплатное программное обеспечение, и вы можете распространять его под определенными условиями; %sподробности по ссылке.%s</label>
+			<label index="headline">Вход во внутренний интерфейс TYPO3 на ###SITENAME###</label>
+			<label index="info.about">Это вход во внутренний интерфейс TYPO3. Для доступа к интерфейсу управления нужно ввести имя пользователя и пароль. Если Вы обычный посетитель ###SITENAME###, перейдите на публичный сайт: ###SITELINK###</label>
+			<label index="info.cookies_and_js">(Помните: должны быть включены Cookies и JavaScript)</label>
+			<label index="info.reset">Сбросить форму</label>
+			<label index="interface.backend">Внутренний интерфейс</label>
+			<label index="interface.backend_old">Традиционный внутренний интерфейс</label>
+			<label index="interface.frontend">Внешний интерфейс</label>
+			<label index="keep.notice">Удаление этого примечания преследуется по закону.</label>
+			<label index="labels.donate">Пожертвовать</label>
+			<label index="labels.interface">Интерфейс</label>
+			<label index="labels.openId">OpenID</label>
+			<label index="labels.password">Пароль</label>
+			<label index="labels.submitLogin">Вход</label>
+			<label index="labels.submitLogout">Выход</label>
+			<label index="labels.switchToDefault">Переключиться на регистрацию по умолчанию</label>
+			<label index="labels.switchToOpenId">Переключиться на OpenID</label>
+			<label index="labels.username">Пользователь</label>
+			<label index="labels.whatIsOpenId">Что такое OpenID?</label>
+			<label index="login_process">Проверка данных регистрации...</label>
+			<label index="newsheadline">Важные сообщения:</label>
+			<label index="no.warranty">TYPO3 предоставляется БЕЗ КАКОЙ-ЛИБО ГАРАНТИИ; %sподробности по ссылке.%s</label>
+			<label index="typo3.cms">TYPO3 CMS</label>
+			<label index="typo3.logo">Лого TYPO3</label>
+			<label index="version.short">вер.</label>
+			<label index="warning.incompatibleBrowser">Используется неподдерживаемая версия браузера.</label>
+			<label index="warning.incompatibleBrowserHeadline">Неподдерживаемый браузер</label>
+			<label index="warning.incompatibleBrowserInternetExplorer">Установите &lt;a href="http://www.microsoft.com/internetexplorer/" target="_blank" /&gt;современную версию браузера&lt;/a&gt;.</label>
+			<label index="warranty.by">Гарантия предоставляется %s; %sподробности по ссылке.%s</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

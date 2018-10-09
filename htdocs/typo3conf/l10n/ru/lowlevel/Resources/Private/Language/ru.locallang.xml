@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+      <label index="configuration">Настройка</label>
+      <label index="typo3ConfVars">$GLOBALS['TYPO3_CONF_VARS'] (глобальная настройка)</label>
+      <label index="tca">$GLOBALS['TCA'] (область настройки таблиц)</label>
+      <label index="tcaDescr">$GLOBALS['TCA_DESCR'] (описание таблицы справки)</label>
+      <label index="loadedExt">$GLOBALS['TYPO3_LOADED_EXT'] (загруженные расширения)</label>
+      <label index="tbeStyles">$GLOBALS['TBE_STYLES'] (стили оформления)</label>
+      <label index="beUser">$GLOBALS['BE_USER']-&gt;uc (пользовательские настройки)</label>
+      <label index="usersettings">$GLOBALS['TYPO3_USER_SETTINGS'] (настройки для пользователей)</label>
+      <label index="t3services">$GLOBALS['T3_SERVICES'] (зарегистрированные службы)</label>
+      <label index="tbemodulesext">$GLOBALS['TBE_MODULES_EXT'] (расширения модулей внутреннего интерфейса)</label>
+      <label index="tbemodules">$GLOBALS['TBE_MODULES'] (модули внутреннего интерфейса)</label>
+      <label index="cropLines">Линии обрезки</label>
+      <label index="variable">Переменная:</label>
+      <label index="copyPaste"/>
+      <label index="enterSearchPhrase">Введите искомую фразу:</label>
+      <label index="search">Поиск</label>
+      <label index="useRegExp">Использовать регулярное выражение</label>
+      <label index="writeValue">Записать значение в файл конфигурации</label>
+      <label index="writeMessage"/>
+      <label index="writeMessageFailed">Запись в файл конфигурации не удалось (%s)!</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

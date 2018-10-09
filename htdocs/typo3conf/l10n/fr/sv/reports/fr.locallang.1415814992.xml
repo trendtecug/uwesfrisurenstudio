@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="report_title">Services installés</label>
+			<label index="report_description">Liste des services installés avec information et statut pour chacun d'entre eux.</label>
+			<label index="report_explanation"/>
+			<label index="externals_explanation"/>
+			<label index="service_type">Type de services : %s</label>
+			<label index="service">Service</label>
+			<label index="priority">Priorité</label>
+			<label index="quality">Qualité</label>
+			<label index="subtypes">Sous-types</label>
+			<label index="os">OS</label>
+			<label index="externals">Externes</label>
+			<label index="available">Disponible</label>
+			<label index="any">Tous</label>
+			<label index="search_paths">Chemins de recherche configurés pour les programmes externes</label>
+			<label index="path">Chemin</label>
+			<label index="valid">Valable</label>
+			<label index="no_search_paths">Aucun chemin de recherche configuré.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

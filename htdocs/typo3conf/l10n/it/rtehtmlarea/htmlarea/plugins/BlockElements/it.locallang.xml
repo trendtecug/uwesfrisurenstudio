@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="Blockquote-helpText"/>
+			<label index="Blockquote-Tooltip"/>
+			<label index="FormatBlock-Tooltip"/>
+			<label index="Indent-helpText"/>
+			<label index="Indent-Tooltip"/>
+			<label index="InsertHorizontalRule-helpText"/>
+			<label index="InsertHorizontalRule-Tooltip"/>
+			<label index="InsertOrderedList-helpText"/>
+			<label index="InsertOrderedList-Tooltip"/>
+			<label index="InsertParagraphAfter-contextMenuTitle"/>
+			<label index="InsertParagraphAfter-helpText"/>
+			<label index="InsertParagraphAfter-Tooltip"/>
+			<label index="InsertParagraphBefore-contextMenuTitle"/>
+			<label index="InsertParagraphBefore-helpText"/>
+			<label index="InsertParagraphBefore-Tooltip"/>
+			<label index="InsertUnorderedList-helpText"/>
+			<label index="InsertUnorderedList-Tooltip"/>
+			<label index="JustifyCenter-helpText"/>
+			<label index="JustifyCenter-Tooltip"/>
+			<label index="JustifyFull-helpText"/>
+			<label index="JustifyFull-Tooltip"/>
+			<label index="JustifyLeft-helpText"/>
+			<label index="JustifyLeft-Tooltip"/>
+			<label index="JustifyRight-helpText"/>
+			<label index="JustifyRight-Tooltip"/>
+			<label index="Left-Tooltip"/>
+			<label index="No block"/>
+			<label index="Outdent-helpText"/>
+			<label index="Outdent-Tooltip"/>
+			<label index="Remove block"/>
+			<label index="Technische Universitat Ilmenau"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

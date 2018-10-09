@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:01:51Z" product-name="linkvalidator">
+		<header/>
+		<body>
+			<trans-unit id="checkboxes.description">
+				<source>Click the following checkboxes to consider or to ignore the corresponding broken links.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Fai clic sulle caselle seguenti per considerare o ignorare i corrispondenti collegamenti interrotti.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tablehead_element.description">
+				<source>Type of the element containing the broken link, its headline and the field in which the broken link is located.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Tipo dell'elemento che contiene il collegamento interrotto, la sua intestazione e il campo nel quale si trova il collegamento interrotto.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tablehead_headlink.description">
+				<source>The linking text.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Il testo del collegamento.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tablehead_lastcheck.description">
+				<source>Date and time of the last update of the information in each table row.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Data e ora di ultimo aggiornamento delle informazioni in ogni riga della tabella.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tablehead_linkmessage.description">
+				<source>Status of that link.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Stato del collegamento.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tablehead_linktarget.description">
+				<source>URL to which the broken link is pointing.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>URL al quale punta il collegamento interrotto.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tablehead_path.description">
+				<source>Path to the content element, which contains the broken link.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Percorso dell'elemento di contenuto che contiene i collegamenti interrotti.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="task_configuration.alttitle">
+				<source>Special TSconfig code</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Codice speciale TSconfig</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="task_configuration.description">
+				<source>TSconfig Code which defines settings for linkvalidator to be used for this task.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="task_depth.alttitle">
+				<source>Depth of the task</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Profondità dell'operazione</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="task_depth.description">
+				<source>Level of pages the task should check.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="task_email.alttitle">
+				<source>Email address</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Indirizzo e-mail</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="task_email.description">
+				<source>Email address to which an email report is sent.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Indirizzo e-mail al quale inviare una relazione.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="task_emailfile.alttitle">
+				<source>Email template file</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>File contenente il modello per l'email.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="task_emailfile.description">
+				<source>Define a template to be used for the email.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Definisci un modello da usare per l'email.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="task_emailonbrokenlinkonly.alttitle">
+				<source>Mailing option</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Opzioni per la posta elettronica</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="task_emailonbrokenlinkonly.description">
+				<source>Only send an email, if new broken links were found.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Spedisci un e-mail solo se sono stati trovati nuovi collegamenti interrotti.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="task_page.alttitle">
+				<source>Start page of the task</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Pagina iniziale dell'operazione</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="task_page.description">
+				<source>UID of the start page for this task.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>UID della pagina iniziale per questa operazione.</target>
+				</alt-trans>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-29T05:02:30Z" product-name="wizard_crpages">
+		<header/>
+		<body>
+			<trans-unit id="wiz_crMany" approved="yes">
+				<source>Create multiple pages</source>
+				<target state="translated">Créer plusieurs pages multiples</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages" approved="yes">
+				<source>Create new pages</source>
+				<target state="translated">Créer des nouvelles pages</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_addMoreLines" approved="yes">
+				<source>Add more lines</source>
+				<target state="translated">Ajouter plus de lignes</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_create" approved="yes">
+				<source>The pages were created!</source>
+				<target state="translated">Les pages ont été créées!</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_currentMenu" approved="yes">
+				<source>New page structure</source>
+				<target state="translated">Nouvelle structure de page</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_errorMsg1" approved="yes">
+				<source>You are not allowed to create new subpages to this page!</source>
+				<target state="translated">Vous n'êtes pas authorisé à créer de nouvelles sous-page ici!</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_hidePages" approved="yes">
+				<source>Hide new pages</source>
+				<target state="translated">Masquer les nouvelles pages</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_hidePagesInMenus" approved="yes">
+				<source>Hide new pages in menus</source>
+				<target state="translated">Masquer les nouvelles pages dans les menus</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_lCreate" approved="yes">
+				<source>Create pages</source>
+				<target state="translated">Créer les pages</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_lCreate_msg1" approved="yes">
+				<source>You're about to create many new pages. Are you sure you want to continue?</source>
+				<target state="translated">Vous êtes sur le point de créer de nombreuse nouvelles pages. Souhaitez vous continuer ?</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_listEnd" approved="yes">
+				<source>Place new pages after the existing subpages</source>
+				<target state="translated">Placer les nouvelles pages à la suite</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_lReset" approved="yes">
+				<source>Clear fields</source>
+				<target state="translated">Vider les champs</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_noCreate" approved="yes">
+				<source>No pages were created!</source>
+				<target state="translated">Aucune page n'a été créée!</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_page" approved="yes">
+				<source>Page</source>
+				<target state="translated">Page</target>
+			</trans-unit>
+			<trans-unit id="wiz_W" approved="yes">
+				<source>W!</source>
+				<target state="translated">W!</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T05:02:38Z" product-name="wizard_crpages">
+		<header/>
+		<body>
+			<trans-unit id="tx_wizardcrpages.alttitle" approved="yes">
+				<source>Create Pages wizard</source>
+				<target state="translated">Wizard per la creazione delle pagine</target>
+			</trans-unit>
+			<trans-unit id="tx_wizardcrpages.description" xml:space="preserve">
+				<source>Enables you to create a batch of new, empty pages for quickly building up a new page tree.
+Just enter the titles for the pages you need. Only filled in fields will be created as pages.</source>
+			<target/><alt-trans xml:space="preserve" origin="c_strizzolo"><target>Consente di creare un gruppo di nuove pagine vuote per costruire rapidamente un nuovo albero di pagine.
+Inserisci semplicemente i titoli delle pagine che ti occorrono. Verranno create solo le pagine corrispondenti ai campi che sono stati compilati.</target></alt-trans><alt-trans xml:space="preserve" origin="erredeco"><target>Consente di creare un gruppo di nuove pagine vuote, per costruire rapidamente un nuova alberatura di pagine. 
+ Inserisci semplicemente i titoli delle pagine che ti occorrono. Verranno create solo le pagine corrispondenti ai campi che sono stati compilati.</target></alt-trans></trans-unit>
+			<trans-unit id="tx_wizardcrpages.details" xml:space="preserve">
+				<source>The new pages will always be created as subpages to the currently active page from the page tree. This page is shown in the top of the page. In the example image below it is "/Intro/Startpage/".
+
+&lt;b&gt;"Place new pages after the existing subpages"&lt;/b&gt;
+If you select this option the pages will be create &lt;em&gt;after&lt;/em&gt; any existing subpages.
+
+&lt;b&gt;"Hide new pages"&lt;/b&gt;
+Select this if the new pages should be hidden by default. This option may be forced upon you if you do not have credentials to create new, online pages.
+
+
+&lt;b&gt;Lorem Ipsum...&lt;/b&gt;
+The Create new page wizard supports the Lorem Ipsum extension providing dummy content for the fields.</source>
+			<target/><alt-trans xml:space="preserve" origin="erredeco"><target>Le nuove pagine saranno create sempre come sottopagine della pagina correntemente attivata nell'albero delle pagine. Questa pagina viene mostrata all'inizio. Nell'immagine di esempio sottostante è "/Intro/Startpage/".
+
+&lt;b&gt;"Posiziona le nuove pagine dopo le sottopagine esistenti"&lt;/b&gt;
+Selezionando questa opzione, le pagine verranno create  &lt;em&gt;dopo&lt;/em&gt; le sottopagine già esistenti.
+
+&lt;b&gt;"Nascondi le nuove pagine"&lt;/b&gt;
+Seleziona questa opzione se le nuove pagine devono essere nascoste per impostazione predefinita. Questa opzione potrebbe essere attivata forzatamente se non hai credenziali sufficienti per creare nuove pagine online.
+
+
+&lt;b&gt;Lorem Ipsum...&lt;/b&gt;
+Il wizard "crea nuove pagine" supporta l'estensione Lorem Ipsum per inserire del contenuto fittizio di prova nei campi.</target></alt-trans></trans-unit>
+			<trans-unit id="_tx_wizardcrpages.image" xml:space="preserve">
+				<source>EXT:wizard_crpages/Resources/Public/Images/cshimages/wizards_1.png,
+EXT:wizard_crpages/Resources/Public/Images/cshimages/wizards_2.png</source>
+				<target/><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<alt-trans xml:space="preserve" origin="erredeco"><target>EXT:wizard_crpages/Resources/Public/Images/cshimages/wizards_1.png,
+EXT:wizard_crpages/Resources/Public/Images/cshimages/wizards_2.png</target></alt-trans></trans-unit>
+			<trans-unit id="tx_wizardcrpages.image_descr" xml:space="preserve">
+				<source>You simply enter the new page titles in the fields. Only fields you fill in will be created as pages.
+After pressing the "Create pages" button the page tree to the left will update instantly, showing you the position of the new pages!</source>
+			<target/><alt-trans xml:space="preserve" origin="erredeco"><target>Inserisci sempicemente i nuovi titoli di pagina nei campi. Verranno create solo le pagine corrispondenti ai campi compilati. 
+ Premendo il pulsante "Crea pagine", l'albero delle pagine a sinistra verrà aggiornato immediatamente, mostrando la posizione delle nuove pagine!</target></alt-trans></trans-unit>
+			<trans-unit id="_tx_wizardcrpages.seeAlso" approved="yes">
+				<source>xEXT_loremipsum</source>
+				<target state="translated">xEXT_loremipsum</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

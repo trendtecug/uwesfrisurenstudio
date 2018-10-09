@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="tsconfig_edit.alttitle">Просмотр содержимого TSconfig страницы.</label>
+			<label index="tsconfig_edit.description">Отображает необработанный код TSconfig всех страниц в текущей корневой линии, включая весь код по умолчанию.</label>
+			<label index="tsconfig_edit.details">Проанализированное дерево TSconfig страницы, в представлении по умолчанию, фактически компилировано из этого кода TSconfig в порядке его появления. Это представление позволяет увидет обработанную версию кода. Можно щелкнуть по значку редактирования различных страниц для перехода непосредственно в поле TSconfig страницы.</label>
+			<label index="_tsconfig_edit.image">EXT:info_pagetsconfig/cshimages/img_3.png, EXT:info_pagetsconfig/cshimages/img_4.png, EXT:info_pagetsconfig/cshimages/img_5.png</label>
+			<label index="tsconfig_edit.image_descr">Показан необработанный TSconfig страницы. Сначала представлено содержимое по умолчанию из TYPO3_CONF_VARS (вероятно добавленное расширениями), затем содержимое из поля "TSconfig" первой страницы в корневой линии ("Intro"), а потом для каждой корневой страницы, встречающейся на пути до текущей страницы (не показано на снимке экрана). Внизу страницы присутствует ссылка, открывающая формы редактирования для всех полей TSconfig в списке! Здесь специально показаны поля TSconfig первой и второй страницы в корневой линии при редактировании. Обратите внимание на значок "TS" рядом с первым полем, через него доступен мастер, помогающий выбрать доступные свойства для TSconfig страницы.</label>
+			<label index="_tsconfig_edit.seeAlso">_MOD_web_info:tsconfig_hierarchy</label>
+			<label index="tsconfig_hierarchy.alttitle">Просмотр иерархии TSconfig страницы.</label>
+			<label index="tsconfig_hierarchy.description">Позволяет пользователям просматривать компилированную структуру TSconfig страницы для ветви дерева страниц.</label>
+			<label index="tsconfig_hierarchy.details">Это средство используется для получения преставления о настройках TSconfig страницы и как они применяются для для различных ветвей в дереве страниц. Можно просмотреть структуру настроек любой страницы, с учетом заимствованных TSconfig страниц. Это полезно для оценки результата применения актуальных параметров настройки. Также можно просмотреть TypoScript код в TSconfig страниц корневой линии. Смотрите ссылки на материал о TSconfig страницы.</label>
+			<label index="_tsconfig_hierarchy.image">EXT:info_pagetsconfig/cshimages/img_1.png, EXT:info_pagetsconfig/cshimages/img_2.png,</label>
+			<label index="tsconfig_hierarchy.image_descr">Вид анализирумого дерева TSconfig страницы. Здесь содержиться "итог" всего кода настроек от корневой линии и все настройки по умолчанию. Показывается все дерево, но можно выбрать другой объект основного уровня (TLO) в выпадающем меню сверху, для ограничения просмотра одной ветвью. Одна из ветвей в TSconfig страницы имеет специальное свойство, переопределяемое любым TSconfig пользователя с тем же путем объекта, заданного для текущего внутреннего пользователя. При просмотре лишь "mod" TLO, применяются все установленные параметры для текущего внутреннего пользователя. Здесь очевидно, что должны применяться некоторые дополнительные параметры для пользователя, так как на странице фактически был найде лишь "mod.SHARED.colPos_list" TSconfig страницы (в соответствии с представлением "All" на первом рисунке).</label>
+			<label index="_tsconfig_hierarchy.seeAlso">_MOD_web_info:tsconfig_edit, pages:TSconfig, Объекты TSconfig страницы | http://typo3.org/documentation/document-library/doc_core_tsconfig/Page_TSconfig/</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

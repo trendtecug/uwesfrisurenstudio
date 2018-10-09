@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:44:14Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="download_altText">
+				<source>Initiates file download</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="download_titleText">
+				<source>Initiates file download</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="external_link_altText" approved="no">
+				<source>Opens external link in current window</source>
+				<target state="needs-translation">Aprire il link interno in una nuova finestra</target>
+				<note>78%</note>
+			</trans-unit>
+			<trans-unit id="external_link_new_window_altText" approved="no">
+				<source>Opens external link in new window</source>
+				<target state="needs-translation">Aprire il link interno in una nuova finestra</target>
+				<note>93%</note>
+			</trans-unit>
+			<trans-unit id="external_link_new_window_titleText" approved="no">
+				<source>Opens external link in new window</source>
+				<target state="needs-translation">Aprire il link interno in una nuova finestra</target>
+				<note>93%</note>
+			</trans-unit>
+			<trans-unit id="external_link_titleText" approved="no">
+				<source>Opens external link in current window</source>
+				<target state="needs-translation">Aprire il link interno in una nuova finestra</target>
+				<note>78%</note>
+			</trans-unit>
+			<trans-unit id="internal_link_altText" approved="no">
+				<source>Opens internal link in current window</source>
+				<target state="needs-translation">Aprire il link interno in una nuova finestra</target>
+				<note>83%</note>
+			</trans-unit>
+			<trans-unit id="internal_link_new_window_altText" approved="yes">
+				<source>Opens internal link in new window</source>
+				<target state="translated">Aprire il link interno in una nuova finestra</target>
+			</trans-unit>
+			<trans-unit id="internal_link_new_window_titleText" approved="yes">
+				<source>Opens internal link in new window</source>
+				<target state="translated">Aprire il link interno in una nuova finestra</target>
+			</trans-unit>
+			<trans-unit id="internal_link_titleText" approved="no">
+				<source>Opens internal link in current window</source>
+				<target state="needs-translation">Aprire il link interno in una nuova finestra</target>
+				<note>83%</note>
+			</trans-unit>
+			<trans-unit id="mail_altText">
+				<source>Opens window for sending email</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="mail_titleText">
+				<source>Opens window for sending email</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

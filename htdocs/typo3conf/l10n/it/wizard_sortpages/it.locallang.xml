@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="no_subpages">Scegli una pagina con sottopagine.</label>
+			<label index="wiz_changeOrder">Ordina queste pagine per</label>
+			<label index="wiz_changeOrder_msg1">Stai per cambiare l'ordine delle pagine. Sei sicuro di voler continuare?</label>
+			<label index="wiz_changeOrder_REVERSE">Inverti ordine corrente</label>
+			<label index="wiz_changeOrder_subtitle">Sottotitolo</label>
+			<label index="wiz_changeOrder_tChange">Data ultima modifica</label>
+			<label index="wiz_changeOrder_tCreate">Data creazione</label>
+			<label index="wiz_changeOrder_title">Titolo</label>
+			<label index="wiz_currentPageOrder">Ordine corrente</label>
+			<label index="wiz_sort">Ordina pagine</label>
+			<label index="wiz_W">W!</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

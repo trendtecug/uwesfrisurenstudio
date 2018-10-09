@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:14Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Cancel" approved="yes">
+				<source>Cancel</source>
+				<target state="translated">Отмена</target>
+			</trans-unit>
+			<trans-unit id="Insert Smiley" approved="yes">
+				<source>Insert Smiley</source>
+				<target state="translated">Вставить смайлик</target>
+			</trans-unit>
+			<trans-unit id="mozilla_cool" approved="yes">
+				<source>Cool</source>
+				<target state="translated">Класс</target>
+			</trans-unit>
+			<trans-unit id="mozilla_cry" approved="yes">
+				<source>Cry</source>
+				<target state="translated">Слезы</target>
+			</trans-unit>
+			<trans-unit id="mozilla_embarassed" approved="yes">
+				<source>Embarassed</source>
+				<target state="translated">Смущение</target>
+			</trans-unit>
+			<trans-unit id="mozilla_footinmouth" approved="yes">
+				<source>Foot in mouth</source>
+				<target state="translated">Нога в рот</target>
+			</trans-unit>
+			<trans-unit id="mozilla_frown" approved="yes">
+				<source>Frown</source>
+				<target state="translated">Хмурый взгляд</target>
+			</trans-unit>
+			<trans-unit id="mozilla_innocent" approved="yes">
+				<source>Innocent</source>
+				<target state="translated">Невинность</target>
+			</trans-unit>
+			<trans-unit id="mozilla_kiss" approved="yes">
+				<source>Kiss</source>
+				<target state="translated">Поцелуй</target>
+			</trans-unit>
+			<trans-unit id="mozilla_laughing" approved="yes">
+				<source>Laughing</source>
+				<target state="translated">Смех</target>
+			</trans-unit>
+			<trans-unit id="mozilla_moneyinmouth" approved="yes">
+				<source>Money Mouth</source>
+				<target state="translated">Деньги во рту</target>
+			</trans-unit>
+			<trans-unit id="mozilla_sealed" approved="yes">
+				<source>Lips are sealed</source>
+				<target state="translated">Рот на замке</target>
+			</trans-unit>
+			<trans-unit id="mozilla_smile" approved="yes">
+				<source>Smile</source>
+				<target state="translated">Улыбка</target>
+			</trans-unit>
+			<trans-unit id="mozilla_surprised" approved="yes">
+				<source>Surprise</source>
+				<target state="translated">Удивление</target>
+			</trans-unit>
+			<trans-unit id="mozilla_tongueout" approved="yes">
+				<source>Tongue out</source>
+				<target state="translated">Язык</target>
+			</trans-unit>
+			<trans-unit id="mozilla_undecided" approved="yes">
+				<source>Undecided</source>
+				<target state="translated">Нерешительность</target>
+			</trans-unit>
+			<trans-unit id="mozilla_wink" approved="yes">
+				<source>Wink</source>
+				<target state="translated">Подмигнуть</target>
+			</trans-unit>
+			<trans-unit id="mozilla_yell" approved="yes">
+				<source>Yell</source>
+				<target state="translated">Вопль</target>
+			</trans-unit>
+			<trans-unit id="Smiley" approved="yes">
+				<source>Smiley</source>
+				<target state="translated">Смайлик</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

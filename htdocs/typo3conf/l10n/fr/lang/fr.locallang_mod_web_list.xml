@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="clip_deleteMarked">Supprimer la sélection</label>
+			<label index="clip_deleteMarkedWarning">Etes-vous sûr de vouloir supprimer de la table '%s' tous les enregistrements sélectionnés?</label>
+			<label index="clip_duplicates">Sélectionner les doublons</label>
+			<label index="clip_editMarked">Editer la sélection</label>
+			<label index="clip_markRecords">Sélectionner tout/rien</label>
+			<label index="clip_paste">Coller le contenu du presse-papier</label>
+			<label index="clip_pasteAfter">Coller après: Le contenu du presse-papier est inséré après cet enregistrement</label>
+			<label index="clip_pasteInto">Coller dans: Le contenu du presse-papier est inséré dans cette page</label>
+			<label index="clip_selectMarked">Transférer les enregistrements sélectionnés dans le presse-papier</label>
+			<label index="contractView">Lister toutes les tables</label>
+			<label index="defaultLanguage">Défaut</label>
+			<label index="delete">Effacer l'enregistrement (!)</label>
+			<label index="deleteWarning">Etes-vous sûr de vouloir supprimer cet enregistrement?</label>
+			<label index="displayVersions">Afficher les versions</label>
+			<label index="edit">Editer l'enregistrement</label>
+			<label index="editPage">Editer les propriétés de la page</label>
+			<label index="editShownColumns">Editer tous les champs de l'enregistrement</label>
+			<label index="editThisColumn">Editer le champs '%s' de l'enregistrement</label>
+			<label index="expandView">Lister uniquement cette table</label>
+			<label index="hide">Cacher l'enregistrement</label>
+			<label index="hidePage">Cacher la page</label>
+			<label index="history">Afficher l'historique des changements / Annuler</label>
+			<label index="largeControl">Vue étendue</label>
+			<label index="localization">Vue de localisation</label>
+			<label index="Localize">Traduire vers :</label>
+			<label index="missingTcaColumnsMessage"/>
+			<label index="missingTcaColumnsMessageTitle">Définition TCA manquante</label>
+			<label index="mlang_labels_tabdescr">Le module Web&gt;Liste fournit un accès de bas-niveau aux enregistrements de la page.</label>
+			<label index="mlang_labels_tablabel">Liste des enregistrements</label>
+			<label index="mlang_tabs_tab">Liste</label>
+			<label index="moveDown">Déplacer vers le bas</label>
+			<label index="move_page">Déplacer la page</label>
+			<label index="move_record">Déplacer l'élément de contenu</label>
+			<label index="moveUp">Déplacer vers le haut</label>
+			<label index="multipleLanguages">Toutes les langues</label>
+			<label index="new">Créer un nouvel enregistrement</label>
+			<label index="newPage">Créer une nouvelle page, après celle-ci</label>
+			<label index="newRecord">Créer un nouvel élément, après celui-ci</label>
+			<label index="newRecordGeneral">Créer un nouvel enregistrement</label>
+			<label index="nextLevel">Déplacer cette page pour qu'elle soit la sous-page de la page précédente</label>
+			<label index="pageIndicator">Page %1$s sur %2$d</label>
+			<label index="permissions">Définir les droits d'accès à la page</label>
+			<label index="prevLevel">Déplacer cette page après la page qui présentement la contient</label>
+			<label index="rangeIndicator">Enregistrements %1$d - %2$d</label>
+			<label index="restore">Donnée restaurée</label>
+			<label index="restoreWarning">Etes-vous sûr de vouloir restaurer cet enregistrement en annulant le statut "supprimé"?</label>
+			<label index="showClipBoard">Afficher le presse-papier</label>
+			<label index="showInfo">Afficher les informations</label>
+			<label index="unHide">Montrer l'enregistrement</label>
+			<label index="unHidePage">Montrer la page</label>
+			<label index="viewRecords">Afficher les enregistrements de</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

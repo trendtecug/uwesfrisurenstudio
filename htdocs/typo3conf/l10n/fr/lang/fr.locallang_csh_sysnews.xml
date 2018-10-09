@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="content.description">Le contenu de l'actualité permet d'informer les contributeurs sur ce qui est à venir. HTML est désactivé, cependant vous pouvez utiliser les sauts de lignes.</label>
+			<label index=".description">Les actualités Système sont affichées sur l'écran d'authentification de TYPO3, permettant aux administrateurs d'informer les contributeurs des maintenances à venir et des évènements similaires.</label>
+			<label index="hidden.description">Cette option cachera l'actualité de l'écran d'authentification.</label>
+			<label index="title.description">Saisir le titre de l'actualité.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

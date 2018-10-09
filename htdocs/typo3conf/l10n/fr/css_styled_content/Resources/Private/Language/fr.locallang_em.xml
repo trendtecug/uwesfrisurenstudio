@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="cssstyledcontent.config.removePositionTypes">Supprimer des types de positionnement inutilisés: Cela va désactiver les positions d'images qui ne font pas de sens au niveau du CType=image (reste juste "en haut à gauche", "centre" et "droite").</label>
+			<label index="cssstyledcontent.config.setPageTSconfig">Utiliser "PageTSconfig" par défaut: pour utiliser cette extension par défaut, cocher la case.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:08:58Z" product-name="lowlevel">
+		<header/>
+		<body>
+			<trans-unit id="beUser">
+				<source>$GLOBALS['BE_USER']-&gt;uc (User Settings)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="configuration" approved="yes">
+				<source>Configuration</source>
+				<target state="translated">Configurazione</target>
+			</trans-unit>
+			<trans-unit id="copyPaste">
+				<source>(Now, copy/paste this value into the configuration file where you can set it. This is all you can do from here...)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="cropLines">
+				<source>Crop lines</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="enterSearchPhrase">
+				<source>Enter search phrase:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="loadedExt" approved="no">
+				<source>$GLOBALS['TYPO3_LOADED_EXT'] (Loaded Extensions)</source>
+				<target state="needs-translation">$TYPO3_LOADED_EXT (Estensioni caricate)</target>
+			</trans-unit>
+			<trans-unit id="search" approved="yes">
+				<source>Search</source>
+				<target state="translated">Cerca</target>
+			</trans-unit>
+			<trans-unit id="t3services">
+				<source>$GLOBALS['T3_SERVICES'] (Registered Services)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tbemodules">
+				<source>$GLOBALS['TBE_MODULES'] (BE Modules)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tbemodulesext">
+				<source>$GLOBALS['TBE_MODULES_EXT'] (BE Modules Extensions)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tbeStyles" approved="no">
+				<source>$GLOBALS['TBE_STYLES'] (Skinning Styles)</source>
+				<target state="needs-translation">$TBE_STYLES (Skinning Styles)</target>
+			</trans-unit>
+			<trans-unit id="tca" approved="no">
+				<source>$GLOBALS['TCA'] (Table configuration array)</source>
+				<target state="needs-translation">$TCA (array di configurazione delle tabelle)</target>
+			</trans-unit>
+			<trans-unit id="tcaDescr" approved="no">
+				<source>$GLOBALS['TCA_DESCR'] (Table Help Description)</source>
+				<target state="needs-translation">$TCA_DESCR (Tabella di aiuto descrizioni)</target>
+			</trans-unit>
+			<trans-unit id="typo3ConfVars" approved="no">
+				<source>$GLOBALS['TYPO3_CONF_VARS'] (Global Configuration)</source>
+				<target state="needs-translation">$TYPO3_CONF_VARS (Configurazione generale)</target>
+			</trans-unit>
+			<trans-unit id="useRegExp">
+				<source>Use regular expression (phrase is surrounded by slashes automatically)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="usersettings">
+				<source>$GLOBALS['TYPO3_USER_SETTINGS'] (User Settings Configuration)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="variable" approved="yes">
+				<source>Variable:</source>
+				<target state="translated">Variabile:</target>
+			</trans-unit>
+			<trans-unit id="writeMessage">
+				<source>Following line was added to configuration file (%s): %s%s</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="writeMessageFailed">
+				<source>Write to configuration file failed (%s)!</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="writeValue">
+				<source>Write value to configuration file</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

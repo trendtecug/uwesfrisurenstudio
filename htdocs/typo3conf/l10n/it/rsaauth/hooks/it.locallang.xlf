@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:25:43Z" product-name="rsaauth">
+		<header/>
+		<body>
+			<trans-unit id="hook_directory_inside_siteroot" approved="yes">
+				<source>RSA temporary directory is inside the web site root directory. This is a security risk. Please, go to the Extension Manager, select the "RSA authentication" extension and set the directory according to instructions there.</source>
+				<target state="translated">La directory temporanea RSA è collocata all'interno della directory radice del sito web. Questo costituisce un rischio per la sicurezza. Accedi all' Extension Manager, seleziona l'estensione "Autenticazione RSA" e configura la directory seguendo le istruzioni.</target>
+			</trans-unit>
+			<trans-unit id="hook_directory_not_absolute" approved="yes">
+				<source>RSA temporary directory path is not absolute. This may cause RSA authentication errors and it is a security risk. Please, go to the Extension Manager, select the "RSA authentication" extension and set the directory according to instructions there.</source>
+				<target state="translated">Il percorso della directory temporanea RSA non è assoluto. Questo potrebbe causare errori di autenticazione RSA e costituisce un rischio per la sicurezza. Accedi all' Extension Manager, seleziona l'estensione "Autenticazione RSA" e configura la directory seguendo le istruzioni.</target>
+			</trans-unit>
+			<trans-unit id="hook_directory_not_exist" approved="yes">
+				<source>RSA temporary directory does not exist. This is a security risk because an insecure directory will be used for RSA operations. Please, go to the Extension Manager, select the "RSA authentication" extension and set the directory according to instructions there.</source>
+				<target state="translated">La directory temporanea RSA non esiste. Questo costituisce un rischio per la sicurezza poichè verrebbe utilizzata una cartella non sicura per le operazioni RSA. Accedi all' Extension Manager, seleziona l'estensione "Autenticazione RSA" e configura la directory seguendo le istruzioni.</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>La directory temporanea RSA non esiste. Questo costituisce un rischio per la sicurezza poiché verrebbe utilizzata una cartella non sicura per le operazioni RSA. Accedi all'Extension Manager, seleziona l'estensione "Autenticazione RSA" e configura la directory seguendo le istruzioni.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="hook_directory_not_writable" approved="yes">
+				<source>RSA temporary directory is not writable. This may cause RSA authentication errors and it is a security risk. Please, go to the Extension Manager, select the "RSA authentication" extension and set the directory according to instructions there.</source>
+				<target state="translated">La directory temporanea RSA non è scrivibile. Questo potrebbe causare errori di autenticazione RSA e costituisce un rischio per la sicurezza. Accedi all' Extension Manager, seleziona l'estensione "Autenticazione RSA" e configura la directory seguendo le istruzioni.</target>
+			</trans-unit>
+			<trans-unit id="hook_empty_directory" approved="yes">
+				<source>RSA temporary directory is empty. This is a security risk. Please, go to the Extension Manager, select the "RSA authentication" extension and set the directory according to instructions there.</source>
+				<target state="translated">La directory temporanea RSA è vuota. Questo costituisce un rischio per la sicurezza. Accedi all' Extension Manager, seleziona l'estensione "Autenticazione RSA" e configura la directory seguendo le istruzioni.</target>
+			</trans-unit>
+			<trans-unit id="hook_using_cmdline" approved="yes">
+				<source>RSA authentication could not detect the openssl PHP extension. Currently RSA authentication uses a command line openssl utility. This is slower and less secure. Please, consider installing openssl PHP extension.</source>
+				<target state="translated">Autenticazione RSA non è in grado di rilevare l'estensione PHP openssl. Attualmente l'autenticazione RSA utilizza una utility a riga di comando openssl. Questo è più lenta e meno sicura. Per favore, considera di installare l'estensione PHP openssl.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

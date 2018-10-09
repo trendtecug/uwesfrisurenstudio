@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T00:29:40Z" product-name="cms">
+		<header/>
+		<body>
+			<trans-unit id="hits_title" xml:space="preserve" approved="yes">
+				<source>Hit Statistics</source>
+			<target state="translated">Статистика хитов</target></trans-unit>
+			<trans-unit id="lang_getlangsta_createNewTranslationHeaders" xml:space="preserve" approved="yes">
+				<source>Create new translation headers</source>
+			<target state="translated">Создать новый перевод заголовков</target></trans-unit>
+			<trans-unit id="lang_renderl10n_badThingThereAre" xml:space="preserve" approved="yes">
+				<source>ERROR: there are two or more page overlay records for this language! Only one is allowed!</source>
+			<target state="translated">ОШИБКА: перевод на данный язык уже существует! Разрешен только один перевод!</target></trans-unit>
+			<trans-unit id="lang_renderl10n_CEcount" xml:space="preserve" approved="yes">
+				<source>Content Element Count</source>
+			<target state="translated">Счетчик записей</target></trans-unit>
+			<trans-unit id="lang_renderl10n_default" xml:space="preserve" approved="yes">
+				<source>Default</source>
+			<target state="translated">По умолчанию</target></trans-unit>
+			<trans-unit id="lang_renderl10n_editDefaultLanguagePage" xml:space="preserve" approved="yes">
+				<source>Edit default language page properties</source>
+			<target state="translated">Править заголовок страницы на основном языке</target></trans-unit>
+			<trans-unit id="lang_renderl10n_editLangOverlays" xml:space="preserve" approved="yes">
+				<source>Edit all language overlay records</source>
+			<target state="translated">Править все переводы заголовка страницы</target></trans-unit>
+			<trans-unit id="lang_renderl10n_editLanguageOverlayRecord" xml:space="preserve" approved="yes">
+				<source>Edit language overlay record</source>
+			<target state="translated">Править запись перевода</target></trans-unit>
+			<trans-unit id="lang_renderl10n_editPage" xml:space="preserve" approved="yes">
+				<source>Edit page</source>
+			<target state="translated">Править страницу</target></trans-unit>
+			<trans-unit id="lang_renderl10n_editPageLang" xml:space="preserve" approved="yes">
+				<source>Edit page translation</source>
+			<target state="translated">Править перевод страницы</target></trans-unit>
+			<trans-unit id="lang_renderl10n_editPageProperties" xml:space="preserve" approved="yes">
+				<source>Edit all page properties</source>
+			<target state="translated">Править все свойства страницы</target></trans-unit>
+			<trans-unit id="lang_renderl10n_page" xml:space="preserve" approved="yes">
+				<source>Page</source>
+			<target state="translated">Страница</target></trans-unit>
+			<trans-unit id="lang_renderl10n_viewPage" xml:space="preserve" approved="yes">
+				<source>View page</source>
+			<target state="translated">Просмотр страницы</target></trans-unit>
+			<trans-unit id="lang_title" xml:space="preserve" approved="yes">
+				<source>Localization overview</source>
+			<target state="translated">Обзор локализации</target></trans-unit>
+			<trans-unit id="pageInformation" xml:space="preserve" approved="yes">
+				<source>Page information</source>
+			<target state="translated">Информация о странице</target></trans-unit>
+			<trans-unit id="pages_0" xml:space="preserve" approved="yes">
+				<source>Basic settings</source>
+			<target state="translated">Основные параметры</target></trans-unit>
+			<trans-unit id="pages_1" xml:space="preserve" approved="yes">
+				<source>Record overview</source>
+			<target state="translated">Просмотр записи</target></trans-unit>
+			<trans-unit id="pages_2" xml:space="preserve" approved="yes">
+				<source>Cache and Age</source>
+			<target state="translated">Буфер и его возраст</target></trans-unit>
+			<trans-unit id="page_sysnote" xml:space="preserve" approved="yes">
+				<source>Internal notes</source>
+			<target state="translated">Заметки</target></trans-unit>
+			<trans-unit id="page_title" xml:space="preserve" approved="yes">
+				<source>Pagetree overview</source>
+			<target state="translated">Обзор дерева страниц</target></trans-unit>
+			<trans-unit id="pI_crDate" xml:space="preserve" approved="yes">
+				<source>Created date</source>
+			<target state="translated">Дата создания</target></trans-unit>
+			<trans-unit id="pI_crUser" xml:space="preserve" approved="yes">
+				<source>Created by</source>
+			<target state="translated">Автор</target></trans-unit>
+			<trans-unit id="pI_lastChange" xml:space="preserve" approved="yes">
+				<source>Last change</source>
+			<target state="translated">Последние изменения</target></trans-unit>
+			<trans-unit id="pI_lastChangeContent" xml:space="preserve" approved="yes">
+				<source>Last change, content</source>
+			<target state="translated">Последние изменения содержимого</target></trans-unit>
+			<trans-unit id="stat_period" xml:space="preserve" approved="yes">
+				<source>Statistics in the period %s back to %s</source>
+			<target state="translated">Статистика в период %s до %s</target></trans-unit>
+			<trans-unit id="stat_type_0" xml:space="preserve" approved="yes">
+				<source>Page hits</source>
+			<target state="translated">Хиты страницы</target></trans-unit>
+			<trans-unit id="stat_type_1" xml:space="preserve" approved="yes">
+				<source>Total hits</source>
+			<target state="translated">Всего хитов</target></trans-unit>
+			<trans-unit id="stat_type_2" xml:space="preserve" approved="yes">
+				<source>Hits in main sections</source>
+			<target state="translated">Хиты в основных разделах</target></trans-unit>
+		</body>
+	</file>
+</xliff>

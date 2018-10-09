@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="de" type="array">
+			<label index=".alttitle">htmlArea RTE &gt; Tabellenoperationen</label>
+			<label index="backgroundColor.alttitle">Hintergrundfarbe</label>
+			<label index="backgroundColor.description">Wählen Sie die Farbe des Hintergrunds.</label>
+			<label index="backgroundImage.alttitle">URL des Hintergrundbildes</label>
+			<label index="backgroundImage.description">Geben Sie die URL des Hintergrundbildes ein.</label>
+			<label index="borderColor.alttitle">Rahmenfarbe</label>
+			<label index="borderColor.description">Wählen Sie die Rahmenfarbe aus.</label>
+			<label index="borderStyle.alttitle">Rahmenstil</label>
+			<label index="borderStyle.description">Wählen Sie den Rahmenstil.</label>
+			<label index="borderWidth.alttitle">Rahmenbreite</label>
+			<label index="borderWidth.description">Geben Sie die Breite des Rahmens in Pixeln ein.</label>
+			<label index="caption.alttitle">Tabellenbeschriftung</label>
+			<label index="caption.description">Geben Sie die Beschreibung der Natur der Tabelle ein.</label>
+			<label index="caption.details">Die in diesem Feld eingegebene Beschreibung wird als Tabellenbeschriftung benutzt. Standardmäßig ist die Tabellenbeschriftung zentriert oberhalb der Tabelle angeordnet.</label>
+			<label index="cellAbbreviation.alttitle">Kopfzellenabkürzung</label>
+			<label index="cellAbbreviation.description">Geben Sie eine Abkürzung der Kopfzelle ein.</label>
+			<label index="Cell_height.alttitle">Zellhöhe</label>
+			<label index="Cell_height.description">Geben Sie die Zellhöhe in der ausgewählten Höheneinheit an.</label>
+			<label index="cellPadding.alttitle">Zelleninnenabstand</label>
+			<label index="cellPadding.description">Geben Sie die Anzahl an Pixeln Abstand zwischen Inhalt und Rahmen in Zellen an.</label>
+			<label index="cellSpacing.alttitle">Zellenaußenabstand</label>
+			<label index="cellSpacing.description">Geben Sie die Anzahl an Pixeln Abstand zwischen benachbarten Zellen an.</label>
+			<label index="cellType.alttitle">Zelltyp</label>
+			<label index="cellType.description">Wählen Sie den Typ der Zelle aus.</label>
+			<label index="Cell_width.alttitle">Zellbreite</label>
+			<label index="Cell_width.description">Geben Sie die Zellbreite in der ausgewählten Breiteneinheit an.</label>
+			<label index="Class_selector.alttitle">Stilauswahl</label>
+			<label index="Class_selector.description">Wenden Sie einen Stil auf das aktuelle Element an oder entfernen Sie den Stil, der zuletzt angewendet wurde.</label>
+			<label index="collapsedBorders.alttitle">Zusammenfallende Rahmen</label>
+			<label index="collapsedBorders.description">Wählen Sie aus, ob die Tabellenrahmen zusammenfallend sein sollen, allein stehend sein sollen oder in der Standardeinstellung verbleiben sollen.</label>
+			<label index="columnCellsType.alttitle">Zelltyp</label>
+			<label index="columnCellsType.description">Wählen Sie den Typ der Zellen dieser Spalte.</label>
+			<label index=".description">Diese Funktion bietet mehrere Werkzeuge, um im RTE-Bearbeitungsbereich Tabellen zu erstellen und zu bearbeiten.</label>
+			<label index=".details">Wenn diese Funktion aktiviert ist, wird eine "Tabelle einfügen"-Schaltfläche in der Editorwerkzeugleiste angezeigt.
+Zusätzlich kann eine Anzahl weiterer Schaltflächen angezeigt werden, gewöhnlich in der letzten Zeile der Werkzeugleiste. Der Editor kann allerdings auch so konfiguriert sein, dass Konfigurationsoptionen für Tabellen nur im Kontextmenü erscheinen.
+Alle Schaltflächen, die konfiguriert werden können, sind unten abgebildet.</label>
+			<label index="frames.alttitle">Umrandung</label>
+			<label index="frames.description">Wählen Sie aus, welche Seite(n) der Tabelle eine Umrandung haben soll(en).</label>
+			<label index="Height_unit.alttitle">Höheneinheit</label>
+			<label index="Height_unit.description">Wählen Sie die Höheneinheit.</label>
+			<label index=".image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/insert_table.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/table-prop.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/table-restyle.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/toggle-borders.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/row-prop.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/row-insert-above.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/row-insert-under.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/row-delete.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/row-split.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/col-prop.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/col-insert-before.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/col-insert-after.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/col-delete.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/col-split.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/cell-prop.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/cell-insert-before.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/cell-insert-after.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/cell-delete.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/cell-split.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/cell-merge.gif
+</label>
+			<label index=".image_descr">Symbol "Tabelle einfügen". Wenn Sie dieses Symbol anklicken, öffnet sich ein Dialog, mit dem Sie eine Tabelle an der aktuellen Mauszeigerposition einfügen können.
+Symbol "Tabelleneigenschaften". Wenn der Mauszeiger innerhalb einer Tabelle ist, öffnet ein Klick auf dieses Symbol einen Dialog zum Bearbeiten der Tabelleneigenschaften.
+Symbol "Tabellenstile erneut anwenden". Wenn der Mauszeiger innerhalb einer Tabelle ist, werden mit einem Klick auf dieses Symbol die Stile für gerade und ungerade Zeilen sowie zählende Stile erneut berechnet.
+Symbol "Rahmen umschalten". Wenn Sie dieses Symbol anklicken, werden die Rahmen aller Tabellen im Bearbeitungsbereich gezeigt oder verborgen.
+Symbol "Zeileneigenschaften". Wenn der Mauszeiger sich in einer Tabellenzeile befindet, öffnet ein Klick auf diese Schaltfläche einen Dialog, in dem die Eigenschaften der Zeile bearbeitet werden können.
+Symbol "Zeile darüber einfügen". Wenn der Mauszeiger sich in einer Tabellenzeile befindet, fügt ein Klick auf diese Schaltfläche eine neue Zeile oberhalb dieser Zeile ein.
+Symbol "Zeile darunter einfügen". Wenn der Mauszeiger sich in einer Tabellenzeile befindet, fügt ein Klick auf diese Schaltfläche eine neue Zeile unterhalb dieser Zeile ein.
+Symbol "Zeile löschen". Wenn der Mauszeiger sich in einer Tabellenzeile befindet, löscht ein Klick auf diese Schaltfläche diese Tabellenzeile.
+Symbol "Zeile teilen". Wenn der Mauszeiger sich in einer Tabellenzelle befindet, die sich über zwei oder mehr Zeilen erstreckt, teilt ein Klick auf diese Schaltfläche die Zelle in so viele Zeilen, wie sie umfasste.
+Symbol "Spaltenzelleigenschaften". Wenn der Mauszeiger sich in einer Tabellenspalte befindet, öffnet ein Klick auf diese Schaltfläche einen Dialog, der es erlaubt, die Eigenschaften der Zellen der Spalte zu bearbeiten.
+Symbol "Spalte links einfügen". Wenn der Mauszeiger sich in einer Tabellenspalte befindet, fügt ein Klick auf diese Schaltfläche eine neue Spalte links der aktuellen Spalte ein.
+Symbol "Spalte rechts einfügen". Wenn der Mauszeiger sich in einer Tabellenspalte befindet, fügt ein Klick auf diese Schaltfläche eine neue Spalte rechts der aktuellen Spalte ein.
+Symbol "Spalte löschen". Wenn der Mauszeiger sich in einer Tabellenspalte befindet, löscht ein Klick auf diese Schaltfläche die Spalte.
+Symbol "Spalte teilen". Wenn der Mauszeiger sich in einer Tabellenzelle befindet, die sich über zwei oder mehr Spalten erstreckt, teilt ein Klick auf diese Schaltfläche die Zelle in so viele Spalten, wie sie umfasst hat.
+Symbol "Zelleigenschaften". Wenn der Mauszeiger sich in einer Tabellenzelle befindet, öffnet ein Klick auf diese Schaltfläche einen Dialog, in dem die Eigenschaften der Zelle bearbeitet werden können.
+Symbol "Zelle davor einfügen". Wenn der Mauszeiger sich in einer Tabellenzelle befindet, fügt ein Klick auf diese Schaltfläche eine neue Zelle links von dieser Zelle ein.
+Symbol "Zelle danach einfügen". Wenn der Mauszeiger sich in einer Tabellenzelle befindet, fügt ein Klick auf diese Schaltfläche eine neue Zelle rechts von dieser Zelle ein.
+Symbol "Zelle löschen". Wenn der Mauszeiger sich in einer Tabellenzelle befindet, löscht ein Klick auf diese Schaltfläche die Zelle.
+Symbol "Zelle teilen". Wenn der Mauszeiger sich in einer Tabellenzelle befindet, die sich über Spalten und Zeilen erstreckte, dann teilt ein Klick auf diese Schaltfläche die Zelle in so viele Zeilen und Spalten, wie sie umfasste.
+Symbol "Zellen zusammenführen". Wenn mehrere Tabellenzellen ausgewählt sind, fügt ein Klick auf diese Schaltfläche die Zellen zu einer einzigen Zelle zusammen.</label>
+			<label index="InsertTable.alttitle">Tabelle einfügen</label>
+			<label index="InsertTable.description">Erstellen Sie eine neue Tabelle und fügen Sie sie in den Bearbeitungsbereich ein.</label>
+			<label index="InsertTable.details">Ein Klick auf die Schaltfläche "Tabelleneigenschaften" öffnet ein Dialogfeld, mit dem eine neue Tabelle erstellt und an der aktuellen Mauszeigerposition in den Bearbeitungsbereich eingefügt werden kann.</label>
+			<label index="InsertTable.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/insert_table.gif</label>
+			<label index="InsertTable.image_descr">Symbol "Tabelle einfügen".</label>
+			<label index="InsertTable.seeAlso">xEXT_rtehtmlarea_TableOperations:caption,xEXT_rtehtmlarea_TableOperations:summary,
+xEXT_rtehtmlarea_TableOperations:numberOfRows,xEXT_rtehtmlarea_TableOperations:numberOfColumns,xEXT_rtehtmlarea_TableOperations:tableHeaders,
+xEXT_rtehtmlarea_TableOperations:tableStyle,xEXT_rtehtmlarea_TableOperations:Table_class_selector,xEXT_rtehtmlarea_TableOperations:Table_header_class_selector,xEXT_rtehtmlarea_TableOperations:Table_body_class_selector,
+xEXT_rtehtmlarea_TableOperations:cellSpacing,xEXT_rtehtmlarea_TableOperations:cellPadding,
+xEXT_rtehtmlarea_Language:languageCombo,xEXT_rtehtmlarea_Language:directionCombo,
+xEXT_rtehtmlarea_TableOperations:Table_width,xEXT_rtehtmlarea_TableOperations:Width_unit,xEXT_rtehtmlarea_TableOperations:Table_height,xEXT_rtehtmlarea_TableOperations:Height_unit,xEXT_rtehtmlarea_TableOperations:tableFloat,
+xEXT_rtehtmlarea_TableOperations:textAlignment,xEXT_rtehtmlarea_TableOperations:verticalAlignment,
+xEXT_rtehtmlarea_TableOperations:borderStyle,xEXT_rtehtmlarea_TableOperations:borderWidth,xEXT_rtehtmlarea_TableOperations:borderColor,
+xEXT_rtehtmlarea_TableOperations:collapsedBorders,xEXT_rtehtmlarea_TableOperations:frames,xEXT_rtehtmlarea_TableOperations:rules,
+xEXT_rtehtmlarea_TableOperations:textColor,xEXT_rtehtmlarea_TableOperations:backgroundColor,xEXT_rtehtmlarea_TableOperations:backgroundImage</label>
+			<label index="numberOfColumns.alttitle">Anzahl an Spalten</label>
+			<label index="numberOfColumns.description">Geben Sie die Anzahl an Spalten für die zu erstellende Tabelle an.</label>
+			<label index="numberOfColumns.details">Geben Sie in diesem Feld die Anzahl an Spalten an, die die erstellte Tabelle haben soll.</label>
+			<label index="numberOfRows.alttitle">Anzahl an Zeilen</label>
+			<label index="numberOfRows.description">Geben Sie die Anzahl an Zeilen für die zu erstellende Tabelle an.</label>
+			<label index="numberOfRows.details">Geben Sie in diesem Feld die Anzahl an Zeilen an, die die erstellte Tabelle haben soll.</label>
+			<label index="rowGroup.alttitle">Zeilengruppe</label>
+			<label index="rowGroup.description">Wählen Sie aus, zu welchem Tabellenteil diese Zeile gehören soll.</label>
+			<label index="rowGroup.details">Die Zeile kann entweder zum Kopf, zum Körper oder zum Fuß der Tabelle gehören.</label>
+			<label index="Row_height.alttitle">Zeilenhöhe</label>
+			<label index="Row_height.description">Geben Sie die Zeilenhöhe in der ausgewählten Höheneinheit an.</label>
+			<label index="Row_width.alttitle">Zeilenbreite</label>
+			<label index="Row_width.description">Geben Sie die Zeilenbreite in der ausgewählten Breiteneinheit an.</label>
+			<label index="rules.alttitle">Innenränder</label>
+			<label index="rules.description">Wählen Sie aus, welche inneren Umrandungen der Tabelle angezeigt werden sollen.</label>
+			<label index=".seeAlso">xEXT_rtehtmlarea_TableOperations:InsertTable,
+xEXT_rtehtmlarea_TableOperations:TO_table_prop,
+xEXT_rtehtmlarea_TableOperations:TO_table_restyle,
+xEXT_rtehtmlarea_TableOperations:TO_toggle_borders,
+xEXT_rtehtmlarea_TableOperations:TO_row_prop,
+xEXT_rtehtmlarea_TableOperations:TO_row_insert_above,
+xEXT_rtehtmlarea_TableOperations:TO_row_insert_under,
+xEXT_rtehtmlarea_TableOperations:TO_row_delete,
+xEXT_rtehtmlarea_TableOperations:TO_row_split,
+xEXT_rtehtmlarea_TableOperations:TO_col_prop,
+xEXT_rtehtmlarea_TableOperations:TO_column_insert_before,
+xEXT_rtehtmlarea_TableOperations:TO_column_insert_after,
+xEXT_rtehtmlarea_TableOperations:TO_column_delete,
+xEXT_rtehtmlarea_TableOperations:TO_column_split,
+xEXT_rtehtmlarea_TableOperations:TO_cell_prop,
+xEXT_rtehtmlarea_TableOperations:TO_cell_insert_before,
+xEXT_rtehtmlarea_TableOperations:TO_cell_insert_after,
+xEXT_rtehtmlarea_TableOperations:TO_cell_delete,
+xEXT_rtehtmlarea_TableOperations:TO_cell_split,
+xEXT_rtehtmlarea_TableOperations:TO_cell_merge</label>
+			<label index="summary.alttitle">Tabellenzusammenfassung</label>
+			<label index="summary.description">Geben Sie eine Zusammenfassung von Zweck und Struktur der Tabelle an.</label>
+			<label index="summary.details">Der in diesem Feld eingegebene Text wird für das summary-Attribut der Tabelle genutzt.
+
+Beachten Sie, dass dieses Attribut in HTML5 nicht unterstützt wird.</label>
+			<label index="Table_body_class_selector.alttitle">Tabellenkörperstilauswahl</label>
+			<label index="Table_body_class_selector.description">Wenden Sie einen Stil auf den Körper der Tabelle an oder entfernen Sie den Stil, der zuletzt angewendet wurde.</label>
+			<label index="Table_class_selector.alttitle">Tabellenstilauswahl</label>
+			<label index="Table_class_selector.description">Wenden Sie einen Stil auf die Tabelle an oder entfernen Sie den Stil, der zuletzt angewendet wurde.</label>
+			<label index="tableFloat.alttitle">Tabellenumfluss</label>
+			<label index="tableFloat.description">Wählen Sie aus, ob und wie die Tabelle umflossen werden soll.</label>
+			<label index="Table_footer_class_selector.alttitle">Tabellenfußstilauswahl</label>
+			<label index="Table_footer_class_selector.description">Wenden Sie einen Stil auf den Fuß der Tabelle an oder entfernen Sie den Stil, der zuletzt angewendet wurde.</label>
+			<label index="Table_header_class_selector.alttitle">Tabellenkopfstilauswahl</label>
+			<label index="Table_header_class_selector.description">Wenden Sie einen Stil auf den Kopf der Tabelle an oder entfernen Sie den Stil, der zuletzt angewendet wurde.</label>
+			<label index="tableHeaders.alttitle">Kopfzellen</label>
+			<label index="tableHeaders.description">Wählen Sie den Ort der Kopfzellen der Tabelle aus.</label>
+			<label index="tableHeaders.details">Durch Auswählen einer Option von der Liste legen Sie fest, ob und wo die Tabelle Kopfzellen haben soll. Die Optionen sind:
+1. Keine Kopfzellen: Die Tabelle wird keine Kopfzellen haben
+2. Kopfzellen oben: Nur die Zellen in der obersten Zeile werden Kopfzellen sein und diese Zeile wird zum Kopf der Tabelle gehören
+3. Kopfzellen links: Nur die Zellen in der linken Spalte werden Kopfzellen sein
+4. Kopfzellen oben und links: Sowohl die zweite als auch die dritte Option trifft zu.</label>
+			<label index="Table_height.alttitle">Tabellenhöhe</label>
+			<label index="Table_height.description">Geben Sie die Höhe der Tabelle in der ausgewählten Höheneinheit an.</label>
+			<label index="tableStyle.alttitle">Tabellenstile</label>
+			<label index="tableStyle.description">Wenden Sie Stile auf die Tabelle und ihre Bestandteile an.</label>
+			<label index="tableStyle.details">Das "Stil"-Auswahlfeld erlaubt es, Stile auf die Tabelle und auf jeden ihrer Teile anzuwenden, z.B. auf den Kopf, den Körper und den Fuß. Für jeden Teil, der in der aktuellen Tabelle existiert, wird ein Feld angezeigt.</label>
+			<label index="Table_width.alttitle">Tabellenbreite</label>
+			<label index="Table_width.description">Geben Sie die Breite der Tabelle in der ausgewählten Breiteneinheit an.</label>
+			<label index="textAlignment.alttitle">Textausrichtung</label>
+			<label index="textAlignment.description">Wählen Sie die vertikale Ausrichtung von Text in einer Zelle.</label>
+			<label index="textColor.alttitle">Textfarbe</label>
+			<label index="textColor.description">Wählen Sie die Farbe des Textes.</label>
+			<label index="TO_cell_delete.alttitle">Zelle löschen</label>
+			<label index="TO_cell_delete.description">Löscht die aktuelle Tabellenzelle.</label>
+			<label index="TO_cell_delete.details">Ein Klick auf die "Zelle löschen"-Schaltfläche löscht die Tabellenzelle, in der sich der Mauszeiger im Moment befindet.
+Wenn die gelöschte Zelle die letzte verbliebene Zelle der Tabelle war, wird die Tabelle gelöscht.</label>
+			<label index="TO_cell_delete.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/cell-delete.gif</label>
+			<label index="TO_cell_delete.image_descr">Symbol "Zelle löschen".</label>
+			<label index="TO_cell_insert_after.alttitle">Zelle danach einfügen</label>
+			<label index="TO_cell_insert_after.description">Fügen Sie eine neue Zelle rechts von der aktuellen Tabellenzelle ein.</label>
+			<label index="TO_cell_insert_after.details">Ein Klick auf die "Zelle danach einfügen"-Schaltfläche fügt eine neue Zelle rechts von der Zelle ein, in der sich der Mauszeiger im Moment befindet.
+Die neue Zelle ist vom selben Typ, z.B. Kopf oder Daten, gehört zur selben Zeile und hat dieselben Eigenschaften wie die aktuelle Zelle.</label>
+			<label index="TO_cell_insert_after.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/cell-insert-after.gif</label>
+			<label index="TO_cell_insert_after.image_descr">Symbol "Zelle danach einfügen".</label>
+			<label index="TO_cell_insert_before.alttitle">Zelle davor einfügen</label>
+			<label index="TO_cell_insert_before.description">Fügen Sie eine neue Zelle links von der aktuellen Tabellenzelle ein.</label>
+			<label index="TO_cell_insert_before.details">Ein Klick auf die "Zelle davor einfügen"-Schaltfläche fügt eine neue Zelle links von der Zelle ein, in der sich der Mauszeiger im Moment befindet.
+Die neue Zelle ist vom selben Typ, z.B. Kopf oder Daten, gehört zur selben Zeile und hat dieselben Eigenschaften wie die aktuelle Zelle.</label>
+			<label index="TO_cell_insert_before.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/cell-insert-before.gif</label>
+			<label index="TO_cell_insert_before.image_descr">Symbol "Zelle davor einfügen".</label>
+			<label index="TO_cell_merge.alttitle">Zellen zusammenführen</label>
+			<label index="TO_cell_merge.description">Führt eine Auswahl zusammenhängender Tabellenzellen zusammen.</label>
+			<label index="TO_cell_merge.details">Wenn eine Auswahl zusammenhängender Zellen durch Mausbewegung oder mit der Tastatur in Firefox ausgewählt worden sind, fügt ein Klick auf "Zellen zusammenführen" die ausgewählten Zellen zu einer einzelnen Zelle zusammen.
+
+Wenn in anderen Browsern der Mauszeiger sich in einer Zelle befindet, fordert die Schaltfläche "Zellen zusammführen" den Benutzer auf, die Anzahl an Zeilen zur Rechten und Spalten nach unten anzugeben, über die die Zellen zusammengeführt werden sollen. Die Auswahl so festgelegter Zellen wird dann zusammengefügt.</label>
+			<label index="TO_cell_merge.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/cell-merge.gif</label>
+			<label index="TO_cell_merge.image_descr">Symbol "Zellen zusammenführen".</label>
+			<label index="TO_cell_merge.seeAlso">xEXT_rtehtmlarea_TableOperations:TO_row_split,xEXT_rtehtmlarea_TableOperations:TO_column_split,xEXT_rtehtmlarea_TableOperations:TO_cell_split</label>
+			<label index="TO_cell_prop.alttitle">Zelleigenschaften</label>
+			<label index="TO_cell_prop.description">Bearbeiten Sie die Eigenschaften der Zelle, in der sich der Mauszeiger im Moment befindet.</label>
+			<label index="TO_cell_prop.details">Ein Klick auf die Schaltfläche "Zelleigenschaften" öffnet ein Dialogfenster, in dem die Eigenschaften der Tabellenzelle, in der sich der Mauszeiger befindet, bearbeitet werden können.</label>
+			<label index="TO_cell_prop.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/cell-prop.gif</label>
+			<label index="TO_cell_prop.image_descr">Symbol "Zelleigenschaften".</label>
+			<label index="TO_cell_prop.seeAlso">xEXT_rtehtmlarea_TableOperations:cellType,xEXT_rtehtmlarea_TableOperations:cellAbbreviation,
+xEXT_rtehtmlarea_Language:languageCombo,xEXT_rtehtmlarea_Language:directionCombo,
+xEXT_rtehtmlarea_TableOperations:Cell_width,xEXT_rtehtmlarea_TableOperations:Width_unit,xEXT_rtehtmlarea_TableOperations:Cell_height,xEXT_rtehtmlarea_TableOperations:Height_unit,
+xEXT_rtehtmlarea_TableOperations:textAlignment,xEXT_rtehtmlarea_TableOperations:verticalAlignment,
+xEXT_rtehtmlarea_TableOperations:borderStyle,xEXT_rtehtmlarea_TableOperations:borderWidth,xEXT_rtehtmlarea_TableOperations:borderColor,
+xEXT_rtehtmlarea_TableOperations:textColor,xEXT_rtehtmlarea_TableOperations:backgroundColor,xEXT_rtehtmlarea_TableOperations:backgroundImage</label>
+			<label index="TO_cell_split.alttitle">Zelle teilen</label>
+			<label index="TO_cell_split.description">Teilt eine Tabellenzelle, die sich über zwei oder mehr Zeilen und Spalten erstreckt hat.</label>
+			<label index="TO_cell_split.details">Wenn der Mauszeiger sich in einer Tabellenzelle befindet, die sich über zwei oder mehr Zeilen UND Spalten erstreckt hat, dann teilt ein Klick auf diese Schaltfläche die Zelle in so viele Zellen wie über die sie sich erstreckte.</label>
+			<label index="TO_cell_split.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/cell-split.gif</label>
+			<label index="TO_cell_split.image_descr">Symbol "Zelle teilen".</label>
+			<label index="TO_cell_split.seeAlso">xEXT_rtehtmlarea_TableOperations:TO_cell_merge,xEXT_rtehtmlarea_TableOperations:TO_row_split,xEXT_rtehtmlarea_TableOperations:TO_column_split</label>
+			<label index="TO_col_prop.alttitle">Spaltenzelleigenschaften</label>
+			<label index="TO_col_prop.description">Bearbeiten Sie die Eigenschaften der Zellen der Tabellenspalte, in der sich der Mauszeiger im Moment befindet.</label>
+			<label index="TO_col_prop.details">Ein Klick auf die Schaltfläche "Spaltenzelleigenschaften" öffnet ein Dialogfenster, in dem die Eigenschaften der Zellen der Spalte, in der sich der Mauszeiger im Moment befindet, bearbeitet werden können. Die Werte der Eigenschaften werden auf alle Zellen der Spalte angewendet.</label>
+			<label index="TO_col_prop.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/col-prop.gif</label>
+			<label index="TO_col_prop.image_descr">Symbol "Spaltenzelleigenschaften".</label>
+			<label index="TO_col_prop.seeAlso">xEXT_rtehtmlarea_TableOperations:columnCellsType,
+xEXT_rtehtmlarea_Language:languageCombo,xEXT_rtehtmlarea_Language:directionCombo,
+xEXT_rtehtmlarea_TableOperations:Cell_width,xEXT_rtehtmlarea_TableOperations:Width_unit,xEXT_rtehtmlarea_TableOperations:Cell_height,xEXT_rtehtmlarea_TableOperations:Height_unit,
+xEXT_rtehtmlarea_TableOperations:textAlignment,xEXT_rtehtmlarea_TableOperations:verticalAlignment,
+xEXT_rtehtmlarea_TableOperations:borderStyle,xEXT_rtehtmlarea_TableOperations:borderWidth,xEXT_rtehtmlarea_TableOperations:borderColor,
+xEXT_rtehtmlarea_TableOperations:textColor,xEXT_rtehtmlarea_TableOperations:backgroundColor,xEXT_rtehtmlarea_TableOperations:backgroundImage</label>
+			<label index="TO_column_delete.alttitle">Spalte löschen</label>
+			<label index="TO_column_delete.description">Löscht die aktuelle Tabellenspalte.</label>
+			<label index="TO_column_delete.details">Ein Klick auf die Schaltfläche "Spalte löschen" löscht die Spalte, in der sich der Mauszeiger im Moment befindet.
+Wenn die gelöschte Spalte die letzte verbliebene Spalte der Tabelle war, wird die Tabelle gelöscht.</label>
+			<label index="TO_column_delete.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/col-delete.gif</label>
+			<label index="TO_column_delete.image_descr">Symbol "Spalte löschen".</label>
+			<label index="TO_column_insert_after.alttitle">Spalte rechts einfügen</label>
+			<label index="TO_column_insert_after.description">Fügt eine neue Spalte rechts der aktuellen Spalte ein.</label>
+			<label index="TO_column_insert_after.details">Ein Klick auf die Schaltfläche "Spalte rechts einfügen" fügt eine neue Spalte rechts der Spalte ein, in der sich der Mauszeiger im Moment befindet.
+Die Zellen der neuen Spalte sind vom selben Typ, z.B. Kopf für Zeile/Zeilengruppe oder Daten, gehören zum selben Teil der Tabelle, z.B. Kopf, Körper oder Fuß und haben dieselben Eigenschaften wie die entsprechenden Zellen der aktuellen Spalte.</label>
+			<label index="TO_column_insert_after.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/col-insert-after.gif</label>
+			<label index="TO_column_insert_after.image_descr">Symbol "Spalte rechts einfügen".</label>
+			<label index="TO_column_insert_before.alttitle">Spalte links einfügen</label>
+			<label index="TO_column_insert_before.description">Fügt eine neue Spalte links der aktuellen Spalte ein.</label>
+			<label index="TO_column_insert_before.details">Ein Klick auf die Schaltfläche "Spalte links einfügen" fügt eine neue Spalte links der Spalte ein, in der sich der Mauszeiger im Moment befindet.
+Die Zellen der neuen Spalte sind vom selben Typ, z.B. Kopf für Zeile/Zeilengruppe oder Daten, gehören zum selben Teil der Tabelle, z.B. Kopf, Körper oder Fuß und haben dieselben Eigenschaften wie die entsprechenden Zellen der aktuellen Spalte.</label>
+			<label index="TO_column_insert_before.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/col-insert-before.gif</label>
+			<label index="TO_column_insert_before.image_descr">Symbol "Spalte links einfügen".</label>
+			<label index="TO_column_split.alttitle">Spalte teilen</label>
+			<label index="TO_column_split.description">Teilt eine Tabellenzelle, die sich über zwei oder mehr Spalten erstreckt hat.</label>
+			<label index="TO_column_split.details">Wenn der Mauszeiger sich in einer Tabellenzelle befindet, die sich über zwei oder mehr Spalten erstreckt, teilt ein Klick auf diese Schaltfläche die Zelle in so viele Spalten, wie sie umfasste.</label>
+			<label index="TO_column_split.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/col-split.gif</label>
+			<label index="TO_column_split.image_descr">Symbol "Spalte teilen".</label>
+			<label index="TO_column_split.seeAlso">xEXT_rtehtmlarea_TableOperations:TO_cell_merge,xEXT_rtehtmlarea_TableOperations:TO_row_split,xEXT_rtehtmlarea_TableOperations:TO_cell_split</label>
+			<label index="TO_row_delete.alttitle">Zeile löschen</label>
+			<label index="TO_row_delete.description">Löscht die aktuelle Tabellenzeile.</label>
+			<label index="TO_row_delete.details">Ein Klick auf die Schaltfläche "Zeile löschen" löscht die Tabellenzeile, in der sich der Mauszeiger im Moment befindet.
+Wenn die gelöschte Zeile die letzte verbliebene Zeile eines Tabellenteils war, z.B. des Kopfes, des Körpers oder des Fußes, dann wird dieser Teil ebenfalls gelöscht.
+Wenn die gelöschte Zeile die letzte verbliebene Zeile der Tabelle war, dann wird die Tabelle gelöscht.</label>
+			<label index="TO_row_delete.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/row-delete.gif</label>
+			<label index="TO_row_delete.image_descr">Symbol "Zeile löschen".</label>
+			<label index="TO_row_insert_above.alttitle">Zeile darüber einfügen</label>
+			<label index="TO_row_insert_above.description">Fügt eine neue Zeile oberhalb der aktuellen Zeile ein.</label>
+			<label index="TO_row_insert_above.details">Ein Klick auf die Schaltfläche "Zeile darüber einfügen" fügt eine neue Zeile über der Zeile ein, in der sich der Mauszeiger im Moment befindet.
+Die neue Zeile ist vom selben Typ, z.B. Kopf oder Daten, wie die Zeile, in der sich der Mauszeiger im Moment befindet, gehört zum selben Teil der Tabelle, z.B. Kopf, Körper oder Fuß und hat dieselben Eigenschaften.
+Die Zellen der neuen Zeile haben dieselben Eigenschaften wie die entsprechenden Zellen der aktuellen Zeile.</label>
+			<label index="TO_row_insert_above.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/row-insert-above.gif</label>
+			<label index="TO_row_insert_above.image_descr">Symbol "Zeile darüber einfügen".</label>
+			<label index="TO_row_insert_under.alttitle">Zeile darunter einfügen</label>
+			<label index="TO_row_insert_under.description">Fügt eine neue Zeile unterhalb der aktuellen Zeile ein.</label>
+			<label index="TO_row_insert_under.details">Ein Klick auf die Schaltfläche "Zeile darunter einfügen" fügt eine neue Zeile unter der Zeile ein, in der sich der Mauszeiger im Moment befindet.
+Die neue Zeile ist vom selben Typ, z.B. Kopf oder Daten, wie die Zeile, in der sich der Mauszeiger im Moment befindet, gehört zum selben Teil der Tabelle, z.B. Kopf, Körper oder Fuß und hat dieselben Eigenschaften.
+Die Zellen der neuen Zeile haben dieselben Eigenschaften wie die entsprechenden Zellen der aktuellen Zeile.</label>
+			<label index="TO_row_insert_under.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/row-insert-under.gif</label>
+			<label index="TO_row_insert_under.image_descr">Symbol "Zeile darunter einfügen".</label>
+			<label index="TO_row_prop.alttitle">Zeileneigenschaften</label>
+			<label index="TO_row_prop.description">Bearbeiten Sie die Eigenschaften der Tabellenzeile, in der sich der Mauszeiger im Moment befindet.</label>
+			<label index="TO_row_prop.details">Wenn Sie auf die Schaltfläche "Zeileneigenschaften" klicken, öffnet sich ein Dialogfenster, in dem die Eigenschaften der Tabellenzeile, in der sich der Mauszeiger im Moment befindet, bearbeitet werden können.</label>
+			<label index="TO_row_prop.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/row-prop.gif</label>
+			<label index="TO_row_prop.image_descr">Symbol "Zeileneigenschaften".</label>
+			<label index="TO_row_prop.seeAlso">xEXT_rtehtmlarea_TableOperations:rowGroup,xEXT_rtehtmlarea_TableOperations:Class_selector,
+xEXT_rtehtmlarea_Language:languageCombo,xEXT_rtehtmlarea_Language:directionCombo,
+xEXT_rtehtmlarea_TableOperations:Row_width,xEXT_rtehtmlarea_TableOperations:Width_unit,xEXT_rtehtmlarea_TableOperations:Row_height,xEXT_rtehtmlarea_TableOperations:Height_unit,
+xEXT_rtehtmlarea_TableOperations:textAlignment,xEXT_rtehtmlarea_TableOperations:verticalAlignment,
+xEXT_rtehtmlarea_TableOperations:borderStyle,xEXT_rtehtmlarea_TableOperations:borderWidth,xEXT_rtehtmlarea_TableOperations:borderColor,
+xEXT_rtehtmlarea_TableOperations:textColor,xEXT_rtehtmlarea_TableOperations:backgroundColor,xEXT_rtehtmlarea_TableOperations:backgroundImage</label>
+			<label index="TO_row_split.alttitle">Zeile teilen</label>
+			<label index="TO_row_split.description">Teilt eine Tabellenzelle, die sich über zwei oder mehr Zeilen erstreckt hat.</label>
+			<label index="TO_row_split.details">Wenn der Mauszeiger sich in einer Tabellenzelle befindet, die sich über zwei oder mehr Zeilen erstreckt hat, teilt ein Klick auf die Schaltfläche "Zeile teilen" die Zelle in so viele Zeilen, wie sie umfasste.</label>
+			<label index="TO_row_split.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/row-split.gif</label>
+			<label index="TO_row_split.image_descr">Symbol "Zeile teilen".</label>
+			<label index="TO_row_split.seeAlso">xEXT_rtehtmlarea_TableOperations:TO_cell_merge,xEXT_rtehtmlarea_TableOperations:TO_column_split,xEXT_rtehtmlarea_TableOperations:TO_cell_split</label>
+			<label index="TO_table_prop.alttitle">Tabelleneigenschaften</label>
+			<label index="TO_table_prop.description">Bearbeiten Sie die Eigenschaften der Tabelle, in der der Mauszeiger im Moment positioniert ist.</label>
+			<label index="TO_table_prop.details">Ein Klick auf die Schaltfläche "Tabelleneigenschaften" öffnet einen Dialog, der es erlaubt, die Eigenschaften der Tabelle, in der der Mauszeiger sich momentan befindet, zu bearbeiten.</label>
+			<label index="TO_table_prop.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/table-prop.gif</label>
+			<label index="TO_table_prop.image_descr">Symbol "Tabelleneigenschaften"</label>
+			<label index="TO_table_prop.seeAlso">xEXT_rtehtmlarea_TableOperations:caption,xEXT_rtehtmlarea_TableOperations:summary,
+xEXT_rtehtmlarea_TableOperations:tableHeaders,
+xEXT_rtehtmlarea_TableOperations:tableStyle,xEXT_rtehtmlarea_TableOperations:Table_class_selector,xEXT_rtehtmlarea_TableOperations:Table_header_class_selector,xEXT_rtehtmlarea_TableOperations:Table_body_class_selector,xEXT_rtehtmlarea_TableOperations:Table_footer_class_selector,
+xEXT_rtehtmlarea_TableOperations:cellSpacing,xEXT_rtehtmlarea_TableOperations:cellPadding,
+xEXT_rtehtmlarea_Language:languageCombo,xEXT_rtehtmlarea_Language:directionCombo,
+xEXT_rtehtmlarea_TableOperations:Table_width,xEXT_rtehtmlarea_TableOperations:Width_unit,xEXT_rtehtmlarea_TableOperations:Table_height,xEXT_rtehtmlarea_TableOperations:Height_unit,xEXT_rtehtmlarea_TableOperations:tableFloat,
+xEXT_rtehtmlarea_TableOperations:textAlignment,xEXT_rtehtmlarea_TableOperations:verticalAlignment,
+xEXT_rtehtmlarea_TableOperations:borderStyle,xEXT_rtehtmlarea_TableOperations:borderWidth,xEXT_rtehtmlarea_TableOperations:borderColor,
+xEXT_rtehtmlarea_TableOperations:collapsedBorders,xEXT_rtehtmlarea_TableOperations:frames,xEXT_rtehtmlarea_TableOperations:rules,
+xEXT_rtehtmlarea_TableOperations:textColor,xEXT_rtehtmlarea_TableOperations:backgroundColor,xEXT_rtehtmlarea_TableOperations:backgroundImage</label>
+			<label index="TO_table_restyle.alttitle">Tabellenstile erneut anwenden</label>
+			<label index="TO_table_restyle.description">Ungerade und gerade sowie zählende Stile werden erneut auf die unter dem Mauszeiger befindliche Tabelle angewandt.</label>
+			<label index="TO_table_restyle.details">Wenn ungerade/gerade oder zählende Stile auf die Tabelle, in der sich der Mauszeiger aktuell befindet, angewandt worden sind, können einige Tabellenoperationen das Layout der Tabelle beschädigt haben.
+Ein Klick auf die Schaltfläche "Tabellenstile erneut anwenden" wird die ungeraden/geraden und die zählenden Stile erneut berechnen und sie erneut auf die Zeilen und Spalten der Tabelle anwenden.</label>
+			<label index="TO_table_restyle.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/table-restyle.gif</label>
+			<label index="TO_table_restyle.image_descr">Symbol "Tabellenstile erneut anwenden".</label>
+			<label index="TO_toggle_borders.alttitle">Rahmen umschalten</label>
+			<label index="TO_toggle_borders.description">Zeige/verberge die Rahmen aller Tabellen im Bearbeitungsbereich.</label>
+			<label index="TO_toggle_borders.details">Ein Klick auf die "Rahmen umschalten"-Schaltfläche macht die Eingrenzungen aller Tabellen im Bearbeitungsbereich sichtbar oder, wenn sie momentan sichtbar sind und die Schaltfläche hervorgehoben ist, verbirgt sie.
+Diese Einstellung wirkt sich nur bei der Bearbeitung des Inhalts aus und hat keine Auswirkungen auf das Erscheinungsbild des Inhalts, wenn er im Frontend dargestellt wird.
+Diese Schaltfläche kann so konfiguriert werden, dass sie, wenn das Element zum Bearbeiten geöffnet wird, aktiviert ist.</label>
+			<label index="TO_toggle_borders.image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/TableOperations/toggle-borders.gif</label>
+			<label index="TO_toggle_borders.image_descr">Symbol "Rahmen umschalten".</label>
+			<label index="verticalAlignment.alttitle">Vertikale Ausrichtung</label>
+			<label index="verticalAlignment.description">Wählen Sie die vertikale Ausrichtung von Inhalt in einer Zelle.</label>
+			<label index="Width_unit.alttitle">Breiteneinheit</label>
+			<label index="Width_unit.description">Wählen Sie die Breiteneinheit.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="adminOptions">PANNEAU D'ADMINISTRATION</label>
+			<label index="adminPanelTitle">PANNEAU D'ADMINISTRATION TYPO3</label>
+			<label index="cache">Cache</label>
+			<label index="cache_cacheEntries">Eléments dans la cache</label>
+			<label index="cache_clearLevels">Vider sur</label>
+			<label index="cache_doit">Vider le cache maintenant !</label>
+			<label index="cache_noCache">Pas de cache</label>
+			<label index="div_Levels_0">Cette page</label>
+			<label index="div_Levels_1">+ 1 sous-niveau</label>
+			<label index="div_Levels_2">+ 2 sous-niveaux</label>
+			<label index="edit">Editer</label>
+			<label index="edit_db_list">Module Web&gt;Liste</label>
+			<label index="edit_displayFieldIcons">Afficher les icônes d'édition</label>
+			<label index="edit_displayIcons">Afficher les panneaux d'édition</label>
+			<label index="edit_editFormsOnPage">Formulaires d'édition sur la page</label>
+			<label index="edit_editNoPopup">Pas de fenêtre volante</label>
+			<label index="edit_editPageOverlay">Editer les propriétés de la traduction de la page</label>
+			<label index="edit_editPageProperties">Editer les propriétés de la page</label>
+			<label index="edit_move_page">Déplacer la page</label>
+			<label index="edit_newContentElement">Créer un nouvel élément</label>
+			<label index="edit_newPage">Créer une nouvelle page</label>
+			<label index="edit_openAB">Ouvrir le backend TYPO3</label>
+			<label index="edit_recordHistory">Visualiser l'historique des modifications</label>
+			<label index="info">Info</label>
+			<label index="info_countUserInt">Nombre d'objets USER_INT</label>
+			<label index="info_DocumentSize"/>
+			<label index="info_feuserId">Id de l'utilisateur Front-end connecté</label>
+			<label index="info_feuserName">Nom de l'utilisateur Front-end connecté</label>
+			<label index="info_groupList"/>
+			<label index="info_id"/>
+			<label index="info_imagesOnPage"/>
+			<label index="info_imagesSize"/>
+			<label index="info_noCache">Page en cache</label>
+			<label index="info_noCache_no">Non</label>
+			<label index="info_noCache_yes">Oui</label>
+			<label index="info_totalParsetime"/>
+			<label index="info_type">Type de page</label>
+			<label index="p_delete">Supprimer</label>
+			<label index="p_deleteConfirm">Etes-vous sûr de vouloir supprimer cet enregistrement?</label>
+			<label index="p_editRecord">Editer l'enregistrement</label>
+			<label index="p_hide">Cacher</label>
+			<label index="p_hideConfirm">Cacher un enregistrement va le rendre invisible sur la page. Pour éditer l'enregistrement masqué, entrez dans le backend ou activez la prévisualisation frontend. Poursuivre ?</label>
+			<label index="p_moveDown">Descendre</label>
+			<label index="p_moveUp">Monter</label>
+			<label index="p_newRecordAfter">Nouvel enregistrement après</label>
+			<label index="p_newSubpage">Nouvelle sous-page</label>
+			<label index="preview">Prévisualiser</label>
+			<label index="preview_showHiddenPages">Afficher les pages cachées</label>
+			<label index="preview_showHiddenRecords">Afficher les enregistrements cachés</label>
+			<label index="preview_simulateDate">Simuler la date et l'heure</label>
+			<label index="preview_simulateUserGroup">Simuler le groupe d'utilisateurs</label>
+			<label index="publish">Publier</label>
+			<label index="publish_doit">Publier maintenant !</label>
+			<label index="publish_levels">Publier sur</label>
+			<label index="publish_tree">Publier les pages</label>
+			<label index="p_unhide">Montrer</label>
+			<label index="tsdebug">TypoScript</label>
+			<label index="tsdebug_displayContent">Afficher le contenu</label>
+			<label index="tsdebug_displayMessages">Afficher les messages</label>
+			<label index="tsdebug_displayQueries">Expliquer les requêtes SELECT (EXPLAIN)</label>
+			<label index="tsdebug_displayTimes">Afficher toutes les dates</label>
+			<label index="tsdebug_forceTemplateParsing">Forcer le rendu TS</label>
+			<label index="tsdebug_LR">Suivre la génération du rendu</label>
+			<label index="tsdebug_tree">Afficher l'arborescence</label>
+			<label index="update">Mettre à jour</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

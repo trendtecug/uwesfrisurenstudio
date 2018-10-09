@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="availableInterfaces">Backend, Front End, Backend tradizionale</label>
+			<label index="clear">Pulisci questo campo!</label>
+			<label index="copyright">Copyright</label>
+			<label index="details.link">Vai su %s per dettagli.</label>
+			<label index="error.capslock">Attenzione: hai il blocca maiuscole inserito!</label>
+			<label index="error.cookies">Attiva i cookies per piacere!</label>
+			<label index="error.cookies_ignore">Ignora!</label>
+			<label index="error.furtherInformation">Per maggiori informazioni o aiuto cliccare qui</label>
+			<label index="error.javascript">Attiva Javascript per piacere!</label>
+			<label index="error.login">Il tuo login non ha avuto successo. Verifica bene il tuo username e password, con attenzione a maiuscole e minuscole.</label>
+			<label index="error.login.description">Verifica bene il tuo username e password, con attenzione a maiuscole e minuscole.</label>
+			<label index="error.login.title">Login fallito</label>
+			<label index="extension.copyright">Le estensioni sono copyright dei rispettivi proprietari.</label>
+			<label index="free.software">Questo è un software gratuito (free software), e sei invitato a ridistribuirlo sotto determinate condizioni. %sclicca per dettagli.%s</label>
+			<label index="headline">Entra nel Backend TYPO3 di ###SITENAME###</label>
+			<label index="info.about">Questa è la form di login al Backend di TYPO3. Necessiti username e password per accedervi. Se sei un visitatore di ###SITENAME###, visita il sito pubblico ###SITELINK###</label>
+			<label index="info.cookies_and_js">(Nota: Cookies e JavaScript devono essere attivi!)</label>
+			<label index="info.reset">Resetta questa form</label>
+			<label index="interface.backend">Backend</label>
+			<label index="interface.backend_old">Backend tradizionale</label>
+			<label index="interface.frontend">Frontend</label>
+			<label index="keep.notice">Eliminare o modificare questa nota è proibito dalla legge.</label>
+			<label index="labels.donate">Donazioni</label>
+			<label index="labels.interface">Interfaccia</label>
+			<label index="labels.openId">OpenID</label>
+			<label index="labels.password">Password</label>
+			<label index="labels.submitLogin">Login</label>
+			<label index="labels.submitLogout">Esci</label>
+			<label index="labels.switchToDefault">Passa a login normale</label>
+			<label index="labels.switchToOpenId">Passa a OpenID</label>
+			<label index="labels.username">Username</label>
+			<label index="labels.whatIsOpenId">Cosa è OpenID?</label>
+			<label index="login_process">Sto verificando i dati...</label>
+			<label index="newsheadline">Messaggi importanti:</label>
+			<label index="no.warranty">TYPO3 è distribuito SENZA ALCUNA GARANZIA; %sclicca per dettagli.%s</label>
+			<label index="typo3.cms">TYPO3 CMS</label>
+			<label index="typo3.logo">logo TYPO3</label>
+			<label index="version.short">ver.</label>
+			<label index="warning.incompatibleBrowser">State usando una versione del browser non supportata.</label>
+			<label index="warning.incompatibleBrowserHeadline">Browser non supportato</label>
+			<label index="warning.incompatibleBrowserInternetExplorer">Installare una &lt;a href="http://www.microsoft.com/internetexplorer/" target="_blank" /&gt;versione del browser più recente&lt;/a&gt;.</label>
+			<label index="warranty.by">Garanzia fornita da %s; %sclicca per dettagli.%s</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

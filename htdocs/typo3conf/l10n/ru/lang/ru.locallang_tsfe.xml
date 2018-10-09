@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="adminOptions">ПАНЕЛЬ АДМИНИСТРАТОРА</label>
+			<label index="adminPanelTitle">ПАНЕЛЬ АДМИНИСТРАТОРА TYPO3</label>
+			<label index="cache">Буфер</label>
+			<label index="cache_cacheEntries">Записей в буфере</label>
+			<label index="cache_clearLevels">Уровень очистки</label>
+			<label index="cache_doit">Очистить буфер!</label>
+			<label index="cache_noCache">Отключить буферизацию</label>
+			<label index="div_Levels_0">Текущая страница</label>
+			<label index="div_Levels_1">+ 1 подуровень</label>
+			<label index="div_Levels_2">+ 2 подуровня</label>
+			<label index="edit">Правка</label>
+			<label index="edit_db_list">Модуль Веб&gt;Список</label>
+			<label index="edit_displayFieldIcons">Показать значки редактирования</label>
+			<label index="edit_displayIcons">Показать панели редактирования</label>
+			<label index="edit_editFormsOnPage">Правка на странице</label>
+			<label index="edit_editNoPopup">Отключить всплывающее окно</label>
+			<label index="edit_editPageOverlay">Править свойства переведённой страницы</label>
+			<label index="edit_editPageProperties">Править свойства страницы</label>
+			<label index="edit_move_page">Переместить страницу</label>
+			<label index="edit_newContentElement">Создать новый элемент содержимого</label>
+			<label index="edit_newPage">Создать новую страницу</label>
+			<label index="edit_openAB">Открыть внутренний интерфейс TYPO3</label>
+			<label index="edit_recordHistory">Показать историю изменений</label>
+			<label index="info">Инфо</label>
+			<label index="info_countUserInt">Количество объектов USER_INT</label>
+			<label index="info_DocumentSize">Размер документа</label>
+			<label index="info_feuserId">Id авторизованного внешнего пользователя</label>
+			<label index="info_feuserName">Количество авторизованных внешних пользователей</label>
+			<label index="info_groupList">Комбинация групп внешних пользователей</label>
+			<label index="info_id">Uid страницы</label>
+			<label index="info_imagesOnPage">Изображения на этой странице</label>
+			<label index="info_imagesSize">Общий размер файлов изображений</label>
+			<label index="info_noCache">Страница в кеше</label>
+			<label index="info_noCache_no">Нет</label>
+			<label index="info_noCache_yes">Да</label>
+			<label index="info_totalParsetime">Общее время формирования</label>
+			<label index="info_type">Тип страницы</label>
+			<label index="p_delete">Удалить</label>
+			<label index="p_deleteConfirm">Вы уверены что хотите удалить эту запись?</label>
+			<label index="p_editRecord">Править запись</label>
+			<label index="p_hide">Скрыть</label>
+			<label index="p_hideConfirm">Скрытые записи не будут видны на странице. Доступ к ним будет возможен только через внутренний интерфейс или через предпросмотр веб-страницы. Продолжить?</label>
+			<label index="p_moveDown">Переместить ниже</label>
+			<label index="p_moveUp">Переместить выше</label>
+			<label index="p_newRecordAfter">Новая запись после</label>
+			<label index="p_newSubpage">Новая подстраница</label>
+			<label index="preview">Предварительный просмотр</label>
+			<label index="preview_showHiddenPages">Показать скрытые страницы</label>
+			<label index="preview_showHiddenRecords">Показать скрытые записи</label>
+			<label index="preview_simulateDate">Симулировать момент времени</label>
+			<label index="preview_simulateUserGroup">Симулировать группу пользователей</label>
+			<label index="publish">Публикация</label>
+			<label index="publish_doit">Опубликовать!</label>
+			<label index="publish_levels">Опубликовать уровни</label>
+			<label index="publish_tree">Опубликовать страницы</label>
+			<label index="p_unhide">Сделать видимым</label>
+			<label index="tsdebug">TypoScript</label>
+			<label index="tsdebug_displayContent">Показать содержимое</label>
+			<label index="tsdebug_displayMessages">Показать сообщения</label>
+			<label index="tsdebug_displayQueries">Объяснять запросы SELECT</label>
+			<label index="tsdebug_displayTimes">Показать все тайминги</label>
+			<label index="tsdebug_forceTemplateParsing">Принудительное формирование TS</label>
+			<label index="tsdebug_LR">Протоколировать формирование содержимого</label>
+			<label index="tsdebug_tree">Отобразить дерево</label>
+			<label index="update">Обновить</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

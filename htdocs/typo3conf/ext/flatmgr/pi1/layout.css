@@ -1,0 +1,1166 @@
+/************************************************************************/
+/*                                                                     	*/
+/* 			layout styles for flatmgr extension							*/
+/*                                                                     	*/
+/************************************************************************/
+
+/* for holiday wings only */
+
+.tx-flatmgr-pi1 .specialList {
+	position: relative;
+	color: red;
+	font-weight: bold;
+	background-repeat: no-repeat;
+	height: 1px;
+	overflow: visible;
+	padding-top: -13px;
+	top: -50px;
+	left: 160px;
+}
+.tx-flatmgr-pi1 .specialListText {
+	position: relative;
+	top: -50px;
+	left: 50px;
+}
+
+.tx-flatmgr-pi1 .specialList span {
+}
+
+
+.tx-flatmgr-pi1 .specialSingle {
+	position: relative;
+	color: red;
+	font-weight: bold;
+	background-image: url(/fileadmin/includes/icons/special.gif);
+	background-repeat: no-repeat;
+	height: 70px;
+	padding-left: 50px;
+	padding-top: 13px;
+}
+
+
+/*
+.tx-flatmgr-pi1 .adminBookingFooter a {
+	color: white;
+}
+
+.tx-flatmgr-pi1 .theAdminYears a {
+	color: white;
+}
+*/
+
+#mbCenter table {
+	background-color: white;
+	color: black;
+}
+
+#mbImage  .tx-flatmgr-pi1 {
+	line-height: 10px;
+}
+
+
+.calendar table td {
+	font-size: 12px;
+}
+
+.calendar {
+	z-index: 200;
+}
+
+.tx-flatmgr-pi1 .flatCapacity input {
+	width: 25px;
+}
+
+.tx-flatmgr-pi1 .hide {
+	display: none;
+}
+
+.tx-flatmgr-pi1 #map {
+	/*
+	top: -200px;
+	*/
+}
+
+.tx-flatmgr-pi1 .simpleFlatList .actual {
+	font-size: 1.5em;
+}
+
+.tx-flatmgr-pi1 .flatListCategory {
+	font-size: 1.5em;
+}
+.tx-flatmgr-pi1 .flatListFlat {
+	position: relative;
+	float: left;
+}
+.tx-flatmgr-pi1 .clearer {
+	clear: both;
+}
+.tx-flatmgr-pi1 .flatName {
+	font-weight: bold;
+}
+.tx-flatmgr-pi1 .prices {
+	font-weight: bold;
+	border: 1px solid blue;
+}
+
+
+.tx-flatmgr-pi1 .roomSwitch {
+	cursor: pointer;
+}
+
+
+.tx-flatmgr-pi1 .theYears td {
+                font-family: arial;
+                font-size: 10pt;
+                color: black;
+}
+.tx-flatmgr-pi1 .theYears td.selected {
+                font-family: arial;
+                font-size: 10pt;
+                font-weight: bold;
+                color: blue;
+}
+
+.tx-flatmgr-pi1 {
+                font-family: arial;
+                font-size: 10px;
+                color: black;
+}
+.tx-flatmgr-pi1 .listYear td {
+                font-family: arial;
+                font-size: 10px;
+                border: 1px solid black;
+                text-align: center;
+				/* width didn't work
+				 * size is determined
+				 * by font size */
+}
+
+/* size of the calendar days*/
+.tx-flatmgr-pi1 .listYear td div {
+				width: 12px;
+				height: 12px;
+				padding: 0px;
+				margin: 0px;
+				text-align: center;
+}
+
+
+
+.tx-flatmgr-pi1 .listYear td.noDay {
+                font-family: arial;
+                font-size: 10px;
+                border: 0px;
+                text-align: center;
+
+}
+.tx-flatmgr-pi1 .listYear td.bookedWeekend {
+                /*background-color: #66CCFF;*/
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/bookedWeekend.gif");
+}
+.tx-flatmgr-pi1 .listYear td.onRequestWeekend {
+                background-color: #6699FF;
+                background-image:url("");
+}
+
+.tx-flatmgr-pi1 .listYear td.vacantWeekend {
+                background-color: #99CC66;
+}
+.tx-flatmgr-pi1 .listYear td.bookedDay {
+                background-color: #FFCC00;
+}
+
+.tx-flatmgr-pi1 .listYear td.onRequestWeekend {
+                background-color: #6699FF;
+                background-image:url("");
+}
+
+.tx-flatmgr-pi1 .listYear td.onRequestDay {
+                background-color: #6699FF;
+}
+
+.tx-flatmgr-pi1 .listYear td.overbookedDay {
+                background-color: #FF0000;
+}
+.tx-flatmgr-pi1 .listYear td.vacantDay {
+                background-color: #ffffff;
+}
+
+.tx-flatmgr-pi1 .calendarLegend td {
+                font-family: arial;
+                font-size: 10px;
+                border: 1px solid black;
+                width: 10px;
+                text-align: center;
+}
+
+.tx-flatmgr-pi1 .calendarLegend td.bookedWeekend {
+                /*background-color: #66CCFF;*/
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/bookedWeekend.gif");
+}
+.tx-flatmgr-pi1 .calendarLegend td.vacantWeekend {
+                background-color: #99CC66;
+}
+.tx-flatmgr-pi1 .calendarLegend td.bookedDay {
+                background-color: #FFCC00;
+}
+.tx-flatmgr-pi1 .calendarLegend td.overbookedDay {
+                background-color: #FF0000;
+}
+.tx-flatmgr-pi1 .calendarLegend td.vacantDay {
+                background-color: #ffffff;
+}
+
+.tx-flatmgr-pi1 .calendarLegend td.onRequestDay {
+                background-color: #6699FF;
+}
+
+.tx-flatmgr-pi1 .listYearTitle {
+                font-size: 12px;
+                font-weight: bold;
+                margin: 10px 0;
+}
+
+.tx-flatmgr-pi1 .calendarLegend td.legend {
+                width: 120px;
+                font-family: arial;
+                font-size: 10px;
+                border: 0px;
+                text-align: left;
+}
+.tx-flatmgr-pi1 .listYear td.month {
+                background-color: #e0e0e0;
+                border: 0px;
+}
+
+.tx-flatmgr-pi1 .listYear td.monthNoDisplay {
+                background-color: transparent;
+                border: 0px;
+}
+
+
+
+.tx-flatmgr-pi1 .listFlat {
+				padding: 0;
+				margin: 0;
+				/*
+				border: 1px solid green;
+				*/
+}
+
+.tx-flatmgr-pi1 .listFlat td.flatName {
+                font-size: 12px;
+                font-weight: bold;
+                margin: 10px 0;
+                border: 0px;
+}
+
+.tx-flatmgr-pi1 .listFlat .bookingLink {
+                cursor: pointer;
+}
+
+.tx-flatmgr-pi1 .listFlat .roomSelector {
+                width: 200px;
+				float: right;
+				padding-left: 10px;
+}
+
+.tx-flatmgr-pi1 .monthMultiRow {
+				border: 0;
+				background-color: #e0e0e0;
+
+
+}
+
+.tx-flatmgr-pi1 .tableMultiRow {
+				border: 0;
+				background-color: #e0e0e0;
+}
+
+.tx-flatmgr-pi1 td.monthNameMultiRow {
+				border: 0;
+				font-family: arial;
+				font-weight: bold;
+				font-size: 12px;
+				background-color: #e0e0e0;
+}
+
+.tx-flatmgr-pi1 td.dayNames {
+				border: 0;
+				font-family: arial;
+				font-weight: normal;
+				font-size: 9px;
+				text-align: center;
+}
+
+.tx-flatmgr-pi1 td.endDay {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/bookingEnd.gif");
+}
+.tx-flatmgr-pi1 td.onRequestEndDay {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/onRequestEnd.gif");
+}
+.tx-flatmgr-pi1 td.startDay {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/bookingStart.gif");
+}
+.tx-flatmgr-pi1 td.onRequestStartDay {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/onRequestStart.gif");
+}
+.tx-flatmgr-pi1 td.endWeekend {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/weekendEnd.gif");
+}
+.tx-flatmgr-pi1 td.bookerChangedDay {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/bookerChangedDay.gif");
+}
+.tx-flatmgr-pi1 td.onRequestBookerChangedDay {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/onRequestBookerChangedDay12.gif");
+}
+
+.tx-flatmgr-pi1 td.bookerChangedWeekend {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/bookerChangedWeekend.gif");
+}
+.tx-flatmgr-pi1 td.onRequestBookerChangedWeekend21 {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/onRequestBookerChangedDay21.gif");
+}
+.tx-flatmgr-pi1 td.onRequestBookerChangedWeekend12 {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/onRequestBookerChangedDay12.gif");
+}
+
+
+.tx-flatmgr-pi1 td.startWeekend {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/weekendStart.gif");
+}
+.tx-flatmgr-pi1 td.onRequestStartWeekend {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/onRequestStartWeekend.gif");
+}
+.tx-flatmgr-pi1 td.endWeekendNormal {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/weekendEndNormal.gif");
+}
+.tx-flatmgr-pi1 td.startWeekendNormal {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/weekendStartNormal.gif");
+}
+.tx-flatmgr-pi1 td.onRequestEndWeekend {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/onRequestEndWeekend.gif");
+}
+
+
+
+.tx-flatmgr-pi1 td.overbookedStart {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/overbookedStart.gif");
+}
+.tx-flatmgr-pi1 td.overbookedEnd {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/overbookedEnd.gif");
+}
+
+.tx-flatmgr-pi1 td.overbookedAndBookedEnd {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/overbookedAndBookedEnd.gif");
+}
+.tx-flatmgr-pi1 td.overbookedStartWeekend {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/overbookedStartWeekend.gif");
+}
+.tx-flatmgr-pi1 td.overbookedEndWeekend {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/overbookedEndWeekend.gif");
+}
+.tx-flatmgr-pi1 td.overbookedAndBookedEndWeekend {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/overbookedAndBookedEndWeekend.gif");
+}
+
+.tx-flatmgr-pi1 {
+				font-family: arial, helvetica, sans-serif;
+				font-size: 10pt;
+}
+
+
+.tx-flatmgr-pi1 .adminFlatListInput input {
+				margin: 10px 0px 10px 0px;
+}
+
+.tx-flatmgr-pi1 .availableFlat {
+				font-weight: bold;
+}
+
+.tx-flatmgr-pi1 .availableFlatLink {
+				font-weight: normal;
+}
+
+.tx-flatmgr-pi1 .bookingCalendarLink {
+				font-weight: normal;
+				cursor: pointer;
+}
+
+.tx-flatmgr-pi1 .bookingRequestLink {
+				font-weight: normal;
+				cursor: pointer;
+}
+
+
+.tx-flatmgr-pi1 .availabilityInputHeader {
+				font-weight: bold;
+				margin-bottom: 10px;
+}
+.tx-flatmgr-pi1 .availabilityInput, .tx-flatmgr-pi1 .availabilityInput input  {
+				margin: 0px 5px 0px 5px;
+}
+
+.tx-flatmgr-pi1 .availableFlatsHeader {
+				font-weight: bold;
+				margin: 10px 0px 10px 0px;
+				font-size: 10pt;
+}
+.tx-flatmgr-pi1 .availableFlatsFooter {
+				margin: 0px 0px 10px 0px;
+}
+
+.tx-flatmgr-pi1 div.normalMessage {
+				width: 90%;
+				color: black;
+				background-color: #FFFFCC;
+				border: 1px solid #00FF33;
+				padding: 5px;
+				margin: 5px 0px 5px 0px;
+				font-weight: normal;
+				font-size: 10pt;
+				font-family: arial, helvetica, sans-serif;
+}
+.tx-flatmgr-pi1 div.errorMessage {
+				width: 90%;
+				color: black;
+				background-color: #FFFF99;
+				border: 1px solid red;
+				padding: 5px;
+				margin: 5px 0px 5px 0px;
+				font-weight: normal;
+				font-size: 10pt;
+				font-family: arial, helvetica, sans-serif;
+}
+.tx-flatmgr-pi1 div.warnMessage {
+				width: 90%;
+				color: black;
+				background-color: #FFFFCC;
+				border: 1px solid #FF9933;
+				padding: 5px;
+				margin: 5px 0px 5px 0px;
+				font-weight: normal;
+				font-size: 10pt;
+				font-family: arial, helvetica, sans-serif;
+}
+.tx-flatmgr-pi1 .noAvailableFlat {
+				color: red;
+				font-weight: bold;
+				font-size: 10pt;
+				font-family: arial, helvetica, sans-serif;
+}
+
+.tx-flatmgr-pi1 .nextVacantPeriod {
+				color: red;
+				font-weight: bold;
+				font-size: 10pt;
+				font-family: arial, helvetica, sans-serif;
+}
+
+.tx-flatmgr-pi1 .nextVacantPeriod td {
+				padding-left: 5px;
+}
+
+.tx-flatmgr-pi1 .availableForeignFlat {
+				font-weight: bold;
+				color: blue;
+				margin: 0px 0px 0px 0px;
+}
+.tx-flatmgr-pi1 .availableForeignFlat td {
+				padding-left: 5px;
+}
+
+.tx-flatmgr-pi1 .nextForeignVacantPeriod {
+				font-weight: bold;
+				color: blue;
+				margin: 0px 0px 0px 0px;
+}
+.tx-flatmgr-pi1 .nextForeignVacantPeriod td {
+				padding-left: 5px;
+}
+.tx-flatmgr-pi1 .availabilityTable {
+				border-collapse: collapse;
+}
+.tx-flatmgr-pi1 .availabilityTable td {
+				/*
+				border-bottom: 1px dashed gray;
+				*/
+}
+.tx-flatmgr-pi1 .availabilityTable tr {
+
+}
+
+.tx-flatmgr-pi1 .availibilityTableHeader {
+				color: red;
+				font-weight: bold;
+				font-size: 10pt;
+				font-family: arial, helvetica, sans-serif;
+}
+
+.tx-flatmgr-pi1 #formResult {
+				margin-top: 10px;
+}
+
+
+.tx-flatmgr-pi1 .availableFlatsLegend table {
+
+}
+
+
+.tx-flatmgr-pi1 .availableFlatsLegend .legendText {
+				font-family: arial, helvetica, sans-serif;
+				font-size: 10pt;
+}
+.tx-flatmgr-pi1 .availableFlatsLegend td.availableFlat {
+				width: 10px;
+				background-color: #CCFF00;
+				border: 1px solid black;
+}
+.tx-flatmgr-pi1 .availabilityTable .availableFlat {
+				background-color: #CCFF00;
+}
+.tx-flatmgr-pi1 .availabilityTable .availablePeriod {
+				background-color: #CCFF00;
+}
+
+.tx-flatmgr-pi1 .availableFlat td {
+				padding-left: 5px;
+}
+
+.tx-flatmgr-pi1 .availableFlatsLegend td.nextVacantPeriod {
+				width: 10px;
+				background-color: #CCFFCC;
+				border: 1px solid black;
+}
+.tx-flatmgr-pi1 .availabilityTable .nextVacantPeriod {
+				background-color: #CCFFCC;
+}
+
+
+
+.tx-flatmgr-pi1 .availableFlatsLegend td.availableForeignFlat {
+				width: 10px;
+				color: ##0066FF;
+				background-color: #99CC33;
+				border: 1px solid black;
+}
+.tx-flatmgr-pi1 .availabilityTable .availableForeignFlat {
+				background-color: #99CC33;
+}
+
+
+.tx-flatmgr-pi1 .availableFlatsLegend td.nextForeignVacantPeriod {
+				width: 10px;
+				color: ##0066FF;
+				background-color: #CCCC66;
+				border: 1px solid black;
+}
+.tx-flatmgr-pi1 .availabilityTable .nextForeignVacantPeriod {
+				background-color: #CCCC66;
+}
+
+
+.tx-flatmgr-pi1 #flatmgrTooltip {
+				position: absolute;
+				z-index: 200;
+				top: 0px;
+				display: none;
+				background-color: #C0c0c0;
+}
+
+/* special for the MSIE 6 */
+
+*html .tx-flatmgr-pi1 #flatmgrTooltip {
+				position: absolute;
+				display: none;
+				background-color: #CCCC66;
+}
+
+/* special for the MSIE 7 */
+*+html .tx-flatmgr-pi1 #flatmgrTooltip {
+				position: absolute;
+				display: none;
+				background-color: #CCCC66;
+}
+
+
+/* special for the MSIE 6 and 7 */
+* html .tx-flatmgr-pi1 .displayAdditionalFieldsTable, *+html .tx-flatmgr-pi1 .displayAdditionalFieldsTable  {
+				display: block;
+}
+
+/* design of the tooltip */
+html>body .tx-flatmgr-pi1 #flatmgrTooltip  {
+				/*position: fixed;*/
+
+}
+.tx-flatmgr-pi1 #flatmgrTooltip  {
+				font-weight: normal;
+				color: black;
+				font-size: 10pt;
+				font-family: arial, helvetica, sans-serif;
+}
+
+.tx-flatmgr-pi1 #flatmgrTooltip .bookedBy {
+				font-weight: bold;
+				color: green;
+}
+
+.tx-flatmgr-pi1 #flatmgrTooltip .header {
+				font-weight: bold;
+				color: black;
+				padding: 5px 5px 5px 5px;
+}
+
+.tx-flatmgr-pi1 #flatmgrTooltip .headerValue {
+				font-weight: bold;
+				color: black;
+				padding: 5px 5px 5px 5px;
+}
+.tx-flatmgr-pi1 #flatmgrTooltip .field {
+				font-weight: normal;
+				color: black;
+				padding: 0px 5px 5px 5px;
+}
+
+.tx-flatmgr-pi1 #flatmgrTooltip .fieldValue {
+				font-weight: bold;
+				color: blue;
+				padding: 0px 5px 5px 5px;
+}
+.tx-flatmgr-pi1 #flatmgrTooltip table {
+				border-collapse: collapse;
+}
+.tx-flatmgr-pi1 #flatmgrTooltip table td{
+}
+
+.tx-flatmgr-pi1 #flatmgrTooltip table td{
+				background-color:#cccccc;
+}
+
+
+/* utilisation */
+.tx-flatmgr-pi1 .utilisationLegend  {
+}
+
+.tx-flatmgr-pi1 .utilisationLegend td {
+				font: arial, helvetica, sans-serif;
+				font-size: 10px;
+				color: black;
+				width: 80px;
+				height: 10px;
+				border-collapse: collapse;
+				margin: 0;
+				padding: 0;
+}
+.tx-flatmgr-pi1 .utilisationLegend div {
+				width: 9px;
+				height: 10px;
+				margin: 0px 5px 0px 0px;
+				padding: 0;
+				float: left;
+}
+.tx-flatmgr-pi1 .utilisationLegend div.util0 {
+                background-color: #FFFFFF;
+                border: 1px solid black;
+}
+.tx-flatmgr-pi1 .utilisationLegend div.util24 {
+                background-color: #EFFFCC;
+                border: 1px solid black;
+}
+.tx-flatmgr-pi1 .utilisationLegend div.util25 {
+                background-color: #E0FFCC;
+                border: 1px solid black;
+}
+.tx-flatmgr-pi1 .utilisationLegend div.util49 {
+                background-color: #DDFFCC;
+                border: 1px solid black;
+}
+.tx-flatmgr-pi1 .utilisationLegend div.util50 {
+                background-color: #CCFFCC;
+                border: 1px solid black;
+}
+.tx-flatmgr-pi1 .utilisationLegend div.util74 {
+                background-color: #CCFF99;
+                border: 1px solid black;
+}
+.tx-flatmgr-pi1 .utilisationLegend div.util75 {
+                background-color: #CCFF00;
+                border: 1px solid black;
+}
+.tx-flatmgr-pi1 .utilisationLegend div.util99 {
+                background-color: #8ECA86;
+                border: 1px solid black;
+}
+.tx-flatmgr-pi1 .utilisationLegend div.util100 {
+                background-color: #009933;
+                border: 1px solid black;
+}
+
+
+
+.tx-flatmgr-pi1 table td.util0 {
+                background-color: #FFFFFF;
+                border: 1px solid black;
+}
+.tx-flatmgr-pi1 table td.util24 {
+                background-color: #EFFFCC;
+                border: 1px solid black;
+}
+.tx-flatmgr-pi1 table td.util25 {
+                background-color: #E0FFCC;
+                border: 1px solid black;
+}
+.tx-flatmgr-pi1 table td.util49 {
+                background-color: #DDFFCC;
+                border: 1px solid black;
+}
+.tx-flatmgr-pi1 table td.util50 {
+                background-color: #CCFFCC;
+                border: 1px solid black;
+}
+.tx-flatmgr-pi1 table td.util74 {
+                background-color: #CCFF99;
+                border: 1px solid black;
+}
+.tx-flatmgr-pi1 table td.util75 {
+                background-color: #CCFF00;
+                border: 1px solid black;
+}
+.tx-flatmgr-pi1 table td.util99 {
+                background-color: #8ECA86;
+                border: 1px solid black;
+}
+.tx-flatmgr-pi1 table td.util100 {
+                background-color: #009933;
+                border: 1px solid black;
+}
+
+.tx-flatmgr-pi1 .effectiveUtilisation {
+				margin: 10px 0px 10px 0px;
+}
+
+.tx-flatmgr-pi1 .effectiveUtilisation .value {
+				font-weight: bold;
+				padding: 0px 0px 0px 5px;
+}
+
+
+/************************************************************************/
+/*                                                                     	*/
+/* 			admin layout styles for flatmgr extension					*/
+/*                                                                     	*/
+/************************************************************************/
+
+.tx-flatmgr-pi1 .error {
+	background-color: yellow;
+	color: black;
+	border: 2px solid red;
+}
+
+.tx-flatmgr-pi1 .adminFlatList {
+				border-collapse: collapse;
+				padding: 2px 5px 2px 5px;
+				margin:0;
+}
+
+.tx-flatmgr-pi1 .adminFlatList input {
+				font-family: arial, helvetica, sans-serif;
+				padding: 2px;
+}
+
+.tx-flatmgr-pi1 .adminFlatList img {
+				cursor: pointer;
+}
+
+.tx-flatmgr-pi1 .bookingDataHeader {
+				font-weight: bold;
+				padding: 3px 0px 10px 0px;
+}
+
+.tx-flatmgr-pi1 .adminBookingListTable td.oddRow, .tx-flatmgr-pi1 .adminBookingListTable td.evenRow {
+				margin: 0;
+}
+
+.tx-flatmgr-pi1 .adminBookingListTable input {
+
+}
+.tx-flatmgr-pi1 div.adminBookingData {
+				margin: 0;
+				padding: 0;
+}
+.tx-flatmgr-pi1 .adminBookingData form .adminBookingListTable {
+				width: 700px;
+    			margin: 0;
+				padding: 0;
+				border: 0px;
+				border-collapse: collapse;
+}
+.tx-flatmgr-pi1 form {
+				margin: 0;
+				padding: 0;
+}
+
+.tx-flatmgr-pi1 .adminBookingListTable input {
+				font-family: arial, helvetica, sans-serif;
+				font-size: 8pt;
+}
+
+.tx-flatmgr-pi1 td.evenRow {
+				background-color: #c0c0c0;
+}
+.tx-flatmgr-pi1 td.oddRow input {
+                background-color: #f0f0f0;
+                height: 12pt;
+				font-size: 8pt;
+}
+.tx-flatmgr-pi1 td.evenRow input {
+                background-color: #c0c0c0;
+                height: 12pt;
+				font-size: 8pt;
+}
+
+.tx-flatmgr-pi1 td.oddRow {
+				background-color: #f0f0f0;
+}
+
+.tx-flatmgr-pi1 td.calendarEvenRow {
+				background-color: #c0c0c0;
+}
+.tx-flatmgr-pi1 td.calendarOddRow {
+				background-color: #f0f0f0;
+}
+.tx-flatmgr-pi1 td.calendarEvenRow input{
+				background-color: #c0c0c0;
+                height: 15pt;
+				font-size: 10pt;
+				padding: 0px;
+				margin: 0px;
+				cursor: pointer;
+}
+.tx-flatmgr-pi1 td.calendarOddRow input{
+				background-color: #f0f0f0;
+                height: 15pt;
+				font-size: 10pt;
+				padding: 0px;
+				margin: 0px;
+				cursor: pointer;
+}
+
+
+
+
+.tx-flatmgr-pi1 .adminBookingInput, .tx-flatmgr-pi1 {
+				font-family: arial, helvetica, sans-serif;
+				font-size: 10pt;
+}
+
+
+.tx-flatmgr-pi1 .adminBookingData form {
+				padding: 0;
+				margin:0;
+}
+.tx-flatmgr-pi1 .adminBookingData table {
+				margin: 0;
+				padding: 0;
+				border-collapse: collapse;
+}
+
+.tx-flatmgr-pi1 .adminBookingListTable img {
+				cursor: pointer;
+
+}
+.tx-flatmgr-pi1 .additionalFields img {
+				cursor: pointer;
+
+}
+.tx-flatmgr-pi1 .displayAdditionalFieldsOddRow {
+				margin: 0;
+				padding: 0;
+                background-color: #f0f0f0;
+				height: 0px;
+}
+
+.tx-flatmgr-pi1 .additionalFields table {
+				width: 540px;
+				border-collapse: collapse;
+				padding: 0;
+
+}
+
+.tx-flatmgr-pi1 .additionalFields td.evenRow input{
+				padding: 0;
+}
+.tx-flatmgr-pi1 .additionalFields td.oddRow input{
+				padding: 0;
+}
+
+
+
+.tx-flatmgr-pi1 .displayAdditionalFields {
+				margin: 0;
+				padding: 0;
+
+}
+
+.tx-flatmgr-pi1 .displayAdditionalFieldsEvenRow {
+				margin: 0;
+				padding: 0;
+				background-color: #c0c0c0;
+
+}
+
+.tx-flatmgr-pi1 .displayAdditionalFieldsTable {
+				display: table-cell;
+}
+.tx-flatmgr-pi1 .newBookingData, .tx-flatmgr-pi1 .newBookingData td.oddRow, .tx-flatmgr-pi1 .newBookingData td.evenRow {
+				border-collapse: collapse;
+				margin: 0;
+}
+.tx-flatmgr-pi1 .newBookingFlatHeader {
+	margin-left: 10px;
+}
+
+.tx-flatmgr-pi1 .displayAdditionalFieldsOddRow, .tx-flatmgr-pi1 .displayAdditionalFieldsEvenRow {
+				margin: 0;
+				padding: 0;
+}
+
+.tx-flatmgr-pi1 .newBookingHeader {
+				font-weight: bold;
+				padding: 3px 0px 10px 0px;
+}
+
+.tx-flatmgr-pi1 .adminBookingInput form {
+				margin: 0;
+				padding: 0;
+}
+.tx-flatmgr-pi1 .newBookingData {
+				width: 700px;
+}
+
+.tx-flatmgr-pi1 .newBookingData .additionalFields {
+				display: table-cell;
+				border-collapse: collapse;
+				margin: 0;
+				padding: 0;
+}
+.tx-flatmgr-pi1 .adminBookingInput {
+				margin: 10px 0px 10px 0px;
+
+}
+
+.tx-flatmgr-pi1 .customerNumberReadOnly {
+				padding: 10px 0px 10px 0px;
+}
+.tx-flatmgr-pi1 .theAdminYears td {
+                font-family: arial;
+                font-size: 10pt;
+                color: black;
+}
+.tx-flatmgr-pi1 .theAdminYears td.selected {
+                font-family: arial;
+                font-size: 10pt;
+                font-weight: bold;
+				color: blue;
+}
+
+.tx-flatmgr-pi1 .monthlyBookingYears {
+                font-family: arial;
+                font-size: 10pt;
+                font-weight: normal;
+}
+.tx-flatmgr-pi1 .monthlyBookingYears .selected {
+                font-family: arial;
+                font-size: 12pt;
+                font-weight: bold;
+}
+
+.tx-flatmgr-pi1 .monthlyBooking .monthsLegend td  {
+				padding: 0px 10px 0px 0px;
+}
+.tx-flatmgr-pi1 .monthlyBooking .monthsLegend  {
+                font-family: arial;
+                font-size: 10pt;
+                font-weight: normal;
+}
+.tx-flatmgr-pi1 .monthlyBooking .monthsLegendSelected {
+				padding: 0px 10px 0px 0px;
+                font-family: arial;
+                font-size: 12pt;
+                font-weight: bold;
+}
+
+
+.tx-flatmgr-pi1 .monthlyBooking table {
+				margin: 0;
+				padding: 0;
+}
+.tx-flatmgr-pi1 .monthlyBooking td {
+				margin: 0;
+				padding: 0;
+}
+.tx-flatmgr-pi1 .monthlyBooking div {
+				font-family: arial, helvetica, sans-serf;
+				font-weight: normal;
+				font-size: 10px;
+				text-align: center;
+				width: 12px;
+				height: 14px;
+				border: 1px solid black;
+}
+
+.tx-flatmgr-pi1 .monthlyBookingLegend {
+				margin: 0;
+				padding: 0;
+}
+.tx-flatmgr-pi1 .monthlyBookingLegend td {
+				font-size: 10px;
+}
+.tx-flatmgr-pi1 .monthlyBookingLegend td.legend {
+				font-size: 10px;
+				padding: 0px 30px 0px 0px;
+}
+
+.tx-flatmgr-pi1 .monthlyBookingLegend .vacantDay div{
+				background-color: #FFFFFF;
+				width: 10px;
+				height: 10px;
+				border: 1px solid black;
+}
+
+.tx-flatmgr-pi1 .monthlyBookingLegend .vacantWeekend div{
+                background-color: #99FFFF;
+				width: 10px;
+				height: 10px;
+				border: 1px solid black;
+}
+
+.tx-flatmgr-pi1 .monthlyBookingLegend .bookedDay1 div{
+				background-color: #FFD000;
+				width: 10px;
+				height: 10px;
+				border: 1px solid black;
+}
+.tx-flatmgr-pi1 .monthlyBookingLegend .bookedDay2 div{
+				background-color: #669933;
+				width: 10px;
+				height: 10px;
+				border: 1px solid black;
+}
+
+
+
+
+
+.tx-flatmgr-pi1 .monthlyBooking .legend {
+				font-family: arial, helvetica, sans-serf;
+				font-weight: normal;
+				font-size: 10px;
+				text-align: center;
+}
+.tx-flatmgr-pi1 .monthlyBooking .vacantDay {
+				background-color: #FFFFFF;
+				width: 12px;
+				height: 14px;
+}
+.tx-flatmgr-pi1 .monthlyBooking .bookedDay1 {
+				background-color: #669933;
+				width: 12px;
+				height: 12px;
+}
+.tx-flatmgr-pi1 .monthlyBooking .bookedDay2 {
+				background-color: #FFD000;
+				width: 12px;
+				height: 12px;
+}
+
+.tx-flatmgr-pi1 .monthlyBooking .vacantWeekend {
+                background-color: #99FFFF;
+}
+.tx-flatmgr-pi1 .monthlyBooking .startDay1 {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/bookingStart1.gif");
+}
+.tx-flatmgr-pi1 .monthlyBooking .startDay2 {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/bookingStart2.gif");
+}
+.tx-flatmgr-pi1 .monthlyBooking .endDay1 {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/bookingEnd1.gif");
+}
+.tx-flatmgr-pi1 .monthlyBooking .endDay2 {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/bookingEnd2.gif");
+}
+.tx-flatmgr-pi1 .monthlyBooking .bookerChangedDay12 {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/bookerChangedDay21.gif");
+}
+.tx-flatmgr-pi1 .monthlyBooking .bookerChangedDay21 {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/bookerChangedDay12.gif");
+}
+.tx-flatmgr-pi1 .monthlyBooking .startWeekend1 {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/weekendStart1.gif");
+}
+.tx-flatmgr-pi1 .monthlyBooking .startWeekend2 {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/weekendStart2.gif");
+}
+.tx-flatmgr-pi1 .monthlyBooking .endWeekend1 {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/weekendEnd1.gif");
+}
+.tx-flatmgr-pi1 .monthlyBooking .endWeekend2 {
+				background-image:url("/typo3conf/ext/flatmgr/pi1/static/weekendEnd2.gif");
+}
+.tx-flatmgr-pi1 .rebooking {
+				background-color: #f0f0f0;
+}
+.tx-flatmgr-pi1 .data {
+				padding: 0px 0px 0px 5px;
+}
+
+.tx-flatmgr-pi1 .rebookingHeader {
+				font-weight: bold;
+				margin: 0px 0px 10px 0px;
+}
+
+/* styles for flatmgrcalc */
+
+.tx-flatmgr-pi1 .flatmgrcalcWarning {
+	width: 400px;
+	border: 2px solid red;
+	font-size: 1.1em;
+}
+.tx-flatmgr-pi1 #calculateNow {
+	width: 100px;
+	text-align: center;
+	background-color: #c0c0c0;
+	border: 1px solid black;
+}
+.tx-flatmgr-pi1 .flatmgrcalcTotalPrice {
+	font-weight: bold;
+}
+.tx-flatmgr-pi1 .flatmgrcalcTotalPrice .price {
+	color: red;
+	font-weight: bold;
+}
+.tx-flatmgr-pi1 div.orderBySelector {
+	border: 1px solid gray;
+	background-color: #c0c0c0;
+}
+.tx-flatmgr-pi1 .orderBySelector span {
+	font-size: 1.1em;
+	padding-left: 20px;
+}
+.tx-flatmgr-pi1 .orderBySelector .act {
+	font-weight: bold;
+}
+
+/* jQuery autocompleter */
+.ui-menu-item a {
+	text-align: left;
+}
+
+/* for holiday wings only */
+/*
+.tx-flatmgr-pi1 .theAdminYears td.selected {
+	color: white;
+}
+*/
+

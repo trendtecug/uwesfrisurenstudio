@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index=".alttitle">htmlArea RTE &gt; Табличные операции</label>
+			<label index="backgroundColor.alttitle">Цвет фона</label>
+			<label index="backgroundColor.description">Выберете цвет фона.</label>
+			<label index="backgroundImage.alttitle">URL для фонового изображения</label>
+			<label index="backgroundImage.description">Введите URL фонового изображения.</label>
+			<label index="borderColor.alttitle">Цвет границ</label>
+			<label index="borderColor.description">Выберете цвет границ.</label>
+			<label index="borderStyle.alttitle">Стиль границ</label>
+			<label index="borderStyle.description">Выберете стиль границ.</label>
+			<label index="borderWidth.alttitle">Ширина границ</label>
+			<label index="borderWidth.description">Введите ширину границ в пикселях.</label>
+			<label index="caption.alttitle">Заголовок таблицы</label>
+			<label index="caption.description">Введите описание таблицы.</label>
+			<label index="caption.details">Введённое в это поле описание становится содержимым заголовка таблицы. По умолчанию заголовок таблицы выравнен по центру над таблицей.</label>
+			<label index="cellAbbreviation.alttitle"/>
+			<label index="cellAbbreviation.description"/>
+			<label index="Cell_height.alttitle"/>
+			<label index="Cell_height.description">Высота таблицы в выбранных единицах изменения.</label>
+			<label index="cellPadding.alttitle">Поля ячейки</label>
+			<label index="cellPadding.description">Величина полей в пикселях, отделяющих границы ячеек от содержимого.</label>
+			<label index="cellSpacing.alttitle">Интервал между ячейками</label>
+			<label index="cellSpacing.description">Введите количество пикселей для интервала между смежными ячейками.</label>
+			<label index="cellType.alttitle">Тип ячеек</label>
+			<label index="cellType.description"/>
+			<label index="Cell_width.alttitle"/>
+			<label index="Cell_width.description">Ширина таблицы в выбранных единицах изменения.</label>
+			<label index="Class_selector.alttitle">Блок выбора стиля</label>
+			<label index="Class_selector.description">Применяет стиль к текущему элементу или удаляет последний применённый стиль.</label>
+			<label index="collapsedBorders.alttitle">Слитые границы</label>
+			<label index="collapsedBorders.description">Выберете, должны ли границы ячеек таблицы быть слитыми, раздельными или по умолчанию.</label>
+			<label index="columnCellsType.alttitle">Тип ячеек</label>
+			<label index="columnCellsType.description">Выбор типа ячеек текущего столбца.</label>
+			<label index=".description">Этот функционал предлагает несколько инструментов для создания и правки таблиц в области редактирования RTE.</label>
+			<label index=".details">При включении, в панели инструментов выводится кнопка"Вставить таблицу".
+Обычно в нижней части панели могут появится ещё несколько кнопок. Можно настроить редактор так, чтобы параметры для работы с таблицами выводились лишь в контекстном меню.
+Ниже показаны все кнопки, которые возможно настроить.</label>
+			<label index="frames.alttitle">Рамки</label>
+			<label index="frames.description">Выберете, с каких сторон должны быть видны границы.</label>
+			<label index="Height_unit.alttitle">Единицы высоты</label>
+			<label index="Height_unit.description">Выберете единицы для измерения высоты.</label>
+			<label index=".image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/insert_table.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/table-prop.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/table-restyle.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/toggle-borders.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/row-prop.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/row-insert-above.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/row-insert-under.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/row-delete.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/row-split.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/col-prop.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/col-insert-before.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/col-insert-after.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/col-delete.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/col-split.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/cell-prop.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/cell-insert-before.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/cell-insert-after.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/cell-delete.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/cell-split.gif,
+EXT:rtehtmlarea/extensions/TableOperations/skin/images/cell-merge.gif
+</label>
+			<label index=".image_descr">Значок "Вставить таблицу". По щелчку открывается диалог вставки таблицы в позиции курсора.
+Значок "Свойства таблицы". Если курсор находится внутри таблицы, щелчок открывает диалог правки свойств таблицы.
+Значок "Повторная стилизация таблицы".  Если курсор находится внутри таблицы, по щелчку производится рекалькуляция нечётных/чётных и подсчитываемых стилей таблицы.
+Значок "Переключить границы". По щелчку выводятся или скрываются рамки всех таблиц в области редактирования.
+Значок "Свойства строки". Если курсор находится внутри строки таблицы, по щелчку открывается диалог правки свойств строки.
+Значок "Вставить строку перед". Если курсор находится внутри строки таблицы, по щелчку вставляется новая строка над текущей.
+Значок "Вставить строку после". Если курсор находится внутри строки таблицы, по щелчку вставляется новая строка под текущей.
+Значок "Удалить строку". Если курсор находится внутри строки таблицы, по щелчку эта строка удаляется.
+Значок "Разбить строку". Если курсор находится внутри ячейки таблицы, по щелчку строка разбивается на две.
+Значок "Свойства столбца". Если курсор находится внутри столбца таблицы, по щелчку открывается диалог правки свойств столбца.
+Значок "Вставить столбец перед". Если курсор находится внутри столбца таблицы, по щелчку вставляется новый столбец перед текущим.
+Значок "Вставить столбец после". Если курсор находится внутри столбца таблицы, по щелчку вставляется новый столбец после текущего.
+Значок "Удалить столбец". Если курсор находится внутри столбца таблицы, по щелчку этот столбец удаляется.
+Значок "Разбить столбец". Если курсор находится внутри ячейки таблицы, по щелчку столбец разбивается на два.
+Значок "Свойства ячейки". Если курсор находится внутри ячейки таблицы, по щелчку открывается диалог правки свойств ячейки.
+Значок "Вставить ячейку перед". Если курсор находится внутри ячейки таблицы, по щелчку вставляется новая ячейка перед текущей.
+Значок "Вставить ячейку после". Если курсор находится внутри ячейки таблицы, по щелчку вставляется новая ячейка после текущей.
+Значок "Удалить ячейку". Если курсор находится внутри ячейки таблицы, по щелчку эта ячейка удаляется.
+Значок "Разбить ячейку". Если курсор находится внутри ячейки таблицы, по щелчку ячейка разбивается на две.
+Значок "Слить ячейки". Если выбраны смежные ячейки таблицы, по щелчку они сливаются в одну.</label>
+			<label index="InsertTable.alttitle">Вставить таблицу</label>
+			<label index="InsertTable.description">Создаётся новая таблица внутри области редактирования.</label>
+			<label index="InsertTable.details">Щелчок по кнопке "Вставить таблицу" открывает диалог создания новой таблицы, которая помещается в области редактирования по местоположению курсора.</label>
+			<label index="InsertTable.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/insert_table.gif</label>
+			<label index="InsertTable.image_descr">Значок "Вставить таблицу".</label>
+			<label index="InsertTable.seeAlso">xEXT_rtehtmlarea_TableOperations:caption,xEXT_rtehtmlarea_TableOperations:summary,
+xEXT_rtehtmlarea_TableOperations:numberOfRows,xEXT_rtehtmlarea_TableOperations:numberOfColumns,xEXT_rtehtmlarea_TableOperations:tableHeaders,
+xEXT_rtehtmlarea_TableOperations:tableStyle,xEXT_rtehtmlarea_TableOperations:Table_class_selector,xEXT_rtehtmlarea_TableOperations:Table_header_class_selector,xEXT_rtehtmlarea_TableOperations:Table_body_class_selector,
+xEXT_rtehtmlarea_TableOperations:cellSpacing,xEXT_rtehtmlarea_TableOperations:cellPadding,
+xEXT_rtehtmlarea_Language:languageCombo,xEXT_rtehtmlarea_Language:directionCombo,
+xEXT_rtehtmlarea_TableOperations:Table_width,xEXT_rtehtmlarea_TableOperations:Width_unit,xEXT_rtehtmlarea_TableOperations:Table_height,xEXT_rtehtmlarea_TableOperations:Height_unit,xEXT_rtehtmlarea_TableOperations:tableFloat,
+xEXT_rtehtmlarea_TableOperations:textAlignment,xEXT_rtehtmlarea_TableOperations:verticalAlignment,
+xEXT_rtehtmlarea_TableOperations:borderStyle,xEXT_rtehtmlarea_TableOperations:borderWidth,xEXT_rtehtmlarea_TableOperations:borderColor,
+xEXT_rtehtmlarea_TableOperations:collapsedBorders,xEXT_rtehtmlarea_TableOperations:frames,xEXT_rtehtmlarea_TableOperations:rules,
+xEXT_rtehtmlarea_TableOperations:textColor,xEXT_rtehtmlarea_TableOperations:backgroundColor,xEXT_rtehtmlarea_TableOperations:backgroundImage</label>
+			<label index="numberOfColumns.alttitle">Количество столбцов</label>
+			<label index="numberOfColumns.description">Введите количество столбцов для вновь создаваемой таблицы.</label>
+			<label index="numberOfColumns.details">Введите в это поле количество столбцов для вновь создаваемой таблицы.</label>
+			<label index="numberOfRows.alttitle">Количество строк</label>
+			<label index="numberOfRows.description">Введите количество строк создаваемой таблицы.</label>
+			<label index="numberOfRows.details">Введите в это поле количество строк для вновь создаваемой таблицы.</label>
+			<label index="rowGroup.alttitle">Группировка строк</label>
+			<label index="rowGroup.description">Выберете, к какой части таблицы должна относиться эта строка.</label>
+			<label index="rowGroup.details">Строка может относится к заголовку, телу или итоговой части таблицы.</label>
+			<label index="Row_height.alttitle">Высота строки</label>
+			<label index="Row_height.description">Введите высоту строки в выбранных единицах измерения.</label>
+			<label index="Row_width.alttitle">Ширина строки</label>
+			<label index="Row_width.description">Введите ширину строки в выбранных единицах измерения.</label>
+			<label index="rules.alttitle">Правила</label>
+			<label index="rules.description">Выберете, где должны отображаться правила.</label>
+			<label index=".seeAlso">xEXT_rtehtmlarea_TableOperations:InsertTable,
+xEXT_rtehtmlarea_TableOperations:TO_table_prop,
+xEXT_rtehtmlarea_TableOperations:TO_table_restyle,
+xEXT_rtehtmlarea_TableOperations:TO_toggle_borders,
+xEXT_rtehtmlarea_TableOperations:TO_row_prop,
+xEXT_rtehtmlarea_TableOperations:TO_row_insert_above,
+xEXT_rtehtmlarea_TableOperations:TO_row_insert_under,
+xEXT_rtehtmlarea_TableOperations:TO_row_delete,
+xEXT_rtehtmlarea_TableOperations:TO_row_split,
+xEXT_rtehtmlarea_TableOperations:TO_col_prop,
+xEXT_rtehtmlarea_TableOperations:TO_column_insert_before,
+xEXT_rtehtmlarea_TableOperations:TO_column_insert_after,
+xEXT_rtehtmlarea_TableOperations:TO_column_delete,
+xEXT_rtehtmlarea_TableOperations:TO_column_split,
+xEXT_rtehtmlarea_TableOperations:TO_cell_prop,
+xEXT_rtehtmlarea_TableOperations:TO_cell_insert_before,
+xEXT_rtehtmlarea_TableOperations:TO_cell_insert_after,
+xEXT_rtehtmlarea_TableOperations:TO_cell_delete,
+xEXT_rtehtmlarea_TableOperations:TO_cell_split,
+xEXT_rtehtmlarea_TableOperations:TO_cell_merge</label>
+			<label index="summary.alttitle">Сводка по таблице</label>
+			<label index="summary.description">Введите сводную информацию по целям и структуре таблицы.</label>
+			<label index="summary.details">Введённый в это поле текст становится атрибутом summary для таблицы.
+				
+Обратите внимание, что этот атрибут не поддерживается в HTML5.</label>
+			<label index="Table_body_class_selector.alttitle">Блок выбора стиля тела таблицы</label>
+			<label index="Table_body_class_selector.description">Применяет стиль к телу таблицы или удаляет последний применённый стиль.</label>
+			<label index="Table_class_selector.alttitle">Блок выбора стиля таблицы</label>
+			<label index="Table_class_selector.description">Применяет стиль к таблице или удаляет последний применяемый стиль.</label>
+			<label index="tableFloat.alttitle">Обтекание таблицы</label>
+			<label index="tableFloat.description">Выберете, должна ли таблица быть плавающей, и, если да, то как.</label>
+			<label index="Table_footer_class_selector.alttitle">Блок выбора стиля итоговой части таблицы</label>
+			<label index="Table_footer_class_selector.description">Применяет стиль к итоговой части таблицы или удаляет последний применённый стиль.</label>
+			<label index="Table_header_class_selector.alttitle">Блок выбора стиля заголовка таблицы</label>
+			<label index="Table_header_class_selector.description">Применяет стиль к заголовку таблицы или удаляет последний применённый стиль.</label>
+			<label index="tableHeaders.alttitle">Ячейки заголовки</label>
+			<label index="tableHeaders.description">Выберете местоположение ячеек-заголовков для таблицы.</label>
+			<label index="tableHeaders.details">Выбранный из списка параметр определяет, нужны ли таблице ячейки-заголовки, и, если да, то где они должны находиться. Возможны варианты:
+1. Без заголовков: таблица не будет иметь никаких ячеек-заголовков
+2. Заголовки вверху: заголовками станут ячейки верхней строки
+3. Заголовки слева: заголовками станут ячейки левой строки
+4. Заголовки вверху и слева: объединение второго и третьего параметров выше.</label>
+			<label index="Table_height.alttitle">Высота таблицы</label>
+			<label index="Table_height.description">Высота таблицы в выбранных единицах изменения.</label>
+			<label index="tableStyle.alttitle">Стили таблицы</label>
+			<label index="tableStyle.description">К таблице или её частям применяется стилизация.</label>
+			<label index="tableStyle.details">Набор полей "Стиль" позволяет стилизовать таблицу и каждую из её частей, например, заголовок, тело или итоговую часть. Для каждой из существующей частей текущей таблицы выводится блок выбора.</label>
+			<label index="Table_width.alttitle">Ширина таблицы</label>
+			<label index="Table_width.description">Ширина таблицы в выбранных единицах изменения.</label>
+			<label index="textAlignment.alttitle">Выключка текста</label>
+			<label index="textAlignment.description">Выберете вертикальную выключку текста в ячейке.</label>
+			<label index="textColor.alttitle">Цвет текста</label>
+			<label index="textColor.description">Выберете цвет для текста.</label>
+			<label index="TO_cell_delete.alttitle"/>
+			<label index="TO_cell_delete.description">Удаление текущей строки таблицы.</label>
+			<label index="TO_cell_delete.details"/>
+			<label index="TO_cell_delete.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/row-delete.gif</label>
+			<label index="TO_cell_delete.image_descr">Значок "Удалить строку".</label>
+			<label index="TO_cell_insert_after.alttitle">Вставить строку после</label>
+			<label index="TO_cell_insert_after.description">Вставка нового столбца слева от текущего.</label>
+			<label index="TO_cell_insert_after.details"/>
+			<label index="TO_cell_insert_after.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/col-prop.gif</label>
+			<label index="TO_cell_insert_after.image_descr">Значок "Вставить строку после".</label>
+			<label index="TO_cell_insert_before.alttitle">Вставить столбец перед</label>
+			<label index="TO_cell_insert_before.description">Вставка нового столбца слева от текущего.</label>
+			<label index="TO_cell_insert_before.details"/>
+			<label index="TO_cell_insert_before.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/row-split.gif</label>
+			<label index="TO_cell_insert_before.image_descr">Значок "Вставить столбец перед"</label>
+			<label index="TO_cell_merge.alttitle"/>
+			<label index="TO_cell_merge.description"/>
+			<label index="TO_cell_merge.details"/>
+			<label index="TO_cell_merge.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/col-prop.gif</label>
+			<label index="TO_cell_merge.image_descr"/>
+			<label index="TO_cell_merge.seeAlso"/>
+			<label index="TO_cell_prop.alttitle">Свойства таблицы</label>
+			<label index="TO_cell_prop.description"/>
+			<label index="TO_cell_prop.details"/>
+			<label index="TO_cell_prop.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/col-prop.gif</label>
+			<label index="TO_cell_prop.image_descr">Значок "Свойства таблицы".</label>
+			<label index="TO_cell_prop.seeAlso"/>
+			<label index="TO_cell_split.alttitle"/>
+			<label index="TO_cell_split.description">Разбивает объединённую до этого ячейку на две или более строки.</label>
+			<label index="TO_cell_split.details"/>
+			<label index="TO_cell_split.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/row-split.gif</label>
+			<label index="TO_cell_split.image_descr">Значок "Разбить строку"</label>
+			<label index="TO_cell_split.seeAlso"/>
+			<label index="TO_col_prop.alttitle">Свойства ячеек столбца</label>
+			<label index="TO_col_prop.description">Правка свойств ячеек столбца таблицы, в которых находился курсор.</label>
+			<label index="TO_col_prop.details">Щелчок по кнопке "Свойства ячеек столбца" открывает диалог правки свойств ячеек таблицы, в которых был помещён курсор. Значения свойств будут распространяться на все ячейки столбца.</label>
+			<label index="TO_col_prop.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/col-prop.gif</label>
+			<label index="TO_col_prop.image_descr">Значок "Свойства ячеек столбца"</label>
+			<label index="TO_col_prop.seeAlso">xEXT_rtehtmlarea_TableOperations:columnCellsType,
+xEXT_rtehtmlarea_Language:languageCombo,xEXT_rtehtmlarea_Language:directionCombo,
+xEXT_rtehtmlarea_TableOperations:Cell_width,xEXT_rtehtmlarea_TableOperations:Width_unit,xEXT_rtehtmlarea_TableOperations:Cell_height,xEXT_rtehtmlarea_TableOperations:Height_unit,
+xEXT_rtehtmlarea_TableOperations:textAlignment,xEXT_rtehtmlarea_TableOperations:verticalAlignment,
+xEXT_rtehtmlarea_TableOperations:borderStyle,xEXT_rtehtmlarea_TableOperations:borderWidth,xEXT_rtehtmlarea_TableOperations:borderColor,
+xEXT_rtehtmlarea_TableOperations:textColor,xEXT_rtehtmlarea_TableOperations:backgroundColor,xEXT_rtehtmlarea_TableOperations:backgroundImage</label>
+			<label index="TO_column_delete.alttitle"/>
+			<label index="TO_column_delete.description">Удаление текущей строки таблицы.</label>
+			<label index="TO_column_delete.details"/>
+			<label index="TO_column_delete.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/row-delete.gif</label>
+			<label index="TO_column_delete.image_descr">Значок "Удалить строку".</label>
+			<label index="TO_column_insert_after.alttitle">Вставить столбец перед</label>
+			<label index="TO_column_insert_after.description">Вставка нового столбца слева от текущего.</label>
+			<label index="TO_column_insert_after.details"/>
+			<label index="TO_column_insert_after.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/row-delete.gif</label>
+			<label index="TO_column_insert_after.image_descr">Значок "Вставить столбец перед"</label>
+			<label index="TO_column_insert_before.alttitle">Вставить столбец перед</label>
+			<label index="TO_column_insert_before.description">Вставка нового столбца слева от текущего.</label>
+			<label index="TO_column_insert_before.details"/>
+			<label index="TO_column_insert_before.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/col-insert-before.gif</label>
+			<label index="TO_column_insert_before.image_descr">Значок "Вставить столбец перед"</label>
+			<label index="TO_column_split.alttitle"/>
+			<label index="TO_column_split.description">Разбивает объединённую до этого ячейку на две или более строки.</label>
+			<label index="TO_column_split.details"/>
+			<label index="TO_column_split.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/row-split.gif</label>
+			<label index="TO_column_split.image_descr">Значок "Разбить строку"</label>
+			<label index="TO_column_split.seeAlso"/>
+			<label index="TO_row_delete.alttitle">Удалить строку</label>
+			<label index="TO_row_delete.description">Удаление текущей строки таблицы.</label>
+			<label index="TO_row_delete.details">Щелчок по кнопке "Удалить строку" удалит строку таблицы, в которой в текущий момент находится курсор.
+Если удаляемая строка была последней в одной из частей таблицы, например, заголовка, тела или итогов, то и эта часть также удаляется.
+Если удаляемая строка была последней в таблице, то удаляется и вся таблица.</label>
+			<label index="TO_row_delete.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/row-delete.gif</label>
+			<label index="TO_row_delete.image_descr">Значок "Удалить строку".</label>
+			<label index="TO_row_insert_above.alttitle">Вставить строку перед</label>
+			<label index="TO_row_insert_above.description">Вставка новой строки над текущей строкой таблицы.</label>
+			<label index="TO_row_insert_above.details">Щелчок по кнопке "Вставить строку перед" добавляет новую строку над той, в которой находится курсор.
+Новая строка имеет тот же тип, то есть заголовок или данные, что и строка, в которой находится курсор и относится к той же части таблицы, то есть - к заголовку, телу или итогам, и имеет те же свойства.
+Ячейки новой строки имеют те же свойства, что и соответствующие ячейки строки, в которой находится курсор.</label>
+			<label index="TO_row_insert_above.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/row-insert-above.gif</label>
+			<label index="TO_row_insert_above.image_descr">Значок "Вставить строку перед".</label>
+			<label index="TO_row_insert_under.alttitle">Вставить строку после</label>
+			<label index="TO_row_insert_under.description">Добавляет новую строку после или ниже текущей строки таблицы.</label>
+			<label index="TO_row_insert_under.details">Щелчок по кнопке "Вставить строку после" добавляет новую строку под той, в которой находится курсор.
+Новая строка имеет тот же тип, то есть заголовок или данные, что и строка, в которой находится курсор и относится к той же части таблицы, то есть - к заголовку, телу или итогам, и имеет те же свойства.
+Ячейки новой строки имеют те же свойства, что и соответствующие ячейки строки, в которой находится курсор</label>
+			<label index="TO_row_insert_under.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/row-insert-under.gif</label>
+			<label index="TO_row_insert_under.image_descr">Значок "Вставить строку после".</label>
+			<label index="TO_row_prop.alttitle">Свойства строки</label>
+			<label index="TO_row_prop.description">Правка свойств строки таблицы, в которой на текущий момент находится курсор.</label>
+			<label index="TO_row_prop.details">По щелчку на кнопке "Свойства строки" открывается диалог правки свойств строки таблицы, в которой на текущий момент расположен курсор.</label>
+			<label index="TO_row_prop.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/row-prop.gif</label>
+			<label index="TO_row_prop.image_descr">Значок "Свойства строки".</label>
+			<label index="TO_row_prop.seeAlso">xEXT_rtehtmlarea_TableOperations:rowGroup,xEXT_rtehtmlarea_TableOperations:Class_selector,
+xEXT_rtehtmlarea_Language:languageCombo,xEXT_rtehtmlarea_Language:directionCombo,
+xEXT_rtehtmlarea_TableOperations:Row_width,xEXT_rtehtmlarea_TableOperations:Width_unit,xEXT_rtehtmlarea_TableOperations:Row_height,xEXT_rtehtmlarea_TableOperations:Height_unit,
+xEXT_rtehtmlarea_TableOperations:textAlignment,xEXT_rtehtmlarea_TableOperations:verticalAlignment,
+xEXT_rtehtmlarea_TableOperations:borderStyle,xEXT_rtehtmlarea_TableOperations:borderWidth,xEXT_rtehtmlarea_TableOperations:borderColor,
+xEXT_rtehtmlarea_TableOperations:textColor,xEXT_rtehtmlarea_TableOperations:backgroundColor,xEXT_rtehtmlarea_TableOperations:backgroundImage</label>
+			<label index="TO_row_split.alttitle">Разбить строку</label>
+			<label index="TO_row_split.description">Разбивает объединённую до этого ячейку на две или более строки.</label>
+			<label index="TO_row_split.details">Если курсор находится внутри ячейки таблицы, занимающей пространство двух или более строк, щелчок по кнопке "Разбить строку" приведёт к разбиению ячейки на несколько строк.</label>
+			<label index="TO_row_split.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/row-split.gif</label>
+			<label index="TO_row_split.image_descr">Значок "Разбить строку"</label>
+			<label index="TO_row_split.seeAlso">xEXT_rtehtmlarea_TableOperations:TO_cell_merge,xEXT_rtehtmlarea_TableOperations:TO_column_split,xEXT_rtehtmlarea_TableOperations:TO_cell_split</label>
+			<label index="TO_table_prop.alttitle">Свойства таблицы</label>
+			<label index="TO_table_prop.description">Правка свойств таблицы, в которой на текущий момент находится курсор.</label>
+			<label index="TO_table_prop.details">По щелчку на кнопке "Свойства таблицы" открывается диалог правки свойств таблицы, в которой на текущий момент находится курсор.</label>
+			<label index="TO_table_prop.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/table-prop.gif</label>
+			<label index="TO_table_prop.image_descr">Значок "Свойства таблицы".</label>
+			<label index="TO_table_prop.seeAlso">xEXT_rtehtmlarea_TableOperations:caption,xEXT_rtehtmlarea_TableOperations:summary,
+xEXT_rtehtmlarea_TableOperations:tableHeaders,
+xEXT_rtehtmlarea_TableOperations:tableStyle,xEXT_rtehtmlarea_TableOperations:Table_class_selector,xEXT_rtehtmlarea_TableOperations:Table_header_class_selector,xEXT_rtehtmlarea_TableOperations:Table_body_class_selector,xEXT_rtehtmlarea_TableOperations:Table_footer_class_selector,
+xEXT_rtehtmlarea_TableOperations:cellSpacing,xEXT_rtehtmlarea_TableOperations:cellPadding,
+xEXT_rtehtmlarea_Language:languageCombo,xEXT_rtehtmlarea_Language:directionCombo,
+xEXT_rtehtmlarea_TableOperations:Table_width,xEXT_rtehtmlarea_TableOperations:Width_unit,xEXT_rtehtmlarea_TableOperations:Table_height,xEXT_rtehtmlarea_TableOperations:Height_unit,xEXT_rtehtmlarea_TableOperations:tableFloat,
+xEXT_rtehtmlarea_TableOperations:textAlignment,xEXT_rtehtmlarea_TableOperations:verticalAlignment,
+xEXT_rtehtmlarea_TableOperations:borderStyle,xEXT_rtehtmlarea_TableOperations:borderWidth,xEXT_rtehtmlarea_TableOperations:borderColor,
+xEXT_rtehtmlarea_TableOperations:collapsedBorders,xEXT_rtehtmlarea_TableOperations:frames,xEXT_rtehtmlarea_TableOperations:rules,
+xEXT_rtehtmlarea_TableOperations:textColor,xEXT_rtehtmlarea_TableOperations:backgroundColor,xEXT_rtehtmlarea_TableOperations:backgroundImage</label>
+			<label index="TO_table_restyle.alttitle">Повторно применить стили к таблице</label>
+			<label index="TO_table_restyle.description">Переназначение нечётных/чётных и/или подсчитываемых стилей к таблице, в которой на текущий момент находится курсор.</label>
+			<label index="TO_table_restyle.details">Если к таблице, в которой на текущий момент находится курсор, были применены стили нечётные/чётные или подсчитываемые, то некоторые операции с таблице могут нарушить макет таблицы.
+Щёлкните по кнопке "Переназначение стилей таблицы" для рекалькуляции нечётных/чётных и подсчитываемых стилей для строк и столбцов.</label>
+			<label index="TO_table_restyle.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/table-restyle.gif</label>
+			<label index="TO_table_restyle.image_descr">Значок "Переназначение стилей таблицы".</label>
+			<label index="TO_toggle_borders.alttitle">Переключить границы</label>
+			<label index="TO_toggle_borders.description">Показать/скрыть границы для всех таблиц в области редактирования.</label>
+			<label index="TO_toggle_borders.details">По щелчку на кнопке "Переключить границы" границы всех таблиц в области редактирования становятся видны, либо, если они уже были видны, скрываются.
+Это влияет лишь на редактирование содержимого и не имеет никакого влияния на вывод содержимого на страницы сайта.
+Кнопку можно настроить так, чтобы она становилась активной, если элемент открывается для редактирования.</label>
+			<label index="TO_toggle_borders.image">EXT:rtehtmlarea/extensions/TableOperations/skin/images/toggle-borders.gif</label>
+			<label index="TO_toggle_borders.image_descr">Значок "Переключить границы".</label>
+			<label index="verticalAlignment.alttitle">Вертикальная выключка</label>
+			<label index="verticalAlignment.description">Выберете вертикальную выключку содержимого внутри ячейки.</label>
+			<label index="Width_unit.alttitle">Единицы ширины</label>
+			<label index="Width_unit.description">Выберете единицы для измерения ширины.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

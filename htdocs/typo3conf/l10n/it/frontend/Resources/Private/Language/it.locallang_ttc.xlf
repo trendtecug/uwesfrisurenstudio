@@ -1,0 +1,1826 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-30T01:31:08Z" product-name="frontend">
+		<header/>
+		<body>
+			<trans-unit id="accessibility_bypass">
+				<source>Add link to bypass block</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="accessibility_bypass_text">
+				<source>Link text to bypass block</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="accessibility_title">
+				<source>Block title</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="ALT.imgDimensions">
+				<source>Image Dimensions</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="ALT.imgLinks">
+				<source>Image Links</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="ALT.imgOptions">
+				<source>Image Options</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="altText_formlabel">
+				<source>Alternative Labels (one per line)</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Etichette alternative (una per linea)</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.bulletlist_formlabel" approved="yes">
+				<source>Bullet List</source>
+				<target state="translated">Elenco puntato</target>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.html" approved="no">
+				<source>HTML:</source>
+				<target state="needs-translation">HTML</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>HTML:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.html_formlabel">
+				<source>HTML Code</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Codice HTML</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.mailform">
+				<source>Configuration:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Configurazione:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.mailform_formlabel">
+				<source>Form Structure</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.media_formlabel">
+				<source>Alternative Content</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Contenuto alternativo</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.multimedia_formlabel">
+				<source>Parameters</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Parametri</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.script_formlabel">
+				<source>Parameters to pass to the script</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Parametri da passare allo script</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.table_formlabel">
+				<source>Table Structure</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.textbox_formlabel" approved="yes">
+				<source>Text</source>
+				<target state="translated">Testo</target>
+			</trans-unit>
+			<trans-unit id="bodytext_formlabel" approved="yes">
+				<source>Text</source>
+				<target state="translated">Testo</target>
+			</trans-unit>
+			<trans-unit id="bodytext.W.forms">
+				<source>Forms wizard</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="bodytext.W.RTE">
+				<source>Fullscreen Rich Text Editing</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="bodytext.W.table" approved="yes">
+				<source>Table Wizard</source>
+				<target state="translated">Creazione guidata Tabella</target>
+			</trans-unit>
+			<trans-unit id="category_field">
+				<source>Category field</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="colPos" approved="yes">
+				<source>Columns:</source>
+				<target state="translated">Colonne:</target>
+			</trans-unit>
+			<trans-unit id="colPos_formlabel" approved="yes">
+				<source>Column</source>
+				<target state="translated">Colonna</target>
+			</trans-unit>
+			<trans-unit id="colPos.I.0" approved="yes">
+				<source>Left</source>
+				<target state="translated">Sinistra</target>
+			</trans-unit>
+			<trans-unit id="colPos.I.1" approved="yes">
+				<source>Normal</source>
+				<target state="translated">Normale</target>
+			</trans-unit>
+			<trans-unit id="colPos.I.2" approved="yes">
+				<source>Right</source>
+				<target state="translated">Destra</target>
+			</trans-unit>
+			<trans-unit id="colPos.I.3" approved="yes">
+				<source>Border</source>
+				<target state="translated">Bordo</target>
+			</trans-unit>
+			<trans-unit id="cols" approved="no">
+				<source>Columns</source>
+				<target state="needs-translation">Colonne:</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Colonne</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="cols.I.0">
+				<source>Auto</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="CType.div.forms" approved="yes">
+				<source>Forms</source>
+				<target state="translated">Moduli</target>
+			</trans-unit>
+			<trans-unit id="CType.div.lists" approved="yes">
+				<source>Lists</source>
+				<target state="translated">Elenchi</target>
+			</trans-unit>
+			<trans-unit id="CType.div.special" approved="yes">
+				<source>Special</source>
+				<target state="translated">Speciale</target>
+			</trans-unit>
+			<trans-unit id="CType.div.standard" approved="yes">
+				<source>Standard</source>
+				<target state="translated">Predefinito</target>
+			</trans-unit>
+			<trans-unit id="CType_formlabel" approved="yes">
+				<source>Type</source>
+				<target state="translated">Tipo</target>
+			</trans-unit>
+			<trans-unit id="CType.I.0" approved="yes">
+				<source>Header</source>
+				<target state="translated">Intestazione</target>
+			</trans-unit>
+			<trans-unit id="CType.I.1" approved="yes">
+				<source>Text</source>
+				<target state="translated">Testo</target>
+			</trans-unit>
+			<trans-unit id="CType.I.10" approved="yes">
+				<source>Login</source>
+				<target state="translated">Login</target>
+			</trans-unit>
+			<trans-unit id="CType.I.11" approved="yes">
+				<source>Textbox</source>
+				<target state="translated">Casella di testo</target>
+			</trans-unit>
+			<trans-unit id="CType.I.12" approved="yes">
+				<source>Special Menus</source>
+				<target state="translated">Menu Speciali</target>
+			</trans-unit>
+			<trans-unit id="CType.I.13" approved="yes">
+				<source>Insert Records</source>
+				<target state="translated">Inserisci Record</target>
+			</trans-unit>
+			<trans-unit id="CType.I.14" approved="yes">
+				<source>Insert Plugin</source>
+				<target state="translated">Inserisci Plugin</target>
+			</trans-unit>
+			<trans-unit id="CType.I.15" approved="yes">
+				<source>Script</source>
+				<target state="translated">Script</target>
+			</trans-unit>
+			<trans-unit id="CType.I.16" approved="yes">
+				<source>Divider</source>
+				<target state="translated">Separatore</target>
+			</trans-unit>
+			<trans-unit id="CType.I.17" approved="yes">
+				<source>HTML</source>
+				<target state="translated">HTML</target>
+			</trans-unit>
+			<trans-unit id="CType.I.18" approved="yes">
+				<source>Media</source>
+				<target state="translated">Media</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="CType.I.2" approved="yes">
+				<source>Text &amp; Images</source>
+				<target state="translated">Testo e Immagini</target>
+			</trans-unit>
+			<trans-unit id="CType.I.3" approved="yes">
+				<source>Images</source>
+				<target state="translated">Immagini</target>
+			</trans-unit>
+			<trans-unit id="CType.I.4" approved="yes">
+				<source>Bullet List</source>
+				<target state="translated">Elenco puntato</target>
+			</trans-unit>
+			<trans-unit id="CType.I.5" approved="yes">
+				<source>Table</source>
+				<target state="translated">Tabella</target>
+			</trans-unit>
+			<trans-unit id="CType.I.6">
+				<source>File Links</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="CType.I.7" approved="yes">
+				<source>Multimedia</source>
+				<target state="translated">Multimedia</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="CType.I.8" approved="yes">
+				<source>Form</source>
+				<target state="translated">Modulo</target>
+			</trans-unit>
+			<trans-unit id="CType.I.9" approved="yes">
+				<source>Search</source>
+				<target state="translated">Ricerca</target>
+			</trans-unit>
+			<trans-unit id="date" approved="yes">
+				<source>Date</source>
+				<target state="translated">Data</target>
+			</trans-unit>
+			<trans-unit id="date_formlabel" approved="yes">
+				<source>Date</source>
+				<target state="translated">Data</target>
+			</trans-unit>
+			<trans-unit id="endtime_formlabel">
+				<source>Expiration Date</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Data di scadenza</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="fe_group_formlabel">
+				<source>Usergroup Access Rights</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="file_collections">
+				<source>File collections</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="file_collections.ALT.uploads_formlabel">
+				<source>Select file collections</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="filelink_size">
+				<source>Show File Size:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Mostra dimensione file:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="filelink_size_formlabel">
+				<source>Display File Size Information</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="filelink_sorting">
+				<source>Sort Filelist:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="filelink_sorting.extension">
+				<source>by Fileextension</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="filelink_sorting.name">
+				<source>by Filename</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="filelink_sorting.none">
+				<source>none</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="filelink_sorting.size">
+				<source>by Filesize</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="filelink_sorting.type">
+				<source>by Filetype</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="header" approved="yes">
+				<source>Header:</source>
+				<target state="translated">Intestazione:</target>
+			</trans-unit>
+			<trans-unit id="header.ALT.div_formlabel" approved="yes">
+				<source>Name (not visible in frontend)</source>
+				<target state="translated">Nome (non visibile in frontend)</target>
+			</trans-unit>
+			<trans-unit id="header.ALT.html_formlabel" approved="yes">
+				<source>Name (not visible in frontend)</source>
+				<target state="translated">Nome (non visibile in frontend)</target>
+			</trans-unit>
+			<trans-unit id="header.ALT.script_formlabel" approved="yes">
+				<source>Name (not visible in frontend)</source>
+				<target state="translated">Nome (non visibile in frontend)</target>
+			</trans-unit>
+			<trans-unit id="header.ALT.shortcut_formlabel" approved="yes">
+				<source>Name (not visible in frontend)</source>
+				<target state="translated">Nome (non visibile in frontend)</target>
+			</trans-unit>
+			<trans-unit id="header_formlabel" approved="yes">
+				<source>Header</source>
+				<target state="translated">Intestazione</target>
+			</trans-unit>
+			<trans-unit id="header_layout_formlabel" approved="yes">
+				<source>Type</source>
+				<target state="translated">Tipo</target>
+			</trans-unit>
+			<trans-unit id="header_layout.I.1" approved="yes">
+				<source>Layout 1</source>
+				<target state="translated">Layout 1</target>
+			</trans-unit>
+			<trans-unit id="header_layout.I.2" approved="yes">
+				<source>Layout 2</source>
+				<target state="translated">Layout 2</target>
+			</trans-unit>
+			<trans-unit id="header_layout.I.3" approved="yes">
+				<source>Layout 3</source>
+				<target state="translated">Layout 3</target>
+			</trans-unit>
+			<trans-unit id="header_layout.I.4" approved="yes">
+				<source>Layout 4</source>
+				<target state="translated">Layout 4</target>
+			</trans-unit>
+			<trans-unit id="header_layout.I.5" approved="yes">
+				<source>Layout 5</source>
+				<target state="translated">Layout 5</target>
+			</trans-unit>
+			<trans-unit id="header_layout.I.6">
+				<source>Hidden</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="header_link" approved="yes">
+				<source>Link:</source>
+				<target state="translated">Collegamento:</target>
+			</trans-unit>
+			<trans-unit id="header_link_formlabel" approved="yes">
+				<source>Link</source>
+				<target state="translated">Collegamento</target>
+			</trans-unit>
+			<trans-unit id="header_position" approved="yes">
+				<source>Align:</source>
+				<target state="translated">Allinea:</target>
+			</trans-unit>
+			<trans-unit id="header_position_formlabel" approved="yes">
+				<source>Alignment</source>
+				<target state="translated">Allineamento</target>
+			</trans-unit>
+			<trans-unit id="header_position.I.1" approved="yes">
+				<source>Center</source>
+				<target state="translated">Centro</target>
+			</trans-unit>
+			<trans-unit id="header_position.I.2" approved="yes">
+				<source>Right</source>
+				<target state="translated">Destra</target>
+			</trans-unit>
+			<trans-unit id="header_position.I.3" approved="yes">
+				<source>Left</source>
+				<target state="translated">Sinistra</target>
+			</trans-unit>
+			<trans-unit id="hidden_formlabel">
+				<source>Content Element</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="hidden.I.0">
+				<source>Disable</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_altText">
+				<source>Alternative Text:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Testo alternativo:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="image.ALT.textbox_formlabel">
+				<source>Image Files</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="imageborder" approved="yes">
+				<source>Border:</source>
+				<target state="translated">Bordo:</target>
+			</trans-unit>
+			<trans-unit id="imageborder_formlabel" approved="yes">
+				<source>Border</source>
+				<target state="translated">Bordo</target>
+			</trans-unit>
+			<trans-unit id="imagecaption.ALT.script">
+				<source>Comments:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Commenti:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="imagecaption.ALT.script_formlabel">
+				<source>Comments</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Commenti</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="imagecaption.ALT.uploads">
+				<source>Descriptions:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Descrizioni:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="imagecaption.ALT.uploads_formlabel">
+				<source>File Descriptions (one per line)</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Descrizioni dei files (una per linea)</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="imagecaption_formlabel">
+				<source>Captions (one per line)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="imagecaption_position" approved="yes">
+				<source>Align:</source>
+				<target state="translated">Allinea:</target>
+			</trans-unit>
+			<trans-unit id="imagecaption_position_formlabel">
+				<source>Caption Alignment</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="imagecaption_position.I.1" approved="yes">
+				<source>Center</source>
+				<target state="translated">Centro</target>
+			</trans-unit>
+			<trans-unit id="imagecaption_position.I.2" approved="yes">
+				<source>Right</source>
+				<target state="translated">Destra</target>
+			</trans-unit>
+			<trans-unit id="imagecaption_position.I.3" approved="yes">
+				<source>Left</source>
+				<target state="translated">Sinistra</target>
+			</trans-unit>
+			<trans-unit id="imagecols" approved="yes">
+				<source>Columns:</source>
+				<target state="translated">Colonne:</target>
+			</trans-unit>
+			<trans-unit id="imagecols_formlabel">
+				<source>Number of Columns</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Numero di colonne</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="image_compression">
+				<source>Image Quality/Processing:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_compression_formlabel">
+				<source>Quality and Type</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_compression.I.1">
+				<source>None (ignores all other options)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_compression.I.15">
+				<source>JPG/Very High</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_compression.I.16">
+				<source>JPG/High</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_compression.I.17">
+				<source>JPG/Medium</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_compression.I.18">
+				<source>JPG/Low</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_compression.I.19">
+				<source>JPG/Very Low</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_effects">
+				<source>Effects:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Effetti:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="image_effects_formlabel">
+				<source>Effect</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Effetto</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="image_effects.I.0">
+				<source>None</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Nessuno</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="image_effects.I.1">
+				<source>Rotate 90 CW</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Ruota di 90° in senso orario</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="image_effects.I.2">
+				<source>Rotate -90 CCW</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Ruota di 90° in senso antiorario</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="image_effects.I.3">
+				<source>Rotate 180</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Ruota di 180°</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="image_effects.I.4" approved="yes">
+				<source>Grayscale</source>
+				<target state="translated">Scala di grigi</target>
+			</trans-unit>
+			<trans-unit id="image_effects.I.5">
+				<source>Sharpen</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Aumento del contrasto</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="image_effects.I.6" approved="yes">
+				<source>Normalize</source>
+				<target state="translated">Normalizza</target>
+			</trans-unit>
+			<trans-unit id="image_effects.I.7" approved="yes">
+				<source>Contrast</source>
+				<target state="translated">Contrasto</target>
+			</trans-unit>
+			<trans-unit id="image_effects.I.8" approved="yes">
+				<source>Brighter</source>
+				<target state="translated">Schiarisci</target>
+			</trans-unit>
+			<trans-unit id="image_effects.I.9">
+				<source>Darker</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Più scuro</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="image_formlabel" approved="yes">
+				<source>Images</source>
+				<target state="translated">Immagini</target>
+			</trans-unit>
+			<trans-unit id="image_frames">
+				<source>Frames:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_frames_formlabel">
+				<source>Graphical Frames</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_frames.I.0">
+				<source>(None)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_frames.I.1">
+				<source>Frame 1</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_frames.I.2">
+				<source>Frame 2</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_frames.I.3">
+				<source>Frame 3</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_frames.I.4">
+				<source>Frame 4</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_frames.I.5">
+				<source>Frame 5</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_frames.I.6">
+				<source>Frame 6</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_frames.I.7">
+				<source>Frame 7</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_frames.I.8">
+				<source>Frame 8</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="imageheight" approved="yes">
+				<source>Height (pixels):</source>
+				<target state="translated">Altezza (pixel):</target>
+			</trans-unit>
+			<trans-unit id="imageheight_formlabel" approved="yes">
+				<source>Height (px)</source>
+				<target state="translated">Altezza (px):</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Altezza (px)</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="image_link" approved="yes">
+				<source>Link:</source>
+				<target state="translated">Collegamento:</target>
+			</trans-unit>
+			<trans-unit id="image_link_formlabel">
+				<source>Links (one per line, one link per image)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_longdescURL">
+				<source>Long Description URL:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>URL della descrizione lunga:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="image_noRows">
+				<source>No Rows:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_noRows_formlabel">
+				<source>Display as Rows</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_noRows.I.0" approved="yes">
+				<source>Deactivate</source>
+				<target state="translated">Disattiva</target>
+			</trans-unit>
+			<trans-unit id="imageorient" approved="yes">
+				<source>Position:</source>
+				<target state="translated">Posizione:</target>
+			</trans-unit>
+			<trans-unit id="imageorient_formlabel" approved="yes">
+				<source>Position and Alignment</source>
+				<target state="translated">Posizione e Allineamento</target>
+			</trans-unit>
+			<trans-unit id="imageorient.I.0" approved="yes">
+				<source>Above, center</source>
+				<target state="translated">Sopra, centrato</target>
+			</trans-unit>
+			<trans-unit id="imageorient.I.1">
+				<source>Above, right</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Sopra, a destra</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="imageorient.I.10">
+				<source>Beside Text, Left</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>A fianco al testo, a sinistra</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="imageorient.I.2">
+				<source>Above, left</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Sopra, a sinistra</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="imageorient.I.3">
+				<source>Below, center</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Sotto, centrato</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="imageorient.I.4">
+				<source>Below, right</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Sotto, a destra</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="imageorient.I.5">
+				<source>Below, left</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Sotto, a sinistra</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="imageorient.I.6" approved="yes">
+				<source>In text, right</source>
+				<target state="translated">Nel testo, destra</target>
+			</trans-unit>
+			<trans-unit id="imageorient.I.7" approved="yes">
+				<source>In text, left</source>
+				<target state="translated">Nel testo, sinistra</target>
+			</trans-unit>
+			<trans-unit id="imageorient.I.8" approved="yes">
+				<source>__No wrap:__</source>
+				<target state="translated">__No wrap:__</target>
+			</trans-unit>
+			<trans-unit id="imageorient.I.9">
+				<source>Beside Text, Right</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>A fianco al testo, a destra</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="images.addFileReference">
+				<source>Add image</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Aggiungi immagine</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="image_titleText">
+				<source>Title Text:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Testo del titolo:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="imagewidth" approved="yes">
+				<source>Width (pixels):</source>
+				<target state="translated">Larghezza (pixel):</target>
+			</trans-unit>
+			<trans-unit id="imagewidth_formlabel" approved="yes">
+				<source>Width (px)</source>
+				<target state="translated">Larghezza (px):</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Larghezza (px)</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="image_zoom">
+				<source>Click-enlarge:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_zoom_formlabel">
+				<source>Enlarge on Click</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Ingrandisci con un clic</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="layout_formlabel" approved="no">
+				<source>Layout</source>
+				<target state="needs-translation">Layout 1</target>
+			</trans-unit>
+			<trans-unit id="layout.I.1" approved="yes">
+				<source>Layout 1</source>
+				<target state="translated">Layout 1</target>
+			</trans-unit>
+			<trans-unit id="layout.I.2" approved="yes">
+				<source>Layout 2</source>
+				<target state="translated">Layout 2</target>
+			</trans-unit>
+			<trans-unit id="layout.I.3" approved="yes">
+				<source>Layout 3</source>
+				<target state="translated">Layout 3</target>
+			</trans-unit>
+			<trans-unit id="linkToTop">
+				<source>To top:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="linkToTop_formlabel">
+				<source>Append with Link to Top of Page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="list_type">
+				<source>Plugin:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Plugin:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="list_type_formlabel">
+				<source>Selected Plugin</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Plugin selezionato</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="longdescURL_formlabel">
+				<source>Long Description URLs (one per line)</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>URL delle descrizioni lunghe (una per linea)</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="media">
+				<source>Files</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Files</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="media.addFileReference">
+				<source>Add file</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Aggiungi file</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="media.additionalOptions">
+				<source>Additional Parameters</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.alternativeContent">
+				<source>Alternative Content</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Contenuto alternativo</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="media.ALT.uploads_formlabel">
+				<source>Select single files</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="media.audioDescription">
+				<source>audio description for videos</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.audioFallbackUrl">
+				<source>Path or URL to fallback audio source (Flash or QuickTime)</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.audioSources">
+				<source>Audio sources for HTML5 &lt;audio&gt; element</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.browseUrlTitle">
+				<source>Select File or URL</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Seleziona file o URL</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="media.captionUrl">
+				<source>Path or URL to captions file</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.dataAttributes">
+				<source>Additional data-* Attributes for HTML5 video tag</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="media.dataAttributes.attributeName">
+				<source>Name of attribute (without data-)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="media.dataAttributes.content">
+				<source>Content</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="media.downloadFlash">
+				<source>Click here to download the latest version.</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Fai clic qui per scaricare la versione più recente.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="media.fallbackUrl">
+				<source>Path or URL to fallback video source (Flash or QuickTime)</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.forcePlayer">
+				<source>Use Player (Flash only)</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.height">
+				<source>Media Height</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.needFlashPlugin">
+				<source>You need a Flash plugin to view this content.</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Per vedere questo contenuto è necessario un plugin Flash.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="media.noFile">
+				<source>ERROR: Missing URL or File!</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.options">
+				<source>Media Options</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params">
+				<source>Media Parameter</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.allowFullScreen">
+				<source>Allow Fullscreen</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.allowScriptAccess">
+				<source>Allow ScriptAccess</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.autoPlay">
+				<source>AutoPlay</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.bgColor">
+				<source>Background Color</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Colore dello sfondo</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="media.params.controlsAtStart">
+				<source>Make controls visible when page loads</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.controlsBelow">
+				<source>Display controls below video</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.controlsHiding">
+				<source>Hide controls when not over the video</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.customEntry">
+				<source>Custom Parameters</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.customEntryLabel">
+				<source>Enter flashvars, params or attributes</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.defaultVolume">
+				<source>Default volume</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Volume predefinito</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="media.params.loop">
+				<source>Loop</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.off">
+				<source>Off</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.on">
+				<source>On</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.option">
+				<source>Option</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Opzione</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="media.params.preload">
+				<source>Preload media</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.preview">
+				<source>Preview Video</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.quality">
+				<source>Quality</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Qualità</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="media.params.setTo">
+				<source>Set to</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Imposta a</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="media.params.value">
+				<source>Value</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Valore</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="media.params.valueEntry">
+				<source>Value Entry</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.previewImage">
+				<source>Preview-Image for the Video (HTML5 only)</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.renderType">
+				<source>Render Type</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.renderType.auto">
+				<source>Auto</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.renderType.embed">
+				<source>Native HTML Embed Element</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.renderType.preferFlashOverHtml5">
+				<source>Flash with fallback to HTML5 video/audio tag</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.renderType.preferHtml5OverFlash">
+				<source>HTML5 video/audio tag with fallback to Flash</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.renderType.qt">
+				<source>QuickTime Browser Plugin</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.renderType.swf">
+				<source>Flash Browser Plugin</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.sources">
+				<source>Video sources for HTML5 &lt;video&gt; element</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.tabAudio">
+				<source>Audio Element</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Elemento audio</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="media.tabVideo">
+				<source>Video Element</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.tabVideoAccessible">
+				<source>HTML5 Additions</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.type">
+				<source>Media Type</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.type.audio">
+				<source>Audio</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Audio</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="media.type.video">
+				<source>Video</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Video</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="media.url">
+				<source>Path or URL</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Percorso o URL</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="media.useHTML5">
+				<source>HTML5 / accessible rendering</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.width">
+				<source>Media Width</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="menu.ALT.accessibility_bypass_formlabel">
+				<source>Add link to bypass navigation block</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="menu.ALT.accessibility_bypass_text_formlabel">
+				<source>Link text to bypass navigation block</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="menu.ALT.accessibility_title_formlabel">
+				<source>Menu block title</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="menu_type">
+				<source>Menu Type</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Tipo di menu</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="menu_type_formlabel">
+				<source>Menu Type</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Tipo di menu</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="menu_type.I.0">
+				<source>Menu of selected pages</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="menu_type.I.1">
+				<source>Menu of subpages of selected pages</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="menu_type.I.2">
+				<source>Menu of subpages of selected pages including abstracts</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="menu_type.I.3">
+				<source>Menu of subpages of selected pages including sections</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="menu_type.I.4">
+				<source>Sitemap</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Mappa del sito</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="menu_type.I.5">
+				<source>Section index (page content marked for section menus)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="menu_type.I.6">
+				<source>Recently updated pages</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Pagine aggiornate recentemente</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="menu_type.I.7">
+				<source>Related pages (based on keywords)</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Pagine correlate (in base a parole chiave)</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="menu_type.I.8">
+				<source>Sitemaps of selected pages</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Mappa del sito per le pagine selezionate</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="menu_type.I.categorized_content">
+				<source>Content elements for selected categories</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="menu_type.I.categorized_pages">
+				<source>Pages for selected categories</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="multimedia">
+				<source>File:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>File:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="multimedia_formlabel">
+				<source>Selected Media File</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.ALT.list_formlabel">
+				<source>Record Storage Page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.ALT.login">
+				<source>Send to Page:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.ALT.loginform">
+				<source>Selected pages: Target (1st), Frontend user container (2nd)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.ALT.mailform">
+				<source>Target Page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.ALT.menu_formlabel">
+				<source>Selected Pages</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Pagine selezionate</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="pages.ALT.script_formlabel">
+				<source>Starting Point for This Script</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.ALT.search">
+				<source>Send to Page:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.ALT.searchform">
+				<source>Target page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.access">
+				<source>Publish Dates and Access Rights</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.frames">
+				<source>Content Element Layout</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.general">
+				<source>Content Element</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Elemento di contenuto</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="palette.header" approved="yes">
+				<source>Header</source>
+				<target state="translated">Intestazione</target>
+			</trans-unit>
+			<trans-unit id="palette.headers">
+				<source>Headlines</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.image_accessibility">
+				<source>Accessibility</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Accessibilità</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="palette.imageblock">
+				<source>Image Alignment</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Allineamento dell'immagine</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="palette.imagefiles">
+				<source>Images and Captions</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.imagelinks">
+				<source>Behavior</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Comportamento</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="palette.image_settings">
+				<source>Image Adjustments</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.loginform">
+				<source>Redirect Target and Frontend User Container</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.mailform">
+				<source>Target and Recipient</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.menu">
+				<source>Menu and Sitemap</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Menu e mappa del sito</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="palette.menu_accessibility">
+				<source>Accessibility</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Accessibilità</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="palette.multimediafiles">
+				<source>Media Files and Parameters</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.searchform">
+				<source>Search Results</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Risultati della ricerca</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="palette.table_layout">
+				<source>Table Layout</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.textbox">
+				<source>Render Text into Images</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.textlayout">
+				<source>Text Layout</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.uploads_layout">
+				<source>Filelinks Layout</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.visibility">
+				<source>Visibility</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Visibilità</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="pi_flexform">
+				<source>Plugin Options</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="records">
+				<source>Items:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="records_formlabel">
+				<source>Records</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="recursive.I.0">
+				<source>0 levels (only selected page)</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>0 livelli (solo la pagina selezionata)</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="recursive.I.1">
+				<source>1 level</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>1 livello</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="recursive.I.2">
+				<source>2 levels</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>2 livelli</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="recursive.I.3">
+				<source>3 levels</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>3 livelli</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="recursive.I.4">
+				<source>4 levels</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>4 livelli</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="recursive.I.5">
+				<source>Infinite</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Infinito</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="rte_enabled">
+				<source>Disable Rich Text Editor:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Disabilita editor RTE:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="rte_enabled_formlabel">
+				<source>Rich Text Editor</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="rte_enabled.I.0">
+				<source>Disable</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="section_frame">
+				<source>Frame:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Cornice:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="section_frame_formlabel">
+				<source>Indentation and Frames</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="section_frame.I.1">
+				<source>Invisible</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Invisibile</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="section_frame.I.2">
+				<source>Ruler Before</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="section_frame.I.3">
+				<source>Ruler After</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="section_frame.I.4">
+				<source>Indent</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Indentazione</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="section_frame.I.5">
+				<source>Indent, 33/66%</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Indentazione, 33/66%</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="section_frame.I.6">
+				<source>Indent, 66/33%</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Indentazione, 66/33%</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="section_frame.I.7">
+				<source>Frame 1</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Cornice 1</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="section_frame.I.8">
+				<source>Frame 2</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Cornice 2</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="sectionIndex">
+				<source>Index:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Indice:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="sectionIndex_formlabel">
+				<source>Show in Section Menus</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="selected_categories">
+				<source>Selected categories</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="select_key.ALT.script_formlabel">
+				<source>PHP Code</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Codice PHP</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="select_key.ALT.uploads">
+				<source>Read from Path:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="select_key.ALT.uploads_formlabel">
+				<source>Path</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Percorso</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="select_key_formlabel">
+				<source>Plugin Mode</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="spaceAfter">
+				<source>After:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Dopo:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="spaceAfter_formlabel">
+				<source>Bottom Margin</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="spaceBefore">
+				<source>Before:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Prima:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="spaceBefore_formlabel">
+				<source>Top Margin</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Margine in alto</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="splash_layout">
+				<source>Textbox Type:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="splash_layout_formlabel" approved="yes">
+				<source>Type</source>
+				<target state="translated">Tipo</target>
+			</trans-unit>
+			<trans-unit id="splash_layout.I.1">
+				<source>Image Shadow</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Ombra dell'immagine</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="splash_layout.I.2">
+				<source>Image Frame 1</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="splash_layout.I.3">
+				<source>Image Frame 2</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="splash_layout.I.4">
+				<source>__Graphical:__</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="splash_layout.I.5">
+				<source>Postit 1</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="starttime_formlabel">
+				<source>Publish Date</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="subheader.ALT.mailform">
+				<source>Recipient Email:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Email del destinatario:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="subheader.ALT.mailform_formlabel">
+				<source>Recipient Email</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Email del destinatario</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="subheader_formlabel">
+				<source>Subheader</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_language_uid_formlabel">
+				<source>Language</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Lingua</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table_bgColor">
+				<source>Backgr. Color:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Colore sfondo:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table_bgColor_formlabel">
+				<source>Background color</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Colore dello sfondo</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table_bgColor.I.1">
+				<source>Color 1</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Colore 1</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table_bgColor.I.2">
+				<source>Color 2</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Colore 2</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table_bgColor.I.3">
+				<source>None</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Nessuno</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table_bgColor.I.5">
+				<source>Black</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Nero</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table_bgColor.I.6">
+				<source>White</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Bianco</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table_bgColor.I.7">
+				<source>Dark Gray</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Grigio scuro</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table_bgColor.I.8">
+				<source>Gray</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Grigio</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table_bgColor.I.9">
+				<source>Silver</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Argento</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table_border" approved="yes">
+				<source>Border:</source>
+				<target state="translated">Bordo:</target>
+			</trans-unit>
+			<trans-unit id="table_border_formlabel">
+				<source>Border Size (px)</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Dimensione bordo (pixel)</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table_cellpadding">
+				<source>Cellpadding:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Spaziatura interna celle:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table_cellpadding_formlabel">
+				<source>Cellpadding (px)</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Spaziatura interna delle celle (pixel)</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table_cellspacing">
+				<source>Cellspacing:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Spaziatura celle:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table_cellspacing_formlabel">
+				<source>Cellspacing (px)</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Spaziatura tra le celle (pixel)</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tabs.access">
+				<source>Access</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Accesso</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tabs.appearance">
+				<source>Appearance</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tabs.behaviour">
+				<source>Behaviour</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Comportamento</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tabs.extended">
+				<source>Extended</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tabs.images" approved="yes">
+				<source>Images</source>
+				<target state="translated">Immagini</target>
+			</trans-unit>
+			<trans-unit id="tabs.media" approved="yes">
+				<source>Media</source>
+				<target state="translated">Media</target>
+			</trans-unit>
+			<trans-unit id="tabs.plugin">
+				<source>Plugin</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Plugin</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tabs.script" approved="yes">
+				<source>Script</source>
+				<target state="translated">Script</target>
+			</trans-unit>
+			<trans-unit id="tabs.text" approved="yes">
+				<source>Text</source>
+				<target state="translated">Testo</target>
+			</trans-unit>
+			<trans-unit id="target">
+				<source>Target:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="target.I.1">
+				<source>New window</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Nuova finestra</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="titleText_formlabel">
+				<source>Titles (one per line)</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Titoli (uno per linea)</target>
+				</alt-trans>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

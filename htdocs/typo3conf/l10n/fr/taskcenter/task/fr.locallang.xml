@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="error-access">Pas d'accès à ce module.</label>
+			<label index="error_header">Erreur</label>
+			<label index="error_no-instance">La classe "%s" n'implémente pas l'interface de tâche "%s" nécessaire pour l'affichage à cet endroit.</label>
+			<label index="lCancel">Annuler</label>
+			<label index="lCreate">Créer</label>
+			<label index="lDelete">Effacer</label>
+			<label index="lDelete_warning">Etes-vous sûre de vouloir supprimer cet utilisateur ?</label>
+			<label index="lHomedir">Mes documents</label>
+			<label index="listSeparator_Groups">_Groups:_</label>
+			<label index="lNone">[vide]</label>
+			<label index="lReplyAddress">L'adresse de réponse est votre adresse</label>
+			<label index="lSelf">Personnel</label>
+			<label index="lSendNew">Envoyer le message</label>
+			<label index="lSendReply">Répondre au message</label>
+			<label index="lUpdate">Mettre à jour</label>
+			<label index="mlang_tabs_tab">Tâches</label>
+			<label index="no-tasks">Aucune tâche planifiée pour le moment.</label>
+			<label index="taskcenter-about">&lt;p&gt; Le menu sur le côté gauche montre toutes les tâches autorisées et vous permet d'effectuer vos tâches de manière efficace. &lt;/ p&gt; &lt;ul class="withicons"&gt; &lt;li&gt; En cliquant sur le titre d'une tâche, cette dernière sera ouverte en vue détaillée.&lt;/ li&gt; &lt;li&gt; Cliquez sur la flèche sur le côté droit va ouvrir / fermer le menu de la tâche &lt;/ li&gt; &lt;/ ul&gt; &lt;br /&gt; &lt;strong&gt;Remarque : &lt;/ strong&gt; Configurez le centre des tâches comme module par défaut lors de votre identification pour gagnez du temps !</label>
+			<label index="taskcenter-admin">Il est simple d'étendre le centre des tâches par une tâche personnalisée. Pour plus d'informations reportez vous au manuel de l'extension "Centre des tâches"</label>
+			<label index="taskcenter-adminheader">Créer une tâche</label>
+			<label index="task_description">Description</label>
+			<label index="task_overview">Aperçu</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

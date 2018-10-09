@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="editThisColumn">Редактировать поле '%s' для всех указанных страниц</label>
+			<label index="editTSconfig">Редактировать TSconfig для текущей страницы</label>
+			<label index="editTSconfig_all">Редактировать TSconfig для всех показанных страниц</label>
+			<label index="editTSconfig_default">Конфигурация по умолчанию из TYPO3_CONF_VARS</label>
+			<label index="mod_pagetsconfig">TSconfig страницы</label>
+			<label index="sort_alphabetic">Сортировка по алфавиту:</label>
+			<label index="tsconf_configFields">Просмотреть значения полей TSconfig</label>
+			<label index="tsconf_parts_0">Всё</label>
+			<label index="tsconf_parts_1">Ключ модуля ('mod') с переназначением настроек пользователя</label>
+			<label index="tsconf_parts_1a">Модуль: Веб&gt;Страница</label>
+			<label index="tsconf_parts_1b">Модуль: Веб&gt;Просмотр</label>
+			<label index="tsconf_parts_1c">Модуль: Веб&gt;Модули</label>
+			<label index="tsconf_parts_1d">Модуль: Веб&gt;Список</label>
+			<label index="tsconf_parts_1e">Модуль: Веб&gt;Инфо</label>
+			<label index="tsconf_parts_1f">Модуль: Веб&gt;Функции</label>
+			<label index="tsconf_parts_1g">Модуль: Веб&gt;Шаблон</label>
+			<label index="tsconf_title">TSconfig страницы</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

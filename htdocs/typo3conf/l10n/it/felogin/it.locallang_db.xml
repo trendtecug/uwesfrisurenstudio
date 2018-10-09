@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="felogin_forgotHash">Hash dimenticato</label>
+			<label index="felogin_redirectPid">Dopo il login reindirizza alla pagina:</label>
+			<label index="tt_content.CType_pi1">Login utente</label>
+			<label index="tt_content.pi_flexform.error_header">Titolo Errore di Login</label>
+			<label index="tt_content.pi_flexform.error_message">Testo Errore di Login</label>
+			<label index="tt_content.pi_flexform.field_manualOrder">Usa i campi sottostanti:</label>
+			<label index="tt_content.pi_flexform.field_orderDetails">Campi Utente/dettagli:</label>
+			<label index="tt_content.pi_flexform.field_orderList">Campi Utente/lista:</label>
+			<label index="tt_content.pi_flexform.forgot_header">Titolo Password Dimenticata</label>
+			<label index="tt_content.pi_flexform.forgot_message">Testo Password Dimenticata</label>
+			<label index="tt_content.pi_flexform.general_header">Titolo generale:</label>
+			<label index="tt_content.pi_flexform.general_message">Testo generale:</label>
+			<label index="tt_content.pi_flexform.groupSelection">Seleziona gruppi FE:</label>
+			<label index="tt_content.pi_flexform.groupSelection_noGroup">nessun gruppo</label>
+			<label index="tt_content.pi_flexform.groupSelectmode">Modalità di selezione del Gruppo FE</label>
+			<label index="tt_content.pi_flexform.groupSelectmode_DontShowSelected">Non mostrare selezionato</label>
+			<label index="tt_content.pi_flexform.groupSelectmode_FromTS">(da Typoscript)</label>
+			<label index="tt_content.pi_flexform.groupSelectmode_showAll">Mostra tutto</label>
+			<label index="tt_content.pi_flexform.groupSelectmode_showSelected">Mostra selezionato</label>
+			<label index="tt_content.pi_flexform.logout_header">Titolo Logout</label>
+			<label index="tt_content.pi_flexform.logout_message">Testo Logout</label>
+			<label index="tt_content.pi_flexform.redirectDisable">Disabilita redirect:</label>
+			<label index="tt_content.pi_flexform.redirectFirstMethod">Usa la prima modalità trovata:</label>
+			<label index="tt_content.pi_flexform.redirect_header">Titolo Redirect:</label>
+			<label index="tt_content.pi_flexform.redirect_message">Testo Redirect:</label>
+			<label index="tt_content.pi_flexform.redirectMode">Modalità Redirect (devi selezionare le opzioni, altrimenti il redirect non funzionerà)</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.0">definito nel Record Gruppo Utenti</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.1">definito del Record Utente</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.2">dopo il Login (TS o Flexform)</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.3">dopo il Logout (TS o Flexform)</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.4">dopo Errore di Login (TS o Flexform)</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.5">definito da variabili GET/POST</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.6">definito dal Referrer</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.7">definito dal record Domain</label>
+			<label index="tt_content.pi_flexform.redirectPageLogin">Effettuato il Login fai redirect alla pagina:</label>
+			<label index="tt_content.pi_flexform.redirectPageLoginError">Dopo un errore di Login fai redirect alla pagina:</label>
+			<label index="tt_content.pi_flexform.redirectPageLogout">Dopo il Logout fai redirect alla pagina:</label>
+			<label index="tt_content.pi_flexform.sheet_general">Generale</label>
+			<label index="tt_content.pi_flexform.sheet_messages">Messaggi</label>
+			<label index="tt_content.pi_flexform.sheet_redirect">Opzioni redirect</label>
+			<label index="tt_content.pi_flexform.show_forgot_password">Mostra link "Dimenticato la password?":</label>
+			<label index="tt_content.pi_flexform.show_logoutFormAfterLogin">Mostra form di logout dopo il login</label>
+			<label index="tt_content.pi_flexform.show_permalogin">Mostra checkbox "Mantieni login" (se abilitato nell'installazione)</label>
+			<label index="tt_content.pi_flexform.status_header">Titolo Mostra Stato</label>
+			<label index="tt_content.pi_flexform.status_message">Testo Mostra Stato</label>
+			<label index="tt_content.pi_flexform.success_header">Titolo Login effettuato:</label>
+			<label index="tt_content.pi_flexform.success_message">Testo Login effettuato:</label>
+			<label index="tt_content.pi_flexform.template_file">File Template:</label>
+			<label index="tt_content.pi_flexform.user_storage">Storage Page Utenti</label>
+			<label index="tt_content.pi_flexform.welcome_header">Titolo Benvenuto:</label>
+			<label index="tt_content.pi_flexform.welcome_message">Testo Benvenuto:</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

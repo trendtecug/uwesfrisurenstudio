@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="de" type="array">
+			<label index="expand">Kategorie erweitern</label>
+			<label index="filesize">Dateigröße</label>
+			<label index="noTextSelection">Fehler: Kein Text zum Umbrechen ausgewählt.</label>
+			<label index="noTitle">Kein Titel</label>
+			<label index="pixels">Bildpunkte</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

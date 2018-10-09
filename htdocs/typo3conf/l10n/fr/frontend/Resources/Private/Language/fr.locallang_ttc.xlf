@@ -1,0 +1,1521 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T01:30:12Z" product-name="frontend">
+		<header/>
+		<body>
+			<trans-unit id="accessibility_bypass" approved="yes">
+				<source>Add link to bypass block</source>
+				<target state="translated">Ajouter un lien pour sauter le bloc</target>
+			</trans-unit>
+			<trans-unit id="accessibility_bypass_text">
+				<source>Link text to bypass block</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="accessibility_title" approved="yes">
+				<source>Block title</source>
+				<target state="translated">Titre du bloc</target>
+			</trans-unit>
+			<trans-unit id="ALT.imgDimensions" approved="yes">
+				<source>Image Dimensions</source>
+				<target state="translated">Dimensions de l'image</target>
+			</trans-unit>
+			<trans-unit id="ALT.imgLinks" approved="yes">
+				<source>Image Links</source>
+				<target state="translated">Liens d'images</target>
+			</trans-unit>
+			<trans-unit id="ALT.imgOptions" approved="yes">
+				<source>Image Options</source>
+				<target state="translated">Options d'image</target>
+			</trans-unit>
+			<trans-unit id="altText_formlabel" approved="yes">
+				<source>Alternative Labels (one per line)</source>
+				<target state="translated">Textes alternatifs (un par ligne)</target>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.bulletlist_formlabel" approved="yes">
+				<source>Bullet List</source>
+				<target state="translated">Liste à puces</target>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.html" approved="yes">
+				<source>HTML:</source>
+				<target state="translated">HTML :</target>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.html_formlabel" approved="yes">
+				<source>HTML Code</source>
+				<target state="translated">Code HTML</target>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.mailform" approved="yes">
+				<source>Configuration:</source>
+				<target state="translated">Configuration :</target>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.mailform_formlabel" approved="yes">
+				<source>Form Structure</source>
+				<target state="translated">Structure du formulaire</target>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.media_formlabel" approved="yes">
+				<source>Alternative Content</source>
+				<target state="translated">Texte alternatif</target>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.multimedia_formlabel" approved="yes">
+				<source>Parameters</source>
+				<target state="translated">Paramètres</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.script_formlabel" approved="yes">
+				<source>Parameters to pass to the script</source>
+				<target state="translated">Paramètres à fournir au script</target>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.table_formlabel" approved="yes">
+				<source>Table Structure</source>
+				<target state="translated">Structure de la table</target>
+			</trans-unit>
+			<trans-unit id="bodytext.ALT.textbox_formlabel" approved="yes">
+				<source>Text</source>
+				<target state="translated">Texte</target>
+			</trans-unit>
+			<trans-unit id="bodytext_formlabel" approved="yes">
+				<source>Text</source>
+				<target state="translated">Texte</target>
+			</trans-unit>
+			<trans-unit id="bodytext.W.forms" approved="yes">
+				<source>Forms wizard</source>
+				<target state="translated">Assistant de formulaires</target>
+			</trans-unit>
+			<trans-unit id="bodytext.W.RTE" approved="yes">
+				<source>Fullscreen Rich Text Editing</source>
+				<target state="translated">RTE Editeur en plein écran</target>
+			</trans-unit>
+			<trans-unit id="bodytext.W.table" approved="yes">
+				<source>Table Wizard</source>
+				<target state="translated">Assistant de tableau</target>
+			</trans-unit>
+			<trans-unit id="category_field" approved="yes">
+				<source>Category field</source>
+				<target state="translated">Champ de catégorie</target>
+			</trans-unit>
+			<trans-unit id="colPos" approved="yes">
+				<source>Columns:</source>
+				<target state="translated">Colonnes :</target>
+			</trans-unit>
+			<trans-unit id="colPos_formlabel" approved="yes">
+				<source>Column</source>
+				<target state="translated">Colonne</target>
+			</trans-unit>
+			<trans-unit id="colPos.I.0" approved="yes">
+				<source>Left</source>
+				<target state="translated">Gauche</target>
+			</trans-unit>
+			<trans-unit id="colPos.I.1" approved="yes">
+				<source>Normal</source>
+				<target state="translated">Normal</target>
+			</trans-unit>
+			<trans-unit id="colPos.I.2" approved="yes">
+				<source>Right</source>
+				<target state="translated">Droite</target>
+			</trans-unit>
+			<trans-unit id="colPos.I.3" approved="yes">
+				<source>Border</source>
+				<target state="translated">Bordure</target>
+			</trans-unit>
+			<trans-unit id="cols" approved="yes">
+				<source>Columns</source>
+				<target state="translated">Colonnes</target>
+			</trans-unit>
+			<trans-unit id="cols.I.0" approved="yes">
+				<source>Auto</source>
+				<target state="translated">Auto</target>
+			</trans-unit>
+			<trans-unit id="CType.div.forms" approved="yes">
+				<source>Forms</source>
+				<target state="translated">Formulaires</target>
+			</trans-unit>
+			<trans-unit id="CType.div.lists" approved="yes">
+				<source>Lists</source>
+				<target state="translated">Listes</target>
+			</trans-unit>
+			<trans-unit id="CType.div.special" approved="yes">
+				<source>Special</source>
+				<target state="translated">Spécial</target>
+			</trans-unit>
+			<trans-unit id="CType.div.standard" approved="yes">
+				<source>Standard</source>
+				<target state="translated">Standard</target>
+			</trans-unit>
+			<trans-unit id="CType_formlabel" approved="yes">
+				<source>Type</source>
+				<target state="translated">Type</target>
+			</trans-unit>
+			<trans-unit id="CType.I.0" approved="yes">
+				<source>Header</source>
+				<target state="translated">Titre</target>
+			</trans-unit>
+			<trans-unit id="CType.I.1" approved="yes">
+				<source>Text</source>
+				<target state="translated">Texte</target>
+			</trans-unit>
+			<trans-unit id="CType.I.10" approved="yes">
+				<source>Login</source>
+				<target state="translated">Connexion</target>
+			</trans-unit>
+			<trans-unit id="CType.I.11" approved="yes">
+				<source>Textbox</source>
+				<target state="translated">Zone de texte</target>
+			</trans-unit>
+			<trans-unit id="CType.I.12" approved="yes">
+				<source>Special Menus</source>
+				<target state="translated">Menus spéciaux</target>
+			</trans-unit>
+			<trans-unit id="CType.I.13" approved="yes">
+				<source>Insert Records</source>
+				<target state="translated">Insérer des enregistrements</target>
+			</trans-unit>
+			<trans-unit id="CType.I.14" approved="yes">
+				<source>Insert Plugin</source>
+				<target state="translated">Insérer un Plug-in</target>
+			</trans-unit>
+			<trans-unit id="CType.I.15" approved="yes">
+				<source>Script</source>
+				<target state="translated">Script</target>
+			</trans-unit>
+			<trans-unit id="CType.I.16" approved="yes">
+				<source>Divider</source>
+				<target state="translated">Séparateur</target>
+			</trans-unit>
+			<trans-unit id="CType.I.17" approved="yes">
+				<source>HTML</source>
+				<target state="translated">HTML</target>
+			</trans-unit>
+			<trans-unit id="CType.I.18" approved="yes">
+				<source>Media</source>
+				<target state="translated">Média</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="CType.I.2" approved="yes">
+				<source>Text &amp; Images</source>
+				<target state="translated">Texte &amp; images</target>
+			</trans-unit>
+			<trans-unit id="CType.I.3" approved="yes">
+				<source>Images</source>
+				<target state="translated">Images</target>
+			</trans-unit>
+			<trans-unit id="CType.I.4" approved="yes">
+				<source>Bullet List</source>
+				<target state="translated">Liste à puces</target>
+			</trans-unit>
+			<trans-unit id="CType.I.5" approved="yes">
+				<source>Table</source>
+				<target state="translated">Tableau</target>
+			</trans-unit>
+			<trans-unit id="CType.I.6" approved="yes">
+				<source>File Links</source>
+				<target state="translated">Liste de fichiers</target>
+			</trans-unit>
+			<trans-unit id="CType.I.7" approved="yes">
+				<source>Multimedia</source>
+				<target state="translated">Multimédia</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="CType.I.8" approved="yes">
+				<source>Form</source>
+				<target state="translated">Formulaire</target>
+			</trans-unit>
+			<trans-unit id="CType.I.9" approved="yes">
+				<source>Search</source>
+				<target state="translated">Recherche</target>
+			</trans-unit>
+			<trans-unit id="date" approved="yes">
+				<source>Date</source>
+				<target state="translated">Date</target>
+			</trans-unit>
+			<trans-unit id="date_formlabel" approved="yes">
+				<source>Date</source>
+				<target state="translated">Date</target>
+			</trans-unit>
+			<trans-unit id="endtime_formlabel" approved="yes">
+				<source>Expiration Date</source>
+				<target state="translated">Date d'expiration</target>
+			</trans-unit>
+			<trans-unit id="fe_group_formlabel" approved="yes">
+				<source>Usergroup Access Rights</source>
+				<target state="translated">Droits d'accès pour les groupes d'utilisateurs</target>
+			</trans-unit>
+			<trans-unit id="file_collections" approved="yes">
+				<source>File collections</source>
+				<target state="translated">Groupe de fichiers</target>
+			</trans-unit>
+			<trans-unit id="file_collections.ALT.uploads_formlabel" approved="yes">
+				<source>Select file collections</source>
+				<target state="translated">Sélection de groupe de fichiers</target>
+			</trans-unit>
+			<trans-unit id="filelink_size" approved="yes">
+				<source>Show File Size:</source>
+				<target state="translated">Afficher la taille du fichier:</target>
+			</trans-unit>
+			<trans-unit id="filelink_size_formlabel" approved="yes">
+				<source>Display File Size Information</source>
+				<target state="translated">Montrer l'information de taille du fichier</target>
+			</trans-unit>
+			<trans-unit id="filelink_sorting" approved="yes">
+				<source>Sort Filelist:</source>
+				<target state="translated">Tri de fichiers:</target>
+			</trans-unit>
+			<trans-unit id="filelink_sorting.extension" approved="yes">
+				<source>by Fileextension</source>
+				<target state="translated">par extension de fichier</target>
+			</trans-unit>
+			<trans-unit id="filelink_sorting.name" approved="yes">
+				<source>by Filename</source>
+				<target state="translated">par nom de fichier</target>
+			</trans-unit>
+			<trans-unit id="filelink_sorting.none" approved="yes">
+				<source>none</source>
+				<target state="translated">aucun</target>
+			</trans-unit>
+			<trans-unit id="filelink_sorting.size" approved="yes">
+				<source>by Filesize</source>
+				<target state="translated">par taille de fichier</target>
+			</trans-unit>
+			<trans-unit id="filelink_sorting.type" approved="yes">
+				<source>by Filetype</source>
+				<target state="translated">par type de fichier</target>
+			</trans-unit>
+			<trans-unit id="header" approved="yes">
+				<source>Header:</source>
+				<target state="translated">Titre:</target>
+			</trans-unit>
+			<trans-unit id="header.ALT.div_formlabel" approved="yes">
+				<source>Name (not visible in frontend)</source>
+				<target state="translated">Nom (invisible sur le site)</target>
+			</trans-unit>
+			<trans-unit id="header.ALT.html_formlabel" approved="yes">
+				<source>Name (not visible in frontend)</source>
+				<target state="translated">Nom (invisible sur le site)</target>
+			</trans-unit>
+			<trans-unit id="header.ALT.script_formlabel" approved="yes">
+				<source>Name (not visible in frontend)</source>
+				<target state="translated">Nom (invisible sur le site)</target>
+			</trans-unit>
+			<trans-unit id="header.ALT.shortcut_formlabel" approved="yes">
+				<source>Name (not visible in frontend)</source>
+				<target state="translated">Nom (non visible en Frontend</target>
+			</trans-unit>
+			<trans-unit id="header_formlabel" approved="yes">
+				<source>Header</source>
+				<target state="translated">Titre</target>
+			</trans-unit>
+			<trans-unit id="header_layout_formlabel" approved="yes">
+				<source>Type</source>
+				<target state="translated">Type</target>
+			</trans-unit>
+			<trans-unit id="header_layout.I.1" approved="yes">
+				<source>Layout 1</source>
+				<target state="translated">Disposition 1</target>
+			</trans-unit>
+			<trans-unit id="header_layout.I.2" approved="yes">
+				<source>Layout 2</source>
+				<target state="translated">Disposition 2</target>
+			</trans-unit>
+			<trans-unit id="header_layout.I.3" approved="yes">
+				<source>Layout 3</source>
+				<target state="translated">Disposition 3</target>
+			</trans-unit>
+			<trans-unit id="header_layout.I.4" approved="yes">
+				<source>Layout 4</source>
+				<target state="translated">Disposition 4</target>
+			</trans-unit>
+			<trans-unit id="header_layout.I.5" approved="yes">
+				<source>Layout 5</source>
+				<target state="translated">Disposition 5</target>
+			</trans-unit>
+			<trans-unit id="header_layout.I.6" approved="yes">
+				<source>Hidden</source>
+				<target state="translated">Caché</target>
+			</trans-unit>
+			<trans-unit id="header_link" approved="yes">
+				<source>Link:</source>
+				<target state="translated">Lien :</target>
+			</trans-unit>
+			<trans-unit id="header_link_formlabel" approved="yes">
+				<source>Link</source>
+				<target state="translated">Lien:</target>
+			</trans-unit>
+			<trans-unit id="header_position" approved="yes">
+				<source>Align:</source>
+				<target state="translated">Alignement :</target>
+			</trans-unit>
+			<trans-unit id="header_position_formlabel" approved="yes">
+				<source>Alignment</source>
+				<target state="translated">Alignement</target>
+			</trans-unit>
+			<trans-unit id="header_position.I.1" approved="yes">
+				<source>Center</source>
+				<target state="translated">Centrer</target>
+			</trans-unit>
+			<trans-unit id="header_position.I.2" approved="yes">
+				<source>Right</source>
+				<target state="translated">À droite</target>
+			</trans-unit>
+			<trans-unit id="header_position.I.3" approved="yes">
+				<source>Left</source>
+				<target state="translated">Gauche</target>
+			</trans-unit>
+			<trans-unit id="hidden_formlabel" approved="yes">
+				<source>Content Element</source>
+				<target state="translated">Elément de contenu</target>
+			</trans-unit>
+			<trans-unit id="hidden.I.0" approved="yes">
+				<source>Disable</source>
+				<target state="translated">Désactiver</target>
+			</trans-unit>
+			<trans-unit id="image_altText" approved="yes">
+				<source>Alternative Text:</source>
+				<target state="translated">Texte alternatif:</target>
+			</trans-unit>
+			<trans-unit id="image.ALT.textbox_formlabel" approved="yes">
+				<source>Image Files</source>
+				<target state="translated">Fichiers images</target>
+			</trans-unit>
+			<trans-unit id="imageborder" approved="yes">
+				<source>Border:</source>
+				<target state="translated">Bordure :</target>
+			</trans-unit>
+			<trans-unit id="imageborder_formlabel" approved="yes">
+				<source>Border</source>
+				<target state="translated">Bordure</target>
+			</trans-unit>
+			<trans-unit id="imagecaption.ALT.script" approved="yes">
+				<source>Comments:</source>
+				<target state="translated">Commentaires :</target>
+			</trans-unit>
+			<trans-unit id="imagecaption.ALT.script_formlabel" approved="yes">
+				<source>Comments</source>
+				<target state="translated">Commentaires</target>
+			</trans-unit>
+			<trans-unit id="imagecaption.ALT.uploads" approved="yes">
+				<source>Descriptions:</source>
+				<target state="translated">Descriptions :</target>
+			</trans-unit>
+			<trans-unit id="imagecaption.ALT.uploads_formlabel" approved="yes">
+				<source>File Descriptions (one per line)</source>
+				<target state="translated">Descriptions de fichiers (une par ligne)</target>
+			</trans-unit>
+			<trans-unit id="imagecaption_formlabel" approved="yes">
+				<source>Captions (one per line)</source>
+				<target state="translated">Libellés (un par ligne)</target>
+			</trans-unit>
+			<trans-unit id="imagecaption_position" approved="yes">
+				<source>Align:</source>
+				<target state="translated">Alignement :</target>
+			</trans-unit>
+			<trans-unit id="imagecaption_position_formlabel" approved="yes">
+				<source>Caption Alignment</source>
+				<target state="translated">Alignement de la description</target>
+			</trans-unit>
+			<trans-unit id="imagecaption_position.I.1" approved="yes">
+				<source>Center</source>
+				<target state="translated">Centrer</target>
+			</trans-unit>
+			<trans-unit id="imagecaption_position.I.2" approved="yes">
+				<source>Right</source>
+				<target state="translated">Droite</target>
+			</trans-unit>
+			<trans-unit id="imagecaption_position.I.3" approved="yes">
+				<source>Left</source>
+				<target state="translated">Gauche</target>
+			</trans-unit>
+			<trans-unit id="imagecols" approved="yes">
+				<source>Columns:</source>
+				<target state="translated">Colonnes :</target>
+			</trans-unit>
+			<trans-unit id="imagecols_formlabel" approved="yes">
+				<source>Number of Columns</source>
+				<target state="translated">Nombre de colonnes</target>
+			</trans-unit>
+			<trans-unit id="image_compression" approved="yes">
+				<source>Image Quality/Processing:</source>
+				<target state="translated">Qualité / traitement d'image</target>
+			</trans-unit>
+			<trans-unit id="image_compression_formlabel" approved="yes">
+				<source>Quality and Type</source>
+				<target state="translated">Qualité et type</target>
+			</trans-unit>
+			<trans-unit id="image_compression.I.1" approved="yes">
+				<source>None (ignores all other options)</source>
+				<target state="translated">Aucun (ignore toutes les autres options)</target>
+			</trans-unit>
+			<trans-unit id="image_compression.I.15" approved="yes">
+				<source>JPG/Very High</source>
+				<target state="translated">JPG/Très haut</target>
+			</trans-unit>
+			<trans-unit id="image_compression.I.16" approved="yes">
+				<source>JPG/High</source>
+				<target state="translated">JPG/Haut</target>
+			</trans-unit>
+			<trans-unit id="image_compression.I.17" approved="yes">
+				<source>JPG/Medium</source>
+				<target state="translated">JPG/Moyen</target>
+			</trans-unit>
+			<trans-unit id="image_compression.I.18" approved="yes">
+				<source>JPG/Low</source>
+				<target state="translated">JPG/Bas</target>
+			</trans-unit>
+			<trans-unit id="image_compression.I.19" approved="yes">
+				<source>JPG/Very Low</source>
+				<target state="translated">JPG / Très bas</target>
+			</trans-unit>
+			<trans-unit id="image_effects" approved="yes">
+				<source>Effects:</source>
+				<target state="translated">Effets:</target>
+			</trans-unit>
+			<trans-unit id="image_effects_formlabel" approved="yes">
+				<source>Effect</source>
+				<target state="translated">Effet</target>
+			</trans-unit>
+			<trans-unit id="image_effects.I.0" approved="yes">
+				<source>None</source>
+				<target state="translated">Aucun</target>
+			</trans-unit>
+			<trans-unit id="image_effects.I.1" approved="yes">
+				<source>Rotate 90 CW</source>
+				<target state="translated">Rotation de 90° à droite</target>
+			</trans-unit>
+			<trans-unit id="image_effects.I.2" approved="yes">
+				<source>Rotate -90 CCW</source>
+				<target state="translated">Rotation de 90° à gauche</target>
+			</trans-unit>
+			<trans-unit id="image_effects.I.3" approved="yes">
+				<source>Rotate 180</source>
+				<target state="translated">Rotation de 180°</target>
+			</trans-unit>
+			<trans-unit id="image_effects.I.4" approved="yes">
+				<source>Grayscale</source>
+				<target state="translated">Niveaux de gris</target>
+			</trans-unit>
+			<trans-unit id="image_effects.I.5" approved="yes">
+				<source>Sharpen</source>
+				<target state="translated">Augmenter le contraste</target>
+			</trans-unit>
+			<trans-unit id="image_effects.I.6" approved="yes">
+				<source>Normalize</source>
+				<target state="translated">Normaliser</target>
+			</trans-unit>
+			<trans-unit id="image_effects.I.7" approved="yes">
+				<source>Contrast</source>
+				<target state="translated">Contraste</target>
+			</trans-unit>
+			<trans-unit id="image_effects.I.8" approved="yes">
+				<source>Brighter</source>
+				<target state="translated">Plus clair</target>
+			</trans-unit>
+			<trans-unit id="image_effects.I.9" approved="yes">
+				<source>Darker</source>
+				<target state="translated">Plus sombre</target>
+			</trans-unit>
+			<trans-unit id="image_formlabel" approved="yes">
+				<source>Images</source>
+				<target state="translated">Images</target>
+			</trans-unit>
+			<trans-unit id="image_frames" approved="yes">
+				<source>Frames:</source>
+				<target state="translated">Cadres :</target>
+			</trans-unit>
+			<trans-unit id="image_frames_formlabel" approved="yes">
+				<source>Graphical Frames</source>
+				<target state="translated">Cadres graphiques</target>
+			</trans-unit>
+			<trans-unit id="image_frames.I.0" approved="yes">
+				<source>(None)</source>
+				<target state="translated">(aucun)</target>
+			</trans-unit>
+			<trans-unit id="image_frames.I.1" approved="yes">
+				<source>Frame 1</source>
+				<target state="translated">Fenêtre 1</target>
+			</trans-unit>
+			<trans-unit id="image_frames.I.2" approved="yes">
+				<source>Frame 2</source>
+				<target state="translated">Fenêtre 2</target>
+			</trans-unit>
+			<trans-unit id="image_frames.I.3" approved="yes">
+				<source>Frame 3</source>
+				<target state="translated">Fenêtre 3</target>
+			</trans-unit>
+			<trans-unit id="image_frames.I.4" approved="yes">
+				<source>Frame 4</source>
+				<target state="translated">Fenêtre 4</target>
+			</trans-unit>
+			<trans-unit id="image_frames.I.5" approved="yes">
+				<source>Frame 5</source>
+				<target state="translated">Fenêtre 5</target>
+			</trans-unit>
+			<trans-unit id="image_frames.I.6" approved="yes">
+				<source>Frame 6</source>
+				<target state="translated">Fenêtre 6</target>
+			</trans-unit>
+			<trans-unit id="image_frames.I.7" approved="yes">
+				<source>Frame 7</source>
+				<target state="translated">Fenêtre 7</target>
+			</trans-unit>
+			<trans-unit id="image_frames.I.8" approved="yes">
+				<source>Frame 8</source>
+				<target state="translated">Fenêtre 8</target>
+			</trans-unit>
+			<trans-unit id="imageheight" approved="yes">
+				<source>Height (pixels):</source>
+				<target state="translated">Hauteur (pixels) :</target>
+			</trans-unit>
+			<trans-unit id="imageheight_formlabel" approved="yes">
+				<source>Height (px)</source>
+				<target state="translated">Hauteur (px)</target>
+			</trans-unit>
+			<trans-unit id="image_link" approved="yes">
+				<source>Link:</source>
+				<target state="translated">Lien :</target>
+			</trans-unit>
+			<trans-unit id="image_link_formlabel" approved="yes">
+				<source>Links (one per line, one link per image)</source>
+				<target state="translated">Liens (un par ligne, un lien par image)</target>
+			</trans-unit>
+			<trans-unit id="image_longdescURL" approved="yes">
+				<source>Long Description URL:</source>
+				<target state="translated">URL description longue:</target>
+			</trans-unit>
+			<trans-unit id="image_noRows" approved="yes">
+				<source>No Rows:</source>
+				<target state="translated">Aucune ligne :</target>
+			</trans-unit>
+			<trans-unit id="image_noRows_formlabel" approved="yes">
+				<source>Display as Rows</source>
+				<target state="translated">Afficher en ligne</target>
+			</trans-unit>
+			<trans-unit id="image_noRows.I.0" approved="yes">
+				<source>Deactivate</source>
+				<target state="translated">Désactiver</target>
+			</trans-unit>
+			<trans-unit id="imageorient" approved="yes">
+				<source>Position:</source>
+				<target state="translated">Position :</target>
+			</trans-unit>
+			<trans-unit id="imageorient_formlabel" approved="yes">
+				<source>Position and Alignment</source>
+				<target state="translated">Position et alignement</target>
+			</trans-unit>
+			<trans-unit id="imageorient.I.0" approved="yes">
+				<source>Above, center</source>
+				<target state="translated">Au-dessus, centré</target>
+			</trans-unit>
+			<trans-unit id="imageorient.I.1" approved="yes">
+				<source>Above, right</source>
+				<target state="translated">Au-dessus à droite</target>
+			</trans-unit>
+			<trans-unit id="imageorient.I.10" approved="yes">
+				<source>Beside Text, Left</source>
+				<target state="translated">À côté du texte, à gauche</target>
+			</trans-unit>
+			<trans-unit id="imageorient.I.2" approved="yes">
+				<source>Above, left</source>
+				<target state="translated">Au-dessus à gauche</target>
+			</trans-unit>
+			<trans-unit id="imageorient.I.3" approved="yes">
+				<source>Below, center</source>
+				<target state="translated">En dessous, centré</target>
+			</trans-unit>
+			<trans-unit id="imageorient.I.4" approved="yes">
+				<source>Below, right</source>
+				<target state="translated">En dessous à droite</target>
+			</trans-unit>
+			<trans-unit id="imageorient.I.5" approved="yes">
+				<source>Below, left</source>
+				<target state="translated">En dessous à gauche</target>
+			</trans-unit>
+			<trans-unit id="imageorient.I.6" approved="yes">
+				<source>In text, right</source>
+				<target state="translated">Habillé, à droite</target>
+			</trans-unit>
+			<trans-unit id="imageorient.I.7" approved="yes">
+				<source>In text, left</source>
+				<target state="translated">Habillé, à gauche</target>
+			</trans-unit>
+			<trans-unit id="imageorient.I.8" approved="yes">
+				<source>__No wrap:__</source>
+				<target state="translated">__Aucun retour ligne:__</target>
+			</trans-unit>
+			<trans-unit id="imageorient.I.9" approved="yes">
+				<source>Beside Text, Right</source>
+				<target state="translated">À côté du texte, à droite</target>
+			</trans-unit>
+			<trans-unit id="images.addFileReference" approved="yes">
+				<source>Add image</source>
+				<target state="translated">Ajouter une image</target>
+			</trans-unit>
+			<trans-unit id="image_titleText" approved="yes">
+				<source>Title Text:</source>
+				<target state="translated">Titre:</target>
+			</trans-unit>
+			<trans-unit id="imagewidth" approved="yes">
+				<source>Width (pixels):</source>
+				<target state="translated">Largeur (pixels) :</target>
+			</trans-unit>
+			<trans-unit id="imagewidth_formlabel" approved="yes">
+				<source>Width (px)</source>
+				<target state="translated">Largeur (px) :</target>
+			</trans-unit>
+			<trans-unit id="image_zoom" approved="yes">
+				<source>Click-enlarge:</source>
+				<target state="translated">Cliquer pour agrandir:</target>
+			</trans-unit>
+			<trans-unit id="image_zoom_formlabel" approved="yes">
+				<source>Enlarge on Click</source>
+				<target state="translated">Agrandissement au clic</target>
+			</trans-unit>
+			<trans-unit id="layout_formlabel" approved="yes">
+				<source>Layout</source>
+				<target state="translated">Disposition</target>
+			</trans-unit>
+			<trans-unit id="layout.I.1" approved="yes">
+				<source>Layout 1</source>
+				<target state="translated">Disposition 1</target>
+			</trans-unit>
+			<trans-unit id="layout.I.2" approved="yes">
+				<source>Layout 2</source>
+				<target state="translated">Disposition 2</target>
+			</trans-unit>
+			<trans-unit id="layout.I.3" approved="yes">
+				<source>Layout 3</source>
+				<target state="translated">Disposition 3</target>
+			</trans-unit>
+			<trans-unit id="linkToTop" approved="yes">
+				<source>To top:</source>
+				<target state="translated">En haut:</target>
+			</trans-unit>
+			<trans-unit id="linkToTop_formlabel" approved="yes">
+				<source>Append with Link to Top of Page</source>
+				<target state="translated">Ajouter un lien vers le haut de la page</target>
+			</trans-unit>
+			<trans-unit id="list_type" approved="yes">
+				<source>Plugin:</source>
+				<target state="translated">Plugin :</target>
+			</trans-unit>
+			<trans-unit id="list_type_formlabel" approved="yes">
+				<source>Selected Plugin</source>
+				<target state="translated">Plugin sélectionné</target>
+			</trans-unit>
+			<trans-unit id="longdescURL_formlabel" approved="yes">
+				<source>Long Description URLs (one per line)</source>
+				<target state="translated">URL description longue (une par ligne)</target>
+			</trans-unit>
+			<trans-unit id="media" approved="yes">
+				<source>Files</source>
+				<target state="translated">Fichiers</target>
+			</trans-unit>
+			<trans-unit id="media.addFileReference" approved="yes">
+				<source>Add file</source>
+				<target state="translated">Ajouter un fichier</target>
+			</trans-unit>
+			<trans-unit id="media.additionalOptions" approved="yes">
+				<source>Additional Parameters</source>
+				<target state="translated">Paramètres additionnels</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.alternativeContent" approved="yes">
+				<source>Alternative Content</source>
+				<target state="translated">Contenu alternatif</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.ALT.uploads_formlabel" approved="yes">
+				<source>Select single files</source>
+				<target state="translated">Sélection de fichiers</target>
+			</trans-unit>
+			<trans-unit id="media.audioDescription">
+				<source>audio description for videos</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.audioFallbackUrl">
+				<source>Path or URL to fallback audio source (Flash or QuickTime)</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.audioSources" approved="yes">
+				<source>Audio sources for HTML5 &lt;audio&gt; element</source>
+				<target state="translated">Source(s) audio pour l'élément HTML5 &lt;audio&gt;</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.browseUrlTitle" approved="yes">
+				<source>Select File or URL</source>
+				<target state="translated">Sélectionner un fichier ou URL</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.captionUrl" approved="yes">
+				<source>Path or URL to captions file</source>
+				<target state="translated">Chemin ou URL du fichier des sous-titres</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.dataAttributes" approved="yes">
+				<source>Additional data-* Attributes for HTML5 video tag</source>
+				<target state="translated">Attributs data-* supplémentaires pour le marqueur vidéo HTML5</target>
+			</trans-unit>
+			<trans-unit id="media.dataAttributes.attributeName" approved="yes">
+				<source>Name of attribute (without data-)</source>
+				<target state="translated">Nom de l'attribut (sans data-)</target>
+			</trans-unit>
+			<trans-unit id="media.dataAttributes.content" approved="yes">
+				<source>Content</source>
+				<target state="translated">Contenu</target>
+			</trans-unit>
+			<trans-unit id="media.downloadFlash" approved="yes">
+				<source>Click here to download the latest version.</source>
+				<target state="translated">Cliquez ici pour télécharger la dernière version.</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.fallbackUrl">
+				<source>Path or URL to fallback video source (Flash or QuickTime)</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.forcePlayer">
+				<source>Use Player (Flash only)</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.height" approved="yes">
+				<source>Media Height</source>
+				<target state="translated">Hauteur du média</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.needFlashPlugin" approved="yes">
+				<source>You need a Flash plugin to view this content.</source>
+				<target state="translated">Vous avez besoin d'un plugin Flash pour visualiser ce contenu.</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.noFile" approved="yes">
+				<source>ERROR: Missing URL or File!</source>
+				<target state="translated">ERREUR : URL ou fichier manquant !</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.options" approved="yes">
+				<source>Media Options</source>
+				<target state="translated">Options de média</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params">
+				<source>Media Parameter</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.allowFullScreen" approved="yes">
+				<source>Allow Fullscreen</source>
+				<target state="translated">Autoriser l'affichage plein écran</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.allowScriptAccess" approved="yes">
+				<source>Allow ScriptAccess</source>
+				<target state="translated">Autoriser ScriptAccess</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.autoPlay" approved="yes">
+				<source>AutoPlay</source>
+				<target state="translated">Lecture automatique</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.bgColor" approved="yes">
+				<source>Background Color</source>
+				<target state="translated">Couleur de fond</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.controlsAtStart" approved="yes">
+				<source>Make controls visible when page loads</source>
+				<target state="translated">Afficher les contrôleurs lors du chargement de la page</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.controlsBelow">
+				<source>Display controls below video</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.controlsHiding" approved="yes">
+				<source>Hide controls when not over the video</source>
+				<target state="translated">Masquer les contrôles lorsque le curseur de souris n'est pas au-dessus de la vidéo</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.customEntry" approved="yes">
+				<source>Custom Parameters</source>
+				<target state="translated">Paramètres personnalisés</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.customEntryLabel">
+				<source>Enter flashvars, params or attributes</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.defaultVolume" approved="yes">
+				<source>Default volume</source>
+				<target state="translated">Volume par défaut</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.loop" approved="yes">
+				<source>Loop</source>
+				<target state="translated">En boucle</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.off" approved="yes">
+				<source>Off</source>
+				<target state="translated">Off</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.on" approved="yes">
+				<source>On</source>
+				<target state="translated">On</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.option" approved="yes">
+				<source>Option</source>
+				<target state="translated">Option</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.preload" approved="yes">
+				<source>Preload media</source>
+				<target state="translated">Pré-charger le fichier média</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.preview" approved="yes">
+				<source>Preview Video</source>
+				<target state="translated">Aperçu de la vidéo</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.quality" approved="yes">
+				<source>Quality</source>
+				<target state="translated">Qualité</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.setTo" approved="yes">
+				<source>Set to</source>
+				<target state="translated">Définir à</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.value" approved="yes">
+				<source>Value</source>
+				<target state="translated">Valeur</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.params.valueEntry" approved="yes">
+				<source>Value Entry</source>
+				<target state="translated">Entrée de valeur</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.previewImage">
+				<source>Preview-Image for the Video (HTML5 only)</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.renderType" approved="yes">
+				<source>Render Type</source>
+				<target state="translated">Type de lecteur</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.renderType.auto" approved="yes">
+				<source>Auto</source>
+				<target state="translated">Auto</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.renderType.embed">
+				<source>Native HTML Embed Element</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.renderType.preferFlashOverHtml5">
+				<source>Flash with fallback to HTML5 video/audio tag</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.renderType.preferHtml5OverFlash">
+				<source>HTML5 video/audio tag with fallback to Flash</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.renderType.qt" approved="yes">
+				<source>QuickTime Browser Plugin</source>
+				<target state="translated">Plugin de navigateur QuickTime</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.renderType.swf">
+				<source>Flash Browser Plugin</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.sources" approved="yes">
+				<source>Video sources for HTML5 &lt;video&gt; element</source>
+				<target state="translated">Sources vidéo pour l'élément &lt;video&gt; HTML5</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.tabAudio" approved="yes">
+				<source>Audio Element</source>
+				<target state="translated">Élément audio</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.tabVideo" approved="yes">
+				<source>Video Element</source>
+				<target state="translated">Élément vidéo</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.tabVideoAccessible">
+				<source>HTML5 Additions</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.type" approved="yes">
+				<source>Media Type</source>
+				<target state="translated">Type de média</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.type.audio" approved="yes">
+				<source>Audio</source>
+				<target state="translated">Audio</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.type.video" approved="yes">
+				<source>Video</source>
+				<target state="translated">Vidéo</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.url" approved="yes">
+				<source>Path or URL</source>
+				<target state="translated">Chemin ou URL</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.useHTML5">
+				<source>HTML5 / accessible rendering</source>
+				<target/>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="media.width" approved="yes">
+				<source>Media Width</source>
+				<target state="translated">Largeur du média</target>
+				<note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note>
+				<note>This label is deprecated (not used anymore) since TYPO3v7</note>
+			</trans-unit>
+			<trans-unit id="menu.ALT.accessibility_bypass_formlabel" approved="yes">
+				<source>Add link to bypass navigation block</source>
+				<target state="translated">Ajouter un lien pour éviter le bloc de navigation</target>
+			</trans-unit>
+			<trans-unit id="menu.ALT.accessibility_bypass_text_formlabel" approved="no">
+				<source>Link text to bypass navigation block</source>
+				<target state="needs-translation">Ajouter un lien pour éviter le bloc de navigation</target>
+				<alt-trans xml:space="preserve" origin="GuillaumeG">
+					<target>Lien pour éviter le bloc de navigation</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="menu.ALT.accessibility_title_formlabel" approved="yes">
+				<source>Menu block title</source>
+				<target state="translated">Titre du bloc de menu</target>
+			</trans-unit>
+			<trans-unit id="menu_type" approved="yes">
+				<source>Menu Type</source>
+				<target state="translated">Type de menu</target>
+			</trans-unit>
+			<trans-unit id="menu_type_formlabel" approved="yes">
+				<source>Menu Type</source>
+				<target state="translated">Type de menu</target>
+			</trans-unit>
+			<trans-unit id="menu_type.I.0" approved="yes">
+				<source>Menu of selected pages</source>
+				<target state="translated">Menu des pages sélectionnées</target>
+			</trans-unit>
+			<trans-unit id="menu_type.I.1" approved="yes">
+				<source>Menu of subpages of selected pages</source>
+				<target state="translated">Menu des sous-pages sélectionnées</target>
+			</trans-unit>
+			<trans-unit id="menu_type.I.2" approved="yes">
+				<source>Menu of subpages of selected pages including abstracts</source>
+				<target state="translated">Menu des sous-pages sélectionnées avec résumés</target>
+			</trans-unit>
+			<trans-unit id="menu_type.I.3" approved="yes">
+				<source>Menu of subpages of selected pages including sections</source>
+				<target state="translated">Menu des sous-pages sélectionnées avec les sections</target>
+			</trans-unit>
+			<trans-unit id="menu_type.I.4" approved="yes">
+				<source>Sitemap</source>
+				<target state="translated">Plan du site</target>
+			</trans-unit>
+			<trans-unit id="menu_type.I.5" approved="yes">
+				<source>Section index (page content marked for section menus)</source>
+				<target state="translated">Vue d'ensemble de la section (avec navigation)</target>
+			</trans-unit>
+			<trans-unit id="menu_type.I.6" approved="yes">
+				<source>Recently updated pages</source>
+				<target state="translated">Pages récemment mises à jour</target>
+			</trans-unit>
+			<trans-unit id="menu_type.I.7" approved="yes">
+				<source>Related pages (based on keywords)</source>
+				<target state="translated">Pages en relation (selon les mots-clés)</target>
+			</trans-unit>
+			<trans-unit id="menu_type.I.8" approved="yes">
+				<source>Sitemaps of selected pages</source>
+				<target state="translated">Plan du site des pages sélectionnées</target>
+			</trans-unit>
+			<trans-unit id="menu_type.I.categorized_content" approved="yes">
+				<source>Content elements for selected categories</source>
+				<target state="translated">Eléments de contenu pour les catégories sélectionnées</target>
+			</trans-unit>
+			<trans-unit id="menu_type.I.categorized_pages" approved="yes">
+				<source>Pages for selected categories</source>
+				<target state="translated">Pages pour les catégories sélectionnées</target>
+			</trans-unit>
+			<trans-unit id="multimedia" approved="yes">
+				<source>File:</source>
+				<target state="translated">Fichier :</target>
+			</trans-unit>
+			<trans-unit id="multimedia_formlabel" approved="yes">
+				<source>Selected Media File</source>
+				<target state="translated">Fichier média sélectionné</target>
+			</trans-unit>
+			<trans-unit id="pages.ALT.list_formlabel" approved="yes">
+				<source>Record Storage Page</source>
+				<target state="translated">Page de stockage des enregistrements</target>
+			</trans-unit>
+			<trans-unit id="pages.ALT.login" approved="yes">
+				<source>Send to Page:</source>
+				<target state="translated">Aller à la page:</target>
+			</trans-unit>
+			<trans-unit id="pages.ALT.loginform" approved="yes">
+				<source>Selected pages: Target (1st), Frontend user container (2nd)</source>
+				<target state="translated">Pages sélectionnées: cible (1er), dossier des utilisateurs frontend (2ème)</target>
+			</trans-unit>
+			<trans-unit id="pages.ALT.mailform" approved="yes">
+				<source>Target Page</source>
+				<target state="translated">Page cible</target>
+			</trans-unit>
+			<trans-unit id="pages.ALT.menu_formlabel" approved="yes">
+				<source>Selected Pages</source>
+				<target state="translated">Pages sélectionnées</target>
+			</trans-unit>
+			<trans-unit id="pages.ALT.script_formlabel" approved="yes">
+				<source>Starting Point for This Script</source>
+				<target state="translated">Point de départ pour ce script</target>
+			</trans-unit>
+			<trans-unit id="pages.ALT.search" approved="yes">
+				<source>Send to Page:</source>
+				<target state="translated">Aller à la page:</target>
+			</trans-unit>
+			<trans-unit id="pages.ALT.searchform" approved="yes">
+				<source>Target page</source>
+				<target state="translated">Page cible</target>
+			</trans-unit>
+			<trans-unit id="palette.access" approved="yes">
+				<source>Publish Dates and Access Rights</source>
+				<target state="translated">Dates de publication et droits d'accès</target>
+			</trans-unit>
+			<trans-unit id="palette.frames" approved="yes">
+				<source>Content Element Layout</source>
+				<target state="translated">Disposition des éléments de contenus</target>
+			</trans-unit>
+			<trans-unit id="palette.general" approved="yes">
+				<source>Content Element</source>
+				<target state="translated">Elément de contenu</target>
+			</trans-unit>
+			<trans-unit id="palette.header" approved="yes">
+				<source>Header</source>
+				<target state="translated">Titre</target>
+			</trans-unit>
+			<trans-unit id="palette.headers">
+				<source>Headlines</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.image_accessibility" approved="yes">
+				<source>Accessibility</source>
+				<target state="translated">Accessibilité</target>
+			</trans-unit>
+			<trans-unit id="palette.imageblock" approved="yes">
+				<source>Image Alignment</source>
+				<target state="translated">Alignement de l'image</target>
+			</trans-unit>
+			<trans-unit id="palette.imagefiles" approved="yes">
+				<source>Images and Captions</source>
+				<target state="translated">Images et descriptions</target>
+			</trans-unit>
+			<trans-unit id="palette.imagelinks" approved="yes">
+				<source>Behavior</source>
+				<target state="translated">Comportement</target>
+			</trans-unit>
+			<trans-unit id="palette.image_settings">
+				<source>Image Adjustments</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.loginform">
+				<source>Redirect Target and Frontend User Container</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.mailform" approved="yes">
+				<source>Target and Recipient</source>
+				<target state="translated">Cible et destinataire</target>
+			</trans-unit>
+			<trans-unit id="palette.menu" approved="yes">
+				<source>Menu and Sitemap</source>
+				<target state="translated">Menu et plan du site</target>
+			</trans-unit>
+			<trans-unit id="palette.menu_accessibility" approved="yes">
+				<source>Accessibility</source>
+				<target state="translated">Accessibilité</target>
+			</trans-unit>
+			<trans-unit id="palette.multimediafiles">
+				<source>Media Files and Parameters</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.searchform" approved="yes">
+				<source>Search Results</source>
+				<target state="translated">Résultats de la recherche</target>
+			</trans-unit>
+			<trans-unit id="palette.table_layout">
+				<source>Table Layout</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.textbox">
+				<source>Render Text into Images</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.textlayout" approved="yes">
+				<source>Text Layout</source>
+				<target state="translated">Disposition du texte</target>
+			</trans-unit>
+			<trans-unit id="palette.uploads_layout">
+				<source>Filelinks Layout</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="palette.visibility" approved="yes">
+				<source>Visibility</source>
+				<target state="translated">Visibilité</target>
+			</trans-unit>
+			<trans-unit id="pi_flexform" approved="yes">
+				<source>Plugin Options</source>
+				<target state="translated">Options de plugins</target>
+			</trans-unit>
+			<trans-unit id="records" approved="yes">
+				<source>Items:</source>
+				<target state="translated">Éléments :</target>
+			</trans-unit>
+			<trans-unit id="records_formlabel" approved="yes">
+				<source>Records</source>
+				<target state="translated">Enregistrements</target>
+			</trans-unit>
+			<trans-unit id="recursive.I.0" approved="yes">
+				<source>0 levels (only selected page)</source>
+				<target state="translated">Niveau 0 (Seulement la page sélectionnée)</target>
+			</trans-unit>
+			<trans-unit id="recursive.I.1" approved="yes">
+				<source>1 level</source>
+				<target state="translated">1 niveau</target>
+			</trans-unit>
+			<trans-unit id="recursive.I.2" approved="yes">
+				<source>2 levels</source>
+				<target state="translated">2 niveaux</target>
+			</trans-unit>
+			<trans-unit id="recursive.I.3" approved="yes">
+				<source>3 levels</source>
+				<target state="translated">3 niveaux</target>
+			</trans-unit>
+			<trans-unit id="recursive.I.4" approved="yes">
+				<source>4 levels</source>
+				<target state="translated">4 niveaux</target>
+			</trans-unit>
+			<trans-unit id="recursive.I.5" approved="yes">
+				<source>Infinite</source>
+				<target state="translated">Infini</target>
+			</trans-unit>
+			<trans-unit id="rte_enabled" approved="yes">
+				<source>Disable Rich Text Editor:</source>
+				<target state="translated">Désactiver l'éditeur RTE:</target>
+			</trans-unit>
+			<trans-unit id="rte_enabled_formlabel" approved="yes">
+				<source>Rich Text Editor</source>
+				<target state="translated">Editeur RTE</target>
+			</trans-unit>
+			<trans-unit id="rte_enabled.I.0" approved="yes">
+				<source>Disable</source>
+				<target state="translated">Désactiver</target>
+			</trans-unit>
+			<trans-unit id="section_frame" approved="yes">
+				<source>Frame:</source>
+				<target state="translated">Cadre :</target>
+			</trans-unit>
+			<trans-unit id="section_frame_formlabel" approved="yes">
+				<source>Indentation and Frames</source>
+				<target state="translated">Indentation et fenêtres</target>
+			</trans-unit>
+			<trans-unit id="section_frame.I.1" approved="yes">
+				<source>Invisible</source>
+				<target state="translated">Invisible</target>
+			</trans-unit>
+			<trans-unit id="section_frame.I.2" approved="yes">
+				<source>Ruler Before</source>
+				<target state="translated">Séparation avant</target>
+			</trans-unit>
+			<trans-unit id="section_frame.I.3" approved="yes">
+				<source>Ruler After</source>
+				<target state="translated">Séparation après</target>
+			</trans-unit>
+			<trans-unit id="section_frame.I.4" approved="yes">
+				<source>Indent</source>
+				<target state="translated">Retrait</target>
+			</trans-unit>
+			<trans-unit id="section_frame.I.5" approved="yes">
+				<source>Indent, 33/66%</source>
+				<target state="translated">Retrait, 33/66%</target>
+			</trans-unit>
+			<trans-unit id="section_frame.I.6" approved="yes">
+				<source>Indent, 66/33%</source>
+				<target state="translated">Retrait, 66/33%</target>
+			</trans-unit>
+			<trans-unit id="section_frame.I.7" approved="yes">
+				<source>Frame 1</source>
+				<target state="translated">Cadre 1</target>
+			</trans-unit>
+			<trans-unit id="section_frame.I.8" approved="yes">
+				<source>Frame 2</source>
+				<target state="translated">Cadre 2</target>
+			</trans-unit>
+			<trans-unit id="sectionIndex" approved="yes">
+				<source>Index:</source>
+				<target state="translated">Index:</target>
+			</trans-unit>
+			<trans-unit id="sectionIndex_formlabel" approved="yes">
+				<source>Show in Section Menus</source>
+				<target state="translated">Afficher dans le menu</target>
+			</trans-unit>
+			<trans-unit id="selected_categories" approved="yes">
+				<source>Selected categories</source>
+				<target state="translated">Catégories sélectionnées</target>
+			</trans-unit>
+			<trans-unit id="select_key.ALT.script_formlabel" approved="yes">
+				<source>PHP Code</source>
+				<target state="translated">Code PHP</target>
+			</trans-unit>
+			<trans-unit id="select_key.ALT.uploads" approved="yes">
+				<source>Read from Path:</source>
+				<target state="translated">Chemin du fichier :</target>
+			</trans-unit>
+			<trans-unit id="select_key.ALT.uploads_formlabel" approved="yes">
+				<source>Path</source>
+				<target state="translated">Chemin</target>
+			</trans-unit>
+			<trans-unit id="select_key_formlabel" approved="yes">
+				<source>Plugin Mode</source>
+				<target state="translated">Mode du Plugin</target>
+			</trans-unit>
+			<trans-unit id="spaceAfter" approved="yes">
+				<source>After:</source>
+				<target state="translated">Après:</target>
+			</trans-unit>
+			<trans-unit id="spaceAfter_formlabel" approved="yes">
+				<source>Bottom Margin</source>
+				<target state="translated">Marge inférieure</target>
+			</trans-unit>
+			<trans-unit id="spaceBefore" approved="yes">
+				<source>Before:</source>
+				<target state="translated">Avant:</target>
+			</trans-unit>
+			<trans-unit id="spaceBefore_formlabel" approved="yes">
+				<source>Top Margin</source>
+				<target state="translated">Marge supérieure</target>
+			</trans-unit>
+			<trans-unit id="splash_layout" approved="yes">
+				<source>Textbox Type:</source>
+				<target state="translated">Type de zone de texte :</target>
+			</trans-unit>
+			<trans-unit id="splash_layout_formlabel" approved="yes">
+				<source>Type</source>
+				<target state="translated">Type</target>
+			</trans-unit>
+			<trans-unit id="splash_layout.I.1" approved="yes">
+				<source>Image Shadow</source>
+				<target state="translated">Ombre de l'image</target>
+			</trans-unit>
+			<trans-unit id="splash_layout.I.2" approved="yes">
+				<source>Image Frame 1</source>
+				<target state="translated">Cadre d'image 1</target>
+			</trans-unit>
+			<trans-unit id="splash_layout.I.3" approved="yes">
+				<source>Image Frame 2</source>
+				<target state="translated">Cadre d'image 2</target>
+			</trans-unit>
+			<trans-unit id="splash_layout.I.4" approved="yes">
+				<source>__Graphical:__</source>
+				<target state="translated">__Graphisme:__</target>
+			</trans-unit>
+			<trans-unit id="splash_layout.I.5" approved="yes">
+				<source>Postit 1</source>
+				<target state="translated">Post-it 1</target>
+			</trans-unit>
+			<trans-unit id="starttime_formlabel" approved="yes">
+				<source>Publish Date</source>
+				<target state="translated">Date de publication</target>
+			</trans-unit>
+			<trans-unit id="subheader.ALT.mailform" approved="yes">
+				<source>Recipient Email:</source>
+				<target state="translated">Email du destinataire:</target>
+			</trans-unit>
+			<trans-unit id="subheader.ALT.mailform_formlabel" approved="yes">
+				<source>Recipient Email</source>
+				<target state="translated">Email du destinataire</target>
+			</trans-unit>
+			<trans-unit id="subheader_formlabel" approved="yes">
+				<source>Subheader</source>
+				<target state="translated">Sous-titre</target>
+			</trans-unit>
+			<trans-unit id="sys_language_uid_formlabel" approved="yes">
+				<source>Language</source>
+				<target state="translated">Langue</target>
+			</trans-unit>
+			<trans-unit id="table_bgColor" approved="yes">
+				<source>Backgr. Color:</source>
+				<target state="translated">Couleur de fond :</target>
+			</trans-unit>
+			<trans-unit id="table_bgColor_formlabel" approved="yes">
+				<source>Background color</source>
+				<target state="translated">Couleur de fond</target>
+			</trans-unit>
+			<trans-unit id="table_bgColor.I.1" approved="yes">
+				<source>Color 1</source>
+				<target state="translated">Couleur 1</target>
+			</trans-unit>
+			<trans-unit id="table_bgColor.I.2" approved="yes">
+				<source>Color 2</source>
+				<target state="translated">Couleur 2</target>
+			</trans-unit>
+			<trans-unit id="table_bgColor.I.3" approved="yes">
+				<source>None</source>
+				<target state="translated">Aucun</target>
+			</trans-unit>
+			<trans-unit id="table_bgColor.I.5" approved="yes">
+				<source>Black</source>
+				<target state="translated">Noir</target>
+			</trans-unit>
+			<trans-unit id="table_bgColor.I.6" approved="yes">
+				<source>White</source>
+				<target state="translated">Blanc</target>
+			</trans-unit>
+			<trans-unit id="table_bgColor.I.7" approved="yes">
+				<source>Dark Gray</source>
+				<target state="translated">Gris foncé</target>
+			</trans-unit>
+			<trans-unit id="table_bgColor.I.8" approved="yes">
+				<source>Gray</source>
+				<target state="translated">Gris</target>
+			</trans-unit>
+			<trans-unit id="table_bgColor.I.9" approved="yes">
+				<source>Silver</source>
+				<target state="translated">Argent</target>
+			</trans-unit>
+			<trans-unit id="table_border" approved="yes">
+				<source>Border:</source>
+				<target state="translated">Bordure :</target>
+			</trans-unit>
+			<trans-unit id="table_border_formlabel" approved="yes">
+				<source>Border Size (px)</source>
+				<target state="translated">Taille de la bordure (pixels)</target>
+			</trans-unit>
+			<trans-unit id="table_cellpadding" approved="yes">
+				<source>Cellpadding:</source>
+				<target state="translated">Retrait dans les cellules :</target>
+			</trans-unit>
+			<trans-unit id="table_cellpadding_formlabel" approved="yes">
+				<source>Cellpadding (px)</source>
+				<target state="translated">Retrait dans les cellules (px)</target>
+			</trans-unit>
+			<trans-unit id="table_cellspacing" approved="yes">
+				<source>Cellspacing:</source>
+				<target state="translated">Espace entre les cellules :</target>
+			</trans-unit>
+			<trans-unit id="table_cellspacing_formlabel" approved="yes">
+				<source>Cellspacing (px)</source>
+				<target state="translated">Espace entre les cellules (px)</target>
+			</trans-unit>
+			<trans-unit id="tabs.access" approved="yes">
+				<source>Access</source>
+				<target state="translated">Accès</target>
+			</trans-unit>
+			<trans-unit id="tabs.appearance" approved="yes">
+				<source>Appearance</source>
+				<target state="translated">Apparence</target>
+			</trans-unit>
+			<trans-unit id="tabs.behaviour" approved="yes">
+				<source>Behaviour</source>
+				<target state="translated">Comportement</target>
+			</trans-unit>
+			<trans-unit id="tabs.extended" approved="yes">
+				<source>Extended</source>
+				<target state="translated">Étendu</target>
+			</trans-unit>
+			<trans-unit id="tabs.images" approved="yes">
+				<source>Images</source>
+				<target state="translated">Images</target>
+			</trans-unit>
+			<trans-unit id="tabs.media" approved="yes">
+				<source>Media</source>
+				<target state="translated">Média</target>
+			</trans-unit>
+			<trans-unit id="tabs.plugin" approved="yes">
+				<source>Plugin</source>
+				<target state="translated">Plugin</target>
+			</trans-unit>
+			<trans-unit id="tabs.script" approved="yes">
+				<source>Script</source>
+				<target state="translated">Script</target>
+			</trans-unit>
+			<trans-unit id="tabs.text" approved="yes">
+				<source>Text</source>
+				<target state="translated">Texte</target>
+			</trans-unit>
+			<trans-unit id="target" approved="yes">
+				<source>Target:</source>
+				<target state="translated">Cible :</target>
+			</trans-unit>
+			<trans-unit id="target.I.1" approved="yes">
+				<source>New window</source>
+				<target state="translated">Nouvelle fenêtre</target>
+			</trans-unit>
+			<trans-unit id="titleText_formlabel" approved="yes">
+				<source>Titles (one per line)</source>
+				<target state="translated">Titres (un par ligne)</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

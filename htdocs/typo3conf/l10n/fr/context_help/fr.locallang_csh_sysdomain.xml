@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index=".description"/>
+			<label index=".details"/>
+			<label index="domainName.description">Entrez le nom de domaine, ex: "www.mon-domaine.com"</label>
+			<label index="domainName.details"/>
+			<label index="hidden.description">Utilisez cette option pour désactiver temporairement l'enregistrement de domaine.</label>
+			<label index="prepend_params.description"/>
+			<label index="redirectTo.description"/>
+			<label index="redirectTo.details"/>
+			<label index="_.seeAlso"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

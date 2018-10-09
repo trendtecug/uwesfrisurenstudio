@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index=".description"/>
+			<label index=".details"/>
+			<label index="domainName.description"/>
+			<label index="domainName.details"/>
+			<label index="hidden.description"/>
+			<label index="prepend_params.description"/>
+			<label index="redirectTo.description"/>
+			<label index="redirectTo.details"/>
+			<label index="_.seeAlso"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

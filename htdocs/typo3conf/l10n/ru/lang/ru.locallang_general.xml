@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="LGL.address">Адрес:</label>
+			<label index="LGL.allLanguages">[все]</label>
+			<label index="LGL.any_login">Виден при любом входе</label>
+			<label index="LGL.author">Автор:</label>
+			<label index="LGL.baseStorage">Хранилище:</label>
+			<label index="LGL.caption">Подпись:</label>
+			<label index="LGL.category">Категория:</label>
+			<label index="LGL.city">Город:</label>
+			<label index="LGL.code">Код:</label>
+			<label index="LGL.company">Компания:</label>
+			<label index="LGL.country">Страна:</label>
+			<label index="LGL.creationDate">Создано на:</label>
+			<label index="LGL.creationUserId">Создано (кем):</label>
+			<label index="LGL.default_value">Стандартный</label>
+			<label index="LGL.description">Описание:</label>
+			<label index="LGL.disable">Выключить:</label>
+			<label index="LGL.disableRTE">Выключить редактор сложного текста (RTE):</label>
+			<label index="LGL.email">Email:</label>
+			<label index="LGL.endtime">Стоп:</label>
+			<label index="LGL.error">Ошибка!</label>
+			<label index="LGL.external">Внешний адрес</label>
+			<label index="LGL.fax">Факс:</label>
+			<label index="LGL.fe_group">Доступ:</label>
+			<label index="LGL.first_name">Имя:</label>
+			<label index="LGL.folder">Папка:</label>
+			<label index="LGL.hidden">Скрыть:</label>
+			<label index="LGL.hide_at_login">Скрыть после входа в систему</label>
+			<label index="LGL.image">Изображение:</label>
+			<label index="LGL.images">Изображения:</label>
+			<label index="LGL.keywords">Ключевые слова (,):</label>
+			<label index="LGL.l18n_parent">Оригинал перевода:</label>
+			<label index="LGL.language">Язык:</label>
+			<label index="LGL.lastlogin">Последний вход:</label>
+			<label index="LGL.last_name">Фамилия:</label>
+			<label index="LGL.layout">Вид:</label>
+			<label index="LGL.links">Гиперссылки:</label>
+			<label index="LGL.middle_name">Отчество:</label>
+			<label index="LGL.name">Имя:</label>
+			<label index="LGL.normal">Обычный</label>
+			<label index="LGL.note">Примечание:</label>
+			<label index="LGL.parameters">Параметры:</label>
+			<label index="LGL.phone">Телефон:</label>
+			<label index="LGL.prependAtCopy">(копия %s)</label>
+			<label index="LGL.recursive">Рекурсивно:</label>
+			<label index="LGL.shortcut_page">Ссылка на страницу:</label>
+			<label index="LGL.startingpoint">Исходная точка:</label>
+			<label index="LGL.starttime">Старт:</label>
+			<label index="LGL.subheader">Подзаголовок:</label>
+			<label index="LGL.text">Текст:</label>
+			<label index="LGL.timestamp">Изменено последним::</label>
+			<label index="LGL.title">Название:</label>
+			<label index="LGL.title_person">Титул, звание:</label>
+			<label index="LGL.type">Тип:</label>
+			<label index="LGL.usergroups">__Группы пользователей:__</label>
+			<label index="LGL.versionLabel">Метка версии:</label>
+			<label index="LGL.www">Веб-адрес:</label>
+			<label index="LGL.zip">Почтовый индекс:</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

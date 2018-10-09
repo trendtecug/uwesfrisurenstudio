@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T01:30:10Z" product-name="frontend">
+		<header/>
+		<body>
+			<trans-unit id="tt_content.table_caption" approved="yes">
+				<source>Table caption</source>
+				<target state="translated">Légende de la table</target>
+			</trans-unit>
+			<trans-unit id="tt_content.table_delimiter" approved="yes">
+				<source>Field Delimiter</source>
+				<target state="translated">Délimiteur de champ</target>
+			</trans-unit>
+			<trans-unit id="tt_content.table_delimiter.124" approved="yes">
+				<source>| (Pipe)</source>
+				<target state="translated">| (barre verticale)</target>
+			</trans-unit>
+			<trans-unit id="tt_content.table_delimiter.44" approved="yes">
+				<source>, (Comma)</source>
+				<target state="translated">, (virgule)</target>
+			</trans-unit>
+			<trans-unit id="tt_content.table_delimiter.58" approved="yes">
+				<source>: (Colon)</source>
+				<target state="translated">: (deux-points)</target>
+			</trans-unit>
+			<trans-unit id="tt_content.table_delimiter.59" approved="yes">
+				<source>; (Semicolon)</source>
+				<target state="translated">; (point-virgule)</target>
+			</trans-unit>
+			<trans-unit id="tt_content.table_delimiter.9" approved="yes">
+				<source>⇥ (Tab)</source>
+				<target state="translated">⇥ (tabulateur)</target>
+			</trans-unit>
+			<trans-unit id="tt_content.table_enclosure" approved="yes">
+				<source>Text enclosure</source>
+				<target state="translated">Enceinte du texte</target>
+			</trans-unit>
+			<trans-unit id="tt_content.table_enclosure.0" approved="yes">
+				<source>None</source>
+				<target state="translated">Aucun</target>
+			</trans-unit>
+			<trans-unit id="tt_content.table_enclosure.34" approved="yes">
+				<source>" (Double quotes)</source>
+				<target state="translated">" (guillemets)</target>
+			</trans-unit>
+			<trans-unit id="tt_content.table_enclosure.39" approved="yes">
+				<source>' (Single quotes)</source>
+				<target state="translated">' (apostrophe)</target>
+			</trans-unit>
+			<trans-unit id="tt_content.table_header_position" approved="yes">
+				<source>Table header position</source>
+				<target state="translated">Position de l'en-tête de tableau</target>
+			</trans-unit>
+			<trans-unit id="tt_content.table_header_position.0" approved="yes">
+				<source>No header</source>
+				<target state="translated">Aucun en-tête</target>
+			</trans-unit>
+			<trans-unit id="tt_content.table_header_position.1" approved="yes">
+				<source>Top</source>
+				<target state="translated">En haut</target>
+			</trans-unit>
+			<trans-unit id="tt_content.table_header_position.2" approved="yes">
+				<source>Left</source>
+				<target state="translated">À gauche</target>
+			</trans-unit>
+			<trans-unit id="tt_content.table_tfoot" approved="yes">
+				<source>Use table footer (wrap last row with &lt;tfoot&gt; tags)</source>
+				<target state="translated">Utiliser un pied de page (enveloppe la dernière ligne avec un marqueur &lt;tfoot&gt;)</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

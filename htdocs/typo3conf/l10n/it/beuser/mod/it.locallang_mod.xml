@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+      <label index="mlang_labels_tablabel">Gestione degli Utenti Backend</label>
+      <label index="mlang_labels_tabdescr">Questo modulo offre una visione d'insieme degli utenti del backend (gli amministratori): puoi raggrupparli in base ai loro attributi, in modo da analizzare i permessi, filemount, TSconfig, gruppi di appartenenza, etc. Questo modulo è indispensabile per assicurarsi che tutti gli account di amministrazione siano correttamente configurati. &lt;br&gt;&lt;em&gt;Accesso riservato ai soli utenti 'admin'!&lt;/em&gt;</label>
+      <label index="mlang_tabs_tab">Gestione Utenti</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

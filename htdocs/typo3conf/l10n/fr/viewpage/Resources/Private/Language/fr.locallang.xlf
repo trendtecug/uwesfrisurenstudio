@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-29T04:59:18Z" product-name="viewpage">
+		<header/>
+		<body>
+			<trans-unit id="autoSize">
+				<source>Auto Size</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="computer">
+				<source>Computer</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="customWidth">
+				<source>Custom Size</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="mobile">
+				<source>Mobile</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tablet">
+				<source>Tablet</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="width">
+				<source>Width</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

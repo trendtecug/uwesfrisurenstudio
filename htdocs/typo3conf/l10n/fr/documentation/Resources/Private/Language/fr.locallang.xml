@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="documentation.actions">Actions</label>
+			<label index="documentation.actions.download">Télécharger le document</label>
+			<label index="documentation_manager">Gestionnaire de documentation</label>
+			<label index="documentation.shortcut">Clé d'extension</label>
+			<label index="documentation.title">Titre</label>
+			<label index="documentation.type">Type</label>
+			<label index="downloadDocumentation">Télécharger la documentation</label>
+			<label index="downloadFailed">Échec de téléchargement</label>
+			<label index="downloadFailedDetails">La documentation pour "%s" n'a pas pu être téléchargée à cause de l'erreur suivante : %s (%d).</label>
+			<label index="downloadFailedNoArchive">Aucune archive de documentation générée n'a pu être trouvée sur docs.typo3.org.</label>
+			<label index="downloadSucceeded">La documentation générée a été téléchargée avec succès.</label>
+			<label index="searchTemplate.submitButton">Aller</label>
+			<label index="showDocumentation">Afficher la documentation</label>
+			<label index="tx_documentation_domain_model_document">Document</label>
+			<label index="tx_documentation_domain_model_document.extension_key">Clé d'extension</label>
+			<label index="tx_documentation_domain_model_documentformat">Format de document</label>
+			<label index="tx_documentation_domain_model_documentformat.format">Format</label>
+			<label index="tx_documentation_domain_model_documentformat.format.title">Afficher la documentation en %s</label>
+			<label index="tx_documentation_domain_model_documentformat.path">Chemin</label>
+			<label index="tx_documentation_domain_model_document.package_key">Clé du paquet</label>
+			<label index="tx_documentation_domain_model_document.title">Titre</label>
+			<label index="tx_documentation_domain_model_documenttranslation">Traduction de document</label>
+			<label index="tx_documentation_domain_model_documenttranslation.actions">Actions</label>
+			<label index="tx_documentation_domain_model_documenttranslation.description">Description</label>
+			<label index="tx_documentation_domain_model_documenttranslation.language">Langue</label>
+			<label index="tx_documentation_domain_model_document.translations">Traductions</label>
+			<label index="tx_documentation_domain_model_documenttranslation.title">Titre</label>
+			<label index="tx_documentation_domain_model_document.version">Version</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

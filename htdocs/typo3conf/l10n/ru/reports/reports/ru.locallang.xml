@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="status_adminUserAccount">Учетная запись администратора</label>
+			<label index="status_configuration">Настройка</label>
+			<label index="status_configuration_DeprecationLog">Журнал осуждаемых параметров</label>
+			<label index="status_configuration_DeprecationLogDeletedSuccessful">Файл журнала осуждаемых функций был удален.</label>
+			<label index="status_configuration_DeprecationLogDeleteLink">Удалить файл журнала осуждаемых функций.</label>
+			<label index="status_configuration_DeprecationLogDeletionFailed">Файл журнала осуждаемых функций невозможно удалить!</label>
+			<label index="status_configuration_DeprecationLogEnabled">Журнал осуждаемых параметров отслеживает использование устаревших API в расширениях. В зависимости от используемых вами расширений и их кода, в котором используются устаревшие API, сообщения в журнале могут занять немного места. Если же в журнал записывается большое количество сообщений, то это может сказаться на производительности сервера. На работающем сайте рекомендуется отключить журналирование осуждаемых параметров.</label>
+			<label index="status_configuration_DeprecationLogFile">Файл журнала осуждаемых сообщений находиться в %s.</label>
+			<label index="status_configuration_DeprecationLogSize">Файл журнала осуждаемых сообщений на данный момент занимает %s.</label>
+			<label index="status_configuration_PhpMagicQuotesGpcEnabled">Настройка в PHP INI magic_quotes_gpc "On" устарела начиная с PHP 5.3. Хорошо было бы установить ее на "Off" пока она не будет полностью удалена.</label>
+			<label index="status_configuration_PhpSafeModeEnabled">Директива PHP INI safe_mode "On" не рекомендуется к использованию начиная с версии PHP 5.2 и отменена в PHP 5.3, поэтому более не должна применяться.</label>
+			<label index="status_connectionFailed">Невозможно подключиться</label>
+			<label index="status_contentAdapterActive">Активен адаптер содержимого</label>
+			<label index="status_contentAdapterActiveMessage">Включен параметр Install Tool [FE][activateContentAdapter] для обеспечения совместимости с TypoScript из TYPO3 4.x относительно обработки файлов. Это слегка сказывается на производительности внешнего интерфейса. Измените TypoScript для поддержки FAL при обработке файлов и отключите этот параметр для улучшения производительности.</label>
+			<label index="status_CreatedDirectoryPermissions">Разрешения для создаваемых директорий</label>
+			<label index="status_CreatedDirectoryPermissions.writable">Создаваемые TYPO3 директории настроены так, что доступны для записи всеми. В зависимости от настроек текущей системы, это может нести риск безопасности. Лучше настроить права так, чтобы запись файлов "всеми" была запрещена. Это по умолчанию задается маской "2770" для параметра $GLOBALS['TYPO3_CONF_VARS']['BE']['folderCreateMask']. Удобнее для этого воспользоваться Install tool.</label>
+			<label index="status_CreatedFilePermissions">Разрешения для создаваемых файлов</label>
+			<label index="status_CreatedFilePermissions.writable">Создаваемые TYPO3 файлы настроены так, что доступны для записи всеми. В зависимости от настроек текущей системы, это может нести риск безопасности. Лучше настроить права так, чтобы запись файлов "всеми" была запрещена. Это по умолчанию задается маской "0660" для параметра $GLOBALS['TYPO3_CONF_VARS']['BE']['fileCreateMask']. Удобнее для этого воспользоваться Install tool.</label>
+			<label index="status_disabled">Отключено</label>
+			<label index="status_empty">Пусто</label>
+			<label index="status_enabled">Включено</label>
+			<label index="status_enabledPermanently">Постоянно включено</label>
+			<label index="status_enabledTemporarily">Временно включено</label>
+			<label index="status_encryptionKey">Ключ шифрования</label>
+			<label index="status_fal">Слой абстрагирования файлов</label>
+			<label index="status_fileDenyPattern">Шаблон запрещенных файлов</label>
+			<label index="status_htaccessUploadProtection">Защита загрузки .htaccess</label>
+			<label index="status_insecure">Небезопасно</label>
+			<label index="status_installEnabledTemporarily">Инструмент установки временно включен. Удалите файл "%s" по окончании настройки TYPO3. Если инструментом установки не будут пользоваться, то он будет отключен автоматически через %s минут.</label>
+			<label index="status_installTool">Инструментарий установки</label>
+			<label index="status_installToolPassword">Пароль к инструментарию установки</label>
+			<label index="status_memcachedConfiguration">Настройка буферизации памяти</label>
+			<label index="status_missingFiles">Файлы отмечены как отсутствующие</label>
+			<label index="status_missingFilesCount">%1$s файлов</label>
+			<label index="status_missingFilesMessage">Файлы отмечены как отсутствующие. Восстановите файлы и перезапустите индексацию для сброса флага отсутствия.</label>
+			<label index="status_none">Нет</label>
+			<label index="status_ok">ОК</label>
+			<label index="status_oldXclassUsage">Используется устаревший метод XCLASS</label>
+			<label index="status_oldXclassUsageFound">Используется устаревший метод XCLASS в %d случаях:</label>
+			<label index="status_oldXclassUsageFound_message">Устаревший подход регистрации XCLASS не работает с TYPO3 CMS 6.0. Это не значит, что это плохо. Поддержка XCLASS может служить совместимости с более старыми версиями TYPO3 CMS. Пожалуйста, проверьте расширение на совместимость с TYPO3 CMS 6.0.</label>
+			<label index="status_PhpMagicQuotesGpc">PHP magic_quotes_gpc</label>
+			<label index="status_phpMemory">Ограничения памяти PHP</label>
+			<label index="status_phpMemoryContactAdmin">Попросите системного администратора или провайдера хостинга об увеличении доступной для PHP памяти.</label>
+			<label index="status_phpMemoryEditLimit">Увеличьте ограничение к памяти, отредактировав параметр memory_limit в файле %s и перезапустите сервер (или попросите об этом системного администратора или провайдера хостинга).</label>
+			<label index="status_phpMemoryRecommendation">В зависимости от настроек, TYPO3 может работать с ограничением памяти для PHP в %1$s. Но, все же, рекомендуемая память не менее %2$s, особенно, если на сайте используются дополнительные расширения.</label>
+			<label index="status_phpMemoryRequirement">В зависимости от настроек, TYPO3 может работать с ограничением памяти для PHP в %1$s. Но, все же, требуется память не менее %2$s, особенно, если на сайте используются дополнительные расширения.</label>
+			<label index="status_phpMemoryUnlimited">неограничено</label>
+			<label index="status_phpModules">Модули PHP</label>
+			<label index="status_phpModulesGroup">один из: %s</label>
+			<label index="status_phpModulesInfo">Для корректного функционирования TYPO3 необходимо установить указанные модули.</label>
+			<label index="status_phpModulesList">Ошибка в следующих модулях(е) PHP: %s.</label>
+			<label index="status_phpModulesMissing">Один или несколько модулей с ошибкой.</label>
+			<label index="status_phpModulesPresent">Установлены все требуемые модули.</label>
+			<label index="status_phpPeakMemory">Пиковое использование памяти в PHP</label>
+			<label index="status_phpPeakMemoryClearFlag">Сбросить флаг</label>
+			<label index="status_phpPeakMemoryTooHigh">При запросе было использовано %2$s от ограничения памяти. В %4$s запрос к %5$s использовал %1$s из %3$s.</label>
+			<label index="status_phpRegisterGlobals">Глобальные переменные регистра PHP (PHP Register Globals)</label>
+			<label index="status_phpRegisterGlobalsEnabled">Включено %s. Для TYPO3 требуется отключить эти указания в настройке.</label>
+			<label index="status_phpRegisterGlobalsHowToChange">как изменить настройки</label>
+			<label index="status_phpRegisterGlobalsPHPManual">В руководстве по PHP имеются инструкции для %s.</label>
+			<label index="status_phpRegisterGlobalsSecurity">При включении %s, безопасность сайта может быть под угрозой.</label>
+			<label index="status_PhpSafeMode">PHP safe_mode</label>
+			<label index="status_phpTooOld">Установленная версия PHP слишком старая</label>
+			<label index="status_phpVersion">Версия PHP</label>
+			<label index="status_problemNotification">В текущей установке TYPO3 была(и) обнаружена(ы) проблема(ы). За информацией обратитесь к %sотчету по состоянию%s.</label>
+			<label index="status_referenceIndex">Индекс ссылок</label>
+			<label index="status_report_description">Получение отчета о состоянии сайта и любых обнаруженных проблемах.</label>
+			<label index="status_report_explanation">Здесь можно посмотреть краткий обзор параметров своего сайта, а также любых проблем обнаруженных в данной установке. Может быть полезно для копирования и вставки этой информации в запросы к поддержке TYPO3.</label>
+			<label index="status_report_title">Отчет о состоянии</label>
+			<label index="status_saltedPasswords">Хеши пароля внутреннего пользователя</label>
+			<label index="status_saltedPasswords_infoText">При проверке настройки saltedpasswords были найдены следующие проблемы:</label>
+			<label index="status_saltedPasswords_notAllPasswordsHashed">Пароли некоторых внутренних пользователей хешированы с использованием только лишь md5. Запустите в планировщике задачу преобразования всех паролей с использованием salted хеширования.</label>
+			<label index="status_security">Безопасность</label>
+			<label index="status_system">Система</label>
+			<label index="status_typo3">Система TYPO3</label>
+			<label index="status_updateComplete">Обновление завершено</label>
+			<label index="status_updateIncomplete">Обновление не закончено</label>
+			<label index="status_updateTaskDescription">Запуск проверки состояния системы и отправка уведомлений о найденных проблемах.</label>
+			<label index="status_updateTask_email_issues">Замечания</label>
+			<label index="status_updateTask_email_site">Сайт</label>
+			<label index="status_updateTask_email_subject">Система уведомлений о состоянии для сайта %s</label>
+			<label index="status_updateTaskField_notificationEmail">Адрес e-mail уведомления</label>
+			<label index="status_updateTaskField_notificationEmail_invalid">Пустой или неверный адрес e-mail уведомления.</label>
+			<label index="status_updateTaskField_notificationEmails">E-mail для уведомлений (один на строчку)</label>
+			<label index="status_updateTaskField_notificationEmails_invalid">Пустой или неверный адрес e-mail уведомления.</label>
+			<label index="status_updateTaskTitle">Обновление статуса системы</label>
+			<label index="status_webServer">Веб сервер</label>
+			<label index="status_webServer_infoText">Имеется несколько замечаний относительно настроек текущего сервера:</label>
+			<label index="status_webServer_threadStackSize">Fluid использует сложные регулярные выражения, требующие большого пространства стека при первоначальной обработке.
+В ОС Windows по умолчанию размер стека для Apache значительно меньше, чем в Unix.
+Можно увеличить этот размер до 8 МБайт (как принято по умолчанию в unix), добавив в конец файла настроек httpd.conf следующие строки:
+&lt;br /&gt;&amp;lt;IfModule mpm_winnt_module&amp;gt;
+&lt;br /&gt;ThreadStackSize 8388608
+&lt;br /&gt;&amp;lt;/IfModule&amp;gt;
+&lt;br /&gt;После чего необходимо перезапустить Apache.</label>
+			<label index="status_xclassUsage">Используется XCLASS</label>
+			<label index="status_xclassUsageFound">Ваша система регистрирует XCLASS</label>
+			<label index="status_xclassUsageFound_message">XCLASS может переназначить методы или классы ядра или других расширений. Это необходимость, с которой приходится мириться, при этом XCLASS может прекратить работать после обновления расширения или ядра. Необходимо помнить о совместимых расширениях и убеждаться в функциональности сайта после обновлений.</label>
+			<label index="status_xclassUsageFound_message_detail">%2s регистрирует XCLASS для %1s</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T00:59:38Z" product-name="documentation">
+		<header/>
+		<body>
+			<trans-unit id="documentation.actions" approved="yes">
+				<source>Actions</source>
+				<target state="translated">Actions</target>
+			</trans-unit>
+			<trans-unit id="documentation.actions.download" approved="yes">
+				<source>Download document</source>
+				<target state="translated">Télécharger le document</target>
+			</trans-unit>
+			<trans-unit id="documentation_manager" approved="yes">
+				<source>Documentation Manager</source>
+				<target state="translated">Gestionnaire de documentation</target>
+			</trans-unit>
+			<trans-unit id="documentation.shortcut" approved="yes">
+				<source>Extension key</source>
+				<target state="translated">Clé d'extension</target>
+			</trans-unit>
+			<trans-unit id="documentation.title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Titre</target>
+			</trans-unit>
+			<trans-unit id="documentation.type" approved="yes">
+				<source>Type</source>
+				<target state="translated">Type</target>
+			</trans-unit>
+			<trans-unit id="downloadDocumentation" approved="yes">
+				<source>Download Documentation</source>
+				<target state="translated">Télécharger la documentation</target>
+			</trans-unit>
+			<trans-unit id="downloadFailed" approved="yes">
+				<source>Download failed</source>
+				<target state="translated">Échec de téléchargement</target>
+			</trans-unit>
+			<trans-unit id="downloadFailedDetails" approved="yes">
+				<source>The documentation for "%s" could not be downloaded, because of the following error: %s (%d).</source>
+				<target state="translated">La documentation pour "%s" n'a pas pu être téléchargée à cause de l'erreur suivante : %s (%d).</target>
+			</trans-unit>
+			<trans-unit id="downloadFailedNoArchive" approved="yes">
+				<source>No rendered documentation archive could be found on docs.typo3.org.</source>
+				<target state="translated">Aucune archive de documentation générée n'a pu être trouvée sur docs.typo3.org.</target>
+			</trans-unit>
+			<trans-unit id="downloadSucceeded" approved="yes">
+				<source>The rendered documentation was downloaded successfully.</source>
+				<target state="translated">La documentation générée a été téléchargée avec succès.</target>
+			</trans-unit>
+			<trans-unit id="searchTemplate.submitButton" approved="yes">
+				<source>Go</source>
+				<target state="translated">Aller</target>
+			</trans-unit>
+			<trans-unit id="showDocumentation" approved="yes">
+				<source>Show Documentation</source>
+				<target state="translated">Afficher la documentation</target>
+			</trans-unit>
+			<trans-unit id="tx_documentation_domain_model_document" approved="yes">
+				<source>Document</source>
+				<target state="translated">Document</target>
+			</trans-unit>
+			<trans-unit id="tx_documentation_domain_model_document.extension_key" approved="yes">
+				<source>Extension Key</source>
+				<target state="translated">Clé d'extension</target>
+			</trans-unit>
+			<trans-unit id="tx_documentation_domain_model_documentformat" approved="yes">
+				<source>Document Format</source>
+				<target state="translated">Format de document</target>
+			</trans-unit>
+			<trans-unit id="tx_documentation_domain_model_documentformat.format" approved="yes">
+				<source>Format</source>
+				<target state="translated">Format</target>
+			</trans-unit>
+			<trans-unit id="tx_documentation_domain_model_documentformat.format.title" approved="yes">
+				<source>Show documentation as %s</source>
+				<target state="translated">Afficher la documentation en %s</target>
+			</trans-unit>
+			<trans-unit id="tx_documentation_domain_model_documentformat.path" approved="yes">
+				<source>Path</source>
+				<target state="translated">Chemin</target>
+			</trans-unit>
+			<trans-unit id="tx_documentation_domain_model_document.package_key" approved="yes">
+				<source>Package Key</source>
+				<target state="translated">Clé du paquet</target>
+			</trans-unit>
+			<trans-unit id="tx_documentation_domain_model_document.title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Titre</target>
+			</trans-unit>
+			<trans-unit id="tx_documentation_domain_model_documenttranslation" approved="yes">
+				<source>Document Translation</source>
+				<target state="translated">Traduction de document</target>
+			</trans-unit>
+			<trans-unit id="tx_documentation_domain_model_documenttranslation.actions" approved="yes">
+				<source>Actions</source>
+				<target state="translated">Actions</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="tx_documentation_domain_model_documenttranslation.description" approved="yes">
+				<source>Description</source>
+				<target state="translated">Description</target>
+			</trans-unit>
+			<trans-unit id="tx_documentation_domain_model_documenttranslation.language" approved="yes">
+				<source>Language</source>
+				<target state="translated">Langue</target>
+			</trans-unit>
+			<trans-unit id="tx_documentation_domain_model_document.translations" approved="yes">
+				<source>Translations</source>
+				<target state="translated">Traductions</target>
+			</trans-unit>
+			<trans-unit id="tx_documentation_domain_model_documenttranslation.title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Titre</target>
+			</trans-unit>
+			<trans-unit id="tx_documentation_domain_model_document.version" approved="yes">
+				<source>Version</source>
+				<target state="translated">Version</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

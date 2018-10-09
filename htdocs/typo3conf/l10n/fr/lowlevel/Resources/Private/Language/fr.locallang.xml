@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="configuration">Configuration</label>
+      <label index="typo3ConfVars">$GLOBALS['TYPO3_CONF_VARS'] (Configuration globale)</label>
+      <label index="tca">$GLOBALS['TCA'] (Array pour la configuration de la table)</label>
+      <label index="tcaDescr">$GLOBALS['TCA_DESCR'] (Description pour la table d'aide)</label>
+      <label index="loadedExt">$GLOBALS['TYPO3_LOADED_EXT'] (Extensions chargées)</label>
+      <label index="tbeStyles"/>
+      <label index="beUser">GLOBALS['BE_USER']-&gt;uc (Préférences utilisateurs)</label>
+      <label index="usersettings">$GLOBALS['TYPO3_USER_SETTINGS'] (Configuration des préférences utilisateurs)</label>
+      <label index="t3services">$GLOBALS['T3_SERVICES'] (Services enregistrés)</label>
+      <label index="tbemodulesext"/>
+      <label index="tbemodules"/>
+      <label index="cropLines">Rogner les lignes</label>
+      <label index="variable">Variable :</label>
+      <label index="copyPaste">(Maintenant, copier / coller cette valeur dans le fichier de configuration où vous pouvez le régler. C'est tout ce que vous pouvez faire à partir d'ici ...)</label>
+      <label index="enterSearchPhrase">Saisissez vos termes de recherche:</label>
+      <label index="search">Recherche</label>
+      <label index="useRegExp">Utiliser une expression régulière</label>
+      <label index="writeValue">Ecriture du fichier de configuration</label>
+      <label index="writeMessage">La ligne suivante a été ajoutée dans le fichier de configuration (%s): %s%s</label>
+      <label index="writeMessageFailed">Impossible d'écrire dans le fichier de configuration (%s)!</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

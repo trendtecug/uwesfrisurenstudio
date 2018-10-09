@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="environment.status.message.error"/>
+			<label index="environment.status.message.info"/>
+			<label index="environment.status.message.notice"/>
+			<label index="environment.status.message.ok"/>
+			<label index="environment.status.message.warning"/>
+			<label index="environment.status.title"/>
+			<label index="environment.status.value"/>
+			<label index="status_directoryDoesNotExist"/>
+			<label index="status_directoryDoesNotExistCouldNotCreate"/>
+			<label index="status_directoryMustBeWritable"/>
+			<label index="status_directoryShouldAlsoBeWritable"/>
+			<label index="status_directoryShouldBeWritable"/>
+			<label index="status_fileSystem"/>
+			<label index="status_missingDirectory"/>
+			<label index="status_nonExistingDirectory"/>
+			<label index="status_recommendedWritableDirectory"/>
+			<label index="status_remainingUpdates"/>
+			<label index="status_requiredWritableDirectory"/>
+			<label index="status_writable"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

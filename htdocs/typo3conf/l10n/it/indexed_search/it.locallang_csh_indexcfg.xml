@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="alternative_source_pid.description">Per impostazione predefinita, l'indicizzatore selezionerà i record della pagina in cui è memorizzata la configurazione di indicizzazione. Se si desidera una pagina alternativa come fonte dei record, può essere inserita qui.</label>
+			<label index="_alternative_source_pid.seeAlso">index_config:table2index</label>
+			<label index="chashcalc.description">Se selezionato, l'URL nei risultati della ricerca sarà encodato con il parametro "&amp;cHash" per poterlo metter in cache. Utilizzatelo solo se supportato dal plugin!</label>
+			<label index="_chashcalc.seeAlso">index_config:table2index</label>
+			<label index="depth.description">Livelli di ricorsione.</label>
+			<label index="depth.details">Per indicizzazare i file questo è il livello di directory a scendere. Per gli URL esterni è la profondità a cui il crawler andrà con i collegamenti.</label>
+			<label index="_depth.seeAlso">index_config:externalUrl,
+index_config:filepath</label>
+			<label index=".description">La configurazione della ricerca indicizzata consente di impostare l'indicizzazione delle risorse che sono esterne alla struttura delle pagine TYPO3. Questo potrebbe essere una libreria di documenti (come la news), una struttura di directory di file (come PDF) o un URL esterno con indicizzazione di una certa profondità - o contenuti di terze parti forniti da altre estensioni tramite hooks.</label>
+			<label index="description.description">Se necessario, inserire una descrizione o note importanti in questo campo.</label>
+			<label index=".details">I record di indicizzazione di configurazione vengono utilizzati per impostare come avviene l'indicizzazione, relativi a che periodo e a quale parte dell'albero delle pagine. Un requisito importante da tenere a mente è che l'estensione "crawler" deve essere installata in quanto il motore di indicizzazione utilizza la coda di "crawler" in modo temporizzato - e utilizzare l'estensione "crawler" significa utilizzare un cron-job per attivarla da shell.</label>
+			<label index="extensions.description">Se si desidera indicizzare solo file specifici nella directory, inserire un elenco di estensioni di file qui. Per esempio: "html, pdf, doc"</label>
+			<label index="_extensions.seeAlso">index_config:filepath</label>
+			<label index="externalUrl.description">Inserire l'URL del sito esterno da indicizzare.</label>
+			<label index="fieldlist.description">Inserire un elenco separato da virgole di campi da indicizzare. Il nome del primo campo sarà usato come titolo per il risultato della ricerca.</label>
+			<label index="fieldlist.details">&lt;b&gt;Esempio:&lt;/b&gt; "header,bodytext,image_caption" indicizzeranno l'Header, il Bodytext e i campi Image Caption provenienti da "tt_content". Attenzione ad usare i nomi dei campi del database correttamente!</label>
+			<label index="_fieldlist.seeAlso">index_config:table2index</label>
+			<label index="filepath.description">Inserisci un percorso dentro fileadmin/ dove vuoi che i file siano indicizzati.</label>
+			<label index="filepath.details">Esempio: "fileadmin/newsletters/"</label>
+			<label index="get_params.description">Inserire i parametri in GET necessari per visualizzare i risultati della ricerca. Si può usare ###UID### come un marker nei template con il parametro relativo.</label>
+			<label index="get_params.details">avvertenza: i parametri GET sono aggiunti all'URL della pagina dove è memorizzato la configurazione di indicizzazione (che deve essere la pagina dove esiste un plugin che può mostrare i record con il parametro specificato!).
+Esempio: "&amp;showUid=###UID###"</label>
+			<label index="_get_params.seeAlso">index_config:table2index</label>
+			<label index="hidden.description">Disabilitare la configurazione tramite questo checkbox. Se disabilitata, la configurazione verrà ignorata dal cron job del crawler.</label>
+			<label index="hidden.details">Attenzione, disabilitare il processo di indicizzazione non nasconderà i contenuti indicizzati dai risultati!</label>
+			<label index="_hidden.seeAlso">index_config:starttime</label>
+			<label index="indexcfgs.description">Quando una ricerca viene condotta in questa configurazione di indicizzazione, la ricerca attuale si svolgerà nel contenuto indicizzato da configurazioni elencate qui. È inoltre possibile inserire le pagine e se lo fate la ricerca avrà luogo in base alle configurazioni di indicizzazione trovate su queste pagine.</label>
+			<label index="recordsbatch.description">Inserite quanti record indicizzare per ogin processo di indicizzazione (quanti per quanti minuti). Il default è 100 record.</label>
+			<label index="_recordsbatch.seeAlso">index_config:table2index</label>
+			<label index="records_indexonchange.description">Se impostato, record nuovi e modificati da questa tabella verranno indicizzati tramite un hook nel core (TCEmain), il che significa che essi saranno ricercabili subito dopo l'aggiunta al sistema.</label>
+			<label index="_records_indexonchange.seeAlso">index_config:table2index</label>
+			<label index="starttime.description">Impostare un orario di inizio per la configurazione. Se impostato, la configurazione verrà ignorata dal cron job del crawler finchè l'orario non sarà raggiunto.</label>
+			<label index="_starttime.seeAlso">index_config:hidden</label>
+			<label index="table2index.description">Specificare la tabella del database di cui indicizzare i contenuti.</label>
+			<label index="timer_frequency.description">Utilizzare questa impostazione per determinare la frequenza del processo di reindicizzazione per la configurazione.</label>
+			<label index="_timer_frequency.seeAlso">index_config:timer_next_indexing,
+index_config:timer_offset</label>
+			<label index="timer_next_indexing.description">Questo campo contiene la data e l'ora della prossima sessione di indicizzazione. Se vuoto l'indicizzazione successiva avverrà non appena il cron-script viene eseguito di nuovo (in genere entro il minuto successivo) e poi impostato la volta successiva in base alla frequenza e offset.</label>
+			<label index="_timer_next_indexing.seeAlso">index_config:timer_offset,
+index_config:timer_frequency</label>
+			<label index="timer_offset.description">L'offset corregge l'orario in cui si vuole che il processo di indicizzazione venga eseguito.</label>
+			<label index="_timer_offset.seeAlso">index_config:timer_frequency</label>
+			<label index="title.description">Inserire un titolo per la configurazione.</label>
+			<label index="type.description">Selezionare il tipo di configurazione di indicizzazione.</label>
+			<label index="type.details">&lt;b&gt;Records&lt;/ b&gt; - Sarete in grado di indicizzare i record in una pagina specificata da una tabella di database specificato. È possibile determinare quali campi da quel record che si desidera indicizzare e come ulteriori parametri GET dovrebbe essere simile a quando si collega al risultato della ricerca. 
+&lt;b&gt;File&lt;/ b&gt; - Permette di indicizzare una intera directory di file dalla fileadmin / cartella. Facoltativamente, è possibile specificare il numero di livelli di ricorsione che si desidera. 
+&lt;b&gt;URL esterno&lt;/ b&gt; - Permette di indicizzare un sito esterno e cercatela dalla vostra installazione di TYPO3! È possibile specificare la profondità del crawler dovrebbe andare su quella URL esterno. 
+&lt;b&gt;Albero delle pagine&lt;/ b&gt; - Permette di indicizzare la pagina albero usando lo script cron. Questo tipo non sarà utile come categoria per la ricerca come gli altri tipi. 
+&lt;b&gt;Meta configurazione&lt;/ b&gt; - segnala un insieme di altre configurazioni di indicizzazione con  in cui la ricerca sarà eseguita. Non può essere usato per l'indicizzazione cron-job based. 
+&lt;b&gt;Personalizzato&lt;/ b&gt; - Altre estensioni potrebbero registrare i tipi di configurazioni personalizzate.</label>
+			<label index="url_deny.description">Inserisci un URL su ciascuna riga all'interno del quale il crawler non dovrebbe entrare.</label>
+			<label index="url_deny.details">Esempio:
+Se vuoi indicizzare "http://typo3.org/" ma non "http://typo3.org/extensions/" e "http://typo3.org/downloads/" inserisci questi due URLs nel campo in questo modo:
+
+http://typo3.org/downloads/
+http://typo3.org/extensions/</label>
+			<label index="_url_deny.seeAlso">index_config:externalUrl</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

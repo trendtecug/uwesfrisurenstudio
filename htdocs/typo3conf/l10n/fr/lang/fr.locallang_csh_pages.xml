@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index=".description">Une enregistrement 'Page' représente normalement une page sur votre site web. Toutes les pages ont un ID qui leur permet d'être référencées et d'en faire des liens. Une 'Page' ne contient pas directement le contenu (texte, image, ...). Pour cela vous devez créer des enregistrements que nous appelleront 'Contenu de page'.</label>
+			<label index=".details"/>
+			<label index="doktype.description">Choisissez le type de page. Cette option va définir si votre page est un simple page visible sur votre site ou si elle va avoir une autre utilisation.</label>
+			<label index="doktype.details">le type 'Standard' représente une page normal de votre site. 'SysFolder' réprente une page qui n'apparaitra pas sur votre site mais qui servira à stocker les enregistrements de votre choix. 'Recycler' vous servira de corbeille. &lt;strong&gt;Attention:&lt;/strong&gt; Normalement, chaque page à une icône spécifique. De plus certains types ne sont pas disponible pour tous les utilisateurs. Et finalement certains types de page vont automatiquement limiter le contenu qu'elle supportent. &lt;strong&gt;$PAGES_TYPES [Technical]&lt;/strong&gt; The restrictions that apply to each page type is defined in the global array $PAGES_TYPES. Here it is defined which tables are allowed on a page. When extensions adds tables to TYPO3 they may need to register their tables in $PAGES_TYPES so they can be created on standard pages.</label>
+			<label index="_doktype.image"/>
+			<label index="doktype.image_descr"/>
+			<label index="_doktype.seeAlso"/>
+			<label index="editlock.description"/>
+			<label index="fe_login_mode.description"/>
+			<label index="fe_login_mode.details"/>
+			<label index="_.image"/>
+			<label index=".image_descr"/>
+			<label index="php_tree_stop.description">Arrête le rendu backend de l'arborescence des pages dans la navigation et dans les listes.</label>
+			<label index="php_tree_stop.details">Si vous choisissez cette option alors l'arborescence du cadre de navigation sera arrêtée à cette branche. A la place vous verrez un "+" rouge qui indique que l'arborescence est stoppée ici à cause de cette option. L'intérêt de cette options est d'empêcher de descendre dans une branche qui peux présenter un nombre anormal de sous-pages (des centaines par exemples). Vous pouvez cliquer sur le "+" rouge et la page deviendra un point de montage temporaire dans le cadre de navigation.</label>
+			<label index="_php_tree_stop.image"/>
+			<label index="php_tree_stop.image_descr"/>
+			<label index="_php_tree_stop.seeAlso"/>
+			<label index="_.seeAlso"/>
+			<label index="storage_pid.description">Un dossier général de stockage est une page globale pour stocker les éléments généraux du site. Cela peut être les gabarit, membres etc. Ceux-ci ne se réfère pas à une page unique mais plutôt à l'ensemble du site.</label>
+			<label index="storage_pid.details"/>
+			<label index="_storage_pid.seeAlso"/>
+			<label index="title.description">Entrez le titre de la page ou du dossier. Vous devez nommer la page, ce champs est obligatoire.</label>
+			<label index="title.details"/>
+			<label index="_title.image"/>
+			<label index="title.image_descr"/>
+			<label index="TSconfig.description">Configuration TypoScript de la page.</label>
+			<label index="TSconfig.details"/>
+			<label index="_TSconfig.image"/>
+			<label index="TSconfig.image_descr"/>
+			<label index="_TSconfig.seeAlso"/>
+			<label index="TSconfig.syntax"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

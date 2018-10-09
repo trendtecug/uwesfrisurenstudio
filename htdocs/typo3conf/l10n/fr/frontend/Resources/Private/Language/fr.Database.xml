@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="tt_content.table_caption">Légende de la table</label>
+			<label index="tt_content.table_delimiter">Délimiteur de champ</label>
+			<label index="tt_content.table_delimiter.124">| (barre verticale)</label>
+			<label index="tt_content.table_delimiter.44">, (virgule)</label>
+			<label index="tt_content.table_delimiter.58">: (deux-points)</label>
+			<label index="tt_content.table_delimiter.59">; (point-virgule)</label>
+			<label index="tt_content.table_delimiter.9">⇥ (tabulateur)</label>
+			<label index="tt_content.table_enclosure">Enceinte du texte</label>
+			<label index="tt_content.table_enclosure.0">Aucun</label>
+			<label index="tt_content.table_enclosure.34">" (guillemets)</label>
+			<label index="tt_content.table_enclosure.39">' (apostrophe)</label>
+			<label index="tt_content.table_header_position">Position de l'en-tête de tableau</label>
+			<label index="tt_content.table_header_position.0">Aucun en-tête</label>
+			<label index="tt_content.table_header_position.1">En haut</label>
+			<label index="tt_content.table_header_position.2">À gauche</label>
+			<label index="tt_content.table_tfoot">Utiliser un pied de page (enveloppe la dernière ligne avec un marqueur &lt;tfoot&gt;)</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

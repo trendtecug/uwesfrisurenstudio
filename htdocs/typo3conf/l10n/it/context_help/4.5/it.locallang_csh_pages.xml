@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="abstract.description">Inserire un abstract dei contenuti. Potrà essere visualizzato in una anteprima degli articoli.</label>
+			<label index="abstract.details"/>
+			<label index="_abstract.seeAlso">pages:description</label>
+			<label index="alias.description">Un URL Alias è un identificatore univoco per la pagina. Puoi usare questa stringa invece dell'ID per far riferimento alla pagina.</label>
+			<label index="alias.details">Una pagina è identificata dal suo ID. Per esempio puoi accedere ad una pagina in TYPO3 con '../?id=123'. Se la pagina con ID '123' ha come URL Alias  'uno_due_tre' allora l'URL '.../?id=uno_due_tre' visualizzerà esattamente la stessa pagina, perchè 'uno_due_tre' è un URL Alias per l'ID '123'.
+Gli URL Alias sono normalmente assegnati alle pagine più frequentate piuttosto che a tutte le pagine. Nella maggior parte delle configurazioni TYPO3 potrete usare la sintassi '.. &amp;lt;link uno_due_tre&amp;gt;vai alla pagina&amp;lt;/link&amp;gt; ..' per creare un link alla pagina. Questo è più facile da ricordare.
+Un altro uso è se devi cambiare il link della pagina a cui solitamente punta. In questo caso puoi cancellare l'URL Alias della pagina originale e riaggiungerlo alla nuova pagina. Tutti i link che stanno usando l'URL Alias da adesso faranno riferimento alla nuova pagina e al suo ID.</label>
+			<label index="alias.syntax">Un URL Alias può contenere caratteri minuscoli alfanumerici e deve essere unico.
+Notare: Se l'URL Alias esiste già nel sito, avrà un numero aggiunto alla fine di esso.</label>
+			<label index="author.description">Inserisci il nome dell'autore della pagina</label>
+			<label index="author.details">Se viene usato il nome dell'autore o non dipende da opzioni di configurazione passate dal template di Typoscript.
+
+- puoi usarlo nei meta-tage.
+- se stai utilizzando pagine di TYPO3 come 'articoli' allora puoi usare questo campo per visualizzare il nome dell'autore della pagina-articolo.</label>
+			<label index="author_email.description">Inserisci l'indirizzo e-mail dell'autore della pagina.</label>
+			<label index="_author_email.seeAlso">pages:author</label>
+			<label index="_author.seeAlso">pages:author_email</label>
+			<label index="cache_timeout.description">Definisce la durata della pagina da conservare in Cache.</label>
+			<label index="cache_timeout.details">Per default le pagine durano in cache per 24 ore. Dopo 24 ore la pagina viene rigenerata e scritta nuovamente in cache. Dipende dalla configurazione del tuo sito; la cache può essere cancellata a mezzanotte.
+Puoi usare questa opzione per  pagine specifiche che necessitano di una permanenza in cache superiore al tempo di &lt;i&gt;default&lt;/i&gt;.</label>
+			<label index="_cache_timeout.seeAlso">pages:no_cache</label>
+			<label index="content_from_pid.description"/>
+			<label index="description.description">Inserire una breve descrizione della pagina. Sarò visualizzata tra i risultati della ricerca elencate in vari motori.</label>
+			<label index="description.details"/>
+			<label index="_description.seeAlso">pages:keywords
+pages:abstract</label>
+			<label index="doktype.description">Il Page Type determina se la pagina è una normale pagina web, un collegamento ad una pagina web esterna o un collegamento ad una pagina interna.</label>
+			<label index="doktype.details">'Standard' indica un tipo comune di pagina ed è usato per le pagine web normali.
+'Backend User Section' (Sezione Utente di Backend) è una opzine che crea pagine che saranno visibili nel Frontend destinate agli utenti di Backand che hanno fatto login.
+
+&lt;b&gt;Link&lt;/b&gt;
+Pagine di tipo 'Shortcut' sevono come scorciatoia o segnaposto per saltare a un'altra pagina dell'albero dellle pagine.
+'Mount Point' prendono il contenuto da un'altro ramo dell'albero delle pagine e lo rendono disponibile nell'attuale ramo.
+'Link a URL esterno' è simile a 'Shortcut' ma punta a un URL esterno invece che ad una pagina dell'albero.
+
+&lt;b&gt;Special&lt;/b&gt;
+'Folder' è una pagina che non viene vista come una pagina web ma in luogo serve per memorizzare records.
+'Recycler' è un cestino. Le pagine inserire nel cestino non saranno visibli nel Frontend.
+'Separatore di menu' è utile solo se i menu di Frontend sono programmati per utilizzarlo. Non raoppresenta una pagina che ha dei contenuti; bensì è un segnaposto non cliccabile che si trova tra i menu.
+
+&lt;b&gt;Nota&lt;/b&gt; Ogni tipo di pagina è rappresentato da una specifica icona. Le pagine disponibili possono esserre ristrette agli utenti cosicchè molte opzioni descritte sopra possono non essere disponibili. Infine particolari tipi di record possono non essere permessi in certi tipi di pagina, ma qualunque tipo di record può venir memorizzato in un 'Folder'.</label>
+			<label index="_doktype.seeAlso">pages:shortcut,
+pages:url</label>
+			<label index="endtime.description">La Data di Scadenza specifica quando la pagina non sarà più visibile online.</label>
+			<label index="_endtime.seeAlso">pages:starttime</label>
+			<label index="endtime.syntax">Visualizza la Pagina / Data di Pubblicazione (clicca qui sotto)</label>
+			<label index="extendToSubpages.description">Di base le opzioni della Data di Pubblicazione, la Data di Scadenza, gli Accessi degli Usergroup, e la Visibilità della Pagina hanno effetto &lt;em&gt;solo&lt;/em&gt; se vengono impostate nella pagina. Se l'opzione "Estendi alle Sottopagine" è spuntata per la pagina, tutte le sottopagine subiranno le impostazioni della pagina madre.</label>
+			<label index="extendToSubpages.details">Considera lo scenario dove vuoi crare una sezione di sottopagine che siano visibili solo ad utenti loggati. Settando i Permessi di Accesso del gruppo utente per la pagina principale della sezione, rimuoverà la pagina dai menu se nessun utente è loggato.
+Comunque la sottopagina sarà ancora accessibile indicando l'ID di pagina ed inserendolo manualmente nell'URL. Spuntando l'opzione 'Estendi alle sottopagine' si estenderanno i diritti di accesso del gruppo utenti dalla pagina principale a tutte le sottopagine.</label>
+			<label index="_extendToSubpages.image">EXT:context_help/cshimages/pages_2.png</label>
+			<label index="extendToSubpages.image_descr">L'accesso alla pagina non è consentito a determinati gruppi e è impostato anche 'Estendi alle sottopagine'. Questo risulta anche dall'icona di pagina che è cambiata.</label>
+			<label index="_extendToSubpages.seeAlso">pages:hidden,
+pages:starttime,
+pages:endtime,
+pages:fe_group</label>
+			<label index="fe_group.description">Se il Permesso di Accesso del gruppo utenti è settato ad uno specifico gruppo, solo gli utenti di frontend che sono membri del gruppo saranno abilitati a vedere la pagina. L'opzione speciale 'Nascondi al login' indica che la pagina &lt;em&gt;non&lt;/em&gt; sarà visibile ad alcun utente di frontend che non è loggato. Allo stesso modo 'Mostra ad ogni login' renderà la pagina visibile a chiunque sia loggato da frontend.</label>
+			<label index="_fe_group.image">EXT:context_help/cshimages/fegroups_4.png</label>
+			<label index="_fe_group.seeAlso">fe_groups</label>
+			<label index="hidden.description">Se selezionato, la pagina sarà disabilitata nel sito web</label>
+			<label index="hidden.details">Le opzioni "Disabilitare", "Avviare", "Stop", "Accesso" sono tutte relative a limitare l'accesso alle pagine e sono quindi legate a questa funzionalità. Quando una pagina non è visibile a causa di una di queste opzioni, la pagina non verrà visualizzata nella navigazione del sito.
+Avviso, queste opzioni sono correlate &lt;em&gt;solo&lt;/em&gt; alla pagina per quale sono impostate. Se si desidera estendere queste opzioni alle sottopagine, è necessario abilitare l'opzione "Estendi alle sottopagine".
+Quando si è registrati come utente backend è possibile visualizzare le pagine disabilitate se si ha l'accesso in lettura delle pagine.</label>
+			<label index="_hidden.image">EXT:context_help/cshimages/hidden_page.gif,
+EXT:context_help/cshimages/pages_1.png</label>
+			<label index="hidden.image_descr">L'icona di una pagina disabilitata sarà grigia ed è sovrapposta una X rossa.
+Se è presente una pagina nascosta e sei loggato nel Backend, puoi comunque vedere la pagina. L'avviso rosso di antemprima (Preview) ti avvisa che la pagina è visibile solo a te, in quanto amministratore del sito.</label>
+			<label index="_hidden.seeAlso">pages:starttime,pages:endtime,pages:fe_group,pages:extendToSubpages</label>
+			<label index="keywords.description">Inserisci le parole-chiave (keywords) per la pagina separate da virgole. E' possibile utilizzare anche frasi brevi.</label>
+			<label index="keywords.details">Diversi siti con TYPO3 usano queste parole chiave nei  meta-tag di pagina, ma tu puoi disporre anche di una diversa configurazione nel template di  Typoscript.
+
+Per ottimizzare la pagina ai fini dei motori di ricerca come Google non dovresti usare più di 3-6 parolel chiave. Dovresti anche accertarti che le parole chiave siano pubblicate nella pagina corrente.
+
+Nota che  alcune estensioni per implementare un motore di ricerca interno al sito, come ad esempio l'estensione 'Indexed Search' possono essere configurate per l'uso di queste parole chiave.
+
+Le parole chiave possono anche essere usate per creare un meno di pagine relazionate. Per farlo basta creare un tipo di contenuto come 'mappa del sito' (Sitemap) e scegliere dal menu a tendina il tipo &lt;i&gt;Pagine relazionate (basate sulle parole chiave)&lt;/i&gt;.</label>
+			<label index="_keywords.seeAlso">pages:description</label>
+			<label index="l18n_cfg.description">Influenza la disponibilità delle pagine nelle varie lingue</label>
+			<label index="l18n_cfg.details"/>
+			<label index="lastUpdated.description"/>
+			<label index="lastUpdated.details"/>
+			<label index="lastUpdated.syntax"/>
+			<label index="layout.description">Il Layout di Frontend può cambiare l'aspetto di una pagina.</label>
+			<label index="layout.details">Questa opzione potrebbe non avere alcun impatto sul design della pagina di Frontend dato che dipende dal fatto che il template di Frontend la usi o meno. La maggior parte dei template non la usano.</label>
+			<label index="media.description">File media in allegato relazionali alla pagina.</label>
+			<label index="media.details">Questo campo permette di allegare diversi file alla pagina; tuttavia il loro utilizzo dipende dal template Typoscript 
+Per esempio il template potrebbe utilizzare questo campo come logo per la pagina oppure utilizzare il primo file di tipo immagine come link nel menu di navigazione. In ogni caso, l'utilizzo di queste informazioni dipende esclusivamente dal template.</label>
+			<label index="module.description">Definisce la pagina come contenitore per un plugin di Frontend.</label>
+			<label index="module.details"/>
+			<label index="mount_pid.description"/>
+			<label index="mount_pid.details">Nel frontend questo viene fatto aggiungendo una nuova variabile, &amp;MP, all'URL. Questo stabilisce un collegamento tra il ramo montato (mounted branch) e quello principale tramite due id di pagina.</label>
+			<label index="mount_pid_ol.description">Mostra il contenuto della pagina corrente o lo sostituiscilo completamente con quello della pagina montata (Mounted Page).</label>
+			<label index="_mount_pid_ol.seeAlso">pages:mount_pid</label>
+			<label index="_mount_pid.seeAlso">pages:mount_pid_ol</label>
+			<label index="nav_hide.description"/>
+			<label index="_nav_hide.seeAlso">pages:nav_title</label>
+			<label index="nav_title.description"/>
+			<label index="newUntil.description">Inserisci la data a partire dalla quale la pagina non sarà più considerata come 'nuova'.</label>
+			<label index="newUntil.details"/>
+			<label index="_newUntil.seeAlso">pages:starttime</label>
+			<label index="newUntil.syntax">Vedi la Pagina / Data di Pubblicazione (clicca sotto)</label>
+			<label index="no_cache.description">Questa opzione disabilita il caching lato server della pagina.</label>
+			<label index="no_cache.details">Di norma le pagine in TYPO3 vengono scritte nella memoria del server (Cache) dopo essere state composte per la prima volta. Questo significa che una pagina quando viene pubblicata per la seconda volta e successive, sarà molto più veloce da scaricare da parte del visitatore.
+Per la maggior parte delle pagine non ci sono problemi con la memoria Cache; le prestazioni migliorano sensibilmente.
+Comunque in alcuni casi puoi disabilitare la memorizzazione nella Cache, ad esempio quando deve essere visualizzato del contenuto dinamico. Normalmente il codice PHP per ll rendering è programmato per disabilitare il caching automaticamente. Ma con questa opzione puoi forzare la pagina a non essere conservata in cache.</label>
+			<label index="_no_cache.seeAlso">pages:cache_timeout</label>
+			<label index="no_search.description">Se abilitata, questa opzione esclude la pagina dalle operazioni di indicizzazione per la ricerca nel sito web.</label>
+			<label index="_.seeAlso">tt_content</label>
+			<label index="shortcut.description">Selezionare una pagina che agirà come destinazione per la scorciatoia (Shortcut). Quando la pagina corrente sarà richiesta nel frontent, typo3 effettuerà una redirezione alla pagina di destinazione (shortcut target).</label>
+			<label index="shortcut.details">Clicca l'icona  'Naviga nei records'  e una nuova finestra sarà visualizzata, con la quale potrai scegliere in modo semplice la pagina di destinazione della scorciatoia (Shortcut Target).
+
+Questa opzione è disponibile solo se il tipo di pagina è 'scorciatoia' (Shortcut).</label>
+			<label index="_shortcut.image">EXT:context_help/cshimages/page_shortcut.gif</label>
+			<label index="shortcut.image_descr">Selezionare la pagina di destinazione (Shortcut Target) attravero il navigatore (element browser).</label>
+			<label index="shortcut_mode.description"/>
+			<label index="_shortcut.seeAlso">pages:doktype,
+pages:shortcut_mode</label>
+			<label index="starttime.description">La Data di Pubblicazione determina quando la pagina sarà visibile online. se la Data di Pubblicazione non viene indicata, la pagina sarà disponibile immediatamente.</label>
+			<label index="_starttime.seeAlso">pages:endtime,pages:hidden</label>
+			<label index="starttime.syntax">Il Formato della Data di Pubblicazione può essere GG-MM-AAAA oppure MM-GG-AAAA dipende da come è configurato TYPO3. Ci sono inoltre diverse scorciatoie per inserire la data.
+Se inserisci un 'd' la data odierna verrà inserita. Puoi anche inserire un qualsiasi valore nel campo con un numero, come '+10' aggiungerà 10 giorni alla data odierna. Esempio, se inserisci 'd+10' il risultato sarà 10 giorni dalla data odierna.</label>
+			<label index="subtitle.description">Inserisci un sottotitolo, se necessario.</label>
+			<label index="subtitle.details">L'utilizzo di questo campo dipende o meno dal template in uso. In molti casi non viene usato.</label>
+			<label index="target.description">Questo imposta il Link Target di default per le voci di menu che hanno un link a questa pagina. Può anche essere usato per aprire la pagina come una finestra popup.</label>
+			<label index="target.details"/>
+			<label index="title.description.+">Questo è normalmente visualizzato nella navigazione del sito web.</label>
+			<label index="TSconfig.details.+"/>
+			<label index="url.description">Inserisci l'URL della pagina alla quale effettuare la redirezione.</label>
+			<label index="url.details">Per esempio  'http://www.typo3.org' o il solo  'www.typo3.org' se il selettore  'Protocollo' e' configurato come  'http://'.
+Utilizzare il  selettore 'Protocollo' per indicare il prefisso dell'URL.
+
+Questa opzione viene usata solo se il tipo di pagina scelto è 'Collegamento a Url esterno'.</label>
+			<label index="_url.seeAlso">pages:urltype</label>
+			<label index="urltype.description">Configura il protocollo per l'URL</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

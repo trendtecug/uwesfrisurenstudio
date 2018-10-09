@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:12Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Cancel" approved="yes">
+				<source>Cancel</source>
+				<target state="translated">Отмена</target>
+			</trans-unit>
+			<trans-unit id="CONFIRM_LINK_CLICK" approved="yes">
+				<source>Please confirm that you want to open this link</source>
+				<target state="translated">Пожалуйста, подтвердите, что Вы хотите открыть эту ссылку</target>
+			</trans-unit>
+			<trans-unit id="Dictionary" approved="yes">
+				<source>Dictionary</source>
+				<target state="translated">Словарь</target>
+			</trans-unit>
+			<trans-unit id="Document information" approved="yes">
+				<source>Document information</source>
+				<target state="translated">Информация о документе</target>
+			</trans-unit>
+			<trans-unit id="Finished list of mispelled words" approved="yes">
+				<source>Finished list of mispelled words</source>
+				<target state="translated">Окончательный список слов с ошибками</target>
+			</trans-unit>
+			<trans-unit id="HTMLArea Spell Checker" approved="yes">
+				<source>HTMLArea Spell Checker</source>
+				<target state="translated">Проверка правописания</target>
+			</trans-unit>
+			<trans-unit id="Ignore" approved="yes">
+				<source>Ignore</source>
+				<target state="translated">Игнорировать</target>
+			</trans-unit>
+			<trans-unit id="Ignore all" approved="yes">
+				<source>Ignore all</source>
+				<target state="translated">Игнорировать все</target>
+			</trans-unit>
+			<trans-unit id="Info" approved="yes">
+				<source>Info</source>
+				<target state="translated">Информация</target>
+			</trans-unit>
+			<trans-unit id="I will open it in a new page." approved="yes">
+				<source>I will open it in a new page.</source>
+				<target state="translated">Открыть его на новой странице.</target>
+			</trans-unit>
+			<trans-unit id="Learn" approved="yes">
+				<source>Add to dictionary</source>
+				<target state="translated">Добавить в словарь</target>
+			</trans-unit>
+			<trans-unit id="Misspelled words" approved="yes">
+				<source>Misspelled words</source>
+				<target state="translated">Слов с ошибками</target>
+			</trans-unit>
+			<trans-unit id="NO_ERRORS" approved="yes">
+				<source>No mispelled words found with the selected dictionary.</source>
+				<target state="translated">Слова с ошибками не найдены с выбранным словарем</target>
+			</trans-unit>
+			<trans-unit id="NO_ERRORS_CLOSING" approved="no">
+				<source>Spell check complete, didn't find any mispelled words.  Closing now...</source>
+				<target state="needs-translation">Проверка правописания окончена, ошибок не найдено. Закрытие...</target>
+			</trans-unit>
+			<trans-unit id="No information available" approved="yes">
+				<source>No information available</source>
+				<target state="translated">Информации нет</target>
+			</trans-unit>
+			<trans-unit id="occurrences" approved="yes">
+				<source>occurrences</source>
+				<target state="translated">вхождения</target>
+			</trans-unit>
+			<trans-unit id="of the word" approved="yes">
+				<source>of the word</source>
+				<target state="translated">слова</target>
+			</trans-unit>
+			<trans-unit id="OK" approved="yes">
+				<source>OK</source>
+				<target state="translated">ОК</target>
+			</trans-unit>
+			<trans-unit id="One occurrence" approved="yes">
+				<source>One occurrence</source>
+				<target state="translated">Одно вхождение</target>
+			</trans-unit>
+			<trans-unit id="Original word" approved="yes">
+				<source>Original word</source>
+				<target state="translated">Оригинальное слово</target>
+			</trans-unit>
+			<trans-unit id="Please wait. Calling spell checker." approved="yes">
+				<source>Please wait. Calling spell checker.</source>
+				<target state="translated">Пожалуйста, подождите. Вызов проверки правописания.</target>
+			</trans-unit>
+			<trans-unit id="Please wait: changing dictionary to" approved="yes">
+				<source>Please wait: changing dictionary to</source>
+				<target state="translated">Пожалуйста, подождите: изменение словаря на</target>
+			</trans-unit>
+			<trans-unit id="pliz weit ;-)" approved="yes">
+				<source>Please wait...</source>
+				<target state="translated">Пожалуйста подождите...</target>
+			</trans-unit>
+			<trans-unit id="QUIT_CONFIRMATION" approved="no">
+				<source>This will drop changes and quit spell checker.  Please confirm.</source>
+				<target state="needs-translation">При этом все изменения не будут учтены и проверку правописания завершиться. Продолжать?</target>
+			</trans-unit>
+			<trans-unit id="Re-check" approved="yes">
+				<source>Re-check</source>
+				<target state="translated">Проверить ещё раз</target>
+			</trans-unit>
+			<trans-unit id="Replace" approved="yes">
+				<source>Replace</source>
+				<target state="translated">Заменить</target>
+			</trans-unit>
+			<trans-unit id="Replace all" approved="yes">
+				<source>Replace all</source>
+				<target state="translated">Заменить все</target>
+			</trans-unit>
+			<trans-unit id="Replacement" approved="yes">
+				<source>Replacement</source>
+				<target state="translated">Замена</target>
+			</trans-unit>
+			<trans-unit id="Replace with" approved="yes">
+				<source>Replace with</source>
+				<target state="translated">Заменить на</target>
+			</trans-unit>
+			<trans-unit id="Revert" approved="yes">
+				<source>Revert</source>
+				<target state="translated">Вернуть</target>
+			</trans-unit>
+			<trans-unit id="SC-spell-check" approved="yes">
+				<source>Spell-check</source>
+				<target state="translated">Правописание</target>
+			</trans-unit>
+			<trans-unit id="seconds" approved="yes">
+				<source>seconds</source>
+				<target state="translated">сек.</target>
+			</trans-unit>
+			<trans-unit id="Spell Checker" approved="yes">
+				<source>Spell Checker</source>
+				<target state="translated">Проверка правописания</target>
+			</trans-unit>
+			<trans-unit id="Spelling checked in" approved="yes">
+				<source>Spelling checked in</source>
+				<target state="translated">Проверено за</target>
+			</trans-unit>
+			<trans-unit id="Suggestions" approved="yes">
+				<source>Suggestions</source>
+				<target state="translated">Предположения</target>
+			</trans-unit>
+			<trans-unit id="Total suggestions" approved="yes">
+				<source>Total suggestions</source>
+				<target state="translated">Всего предположений</target>
+			</trans-unit>
+			<trans-unit id="Total words" approved="yes">
+				<source>Total words</source>
+				<target state="translated">Всего слов</target>
+			</trans-unit>
+			<trans-unit id="Total words suggested" approved="yes">
+				<source>Total words suggested</source>
+				<target state="translated">Всего предложено слов</target>
+			</trans-unit>
+			<trans-unit id="Two occurrences" approved="yes">
+				<source>Two occurrences</source>
+				<target state="translated">Два вхождения</target>
+			</trans-unit>
+			<trans-unit id="was found." approved="yes">
+				<source>was found.</source>
+				<target state="translated">было найдено</target>
+			</trans-unit>
+			<trans-unit id="were found." approved="yes">
+				<source>were found.</source>
+				<target state="translated">было найдено</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="basedOn.description"/>
+			<label index="clear.description"/>
+			<label index="clear.details"/>
+			<label index="_clear.image"/>
+			<label index="_clear.seeAlso"/>
+			<label index="config.description"/>
+			<label index="config.details"/>
+			<label index="_config.seeAlso">static_template:config,
+TSref | http://typo3.org/documentation/document-library/doc_core_tsref/
+Getting Started | http://typo3.org/documentation/document-library/doc_tut_quickstart/
+TypoScript by Example | http://typo3.org/documentation/document-library/doc_core_tsbyex/
+TypoScript Syntax | http://typo3.org/documentation/document-library/doc_core_ts/</label>
+			<label index="constants.description"/>
+			<label index="_constants.seeAlso">static_template:constants</label>
+			<label index=".description">Enregistrement de gabarit TypoScript.</label>
+			<label index="description.description"/>
+			<label index=".details"/>
+			<label index="editorcfg.description"/>
+			<label index="endtime.description">Date de fin. Utiliser cela pour désactiver le gabarit à une certaine date.</label>
+			<label index="hidden.description"/>
+			<label index="hidden.details"/>
+			<label index="_.image">EXT:context_help/cshimages/systemplate.png,
+EXT:context_help/cshimages/systemplate1.png</label>
+			<label index=".image_descr"/>
+			<label index="includeStaticAfterBasedOn.description"/>
+			<label index="includeStaticAfterBasedOn.details"/>
+			<label index="include_static.description"/>
+			<label index="include_static_file.description"/>
+			<label index="include_static_file.details"/>
+			<label index="_include_static_file.seeAlso"/>
+			<label index="_include_static.seeAlso"/>
+			<label index="nextLevel.description"/>
+			<label index="resources.description"/>
+			<label index="resources.details"/>
+			<label index="root.description"/>
+			<label index="_root.seeAlso"/>
+			<label index="_.seeAlso">static_template
+TSref | http://typo3.org/documentation/document-library/doc_core_tsref/
+TypoScript by Example | http://typo3.org/documentation/document-library/doc_core_tsbyex/</label>
+			<label index="sitetitle.description"/>
+			<label index="starttime.description">Date de début. Utiliser cela pour activer le gabarit à une certaine date.</label>
+			<label index="static_file_mode.description"/>
+			<label index="static_file_mode.details"/>
+			<label index="title.description"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

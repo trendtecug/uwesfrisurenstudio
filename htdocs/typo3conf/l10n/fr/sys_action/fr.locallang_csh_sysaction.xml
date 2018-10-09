@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="assign_to_groups.description">Sélectionnez les groupes d'utilisateurs backend autorisés à activer l'action dans le Centre des tâches.</label>
+			<label index=".description">Une 'Action' est une configuration spécifique de tâche qui peut être exécutée par un groupe assigné par le centre des tâches.</label>
+			<label index="description.description">Décrivez ce que l'action réalise ou autorise.</label>
+			<label index=".details">Actuellement, une action peut être configuré pour créer les groupes d'utilisateurs backend supplémentaires sans être administrateur et utilisateur et en choisissant parmi un ensemble limité d'options. Une autre option est de laisser une action initier une requête SQL SELECT dans la base de données et renvoie le résultat sous forme de fichier CSV. Les actions peuvent être assignés à un groupe d'utilisateurs backend et ils sont activés par un simple clic dans le centre de travail.</label>
+			<label index="hidden.description">Cochez cette option si vous souhaitez masquer l'action pour des utilisateurs ordinaires.</label>
+			<label index="hidden.details"/>
+			<label index="t1_allowed_groups.description"/>
+			<label index="t1_copy_of_user.description">Insérer un compte utilisateur qui sera utilisé comme modèle pour les futures comptes crées</label>
+			<label index="t1_copy_of_user.details"/>
+			<label index="t1_create_user_dir.description">Si coché, un répertoire personnel est crée au cours de la création du compte utilisateur</label>
+			<label index="t1_create_user_dir.details"/>
+			<label index="t1_userprefix.description">Entrez un préfixe qui est ajouté au début des nouveaux comptes utilisateurs (ex: "news_")</label>
+			<label index="t3_listPid.description"/>
+			<label index="t3_tables.description"/>
+			<label index="t4_recordsToEdit.description"/>
+			<label index="title.description">Entrez le titre de l'action. Celui-ci est visible dans la liste des actions disponibles dans le Centre de tâches.</label>
+			<label index="type.description">Sélectionnez le type d'action.</label>
+			<label index="type.details"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

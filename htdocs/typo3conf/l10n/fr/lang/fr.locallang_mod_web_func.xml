@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="clickAPage_content">Veuillez cliquer sur un titre de page dans l'arborescence.</label>
+			<label index="mlang_labels_tabdescr">Vous trouverez ici les fonctions générales d'import/export. De plus, ce module contient des fonctions spécialisées - les assistants - utiles dans des situations spécifiques. Pour l'instant, vous pouvez créer des pages multiples et trier les pages.</label>
+			<label index="mlang_labels_tablabel">Fonctions avancées</label>
+			<label index="mlang_tabs_tab">Fonctions</label>
+			<label index="title">Fonctions avancées</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

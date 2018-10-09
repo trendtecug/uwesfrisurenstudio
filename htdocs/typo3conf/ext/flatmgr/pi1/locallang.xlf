@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-01-18T16:00:42Z" product-name="flatmgr">
+		<header/>
+		<body>
+			<trans-unit id="details" xml:space="preserve">
+				<source>details</source>
+			</trans-unit>
+			<trans-unit id="vacantDay" xml:space="preserve">
+				<source>vacant day</source>
+			</trans-unit>
+			<trans-unit id="vacant weekend" xml:space="preserve">
+				<source>vacant weekend</source>
+			</trans-unit>
+			<trans-unit id="bookedDay" xml:space="preserve">
+				<source>bookedDay</source>
+			</trans-unit>
+			<trans-unit id="booked weekend" xml:space="preserve">
+				<source>booked weekend</source>
+			</trans-unit>
+			<trans-unit id="Jan" xml:space="preserve">
+				<source>January</source>
+			</trans-unit>
+			<trans-unit id="Feb" xml:space="preserve">
+				<source>February</source>
+			</trans-unit>
+			<trans-unit id="Mar" xml:space="preserve">
+				<source>March</source>
+			</trans-unit>
+			<trans-unit id="Apr" xml:space="preserve">
+				<source>April</source>
+			</trans-unit>
+			<trans-unit id="May" xml:space="preserve">
+				<source>May</source>
+			</trans-unit>
+			<trans-unit id="Jun" xml:space="preserve">
+				<source>June</source>
+			</trans-unit>
+			<trans-unit id="Jul" xml:space="preserve">
+				<source>July</source>
+			</trans-unit>
+			<trans-unit id="Aug" xml:space="preserve">
+				<source>August</source>
+			</trans-unit>
+			<trans-unit id="Sep" xml:space="preserve">
+				<source>September</source>
+			</trans-unit>
+			<trans-unit id="Oct" xml:space="preserve">
+				<source>October</source>
+			</trans-unit>
+			<trans-unit id="Nov" xml:space="preserve">
+				<source>November</source>
+			</trans-unit>
+			<trans-unit id="Dec" xml:space="preserve">
+				<source>December</source>
+			</trans-unit>
+			<trans-unit id="Sat" xml:space="preserve">
+				<source>S</source>
+			</trans-unit>
+			<trans-unit id="Sun" xml:space="preserve">
+				<source>S</source>
+			</trans-unit>
+			<trans-unit id="Mon" xml:space="preserve">
+				<source>M</source>
+			</trans-unit>
+			<trans-unit id="Tue" xml:space="preserve">
+				<source>T</source>
+			</trans-unit>
+			<trans-unit id="Wed" xml:space="preserve">
+				<source>W</source>
+			</trans-unit>
+			<trans-unit id="Thu" xml:space="preserve">
+				<source>T</source>
+			</trans-unit>
+			<trans-unit id="Fri" xml:space="preserve">
+				<source>F</source>
+			</trans-unit>
+			<trans-unit id="availableFlats" xml:space="preserve">
+				<source>vacation flats</source>
+			</trans-unit>
+			<trans-unit id="edit booking" xml:space="preserve">
+				<source>edit booking</source>
+			</trans-unit>
+			<trans-unit id="bookingDataOf" xml:space="preserve">
+				<source>Booking data of flat </source>
+			</trans-unit>
+			<trans-unit id="date from" xml:space="preserve">
+				<source> from </source>
+			</trans-unit>
+			<trans-unit id="date to" xml:space="preserve">
+				<source> until </source>
+			</trans-unit>
+			<trans-unit id="insert booking" xml:space="preserve">
+				<source>New booking</source>
+			</trans-unit>
+			<trans-unit id="insert flat" xml:space="preserve">
+				<source>New flat</source>
+			</trans-unit>
+			<trans-unit id="insert room" xml:space="preserve">
+				<source>New room</source>
+			</trans-unit>
+			<trans-unit id="delete this booking record" xml:space="preserve">
+				<source>delete this booking record</source>
+			</trans-unit>
+			<trans-unit id="to the bookings" xml:space="preserve">
+				<source>to the bookings</source>
+			</trans-unit>
+			<trans-unit id="save record" xml:space="preserve">
+				<source>save record</source>
+			</trans-unit>
+			<trans-unit id="edit record" xml:space="preserve">
+				<source>edit record</source>
+			</trans-unit>
+			<trans-unit id="rebook record" xml:space="preserve">
+				<source>rebook record</source>
+			</trans-unit>
+			<trans-unit id="delete record" xml:space="preserve">
+				<source>delete record</source>
+			</trans-unit>
+			<trans-unit id="backToTheFlats" xml:space="preserve">
+				<source>back to the flats</source>
+			</trans-unit>
+			<trans-unit id="availabilityCheck" xml:space="preserve">
+				<source>availability check</source>
+			</trans-unit>
+			<trans-unit id="startOfBooking" xml:space="preserve">
+				<source>arrival</source>
+			</trans-unit>
+			<trans-unit id="endOfBooking" xml:space="preserve">
+				<source>departure</source>
+			</trans-unit>
+			<trans-unit id="allFlatCategories" xml:space="preserve">
+				<source>all categories</source>
+			</trans-unit>
+			<trans-unit id="flatCategory" xml:space="preserve">
+				<source>Category</source>
+			</trans-unit>
+			<trans-unit id="availableFlatsHeader" xml:space="preserve">
+				<source>Available Flats for the time </source>
+			</trans-unit>
+			<trans-unit id="availableFrom" xml:space="preserve">
+				<source>from: </source>
+			</trans-unit>
+			<trans-unit id="availableTo" xml:space="preserve">
+				<source> to: </source>
+			</trans-unit>
+			<trans-unit id="booked from" xml:space="preserve">
+				<source> Booked from: </source>
+			</trans-unit>
+			<trans-unit id="no available flat" xml:space="preserve">
+				<source>No available flat(s) for the desired time available!</source>
+			</trans-unit>
+			<trans-unit id="nextVacantPeriod" xml:space="preserve">
+				<source> next vacant period</source>
+			</trans-unit>
+			<trans-unit id="foreignFlats" xml:space="preserve">
+				<source>available flats of other sites</source>
+			</trans-unit>
+			<trans-unit id="availableFlat" xml:space="preserve">
+				<source> available flat </source>
+			</trans-unit>
+			<trans-unit id="availableForeignFlat" xml:space="preserve">
+				<source> available foreign flat </source>
+			</trans-unit>
+			<trans-unit id="available rooms" xml:space="preserve">
+				<source> available rooms</source>
+			</trans-unit>
+			<trans-unit id="nextForeignVacantPeriod" xml:space="preserve">
+				<source> next foreign vacant period</source>
+			</trans-unit>
+			<trans-unit id="deleteFlatConfirmation" xml:space="preserve">
+				<source>Delete the data record of flat </source>
+			</trans-unit>
+			<trans-unit id="deleteRoomConfirmation" xml:space="preserve">
+				<source>Delete the data record </source>
+			</trans-unit>
+			<trans-unit id="deleteBookingConfirmation" xml:space="preserve">
+				<source>Delete the data record of booking from </source>
+			</trans-unit>
+			<trans-unit id="overbooked" xml:space="preserve">
+				<source>overbooked </source>
+			</trans-unit>
+			<trans-unit id="bookingCalendar" xml:space="preserve">
+				<source>bookingCalendar</source>
+			</trans-unit>
+			<trans-unit id="booking request" xml:space="preserve">
+				<source>booking request</source>
+			</trans-unit>
+			<trans-unit id="utilisation calendar" xml:space="preserve">
+				<source>utilisation calendar</source>
+			</trans-unit>
+			<trans-unit id="allFlats" xml:space="preserve">
+				<source>all flats</source>
+			</trans-unit>
+			<trans-unit id="toggle additional fields" xml:space="preserve">
+				<source>toggle additional fields</source>
+			</trans-unit>
+			<trans-unit id="customerNumber" xml:space="preserve">
+				<source>customernumber:</source>
+			</trans-unit>
+			<trans-unit id="grownups" xml:space="preserve">
+				<source>number of grownups </source>
+			</trans-unit>
+			<trans-unit id="childs" xml:space="preserve">
+				<source>number of children</source>
+			</trans-unit>
+			<trans-unit id="memo" xml:space="preserve">
+				<source>memo</source>
+			</trans-unit>
+			<trans-unit id="agent" xml:space="preserve">
+				<source>Agent</source>
+			</trans-unit>
+			<trans-unit id="newBookingHeader" xml:space="preserve">
+				<source>Insert new booking</source>
+			</trans-unit>
+			<trans-unit id="newBookingInserted" xml:space="preserve">
+				<source>New booking inserted</source>
+			</trans-unit>
+			<trans-unit id="bookingRecordDeleted" xml:space="preserve">
+				<source>Booking record has been deleted!</source>
+			</trans-unit>
+			<trans-unit id="category" xml:space="preserve">
+				<source>category</source>
+			</trans-unit>
+			<trans-unit id="bookedBy" xml:space="preserve">
+				<source>booked from</source>
+			</trans-unit>
+			<trans-unit id="flatCapacity" xml:space="preserve">
+				<source>Capacity [persons]</source>
+			</trans-unit>
+			<trans-unit id="roomCapacity" xml:space="preserve">
+				<source>Capacity [persons]</source>
+			</trans-unit>
+			<trans-unit id="nameOfTheFlat" xml:space="preserve">
+				<source>Name of the flat</source>
+			</trans-unit>
+			<trans-unit id="nameOfTheRoom" xml:space="preserve">
+				<source>Name of the room</source>
+			</trans-unit>
+			<trans-unit id="rebook" xml:space="preserve">
+				<source>rebook</source>
+			</trans-unit>
+			<trans-unit id="rebooking header" xml:space="preserve">
+				<source>Rebooking</source>
+			</trans-unit>
+			<trans-unit id="from" xml:space="preserve">
+				<source>from</source>
+			</trans-unit>
+			<trans-unit id="to" xml:space="preserve">
+				<source>to</source>
+			</trans-unit>
+			<trans-unit id="on" xml:space="preserve">
+				<source>on to</source>
+			</trans-unit>
+			<trans-unit id="customer" xml:space="preserve">
+				<source>Customer</source>
+			</trans-unit>
+			<trans-unit id="illegaleCharacters" xml:space="preserve">
+				<source>Illegale character in </source>
+			</trans-unit>
+			<trans-unit id="room" xml:space="preserve">
+				<source>Room</source>
+			</trans-unit>
+			<trans-unit id="editRooms" xml:space="preserve">
+				<source>Edit rooms</source>
+			</trans-unit>
+			<trans-unit id="roomsOf" xml:space="preserve">
+				<source>Rooms of </source>
+			</trans-unit>
+			<trans-unit id="showRooms" xml:space="preserve">
+				<source>Show all rooms</source>
+			</trans-unit>
+			<trans-unit id="hideRooms" xml:space="preserve">
+				<source>HideRooms</source>
+			</trans-unit>
+			<trans-unit id="flatDetails" xml:space="preserve">
+				<source>Details</source>
+			</trans-unit>
+			<trans-unit id="Flat" xml:space="preserve">
+				<source>Flat</source>
+			</trans-unit>
+			<trans-unit id="Bungalow" xml:space="preserve">
+				<source>Bungalow</source>
+			</trans-unit>
+			<trans-unit id="name" xml:space="preserve">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="livingSpace" xml:space="preserve">
+				<source>Living space</source>
+			</trans-unit>
+			<trans-unit id="landArea" xml:space="preserve">
+				<source>Landarea</source>
+			</trans-unit>
+			<trans-unit id="capacityText" xml:space="preserve">
+				<source>Persons</source>
+			</trans-unit>
+			<trans-unit id="Pool" xml:space="preserve">
+				<source>Swimmingpool</source>
+			</trans-unit>
+			<trans-unit id="Landing" xml:space="preserve">
+				<source>Landing</source>
+			</trans-unit>
+			<trans-unit id="PetsAllowed" xml:space="preserve">
+				<source>Pets on request</source>
+			</trans-unit>
+			<trans-unit id="Beach" xml:space="preserve">
+				<source>Beach</source>
+			</trans-unit>
+			<trans-unit id="HandicappedAccessible" xml:space="preserve">
+				<source>Handicapped accessible</source>
+			</trans-unit>
+			<trans-unit id="InternetWithCosts" xml:space="preserve">
+				<source>Internet with costs</source>
+			</trans-unit>
+			<trans-unit id="InternetFree" xml:space="preserve">
+				<source>Internet without costs</source>
+			</trans-unit>
+			<trans-unit id="AirConditioner" xml:space="preserve">
+				<source>Airconditioner</source>
+			</trans-unit>
+			<trans-unit id="AirConditionerWithCosts" xml:space="preserve">
+				<source>Airconditioner with costs</source>
+			</trans-unit>
+			<trans-unit id="minPrice" xml:space="preserve">
+				<source>from</source>
+			</trans-unit>
+			<trans-unit id="minPriceUnit" xml:space="preserve">
+				<source>€/Week</source>
+			</trans-unit>
+			<trans-unit id="weekPrices" xml:space="preserve">
+				<source>Week prices</source>
+			</trans-unit>
+			<trans-unit id="peakseason" xml:space="preserve">
+				<source>Peakseason</source>
+			</trans-unit>
+			<trans-unit id="lowseason" xml:space="preserve">
+				<source>Lowseason</source>
+			</trans-unit>
+			<trans-unit id="savingseason" xml:space="preserve">
+				<source>Savingseason</source>
+			</trans-unit>
+			<trans-unit id="areaUnit" xml:space="preserve">
+				<source> m²</source>
+			</trans-unit>
+			<trans-unit id="arrivalDay" xml:space="preserve">
+				<source>Arrival day in peakseason</source>
+			</trans-unit>
+			<trans-unit id="Fr" xml:space="preserve">
+				<source>Friday</source>
+			</trans-unit>
+			<trans-unit id="Sa" xml:space="preserve">
+				<source>Saturday</source>
+			</trans-unit>
+			<trans-unit id="Su" xml:space="preserve">
+				<source>Sunday</source>
+			</trans-unit>
+			<trans-unit id="caution" xml:space="preserve">
+				<source>Caution</source>
+			</trans-unit>
+			<trans-unit id="additional" xml:space="preserve">
+				<source>Additional</source>
+			</trans-unit>
+			<trans-unit id="endCleaning" xml:space="preserve">
+				<source>endcleaning</source>
+			</trans-unit>
+			<trans-unit id="singleViewFooter" xml:space="preserve">
+				<source>bedlinen and towels is to be bring along or can be rented.
+Costs per person: Bedlinen 12 euro towel package 10 euro 
+baby-travel bed or childrens chair a`10.--/week
+or as &quot;baby-travel-package&quot; from our equipment
+with travel-bed/high chair and Buggy &quot;Quinny&quot;
+together 35.--/week
+
+more Services on order of request (pictures by service):
+GARMIN outdoor, Internet, BBQ
+			</source>
+			</trans-unit>
+			<trans-unit id="onRequest" xml:space="preserve">
+				<source>On request</source>
+			</trans-unit>
+			<trans-unit id="noSpecials" xml:space="preserve">
+				<source>No Offers right now</source>
+			</trans-unit>
+			<trans-unit id="backToList" xml:space="preserve">
+				<source>--&gt; Back to list</source>
+			</trans-unit>
+			<trans-unit id="registeredCustomer" xml:space="preserve">
+				<source>Registered customer</source>
+			</trans-unit>
+			<trans-unit id="earlyBirdRebate1" xml:space="preserve">
+				<source>Early bird rebate1</source>
+			</trans-unit>
+			<trans-unit id="earlyBirdRebate2" xml:space="preserve">
+				<source>Early bird rebate2</source>
+			</trans-unit>
+			<trans-unit id="startOfCalculation" xml:space="preserve">
+				<source>Booking start</source>
+			</trans-unit>
+			<trans-unit id="endOfCalculation" xml:space="preserve">
+				<source>Booking end</source>
+			</trans-unit>
+			<trans-unit id="calculateNow" xml:space="preserve">
+				<source>Calculate now</source>
+			</trans-unit>
+			<trans-unit id="bookingNotAvailable" xml:space="preserve">
+				<source>Booking not available!</source>
+			</trans-unit>
+			<trans-unit id="invalidDates" xml:space="preserve">
+				<source>Invalid dates</source>
+			</trans-unit>
+			<trans-unit id="onlyOneEarlyBirdRebate" xml:space="preserve">
+				<source>Please select only one early bird rebate!</source>
+			</trans-unit>
+			<trans-unit id="flatmgrcalcPrice" xml:space="preserve">
+				<source>Total amount: </source>
+			</trans-unit>
+			<trans-unit id="storeClosed" xml:space="preserve">
+				<source>Store closed on saturday and sunday!</source>
+			</trans-unit>
+			<trans-unit id="deliveryTitle" xml:space="preserve">
+				<source>Delivery</source>
+			</trans-unit>
+			<trans-unit id="orderSelectorName" xml:space="preserve">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="orderSelectorTotalWeight" xml:space="preserve">
+				<source>Total weight</source>
+			</trans-unit>
+			<trans-unit id="orderSelectorCapacity" xml:space="preserve">
+				<source>Capacity</source>
+			</trans-unit>
+			<trans-unit id="orderSelectorMinPrice" xml:space="preserve">
+				<source>Price</source>
+			</trans-unit>
+			<trans-unit id="noSeasonDataAvailable" xml:space="preserve">
+				<source>No season data available for the selected year!</source>
+			</trans-unit>
+			<trans-unit id="pricePerDay" xml:space="preserve">
+				<source>&amp;euro;/Tag</source>
+			</trans-unit>
+			<trans-unit id="deliveryA" xml:space="preserve">
+				<source>Delivery A</source>
+			</trans-unit>
+			<trans-unit id="deliveryB" xml:space="preserve">
+				<source>Delivery B</source>
+			</trans-unit>
+			<trans-unit id="deliveryC" xml:space="preserve">
+				<source>Delivery C</source>
+			</trans-unit>
+			<trans-unit id="tentOption" xml:space="preserve">
+				<source>book tent</source>
+			</trans-unit>
+			<trans-unit id="flatmgrcalcOfficalPrice" xml:space="preserve">
+				<source>Price</source>
+			</trans-unit>
+			<trans-unit id="bookedNotEnoughDays" xml:space="preserve">
+				<source>Booked not enough days!</source>
+			</trans-unit>
+			<trans-unit id="bookedNotEnoughWhitsunDays" xml:space="preserve">
+				<source>Booked not enough whitsun days!</source>
+			</trans-unit>
+			<trans-unit id="bookedNotEnoughSummerDays" xml:space="preserve">
+				<source>Booked not enough summer days!</source>
+			</trans-unit>
+			<trans-unit id="bookingMinDays" xml:space="preserve">
+				<source>days min. booking</source>
+			</trans-unit>
+			<trans-unit id="bookingMinDaysWhitsun" xml:space="preserve">
+				<source>days min. booking whitsun</source>
+			</trans-unit>
+			<trans-unit id="bookingMinDaysSummer" xml:space="preserve">
+				<source>days min. booking summer</source>
+			</trans-unit>
+			<trans-unit id="lastMinuteRebate" xml:space="preserve">
+				<source>Last minute booking</source>
+			</trans-unit>
+			<trans-unit id="noCleaningOutside" xml:space="preserve">
+				<source>without cleaning outside</source>
+			</trans-unit>
+			<trans-unit id="longTimeBookingRebate1" xml:space="preserve">
+				<source>Longtime booking rebate 21 days</source>
+			</trans-unit>
+			<trans-unit id="longTimeBookingRebate2" xml:space="preserve">
+				<source>Longtime booking rebate 28 days</source>
+			</trans-unit>
+			<trans-unit id="onlyOneLongTimeBookingRebate" xml:space="preserve">
+				<source>Only one longtime booking rebate</source>
+			</trans-unit>
+			<trans-unit id="followUpBooking" xml:space="preserve">
+				<source>Follow up booking</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

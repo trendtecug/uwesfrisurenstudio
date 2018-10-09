@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="hits_title">Statistiques d'affichage</label>
+			<label index="lang_getlangsta_createNewTranslationHeaders">Créer un nouvel en-tête d'enregistrement</label>
+			<label index="lang_renderl10n_badThingThereAre">ERREUR: Il y a deux enregistrements de langue pour cet enregistrement! Un seul est permis!</label>
+			<label index="lang_renderl10n_CEcount">Compteur des éléments de contenu</label>
+			<label index="lang_renderl10n_default">Défaut</label>
+			<label index="lang_renderl10n_editDefaultLanguagePage">Editer la langue par défaut du titre de la page</label>
+			<label index="lang_renderl10n_editLangOverlays">Editer tous les enregistrements de langue</label>
+			<label index="lang_renderl10n_editLanguageOverlayRecord">Editer l'enregistrement de langue</label>
+			<label index="lang_renderl10n_editPage">Editer la page</label>
+			<label index="lang_renderl10n_editPageLang">Editer la traduction de la page</label>
+			<label index="lang_renderl10n_editPageProperties">Editer toutes les propriétés de la page</label>
+			<label index="lang_renderl10n_page">Page</label>
+			<label index="lang_renderl10n_viewPage">Voir la page</label>
+			<label index="lang_title">Vue d'ensemble pour la localisation</label>
+			<label index="pageInformation">Information sur la page</label>
+			<label index="pages_0">Paramêtres de base</label>
+			<label index="pages_1">Enregistrement (vue d'ensemble)</label>
+			<label index="pages_2">Cache et âge</label>
+			<label index="page_sysnote">Notes internes</label>
+			<label index="page_title">Arborescence (vue d'ensemble)</label>
+			<label index="pI_crDate">Date de création</label>
+			<label index="pI_crUser">Créé par</label>
+			<label index="pI_lastChange">Dernier changement</label>
+			<label index="pI_lastChangeContent">Dernier changement, contenu</label>
+			<label index="stat_period">Statistique pour la période du %s au %s</label>
+			<label index="stat_type_0">Affichages de la page</label>
+			<label index="stat_type_1">Affichages totals</label>
+			<label index="stat_type_2">Affichages dans la section principale</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

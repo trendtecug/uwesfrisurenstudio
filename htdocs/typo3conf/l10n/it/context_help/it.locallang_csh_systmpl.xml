@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="basedOn.description"/>
+			<label index="clear.description"/>
+			<label index="clear.details"/>
+			<label index="_clear.image"/>
+			<label index="_clear.seeAlso"/>
+			<label index="config.description"/>
+			<label index="config.details"/>
+			<label index="_config.seeAlso"/>
+			<label index="constants.description"/>
+			<label index="_constants.seeAlso"/>
+			<label index=".description"/>
+			<label index="description.description"/>
+			<label index=".details"/>
+			<label index="editorcfg.description"/>
+			<label index="endtime.description"/>
+			<label index="hidden.description"/>
+			<label index="hidden.details"/>
+			<label index="_.image"/>
+			<label index=".image_descr"/>
+			<label index="includeStaticAfterBasedOn.description"/>
+			<label index="includeStaticAfterBasedOn.details"/>
+			<label index="include_static.description"/>
+			<label index="include_static_file.description"/>
+			<label index="include_static_file.details"/>
+			<label index="_include_static_file.seeAlso"/>
+			<label index="_include_static.seeAlso"/>
+			<label index="nextLevel.description"/>
+			<label index="resources.description"/>
+			<label index="resources.details"/>
+			<label index="root.description"/>
+			<label index="_root.seeAlso"/>
+			<label index="_.seeAlso"/>
+			<label index="sitetitle.description"/>
+			<label index="starttime.description"/>
+			<label index="static_file_mode.description"/>
+			<label index="static_file_mode.details"/>
+			<label index="title.description"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

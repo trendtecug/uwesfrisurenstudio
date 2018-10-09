@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T02:37:41Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="deleteItem" approved="yes">
+				<source>Delete</source>
+				<target state="translated">Удалить</target>
+			</trans-unit>
+			<trans-unit id="deleteWarning" approved="yes">
+				<source>Are you sure you want to delete this record?</source>
+				<target state="translated">Действительно удалить эту запись?</target>
+			</trans-unit>
+			<trans-unit id="editWholeRecord" approved="yes">
+				<source>Edit whole record</source>
+				<target state="translated">Редактировать всю запись</target>
+			</trans-unit>
+			<trans-unit id="noDocuments" approved="yes">
+				<source>No open documents</source>
+				<target state="translated">Открытых документов нет</target>
+			</trans-unit>
+			<trans-unit id="noDocuments_listmodule" approved="yes">
+				<source>the Web&gt;List module</source>
+				<target state="translated">модуль Веб&gt;Список</target>
+			</trans-unit>
+			<trans-unit id="noDocuments_msg" approved="yes">
+				<source>There are no open documents available to edit.</source>
+				<target state="translated">Нет открытых документов, доступных для редактирования.</target>
+			</trans-unit>
+			<trans-unit id="noDocuments_msg2" approved="yes">
+				<source>You can go to %s to find the page or the record you wish to edit.</source>
+				<target state="translated">Идите в %s, чтобы найти страницу или запись, которую вы хотите изменить.</target>
+			</trans-unit>
+			<trans-unit id="noDocuments_msg3" approved="yes">
+				<source>You can select one of your most recently edited records from this list:</source>
+				<target state="translated">Вы можете выбрать из этого списка записи, которые вы правили последними:</target>
+			</trans-unit>
+			<trans-unit id="noDocuments_OR" approved="yes">
+				<source>or</source>
+				<target state="translated">или</target>
+			</trans-unit>
+			<trans-unit id="noDocuments_pagemodule" approved="yes">
+				<source>the Web&gt;Page module</source>
+				<target state="translated">модуль Веб&gt;Страница</target>
+			</trans-unit>
+			<trans-unit id="openDocs" approved="yes">
+				<source>OPEN DOCUMENTS</source>
+				<target state="translated">ОТКРЫТЫЕ ДОКУМЕНТЫ</target>
+			</trans-unit>
+			<trans-unit id="recordHistory" approved="yes">
+				<source>View record change history</source>
+				<target state="translated">Показать историю изменения записи</target>
+			</trans-unit>
+			<trans-unit id="undoLastChange" approved="yes">
+				<source>Undo/Redo last change (%s ago)</source>
+				<target state="translated">Отменить/Восстановить последние изменения (%s шагов)</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

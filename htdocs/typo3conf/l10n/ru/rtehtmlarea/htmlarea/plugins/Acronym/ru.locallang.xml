@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="Abbreviation">Аббревиатура</label>
+			<label index="Abridged_term">Сокращенная форма</label>
+			<label index="Acronym">Акроним</label>
+			<label index="Defined_abbr">Предопределенные аббревиатуры</label>
+			<label index="Defined_acronym">Предопределенные акронимы</label>
+			<label index="Delete">Удалить</label>
+			<label index="Edit abbreviation">Править аббревиатуру</label>
+			<label index="Insert abbreviation">Вставить аббревиатуру</label>
+			<label index="Insert/Modify Acronym">Вставить/изменить аббревиатуру</label>
+			<label index="Language_abbr_helpText">Это язык, для которого определена аббревиатура</label>
+			<label index="Language_acronym_helpText">Это язык, для которого определен акроним</label>
+			<label index="Select_a_language">Выберете язык</label>
+			<label index="Select_an_abbr">Выберете аббревиатуру</label>
+			<label index="Select_an_acronym">Выберете акроним</label>
+			<label index="Select_a_term">Выберете термин</label>
+			<label index="Term">Термин</label>
+			<label index="Term_to_abridge">Сокращаемый термин</label>
+			<label index="Unabridged_term">Термин</label>
+			<label index="Use_this_term">Использовать этот термин</label>
+			<label index="Use_this_term_explain">Связать данный термин с текущим выбором</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

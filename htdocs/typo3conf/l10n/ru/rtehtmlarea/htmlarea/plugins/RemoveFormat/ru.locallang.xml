@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="All">Все</label>
+			<label index="All HTML:">Все теги HTML:</label>
+			<label index="Cancel">Отмена</label>
+			<label index="Cleaning Area">Область для очистки</label>
+			<label index="Cleaning options">Тип удаляемого форматирования</label>
+			<label index="Formatting:">Форматирование HTML:</label>
+			<label index="Images:">Изображения:</label>
+			<label index="MS Word Formatting:">Форматирование MSWord:</label>
+			<label index="OK">ОК</label>
+			<label index="Remove formatting">Удалить форматирование</label>
+			<label index="RemoveFormatTooltip">Удалить форматирование</label>
+			<label index="Selection">Выделение</label>
+			<label index="Select the type of formatting you wish to remove.">Выберите тип удаляемого форматирования.</label>
+			<label index="Spaces">Неразрывные пробелы:</label>
+			<label index="Typographical punctuation:">Типографская пунктуация:</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

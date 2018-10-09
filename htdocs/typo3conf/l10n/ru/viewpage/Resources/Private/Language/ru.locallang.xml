@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="autoSize">Автоматически</label>
+			<label index="computer">Компьютер</label>
+			<label index="customWidth">Указанный размер</label>
+			<label index="mobile">Мобильный</label>
+			<label index="tablet">Планшет</label>
+			<label index="width">Ширина</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

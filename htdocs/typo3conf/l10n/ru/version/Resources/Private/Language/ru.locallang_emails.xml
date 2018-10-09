@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="message"/>
+			<label index="subject">TYPO3 замечания о рабочей области: для ###ELEMENT_NAME### изменилась стадия</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

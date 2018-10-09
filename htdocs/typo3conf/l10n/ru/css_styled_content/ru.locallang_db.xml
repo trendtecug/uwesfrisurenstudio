@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="tt_content.tx_cssstyledcontent_acctables">Доступ</label>
+			<label index="tt_content.tx_cssstyledcontent_acctables_caption">Заголовок таблицы</label>
+			<label index="tt_content.tx_cssstyledcontent_acctables_headerpos">Позиция заголовка таблицы</label>
+			<label index="tt_content.tx_cssstyledcontent_acctables_headerpos.I.0">Без заголовка</label>
+			<label index="tt_content.tx_cssstyledcontent_acctables_headerpos.I.1">Вверху</label>
+			<label index="tt_content.tx_cssstyledcontent_acctables_headerpos.I.2">Слева</label>
+			<label index="tt_content.tx_cssstyledcontent_acctables_nostyles">Нет CSS стилей для этой таблицы</label>
+			<label index="tt_content.tx_cssstyledcontent_acctables_summary">Информация о таблице</label>
+			<label index="tt_content.tx_cssstyledcontent_acctables_tableclass">Дополнительный класс CSS</label>
+			<label index="tt_content.tx_cssstyledcontent_acctables_tfoot">Использовать итоговую часть таблицы (заключить последнюю строку таблицы в тег &lt;tfoot&gt;)</label>
+			<label index="tt_content.tx_cssstyledcontent_section_frame.I.0">Фрейм по умолчанию</label>
+			<label index="tt_content.tx_cssstyledcontent_section_frame.I.9">Без фрейма</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing">Анализ CSV</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_delimiter">Разделитель полей</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_delimiter_colon">: (двоеточие)</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_delimiter_comma">, (запятая)</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_delimiter_pipe">| (вертикальная черта)</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_delimiter_semicolon">; (точка с запятой)</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_delimiter_tab">⇥ (табуляция)</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_quote">Разделитель текста</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_quote_double">" (двойные кавычки)</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_quote_none">Нет</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_quote_single">' (одиночные кавычки)</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

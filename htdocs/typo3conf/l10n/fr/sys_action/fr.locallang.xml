@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="action_BEu_db_mount">Départs de l'arborescence</label>
+			<label index="action_BEu_email">E-mail</label>
+			<label index="action_BEu_hidden">Désactiver l'utilisateur</label>
+			<label index="action_BEu_password">Mot de passe</label>
+			<label index="action_BEu_realName">Nom</label>
+			<label index="action_BEu_usergroups">Membre de(s) groupe(s)</label>
+			<label index="action_BEu_username">Nom d'identification</label>
+			<label index="action_Create">Créer un utilisateur Backend</label>
+			<label index="action_createQuery">Créer une requête</label>
+			<label index="action_download_file">Ciquer ici pour télécharger les données exportées.</label>
+			<label index="action_editQuery">Editer la requête</label>
+			<label index="action_emptyQuery">La requête est vide, créer en une avant!</label>
+			<label index="action_error">Erreur d'action!</label>
+			<label index="action_error-access">Vous n'avez pas les droits suffisants pour voir ces enregistrements. Demander à un administrateur de vous les donner.</label>
+			<label index="action_error-not-found">L'action n’existe pas</label>
+			<label index="action_lowlevelMissing">L'extension "lowlevel" doit être instalée pour créer une requête.</label>
+			<label index="action_not-found">Pas d'action trouvée</label>
+			<label index="action_not-found-description">Il n'y a actuellement aucune action définie!</label>
+			<label index="action_notReady">Erreur: La configuration de l'action n'est pas finie.</label>
+			<label index="action_noType">Erreur: L'action n'a pas de type défini.</label>
+			<label index="action_t1_legend_configuration"/>
+			<label index="action_t1_legend_generalFields"/>
+			<label index="action_t1_listOfUsers">Lister les utilisateurs Backend</label>
+			<label index="action_t2_result">Résultat de la requète</label>
+			<label index="action_t4_edit">Séléctionnez un enregistrement à éditer:</label>
+			<label index="action_toolbaritem">Actions Système Ouvert</label>
+			<label index="action_Update">Modifier une utilisateur Backend</label>
+			<label index="description">Une 'Action' est une configuration spécifique de tâche qui peut être exécutée par un groupe assigné par le centre des tâches.</label>
+			<label index="edit-sys_action">Editer l'enregistrement</label>
+			<label index="error-password-empty">Le mot de passe est vide.</label>
+			<label index="error-username-empty">Le nom d'utilisateur est vide.</label>
+			<label index="error-wrong-email">L'adresse e-mail est incorrecte.</label>
+			<label index="error-wrong-user">Vous n'êtes pas autorisé à éditer cet utilisateur.</label>
+			<label index="new-sys_action">Créer une nouvelle action</label>
+			<label index="success">Succès</label>
+			<label index="success-user-created">L'utilisateur a été créé.</label>
+			<label index="success-user-updated">L'utilisateur a été mis à jour.</label>
+			<label index="sys_action">Action</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

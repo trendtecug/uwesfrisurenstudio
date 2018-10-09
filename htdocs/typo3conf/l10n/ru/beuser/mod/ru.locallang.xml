@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+      <label index="pageTitle">Заголовок страницы:</label>
+      <label index="path">Путь:</label>
+      <label index="user">Пользователь:</label>
+      <label index="group">Группа:</label>
+      <label index="everybody">Все:</label>
+      <label index="thisUser">Этот пользователь:</label>
+      <label index="mainGroup">Основная группа:</label>
+      <label index="editLock">Блокировка редактирования для всего</label>
+      <label index="noReadAccess">Пользователь не имеет прав для чтения в этой точке БД!</label>
+      <label index="live">[ОПЕРАТИВНАЯ]</label>
+      <label index="defaultDraft">[Черновик по умолчанию]</label>
+      <label index="notAccessible">ВНИМАНИЕ: не доступна страница точки доступа к рабочему пространству с id:</label>
+      <label index="compareUserSettings">Сравнение настроек пользователей</label>
+      <label index="listUsersOnline">Список пользователей в сети</label>
+      <label index="backendUserAdministration">Управление внутренними пользователями</label>
+      <label index="filemounts">Точки доступа к файлам</label>
+      <label index="webmounts">Точки доступа к страницам</label>
+      <label index="defaultUploadPath">Путь для загрузок по умолчанию</label>
+      <label index="mainUserGroup">Основная группа пользователей</label>
+      <label index="memberOfGroups">Состоит в группах</label>
+      <label index="pageTypesAccess">Типы доступных страниц</label>
+      <label index="selectTables">Выбор таблиц</label>
+      <label index="modifyTables">Изменения таблиц</label>
+      <label index="nonExcludeFields">Поля без исключения</label>
+      <label index="explicitAllowDeny">Явно позволить/запретить</label>
+      <label index="limitToLanguages">Ограничить языками</label>
+      <label index="workspacePermissions">Разрешения рабочих областей</label>
+      <label index="workspaceMembership">Членство в рабочих областях</label>
+      <label index="customOptions">Дополнительные настройки</label>
+      <label index="modules">Модули</label>
+      <label index="tsconfig">TSconfig</label>
+      <label index="tsconfigHL">TSconfig HL</label>
+      <label index="nonMountedReadablePages">Не доступные, но читаемые страницы:</label>
+      <label index="backToOverview">&lt; назад к обзору</label>
+      <label index="userInfo">Информация о пользователе</label>
+      <label index="groupBy">Группировать:</label>
+      <label index="update">Обновить</label>
+      <label index="groupAndCompareUsers">Группировка и сравнение пользователей</label>
+      <label index="tooManyUsers">Слишком много пользователей:</label>
+      <label index="canOnlyDisplay">Этот инструмент может отобразить лишь следующее количество пользователей за раз:</label>
+      <label index="newUser">Создать нового пользователя</label>
+      <label index="usernames">Имя пользователя:</label>
+      <label index="switchUserTo">Переключиться на пользователя:</label>
+      <label index="changeToMode">[режим изменения]</label>
+      <label index="switchBackMode">[режим переключения]</label>
+      <label index="cachedGrouplistsUpdated">(списки всех кешируемых групп обновлены).</label>
+      <label index="result">Результат</label>
+      <label index="showInformation">Показать информацию</label>
+      <label index="sureToDelete">Действительно удалить этот элемент?</label>
+      <label index="delete">Удалить(!)</label>
+      <label index="timestamp">Время изменения:</label>
+      <label index="host">Хост:</label>
+      <label index="username">Имя пользователя:</label>
+      <label index="whoIsOnline">Кто работает в сети</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

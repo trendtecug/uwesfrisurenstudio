@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="acronym.description">Введите краткую форму термина.</label>
+			<label index=".description">"Аббревиатура" - это сокращенная форма определенного термина. Аббревиатура может употребляться в определенном языке.</label>
+			<label index=".details">Указанные аббревиатуры используются в диалоге сокращений htmlArea RTE. Кроме того, аббревиатуры можно настроить для использования при редактировании содержимого лишь на определенном языке.</label>
+			<label index="endtime.description">Введите дату и время, начиная с которых аббревиатура станет недоступной для пользователей не администраторов. Если время не определено, не скрытые аббревиатуры остаются доступными для пользователей RTE неопределенное время.</label>
+			<label index="hidden.description">Включите этот параметр, если нужно ограничить доступ к этой записи для не администраторов.</label>
+			<label index=".seeAlso">xEXT_rtehtmlarea_Acronym</label>
+			<label index="starttime.description">Введите время, начиная с которого аббревиатура станет доступной для пользователей не администраторов. Если время не определено, не скрытые аббревиатуры становятся доступными для пользователей RTE сразу же.</label>
+			<label index="static_lang_isocode.description">Выберете язык, для которого определена аббревиатура.</label>
+			<label index="static_lang_isocode.details">Выбранный язык будет использоваться в качестве значения атрибута language в элементе HTML, вставленном в элемент содержимого через RTE.</label>
+			<label index="sys_language_uid.description">Выберете язык элементов содержимого, на котором может использоваться аббревиатура.</label>
+			<label index="term.description">Введите сокращаемый термин.</label>
+			<label index="type.description">Выберете тип сокращения.</label>
+			<label index="type.details">Указываемые аббревиатуры могут быть двух типов: аббревиатура или акроним. Это соответствует двум элементам HTML – abbr и acronym. Обратите внимание, что акронимы не употребляются в последних версиях HTML.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

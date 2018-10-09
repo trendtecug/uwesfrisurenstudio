@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="choose_task">Task:</label>
+			<label index="lCancel">Annulla</label>
+			<label index="lCreate">Crea</label>
+			<label index="lDelete">Elimina</label>
+			<label index="lDelete_warning">Sei sicuro di voler rimuovere questo utente?</label>
+			<label index="lHomedir">Directory home</label>
+			<label index="listSeparator_Groups">__Gruppi:__</label>
+			<label index="lNone">[nessuno]</label>
+			<label index="lReplyAddress">L'indirizzo di risposta è il tuo email</label>
+			<label index="lSelf">Sé stesso</label>
+			<label index="lSendNew">Invia messaggio</label>
+			<label index="lSendReply">Rispondi al messaggio</label>
+			<label index="lUpdate">Aggiorna</label>
+			<label index="mlang_tabs_tab">Tasks:</label>
+			<label index="taskcenter">Task Center</label>
+			<label index="task_help_description">Accedi a maggiori info su Task Center</label>
+			<label index="task_help_title">Note su Task Center</label>
+			<label index="task_overview">Panoramica</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

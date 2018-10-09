@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="address.description">Entrer l'adresse postale de l'utilisateur.</label>
+			<label index="company.description">Entrer le nom de la société qui emploie l'utilisateur.</label>
+			<label index=".description">Un utilisateur authentifié du site Web.</label>
+			<label index=".details">Ce sont les utilisateurs avec nom d'utilisateur et mot de passe à qui il est donné un accès spécifiques à des zones de votre site web restreintes différemment.</label>
+			<label index="disable.description">Cette option désactivera temporairement la possibilité à l'utilisateur de s'authentifier au site.</label>
+			<label index="_disable.seeAlso">fe_users:starttime,fe_users:endtime</label>
+			<label index="endtime.description">Entrer la date à partir de laquelle le compte est désactivé.</label>
+			<label index="_endtime.seeAlso">fe_users:disable,fe_users:starttime</label>
+			<label index="endtime.syntax">Voir "Démarrer"</label>
+			<label index="_.image">EXT:context_help/cshimages/feusers_1.png,
+EXT:context_help/cshimages/feusers_2.png,</label>
+			<label index=".image_descr">La partie du formulaire pour éditer un utilisateur Frontend. Une boîte de connexion standard sur le site web où les utilisateurs Frontend peuvent se connecter.</label>
+			<label index="image.description">Insérer une photo de l'utilisateur.</label>
+			<label index="lastlogin.description">Ce champ indique la dernière connexion en date de l'utilisateur.</label>
+			<label index="lockToDomain.description">Entrer le nom de l'hôte à partir duquel l'utilisateur est obligé de s'authentifier.</label>
+			<label index="lockToDomain.details">Un système TYPO3 peut avoir plusieurs domaines pointant vers lui. De ce fait, cette option assure que les utilisateurs peuvent se connecter seulement à partir d'un certain nom d'hôte.</label>
+			<label index="_lockToDomain.seeAlso">fe_groups:lockToDomain</label>
+			<label index="lockToDomain.syntax">Soit une nom de domaine, "www.typo3.com" ou une adresse IP, "10.34.222.83"</label>
+			<label index="name.description">Entrer le nom complet de l'utilisateur, prénom et nom.</label>
+			<label index="password.description">Saisir le mot de passe pour l'utilisateur ci-dessus. Ceci est requis pour se connecter.</label>
+			<label index="password.syntax">Un mot de passe en caractères minuscules et sans espace est requis.</label>
+			<label index="_.seeAlso">fe_groups
+be_users</label>
+			<label index="starttime.description">Entrer la date à partir de laquelle le compte est actif.</label>
+			<label index="_starttime.seeAlso">fe_users:disable,fe_users:endtime</label>
+			<label index="starttime.syntax">La syntaxe est dd-mm-yy, mais vous pouvez entrer seulement un "d" dans le champ pour insérer la date d'aujourd'hui. Ou "d+10" pour insérer la date du dixième jour à partir d'aujourd'hui, etc. Le champ reformatera n'importe quelle entrée pour l'ajuster au format qu'il connait. Vous pouvez donc seulement expérimenter et vous pourrez voir clairement comment les dates devraient être entrées.</label>
+			<label index="title.description">Entrer le titre, par exemple "directeur" ou "comptable".</label>
+			<label index="TSconfig.description">Entrer les paramètres de TSconfig additionnels pour l'utilisateur (avancé).</label>
+			<label index="TSconfig.details"/>
+			<label index="_TSconfig.seeAlso">TSconfig pour TSFE | http://typo3.org/documentation/document-library/doc_core_tsconfig/TCEMAIN/
+pages:TSconfig,
+fe_groups:TSconfig,
+be_users:TSconfig,
+be_groups:TSconfig</label>
+			<label index="TSconfig.syntax">Syntaxe TypoScript, sans conditions et constantes.</label>
+			<label index="usergroup.description">Sélectionner un groupe pour cet utilisateur.</label>
+			<label index="usergroup.details">En se connectant, un utilisateur peut voir l'ensemble des contenus accessibles au(x) &lt;em&gt;groupe(s)&lt;/em&gt; d'utilisateurs dont il est membre.Par conséquent l'identification d'un utilisateur prend un sens au regard des groupes auxquels il appartient.</label>
+			<label index="username.description">Saisir le nom d'utilisateur de l'utilisateur du site. Ceci est requis pour se connecter.</label>
+			<label index="_username.seeAlso">Créer des utilisateurs et des groupes Frontend | http://typo3.org/documentation/document-library/doc_tut_quickstart/Create_users_group/</label>
+			<label index="username.syntax">Un nom d'utilisateur est nécessaire. Il doit être écrit en minuscules sans espace. Le nom d'utilisateur doit être unique dans la page où il est enregistré. S'il n'est pas unique, un numéro lui sera ajouté automatiquement.</label>
+			<label index="www.description">Entrer l'URL de la page d'accueil.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

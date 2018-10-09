@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index=".alttitle">htmlArea RTE &gt; Микроданные</label>
+			<label index="currentItemType.alttitle">Тип текущего контейнерного элемента</label>
+			<label index="currentItemType.description">Это поле показывает тип элемента внутри области расположения текущего элемента, если имеется.</label>
+			<label index="currentItemType.details">Если выводится тип, то текущему элементу может быть присвоено свойство указанного типа.</label>
+			<label index=".description">Функционал микроразметки позволяет править атрибуты микроданных элементов в области редактирования RTE.</label>
+			<label index=".details">При включении этой функции, по щелчку на кнопке "Править элемент" панели инструментов будет выведен диалог для правки атрибутов микроданных текущего элемента.
+Another button allows to make visible all microdata in the editing area.
+
+По умолчанию эта функция использует словарь микроданных, определяющий schema.org (http://schema.org). Но можно настроить на использование и других словарей.</label>
+			<label index=".image">EXT:rtehtmlarea/extensions/EditElement/skin/images/element-edit.png,
+EXT:rtehtmlarea/extensions/MicrodataSchema/skin/images/microdata-show.gif</label>
+			<label index=".image_descr">Значок "править элемент". Если курсор находится внутри элемента, щелчок открывает диалог для редактирования атрибутов микроданных элемента.
+Значок "показать микроданные". Щелчок по нему выводит или скрывает все элементы микроданных в области редактирования.</label>
+			<label index="itemprop.alttitle">Элементарное свойство</label>
+			<label index="itemprop.description">Выберете свойство, связанное с текущим элементом.</label>
+			<label index="itemprop.details">Выводимые в этом блоке выбора свойства относятся к типу текущего контейнерного элемента.</label>
+			<label index="itemscope.alttitle">Элементарная область</label>
+			<label index="itemscope.description">Установите/снимите этот флажок для указания или сброса этого элемента в качестве элементарного.</label>
+			<label index="itemscope.details">Если флажок установлен, то текущий элемент обозначается как элемент, которому должен быть присвоен тип.</label>
+			<label index="itemtype.alttitle">Элементарный тип</label>
+			<label index="itemtype.description">Выберете элементарный тип, закреплённый за данным элементом.</label>
+			<label index=".seeAlso">xEXT_rtehtmlarea_EditElement,
+xEXT_rtehtmlarea_MicrodataSchema:Show_microdata,
+xEXT_rtehtmlarea_MicrodataSchema:currentItemType,
+xEXT_rtehtmlarea_MicrodataSchema:itemscope,
+xEXT_rtehtmlarea_MicrodataSchema:itemtype,
+xEXT_rtehtmlarea_MicrodataSchema:itemprop</label>
+			<label index="Show_microdata.alttitle">Показать микроданные</label>
+			<label index="Show_microdata.description">Показать/скрыть все элементы с микроданными в области редактирования.</label>
+			<label index="Show_microdata.details">Щелчок по кнопке "Показать микроданные" делает в области редактирования видимыми все элементы с микроданными, либо, если они уже видимы, кнопка подсвечивается как активная, и щелчок по ней скрывает эти данные.
+Тип или свойство каждого элемента выводится в виде небольших заглавных букв напротив элемента, указывая на значение микроданных.
+Это происходит только при редактировании содержимого и не затрагивает вывод элементов при просмотре страниц сайта.</label>
+			<label index="Show_microdata.image">EXT:rtehtmlarea/extensions/MicrodataSchema/skin/images/microdata-show.gif</label>
+			<label index="Show_microdata.image_descr">Значок "Показать микроданные".</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

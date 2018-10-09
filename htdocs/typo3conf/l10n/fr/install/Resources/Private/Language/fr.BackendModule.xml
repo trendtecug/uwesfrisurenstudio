@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="confirmUnlockInstallToolButton">Déverouiller l'outil d'installation</label>
+			<label index="confirmUnlockInstallToolMessage">&lt;p&gt;Pour des raisons de sécurité, l'outil d'installation est verrouillé par défaut.&lt;/p&gt;
+&lt;p&gt;Pour activer l'outil d'installation, le fichier &lt;strong&gt;ENABLE_INSTALL_TOOL&lt;/strong&gt; doit être créé dans le dossier &lt;strong&gt;typo3conf/&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Cliquez simplement sur le bouton ci-dessous, le fichier sera créé pour vous et l'outil d'installation sera déverrouillé.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note de sécurité :&lt;/strong&gt; Lorsque vous avez terminé votre travail, veuillez svp vous déconnecter de l'outil d'installation. En cas d'oubli, TYPO3  verrouillera automatiquement l'outil d'installation après une heure.&lt;/p&gt;
+				</label>
+			<label index="confirmUnlockInstallToolTitle">L'outil d'installation est verrouillé</label>
+			<label index="mlang_labels_tabdescr">Fournit un simple lien vers l'Install Tool. Veuillez faire attention au fait que l'Install Tool (dans typo3/install/) doit être activé.&lt;br /&gt;&lt;em&gt;Accès pour les administrateurs uniquement !&lt;/em&gt;</label>
+			<label index="mlang_labels_tablabel">Outil d'installation</label>
+			<label index="mlang_tabs_tab">Installation</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

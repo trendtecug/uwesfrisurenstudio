@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="allowedExtensions">Допустимые расширения:</label>
+			<label index="constants">Константы</label>
+			<label index="copyResource">Копировать ресурс:</label>
+			<label index="delete">Удалить:</label>
+			<label index="description">Описание</label>
+			<label index="editResource">Править ресурс:</label>
+			<label index="editTemplateRecord">Править шаблон целиком</label>
+			<label index="editToView">(правка, %s строк)</label>
+			<label index="file">Файл:</label>
+			<label index="fileChanged">Файл изменён</label>
+			<label index="filesizeExceeded">Размер файла превышает %s Кбайт</label>
+			<label index="includeTypoScriptFileContent">Включить содержимое файла TypoScript</label>
+			<label index="maxFilesize">Макс. размер файла:</label>
+			<label index="newTextResource">Новый текстовый ресурс (введите название)</label>
+			<label index="notAllowed">Недопустимо редактировать файлы, размером более %s Кбайт.</label>
+			<label index="resources">Ресурсы</label>
+			<label index="resourceUpdated">Обновлён ресурс '%s'.</label>
+			<label index="setup">Настройка</label>
+			<label index="sitetitle">Название сайта</label>
+			<label index="templateInformation">Информация по шаблону</label>
+			<label index="title">Название</label>
+			<label index="toTop">Наверх:</label>
+			<label index="updateResourceList">Обновить список ресурсов</label>
+			<label index="uploadResource">Загрузка ресурсов</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

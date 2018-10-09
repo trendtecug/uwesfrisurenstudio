@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:44:14Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Address" approved="yes">
+				<source>Address</source>
+				<target state="translated">Indirizzo</target>
+			</trans-unit>
+			<trans-unit id="Article">
+				<source>Article</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="Aside">
+				<source>Aside</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="Container" approved="yes">
+				<source>Container</source>
+				<target state="translated">Contenitore</target>
+			</trans-unit>
+			<trans-unit id="Footer" approved="yes">
+				<source>Footer</source>
+				<target state="translated">Piè di pagina</target>
+			</trans-unit>
+			<trans-unit id="Header" approved="yes">
+				<source>Header</source>
+				<target state="translated">Intestazione</target>
+			</trans-unit>
+			<trans-unit id="Heading 1" approved="yes">
+				<source>Heading 1</source>
+				<target state="translated">Intestazione 1</target>
+			</trans-unit>
+			<trans-unit id="Heading 2" approved="yes">
+				<source>Heading 2</source>
+				<target state="translated">Intestazione 2</target>
+			</trans-unit>
+			<trans-unit id="Heading 3" approved="yes">
+				<source>Heading 3</source>
+				<target state="translated">Intestazione 3</target>
+			</trans-unit>
+			<trans-unit id="Heading 4" approved="yes">
+				<source>Heading 4</source>
+				<target state="translated">Intestazione 4</target>
+			</trans-unit>
+			<trans-unit id="Heading 5" approved="yes">
+				<source>Heading 5</source>
+				<target state="translated">Intestazione 5</target>
+			</trans-unit>
+			<trans-unit id="Heading 6" approved="yes">
+				<source>Heading 6</source>
+				<target state="translated">Intestazione 6</target>
+			</trans-unit>
+			<trans-unit id="Long quotation">
+				<source>Quotation</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="Navigation" approved="yes">
+				<source>Navigation</source>
+				<target state="translated">Navigazione</target>
+			</trans-unit>
+			<trans-unit id="No block" approved="yes">
+				<source>No block format</source>
+				<target state="translated">Nessun formato del blocco</target>
+			</trans-unit>
+			<trans-unit id="Paragraph" approved="yes">
+				<source>Paragraph</source>
+				<target state="translated">Paragrafo</target>
+			</trans-unit>
+			<trans-unit id="Preformatted">
+				<source>Preformatted</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="Section" approved="yes">
+				<source>Section</source>
+				<target state="translated">Sezione</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

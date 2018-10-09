@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="label1">Ceci est mon 1er libellé</label>
+			<label index="label3">Ceci est mon 3e libellé</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

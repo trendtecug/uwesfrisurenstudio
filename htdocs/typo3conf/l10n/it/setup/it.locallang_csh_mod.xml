@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index=".alttitle">Utente &gt; modulo Setup</label>
+			<label index=".description">il modulo Setup permette agli utenti backend di personalizzare TYPO3 per le proprie sessioni di attività. Questo include la lingua ed altre caratteristiche dell'interfaccia del backend.</label>
+			<label index=".details">&lt;b&gt;Nota [per gli Amministratori]:&lt;/b&gt; Questi settaggi possono essere tutti sovraselezionati e avare diverse impostazioni di default utilizzando "user TSconfig". Per approfondire questo aspetto, segui il link sottostante!</label>
+			<label index="_.image">EXT:setup/Resources/Public/Images/cshimages/setup8.png,
+EXT:setup/Resources/Public/Images/cshimages/setup7.png</label>
+			<label index=".image_descr">Il modulo Setup é selezionato nel menù di sinistra. Ecco come appare il modulo Setup - una lista di ozioni da configurare.</label>
+			<label index="language.alttitle">Selezione della lingua del backend</label>
+			<label index="language.description">Seleziona la lingua che preferisci. La maggior parte del backend di TYPO3 é tradotta anche in altre lingue.</label>
+			<label index="language.details">&lt;b&gt;Warning [tecnico]:&lt;/b&gt; Se TYPO3 non è configurato per usare un singolo insieme di caratteri (tramite $TYPO3_CONF_VARS[BE][forceCharset]) tutti i dati inseriti da backend sono inseriti con l'insieme di caratteri del linguaggio di backend selezionato. Questo potrebbe produrre un archivio dati inconsistente se qualche utente sta usando il backend in russo e altri in Inglese, i quali usano insiemi di caratteri differenti.
+La soluzione, chiaramente, è quella di selezionare  per l'opzione di configurazione sopra un valore come "utf-8". Questo dovrebbe essere fatto dagli sviluppatori responsabili per l'intero sistema di configurazione.</label>
+			<label index="_language.image">EXT:setup/Resources/Public/Images/cshimages/lang.png</label>
+			<label index="language.image_descr">TYPO3 é tradotto in circa 40 lingue. L'inglese é la lingua di default ed &lt;u&gt;ogni&lt;/u&gt; label deve innazitutto essere disponibile in inglese. Questo screenshot mostra traduzioni in Ebraico, Arabo, Russo e Cinese.</label>
+			<label index="option_beUser_email.alttitle">La tua email</label>
+			<label index="option_beUser_email.description">Accertati che sia un tuo valido indirizzo email. Questo é l'indirizzo di contatto che l'amministratore del backend userà se necessiterà di contattarti.</label>
+			<label index="option_beUser_realName.alttitle">Il tuo nome</label>
+			<label index="option_beUser_realName.description">Inserisci il tuo nome reale</label>
+			<label index="option_condensedMode.alttitle">Modalità Condensed</label>
+			<label index="option_condensedMode.description">Se attivata, il backend non caricherà i sottomoduli Web e File in un frameset, ma permetterà alle pagine e ai pagetree di caricare i sottomoduli nel frame principale. Questa opzione permette una miglior visualizzazione sui schermi piccoli.</label>
+			<label index="_option_condensedMode.image">EXT:setup/Resources/Public/Images/cshimages/setup3.png,
+EXT:setup/Resources/Public/Images/cshimages/setup4.png</label>
+			<label index="option_condensedMode.image_descr">In questo esempio è abilitato il Modo Condensato. L'albero delle pagine &lt;em&gt;non&lt;/em&gt; è mostrato nel normale frame di navigazione ma piuttosto nel frame del contenuto completo sulla destra del menu.
+Quando un titolo di pagina è cliccato nell'albero delle pagine il modulo page (qui il modulo Web &gt; List) sarà caricato nello &lt;u&gt;stesso&lt;/u&gt; frame del backend. In questo modo il Modo Condensato risparmia dello spazio orizzontale dello schermo in quanto è rimosso il frame di navigazione - ma questo richiede un click extra nel caso si debba andare in un'altra pagina.</label>
+			<label index="_option_condensedMode.seeAlso">_MOD_user_setup:option_noMenuMode</label>
+			<label index="option_copyLevels.alttitle">Copia Ricorsiva</label>
+			<label index="option_copyLevels.description">Quando copi una pagina, se hai selezionato questa opzione verranno copiate automaticamente anche tutte le relative sottopagine. Il numero che inserisci qui definisce il numero di livelli di profondità da includere in un'operazione di copia.</label>
+			<label index="option_disableCMlayers.alttitle">Disabilita i popup menù contestuali.</label>
+			<label index="option_disableCMlayers.description"/>
+			<label index="_option_disableCMlayers.image">EXT:setup/cshimages/setup9.png</label>
+			<label index="option_disableCMlayers.image_descr"/>
+			<label index="option_edit_docModuleUpload.alttitle">Permetti l'Upload di files dalle form di editing.</label>
+			<label index="option_edit_docModuleUpload.description"/>
+			<label index="option_edit_docModuleUpload.details"/>
+			<label index="_option_edit_docModuleUpload.image">EXT:setup/Resources/Public/Images/cshimages/setup12.png</label>
+			<label index="option_edit_RTE.alttitle">Abilita RTE (Rich Text Editor)</label>
+			<label index="option_edit_RTE.description">Se selezionata, il Rich Text Editor sarà abilitato. Normalmente vorra ilasciare questa opzione selezionata.</label>
+			<label index="option_edit_RTE.details"/>
+			<label index="_option_edit_RTE.image">EXT:setup/Resources/Public/Images/cshimages/rte.png</label>
+			<label index="option_edit_showFieldHelp.alttitle">Modalità del CSH (aiuto contestuale)</label>
+			<label index="option_edit_showFieldHelp.description">Definisce la modalità dell'Aiuto In Linea (CSH:Context Sensitive Help) di Typo3. Di default sono mostrate delle piccole icone di help ovunque ci sia dell'aiuto disponibile. Puoi qundi cliccare sull'icona e si aprirà una nuova finestra.</label>
+			<label index="option_edit_showFieldHelp.details"/>
+			<label index="_option_edit_showFieldHelp.image">EXT:setup/Resources/Public/Images/cshimages/setup11.png,
+EXT:setup/Resources/Public/Images/cshimages/setup10.png</label>
+			<label index="option_edit_showFieldHelp.image_descr"/>
+			<label index="option_edit_wideDocument.alttitle">Background documenti estesto</label>
+			<label index="option_edit_wideDocument.description">Attivando questa opzione si allargherà lo spazio in TYPO3, per la modifica delle form, di circa il 50%</label>
+			<label index="option_emailMeAtLogin.alttitle">Notifica il login</label>
+			<label index="option_emailMeAtLogin.description"/>
+			<label index="option_enableFlashUploader.alttitle">Abilita il caricatore di file in Flash</label>
+			<label index="option_enableFlashUploader.description"/>
+			<label index="option_enableInstallTool.alttitle">Controllo Amministratore per ri-abilitare l'accesso allo 'Strumento di installazione'</label>
+			<label index="option_enableInstallTool.description"/>
+			<label index="option_flexibleTextareas_MaxHeight.alttitle">Altezza massima dell'area flessibile di testo</label>
+			<label index="option_flexibleTextareas_MaxHeight.description">Definisce la massima altezza di un'area flessibile di testo(in pixel).</label>
+			<label index="option_helpText.alttitle">Mostra l'aiuto quando possibile</label>
+			<label index="option_helpText.description">Se abilitati, alcuni testi di aiuto appariranno di default. Per esempio si applica ai testi "Legenda" nel modulo Web&gt;Accesso</label>
+			<label index="option_maxTitleLen.alttitle">Lunghezza massima dei titoli</label>
+			<label index="option_maxTitleLen.description">TYPO3 spesso taglierà i titoli dei record etc. in modo tale che siano mostrati solo i primi X caratteri. Spesso il numero dei caratteri mostrati dipende da questa variabile. Per esempio la lunghezza del titolo di pagina nell'albero di navigazione è determinato da questo valore.</label>
+			<label index="_option_maxTitleLen.image">EXT:setup/Resources/Public/Images/cshimages/setup6.png</label>
+			<label index="option_maxTitleLen.image_descr">In questo caso la lunghezza Massima del Titolo è impostata a 10 - e il risultato è che il titolo nell'albero delle pagine - così come in altri posti nel backend - sarà tagliato dopo 10 caratteri, e verrà aggiunto "...". Il valore di default è "30".</label>
+			<label index="option_newPasswordAgain.alttitle">Cambio password, conferma</label>
+			<label index="option_newPasswordAgain.description">Conferma la nuova password inserendola di nuovo, esattamente come scritta qui sopra. Se le due password non corrispondono esattamente, la password non sarà modificata.</label>
+			<label index="option_newPassword.alttitle">Cambia password</label>
+			<label index="option_newPassword.description">Inserisci una nuova password per il tuo account backend:</label>
+			<label index="option_newPassword.details"/>
+			<label index="option_noMenuMode.alttitle">Modalità di navigazione</label>
+			<label index="option_noMenuMode.description">Seleziona modalità alternative per il menù del moduli backend</label>
+			<label index="option_noMenuMode.details">Solitamente si naviga tra i moduli di backend con il menu nel frame sinistro. Con questa opzione potete selezionare un modo alternativo di navigazione:
+
+&lt;b&gt;Selectorbox in top frame:&lt;/b&gt;
+Se settato, il backend non caricherà il frame con il menu a sinistra, ma piuttosto un menu con selector-box nella sezione alta della pagina. In questo modo si guadagna molto spazio sugli schermi piccoli.
+&lt;b&gt;Icone nel top frame&lt;/b&gt;
+Questa opzione mostra tutte le voci di menu nella sezione alta della pagina come lista orizzontale di icone. Questo è solo per un utente esperto che conosce l'ordine dei moduli e può riconoscerli basandosi sulle loro icone.</label>
+			<label index="_option_noMenuMode.image">EXT:setup/Resources/Public/Images/cshimages/setup1.png,
+EXT:setup/Resources/Public/Images/cshimages/setup2.png</label>
+			<label index="option_noMenuMode.image_descr"/>
+			<label index="_option_noMenuMode.seeAlso">_MOD_user_setup:option_condensedMode</label>
+			<label index="option_recursiveDelete.alttitle">Eliminazione Ricorsiva</label>
+			<label index="option_recursiveDelete.description">Non puoi eliminare una pgina che ha delle sottopagine, a menoi che questa opzione sia selezionata. Fare molta attenzione: abilitando questa opzione si permetterà a Typo3 di eliminare in un colpo solo tutto l'albero delle pagine.</label>
+			<label index="option_recursiveDelete.details">Devi considerare un problema di performance che si crea quando si cancella un grande albero di navigazione. Potrebbe essere richiesto molto tempo per farlo e se il PHP va in timeout prima che l'operazione finisca, il risultato potrebbe non essere prevedibile.</label>
+			<label index="option_resizeTextareas.alttitle">Rende ridimensionabile l'area di testo</label>
+			<label index="option_resizeTextareas.description"/>
+			<label index="option_resizeTextareas_Flexible.alttitle">Rende flessibile l'area di testo</label>
+			<label index="option_resizeTextareas_Flexible.description"/>
+			<label index="option_resizeTextareas_MaxHeight.alttitle">Altezza massima dell'area di testo</label>
+			<label index="option_resizeTextareas_MaxHeight.description">Definisce la massima altezza dell'area di testo (in pixel).</label>
+			<label index="option_showHiddenFilesAndFolders.description"/>
+			<label index="option_showHiddenFilesAndFolders.details"/>
+			<label index="option_showThumbs.alttitle">Mostra Thumbnails (miniature) di default</label>
+			<label index="option_showThumbs.description">Nei moduli come "Web &gt; Lista" e "File &gt; Lista File" puoi abilitare la visualizzazione delle miniature dei file (immagini/font) e record (se le immagini sono allegate) con un checkbox. Abilitando questa opzione si attiverà la visualizzazione di default.</label>
+			<label index="_option_showThumbs.image">EXT:setup/Resources/Public/Images/cshimages/setup5.png</label>
+			<label index="option_showThumbs.image_descr">Quando è abilitata la visualizzazione delle miniature, i file agganciati ai record saranno mostrati nel modulo "Web &gt; Lista" come questo.</label>
+			<label index="option_startModule.alttitle">Modulo di avvio</label>
+			<label index="option_startModule.description">Seleziona il modulo che è visualizzato quando effettui il login al backend.
+Il modulo di default è "About Modules"</label>
+			<label index="reset.alttitle">Resetta ai valori di default</label>
+			<label index="reset.description">Se si seleziona questa opzione, tutti i settaggi di questo modulo saranno ripristinati ai valori di default del sistema.</label>
+			<label index="reset.details">Questa operazione non modifica il nome utente, l'email e la password.</label>
+			<label index="_.seeAlso">TSconfig Utente | https://docs.typo3.org/typo3cms/TSconfigReference/UserTsconfig/Setup/Index.html</label>
+			<label index="simuser.alttitle">Simula utente backend</label>
+			<label index="simuser.description">Questa opzione permette agli utenti "admin" di cambiare i settaggi di un altro utente backend nel sistema.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="abstract.description">Inserisci un riassunto della pagina.</label>
+			<label index="abstract.details"/>
+			<label index="_abstract.seeAlso"/>
+			<label index="alias.description">Un 'alias' è una stringa univoca che identifica una pagina. Puoi usare questa stringa al posto del numero identificativo della pagina.</label>
+			<label index="alias.details">In definitiva una pagina viene definita e riconosciuta univocamente dal proprio id di pagina che è un numero. Per esempio puoi far riferimento alla pagina con la sintassi '.../?id=123'. Se la pagina che ha per id '123' ha un alias che è stato definito come 'uno_due_tre' allora l'URL si presenterà in questo modo: "/?id=uno_due_tre'. Questo URL visualizzerà esattamente la stessa pagina perchè 'uno_due_tre' è un alias della pagina che ha per id: '123'.
+Normalmente dovresti assegnare un alias a un numero limitato di pagine, preferibilmente quelle che tu vuoi  collegare più velocemente e in modo mnemonico. In diverse configurazione di  TYPO3 potrai usare la sintassi '.. &amp;lt;llink uno_due_tre&amp;gt;go to the page&amp;lt;/link&amp;gt; ..'  per creare un link ad una pagina. Questo è più facile da ricordare
+Un altro uso che puoi fare se devi modificare a quale pagina un collegamento è riferito. In questo caso puoi cancellare l'alias da una pagina e re-inserirlo in un'altra e tutti i collegamenti che puntano a quell'alias saranno riferiti al nuovo.</label>
+			<label index="alias.syntax">Un alias può contenere solo caratteri minuscoli alfanumerici e deve essere unico.
+Nota: se inserisci un valore non unico questo sarà automaticamente corretto precedendolo con un numero.</label>
+			<label index="author.description">Inserisci i nomi degli autori di questa pagina.</label>
+			<label index="author.details">Se il nome dell'autore è usato o meno dipende dalle configurazioni applicate dal template TypoScript.
+
+- Puoi usarlo nel meta-tag.
+- Se stai utilizzando le pagine come 'articoli' allora potresti usare questo campo per visualizzare il nome dell'autore della pagina (ovvero dell'articolo).</label>
+			<label index="author_email.description">Inserisci le email degli autori di questa pagina.</label>
+			<label index="_author_email.seeAlso"/>
+			<label index="_author.seeAlso">pagine:author_email</label>
+			<label index="backend_layout.description"/>
+			<label index="backend_layout.details"/>
+			<label index="backend_layout_next_level.description"/>
+			<label index="backend_layout_next_level.details"/>
+			<label index="_backend_layout_next_level.seeAlso"/>
+			<label index="_backend_layout.seeAlso">pages:backend_layout_next_level</label>
+			<label index="cache_timeout.description">Definisce la scadenza per la cache di questa pagina.</label>
+			<label index="cache_timeout.details">Per default le pagine rimangono in cache 24 ore. Dopo tale periodo la pagina viene rigenerata e scritta nuovamente nella cache. In base alla tua configurazione, la cache potrebbe anche essere cancellata a mezzanotte.
+Comunque puoi configurare una diversa scadenza per la pagina in cache, se ne hai bisogno.
+Questa opzione è usata piuttosto raramente.</label>
+			<label index="_cache_timeout.seeAlso">pagine:no_cache</label>
+			<label index="content_from_pid.description"/>
+			<label index="description.description">Una breve descrizione della pagina.</label>
+			<label index="description.details"/>
+			<label index="_description.seeAlso">pages:keywords
+pages:abstract</label>
+			<label index="doktype.description"/>
+			<label index="doktype.details"/>
+			<label index="_doktype.seeAlso"/>
+			<label index="endtime.description">"Fine" è la data dalla quale la pagina non sarà più disponibile in linea.</label>
+			<label index="_endtime.seeAlso">pages:starttime</label>
+			<label index="endtime.syntax">Vedi Pagina / Inizio (clicca sotto)</label>
+			<label index="extendToSubpages.description">Per default Inizio, Fine,Accesso e Nascosto sono opzioni che hanno effetto &lt;em&gt;solo&lt;/em&gt; per la pagina dove sono impostate. Se l'opzione 'includi sottopagine' è selezionata, queste opzioni sono estese a tutte le sottopagine della pagina così configurata.</label>
+			<label index="extendToSubpages.details">Pensa a uno scenario dove vuoi creare una intera sezione di sotto-pagine visibili esclusivamente agli utenti che hanno fatto login. Configurando l'opzione 'Accesso' per la pagina in cima all'albero farà sì che solo questa pagina risulterà protetta. La pagina non sarà visibile nella navigazione (menu, mappe, ecc.) a meno che tu non abbia fatto login.
+Comunque le sotto-pagine saranno ancora visibili se viene tentato un accesso usando il numero identificativo della pagina manualmente, digitandolo nell'URL. Ma impostando questa opzione i parametri di accesso saranno estesi a tutte le sotto-pagine.</label>
+			<label index="_extendToSubpages.image">EXT:context_help/cshimages/pages_2.png</label>
+			<label index="extendToSubpages.image_descr">L'icona della pagina ha un accesso ristretto solo a un dato gruppo e se l'opzione "Includi sotto-pagine" è selezionata. Questo si può notare dal modo in cui l'icona ha cambiato aspetto.</label>
+			<label index="_extendToSubpages.seeAlso">pages:hidden,
+pages:starttime,
+pages:endtime,
+pages:fe_group</label>
+			<label index="fe_group.description">Se 'Accesso' è configurato per un gruppo di utenti, solo gli utenti del sito che sono associati al gruppo potranno veder la pagina dopo aver fatto login. L'opzione speciale 'nascondi al login' significa che la pagina &lt;em&gt;non&lt;/em&gt; sarà visibile agli utenti del sito che hanno effettuato login. Analogamente "Mostra al login" renderà la pagina visibile per qualunque utente che ha fatto login.</label>
+			<label index="_fe_group.image">EXT:context_help/cshimages/pages_2.png</label>
+			<label index="_fe_group.seeAlso">fe_groups</label>
+			<label index="hidden.description">Se questa opzione è selezionata, nel sito la pagina sarà invisible.</label>
+			<label index="hidden.details"/>
+			<label index="_hidden.image"/>
+			<label index="hidden.image_descr">L'icona di una pagina nascosta è offuscata con in aggiunta una X rossa.
+Se hai fatto login nel backend e visualizzi una pagina che è nascosta sarai in grado di vedere la pagina a Frontend. Il pulsante rosso "Preview" [anteprima] ti ricorderà che puoi vedere la pagina perché ti trovi in questa speciale condizione.</label>
+			<label index="_hidden.seeAlso"/>
+			<label index="keywords.description">Inserisci le parole chiave di questa pagina, separate da virgole.</label>
+			<label index="keywords.details"/>
+			<label index="_keywords.seeAlso"/>
+			<label index="l18n_cfg.description"/>
+			<label index="l18n_cfg.details"/>
+			<label index="lastUpdated.description">Inserisce il tempo e la data dell'aggiornamento più recente di questa pagina.</label>
+			<label index="lastUpdated.details"/>
+			<label index="lastUpdated.syntax"/>
+			<label index="layout.description">Seleziona il layout della pagina. Il risultato dipende dal tempalte del sito.</label>
+			<label index="layout.details"/>
+			<label index="media.description"/>
+			<label index="media.details"/>
+			<label index="module.description">Definisci la pagina come un 'modulo' frontend.</label>
+			<label index="module.details"/>
+			<label index="mount_pid.description"/>
+			<label index="mount_pid.details"/>
+			<label index="mount_pid_ol.description"/>
+			<label index="_mount_pid_ol.seeAlso"/>
+			<label index="_mount_pid.seeAlso"/>
+			<label index="nav_hide.description"/>
+			<label index="_nav_hide.seeAlso"/>
+			<label index="nav_title.description"/>
+			<label index="newUntil.description">Inserisce la data di scadenza della pagina.</label>
+			<label index="newUntil.details">La 'data di scadenza' della pagina non ha effetto sulla visualizzazione della pagina. Questo è un valore per uso interno,  che si intende utilizzare per ricordare la data nella quale il contenuto dovrebbe essere revisionato. Così il contenuto della pagina ad un certo punto sarà considerato superato; per farlo dovrai configurare il valore inserendo una data approssimativa.
+Per ottenere a video una panoramica delle pagine sottoposta a data di scadenza devi usare da 'Web &gt; Info' il modulo 'Panoramica albero delle pagine'.</label>
+			<label index="_newUntil.seeAlso">pages:starttime</label>
+			<label index="newUntil.syntax">Vedi Pagina / inizio (clicca sotto)</label>
+			<label index="no_cache.description">Questa opzione disabilita la cache per questa pagina.</label>
+			<label index="no_cache.details"/>
+			<label index="_no_cache.seeAlso">pages:cache_timeout</label>
+			<label index="no_search.description">Se abitata, questa opzione esclude la pagina dalle elaborazioni di ricerca nel sito.</label>
+			<label index="_.seeAlso">tt_content</label>
+			<label index="shortcut.description">Inserisce un riferimento alla pagina alla quale l'attuale è associata attraverso una scorciaioia (shortcut). Chiedendo l'ID di pagina nel frontend il visitatore sarà rediretto alla pagina di destinazione associata a questo valore.</label>
+			<label index="shortcut.details"/>
+			<label index="_shortcut.image">EXT:context_help/cshimages/pages_2.png</label>
+			<label index="shortcut.image_descr"/>
+			<label index="shortcut_mode.description"/>
+			<label index="_shortcut.seeAlso">pages:doktype,
+pages:shortcut_mode</label>
+			<label index="starttime.description">"Inizio" definisce la data dalla quale la pagina sarà visibile in linea. Usa questo metodo per pubblicare la pagina a partire da una data determinata. Se "Inizio" non viene configurato la pagina sarà pubblicata immediatamente (a meno che non sia stata nascosta).</label>
+			<label index="_starttime.seeAlso">pages:endtime,pages:hidden</label>
+			<label index="starttime.syntax">Il formato per le date e' DD-MM-YYYY. Puoi inserire un valore in altri modi - sarà valutato immediatamente.
+Se ad esempio inserisci una 'd', viene inserita la data corrente. Puoi anche aggiungere un valore nel campo, ad esempio '+10', aggiunge 10 giorni alla data corrente. Per esempio usando il valore 'd+10'  la data corrisponderà a +10 giorni a partire da ora.</label>
+			<label index="subtitle.description">Inserisci un sottotitolo, se lo vuoi.</label>
+			<label index="subtitle.details">L'uso di questo campo dipende dal template. In molti casi non viene usato.
+Puoi usare questo campo come desideri nei tuoi template.</label>
+			<label index="target.description">Il codice HTML target delle voci di menu con link a questa pagina. Può anche essere utilizzato per aprire le pagine in popup.</label>
+			<label index="target.details"/>
+			<label index="title.description.+"/>
+			<label index="TSconfig.details.+"/>
+			<label index="url.description">Inserisce l'URL al quale la pagina si suppone sia collegata.</label>
+			<label index="url.details">Esempio: 'http://www.typo3.-org' o il solo 'www.typo3.org'  usato nel selettore 'Type' sarà ugualmente configurato con 'http://'.
+Usa il selettore 'Type' per scegliere un prefisso per l'URL.
+
+Questa opzione è usata solo se il 'Type' della pagina e' configurato come 'External URL'.</label>
+			<label index="_url.seeAlso">pages:urltype</label>
+			<label index="urltype.description"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

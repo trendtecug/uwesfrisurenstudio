@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="sys_action">Action</label>
+			<label index="sys_action.assign_to_groups">Assigner une action à des groupes:</label>
+			<label index="sys_action.hidden">Désactivé</label>
+			<label index="sys_action.t1_allowed_groups">Groupes qui pourraient être assignés à travers l'action:</label>
+			<label index="sys_action.t1_copy_of_user">Gabarit utilisateur:</label>
+			<label index="sys_action.t1_create_user_dir">Créer un dossier de base utilisateur</label>
+			<label index="sys_action.t1_userprefix">Préfixe utilisateur:</label>
+			<label index="sys_action.t3_listPid">Pid de la liste:</label>
+			<label index="sys_action.t3_tables">Lister seulement la table:</label>
+			<label index="sys_action.t4_recordsToEdit">Enregistrements à éditer:</label>
+			<label index="sys_action.type.1">Créer un utilisateur Backend</label>
+			<label index="sys_action.type.2">Requête SQL</label>
+			<label index="sys_action.type.3">Liste des enregistrements</label>
+			<label index="sys_action.type.4">Editer les enregistrements</label>
+			<label index="sys_action.type.5">Nouvel enregistrement</label>
+			<label index="tx_sys_action">Actions</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

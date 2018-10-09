@@ -1,0 +1,4 @@
+#datenschutz .contact-header, #impressum .contact-header {margin: 0 auto 1em 55px !important}
+.contact-header {
+    display: -webkit-box;
+}

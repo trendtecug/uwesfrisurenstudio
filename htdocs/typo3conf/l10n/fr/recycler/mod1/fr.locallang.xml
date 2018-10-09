@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="description">La corbeille vous permet de sélectionner des données supprimées et les restaurer. Vous pouvez restaurer récursivement si le parent des éléments a aussi été supprimé.</label>
+			<label index="js.label_boxLabel_undelete_recursive">Restaurer récursivement</label>
+			<label index="js.label_clear">Nettoyer</label>
+			<label index="js.label_crdate">Créé</label>
+			<label index="js.label_deleteButton_text">Supprimer</label>
+			<label index="js.label_deleteButton_tooltip">Supprimer les éléments sélectionnés</label>
+			<label index="js.label_deletedTab">Donnée supprimée</label>
+			<label index="js.label_doDelete_confirmText">Supprimer cet enregistrement ET si c'est une page TOUS les sous enregistrements ? &lt;br/&gt;ATTENTION : les données vont être finallement supprimées de la BDD</label>
+			<label index="js.label_error_NoSelectedRows_msg">Vous devez sélectionner une ligne !</label>
+			<label index="js.label_error_NoSelectedRows_title">Aucune ligne sélectionnée</label>
+			<label index="js.label_filter">Filtrer</label>
+			<label index="js.label_filter_emptyText">Mot clé</label>
+			<label index="js.label_loadMessage">Veuillez patienter ...&lt;br/&gt; les enregistrements devraient se charger !</label>
+			<label index="js.label_lostandfound">Perdu et trouvé</label>
+			<label index="js.label_no">Non</label>
+			<label index="js.label_noValueFound">Pas d'enregistrement pour {0}</label>
+			<label index="js.label_owner">Propriétaire</label>
+			<label index="js.label_pagingEmpty">Pas d'enregistrement à afficher</label>
+			<label index="js.label_pagingMessage">Affichage des enregistrements {0} - {1} de {2}</label>
+			<label index="js.label_records">Enregistrements</label>
+			<label index="js.label_search">Rechercher :</label>
+			<label index="js.label_sure">Etes-vous sûr ?</label>
+			<label index="js.label_table">Table</label>
+			<label index="js.label_tableMenu_emptyText">Choisissez une table...</label>
+			<label index="js.label_tableMenu_label">Table :</label>
+			<label index="js.label_text_delete">Supprimer les enregistrements des tables :</label>
+			<label index="js.label_text_undelete">Restaurer les enregistrements des tables :</label>
+			<label index="js.label_title_delete">Supprimer ?</label>
+			<label index="js.label_title_undelete">Restaurer ?</label>
+			<label index="js.label_tstamp">Dernière édition</label>
+			<label index="js.label_undeleteButton_text">Restaurer</label>
+			<label index="js.label_undeleteButton_tooltip">Restaurer les éléments sélectionnés</label>
+			<label index="js.label_yes">Oui</label>
+			<label index="label_alltables">Toutes les tables</label>
+			<label index="title">Corbeille</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

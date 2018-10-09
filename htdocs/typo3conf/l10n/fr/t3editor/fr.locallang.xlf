@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-29T04:42:19Z" product-name="t3editor">
+		<header/>
+		<body>
+			<trans-unit id="constants" approved="yes">
+				<source>Constants</source>
+				<target state="translated">Constantes</target>
+			</trans-unit>
+			<trans-unit id="deactivate" approved="yes">
+				<source>Deactivate t3editor</source>
+				<target state="translated">Désactiver t3editor</target>
+			</trans-unit>
+			<trans-unit id="delimiter" approved="yes">
+				<source>:</source>
+				<target state="translated">:</target>
+			</trans-unit>
+			<trans-unit id="file" approved="yes">
+				<source>File</source>
+				<target state="translated">Fichier</target>
+			</trans-unit>
+			<trans-unit id="js.label_documentModified" approved="yes">
+				<source>document has been modified</source>
+				<target state="translated">Le document a été modifié</target>
+			</trans-unit>
+			<trans-unit id="js.label_errorWhileSaving" approved="yes">
+				<source>An error occurred while saving the data.</source>
+				<target state="translated">Une erreur s'est produite lors de l'enregistrement des données.</target>
+			</trans-unit>
+			<trans-unit id="js.label_lines" approved="yes">
+				<source>lines</source>
+				<target state="translated">lignes</target>
+			</trans-unit>
+			<trans-unit id="noPermission" approved="yes">
+				<source>Access denied: No permission to template records.</source>
+				<target state="translated">Accès refusé: pas de permission sur le gabarit.</target>
+			</trans-unit>
+			<trans-unit id="pageIDInteger" approved="yes">
+				<source>Syntax error: Parameter pageID must be a valid integer.</source>
+				<target state="translated">Erreur de syntaxe: le paramètre pageID doit être un entier valide.</target>
+			</trans-unit>
+			<trans-unit id="setup" approved="yes">
+				<source>Setup</source>
+				<target state="translated">Setup</target>
+			</trans-unit>
+			<trans-unit id="template" approved="yes">
+				<source>Template</source>
+				<target state="translated">Gabarit</target>
+			</trans-unit>
+			<trans-unit id="typeIDMissing" approved="yes">
+				<source>Syntax error: At least parameter typeID has to be supplied.</source>
+				<target state="translated">Erreur de syntaxe: au moins un paramètre typeID doit être passé.</target>
+			</trans-unit>
+			<trans-unit id="unknownContentType" approved="yes">
+				<source>Unknown content type:</source>
+				<target state="translated">Type de contenu inconnu:</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-30T02:30:42Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="close" approved="yes">
+				<source>Close</source>
+				<target state="translated">Chiudi</target>
+			</trans-unit>
+			<trans-unit id="description" approved="yes">
+				<source>The TYPO3 Inline User Manual is composed from the available help in this TYPO3 Installation (Context Sensitive Help). Here you will find a general description of the TYPO3 Core modules, installation specific Backend Modules and Database Tables that are available based on your login credentials.</source>
+				<target state="translated">Il Manuale Utente Inline di TYPO3 è composto dinamicamente da tutte le infomazioni di aiuto disponibili nell'attuale installazione di TYPO3 (Context Sensitive Help). Qui troverai una descrizione generale dei modulo base di TYPO3, descrizioni dei Moduli Backend installati e dei tipi di contenuto che ti sono disponibili secondo i tuoi permessi utente.</target>
+			</trans-unit>
+			<trans-unit id="details" approved="yes">
+				<source>Details</source>
+				<target state="translated">Dettagli</target>
+			</trans-unit>
+			<trans-unit id="fullDescription" approved="yes">
+				<source>See full description of table</source>
+				<target state="translated">Vedi descrizione completa</target>
+			</trans-unit>
+			<trans-unit id="fullDescription_module" approved="yes">
+				<source>See full description of module</source>
+				<target state="translated">Vedi descrizione del modulo</target>
+			</trans-unit>
+			<trans-unit id="full_manual" approved="yes">
+				<source>Full Manual (in one page)</source>
+				<target state="translated">Manuale Completo (in una pagina)</target>
+			</trans-unit>
+			<trans-unit id="full_manual_chapters" approved="yes">
+				<source>Manual Chapters</source>
+				<target state="translated">Capitoli</target>
+			</trans-unit>
+			<trans-unit id="goBack" approved="yes">
+				<source>Go back</source>
+				<target state="translated">Indietro</target>
+			</trans-unit>
+			<trans-unit id="goToToc" approved="yes">
+				<source>&lt;&lt; go to Manual Index</source>
+				<target state="translated">&lt;&lt; torna all'Indice del Manuale</target>
+			</trans-unit>
+			<trans-unit id="introduction" approved="yes">
+				<source>Introduction</source>
+				<target state="translated">Introduzione</target>
+			</trans-unit>
+			<trans-unit id="manual_title" approved="yes">
+				<source>TYPO3 Inline User Manual</source>
+				<target state="translated">TYPO3 Manuale Utente Inline</target>
+			</trans-unit>
+			<trans-unit id="seeAlso" approved="yes">
+				<source>See also</source>
+				<target state="translated">Vedi anche</target>
+			</trans-unit>
+			<trans-unit id="syntax" approved="yes">
+				<source>Syntax</source>
+				<target state="translated">Sintassi</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>TYPO3 Inline Help</source>
+				<target state="translated">TYPO3 Help Inline</target>
+			</trans-unit>
+			<trans-unit id="TOC" approved="yes">
+				<source>Table Of Contents</source>
+				<target state="translated">Indice</target>
+			</trans-unit>
+			<trans-unit id="TOC_core" approved="yes">
+				<source>TYPO3 Core Features</source>
+				<target state="translated">Caratteristiche principali di TYPO3</target>
+			</trans-unit>
+			<trans-unit id="TOC_extensions" approved="yes">
+				<source>Extensions</source>
+				<target state="translated">Estensioni</target>
+			</trans-unit>
+			<trans-unit id="TOC_glossary" approved="yes">
+				<source>Glossary</source>
+				<target state="translated">Glossario</target>
+			</trans-unit>
+			<trans-unit id="TOC_modules" approved="yes">
+				<source>Backend Modules</source>
+				<target state="translated">Moduli di Backend</target>
+			</trans-unit>
+			<trans-unit id="TOC_other" approved="yes">
+				<source>Other</source>
+				<target state="translated">Altro</target>
+			</trans-unit>
+			<trans-unit id="TOC_tables" approved="yes">
+				<source>Database Tables</source>
+				<target state="translated">Tabelle del Database</target>
+			</trans-unit>
+			<trans-unit id="to_top" approved="yes">
+				<source>To top</source>
+				<target state="translated">Torna all'inizio</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

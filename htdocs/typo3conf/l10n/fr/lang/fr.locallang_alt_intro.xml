@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="endText">Les fonctions peuvent varier selon votre site web et selon vos droits d'accès.</label>
+			<label index="introtext">Système de Gestion de Contenu Web</label>
+			<label index="introtext2">Voici une brève description des modules disponibles :</label>
+			<label index="userInfo">Vous êtes connecté sous :</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

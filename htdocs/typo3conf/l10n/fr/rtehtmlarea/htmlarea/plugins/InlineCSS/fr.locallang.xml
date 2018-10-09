@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="Default">Par défaut</label>
+			<label index="InlineCSS-class-Tooltip">Appliquer un style au texte sélectionné</label>
+			<label index="InlineCSSStyleTooltip">Appliquer un style au texte sélectionné</label>
+			<label index="Undefined">Indéfini</label>
+			<label index="You have to select some text">Aucun texte n'est sélectionné.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

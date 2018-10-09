@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="Allow-Clipboard-Helper-Add-On-Title">Extension Firefox AllowClipboard Helper</label>
+			<label index="Firefox-Security-Prefs-Question-Title">Paramêtre de sécurité pour l'accès au presse papier de Firefox</label>
+			<label index="Technische Universitat Ilmenau">Université technologique d'Ilmenau</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

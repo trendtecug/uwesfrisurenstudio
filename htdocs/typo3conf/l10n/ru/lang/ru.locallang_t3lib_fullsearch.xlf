@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T02:37:26Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="query_from_action_loaded" approved="yes">
+				<source>Query from action "%s" loaded!</source>
+				<target state="translated">Загружен запрос из действия "%s"!</target>
+			</trans-unit>
+			<trans-unit id="query_loaded" approved="yes">
+				<source>Query "%s" loaded!</source>
+				<target state="translated">Загружен запрос "%s"!</target>
+			</trans-unit>
+			<trans-unit id="query_notsaved" approved="yes">
+				<source>No query saved!</source>
+				<target state="translated">Запросы не сохранены!</target>
+			</trans-unit>
+			<trans-unit id="query_removed" approved="yes">
+				<source>"%s" query entry removed!</source>
+				<target state="translated">Элемент "%s" запроса удален!</target>
+			</trans-unit>
+			<trans-unit id="query_saved" approved="yes">
+				<source>Query saved!</source>
+				<target state="translated">Запрос сохранен!</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-30T02:30:25Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="clickAPage_content" approved="yes">
+				<source>Please click a page title in the page tree.</source>
+				<target state="translated">Clicca sul titolo di una pagina dell'albero delle pagine</target>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tabdescr" approved="yes">
+				<source>This module contains general export and import functions in addition to specialised wizards enabling page sorting and batch creating of pages.</source>
+				<target state="translated">Nel modulo sono presenti funzioni per importare/esportare dati, e assistenti (wizard) per creare velocemente o riordinare le pagine.</target>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tablabel" approved="yes">
+				<source>Advanced functions</source>
+				<target state="translated">Funzioni avanzate</target>
+			</trans-unit>
+			<trans-unit id="mlang_tabs_tab" approved="yes">
+				<source>Functions</source>
+				<target state="translated">Funzioni</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Advanced functions</source>
+				<target state="translated">Funzioni avanzate</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

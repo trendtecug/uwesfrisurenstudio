@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="Arial">Arial</label>
+			<label index="Arial Black">Arial Black</label>
+			<label index="Courier">Courier</label>
+			<label index="Default font">Police par défaut</label>
+			<label index="Default size">Taille par défaut</label>
+			<label index="Extra large">Extrêmement grand</label>
+			<label index="Extra small">Extrêmement petit</label>
+			<label index="Garamond">Garamond</label>
+			<label index="Large">Grand</label>
+			<label index="Lucida Handwriting">Lucida Handwriting</label>
+			<label index="Medium">Moyen</label>
+			<label index="No font">Aucune police</label>
+			<label index="No size">Aucune taille de police</label>
+			<label index="Small">Petit</label>
+			<label index="Times New Roman">Time New Roman</label>
+			<label index="Verdana">Verdana</label>
+			<label index="Very large">Très grand</label>
+			<label index="Very small">Très petit</label>
+			<label index="Webdings">Webdings</label>
+			<label index="Wingdings">Wingdings</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="catdocDisabled">catdoc tools (fichiers Word) désactivé</label>
+			<label index="catdocNotFound">'catdoc' tool (lecture des fichiers Word) n'a pas été trouvé dans le dossier '%scatdoc'</label>
+			<label index="extension.CSV">Valeurs séparées par des virgules (*.%s)</label>
+			<label index="extension.DOC">MS Word (*.%s)</label>
+			<label index="extension.HTML">Pages Web (*.%s)</label>
+			<label index="extension.images">Images (*.%s)</label>
+			<label index="extension.ODP">ODF Presentation (*.%s)</label>
+			<label index="extension.ODS">ODF Spreadsheet (*.%s)</label>
+			<label index="extension.ODT">ODF Text (*.%s)</label>
+			<label index="extension.PDF">PDF (*.%s)</label>
+			<label index="extension.PP">MS Powerpoint (*.%s)</label>
+			<label index="extension.RTF">Rich Text Format (*.%s)</label>
+			<label index="extension.SXC">OpenOffice.org Calc (*.%s)</label>
+			<label index="extension.SXI">OpenOffice.org Impress (*.%s)</label>
+			<label index="extension.SXW">OpenOffice.org Writer (*.%s)</label>
+			<label index="extension.TXT">Fichiers textes (*.%s)</label>
+			<label index="extension.XLS">MS Excel (*.%s)</label>
+			<label index="extension.XML">Extensible Markup Language (*.%s)</label>
+			<label index="ignoreExtensions">L'extension %s a été configurée pour être ignorée.</label>
+			<label index="mod2_indexed_search">Statistiques du moteur de recherche indexée</label>
+			<label index="mod_indexed_search">Recherche indexée</label>
+			<label index="pdfToolsDisabled">PDF tools désactivé</label>
+			<label index="pdfToolsFailed">PDFtoText a échoué sur ce document: '%s'. Il se peut que le fichier PDF soit verrouillé contre l'impression ou crypté.</label>
+			<label index="pdfToolsNotFound">PDF tools n'a pas été trouvé dans les dossiers '%1$spdftotext' et/ou '%1$spdfinfo'</label>
+			<label index="ppthtmlDisabled">ppthtml tools (fichiers Powerpoint) désactivé</label>
+			<label index="ppthtmlNotFound">'ppthtml' tool (lecture des fichiers Powerpoint) n'a pas été trouvé dans le dossier '%sppthtml'</label>
+			<label index="unrtfDisabled">unrtf tool (fichiers RTF) désactivé</label>
+			<label index="unrtfNotFound">'unrtf' tool (lecture des fichiers RTF) n'a pas été trouvé dans le dossier '%sunrtf'</label>
+			<label index="unzipDisabled">unzip tool (fichiers OpenOffice.org) désactivé</label>
+			<label index="unzipNotFound">'unzip' tool (lecture des fichiers OpenOffice.org) n'a pas été trouvé dans le dossier '%sunzip'</label>
+			<label index="xlhtmlDisabled">xlhtml tools (fichiers Excel) désactivé</label>
+			<label index="xlhtmlNotFound">'xlhtml' tool (lecture des fichiers Excel) n'a pas été trouvé dans le dossier '%sxlhtml'</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

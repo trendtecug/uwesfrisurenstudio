@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T04:45:45Z" product-name="taskcenter">
+		<header/>
+		<body>
+			<trans-unit id="choose_task" approved="yes">
+				<source>Task:</source>
+				<target state="translated">Задача:</target>
+			</trans-unit>
+			<trans-unit id="lCancel" approved="yes">
+				<source>Cancel</source>
+				<target state="translated">Отмена</target>
+			</trans-unit>
+			<trans-unit id="lCreate" approved="yes">
+				<source>Create</source>
+				<target state="translated">Создать</target>
+			</trans-unit>
+			<trans-unit id="lDelete" approved="yes">
+				<source>Delete</source>
+				<target state="translated">Удалить</target>
+			</trans-unit>
+			<trans-unit id="lDelete_warning" approved="yes">
+				<source>Are you sure you want to delete this user?</source>
+				<target state="translated">Подтвердите удаление этого пользователя.</target>
+			</trans-unit>
+			<trans-unit id="lHomedir" approved="yes">
+				<source>Home dir</source>
+				<target state="translated">Домашняя папка</target>
+			</trans-unit>
+			<trans-unit id="listSeparator_Groups" approved="yes">
+				<source>__Groups:__</source>
+				<target state="translated">__Группы:__</target>
+			</trans-unit>
+			<trans-unit id="lNone" approved="yes">
+				<source>[none]</source>
+				<target state="translated">[нет]</target>
+			</trans-unit>
+			<trans-unit id="lReplyAddress" approved="yes">
+				<source>Reply address is your email</source>
+				<target state="translated">Адресом ответа служит ваш email</target>
+			</trans-unit>
+			<trans-unit id="lSelf" approved="yes">
+				<source>Self</source>
+				<target state="translated">Сам</target>
+			</trans-unit>
+			<trans-unit id="lSendNew" approved="yes">
+				<source>Send message</source>
+				<target state="translated">Отправить сообщение</target>
+			</trans-unit>
+			<trans-unit id="lSendReply" approved="yes">
+				<source>Reply to message</source>
+				<target state="translated">Ответить на сообщение</target>
+			</trans-unit>
+			<trans-unit id="lUpdate" approved="yes">
+				<source>Update</source>
+				<target state="translated">Обновить</target>
+			</trans-unit>
+			<trans-unit id="mlang_tabs_tab" approved="yes">
+				<source>Tasks</source>
+				<target state="translated">Задачи</target>
+			</trans-unit>
+			<trans-unit id="taskcenter" approved="yes">
+				<source>Taskcenter</source>
+				<target state="translated">Центр заданий</target>
+			</trans-unit>
+			<trans-unit id="task_help_description" approved="yes">
+				<source>Get more information about the taskcenter</source>
+				<target state="translated">Получить дополнительные сведения о центре заданий.</target>
+			</trans-unit>
+			<trans-unit id="task_help_title" approved="yes">
+				<source>About the taskcenter</source>
+				<target state="translated">Сведения о центре заданий</target>
+			</trans-unit>
+			<trans-unit id="task_overview" approved="yes">
+				<source>Overview</source>
+				<target state="translated">Обзор</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index=".alttitle"/>
+			<label index="className.alttitle"/>
+			<label index="className.description">Choisissez un sélecteur de classe CSS à assigner à l’élément</label>
+			<label index=".description"/>
+			<label index=".details"/>
+			<label index="events.alttitle"/>
+			<label index="events.description"/>
+			<label index="id.alttitle"/>
+			<label index="id.description">Entrez ou modifiez la valeur du titre de l'attribut de l'élément</label>
+			<label index=".image"/>
+			<label index=".image_descr"/>
+			<label index="onclick.alttitle"/>
+			<label index="onclick.description"/>
+			<label index="ondblclick.alttitle"/>
+			<label index="ondblclick.description"/>
+			<label index="onkeydown.alttitle"/>
+			<label index="onkeydown.description">Entrer ou modifier le script à lancer quand une touche est appuyée</label>
+			<label index="onkeypress.alttitle"/>
+			<label index="onkeypress.description">Entrer ou modifier le script à lancer quand une touche est appuyée</label>
+			<label index="onkeyup.alttitle"/>
+			<label index="onkeyup.description">Entrer ou modifier le script à lancer quand une touche est appuyée</label>
+			<label index="onmousedown.alttitle"/>
+			<label index="onmousedown.description">Entrer ou modifier le script à lancer quand une touche est appuyée</label>
+			<label index="onmousemove.alttitle"/>
+			<label index="onmousemove.description"/>
+			<label index="onmouseout.alttitle"/>
+			<label index="onmouseout.description"/>
+			<label index="onmouseover.alttitle"/>
+			<label index="onmouseover.description"/>
+			<label index="onmouseup.alttitle"/>
+			<label index="onmouseup.description">Entrer ou modifier le script à lancer quand une touche est appuyée</label>
+			<label index=".seeAlso"/>
+			<label index="title.alttitle">Titre de l'attribut</label>
+			<label index="title.description">Entrez ou modifiez la valeur du titre de l'attribut de l'élément</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

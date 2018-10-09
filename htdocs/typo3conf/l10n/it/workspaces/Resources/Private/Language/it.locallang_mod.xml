@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="autopublishTask.description">Questo task verifica ogni workspace che ha impostato una data di pubblicazione nel passato e automaticamente lo pubblica.</label>
+			<label index="autopublishTask.name">Auto-pubblicazione dei workspace</label>
+			<label index="cleanupPreviewLinkTask.description">Questo task elimina i vecchi link di anteprima</label>
+			<label index="cleanupPreviewLinkTask.name">Pulizia dei link di anteprima dei workspace</label>
+			<label index="mlang_labels_tabdescr">Questo modulo contiene un'anteprima di tutti gli elementi all'interno del workspace corrente e ne abilita la continuazione della revisione e della pubblicazione.</label>
+			<label index="mlang_labels_tablabel">Creazione e gestione dei workflow di versionamento</label>
+			<label index="mlang_tabs_tab">Workspaces</label>
+			<label index="stage_ready_to_publish">Pront per la pubblicazione</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

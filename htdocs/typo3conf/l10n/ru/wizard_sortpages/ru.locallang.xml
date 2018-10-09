@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="no_subpages">Выберете страницу с вложенными страницами.</label>
+			<label index="wiz_changeOrder">Отсортировать страницы по</label>
+			<label index="wiz_changeOrder_msg1">Вы изменяете порядок отображенных страниц. Вы уверены что хотите продолжить?</label>
+			<label index="wiz_changeOrder_REVERSE">Обратный порядок</label>
+			<label index="wiz_changeOrder_subtitle">Подзаголовку</label>
+			<label index="wiz_changeOrder_tChange">Дате изменения</label>
+			<label index="wiz_changeOrder_tCreate">Дате создания</label>
+			<label index="wiz_changeOrder_title">Названию страницы</label>
+			<label index="wiz_currentPageOrder">Текущий порядок страниц</label>
+			<label index="wiz_sort">Сортировка страниц</label>
+			<label index="wiz_W">W!</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="description">Il cestino ti permette di selezionare qualsiasi record eliminato e di ripristinarlo. Puoi ripristinare ricorsivamente se anche il genitore dell'elemento è stato eliminato.</label>
+			<label index="js.label_boxLabel_undelete_recursive">Ripristino ricorsivo</label>
+			<label index="js.label_clear">Pulisci</label>
+			<label index="js.label_crdate">Crea</label>
+			<label index="js.label_deleteButton_text">Elimina</label>
+			<label index="js.label_deleteButton_tooltip">Elimina selezionati</label>
+			<label index="js.label_deletedTab">Dati eliminati</label>
+			<label index="js.label_doDelete_confirmText">Eliminare questo record E se + una pagina TUTTI i suoi contenuti?&lt;br/&gt;ATTENZIONE: i dati saranno cancellati permanentemente dal database.</label>
+			<label index="js.label_error_NoSelectedRows_msg">Devi selezionare una riga!</label>
+			<label index="js.label_error_NoSelectedRows_title">Nessuna riga selezionata</label>
+			<label index="js.label_filter">Filtro</label>
+			<label index="js.label_filter_emptyText">Parola chiave</label>
+			<label index="js.label_loadMessage">Attendere...&lt;br/&gt;caricando i records!</label>
+			<label index="js.label_lostandfound">Persi e ritrovati</label>
+			<label index="js.label_no">No</label>
+			<label index="js.label_noValueFound">Nessun records per {0}</label>
+			<label index="js.label_owner">Proprietario</label>
+			<label index="js.label_pagingEmpty">Nessun record da mostrare</label>
+			<label index="js.label_pagingMessage">Mostro records {0} - {1} di {2}</label>
+			<label index="js.label_records">Records</label>
+			<label index="js.label_search">Cerca:</label>
+			<label index="js.label_sure">Sei sicuro?</label>
+			<label index="js.label_table">Tabella</label>
+			<label index="js.label_tableMenu_emptyText">Scegli una tabella:</label>
+			<label index="js.label_tableMenu_label">Tabella:</label>
+			<label index="js.label_text_delete">Eliminare records dalle tabelle:</label>
+			<label index="js.label_text_undelete">Ripristinare records dalle tabelle:</label>
+			<label index="js.label_title_delete">Eliminare?</label>
+			<label index="js.label_title_undelete">Ripristino?</label>
+			<label index="js.label_tstamp">Ultima modifica</label>
+			<label index="js.label_undeleteButton_text">Ripristina</label>
+			<label index="js.label_undeleteButton_tooltip">Ripristina selezionati</label>
+			<label index="js.label_yes">Si</label>
+			<label index="label_alltables">Tutte le tabelle</label>
+			<label index="title">Cestino</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

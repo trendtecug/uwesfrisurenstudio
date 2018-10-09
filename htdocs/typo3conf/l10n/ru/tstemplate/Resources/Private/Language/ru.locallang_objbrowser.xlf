@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T04:50:41Z" product-name="tstemplate">
+		<header/>
+		<body>
+			<trans-unit id="addButton" approved="yes">
+				<source>Add</source>
+				<target state="translated">Добавить</target>
+			</trans-unit>
+			<trans-unit id="addKey" approved="yes">
+				<source>&lt;b&gt;Add key&lt;/b&gt;&lt;/a&gt; "%s" to Object List</source>
+				<target state="translated">&lt;b&gt;Добавить ключ&lt;/b&gt;&lt;/a&gt; "%s" к Списку объектов</target>
+			</trans-unit>
+			<trans-unit id="addProperty" approved="yes">
+				<source>Add object property:</source>
+				<target state="translated">Добавить свойство объекта:</target>
+			</trans-unit>
+			<trans-unit id="all" approved="yes">
+				<source>All</source>
+				<target state="translated">Все</target>
+			</trans-unit>
+			<trans-unit id="back" approved="no">
+				<source>Back</source>
+				<target state="needs-translation">&lt; Назад</target>
+			</trans-unit>
+			<trans-unit id="badProperty" approved="yes">
+				<source>Bad property!</source>
+				<target state="translated">Ошибочное свойство!</target>
+			</trans-unit>
+			<trans-unit id="browse" approved="yes">
+				<source>Browse:</source>
+				<target state="translated">Просмотр:</target>
+			</trans-unit>
+			<trans-unit id="clear" approved="yes">
+				<source>Clear?</source>
+				<target state="translated">Очистить?</target>
+			</trans-unit>
+			<trans-unit id="clearButton" approved="yes">
+				<source>Clear</source>
+				<target state="translated">Очистить</target>
+			</trans-unit>
+			<trans-unit id="clearObject" approved="yes">
+				<source>Clear object:</source>
+				<target state="translated">Очистить объект:</target>
+			</trans-unit>
+			<trans-unit id="conditions" approved="yes">
+				<source>Conditions</source>
+				<target state="translated">Условия</target>
+			</trans-unit>
+			<trans-unit id="constantRoot" approved="yes">
+				<source>constants root</source>
+				<target state="translated">корневые константы</target>
+			</trans-unit>
+			<trans-unit id="constants" approved="yes">
+				<source>Constants</source>
+				<target state="translated">Константы</target>
+			</trans-unit>
+			<trans-unit id="cropLines" approved="yes">
+				<source>Crop lines</source>
+				<target state="translated">Обрезка строк</target>
+			</trans-unit>
+			<trans-unit id="currentTemplate" approved="yes">
+				<source>Current template</source>
+				<target state="translated">Текущий шаблон</target>
+			</trans-unit>
+			<trans-unit id="displayComments" approved="yes">
+				<source>Display comments</source>
+				<target state="translated">Вывести комментарии</target>
+			</trans-unit>
+			<trans-unit id="displayConstants" approved="yes">
+				<source>Display constants:</source>
+				<target state="translated">Вывод констант:</target>
+			</trans-unit>
+			<trans-unit id="displayOptions" approved="yes">
+				<source>Display options</source>
+				<target state="translated">Вывод параметров</target>
+			</trans-unit>
+			<trans-unit id="edit" approved="yes">
+				<source>Edit:</source>
+				<target state="translated">Править:</target>
+			</trans-unit>
+			<trans-unit id="editProperty" approved="yes">
+				<source>Edit object/property value:</source>
+				<target state="translated">Правка значения объекта/свойства:</target>
+			</trans-unit>
+			<trans-unit id="errorShowDetails" approved="yes">
+				<source>Show details</source>
+				<target state="translated">Подробно</target>
+			</trans-unit>
+			<trans-unit id="errorsWarnings" approved="yes">
+				<source>Errors and warnings</source>
+				<target state="translated">Ошибки и предупреждения</target>
+			</trans-unit>
+			<trans-unit id="noCurrentTemplate" approved="yes">
+				<source>You cannot edit properties and values, if there's no current template.</source>
+				<target state="translated">Невозможно править свойства и значение при отсутствии какого-либо шаблона.</target>
+			</trans-unit>
+			<trans-unit id="noSpaces" approved="yes">
+				<source>You must enter a property with characters a-z, A-Z and 0-9, no spaces!</source>
+				<target state="translated">Название свойство должно включать символы a-z, A-Z и 0-9, без пробелов!</target>
+			</trans-unit>
+			<trans-unit id="nothingUpdated" approved="yes">
+				<source>Nothing was updated!</source>
+				<target state="translated">Ничего не обновлено!</target>
+			</trans-unit>
+			<trans-unit id="objectCleared" approved="yes">
+				<source>Object cleared</source>
+				<target state="translated">Объект очищен</target>
+			</trans-unit>
+			<trans-unit id="objectList" approved="yes">
+				<source>Object List:</source>
+				<target state="translated">Список объектов:</target>
+			</trans-unit>
+			<trans-unit id="plainSubstitution" approved="yes">
+				<source>Plain substitution (default)</source>
+				<target state="translated">Простая замена (по умолчанию)</target>
+			</trans-unit>
+			<trans-unit id="propertyAdded" approved="yes">
+				<source>Property added</source>
+				<target state="translated">Свойство добавлено</target>
+			</trans-unit>
+			<trans-unit id="regExp" approved="yes">
+				<source>Regular expressions</source>
+				<target state="translated">Регулярные выражения</target>
+			</trans-unit>
+			<trans-unit id="removeKey" approved="yes">
+				<source>Remove key from OL</source>
+				<target state="translated">&lt;b&gt;Удалить ключ&lt;/b&gt;&lt;/a&gt; "%s" из Списка объектов</target>
+			</trans-unit>
+			<trans-unit id="search" approved="yes">
+				<source>Search:</source>
+				<target state="translated">Поиск:</target>
+			</trans-unit>
+			<trans-unit id="setConditions" approved="yes">
+				<source>Set conditions</source>
+				<target state="translated">Назначить условия</target>
+			</trans-unit>
+			<trans-unit id="setup" approved="yes">
+				<source>Setup</source>
+				<target state="translated">Настройка</target>
+			</trans-unit>
+			<trans-unit id="setupRoot" approved="yes">
+				<source>setup root</source>
+				<target state="translated">корневая настройка</target>
+			</trans-unit>
+			<trans-unit id="sortAlphabetically" approved="yes">
+				<source>Sort alphabetically</source>
+				<target state="translated">Упорядочить по алфавиту</target>
+			</trans-unit>
+			<trans-unit id="substitutedGreen" approved="yes">
+				<source>Substituted constants in green</source>
+				<target state="translated">Заменённые константы зелёные</target>
+			</trans-unit>
+			<trans-unit id="unsubstitutedGreen" approved="yes">
+				<source>UN-substituted constants in green</source>
+				<target state="translated">Заменённые константы выводятся зелёным</target>
+			</trans-unit>
+			<trans-unit id="updateButton" approved="yes">
+				<source>Update</source>
+				<target state="translated">Обновить</target>
+			</trans-unit>
+			<trans-unit id="valueUpdated" approved="yes">
+				<source>Value updated</source>
+				<target state="translated">Значение обновлено</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

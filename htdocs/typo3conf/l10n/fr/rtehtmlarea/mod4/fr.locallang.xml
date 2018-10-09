@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="alt">Texte de remplacement</label>
+			<label index="border">Bordure</label>
+			<label index="bytes">octets</label>
+			<label index="class">Style</label>
+			<label index="currentImage">Image courante</label>
+			<label index="dragDropImage">Glisser-Déposer</label>
+			<label index="float">Flottaison</label>
+			<label index="folderTree">Arborescence de dossiers</label>
+			<label index="height">Hauteur</label>
+			<label index="images">Images</label>
+			<label index="left">À gauche</label>
+			<label index="magicImage">Nouvelle 'Magic' Image</label>
+			<label index="magicImage_msg">Dans le mode "Magic", vous pouvez sélectionner n'importe quel format d'image.</label>
+			<label index="margin_lr">Marge d/g</label>
+			<label index="margin_tb">Marge h/b</label>
+			<label index="nonFloating">Sans flottaison</label>
+			<label index="notSet">Non spécifié</label>
+			<label index="padding_bottom">Espace intérieur bas</label>
+			<label index="padding_left">Espace intérieur gauche</label>
+			<label index="padding_right">Espace intérieur droit</label>
+			<label index="padding_top">Espace intérieur haut</label>
+			<label index="path">Chemin</label>
+			<label index="pixels">pixels</label>
+			<label index="plainImage">Nouvelle 'Plain' Image</label>
+			<label index="plainImage_msg">Dans le mode "Plain", vous ne pouvez sélectionner que les formats d'image web (jpg,jpeg,gif,png) jusqu'à une résolution maximale de %1$sx%2$s pixels.</label>
+			<label index="right">À droite</label>
+			<label index="title">Titre</label>
+			<label index="update">Mettre à jour</label>
+			<label index="uploadImage">Uploader une image</label>
+			<label index="width">Largeur</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

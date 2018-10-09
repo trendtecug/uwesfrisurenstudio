@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="error-access">Нет доступа к этому модулю</label>
+			<label index="error_header">Ошибка</label>
+			<label index="error_no-instance">Класс "%s" не поддерживает интерфейс задач "%s", необходимый для отображения здесь.</label>
+			<label index="lCancel">Отменить</label>
+			<label index="lCreate">Создать</label>
+			<label index="lDelete">Удалить</label>
+			<label index="lDelete_warning">Вы действительно хотите удалить этого пользователя?</label>
+			<label index="lHomedir">Исходная папка</label>
+			<label index="listSeparator_Groups">__Группы:__</label>
+			<label index="lNone">[нет]</label>
+			<label index="lReplyAddress">Адрес эл. почты для ответа</label>
+			<label index="lSelf">Сам</label>
+			<label index="lSendNew">Послать сообщение</label>
+			<label index="lSendReply">Ответить на сообщение</label>
+			<label index="lUpdate">Обновить</label>
+			<label index="mlang_tabs_tab">Задачи</label>
+			<label index="no-tasks">Задачи еще не были зарегистрированы.</label>
+			<label index="taskcenter-about">&lt;p&gt;В меню слева показаны все доступные задачи, отсюда возможно эффективное выполнение своих заданий.&lt;/p&gt; &lt;ul class="withicons"&gt; &lt;li&gt;Щелчок по названию задачи откроет детали самой задачи.&lt;/li&gt; &lt;li&gt;Щелчок по стрелке справа откроет/скроет подменю задачи.&lt;/li&gt; &lt;/ul&gt; &lt;br /&gt; &lt;strong&gt;Замечание:&lt;/strong&gt; установите центр заданий в качестве модуля по умолчанию после авторизации для ускорения доступа к нему!</label>
+			<label index="taskcenter-admin">Дополнить центр заданий своими задачами просто. За дополнительной информацией обратитесь к руководству по расширению "taskcenter".</label>
+			<label index="taskcenter-adminheader">Создать задачу</label>
+			<label index="task_description">Описание, блаблабла lipusm</label>
+			<label index="task_overview">Обзор</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

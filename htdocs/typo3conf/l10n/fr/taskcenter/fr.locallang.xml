@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="choose_task">Tâche:</label>
+			<label index="lCancel">Annuler</label>
+			<label index="lCreate">Créer</label>
+			<label index="lDelete">Supprimer</label>
+			<label index="lDelete_warning">Êtes-vous sûr de vouloir supprimer cet utilisateur?</label>
+			<label index="lHomedir">Répertoire personnel</label>
+			<label index="listSeparator_Groups">_Groupes : _</label>
+			<label index="lNone">[vide]</label>
+			<label index="lReplyAddress">L'adresse de réponse est votre email</label>
+			<label index="lSelf">Personnel</label>
+			<label index="lSendNew">Envoyer le message</label>
+			<label index="lSendReply">Répondre au message</label>
+			<label index="lUpdate">Mettre à jour</label>
+			<label index="mlang_tabs_tab">Tâches</label>
+			<label index="taskcenter">Centre de tâches</label>
+			<label index="task_help_description">Avoir plus d'informations sur le centre de tâches</label>
+			<label index="task_help_title">À propos du centre de tâches</label>
+			<label index="task_overview">Vue d'ensemble</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

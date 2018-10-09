@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="tx_rtehtmlarea_acronym">Abbreviazione</label>
+			<label index="tx_rtehtmlarea_acronym.acronym">Abbreviazione</label>
+			<label index="tx_rtehtmlarea_acronym.static_lang_isocode">Lingua dell'abbreviazione</label>
+			<label index="tx_rtehtmlarea_acronym.term">Termine</label>
+			<label index="tx_rtehtmlarea_acronym.type">Tipo</label>
+			<label index="tx_rtehtmlarea_acronym.type.I.0">Acronimo</label>
+			<label index="tx_rtehtmlarea_acronym.type.I.1">Abbreviazione</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

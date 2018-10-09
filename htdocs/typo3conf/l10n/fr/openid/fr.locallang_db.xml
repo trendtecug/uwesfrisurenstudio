@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="be_groups.tx_openid_change_allowed">Changer son propre OpenID:</label>
+			<label index="be_users.tx_openid_openid">Identifiant OpenID:</label>
+			<label index="fe_users.tx_openid_openid">Identifiant OpenID:</label>
+			<label index="_MOD_user_setup.tx_openid_openid">Identifiant OpenID</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

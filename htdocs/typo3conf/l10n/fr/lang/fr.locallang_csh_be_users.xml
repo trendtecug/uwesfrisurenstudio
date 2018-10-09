@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="admin.description">Les utilisateurs 'Admin' ont un accès TOTAL au système!</label>
+			<label index="admin.details"/>
+			<label index="_admin.image">EXT:lang/cshimages/beuser_4.png</label>
+			<label index="allowed_languages.description"/>
+			<label index="allowed_languages.details"/>
+			<label index="_allowed_languages.image">EXT:lang/cshimages/be_groups_18.png</label>
+			<label index="_allowed_languages.seeAlso">be_groups:allowed_languages</label>
+			<label index="db_mountpoints.description">Assigne un point d'entrée pour l'arborescence utilisateur.</label>
+			<label index="db_mountpoints.details"/>
+			<label index="_db_mountpoints.image">EXT:lang/cshimages/be_groups_3.png, EXT:lang/cshimages/be_groups_4.png</label>
+			<label index="db_mountpoints.image_descr"/>
+			<label index="_db_mountpoints.seeAlso">be_groups:db_mountpoints, be_users:file_mountpoints, be_users:options, xMOD_csh_corebe:perm_module, xMOD_csh_corebe:pagetree</label>
+			<label index=".description">C'est la table d'administration des utilisateurs backend. Les utilisateurs backend peuvent se connecter dans le backend de TYPO3 et sont typiquement des rédacteurs de contenu.</label>
+			<label index=".details"/>
+			<label index="disable.description">Cette option désactivera temporairement l'accès au utilisateur backend.</label>
+			<label index="disableIPlock.description">Désactive le verrou sur adresse IP distant des utilisateurs backend.</label>
+			<label index="disableIPlock.details"/>
+			<label index="_disable.seeAlso">be_users:starttime, be_users:endtime</label>
+			<label index="email.description">Entrez l'adresse email de l'utilisateur.</label>
+			<label index="email.details">Il est assez important d'entrer l'adresse email de l'utilisateur car c'est sur celle-ci que les messages systèmes sont envoyés. &lt;strong&gt;Notez&lt;/strong&gt; que l'utilisateur peut modifier cette adresse par lui-même via le module Utilisateur&gt;Configuration.</label>
+			<label index="_email.seeAlso">be_users:realName, _MOD_user_setup:option_newPassword</label>
+			<label index="endtime.description">Entrez la date à partir de laquelle le compte devient inactif.</label>
+			<label index="_endtime.seeAlso">be_users:disable, be_users:starttime, pages:starttime</label>
+			<label index="file_mountpoints.description">Assigne un point d'entrée pour l'arborescence de fichier.</label>
+			<label index="file_mountpoints.details"/>
+			<label index="_file_mountpoints.seeAlso">be_groups:file_mountpoints, be_users:db_mountpoints, be_users:options, xMOD_csh_corebe:filetree, sys_filemounts</label>
+			<label index="fileoper_perms.description"/>
+			<label index="fileoper_perms.details"/>
+			<label index="_fileoper_perms.seeAlso">be_users:file_mountpoints, be_group:fileoper_perms</label>
+			<label index="file_permissions.description"/>
+			<label index="file_permissions.details"/>
+			<label index="file_permissions.seeAlso">be_users:file_mountpoints, be_group:fileoper_perms</label>
+			<label index="_.image">EXT:lang/cshimages/beuser_2.png, EXT:lang/cshimages/beuser_1.png, EXT:lang/cshimages/beuser_3.png</label>
+			<label index=".image_descr"/>
+			<label index="lang.description">Sélectionnez la langue par &lt;em&gt;défaut&lt;/em&gt;</label>
+			<label index="lang.details"/>
+			<label index="_lang.seeAlso">_MOD_user_setup:language</label>
+			<label index="lastlogin.description"/>
+			<label index="lockToDomain.description">Entrez le nom de machine à partir de laquelle l'utilisateur doit s'enregistrer.</label>
+			<label index="lockToDomain.details"/>
+			<label index="_lockToDomain.seeAlso">be_groups:lockToDomain, fe_users:lockToDomain, fe_groups:lockToDomain</label>
+			<label index="options.description"/>
+			<label index="options.details"/>
+			<label index="_options.seeAlso">be_users:db_mountpoints, be_users:file_mountpoints</label>
+			<label index="password.description">Entrez le mot de passe pour l'utilisateur du back-office ci-dessus (notez que la valeur que vous entrez &lt;em&gt;sera&lt;/em&gt; lisible dans le champ!).</label>
+			<label index="password.details"/>
+			<label index="_password.seeAlso">_MOD_user_setup:option_newPassword</label>
+			<label index="realName.description">Entrez le nom de l'utilisateur, par ex. Brice Bernard ou David Pachot.</label>
+			<label index="realName.details">&lt;strong&gt;Notez&lt;/strong&gt; que l'utilisateur peut modifier cette adresse par lui-même via le module Utilisateur&gt;Configuration.</label>
+			<label index="_realName.seeAlso">be_users:email, _MOD_user_setup:option_newPassword</label>
+			<label index="_.seeAlso"/>
+			<label index="starttime.description">Entrez la date à partir de laquelle le compte devient actif.</label>
+			<label index="_starttime.seeAlso">be_users:disable, be_users:endtime, pages:starttime</label>
+			<label index="TSconfig.description">Entrez un TSconfig additionnel pour l'utilisateur (avancé).</label>
+			<label index="TSconfig.details"/>
+			<label index="_TSconfig.seeAlso">pages:TSconfig, fe_users:TSconfig, be_groups:TSconfig, TSconfig utilisateur | http://typo3.org/documentation/document-library/doc_core_tsconfig/User_TSconfig/</label>
+			<label index="usergroup.description">Attribuez un groupe à l'utilisateur du backend.</label>
+			<label index="usergroup.details"/>
+			<label index="_usergroup.seeAlso">be_users:TSconfig, be_groups</label>
+			<label index="userMods.description">Choisissez les modules backend disponibles pour cet utilisateur.</label>
+			<label index="userMods.details"/>
+			<label index="_userMods.seeAlso">be_groups:groupMods</label>
+			<label index="username.description">Entrez le nom d'utilisateur du backend.</label>
+			<label index="username.details">Un nom d'utilisateur est nécessaire et doit être composé de minuscules sans espaces. De plus, celui-ci doit être unique. S'il existe déjà dans la base, un chiffre sera ajouté en suffixe automatiquement.</label>
+			<label index="_username.seeAlso">be_users:password</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

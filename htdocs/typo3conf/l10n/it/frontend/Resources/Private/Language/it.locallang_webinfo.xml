@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="hits_title"/>
+			<label index="lang_getlangsta_createNewTranslationHeaders"/>
+			<label index="lang_renderl10n_badThingThereAre"/>
+			<label index="lang_renderl10n_CEcount"/>
+			<label index="lang_renderl10n_default">Predefinito</label>
+			<label index="lang_renderl10n_editDefaultLanguagePage"/>
+			<label index="lang_renderl10n_editLangOverlays"/>
+			<label index="lang_renderl10n_editLanguageOverlayRecord"/>
+			<label index="lang_renderl10n_editPage"/>
+			<label index="lang_renderl10n_editPageLang"/>
+			<label index="lang_renderl10n_editPageProperties"/>
+			<label index="lang_renderl10n_page">Pagina</label>
+			<label index="lang_renderl10n_viewPage">Visualizza pagina</label>
+			<label index="lang_title"/>
+			<label index="pageInformation">Informazioni pagina</label>
+			<label index="pages_0">Impostazioni di base</label>
+			<label index="pages_1"/>
+			<label index="pages_2"/>
+			<label index="page_sysnote">Note interne</label>
+			<label index="page_title"/>
+			<label index="pI_crDate">Data di creazione</label>
+			<label index="pI_crUser">Creato da</label>
+			<label index="pI_lastChange">Ultima modifica</label>
+			<label index="pI_lastChangeContent"/>
+			<label index="stat_period"/>
+			<label index="stat_type_0"/>
+			<label index="stat_type_1"/>
+			<label index="stat_type_2"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

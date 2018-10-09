@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="author.description">Введите своё имя.</label>
+			<label index="category.description">Выберете категорию, описывающую характер заметки.</label>
+			<label index=".description">Внутреннее напоминание прикрепляется к странице.</label>
+			<label index=".details">Это простая возможность прикрепления информативных заметок для внутренних распоряжений к странице. Используйте по собственному усмотрению для напоминаний, инструкций и тому подобного.</label>
+			<label index="email.description">Введите адрес своей почты.</label>
+			<label index="message.description">Это сама заметка.</label>
+			<label index="personal.description">Установите это, если не нужно, чтобы другие пользователи видели эту заметку.</label>
+			<label index="_.seeAlso">страницы</label>
+			<label index="subject.description">Введите название заметки.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

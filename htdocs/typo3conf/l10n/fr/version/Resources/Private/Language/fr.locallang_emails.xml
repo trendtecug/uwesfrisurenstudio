@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="message"/>
+			<label index="subject">TYPO3 Note pour l'espace de travail : l'état change pour ###ELEMENT_NAME###</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

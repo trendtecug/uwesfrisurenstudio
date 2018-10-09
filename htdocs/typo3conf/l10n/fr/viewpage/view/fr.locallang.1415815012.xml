@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="mlang_labels_tablabel">Voir la page</label>
+			<label index="mlang_labels_tabdescr">Montre le rendu de la page courante et vous permet de modifier le contenu directement.</label>
+			<label index="mlang_tabs_tab">Voir</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

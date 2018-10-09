@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="dbal.config.sql_query.passthrough">Abilitare MySQL pass-through: Il metodo $GLOBALS['TYPO3_DB']-&gt;sql_query() è solo sperimentalmente supportato da DBAL. Il suo uso dovrebbe essere evitato. Quando attivo, questo flag istruisce DBAL a non tentare il parsing della query e di mandarla sempre as-is a MySQL, così come se DBAL non fosse caricato.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

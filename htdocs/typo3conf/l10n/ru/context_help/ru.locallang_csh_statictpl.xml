@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="config.description">Поле кода настроек TypoScript</label>
+			<label index="_config.seeAlso">sys_template:config</label>
+			<label index="constants.description">Поле констант TypoScript</label>
+			<label index="_constants.seeAlso">sys_template:constants</label>
+			<label index=".description">Статические шаблоны распределяются из централизованной библиотеки TypoScript. Вы никогда не должны изменять эти значения.</label>
+			<label index="description.description">Описание записи статического шаблона.</label>
+			<label index=".details">Статические шаблоны предназначены для включения в Вашу запись шаблона TypoScript в зависимости от Ваших нужд. Смотрите подробнее об этом процессе в документации по "TSref" (ниже). Помните, что каждый выпуск TYPO3 требует переустановку таблицы статических шаблонов через инструмент установки. Смотрите подробнее в документе "Установка/обновление" (ниже)</label>
+			<label index="editorcfg.description">Настройка редактора – используется для настройки редактора таблицы стилей.</label>
+			<label index="_.image">EXT:context_help/Resources/Public/Images/cshimages/static.png</label>
+			<label index=".image_descr">Статические шаблоны расположены в корневой странице, к которой могут получить доступ лишь администраторы. По умолчанию на них установлены права только на чтение, поэтому Вы можете их лишь просматривать не изменяя.</label>
+			<label index="include_static.description">Включение других статических шаблонов</label>
+			<label index="_.seeAlso">sys_template
+TSref | https://docs.typo3.org/typo3cms/TyposcriptReference/
+TypoScript in 45 min| https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/
+Install/Upgrade | https://docs.typo3.org/typo3cms/InstallationGuide/,
+sys_template:include_static</label>
+			<label index="title.description">Заголовок шаблона. Будет виден в списке статических шаблонов в записях шаблонов.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="checkboxes.description">Отметьте следующие флажки для выбора или пропуска соответствующих битых ссылок.</label>
+			<label index="tablehead_path.description">Путь к элементу содержимого с битой ссылкой.</label>
+			<label index="tablehead_element.description">Тип элемента с битой ссылкой, его заголовок и поле, в котором находится битая ссылка.</label>
+			<label index="tablehead_headlink.description">Текст ссылки.</label>
+			<label index="tablehead_linktarget.description">URL на который указывает битая ссылка.</label>
+			<label index="tablehead_linkmessage.description">Статус этой ссылки.</label>
+			<label index="tablehead_lastcheck.description">Дата и время последнего обновления информации в каждом ряду таблицы.</label>
+			<label index="task_page.alttitle">Начальная страница задачи</label>
+			<label index="task_page.description">UID стартовой страницы этой задачи.</label>
+			<label index="task_depth.alttitle">Глубина задачи</label>
+			<label index="task_depth.description">Количество уровней страниц, проверяемых в этой задаче.</label>
+			<label index="task_configuration.alttitle">Специфичный код TSconfig</label>
+			<label index="task_configuration.description">Код TSconfig, определяющий настройки проверки ссылок для этой задачи.</label>
+			<label index="task_email.alttitle">Адрес email</label>
+			<label index="task_email.description">Адрес email, на который отсылается отчёт.</label>
+			<label index="task_emailonbrokenlinkonly.alttitle">Параметры отсылки</label>
+			<label index="task_emailonbrokenlinkonly.description">Отсылать отчёт только при обнаружении новых битых ссылок.</label>
+			<label index="task_emailfile.alttitle">Файл шаблона email</label>
+			<label index="task_emailfile.description">Определение шаблона, используемого для email.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

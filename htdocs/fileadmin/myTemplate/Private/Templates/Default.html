@@ -1,0 +1,144 @@
+<f:layout name="Default" />
+<f:section name="page">
+    <div class="logo">
+        <div class="loader-bg" id="loader-bg"></div>
+        <f:format.raw>{logo}</f:format.raw>
+    </div>
+
+    <header id="header" class="header flex">
+        <div class="headerN header-title">
+            <p>Uwe's Frisuren Studio</p>
+            <span>Erleben Sie den PAUL MITCHELL® Lifestyle!</span>
+        </div>
+        <div class="headerR">
+            <button class="header-btn datenschutz" id="btn-datenschutz-open">Datenschutz
+                <span class="btn-bg"></span>
+                <span class="btn-bg btn-bg-mask"></span>
+            </button>
+            <button class="header-btn impressum" id="btn-impressum-open">Impressum
+                <span class="btn-bg"></span>
+                <span class="btn-bg btn-bg-mask"></span>
+            </button>
+            <br>
+            <button class="header-btn btn contact" id="btn-contact-open">Kontakt
+                <span class="btn-bg"></span>
+                <span class="btn-bg btn-bg-mask"></span>
+            </button>
+            <button class="header-btn btn isOpenTime" id="btn-isOpenTime-open">Öffnungszeiten
+                <span class="btn-bg"></span>
+                <span class="btn-bg btn-bg-mask"></span>
+            </button>
+            <button class="tButton btn" id="gtu-next">Galerie
+                <span class="btn-bg"></span>
+                <span class="btn-bg btn-bg-mask"></span>
+            </button>
+        </div>
+    </header>
+    <nav class="nav" id="nav">
+        <div class="table">
+            <div class="cell">
+                <f:format.raw>{nav}</f:format.raw>
+            </div>
+        </div>
+    </nav>
+
+    <nav class="nav-next">
+        <button type="button" id="btn-next" class="nav-next-btn">
+            <span class="btn-bg"></span>
+        </button>
+    </nav>
+
+    <main class="main container" id="main">
+        <f:format.raw>{inhalt}</f:format.raw>
+    </main>
+
+    <section class="contact" id="datenschutz">
+        <div class="contact-bg" id="datenschutz-bg">
+        </div>
+        <article class="contact-content">
+            <div class="table">
+                <div class="cell">
+                    <header class="contact-header">
+                        <i class="contact-logo">
+                            <a href="/" class="l"></a>
+                        </i>
+                        <span class="contact-us">Datenschutz</span>
+                    </header>
+                    <div class="contact-baseline" style="margin-left: 60px; margin-right: 60px; text-align: justify;">
+                        <f:format.raw>{datenschutz}</f:format.raw>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <button class="btn contact-btn" id="btn-datenschutz-close"></button>
+    </section>
+    <section class="contact" id="impressum">
+        <div class="contact-bg" id="impressum-bg">
+        </div>
+        <article class="contact-content">
+            <div class="table">
+                <div class="cell">
+                    <header class="contact-header">
+                        <i class="contact-logo">
+                            <a href="/" class="l"></a>
+                        </i>
+                        <span class="contact-us">Impressum</span>
+                    </header>
+                    <div class="contact-baseline" style="margin-left: 60px; margin-right: 60px; text-align: justify;">
+                        <f:format.raw>{impressum}</f:format.raw>
+                   </div>
+                </div>
+            </div>
+        </article>
+        <button class="btn contact-btn" id="btn-impressum-close"></button>
+    </section>
+    <section class="contact" id="contact">
+        <div class="contact-bg" id="contact-bg">
+        </div>
+        <article class="contact-content">
+            <div class="table">
+                <div class="cell">
+                    <header class="contact-header">
+                        <i class="contact-logo">
+                            <a href="/" class="l"></a>
+                        </i>
+                        <span class="contact-us">kontakieren Sie Uns</span>
+                    </header>
+
+                    <div class="contact-text">Bitte füllen Sie das Kontaktformular aus. Wir werden uns dann bei Ihnen kurzfristig melden.</div>
+
+                    <div class="flex">
+                        <div class="contact-desc span7">
+                            <f:format.raw>{form}</f:format.raw>
+                        </div>
+
+                        <address class="contact-info span6">
+                            <f:format.raw>{formRight}</f:format.raw>
+                        </address>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <button class="btn contact-btn" id="btn-contact-close"></button>
+    </section>
+    <section class="contact" id="isOpenTime">
+        <div class="contact-bg" id="isOpenTime-bg">
+        </div>
+        <article class="contact-content">
+            <div class="table">
+                <div class="cell">
+                    <header class="contact-header">
+                        <i class="contact-logo"><a href="/" class="l"></a></i>
+                        <span class="contact-us">Öffnungszeiten</span>
+                    </header>
+                    <div class="contact-baseline">
+                        <f:format.raw>{isopentime}</f:format.raw>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <button class="btn contact-btn" id="btn-isOpenTime-close"></button>
+    </section>
+
+</f:section>
+

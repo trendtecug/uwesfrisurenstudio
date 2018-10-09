@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="testTask.name"/>
+			<label index="testTask.description"/>
+			<label index="sleepTask.name"/>
+			<label index="sleepTask.description"/>
+			<label index="cachingFrameworkGarbageCollection.name"/>
+			<label index="cachingFrameworkGarbageCollection.description"/>
+			<label index="fileIndexing.name"/>
+			<label index="fileIndexing.description"/>
+			<label index="fileStorageIndexing.name"/>
+			<label index="fileStorageIndexing.description"/>
+			<label index="fileStorageExtraction.name"/>
+			<label index="fileStorageExtraction.description"/>
+			<label index="tableGarbageCollection.name"/>
+			<label index="tableGarbageCollection.description"/>
+			<label index="recyclerGarbageCollection.name"/>
+			<label index="recyclerGarbageCollection.description"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="environment.status.message.error">Ошибки при проверке контекста работы системы. Они влияют на функционал и стабильность установленной CMS TYPO3. За деталями обратитесь к разделу "System environment" install tool.</label>
+			<label index="environment.status.message.info"/>
+			<label index="environment.status.message.notice">Замечания при проверке контекста работы системы. Они влияют на функционал и стабильность установленной CMS TYPO3. За деталями обратитесь к разделу "System environment" install tool.</label>
+			<label index="environment.status.message.ok"/>
+			<label index="environment.status.message.warning">Предупреждения при проверке контекста работы системы. Они влияют на функционал и стабильность установленной CMS TYPO3. За деталями обратитесь к разделу "System environment" install tool.</label>
+			<label index="environment.status.title">Проверка системы</label>
+			<label index="environment.status.value">%1s тест(ов)</label>
+			<label index="status_directoryDoesNotExist">%s не существует.</label>
+			<label index="status_directoryDoesNotExistCouldNotCreate">%s не существует и не может быть создано.</label>
+			<label index="status_directoryMustBeWritable">%s должна быть доступна для записи.</label>
+			<label index="status_directoryShouldAlsoBeWritable">Если же существует, то должна быть доступна для записи.</label>
+			<label index="status_directoryShouldBeWritable">%s должна быть доступна для записи.</label>
+			<label index="status_fileSystem">Файловая система</label>
+			<label index="status_missingDirectory">Отсутствует необходимая директория</label>
+			<label index="status_nonExistingDirectory">Директория не существует</label>
+			<label index="status_recommendedWritableDirectory">Директория должна быть доступна для записи</label>
+			<label index="status_remainingUpdates">Оставшиеся обновления</label>
+			<label index="status_requiredWritableDirectory">Директория не доступна для записи</label>
+			<label index="status_writable">Доступно для записи</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

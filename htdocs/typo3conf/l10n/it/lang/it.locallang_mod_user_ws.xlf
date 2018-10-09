@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-30T02:30:26Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="create_workspace_no_permission" approved="yes">
+				<source>You have no permission to create workspaces. Only admin users can create workspaces.</source>
+				<target state="translated">Non ti è permesse creare nuovi workspaces. Solo gli admin possono crearne.</target>
+			</trans-unit>
+			<trans-unit id="diff_no_diff" approved="yes">
+				<source>Do not show differences</source>
+				<target state="translated">Non mostrare le differenze</target>
+			</trans-unit>
+			<trans-unit id="diff_show_inline" approved="yes">
+				<source>Show differences inline</source>
+				<target state="translated">Vedi differenze inline</target>
+			</trans-unit>
+			<trans-unit id="diff_show_popup" approved="yes">
+				<source>Show diff. popups (branches)</source>
+				<target state="translated">Vedi differenze in popup (rami)</target>
+			</trans-unit>
+			<trans-unit id="diffview_cannot_find_records" approved="yes">
+				<source>ERROR: Records could strangely not be found!</source>
+				<target state="translated">ERRORE: i records stranamente sembrano non essere individuati!</target>
+			</trans-unit>
+			<trans-unit id="diffview_complete_match" approved="yes">
+				<source>Complete match on editable fields.</source>
+				<target state="translated">Controllo terminato sui campi editabili.</target>
+			</trans-unit>
+			<trans-unit id="diffview_label_colored_diff_view" approved="yes">
+				<source>Colored diff-view:</source>
+				<target state="translated">Visualizzazione differenziata per colore:</target>
+			</trans-unit>
+			<trans-unit id="diffview_label_field_name" approved="yes">
+				<source>Fieldname:</source>
+				<target state="translated">Nome del campo:</target>
+			</trans-unit>
+			<trans-unit id="do_not_interrupt_publishing_1" approved="yes">
+				<source>Do not interrupt publishing process or</source>
+				<target state="translated">Non interrompere il processo o</target>
+			</trans-unit>
+			<trans-unit id="do_not_interrupt_publishing_2" approved="yes">
+				<source>workspace may be left in half-published state!</source>
+				<target state="translated">il workspace potrebbe risultare pubblicato parzialmente.</target>
+			</trans-unit>
+			<trans-unit id="edit_workspace_go_back" approved="yes">
+				<source>Go back</source>
+				<target state="translated">Indietro</target>
+			</trans-unit>
+			<trans-unit id="edit_workspace_no_permission" approved="yes">
+				<source>You have no permission to edit this workspace. Only admin users or owners of the workspace can modify its parameters.</source>
+				<target state="translated">Non hai il permesso di editare quest'area di lavoro. Solo gli utenti amministratori o i proprietari dell'area di lavoro possono modificare questi parametri.</target>
+			</trans-unit>
+			<trans-unit id="edit_workspace_title_edit" approved="yes">
+				<source>Edit workspace</source>
+				<target state="translated">Edita il workspace</target>
+			</trans-unit>
+			<trans-unit id="edit_workspace_title_new" approved="yes">
+				<source>Create new workspace</source>
+				<target state="translated">Crea un nuovo workspace</target>
+			</trans-unit>
+			<trans-unit id="explain_reject" approved="yes">
+				<source>Please explain why you reject:</source>
+				<target state="translated">Spiega perchè lo rifiuti:</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Spiega perché lo rifiuti:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="filter_all" approved="yes">
+				<source>All</source>
+				<target state="translated">Tutti</target>
+			</trans-unit>
+			<trans-unit id="filter_archive" approved="yes">
+				<source>Archive</source>
+				<target state="translated">Archivio</target>
+			</trans-unit>
+			<trans-unit id="filter_drafts" approved="yes">
+				<source>Drafts</source>
+				<target state="translated">Bozze</target>
+			</trans-unit>
+			<trans-unit id="img_title_create_new_workspace" approved="yes">
+				<source>Create new workspace</source>
+				<target state="translated">Crea un nuovo workspace</target>
+			</trans-unit>
+			<trans-unit id="img_title_current_workspace" approved="yes">
+				<source>This is a current workspace!</source>
+				<target state="translated">Questo è l'attuale workspace!</target>
+			</trans-unit>
+			<trans-unit id="img_title_edit_element" approved="yes">
+				<source>Edit element</source>
+				<target state="translated">Edita elemento</target>
+			</trans-unit>
+			<trans-unit id="img_title_edit_page" approved="yes">
+				<source>Edit page</source>
+				<target state="translated">Edita pagina</target>
+			</trans-unit>
+			<trans-unit id="img_title_publish" approved="yes">
+				<source>Publish</source>
+				<target state="translated">Pubblica:</target>
+			</trans-unit>
+			<trans-unit id="img_title_remove_from_ws" approved="yes">
+				<source>Remove from workspace?</source>
+				<target state="translated">Rimuovi dal workspace?</target>
+			</trans-unit>
+			<trans-unit id="img_title_show_log" approved="yes">
+				<source>Show Log</source>
+				<target state="translated">Mostra Log</target>
+			</trans-unit>
+			<trans-unit id="img_title_show_more" approved="yes">
+				<source>Show more</source>
+				<target state="translated">Mostra di più</target>
+			</trans-unit>
+			<trans-unit id="img_title_swap" approved="yes">
+				<source>Swap</source>
+				<target state="translated">Scambia</target>
+			</trans-unit>
+			<trans-unit id="label_access_level" approved="yes">
+				<source>Access level:</source>
+				<target state="translated">Livello di accesso:</target>
+			</trans-unit>
+			<trans-unit id="label_allWSes" approved="yes">
+				<source>All workspaces</source>
+				<target state="translated">Tutti i workspaces</target>
+			</trans-unit>
+			<trans-unit id="label_approveforpublishing" approved="yes">
+				<source>Approve for publishing</source>
+				<target state="translated">Approva la pubblicazione</target>
+			</trans-unit>
+			<trans-unit id="label_branch" approved="yes">
+				<source>Branch</source>
+				<target state="translated">Ramo</target>
+			</trans-unit>
+			<trans-unit id="label_commentforpublisher" approved="yes">
+				<source>Comment for Publisher:</source>
+				<target state="translated">Commento per il Pubblicatore:</target>
+			</trans-unit>
+			<trans-unit id="label_commentforreviewer" approved="yes">
+				<source>Comment for Reviewer:</source>
+				<target state="translated">Commento per il Revisore:</target>
+			</trans-unit>
+			<trans-unit id="label_deletedrecord" approved="yes">
+				<source>Deleted element</source>
+				<target state="translated">Elemento eliminato</target>
+			</trans-unit>
+			<trans-unit id="label_description" approved="yes">
+				<source>Description:</source>
+				<target state="translated">Descrizione:</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_default" approved="yes">
+				<source>Do:</source>
+				<target state="translated">Azione:</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_flush" approved="yes">
+				<source>Flush ALL changes/versions</source>
+				<target state="translated">Elimina TUTTI i cambiamenti/versioni</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_publish" approved="yes">
+				<source>Publish</source>
+				<target state="translated">Pubblica</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_release" approved="yes">
+				<source>Remove this version</source>
+				<target state="translated">Rimuovi questa versione</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_stage_editing" approved="yes">
+				<source>Send to stage: Editing</source>
+				<target state="translated">Invia a fase: Modifica</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_stage_publish" approved="yes">
+				<source>Send to stage: Publish</source>
+				<target state="translated">Invia a fase: Pubblicazione</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_stage_reject" approved="yes">
+				<source>Reject changes</source>
+				<target state="translated">Rifiuta i cambiamenti</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_stage_review" approved="yes">
+				<source>Send to stage: Review</source>
+				<target state="translated">Invia a fase: Revisione</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_swap" approved="yes">
+				<source>Swap</source>
+				<target state="translated">Scambia</target>
+			</trans-unit>
+			<trans-unit id="label_draft_versions" approved="yes">
+				<source>Workspace Versions:</source>
+				<target state="translated">Versioni in Workspace:</target>
+			</trans-unit>
+			<trans-unit id="label_element" approved="yes">
+				<source>Element</source>
+				<target state="translated">Elemento</target>
+			</trans-unit>
+			<trans-unit id="label_errors" approved="yes">
+				<source>Errors:</source>
+				<target state="translated">Errori:</target>
+			</trans-unit>
+			<trans-unit id="label_lifecycle" approved="yes">
+				<source>Lifecycle:</source>
+				<target state="translated">Ciclo vitale:</target>
+			</trans-unit>
+			<trans-unit id="label_live_version" approved="yes">
+				<source>Live Version:</source>
+				<target state="translated">Versione online:</target>
+			</trans-unit>
+			<trans-unit id="label_moveto_placeholder" approved="yes">
+				<source>Move-to placeholder (destination)</source>
+				<target state="translated">Sposta al segnaposto (destinazione)</target>
+			</trans-unit>
+			<trans-unit id="label_moveto_pointer" approved="yes">
+				<source>Move-to pointer (source)</source>
+				<target state="translated">Sposta al puntatore (sorgente)</target>
+			</trans-unit>
+			<trans-unit id="label_multipleversions" approved="yes">
+				<source>Multiple versions in same workspace!</source>
+				<target state="translated">Versioni multiple nello stesso workspace!</target>
+			</trans-unit>
+			<trans-unit id="label_nestedversions" approved="yes">
+				<source>Version inside version!</source>
+				<target state="translated">Versione all'interno di sè stessa.</target>
+			</trans-unit>
+			<trans-unit id="label_newrecord" approved="yes">
+				<source>New element</source>
+				<target state="translated">Nuovo elemento</target>
+			</trans-unit>
+			<trans-unit id="label_notapplicable" approved="yes">
+				<source>n/a</source>
+				<target state="translated">n/a</target>
+			</trans-unit>
+			<trans-unit id="label_offlineWSes" approved="yes">
+				<source>Draft workspaces</source>
+				<target state="translated">Draft Workspaces</target>
+			</trans-unit>
+			<trans-unit id="label_onlymychanges" approved="yes">
+				<source>Show only my changes</source>
+				<target state="translated">Mostra solo le mie modifiche</target>
+			</trans-unit>
+			<trans-unit id="label_options" approved="yes">
+				<source>Options:</source>
+				<target state="translated">Opzioni:</target>
+			</trans-unit>
+			<trans-unit id="label_otherversions" approved="yes">
+				<source>Other version(s) in workspace(s):</source>
+				<target state="translated">Altra versione(i) nel workspace:</target>
+			</trans-unit>
+			<trans-unit id="label_page" approved="yes">
+				<source>Page</source>
+				<target state="translated">Pagina</target>
+			</trans-unit>
+			<trans-unit id="label_pagetree" approved="yes">
+				<source>Pagetree:</source>
+				<target state="translated">Pagetree:</target>
+			</trans-unit>
+			<trans-unit id="label_percentchange" approved="yes">
+				<source>%%% change:</source>
+				<target state="translated">%%% modifiche:</target>
+			</trans-unit>
+			<trans-unit id="label_percentChange" approved="yes">
+				<source>%d%% change:</source>
+				<target state="translated">%d%% modifiche:</target>
+			</trans-unit>
+			<trans-unit id="label_publish" approved="yes">
+				<source>Publish:</source>
+				<target state="translated">Pubblica:</target>
+			</trans-unit>
+			<trans-unit id="label_reject" approved="yes">
+				<source>Reject</source>
+				<target state="translated">Rifiuta</target>
+			</trans-unit>
+			<trans-unit id="label_rejected" approved="yes">
+				<source>Rejected</source>
+				<target state="translated">Rifiutato</target>
+			</trans-unit>
+			<trans-unit id="label_resetstage" approved="yes">
+				<source>Reset stage</source>
+				<target state="translated">Reset stage</target>
+			</trans-unit>
+			<trans-unit id="label_review" approved="yes">
+				<source>Review</source>
+				<target state="translated">Revisione</target>
+			</trans-unit>
+			<trans-unit id="label_sendtoreview" approved="yes">
+				<source>Send to review</source>
+				<target state="translated">Manda al revisore</target>
+			</trans-unit>
+			<trans-unit id="label_showsubelements" approved="yes">
+				<source>Show sub elements</source>
+				<target state="translated">Mostra sotto elementi</target>
+			</trans-unit>
+			<trans-unit id="label_stage" approved="yes">
+				<source>Stage:</source>
+				<target state="translated">Fase:</target>
+			</trans-unit>
+			<trans-unit id="label_status" approved="yes">
+				<source>Status:</source>
+				<target state="translated">Status:</target>
+			</trans-unit>
+			<trans-unit id="label_subelements" approved="yes">
+				<source>Sub elements</source>
+				<target state="translated">Sotto elementi</target>
+			</trans-unit>
+			<trans-unit id="label_subelementsdetails" approved="yes">
+				<source>Sub elements, click for details</source>
+				<target state="translated">Sotto elementi, clicca per dettagli</target>
+			</trans-unit>
+			<trans-unit id="label_undefined" approved="yes">
+				<source>Undefined</source>
+				<target state="translated">Indefinito</target>
+			</trans-unit>
+			<trans-unit id="label_workspace" approved="yes">
+				<source>Workspace:</source>
+				<target state="translated">Workspace:</target>
+			</trans-unit>
+			<trans-unit id="link_text_create_new_workspace" approved="yes">
+				<source>Create new workspace</source>
+				<target state="translated">Crea un nuovo workspace</target>
+			</trans-unit>
+			<trans-unit id="menuitem_review" approved="yes">
+				<source>Review and Publish</source>
+				<target state="translated">Rivedi e pubblica</target>
+			</trans-unit>
+			<trans-unit id="menuitem_workspaces" approved="yes">
+				<source>Workspace List</source>
+				<target state="translated">Elenco Workspace</target>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tabdescr" approved="yes">
+				<source>Workspace overview showing the changes you have made in the workspace. Here you can also publish the changes to the website if you are allowed to do that.</source>
+				<target state="translated">La panoramica workspace illustra i cambiamenti che tu hai fatto nel workspace. Da qui tu puoi applicare i cambiamenti al sito web se ne sei autorizzato.</target>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tablabel" approved="yes">
+				<source>Workspace overview</source>
+				<target state="translated">Panoramica Workspace</target>
+			</trans-unit>
+			<trans-unit id="mlang_tabs_tab" approved="yes">
+				<source>Workspace</source>
+				<target state="translated">Workspace</target>
+			</trans-unit>
+			<trans-unit id="no_publish_permission" approved="yes">
+				<source>You are not permitted to publish from this workspace</source>
+				<target state="translated">Non ti è permesso pubblicare in questo workspace</target>
+			</trans-unit>
+			<trans-unit id="please_wait" approved="yes">
+				<source>Please, wait...</source>
+				<target state="translated">Attendere, prego...</target>
+			</trans-unit>
+			<trans-unit id="publish_prepare" approved="yes">
+				<source>TYPO3 is preparing to publish records.</source>
+				<target state="translated">TYPO3 sta preparando la pubblicazione dei records.</target>
+			</trans-unit>
+			<trans-unit id="publish_status" approved="yes">
+				<source>Published records &lt;strong&gt;%d&lt;/strong&gt; to &lt;strong&gt;%d&lt;/strong&gt; of &lt;strong&gt;%d&lt;/strong&gt;.</source>
+				<target state="translated">Pubblicati i records da &lt;strong&gt;%d&lt;/strong&gt; a &lt;strong&gt;%d&lt;/strong&gt; di &lt;strong&gt;%d&lt;/strong&gt;.</target>
+			</trans-unit>
+			<trans-unit id="publish_title" approved="yes">
+				<source>Publish workspace</source>
+				<target state="translated">Pubblica workspace</target>
+			</trans-unit>
+			<trans-unit id="remove_from_ws_confirmation" approved="yes">
+				<source>Remove from workspace?</source>
+				<target state="translated">Rimuovi dal workspace?</target>
+			</trans-unit>
+			<trans-unit id="return_to_index" approved="yes">
+				<source>Return to Workspace module</source>
+				<target state="translated">Torna al modulo Workspace</target>
+			</trans-unit>
+			<trans-unit id="stage_approved_for_publish" approved="yes">
+				<source>"%s" approved for "Publish"</source>
+				<target state="translated">"%s" approvati in fase "Pubblicazione"</target>
+			</trans-unit>
+			<trans-unit id="stage_editing" approved="yes">
+				<source>Editing</source>
+				<target state="translated">Modifica</target>
+			</trans-unit>
+			<trans-unit id="stage_label_user_comment" approved="yes">
+				<source>User Comment:</source>
+				<target state="translated">Commento dell'utente:</target>
+			</trans-unit>
+			<trans-unit id="stage_publish" approved="yes">
+				<source>Publish</source>
+				<target state="translated">Pubblica</target>
+			</trans-unit>
+			<trans-unit id="stage_rejected" approved="yes">
+				<source>"%s" rejected element!</source>
+				<target state="translated">"%s" elementi rifiutati!</target>
+			</trans-unit>
+			<trans-unit id="stage_reset_to_editing" approved="yes">
+				<source>"%s" reset to "Editing"</source>
+				<target state="translated">"%s" riconfigurati a fase "Modifica"</target>
+			</trans-unit>
+			<trans-unit id="stage_review" approved="yes">
+				<source>Review</source>
+				<target state="translated">Revisione</target>
+			</trans-unit>
+			<trans-unit id="stage_sent_to_review" approved="yes">
+				<source>"%s" sent element to "Review"</source>
+				<target state="translated">"%s" elementi inviati a fase "Revisione"</target>
+			</trans-unit>
+			<trans-unit id="stage_undefined" approved="yes">
+				<source>[undefined]</source>
+				<target state="translated">[non definito]</target>
+			</trans-unit>
+			<trans-unit id="submit_apply_action_on_selected_elements" approved="yes">
+				<source>Sure you want to perform this action with selected elements?</source>
+				<target state="translated">Sei sicuro di voler eseguire questa operazione con gli elementi selezionati?</target>
+			</trans-unit>
+			<trans-unit id="submit_publish_workspace" approved="yes">
+				<source>Publish workspace</source>
+				<target state="translated">Pubblica il workspace</target>
+			</trans-unit>
+			<trans-unit id="submit_publish_workspace_confirmation_1" approved="yes">
+				<source>Are you sure you want to publish all content in "Publish" stage from the workspace?</source>
+				<target state="translated">Sei sicuro di voler pubblicare tutto il contenuto del workspace in "Pubblica"?</target>
+			</trans-unit>
+			<trans-unit id="submit_publish_workspace_confirmation_2" approved="yes">
+				<source>Are you sure you want to publish all content from the workspace?</source>
+				<target state="translated">Sei sicuro di voler pubblicare tutto il contenuto del workspace?</target>
+			</trans-unit>
+			<trans-unit id="submit_swap_workspace" approved="yes">
+				<source>Swap workspace</source>
+				<target state="translated">Scambia workspace</target>
+			</trans-unit>
+			<trans-unit id="submit_swap_workspace_confirmation_1" approved="yes">
+				<source>Are you sure you want to publish (swap) all content in "Publish" stage from the workspace?</source>
+				<target state="translated">Sei sicuro di voler pubblicare (spostare) tutti i contenuti dall'area di lavoro alla fase "Pubblicazione"?</target>
+			</trans-unit>
+			<trans-unit id="submit_swap_workspace_confirmation_2" approved="yes">
+				<source>Are you sure you want to publish (swap) all content from the workspace?</source>
+				<target state="translated">Sei sicuro di voler pubblicare (spostare) i contenuti dell'area di lavoro?</target>
+			</trans-unit>
+			<trans-unit id="swap_prepare" approved="yes">
+				<source>TYPO3 is preparing to swap records.</source>
+				<target state="translated">TYPO3 sta preparando lo scambio dei records.</target>
+			</trans-unit>
+			<trans-unit id="swap_status" approved="yes">
+				<source>Swapped records &lt;strong&gt;%d&lt;/strong&gt; to &lt;strong&gt;%d&lt;/strong&gt; of &lt;strong&gt;%d&lt;/strong&gt;.</source>
+				<target state="translated">Scambiati i records da &lt;strong&gt;%d&lt;/strong&gt; a &lt;strong&gt;%d&lt;/strong&gt; di &lt;strong&gt;%d&lt;/strong&gt;.</target>
+			</trans-unit>
+			<trans-unit id="swap_title" approved="yes">
+				<source>Swap workspace</source>
+				<target state="translated">Scambia workspace</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Workspace Manager</source>
+				<target state="translated">Workspace Manager</target>
+			</trans-unit>
+			<trans-unit id="workspace_description_draft" approved="yes">
+				<source>In the Draft workspace all changes will be made as new versions of the live content. Changes can be previewed, reviewed and eventually published live.</source>
+				<target state="translated">Nell'area di lavoro "Bozze" tutti le modifiche saranno fatte come nuova versione dei contenuti. I cambiamenti possono essere visti in anteprima, rivisti e poi pubblicati.</target>
+			</trans-unit>
+			<trans-unit id="workspace_description_live" approved="yes">
+				<source>The LIVE workspace allows changes to take effect immediately on the website. However versioning can be applied inside the live workspace and this overview shows you draft and archive versions from the various workspaces, including the LIVE workspace.</source>
+				<target state="translated">il LIVE worspace rende immediatamente effettive le modifiche al sito. Si possono comunque usare le versioni anche in questo workspace, e questo overview ti mostra le versioni draft e quelle archiviate nei vari workspaces, compreso quello LIVE.</target>
+			</trans-unit>
+			<trans-unit id="workspace_description_no_access" approved="yes">
+				<source>You have no access to any workspace which might be an error. Please contact you administrator!</source>
+				<target state="translated">Non hai accesso a nessun'area di lavoro, potrebbe esserci un errore. Contatta per favore il tuo amministratore!</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_access_admin" approved="yes">
+				<source>Admin</source>
+				<target state="translated">Admin</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_access_admins_only" approved="yes">
+				<source>Admins only</source>
+				<target state="translated">Solo amministratori</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_access_anyone" approved="yes">
+				<source>no restrictions</source>
+				<target state="translated">senza restrinzioni</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_access_member" approved="yes">
+				<source>Member</source>
+				<target state="translated">Membro</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_access_offline" approved="yes">
+				<source>Offline</source>
+				<target state="translated">Offline</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_access_online" approved="yes">
+				<source>Online</source>
+				<target state="translated">Online</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_access_owner" approved="yes">
+				<source>Owner</source>
+				<target state="translated">Proprietario</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_access_reviewer" approved="yes">
+				<source>Reviewer</source>
+				<target state="translated">Revisore</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_db_mount_point_custom" approved="yes">
+				<source>Mount points from user profile are used.</source>
+				<target state="translated">Vengono usati i mount point indicati al profilo utente.</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_db_mount_point_draft" approved="yes">
+				<source>Mount points from user profile are used.</source>
+				<target state="translated">Vengono usati i mount point indicati al profilo utente.</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_db_mount_point_live" approved="yes">
+				<source>Mount points from user profile are used.</source>
+				<target state="translated">Vengono usati i mount point indicati al profilo utente.</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_file_mount_point_custom" approved="yes">
+				<source>File mount points are not defined for this workspace. Therefore no file mount points available in the workspace.</source>
+				<target state="translated">I mount points dei file non sono definiti in questo workspace. Perciò non ve ne sono di disponibili.</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_file_mount_point_draft" approved="yes">
+				<source>File mount points are not available in draft workspace.</source>
+				<target state="translated">I file mount point non sono disponibili nel workspace in formato bozza.</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_file_mount_point_live" approved="yes">
+				<source>Mount points from user profile are used.</source>
+				<target state="translated">Vengono usati i mount point dal profilo-utente.</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_icon_title_edit_workspace" approved="yes">
+				<source>Edit workspace</source>
+				<target state="translated">Edita il Workspace</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_icon_title_switch_workspace" approved="yes">
+				<source>Switch workspace</source>
+				<target state="translated">Scambia workspace</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_current_workspace" approved="yes">
+				<source>Current:</source>
+				<target state="translated">Attuale:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_db_mountpoints" approved="yes">
+				<source>Database mountpoints:</source>
+				<target state="translated">Mountpoints di DB:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_file_mountpoints" approved="yes">
+				<source>File mountpoints:</source>
+				<target state="translated">Mountpoints di file:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_frozen" approved="yes">
+				<source>Frozen:</source>
+				<target state="translated">Congelato:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_frozen_no" approved="yes">
+				<source>No</source>
+				<target state="translated">No</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_frozen_yes" approved="yes">
+				<source>Yes</source>
+				<target state="translated">Si</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_members" approved="yes">
+				<source>Members:</source>
+				<target state="translated">Membri:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_owners" approved="yes">
+				<source>Owners:</source>
+				<target state="translated">Proprietari:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_publish_date" approved="yes">
+				<source>Publish date:</source>
+				<target state="translated">Data di pubblicazione:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_reviewers" approved="yes">
+				<source>Reviewers:</source>
+				<target state="translated">Revisori:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_unpublish_date" approved="yes">
+				<source>Unpublish date:</source>
+				<target state="translated">Data fine pubblicazione:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_workspace_description" approved="yes">
+				<source>Description:</source>
+				<target state="translated">Descrizione:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_workspace_title" approved="yes">
+				<source>Title:</source>
+				<target state="translated">Titolo:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_workspace_users" approved="yes">
+				<source>Workspace users:</source>
+				<target state="translated">Utenti del Workspace:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_your_access" approved="yes">
+				<source>Your access:</source>
+				<target state="translated">Il tuo accesso:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_mount_point_inaccessible" approved="yes">
+				<source>This mount point is defined for workspace but not accessible to you. If you need access to this mount point, ask your system administrator to give you access to it.</source>
+				<target state="translated">Questo mount point è definito per il solo workspace e non è accessibile a te. Se desideri accedere a questo mount point, chiedi all'amministratore di sistema di darti i permessi di accesso.</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_publishing_count" approved="yes">
+				<source>Published %d times</source>
+				<target state="translated">Pubblicato %d volte</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_publishing_count_archive" approved="yes">
+				<source>Archive</source>
+				<target state="translated">Archivio</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_publishing_count_draft" approved="yes">
+				<source>Draft</source>
+				<target state="translated">Bozza</target>
+			</trans-unit>
+			<trans-unit id="workspace_published" approved="yes">
+				<source>Workspace has been published.</source>
+				<target state="translated">Il Workspace è stato pubblicato.</target>
+			</trans-unit>
+			<trans-unit id="workspace_swapped" approved="yes">
+				<source>Workspace has been swapped.</source>
+				<target state="translated">Il Workspace è stato scambiato.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

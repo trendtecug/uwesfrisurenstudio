@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T00:42:15Z" product-name="context_help">
+		<header/>
+		<body>
+			<trans-unit id="abstract.description" xml:space="preserve" approved="yes">
+				<source>Enter an abstract of the contents. It may be displayed in an overview of articles.</source>
+			<target state="translated">Entrez une description de la page. Elle pourra être affichée dans la vue d'ensemble des articles.</target></trans-unit>
+			<trans-unit id="abstract.details" xml:space="preserve">
+				<source>An abstract is a short description of the page content, that might be a little longer than the one in the &lt;i&gt;Description&lt;/i&gt; field.
+
+Other than the description, the abstract is not meant for display in search engine result lists, but for use in your own project exclusively.
+
+By default, TYPO3 lets you create a content element of type &lt;i&gt;Sitemap&lt;/i&gt; and then choose &lt;i&gt;Menu of subpages to these pages (with abstract)&lt;/i&gt; to create an overview of articles. If an abstract is available it will be used instead of the description.
+
+&lt;b&gt;Note:&lt;/b&gt; You do not have to enter the text of the description into the &lt;i&gt;Abstract field&lt;/i&gt; again.
+
+Of course, admins can make custom use of this field via their TypoScript templates.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Un résumé est une courte description du contenu de la page, qui pourrait être un petit peu plus longue que celle du champ Description.Contrairement à la description, le résumé n'est pas fait pour être affiché dans les listes de résultats des moteurs de recherche, mais pour être utilisé au sein de votre projet exclusivement.Par défaut, TYPO3 vous laisse créer un élément de contenu de type "Plan du site" et ensuite choisir "Menu des sous-pages de ces pages (avec résumé)" pour créer une vue d'ensemble des articles. Si un résumé est disponible, il sera utilisé à la place de la ddescription.Note: Vous n'avez pas à entrer le texte de la description dans le champ "Résumé" à nouveau.Bien sûr, les administrateurs peuvent faire une usage personnalisé de ce champ via leur gabarit TypoScript.</target></alt-trans></trans-unit>
+			<trans-unit id="_abstract.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:description</source>
+				<target state="translated">pages:description</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="alias.description" xml:space="preserve" approved="yes">
+				<source>An 'alias' is a unique identification string for a page. You can use this string instead of the id-number to refer to the page.</source>
+			<target state="translated">Un 'alias' est une chaîne d'identification unique pour la page. Vous pouvez utiliser cette chaîne à la place du nombre id pour accéder à la page.</target></trans-unit>
+			<trans-unit id="alias.details" xml:space="preserve">
+				<source>Ultimately a page is identified by its id-number. For instance you may refer to a page in TYPO3 by '.../?id=123'. If the page with id '123' has the alias 'one_two_three', then the URL '.../?id=one_two_three' would display exactly the same page, because 'one_two_three' is an alias for the id '123'.
+Normally you should assign aliases only to a limited number of pages, preferably those you need to link to a lot. In most TYPO3 configurations you would be able to use the syntax '.. &amp;lt;link one_two_three&amp;gt;go to the page&amp;lt;/link&amp;gt; ..' to create a link to the page. This is easier to remember.
+Another use is if you need to change which page such a link is referring to. In that case you can delete the alias for one page and enter it for another and all links pointing to the alias would now refer to another id-number.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>En fin de compte, une page est identifiée par son numéro ID. Par exemple, vous pouvez vous référer à une page en TYPO3 par ".../?id=123". Si la page avec l'ID "123" a un alias "un_deux_trois", alors l'URL ".../?id=un_deux_trois" affichera exactement la même page, parce que "un_deux_trois" est un alias pour l'ID "123".Normalement, vous devriez assigner des alias uniquement à un nombre limité de pages, de préférence aux pages que vous avez besoin de raccorder un grand nombre de fois. Dans la plupart des configurations TYPO3, vous devriez être en mesure d'utiliser la syntaxe '...&amp;lt;link un_deux_trois&amp;gt;go to the page&amp;lt;/link&amp;gt; ..' pour créer un lien vers la page. Cela est plus facile à retenir.Une autre utilisation de cela est si jamais vous avez besoin de changer la page vers laquelle un lien se réfère. Dans ce cas, vous pouvez effacer l'alias pour une page et l'entrer pour une autre, et tous les liens pointant vers l'alias se réfèreront désormais à un autre numéro ID.</target></alt-trans></trans-unit>
+			<trans-unit id="alias.syntax" xml:space="preserve">
+				<source>An alias can contain only lowercase alphanumeric characters and must be unique.
+Please notice: If the entered value was not unique, it will automatically be prepended with a number.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Un alias ne peut contenir que des caractère alphanumériques minuscules et se doit d'être unique.Veuillez noter : Si la valeur entrée n'est pas unique, elle sera automatiquement préfixée d'un numéro.</target></alt-trans></trans-unit>
+			<trans-unit id="author.description" xml:space="preserve" approved="yes">
+				<source>Enter the page authors name.</source>
+			<target state="translated">Entrez les noms des auteurs de la page.</target></trans-unit>
+			<trans-unit id="author.details" xml:space="preserve">
+				<source>Whether the author name is used or not depends on the setup of your TypoScript template.
+
+- You may use it in a meta-tag.
+- If you're using TYPO3 pages as 'articles' then you could use this field to display the name of the page (article) author.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Le fait que le nom de l'auteur soit utilisé ou non dépend de l'installation de votre modèle TypoScript.-Vous pouvez l'utiliser dans un meta-tag-Si vous utilisez des pages TYPO3 en tant qu'article, alors vous pourriez utiliser ce champ pour afficher le nom de l'auteur de la page article).</target></alt-trans></trans-unit>
+			<trans-unit id="author_email.description" xml:space="preserve" approved="yes">
+				<source>Enter the page authors email address.</source>
+			<target state="translated">Entrez l'adresse email de l'auteur de la page.</target></trans-unit>
+			<trans-unit id="_author_email.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:author</source>
+				<target state="translated">pages:author</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="_author.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:author_email</source>
+				<target state="translated">pages:author_email</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="backend_layout.description" xml:space="preserve">
+				<source>Select a backend layout for this particular page only.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Sélectionnez une disposition du backend pour cette page particulière seulement.</target></alt-trans></trans-unit>
+			<trans-unit id="backend_layout.details" xml:space="preserve">
+				<source>If you have created any additional backend layouts you can select them here to have the page module render the columns of this page with the selected layout.
+
+Usually it will reflect the frontend layout in a way so that you will be able to recognize easily to which area of the page the content belongs.
+
+You can select nothing or "none" to get the default column view of the page module for this page.
+
+If you select a layout or "none", it will override any settings that might have been inherited from pages in the rootline of the current page.
+
+The selection is &lt;b&gt;NOT&lt;/b&gt; inherited automatically by subpages - use &lt;b&gt;Backend Layout (subpages of this page)&lt;/b&gt; if you want to achieve this.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Si vous avez créé une ou plusieurs dispositions de backend additionnelles, vous pouvez les sélectionner ici pour que le module de la page fasse un rendu des colonnes suivant la disposition sélectionnée.D'habitude, cela va refléter la disposition du frontend d'une certaine manière, donc vous serez en mesure de reconnaitre facilement à quelle partie de la page le contenu appartient.Vous pouvez ne rien sélectionner ou "Aucun" pour avoir la vue de la colonne par défaut du module page pour cette page.Si vous sélectionnez une disposition ou "Aucun", cela va supprimer tous les paramètres qui auraient pu être hérités des pages dans la généalogie de la page courante.La sélection n'implique pas automatiquement que les sous-pages en héritent - utilisez "Disposition du Backend (sous-pages de cette page)" si vous voulez y parvenir.</target></alt-trans></trans-unit>
+			<trans-unit id="backend_layout_next_level.description" xml:space="preserve" approved="yes">
+				<source>Select a backend layout for all subpages of this page.</source>
+			<target state="translated">Sélectionnez une disposition Backend pour toutes les sous-pages de cette page.</target></trans-unit>
+			<trans-unit id="backend_layout_next_level.details" xml:space="preserve">
+				<source>If you have created any additional backend layouts you can select them here to have the page module render the columns of the subpages of this page with the selected layout.
+
+Usually it will reflect the frontend layout in a way so that you will be able to recognize easily to which area of the page the content belongs.
+
+You can select nothing or "none" to get the default column view of the page module for the subpages.
+
+If you select a layout or "none", it will override any settings that might have been inherited from pages in the rootline of the current page.
+
+The selection is inherited automatically by all subpages - so you don't have to set it separately for each of them.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Si vous avez créé une ou plusieurs dispositions de backend additionnelles, vous pouvez les sélectionner ici pour que le module de la page fasse un rendu des colonnes suivant la disposition sélectionnée.D'habitude, cela va refléter la disposition du frontend d'une certaine manière, donc vous serez en mesure de reconnaitre facilement à quelle partie de la page le contenu appartient.Vous pouvez ne rien sélectionner ou "Aucun" pour avoir la vue de la colonne par défaut du module page pour cette page.Si vous sélectionnez une disposition ou "Aucun", cela va supprimer tous les paramètres qui auraient pu être hérités des pages dans la généalogie de la page courante.La sélection implique automatiquement que les sous-pages en héritent - vous n'avez donc pas besoin de l'appliquer séparément pour chacune d'entre-elles.</target></alt-trans></trans-unit>
+			<trans-unit id="_backend_layout_next_level.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:backend_layout</source>
+				<target state="translated">pages:backend_layout</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="_backend_layout.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:backend_layout_next_level</source>
+				<target state="translated">pages:backend_layout_next_level</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="cache_timeout.description" xml:space="preserve" approved="yes">
+				<source>Sets the cache timeout for the page.</source>
+			<target state="translated">Paramètre la durée de vie du cache de la page.</target></trans-unit>
+			<trans-unit id="cache_timeout.details" xml:space="preserve">
+				<source>By default pages last for 24 hours in the cache. After that period the page is constructed again and rewritten to the cache. Depending on your configuration, the cache may also be cleared at midnight.
+Anyhow you may here set another timeout time for the page in cache if you need to.
+This option is used quite rarely.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Par défaut, les pages restent dans le cache pendant 24h. Après cette période, la page est reconstruite et réécrite dans le cache. Suivant votre configuration, le cache peut également être supprimé à minuit.De toute façon, vous pouvez ici fixer une autre heure de fin pour le cache si vous avez besoin.Cette option est plutôt rarement utilisée.</target></alt-trans></trans-unit>
+			<trans-unit id="_cache_timeout.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:no_cache</source>
+				<target state="translated">pages:no_cache</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="content_from_pid.description" xml:space="preserve">
+				<source>If set, this is an alternative page id from where Content Elements will be selected instead of Content Elements from the current page.
+Depends on template implementation whether this applies.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>si fixé, ceci est ID alternative de la page d'où les éléments de contenu seront sélectionnés au lieu d'éléments de contenu de la vraie page.Cela s'applique ou non suivant l'implémentation de votre gabarit.</target></alt-trans></trans-unit>
+			<trans-unit id="description.description" xml:space="preserve" approved="yes">
+				<source>Enter a short description of the page. It will be displayed in the result lists of search engines.</source>
+			<target state="translated">Entrer une rapide description de la page.</target></trans-unit>
+			<trans-unit id="description.details" xml:space="preserve">
+				<source>Most TYPO3 websites insert this description in a meta-tag on the page, but you have to configure this yourself in your TypoScript template.
+
+Search engines will display the description in their result list. Thus, the text should be short (about 160 characters maximum), and it's wording should make sense when it shows up in the result list.
+
+Also, the description will be displayed if you create a content element of type 'Sitemap' and then choose the menu type &lt;i&gt;Menu of subpages to these pages (with abstract)&lt;/i&gt;.
+
+&lt;b&gt;Note:&lt;/b&gt; Some search engines only use the description if the text is not found elsewhere in the content. So do not just repeat yourself.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>La plupart des site webs en TYPO3 insèrent cette description dans un meta-tag sur la page, mais vous devez configurer vous-même votre modèle TypoScript pour cela.Les moteurs de recherche vont afficher la description dans leur liste de résultats. Ainsi, le texte doit être court (environ 160 caractères maximum), et sa formulation doit faire avoir du sens quand elle apparait dans la liste de résultats.Aussi, la description sera affichée si vous créez un élément de contenu de type "Plan du site" et choisissez ensuite le type de menu "Menu de sous-pages de ces pages (avec résumé)"Note: Certains moteurs de recherche utilisent la description uniquement si le texte n'est pas trouvé ailleurs dans le contenu. Veillez à ne pas vous répéter.</target></alt-trans></trans-unit>
+			<trans-unit id="_description.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:keywords
+pages:abstract</source>
+				<target state="translated">pages:keywords
+pages:abstract</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="doktype.description" xml:space="preserve" approved="yes">
+				<source>Select a page type affects whether the page represents a visible webpage or is used for other purposes.</source>
+			<target state="translated">Sélectionner un type de page détermine si la page représente une page web visible ou est utilisée à d'autres fins.</target></trans-unit>
+			<trans-unit id="doktype.details" xml:space="preserve">
+				<source>'Standard' and 'Advanced' types are regular webpages, just differing in the number of options.
+'External URL' and 'Shortcut' types allows you to let a page be a shortcut to either an external URL or in the latter case a page in the page tree.
+'Not in menu' is also a regular page, but will not be shown in the navigation. &lt;em&gt;This page type is deprecated! Please use the "Hide in menu" option!&lt;/em&gt;
+'Backend User Section' is an option which requires a backend user to be logged in for the page to be visible.
+
+&lt;b&gt;Special types:&lt;/b&gt;
+'Spacer' is only meaningfull if your frontend navigation is programmed to use it. In this case it does not represent a page with content but is intended to be a non-clickable placeholder in the navigation.
+'SysFolder' is a page type which cannot be shown as a webpage but is rather acting as a storage for records of your choice.
+'Recycler' is a garbage can. Pages and records in a recycler are not visible in the frontend.
+
+&lt;b&gt;Notice:&lt;/b&gt; Each type usually has a specific icon attached. Also certain types may not be available for a user (so you may experience that some of the options are not available for you!). And finally each type is configured to allow only certain table records in the page (SysFolder will allow any record if you have any problems).</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Les types "Standard" et "Avancé" sont des pages internet communes, différentes par leur nombre d'options.Les types "URL externe" et "Raccourci" vous permettent à laisser une page être un raccourcis pour une URL externe ou en dernier cas une page de l'arborescence."Pas dans le menu" est aussi une page commune, mais ne sera pas montré à la navigation. Ce type de page est obsolète! Veuillez utiliser l'option "caché dans le menu"!"Section utilisateur Backend" est une option qui requiert un utilisateur backend connecté pour que la page soit visible.Types spéciaux:"Séparateur de menu" est uniquement significatif si votre navigation frontend est programmée pour l'utiliser. Dans ce cas, il ne représente pas une page avec contenu, mais représente un espace réservé où on ne peut pas cliquer, dans la navigation."Sysfolder" et un type de page qui ne peut pas être montré comme une page web mais qui joue le rôle de stockage d'archives de votre choix."Corbeille" est une corbeille. Pages et archives dans la corbeille ne sont pas visible dans le Frontend.Note: Cjaqie type a d'habitude un icône spécifique jointe. Ainsi, certains types ne seront peut-être pas disponibles pour un utilisateur (ainsi vous pourrez constater que certaines options ne sont pas disponibles pour vous!). Et finalement chaque type est configuré pour autoriser seulement certaines archives de tableau dans la page (SysFolder vous autorisera n'importe quelle archive si vous avez un problème).</target></alt-trans></trans-unit>
+			<trans-unit id="_doktype.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:shortcut,
+pages:url</source>
+				<target state="translated">pages:shortcut,
+pages:url</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="endtime.description" xml:space="preserve" approved="yes">
+				<source>The 'Stop' time is the date from which the page will not be online anymore.</source>
+			<target state="translated">La date 'Stop' est la date à partir de laquelle la page ne sera plus en ligne.</target></trans-unit>
+			<trans-unit id="_endtime.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:starttime</source>
+				<target state="translated">pages:starttime</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="endtime.syntax" xml:space="preserve" approved="yes">
+				<source>See Page / Start (click below)</source>
+			<target state="translated">Voir page / Démarrer (cliquer ci-dessous)</target></trans-unit>
+			<trans-unit id="extendToSubpages.description" xml:space="preserve">
+				<source>By default the Start, Stop, Access and Hidden options are effective &lt;em&gt;only&lt;/em&gt; for the page on which they are set. If the option 'Include subpages' is checked for the page, then their effect is inherited by all subpages to that page.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Par défaut, les options Démarrer, Arrêter, Accès et Caché ne marchent que pour les pages pour lesquelles elles sont fixées. Si l'option "Etendre aux sous-pages" est vérifiée pour cette page, alors toutes les sous-pages de cette page hériteront de leurs effets.</target></alt-trans></trans-unit>
+			<trans-unit id="extendToSubpages.details" xml:space="preserve">
+				<source>Consider a scenario where you want to create a whole section of subpages only visible for users which are logged in. Setting the 'Access' option for the top page in the section would affect access to that page only. So the page would not show up in the navigation unless you are logged in.
+However the subpages would still be visible if one could guess the id-number of the pages and enter it manually in the URL. But setting this option would extend the effect of the top page setting to cover all subpages as well.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Considérons un scénario dans lequel vous voulez créer une section complète de sous-pages uniquement visibles par les utilisateurs qui sont connectés. Mettre l'option "Accès" pour la première page de la section affecterait l'accès à cette page uniquement. Ainsi la page ne se montrerait pas en navigation à moins que vous ne soyez connectés.Cependant les sous-pages seront toujours visibles si quelqu'un parvenait à deviner le numéro ID des pages et les entrer manuellement dans la barre d'URL. Mais mettre cette option étendrait l'effet du paramétrage de la première page à l'ensemble des sous-pages.</target></alt-trans></trans-unit>
+			<trans-unit id="_extendToSubpages.image" xml:space="preserve" approved="no">
+				<source>EXT:context_help/cshimages/pages_2.png</source>
+				<target state="needs-translation">EXT:context_help/Resources/Public/Images/cshimages/pages_2.png</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="extendToSubpages.image_descr" xml:space="preserve">
+				<source>This page icon has access restricted to a certain group and "Include subpages" set as well. This is reflected in the way the icon changed look.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>L'icône de cette page a un accès restreint à un certain groupe et l'option "Étendre aux sous-pages" mise. Cela se voit dans le changement d'apparence de l'icône.</target></alt-trans></trans-unit>
+			<trans-unit id="_extendToSubpages.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:hidden,
+pages:starttime,
+pages:endtime,
+pages:fe_group</source>
+				<target state="translated">pages:hidden,
+pages:starttime,
+pages:endtime,
+pages:fe_group</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="fe_group.description" xml:space="preserve">
+				<source>If 'Access' is set to a usergroup name, only website users which are members of the selected usergroup will be able to view the page when they are logged in. The special option 'Hide at login' means the page will &lt;em&gt;not&lt;/em&gt; be visible for website users that are logged in. Likewise "Show at login" will make the page visible for any logged in frontend user.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Si "Accès" est fixé pour un nom de groupe utilisateur, seuls les utilisateurs qui sont membre du groupe utilisateur sélectionné qui seront capable de voir la page quand ils seront connectés. L'option spéciale "Masqué à la connexion" signifie que la page ne sera pas visible pour les utilisateurs du site qui sont connectés. De la même manière, "Montrer à la connexion rendra la page visible à toute personne connectée en utilisateur frontend.</target></alt-trans></trans-unit>
+			<trans-unit id="_fe_group.image" xml:space="preserve" approved="no">
+				<source>EXT:context_help/cshimages/fegroups_4.png</source>
+				<target state="needs-translation">EXT:context_help/Resources/Public/Images/cshimages/fegroups_4.png</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="_fe_group.seeAlso" xml:space="preserve" approved="yes">
+				<source>fe_groups</source>
+			<target state="translated">fe_groups</target></trans-unit>
+			<trans-unit id="hidden.description" xml:space="preserve" approved="yes">
+				<source>If this is checked, the page will be hidden on the website.</source>
+			<target state="translated">Si cela est coché, la page sera masquée sur le site.</target></trans-unit>
+			<trans-unit id="hidden.details" xml:space="preserve">
+				<source>The 'Hidden', 'Start', 'Stop' and 'Access' options are all about limiting access to pages and thus they are related in functionality. In any case where a page is not visible due to one of these options, the page will not show up in the site navigation.
+Notice, these options are related &lt;em&gt;only&lt;/em&gt; to the page for which they are set. If you want their effect to cover the subpages as well, you must enable the 'Include subpages' option.
+When you're logged in as a backend user you can preview hidden pages if you have read access to them.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Les options "Caché", "Début", "Arrêter" et "Accéder" servent toutes à limiter l'accès aux pages et de plus elles sont liées à la fonctionnalité. A chaque fois qu'une page n'est pas visible à cause d'une de ces options, la page n'apparaitra pas lors de la navigation sur le site.Notez que ces options ne sont liées qu'à la page sur laquelle elles ont été fixées. Si vous voulez que leurs effets s'étendent aux sous-pages également, vous devez activer l'option "Etendre aux sous-pages".Quand vous êtes connectés en tant qu'utilisateur backend, vous pouvez prévisualiser les pages cachées si vous avec les droit de lecture sur elles.</target></alt-trans></trans-unit>
+			<trans-unit id="_hidden.image" xml:space="preserve" approved="no">
+				<source>EXT:context_help/cshimages/hidden_page.gif,
+EXT:context_help/cshimages/pages_1.png</source>
+				<target state="needs-translation">EXT:context_help/Resources/Public/Images/cshimages/hidden_page.gif,
+EXT:context_help/Resources/Public/Images/cshimages/pages_1.png</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="hidden.image_descr" xml:space="preserve">
+				<source>The page icon of a hidden page is dimmed and a red X is added.
+If you view a page that is hidden and you are logged in into the backend you will still be able to see the page. The red "Preview" box will tell you that this page is visible to you because of this special circumstance.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>L'icône de page pour une page cachée est grisé et un X rouge est ajouté.Si vous voyez une page qui est cachée et que vous êtes connectés au backend, vous serez toujours capable de voir la page. La boite rouge "Prévisualiser" vous dira que la page est visible à cause de ces circonstances particulières.</target></alt-trans></trans-unit>
+			<trans-unit id="_hidden.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:starttime,pages:endtime,pages:fe_group,pages:extendToSubpages</source>
+				<target state="translated">pages:starttime,pages:endtime,pages:fe_group,pages:extendToSubpages</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="keywords.description" xml:space="preserve" approved="yes">
+				<source>Enter keywords for the page separated by commas. You may also use short phrases.</source>
+			<target state="translated">Entrez les mots-clés de la page (séparés par des virgules).</target></trans-unit>
+			<trans-unit id="keywords.details" xml:space="preserve">
+				<source>Most TYPO3 websites use these keywords in a meta-tag on the page, but you have to setup the appropriate TypoScript template yourself.
+
+To optimize your page for search engines like google you should not use more than 3 to 6 keywords. You should make sure that the keywords can be found in the content of the page.
+
+Note that also search engine extensions for TYPO3 (e.g. Indexed search) can be configured to make use of the keywords.
+
+In TYPO3, the keywords can also be used to create a menu of related pages. Create a content element of type 'Sitemap' and then choose the menu type &lt;i&gt;Related pages (based on keywords)&lt;/i&gt;.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>La plupart des sites en TYPO3 utilisent ces mots-clés dans un meta-tag sur la page, mais vous devez installer le modèle TypoScript approprié vous-même.Pour optimiser votre page pour les moteurs de recherche comme google, vous devriez ne pas dépasser 3 à 6 mots-clés. Assurez-vous que les mots-clés peuvent être trouvés dans le contenu de la page.Notez que les moteurs de recherche d'extension pour TYPO3 peuvent être configuré pour faire usage des mots-clés également.En TYPO3, les mots-clés peuvent aussi être utilisés pour créer un menu de pages connexes. Créer un élement de contenu de type "Plan du site" et choisissez le type de menu "Pages Connexes (basé sur des mots-clés)".</target></alt-trans></trans-unit>
+			<trans-unit id="_keywords.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:description</source>
+				<target state="translated">pages:description</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="l18n_cfg.description" xml:space="preserve" approved="yes">
+				<source>Affect availability of pages in the various languages.</source>
+			<target state="translated">...</target><alt-trans xml:space="preserve" origin="badr"><target>Affecte la disponibilité de pages dans diverses langues.</target></alt-trans></trans-unit>
+			<trans-unit id="l18n_cfg.details" xml:space="preserve">
+				<source>&lt;b&gt;Hide default translation of page&lt;/b&gt;
+If set the page is only available in one of the translations. So any attempt to access the page in the default language will show an error message.
+
+&lt;b&gt;Hide page if no translation for current language exists&lt;/b&gt;
+If set the page access will be blocked with an error message if there is no translation in the current language. By default access to a non-translated page will just show the default language content.</source>
+			<target/></trans-unit>
+			<trans-unit id="lastUpdated.description" xml:space="preserve" approved="yes">
+				<source>Enter the time and date of the most recent update of this page.</source>
+			<target state="translated">Entrez la date et l'heure de la plus récente modification de la page.</target></trans-unit>
+			<trans-unit id="lastUpdated.details" xml:space="preserve">
+				<source>How the value of this field is used is determined by the TypoScript template of the website. First of all a 'Last updated' notice needs to be inserted on the pages and secondly the template must be configured to use this value.
+The most common use which is found in the standard templates will automatically display the last update time and date &lt;em&gt;unless&lt;/em&gt; this field specifies a value in which case this value is inserted.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>La manière dont la valeur de ce champ est utilisé est déterminée par le gabarit TypoScript du site. Tout d'abord, , une notification de "Dernière mise à jour" doit être insérée sur les pages, et deuxièmement, le gabarit doit être configuré pour utiliser cette valeur.L'usage le plus commun qu'on en trouve dans les gabarit standards va automatiquement afficher la date et l'heure de la dernière mise à jour à moins que ce champ ne spécifie une valeur, et dans ce cas, cette valeur est insérée.</target></alt-trans></trans-unit>
+			<trans-unit id="lastUpdated.syntax" xml:space="preserve">
+				<source>Format is HH:MM DD-MM-YYYY.
+If you insert eg. a 'd' the current time and date is inserted. You can also append any value in the field with eg. '+10' which will add 10 days to the current value.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Le format est HH:MM JJ-MM-AAAA.si vous insérer un "d", l'heure courante et la date courante sont insérées. Vous pouvez aussi ajouter n'importe quelle valeur dans le champ avec par exemple "+10" qui va ajouter 10 jours à la valeur actuelle.</target></alt-trans></trans-unit>
+			<trans-unit id="layout.description" xml:space="preserve" approved="yes">
+				<source>Select a layout for the page. Any effect depends on the website template.</source>
+			<target state="translated">Choisissez une disposition pour la page. Chacun des effets dépend du gabarit du site.</target></trans-unit>
+			<trans-unit id="layout.details" xml:space="preserve" approved="yes">
+				<source>This option may not have any impact on the page design since it depends on how (and if) the front end template uses it. In most default templates it's not used.</source>
+			<target state="translated">Cette option peut n'avoir aucun impact sur le design de la page car elle dépend de comment (et si) le gabarit du Frontend l'utilise. Dans la plupart des gabarits par défaut, il n'est pas utilisé.</target></trans-unit>
+			<trans-unit id="media.description" xml:space="preserve" approved="yes">
+				<source>Attach media files related to the page.</source>
+			<target state="translated">Attacher les fichiers multimédias en relation avec cette pages.</target></trans-unit>
+			<trans-unit id="media.details" xml:space="preserve">
+				<source>This fields allows you to attach various files to the page record.
+If and how these files are used depends on your template. So basically which files you attach here and in which order they must be listed is determined by your specific website template and thus you should seek instructions in the documentation for your specific website.
+As an example this field could be used from the template to allow you to attach a logo-image to the page. Or the template might be programmed to expect the first file to be an image used as a link in the navigation menu. But remember, this totally depends on how this field is used in the programming of the template.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Ce champ vous autorise à joindre divers fichiers à l'archive de la page.Que ces fichiers soient utilisés et la manière dont ils le seraient dépend de votre modèle. Ainsi, fondamentalement, quels fichiers vous joignez ici et l'ordre dans lequel ils doivent être listés est déterminé par votre modèle de site spécifique, et ainsi vous devriez chercher des instructions dans la documentation par rapport à votre site web particulier.Par exemple, ce champ pourrait être utilisé depuis le modèle pour vous permettre de joindre un logo-image à la page. Mais le modèle pourrait être programmé pour s'attendre à ce que je premier fichier soit une image utilisée comme lien dans le menu de navigation. Mais rappelez-vous, cela dépend totalement de la manière dont ce champ est considéré dans la programmation de votre modèle.</target></alt-trans></trans-unit>
+			<trans-unit id="module.description" xml:space="preserve" approved="yes">
+				<source>Define the page as a frontend 'module'.</source>
+			<target state="translated">Définit la page comme un 'module' frontend.</target></trans-unit>
+			<trans-unit id="module.details" xml:space="preserve">
+				<source>In the backend there is a module called 'Web&gt;Modules' as well as a header 'Modules' in the 'User&gt;Task Center'. Both functions list the available 'Frontend modules' to which the user has access.
+Basically, setting this option just marks the page so the backend knows this page contains eg. a forum or is the root page of a shopping section on the website. And based on this knowledge the backend is able to display a shortcut list as well as relevant functionality in the 'Web&gt;Modules' module. The frontend display is - largely - not affected.
+So in effect, by 'marking' a page to be a 'Shop' module simply means it'll show up in the shortcut list of modules in the backend.
+
+There may be a little more to it than this, but for details on the subject, you must refer to the administration documentation.
+
+It's recommended that only admin-users are allowed access to this field!</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Dans le backend, il y a un module appelé "Web&gt;Modules", mais également un header "Modules" dans le "User&gt; Task Center". Les deux fonctions listent les "Modules Frontend" disponibles auxquels l'utilisateur a accès.Fondamentalement, mettre en place cette option marque juste la page donc le backend sait que cette page contient un forum ou est la page racine d'une section vente du site. Et en se basant sur cela, le backend est capable d'afficher une liste de raccourcis aussi bien que des fonctionnalités pertinentes dans module "Web&gt;Module". L'affichage du frontend n'est pas du tout affecté.Ainsi, en effet, en marquant un page pour qu'elle soit un module "Vente" signifie simplement qu'elle apparaitra dans une liste de raccourcis de modules dans le backend.Il pourrait y avoir un peu plus que tout cela, mais pour des détails sur le sujet, vous devez vous référer à la documentation administrative.il est recommandé que seuls les utilisateurs administrateurs aient accès à ce champ.</target></alt-trans></trans-unit>
+			<trans-unit id="mount_pid.description" xml:space="preserve">
+				<source>Mount this page id. If set it means that the subpages of this page comes from the mounted page instead.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Monter l'ID de la page. Si cela est fait, cela implique que les sous-pages de cette page viennent de la page montée à la place.</target></alt-trans></trans-unit>
+			<trans-unit id="mount_pid.details" xml:space="preserve">
+				<source>In the frontend this is done by adding a new variable, &amp;MP, to the parameters which links the mounted branch to the main branch by pairing page ids.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Dans le frontend, cela est réalisé par ajout d'une nouvelle variable, &amp;MP, aux paramètres qui relient la branche montée à la branche principale en couplant les ID de page.</target></alt-trans></trans-unit>
+			<trans-unit id="mount_pid_ol.description" xml:space="preserve">
+				<source>If set, the mount point is "overlaid" by the mounted page. It will look like if the mount point does not exist and the mounted page is inserted in its position instead.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Si cela est fait, le point de montage est "recouvert" par la page montée. Ça sera comme si le point de montage n'existait pas et la page montée est inséré dans sa position à la place.</target></alt-trans></trans-unit>
+			<trans-unit id="_mount_pid_ol.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:mount_pid</source>
+				<target state="translated">pages:mount_pid</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note><alt-trans xml:space="preserve" origin="goal"><target>pages:mount_pid</target></alt-trans></trans-unit>
+			<trans-unit id="_mount_pid.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:mount_pid_ol</source>
+				<target state="translated">pages:mount_pid_ol</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note><alt-trans xml:space="preserve" origin="goal"><target>pages:mount_pid_ol</target></alt-trans></trans-unit>
+			<trans-unit id="nav_hide.description" xml:space="preserve">
+				<source>With this option the page will be hidden in navigation menus in the frontend. The page can still be viewed if linked by its ID directly.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Avec cette option, la page sera cachée dans le menu de navigation dans le frontend. La page peut toujours être vue si appelée par son numéro ID directement.</target></alt-trans></trans-unit>
+			<trans-unit id="_nav_hide.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:nav_title</source>
+				<target state="translated">pages:nav_title</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="nav_title.description" xml:space="preserve">
+				<source>Alternative title for menu items in the frontend. This value takes precedence over the page title if this value is filled in.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Titre alternatif pour les éléments du menu dans le frontend. Cette valeur prend le pas sur le titre de la page si cette valeur est renseignée.</target></alt-trans></trans-unit>
+			<trans-unit id="newUntil.description" xml:space="preserve" approved="yes">
+				<source>Enter the 'expiry date' of the page.</source>
+			<target state="translated">Entrez la 'date d'expiration' de la page.</target></trans-unit>
+			<trans-unit id="newUntil.details" xml:space="preserve">
+				<source>The 'expiry date' of the page has no effect on the display of the webpage. This value is rather for internal use meant as a reminder of the date when the content of this page should be revised. So if the content of the page will be outdated at a certain point in time, you could set this value to that approximate date.
+In order to obtain an overview of the expiry dates of pages, use the 'Pagetree overview' in the 'Web&gt;Info' module.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>La date d'expiration de la page n'a pas d'effet sur l'affichage de celle-ci. Cette valeur est plutôt à usage internet comme un rappel de la date à laquelle le contenu de cette page devrait être révisé. Donc si le contenu de la page sera obsolète après un certain temps, vous pouvez fixer cette valeur à cette date approximative.Afin d'obtenir une vue d'ensemble des dates d'expiration des pages, utilisez la "Vue d'ensemble de l'arborescence des pages" dans le module "Web&gt;Info".</target></alt-trans></trans-unit>
+			<trans-unit id="_newUntil.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:starttime</source>
+				<target state="translated">pages:starttime</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="newUntil.syntax" xml:space="preserve" approved="yes">
+				<source>See Page / Start (click below)</source>
+			<target state="translated">Voir page / Démarrer (cliquer ci-dessous)</target><note>100%</note><alt-trans xml:space="preserve" origin="goal"><target>Voir Page / Démarrer (cliquer ci-dessous)</target></alt-trans></trans-unit>
+			<trans-unit id="no_cache.description" xml:space="preserve" approved="yes">
+				<source>This option disables server caching of the page.</source>
+			<target state="translated">Cette option désactive la mise en cache de la page par le serveur.</target></trans-unit>
+			<trans-unit id="no_cache.details" xml:space="preserve">
+				<source>Normally pages in TYPO3 are cached on the server after being constructed for the first time. This means a page is displayed much faster the second time it's requested.
+For most pages this presents no problems - rather it's boosting the performance of the website.
+However you may need to disable caching for a page if it contains dynamic content which must not be cached under any circumstances. Normally the PHP-code rendering such content is programmed to disable the caching automatically. But in any case you can force the page not to be cached via this option.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Normalement, les pages en TYPO3 sont cachées sur le serveur après avoir été construites pour la première fois. Cela signifie qu'une page est affichée beaucoup plus rapidement la seconde fois qu'elle est appelée.Pour la plupart des pages, cela ne présente pas de problème - cela boost plutôt les performances du site.Cependant vous pouvez avoir besoin de désactiver la mise en cache de la page si elle contient du contenu dynamique qui ne doit être caché sous aucunes circonstances. Normalement, le code PHP rendant un tel contenu est programmé pour désactiver la mise en cache automatiquement. Mais dans tous les cas, vous pouvez obliger la page à ne pas être cachée via cette option.</target></alt-trans></trans-unit>
+			<trans-unit id="_no_cache.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:cache_timeout</source>
+				<target state="translated">pages:cache_timeout</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="no_search.description" xml:space="preserve" approved="yes">
+				<source>If enabled, this option excludes the page from searching operations on the website.</source>
+			<target state="translated">Si activée, cette option exclut la page des résultats de recherches sur le site web.</target></trans-unit>
+			<trans-unit id="_.seeAlso" xml:space="preserve" approved="yes">
+				<source>tt_content</source>
+			<target state="translated">tt_content</target></trans-unit>
+			<trans-unit id="shortcut.description" xml:space="preserve">
+				<source>Insert a reference to the page to which this page is supposed to be a shortcut. Requesting this ID in the frontend will redirect people to the page referred to by this value.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Insérez une référence à la page pour laquelle cette page est censée être un raccourci. Requérir cette ID dans le frontend redirigera les utilisateurs à la page référée grâce à cette valeur.</target></alt-trans></trans-unit>
+			<trans-unit id="shortcut.details" xml:space="preserve">
+				<source>Click the 'Browse for records' icon and a new window will appear in which you can easily select the page to which the shortcut is supposed to link.
+
+This option is used only if the page 'Type' is set to 'Shortcut'.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Cliquez sur l'icône "Parcourir les dossiers" et une nouvelle fenêtre apparaitra dans laquelle vous pouvez facilement sélectionner la page vers laquelle le raccourcis est supposé rediriger.Cette option est utilisée uniquement si le type de la page est "Raccourci"</target></alt-trans></trans-unit>
+			<trans-unit id="_shortcut.image" xml:space="preserve" approved="no">
+				<source>EXT:context_help/cshimages/page_shortcut.gif</source>
+				<target state="needs-translation">EXT:context_help/Resources/Public/Images/cshimages/page_shortcut.gif</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.
+This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial. 75%</note><alt-trans xml:space="preserve" origin="goal"><target>EXT:context_help/cshimages/page_shortcut.gif</target></alt-trans></trans-unit>
+			<trans-unit id="shortcut.image_descr" xml:space="preserve">
+				<source>Select a page to shortcut to by the Element Browser.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Sélectionnez une page vers laquelle faire un raccourci grâce au navigateur d'éléments.</target></alt-trans></trans-unit>
+			<trans-unit id="shortcut_mode.description" xml:space="preserve">
+				<source>Select a shortcut mode. By default the shortcut page type must have a page id to jump to. Alternative methods are to go to the first subpage of a page or to a random subpage.</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Sélectionnez un mode de raccourci. Par défaut, le type de page raccourci doit avoir une ID de page vers laquelle aller. Des méthodes alternatives sont d'aller à la première sous-page d'une page ou une sous-page aléatoire.</target></alt-trans></trans-unit>
+			<trans-unit id="_shortcut.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:doktype,
+pages:shortcut_mode</source>
+				<target state="translated">pages:doktype,
+pages:shortcut_mode</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note><alt-trans xml:space="preserve" origin="goal"><target>pages:doktype, pages:shortcut_mode</target></alt-trans></trans-unit>
+			<trans-unit id="starttime.description" xml:space="preserve" approved="yes">
+				<source>The 'Start' time determines the date from which the page will be visible online. Use this to 'publish' the page on a certain date. If 'Start' time is not set, the page will be online instantly (unless the page is hidden otherwise).</source>
+			<target state="translated">La date 'Début' détermine la date à partir de laquelle la page sera visible sur le site. Utilisez cette propriété pour 'publier' la page à une certaine date. Si la propriété 'Début' n'est pas attribuée, alors la page sera publiée instantanément (sauf si la page est masquée).</target></trans-unit>
+			<trans-unit id="_starttime.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:endtime,pages:hidden</source>
+				<target state="translated">pages:endtime,pages:hidden</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="starttime.syntax" xml:space="preserve" approved="yes">
+				<source>Format is DD-MM-YYYY. You may enter the value in other ways - it will be evaluated immediately.
+If you insert eg. a 'd' the current date is inserted. You can also append any value in the field with eg. '+10' which will add 10 days to the current value. For instance setting the value to 'd+10' would select a date 10 days from now.</source>
+			<target state="translated">Le format est JJ-MM-AAAA. Vous pouvez entrer cette date d'une autre façon, elle sera évaluée immédiatement. Si vous insérez par exemple un 'd' alors la date actuelle est insérée. Vous pouvez aussi entrer n'importe quelle valeur dans ce champ par exemple '+10' qui ajoutera 10 jours à la date actuelle. Par exemple mettre cette valeur à 'd+10' séléctionnera la date dans 10 jours.</target></trans-unit>
+			<trans-unit id="subtitle.description" xml:space="preserve" approved="yes">
+				<source>Enter a subtitle if needed.</source>
+			<target state="translated">Entrez un sous-titre si besoin.</target></trans-unit>
+			<trans-unit id="subtitle.details" xml:space="preserve" approved="yes">
+				<source>Whether this field is used or not depends on the template. In most cases it's not used.
+You may use this field as you like in your own templates.</source>
+			<target state="translated">Si ce champ est utilisé ou non dépend du gabarit. Dans la plupart des cas, il n'est pas utilisé.
+Vous pouvez utiliser ce champ comme vous voulez dans vos propres gabarits.</target></trans-unit>
+			<trans-unit id="target.description" xml:space="preserve" approved="yes">
+				<source>The HTML target of menu items linking to this page. Also can be used for open page in popup.</source>
+			<target state="translated">La cible HTML des éléments du menu liés à cette page. Peut aussi être utilisé pour ouvrir une page dans un popup.</target></trans-unit>
+			<trans-unit id="target.details" xml:space="preserve">
+				<source>Set this value only to overrule the default link, which should be configured correctly for most pages in the website TypoScript template.
+There are more options with the target field
+
+Setting an integer value at the start of the field adds it as the default type for the page.
+For example, if an RSS feed is configured in Typoscript as typeNum=100, setting the target to 100 could be used to add an RSS link in the menu.
+
+For open in popup use following syntax:
+400x200 - this opens page in a popup of size 400x200
+230x450:resizable=0,location=1 - opens page in popup with parameters
+
+Combined:
+100 600x350 - opens page in popup with type 100
+2 _blank - opens page with target "_blank" and type 2</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Fixez cette valeur uniquement pour supprimer le lien par défaut, qui devrait être configuré correctement pour la plupart des pages  dans le modèle TypoScript.Il y a plus d'options avec le champ cible.Fixer une valeur entière au début du champ l'ajoute comme le type par défaut de la page.Par exemple, si un flux RSS est configuré en TypoScript comme typeNum=100, fixer la cible à 100 pourrait être utilisé pour ajouter un lien RSS dans le menu.Pour ouvrir en fenêtre contextualisée, utiliser la syntaxe suivant ;400x200 - cela ouvre la page dans une fenêtre contextualisée de taille 400x200230x450:redimensionnable=0,localisation=1 - ouvre la page dans un fenêtre contextualisée avec paramètres.De manière combinée:100 600x350 - ouvre la pagedans une fenêtre contextualisée avec type=1002_blank - ouvre la page avec la cible "_blank" et de type 2</target></alt-trans></trans-unit>
+			<trans-unit id="title.description.+" xml:space="preserve" approved="yes">
+				<source>This is normally shown in the website navigation.</source>
+			<target state="translated">C'est habituellement affiché dans le menu de navigation.</target></trans-unit>
+			<trans-unit id="TSconfig.details.+" xml:space="preserve">
+				<source>&lt;strong&gt;Example:&lt;/strong&gt;
+Normally the 'Web&gt;Page' module lets you create content in four columns, Left, Normal, Right, Border. However most websites use only a single or two columns. So some of these content columns are just taking up space and may even be confusing to users.
+If you enter this string in the 'TSconfig' field, the 'Web&gt;Page' module will allow you to work only in the 'Normal' and 'Border' column!
+
+&lt;em&gt;mod.web_layout.tt_content.colPos_list = 0,3&lt;/em&gt;
+
+(Must be entered in a single line!)</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Exemple:Normalement le module "Web&gt; Page" vous permet de créer du contenu en quatre colonnes, à gauche, normal, à droite, au bord. Cependant la plupart des sites utilisent uniquement un ou deux colonnes simples. Ainsi, certaines de ces colonnes de contenu prennent tout simplement de l'espace et peuvent même être source de confusion pour les utilisateurs. Si vous entrez cette chaîne dans le champ "TSconfig" , le module "Web&gt; Page" vous permettra de ne travailler que dans les colonnes «Normal» et «Bordure»!mod.web_layout.tt_content.colPos_list = 0,3(Cela doit être entrer sur une seule ligne!)</target></alt-trans></trans-unit>
+			<trans-unit id="url.description" xml:space="preserve" approved="yes">
+				<source>Enter the URL to which this page is supposed to link.</source>
+			<target state="translated">Entrez l'URL vers laquelle cette page est supposée être liée.</target></trans-unit>
+			<trans-unit id="url.details" xml:space="preserve">
+				<source>Example: 'http://www.typo3.org' or just 'www.typo3.org' provided the 'Type' selector is set to 'http://'.
+Use the 'Type' selector to select a prefix for the URL.
+
+This option is used only if the page 'Type' is set to 'External URL'.</source>
+			<target/><alt-trans xml:space="preserve" origin="goal"><target>Exemple : "http://www.typo3.com" ou seulement "www.typo3.com" à condition que le sélecteur de "Type" est réglé sur "http://". Utilisez le sélecteur de "Type" pour choisir un préfixe pour l'URL. Cette option est utilisée uniquement si le "Type" de la page est défini à 'URL externe'.</target></alt-trans></trans-unit>
+			<trans-unit id="_url.seeAlso" xml:space="preserve" approved="yes">
+				<source>pages:urltype</source>
+				<target state="translated">pages:urltype</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="urltype.description" xml:space="preserve" approved="yes">
+				<source>Set the URL prefix.</source>
+			<target state="translated">Mettre en place le préfixe de l'URL</target></trans-unit>
+		</body>
+	</file>
+</xliff>

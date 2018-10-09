@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T02:27:10Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="1_selectType" approved="yes">
+				<source>1: Select type of content element:</source>
+				<target state="translated">1. Sélectionnez le type d'élément de contenu :</target>
+			</trans-unit>
+			<trans-unit id="2_selectPosition" approved="yes">
+				<source>2: Select position:</source>
+				<target state="translated">2. Sélectionnez sa position :</target>
+			</trans-unit>
+			<trans-unit id="bookmark_active" approved="yes">
+				<source>active</source>
+				<target state="translated">actif</target>
+			</trans-unit>
+			<trans-unit id="bookmark_all" approved="yes">
+				<source>All</source>
+				<target state="translated">Tout</target>
+			</trans-unit>
+			<trans-unit id="bookmark_close" approved="yes">
+				<source>Close bookmark editor</source>
+				<target state="translated">Fermer l'éditeur de favoris</target>
+			</trans-unit>
+			<trans-unit id="bookmark_create" approved="yes">
+				<source>Create</source>
+				<target state="translated">Créer</target>
+			</trans-unit>
+			<trans-unit id="bookmark_delAllInCat" approved="yes">
+				<source>Delete all bookmarks in this group</source>
+				<target state="translated">Supprimer tous les favori de ce groupe</target>
+			</trans-unit>
+			<trans-unit id="bookmark_delete" approved="yes">
+				<source>Remove bookmark</source>
+				<target state="translated">Supprimer le favori</target>
+			</trans-unit>
+			<trans-unit id="bookmarkDescription" approved="yes">
+				<source>This is the bookmarks menu. You do not have any bookmarks added yet, you can do so by clicking the bookmark icon %icon%, which you can find on each page in the backend.</source>
+				<target state="translated">Ceci est le menu des favoris. Vous n'avez aucun favori pour le moment, vous pouvez en ajouter en cliquant sur l'icône favori %icon%, que vous pouvez trouver sur chaque page dans le back-office.</target>
+			</trans-unit>
+			<trans-unit id="bookmark_edit" approved="yes">
+				<source>Edit</source>
+				<target state="translated">Editer</target>
+			</trans-unit>
+			<trans-unit id="bookmark_editID" approved="yes">
+				<source>Edit/Search</source>
+				<target state="translated">Editer / Rechercher</target>
+			</trans-unit>
+			<trans-unit id="bookmark_FEPreview" approved="yes">
+				<source>Enable Frontend Preview</source>
+				<target state="translated">Activer la prévisualisation en front-office</target>
+			</trans-unit>
+			<trans-unit id="bookmark_global" approved="yes">
+				<source>Global</source>
+				<target state="translated">Global</target>
+			</trans-unit>
+			<trans-unit id="bookmark_group" approved="yes">
+				<source>Group</source>
+				<target state="translated">Groupe</target>
+			</trans-unit>
+			<trans-unit id="bookmark_group_1" approved="yes">
+				<source>Pages</source>
+				<target state="translated">Pages</target>
+			</trans-unit>
+			<trans-unit id="bookmark_group_2" approved="yes">
+				<source>Records</source>
+				<target state="translated">Enregistrements</target>
+			</trans-unit>
+			<trans-unit id="bookmark_group_3" approved="yes">
+				<source>Files</source>
+				<target state="translated">Fichiers</target>
+			</trans-unit>
+			<trans-unit id="bookmark_group_4" approved="yes">
+				<source>Tools</source>
+				<target state="translated">Outils</target>
+			</trans-unit>
+			<trans-unit id="bookmark_group_5" approved="yes">
+				<source>Miscellaneous</source>
+				<target state="translated">Divers</target>
+			</trans-unit>
+			<trans-unit id="bookmark_inactive" approved="yes">
+				<source>inactive</source>
+				<target state="translated">inactif</target>
+			</trans-unit>
+			<trans-unit id="bookmark_loadEdit" approved="yes">
+				<source>Loading page</source>
+				<target state="translated">Page en cours de chargement</target>
+			</trans-unit>
+			<trans-unit id="bookmark_notEditable" approved="yes">
+				<source>No editable page found!</source>
+				<target state="translated">Aucune page éditable trouvée !</target>
+			</trans-unit>
+			<trans-unit id="bookmark_noWSfound" approved="yes">
+				<source>ERROR: No workspaces found!</source>
+				<target state="translated">ERREUR: Aucun espace de travail!</target>
+			</trans-unit>
+			<trans-unit id="bookmark_offlineWS" approved="yes">
+				<source>Draft workspace</source>
+				<target state="translated">Espace de travail Brouillon</target>
+			</trans-unit>
+			<trans-unit id="bookmark_onlineWS" approved="yes">
+				<source>LIVE workspace</source>
+				<target state="translated">Espace de travail LIVE</target>
+			</trans-unit>
+			<trans-unit id="bookmark_onlyAdmin" approved="yes">
+				<source>You cannot edit a shared bookmark!</source>
+				<target state="translated">Vous ne pouvez pas éditer un favori partagé !</target>
+			</trans-unit>
+			<trans-unit id="bookmark_save" approved="yes">
+				<source>Update bookmark title</source>
+				<target state="translated">Mettre à jour le nom du favori</target>
+			</trans-unit>
+			<trans-unit id="bookmark_saveClose" approved="yes">
+				<source>Update and close editor</source>
+				<target state="translated">Mettre à jour et fermer l'éditeur</target>
+			</trans-unit>
+			<trans-unit id="bookmark_searchFor" approved="yes">
+				<source>Search for:</source>
+				<target state="translated">Rechercher :</target>
+			</trans-unit>
+			<trans-unit id="bookmark_selSC" approved="yes">
+				<source>Select bookmark</source>
+				<target state="translated">Sélectionner un favori</target>
+			</trans-unit>
+			<trans-unit id="bookmark_workspace" approved="yes">
+				<source>Go to Workspace Module</source>
+				<target state="translated">Aller dans le module Workspace</target>
+			</trans-unit>
+			<trans-unit id="bookmark_workspaceComparisonView" approved="yes">
+				<source>Enable comparison view</source>
+				<target state="translated">Activer la vue comparaison</target>
+			</trans-unit>
+			<trans-unit id="clickForWizard" approved="yes">
+				<source>Click here for wizard!</source>
+				<target state="translated">Cliquez ici pour l'assistant !</target>
+			</trans-unit>
+			<trans-unit id="CM_db_list" approved="yes">
+				<source>Web&gt;List module</source>
+				<target state="translated">Module Web&gt;Liste</target>
+			</trans-unit>
+			<trans-unit id="CM_editAccess" approved="yes">
+				<source>Visibility settings</source>
+				<target state="translated">Options de visibilité</target>
+			</trans-unit>
+			<trans-unit id="CM_editPageProperties" approved="yes">
+				<source>Edit page properties</source>
+				<target state="translated">Editer les propriétés de la page</target>
+			</trans-unit>
+			<trans-unit id="CM_history" approved="yes">
+				<source>History/Undo</source>
+				<target state="translated">Historique / Annuler</target>
+			</trans-unit>
+			<trans-unit id="CM_moveWizard" approved="yes">
+				<source>Move element</source>
+				<target state="translated">Déplacer l'élément</target>
+			</trans-unit>
+			<trans-unit id="CM_moveWizard_page" approved="yes">
+				<source>Move page</source>
+				<target state="translated">Déplacer la page</target>
+			</trans-unit>
+			<trans-unit id="CM_newWizard" approved="yes">
+				<source>'Create New' wizard</source>
+				<target state="translated">Assistant 'Nouvel élément'</target>
+			</trans-unit>
+			<trans-unit id="CM_perms" approved="yes">
+				<source>Access</source>
+				<target state="translated">Accès</target>
+			</trans-unit>
+			<trans-unit id="copyElements" approved="yes">
+				<source>Copy elements</source>
+				<target state="translated">Copier les éléments</target>
+			</trans-unit>
+			<trans-unit id="createNewContent" approved="yes">
+				<source>Create a new content element</source>
+				<target state="translated">Créer un nouveau contenu</target>
+			</trans-unit>
+			<trans-unit id="createNewPage" approved="yes">
+				<source>Create a new page</source>
+				<target state="translated">Créer une nouvelle page</target>
+			</trans-unit>
+			<trans-unit id="extDirect_timeoutHeader" approved="yes">
+				<source>Connection Problem</source>
+				<target state="translated">Problème de connexion</target>
+			</trans-unit>
+			<trans-unit id="extDirect_timeoutMessage" approved="yes">
+				<source>Sorry, but an error occurred while connecting to the server. Please check your network connection.</source>
+				<target state="translated">Désolé, un problème est survenu lors de la connexion au serveur. Merci de vérifier votre connexion réseau.</target>
+			</trans-unit>
+			<trans-unit id="fileMetaDataLocation" approved="yes">
+				<source>Location</source>
+				<target state="translated">Emplacement</target>
+			</trans-unit>
+			<trans-unit id="fileMetaErrorInvalidRecord" approved="yes">
+				<source>File meta data not found</source>
+				<target state="translated">Aucune méta-information de fichier trouvée</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_allError2038" approved="no">
+				<source>An input/output error occurred (Error #2038). This i.e. happens with servers using a self-signed SSL certificate, which is a limitation of your browser's Flash plugin.</source>
+				<target state="needs-translation">Une erreur d'input/output est survenue (Erreur #2038). Cela peut survenir avec des serveurs utilisants un certificat SSL auto-signé, qui est une limitation du plugin Flash de votre navigateur.</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_allError401" approved="yes">
+				<source>The server returned the status code 401, which is related to a .htaccess file used for password protection on your server. Unfortunately this can not be handled by your browser's Flash plugin.</source>
+				<target state="translated">Le serveur a renvoyé le code 401, qui est lié à un fichier .htaccess utilisé pour ajouter une protection par mot de passe à votre serveur. Malheureusement, cela n'est pas géré par le plugin Flash de votre navigateur.</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_allErrorMessageText" approved="yes">
+				<source>All of your uploads failed.&lt;br /&gt;&lt;br /&gt;If this problem persists, please try another browser, contact your administrator or disable this "Flash Uploader" in your User Settings.&lt;br /&gt;&lt;br /&gt;Detailed problem description:&lt;br /&gt;</source>
+				<target state="translated">Tous vos téléchargements ont échoué.&lt;br /&gt;&lt;br /&gt;Si ce problème persiste, veuillez essayer avec un autre navigateur web, contactez votre administrateur ou désactivez le "Téléchargeur Flash" dans la Configuration utilisateur.&lt;br/&gt;&lt;br/&gt;Description détaillée du problème :&lt;br /&gt;</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_allErrorMessageTitle" approved="yes">
+				<source>All uploads failed</source>
+				<target state="translated">Tous les transferts ont échoués</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_buttonCancelAll" approved="yes">
+				<source>Cancel All Uploads</source>
+				<target state="translated">Annuler tous les téléchargements</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_buttonSelectFiles" approved="yes">
+				<source>Select Files</source>
+				<target state="translated">Sélectionner les fichiers</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_errorQueueFileSizeLimit" approved="yes">
+				<source>{0} is too big</source>
+				<target state="translated">{0} est trop important</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_errorQueueInvalidFiletype" approved="yes">
+				<source>Filetype not allowed for {0}</source>
+				<target state="translated">Le type de fichier n'est pas autorisé pour {0}</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_errorQueueLimitExceeded" approved="yes">
+				<source>Too many files selected</source>
+				<target state="translated">Trop de fichiers ont été sélectionnés</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_errorQueueZeroByteFile" approved="yes">
+				<source>{0} is empty</source>
+				<target state="translated">{0} est vide</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_errorUploadFailed" approved="yes">
+				<source>Upload failed</source>
+				<target state="translated">Le téléchargement a échoué</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_errorUploadFileCancelled" approved="yes">
+				<source>Upload of {0} canceled</source>
+				<target state="translated">Téléchargement de {0} annulé</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_errorUploadFileIDNotFound" approved="yes">
+				<source>Internal error: File ID not found</source>
+				<target state="translated">Erreur interne : ID du fichier non trouvé</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_errorUploadFileValidation" approved="yes">
+				<source>Internal error while validating the file</source>
+				<target state="translated">Erreur interne pendant la validation du fichier</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_errorUploadHttp" approved="yes">
+				<source>Too many files selected</source>
+				<target state="translated">Trop de fichiers ont été sélectionnés</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_errorUploadHttpError" approved="yes">
+				<source>A HTTP error occurred: {0}</source>
+				<target state="translated">Une erreur HTTP est survenue : {0}</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_errorUploadIO" approved="yes">
+				<source>Internal error: Problems while reading/writing the file</source>
+				<target state="translated">Erreur interne : Problèmes pendant la lecture/écriture du fichier</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_errorUploadLimit" approved="yes">
+				<source>Upload limit exceeded</source>
+				<target state="translated">Limite de téléchargement dépassée</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_errorUploadMissingUrl" approved="yes">
+				<source>Internal error: No Upload URL set</source>
+				<target state="translated">Erreur interne : URL de téléchargement manquante</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_errorUploadSecurityError" approved="yes">
+				<source>Internal error: {0}</source>
+				<target state="translated">Erreur interne : {0}</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_errorUploadStopped" approved="yes">
+				<source>Upload of {0} stopped</source>
+				<target state="translated">Téléchargement de {0} stoppé</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_infoComponentFileTypeLimit" approved="yes">
+				<source>You can upload the following file types {0}.</source>
+				<target state="translated">Vous pouvez télécharger les types de fichier suivants {0}.</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_infoComponentFileUploadLimit" approved="yes">
+				<source>You can upload a total of {0}.</source>
+				<target state="translated">Vous pouvez télécharger un total de {0}.</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_infoComponentMaxFileSize" approved="yes">
+				<source>You can upload files with a maximum size of {0}.</source>
+				<target state="translated">Vous pouvez télécharger les fichiers d'une taille maximum de {0}</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_infoComponentOverrideFiles" approved="yes">
+				<source>Overwrite existing files</source>
+				<target state="translated">Ecraser les fichiers existants</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_processRunning" approved="yes">
+				<source>Another process is already uploading</source>
+				<target state="translated">Un autre process est déjà en train de télécharger</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_uploadProgress" approved="yes">
+				<source>{0}% of {1} uploaded</source>
+				<target state="translated">{0}% de {1} téléchargé</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_uploadStarting" approved="yes">
+				<source>Starting upload of {0}</source>
+				<target state="translated">Démarrage du téléchargement de {0}</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_uploadSuccess" approved="yes">
+				<source>{0} was successfully uploaded!</source>
+				<target state="translated">{0} a été téléchargé avec succès !</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_uploadWait" approved="yes">
+				<source>Waiting to start upload of {0}</source>
+				<target state="translated">En attente de téléchargement de {0}</target>
+			</trans-unit>
+			<trans-unit id="fileUpload_windowTitle" approved="yes">
+				<source>File Upload Progress</source>
+				<target state="translated">Progression du téléchargement de fichier</target>
+			</trans-unit>
+			<trans-unit id="goBack" approved="yes">
+				<source>Go back</source>
+				<target state="translated">Retour</target>
+			</trans-unit>
+			<trans-unit id="insertNewPageHere" approved="yes">
+				<source>Insert the new page here</source>
+				<target state="translated">Insérer la nouvelle page ici</target>
+			</trans-unit>
+			<trans-unit id="insertNewRecordHere" approved="yes">
+				<source>Insert new record here</source>
+				<target state="translated">Insérer le nouvel enregistrement ici</target>
+			</trans-unit>
+			<trans-unit id="liveSearch_emptyText" approved="yes">
+				<source>Enter search term</source>
+				<target state="translated">Recherche</target>
+			</trans-unit>
+			<trans-unit id="liveSearch_helpDescription" approved="yes">
+				<source>Search in certain tables:</source>
+				<target state="translated">Rechercher dans certaines tables :</target>
+			</trans-unit>
+			<trans-unit id="liveSearch_helpDescriptionPages" approved="yes">
+				<source>#page:Home will search for all pages with the title "Home"</source>
+				<target state="translated">#page: Accueil recherchera toutes les pages avec le titre "Accueil"</target>
+			</trans-unit>
+			<trans-unit id="liveSearch_helpTitle" approved="yes">
+				<source>How to use advanced search tags</source>
+				<target state="translated">Comment utiliser les tags de recherche</target>
+			</trans-unit>
+			<trans-unit id="liveSearch_listEmptyText" approved="yes">
+				<source>No results found.</source>
+				<target state="translated">Aucun résultat trouvé</target>
+			</trans-unit>
+			<trans-unit id="liveSearch_loadingText" approved="yes">
+				<source>Searching...</source>
+				<target state="translated">Recherche en cours...</target>
+			</trans-unit>
+			<trans-unit id="liveSearch_showAllResults" approved="yes">
+				<source>Show All</source>
+				<target state="translated">Afficher tous les résultats</target>
+			</trans-unit>
+			<trans-unit id="liveSearch_title" approved="yes">
+				<source>Short result list</source>
+				<target state="translated">Liste de résultat</target>
+			</trans-unit>
+			<trans-unit id="localize" approved="yes">
+				<source>Localize</source>
+				<target state="translated">Traduire</target>
+			</trans-unit>
+			<trans-unit id="localizeAllRecords" approved="yes">
+				<source>Localize all records</source>
+				<target state="translated">Traduire tous les enregistrements</target>
+			</trans-unit>
+			<trans-unit id="localize.isLocalizable" approved="yes">
+				<source>Record can be localized</source>
+				<target state="translated">L'enregistrement peut être traduit</target>
+			</trans-unit>
+			<trans-unit id="localizeMergeIfNotBlank">
+				<source>The value of the default language will be used if this field is left empty in the translation.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="localize.wasRemovedInOriginal" approved="yes">
+				<source>Record was removed in original language</source>
+				<target state="translated">L'enregistrement a été déplacé dans la langue d'origine</target>
+			</trans-unit>
+			<trans-unit id="makeCopy" approved="yes">
+				<source>Make copy instead of moving element</source>
+				<target state="translated">Copier plutôt que déplacer l'élément</target>
+			</trans-unit>
+			<trans-unit id="moveElement" approved="yes">
+				<source>Move element</source>
+				<target state="translated">Déplacer l'élément</target>
+			</trans-unit>
+			<trans-unit id="moveElements" approved="yes">
+				<source>Move elements</source>
+				<target state="translated">Déplacer les éléments</target>
+			</trans-unit>
+			<trans-unit id="movePageToHere" approved="yes">
+				<source>Move page to this position</source>
+				<target state="translated">Déplacer la page ici</target>
+			</trans-unit>
+			<trans-unit id="movingElement" approved="yes">
+				<source>Move element</source>
+				<target state="translated">Déplacer l'élément</target>
+			</trans-unit>
+			<trans-unit id="newContentElement" approved="yes">
+				<source>New content element</source>
+				<target state="translated">Nouvel élément de contenu</target>
+			</trans-unit>
+			<trans-unit id="noEditPage" approved="yes">
+				<source>You asked to edit page "%s" but you cannot edit this page. Now loading backend as usual.</source>
+				<target state="translated">Vous avez demandez d'éditer la page "%s" mais vous ne pouvez pas. Maintenant chargement principal comme d'habitude.</target>
+			</trans-unit>
+			<trans-unit id="overwriteExistingFiles" approved="yes">
+				<source>Overwrite existing files</source>
+				<target state="translated">Ecraser les fichiers existants</target>
+			</trans-unit>
+			<trans-unit id="pageSelectPosition" approved="yes">
+				<source>Page (select position)</source>
+				<target state="translated">Page (sélectionner la position)</target>
+			</trans-unit>
+			<trans-unit id="pageTree_filter" approved="yes">
+				<source>Filter</source>
+				<target state="translated">Filtrer</target>
+			</trans-unit>
+			<trans-unit id="selectPosition" approved="yes">
+				<source>Select a position for the new page</source>
+				<target state="translated">Sélectionnez une position pour la nouvelle page</target>
+			</trans-unit>
+			<trans-unit id="selectPositionOfElement" approved="yes">
+				<source>Select position of the element</source>
+				<target state="translated">Sélectionnez la position de l'élément</target>
+			</trans-unit>
+			<trans-unit id="shortcut_active" approved="yes">
+				<source>active</source>
+				<target state="translated">actif</target>
+			</trans-unit>
+			<trans-unit id="shortcut_all" approved="yes">
+				<source>All</source>
+				<target state="translated">Tout</target>
+			</trans-unit>
+			<trans-unit id="shortcut_close" approved="yes">
+				<source>Close shortcut editor</source>
+				<target state="translated">Fermer l'éditeur de raccourci</target>
+			</trans-unit>
+			<trans-unit id="shortcut_create" approved="yes">
+				<source>Create</source>
+				<target state="translated">Créer</target>
+			</trans-unit>
+			<trans-unit id="shortcut_delAllInCat" approved="yes">
+				<source>Delete all shortcuts in this group?</source>
+				<target state="translated">Supprimer tous les raccourcis de ce groupe ?</target>
+			</trans-unit>
+			<trans-unit id="shortcut_delete" approved="yes">
+				<source>Remove shortcut</source>
+				<target state="translated">Supprimer le raccourci</target>
+			</trans-unit>
+			<trans-unit id="shortcutDescription" approved="yes">
+				<source>This is the shortcuts menu. You do not have any shortcuts added yet, you can do so by clicking the shortcut icon %icon%, which you can find on each page in the backend.</source>
+				<target state="translated">Ceci est le menu des raccourcis. Vous n'avez aucun raccourci pour le moment, vous pouvez en ajouter en cliquant sur l'icône raccourci %icon%, que vous pouvez trouver sur chaque page dans le back-office.</target>
+			</trans-unit>
+			<trans-unit id="shortcut_edit" approved="yes">
+				<source>Edit</source>
+				<target state="translated">Editer</target>
+			</trans-unit>
+			<trans-unit id="shortcut_editID" approved="yes">
+				<source>Edit/Search</source>
+				<target state="translated">Editer la page (ID)</target>
+			</trans-unit>
+			<trans-unit id="shortcut_FEPreview" approved="yes">
+				<source>Enable Frontend Preview</source>
+				<target state="translated">Activer la prévisualisation en front-office</target>
+			</trans-unit>
+			<trans-unit id="shortcut_global" approved="yes">
+				<source>Global</source>
+				<target state="translated">Global</target>
+			</trans-unit>
+			<trans-unit id="shortcut_group" approved="yes">
+				<source>Group</source>
+				<target state="translated">Groupe</target>
+			</trans-unit>
+			<trans-unit id="shortcut_group_1" approved="yes">
+				<source>Pages</source>
+				<target state="translated">Pages</target>
+			</trans-unit>
+			<trans-unit id="shortcut_group_2" approved="yes">
+				<source>Records</source>
+				<target state="translated">Enregistrements</target>
+			</trans-unit>
+			<trans-unit id="shortcut_group_3" approved="yes">
+				<source>Files</source>
+				<target state="translated">Fichiers</target>
+			</trans-unit>
+			<trans-unit id="shortcut_group_4" approved="yes">
+				<source>Tools</source>
+				<target state="translated">Outils</target>
+			</trans-unit>
+			<trans-unit id="shortcut_group_5" approved="yes">
+				<source>Miscellaneous</source>
+				<target state="translated">Divers</target>
+			</trans-unit>
+			<trans-unit id="shortcut_inactive" approved="yes">
+				<source>inactive</source>
+				<target state="translated">inactif</target>
+			</trans-unit>
+			<trans-unit id="shortcut_loadEdit" approved="yes">
+				<source>Loading page</source>
+				<target state="translated">Page en cours de chargement</target>
+			</trans-unit>
+			<trans-unit id="shortcut_notEditable" approved="yes">
+				<source>No editable page found!</source>
+				<target state="translated">Aucune page éditable trouvée !</target>
+			</trans-unit>
+			<trans-unit id="shortcut_noWSfound" approved="yes">
+				<source>ERROR: No workspaces found!</source>
+				<target state="translated">ERREUR : Aucun espace de travail !</target>
+			</trans-unit>
+			<trans-unit id="shortcut_offlineWS" approved="yes">
+				<source>Draft workspace</source>
+				<target state="translated">Espace de travail Brouillon</target>
+			</trans-unit>
+			<trans-unit id="shortcut_onlineWS" approved="yes">
+				<source>LIVE workspace</source>
+				<target state="translated">Espace de travail LIVE</target>
+			</trans-unit>
+			<trans-unit id="shortcut_onlyAdmin" approved="yes">
+				<source>You cannot edit a shared shortcut!</source>
+				<target state="translated">Vous ne pouvez pas éditer un raccourci partagé !</target>
+			</trans-unit>
+			<trans-unit id="shortcut_save" approved="yes">
+				<source>Update shortcut title</source>
+				<target state="translated">Mettre à jour le nom du raccourci</target>
+			</trans-unit>
+			<trans-unit id="shortcut_saveClose" approved="yes">
+				<source>Update and close editor</source>
+				<target state="translated">Mettre à jour et fermer l'éditeur</target>
+			</trans-unit>
+			<trans-unit id="shortcut_searchFor" approved="yes">
+				<source>Search for:</source>
+				<target state="translated">Rechercher :</target>
+			</trans-unit>
+			<trans-unit id="shortcut_selSC" approved="yes">
+				<source>Select shortcut</source>
+				<target state="translated">Sélectionner un raccourci</target>
+			</trans-unit>
+			<trans-unit id="shortcut_workspace" approved="yes">
+				<source>Go to Workspace Module</source>
+				<target state="translated">Aller dans le module Workspace</target>
+			</trans-unit>
+			<trans-unit id="switchtouser" approved="yes">
+				<source>Switch to User</source>
+				<target state="translated">Changer d'utilisateur</target>
+			</trans-unit>
+			<trans-unit id="switchtousershort" approved="yes">
+				<source>SU:</source>
+				<target state="translated">CU :</target>
+			</trans-unit>
+			<trans-unit id="synchronizeWithOriginalLanguage" approved="yes">
+				<source>Synchronize with original language</source>
+				<target state="translated">Synchroniser avec la langue d'origine</target>
+			</trans-unit>
+			<trans-unit id="system_records" approved="yes">
+				<source>System Records</source>
+				<target state="translated">Enregistrements sytème</target>
+			</trans-unit>
+			<trans-unit id="uploadMultipleFilesInfo">
+				<source>Upload multiple files by holding the Shift or CTRL-file pressed while selecting your files (works on modern browsers only).</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="viewPort_tooltipDebugPanelSplitDrag" approved="yes">
+				<source>Drag to resize or click to collapse the Debug Panel.</source>
+				<target state="translated">Déplacez la barre pour redimensionner ou double cliquez pour fermer le panneau de debug</target>
+			</trans-unit>
+			<trans-unit id="viewPort_tooltipModuleMenuSplit" approved="yes">
+				<source>Drag to resize the Modules Menu</source>
+				<target state="translated">Déplacez la barre pour redimensionner le menu des modules</target>
+			</trans-unit>
+			<trans-unit id="viewPort_tooltipNavigationContainerSplitDrag" approved="no">
+				<source>Drag to resize or double click to collapse the page tree area</source>
+				<target state="needs-translation">Déplacez la barre pour redimensionner ou double cliquez pour fermer l'arborescence</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

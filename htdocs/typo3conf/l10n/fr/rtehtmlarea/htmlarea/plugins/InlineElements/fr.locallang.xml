@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="BiDiOverride-Tooltip">Surcharge de la bidirectionnalité</label>
+			<label index="Big-Tooltip">Texte large</label>
+			<label index="Bold-Tooltip">Gras</label>
+			<label index="Citation-Tooltip">Citation</label>
+			<label index="Code-contextMenuTitle">Fragment de code</label>
+			<label index="Code-Tooltip">Fragment de code informatique</label>
+			<label index="Definition-Tooltip">Définition</label>
+			<label index="DeletedText-Tooltip">Texte supprimé</label>
+			<label index="Emphasis-Tooltip">Emphase</label>
+			<label index="FormatText-Tooltip">Appliquer le format au texte sélectionné</label>
+			<label index="InsertedText-Tooltip">Texte inséré</label>
+			<label index="Italic-Tooltip">Italique</label>
+			<label index="Keyboard-contextMenuTitle">Texte à saisir</label>
+			<label index="Keyboard-Tooltip">Texte entré par l'utilisateur</label>
+			<label index="MonoSpaced-Tooltip">Texte à largeur fixe</label>
+			<label index="No markup">Pas de format de texte</label>
+			<label index="Quotation-contextMenuTitle">Cote courte</label>
+			<label index="Quotation-Tooltip">Citation courte</label>
+			<label index="Remove markup">Supprimer le format du texte</label>
+			<label index="Sample-contextMenuTitle">Sortie d'exemple</label>
+			<label index="Sample-Tooltip">Echantillon de sortie de programme informatique</label>
+			<label index="Small-Tooltip">Petit texte</label>
+			<label index="Span-Tooltip">Conteneur de style</label>
+			<label index="StrikeThrough-Tooltip">Texte barré</label>
+			<label index="Strong-Tooltip">Emphase forte</label>
+			<label index="Subscript-Tooltip">Indice</label>
+			<label index="Superscript-Tooltip">Exposant</label>
+			<label index="Technische Universitat Ilmenau">Université Technologique d'Ilmenau</label>
+			<label index="Underline-Tooltip">Souligné</label>
+			<label index="Variable-contextMenuTitle">Variable</label>
+			<label index="Variable-Tooltip">Variable ou argument d'un programme</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

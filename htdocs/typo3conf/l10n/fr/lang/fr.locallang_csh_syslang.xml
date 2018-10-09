@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index=".description">Définit quelles langues sont alternativement disponibles sur chacune des pages du site.</label>
+			<label index=".details">Le module de Web&gt;Page en a un dispositif qui permet aux utilisateurs d'éditer le contenu de page divisée non seulement en colonnes mais également en langues. Les langues disponibles pour la traduction sont déterminées par le nombre d'enregistrement "Website Language" créé. Pour qu'une page soit disponible dans une autre langue, un enregistrement "Langue Alternative de Page" doit être créé sur cette page.</label>
+			<label index="hidden.description">Cette option empêchera le système de langue d'être disponible dans le backend.</label>
+			<label index="_.seeAlso">pages_language_overlay</label>
+			<label index="title.description">Entrez le nom de ce système de langue additionnel.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

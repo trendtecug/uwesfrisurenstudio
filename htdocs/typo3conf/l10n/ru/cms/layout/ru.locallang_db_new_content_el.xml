@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="common">Обычные типы содержимого</label>
+			<label index="common_bulletList_description">Обычный маркированный список.</label>
+			<label index="common_bulletList_title">Маркированный список</label>
+			<label index="common_headerOnly_description">Добавлять только заголовок.</label>
+			<label index="common_headerOnly_title">Только заголовок</label>
+			<label index="common_imagesOnly_description">Набор изображений, выстроенных в столбцы и строки с подписями.</label>
+			<label index="common_imagesOnly_title">Только изображения</label>
+			<label index="common_regularText_description">Обычный текстовый элемент с полем для заголовка и содержимого</label>
+			<label index="common_regularText_title">Обычный текстовый элемент</label>
+			<label index="common_table_description">Простая таблица.</label>
+			<label index="common_table_title">Таблица</label>
+			<label index="common_textImage_description">Набор изображений, помещенных около обычного текстового элемента.</label>
+			<label index="common_textImage_title">Текст с изображением</label>
+			<label index="forms">Формы</label>
+			<label index="forms_login_description">Форма авторизации в системе. Используется для организации доступа пользователей и определенных групп к защищённым паролем страницам сайта.</label>
+			<label index="forms_login_title">Форма авторизации</label>
+			<label index="forms_mail_description">Почтовая форма, позволяющая посетителям отправлять сообщения.</label>
+			<label index="forms_mail_title">Почтовая форма</label>
+			<label index="forms_search_description">Форму поиска и результаты поиска.</label>
+			<label index="forms_search_title">Форма поиска</label>
+			<label index="plugins">Дополнения</label>
+			<label index="plugins_general_description">Выберите этот пункт для вставки дополнений, отсутствующих в списке ниже.</label>
+			<label index="plugins_general_title">Общие дополнения</label>
+			<label index="sel1">Выберите, пожалуйста, какой тип содержимого вы хотите создать:</label>
+			<label index="sel2">Теперь выберите то место в странице, куда вы хотите поместить элемент:</label>
+			<label index="special">Особые элементы</label>
+			<label index="special_divider_description">Этот элемент представляет из себя визуальное разделение в виде горизонтальной линии.</label>
+			<label index="special_divider_title">Разделитель</label>
+			<label index="special_filelinks_description">Список файлов для загрузки.</label>
+			<label index="special_filelinks_title">Ссылки на файлы</label>
+			<label index="special_media_description">Вставьте медиа элемент, вроде флеш-анимации, аудио файла или видео клипа.</label>
+			<label index="special_media_title">Медиа</label>
+			<label index="special_menus_description">Создание меню страниц, карты сайта или других специфичных меню.</label>
+			<label index="special_menus_title">Специальное меню</label>
+			<label index="special_multimedia_description">Мультимедийный элемент, такой как флеш-анимация, аудиофайл или видеоклип.</label>
+			<label index="special_multimedia_title">Мультимедиа</label>
+			<label index="special_plainHTML_description">С помощью этого элемента вы можете поместить необработанный HTML непосредственно на страницу.</label>
+			<label index="special_plainHTML_title">Чистый HTML</label>
+			<label index="special_qtobject_description">Вставка элемента Quicktime в виде Quicktime аудио или видео клипа (*.mov).</label>
+			<label index="special_qtobject_title">Вставка элемента Quicktime</label>
+			<label index="special_shortcut_description">При помощи этого элемента возможно подключать другие элементы содержимого.</label>
+			<label index="special_shortcut_title">Вставить записи</label>
+			<label index="special_sitemap_title">Карта сайта</label>
+			<label index="special_swfobject_description">Вставка флеш медиа элемента, аудио файла или видео клипа</label>
+			<label index="special_swfobject_title">Вставка флеш медиа элемента.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

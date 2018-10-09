@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="mlang_labels_tabdescr">Module back-office TYPO3 pour lister et afficher la documentation des extensions chargées aussi bien que des documents personnels.</label>
+			<label index="mlang_labels_tablabel">Documentation</label>
+			<label index="mlang_tabs_tab">Documentation</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+      <label index="configuration"/>
+      <label index="typo3ConfVars"/>
+      <label index="tca"/>
+      <label index="tcaDescr"/>
+      <label index="loadedExt"/>
+      <label index="tbeStyles"/>
+      <label index="beUser"/>
+      <label index="usersettings"/>
+      <label index="t3services"/>
+      <label index="tbemodulesext"/>
+      <label index="tbemodules"/>
+      <label index="cropLines"/>
+      <label index="variable"/>
+      <label index="copyPaste"/>
+      <label index="enterSearchPhrase"/>
+      <label index="search"/>
+      <label index="useRegExp"/>
+      <label index="writeValue"/>
+      <label index="writeMessage"/>
+      <label index="writeMessageFailed"/>
+    </languageKey>
+  </data>
+</T3locallangExt>

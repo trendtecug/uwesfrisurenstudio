@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="de" type="array">
+			<label index="all.alttitle">Formatierungen im gesamten Inhalt entfernen</label>
+			<label index="all.description">Wählen Sie diese Option, um die Formatierung für den gesamten Inhalt zu entfernen.</label>
+			<label index="allHtml.alttitle">Alle HTML-Formatierungen entfernen</label>
+			<label index="allHtml.description">Aktivieren Sie diese Option, wenn Sie alle HTML-Formatierungen zu entfernen möchten.</label>
+			<label index="allHtml.details">Diese Option entfernt alle HTML-Auszeichnungen vom ausgewählten Text.</label>
+			<label index="_all.seeAlso">xEXT_rtehtmlarea_RemoveFormat:area</label>
+			<label index=".alttitle">htmlArea RTE &gt; Formatierung entfernen</label>
+			<label index="area.alttitle">Wählen Sie den Bereich aus, der bereinigt werden soll</label>
+			<label index="area.description">Die Funktion "Formatierung entfernen" kann auf den aktuell ausgewählten Inhalt oder auf den gesamten Inhalt des Bearbeitungsbereichs angewandt werden.</label>
+			<label index="area.details">Bitte wählen Sie eine der beiden Auswahlknöpfe, um den Anwendungsbereich für die Durchführung der Funktion "Formatierung entfernen" zu bestimmen.</label>
+			<label index=".description">Die Funktion "Formatierung entfernen" bietet Möglichkeiten, den HTML-Code des im RTE-Bearbeitungsbereich ausgewählten Inhalts zu bereinigen.</label>
+			<label index=".details">Diese Funktion ist nützlich um Text zu bereinigen, der von einer externen Quelle kopiert und in den Editor eingefügt wurde.
+
+Die Funktion kann über die "Formatierung entfernen"-Schaltfläche in der Editorwerkzeugleiste benutzt werden.
+
+In dem Dialogfenster, das sich öffnet, wenn die Schaltfläche angeklickt wurde:
+- Wählen Sie zunächst den Bereich, der bereinigt werden soll;
+- Wählen Sie danach die Formatbereinigungsoptionen, die auf diesen Bereich angewendet werden sollen;
+- Klicken Sie auf die "OK"-Schaltfläche, um die Bereinigung durchzuführen. Das Dialogfenster wird dann automatisch geschlossen.</label>
+			<label index="htmlFormat.alttitle">Alle MS-Word-Markierungen und Stile entfernen</label>
+			<label index="htmlFormat.description">Markieren Sie diese Option, wenn sie ds gesamte HTML-Inline-Marup und alle Stile entfernen möchten.</label>
+			<label index="htmlFormat.details">Diese Option entfernt:
+- die folgenden HTML-Elemente, aber sie behält deren Textinhalte: abbr, acronym, b, big, cite, code, em, font, i, q, s, samp, small, span, strike, strong, sub, sup, tt, u, var;
+- die folgenden Attribute aller HTML-Elemente: align, bgcolor, cellpadding, cellspacing, class, frame, style.</label>
+			<label index=".image">EXT:rtehtmlarea/Resources/Public/Images/Plugins/RemoveFormat/remove-format.gif</label>
+			<label index=".image_descr">Symbol "Formatierung entfernen" in der RTE-Werkzeugleiste.</label>
+			<label index="images.alttitle">Bilder entfernen</label>
+			<label index="images.description">Aktivieren Sie diese Option, wenn Sie alle Bilder entfernen möchten.</label>
+			<label index="images.details">Diese Option entfernt alle Bilder aus dem ausgewählten Text.</label>
+			<label index="msWordFormat.alttitle">Alle MS Word Markierungen und Stile entfernen</label>
+			<label index="msWordFormat.description">Markieren Sie diese Option, wenn Sie Markup und Stile von Microsoft Word entfernen möchten.</label>
+			<label index="msWordFormat.details">Diese Option entfernt:
+- alle Attribute der folgenden Elemente: b, em, i, li, p, strong, ul;
+- die folgenden Attribute aller HTML-Elemente: align, class, style;
+- die folgenden Elemente, aber sie behält deren Textinhalte: div, f, formulas, link, lock, meta, path, shape, shapetype, span, stroke, ?xml, jegliche Elemente mit ":" in ihrem Namen;
+- die folgenden Elemente und ihre Inhalte: style, title;
+- HTML-Kommentare;
+- img-, imagedata-Tags;
+- xml-Tags;
+- die folgenden Elemente sofern sie keine Textinhalte haben: b, big, i, s, small, strike, tt, u;
+- doppelte öffnende und doppelte schließende Tags
+- mehrfache Leerzeichen; sie werden durch ein einzelnes Leerzeichen ersetzt.</label>
+			<label index="nonBreakingSpace.alttitle">Geschützte Leerzeichen ersetzen</label>
+			<label index="nonBreakingSpace.description">Aktivieren Sie diese Option, wenn Sie geschützte Leerzeichen durch normale Leerzeichen ersetzen möchten.</label>
+			<label index="nonBreakingSpace.details">Diese Option ersetzt alle geschützten Leerzeichen mit einem normalen Leerzeichen.</label>
+			<label index="options.alttitle">Wählen Sie die Formatierungstypen, die entfernt werden sollen</label>
+			<label index="options.description">Es können unterschiedliche Typen von Formatierungen entfernt werden.</label>
+			<label index="options.details">Markieren Sie eine oder mehrere dieser Kontrollkästchen, um die zu entfernenden Formatierungen auszuwählen.</label>
+			<label index="options.seeAlso">xEXT_rtehtmlarea_RemoveFormat:htmlFormat,xEXT_rtehtmlarea_RemoveFormat:msWordFormat,xEXT_rtehtmlarea_RemoveFormat:typographicalPunctuation,xEXT_rtehtmlarea_RemoveFormat:nonBreakingSpace,xEXT_rtehtmlarea_RemoveFormat:images,xEXT_rtehtmlarea_RemoveFormat:allHtml</label>
+			<label index=".seeAlso">xEXT_rtehtmlarea_RemoveFormat:area,xEXT_rtehtmlarea_RemoveFormat:options</label>
+			<label index="selection.alttitle">Formatierung nur für ausgewählten Inhalt entfernen</label>
+			<label index="selection.description">Wählen Sie diese Option, um die Formatierung nur für den aktuell ausgewählten Inhalt zu entfernen.</label>
+			<label index="_selection.seeAlso">xEXT_rtehtmlarea_RemoveFormat:area</label>
+			<label index="typographicalPunctuation.alttitle">Typografische Zeichensetzung ersetzen</label>
+			<label index="typographicalPunctuation.description">Markieren Sie diese Option, wenn Sie typografische Satzzeichen durch ASCII-Zeichen ersetzen möchten.</label>
+			<label index="typographicalPunctuation.details">Diese Option ersetzt typografische Zeichen mit ihren ASCII-Entsprechungen. Die folgenden Ersetzungen werden durchgeführt:
+- Waagerechte Auslassungspunkte werden ersetzt durch drei Punkte;
+- kurze und lange Gedankenstriche werden ersetzt durch Bindestriche;
+- unteres, typografisches sowie doppeltes Anführungszeichen wird ersetzt durch Standardanführungszeichen;
+- unteres sowie einfaches Anführungszeichen wird ersetzt durch einfaches Anführungszeichen;- einfaches Guillemet wird ersetzt durch einfaches Anführungszeichen;
+- Guillemet wird ersetzt durch Standardanführungszeichen;
+- Gravis und Akut werden ersetzt durch einfaches Anführungszeichen.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

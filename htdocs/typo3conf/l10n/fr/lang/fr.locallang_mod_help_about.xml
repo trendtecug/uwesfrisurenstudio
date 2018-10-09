@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="cms_description"/>
+			<label index="community_credits">Communauté</label>
+			<label index="coredevs">"Core Team"</label>
+			<label index="coredevs_detail">Visitez &lt;a href="http://typo3.org/teams/core/members/" target="_blank"&gt;typo3.org/teams/core/members/&lt;/a&gt; pour découvrir la liste complète des membres. &lt;br /&gt;&lt;br /&gt; Le SVN et les "ChangeLog" (journal des évolutions) sont disponibles &lt;a href="http://forge.typo3.org/projects/show/typo3v4-core/" target="_blank"&gt;ici&lt;/a&gt;</label>
+			<label index="donation_button">Donner maintenant</label>
+			<label index="donation_header">Don pour TYPO3</label>
+			<label index="donation_message">Ce serait génial si vous pouviez faire un don. TYPO3 est Open Source et s'appuie largement sur les dons de ses utilisateurs et sympathisants. &lt;b&gt; &lt;br/&gt; Merci &lt;/ b&gt; de faire que cet outil de gestion de contenu devienne encore meilleur avec votre aide!</label>
+			<label index="extension">Extension</label>
+			<label index="extension_author">Auteur</label>
+			<label index="extension_authors">Auteurs des extensions</label>
+			<label index="extension_list_info">Voici la liste des personnes qui ont contribué au développement des extensions que vous utilisez sur votre installation TYPO3.</label>
+			<label index="external_libraries">Librairies externes</label>
+			<label index="external_thanks">TYPO3 utilise et remercie ces projets open source externes :</label>
+			<label index="information">Informations sur TYPO3</label>
+			<label index="information_detail">Visitez &lt;a href="http://typo3.org/community/" target="_blank"&gt;typo3.org/community/&lt;/a&gt; pour découvrir le dynamisme de la communauté TYPO3</label>
+			<label index="minor">TYPO3 est un Système de Gestion de Contenu (CMS) libre, flexible et professionnel basé sur PHP et MySQL.&lt;br /&gt;&lt;br /&gt;TYPO3 est &lt;b&gt;disponible gratuitement&lt;/b&gt; selon les termes de la &lt;a href="http://typo3.com/1316.0.html" target="_blank"&gt;licence TYPO3 (GNU/GPL)&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;%s %s&lt;br /&gt;</label>
+			<label index="mlang_labels_tabdescr">Affiche les informations de base à propos de TYPO3, sa version, et les termes de sa licence.</label>
+			<label index="mlang_labels_tablabel">A propos de TYPO3</label>
+			<label index="mlang_tabs_tab">A propos de ...</label>
+			<label index="title">À propos de TYPO3</label>
+			<label index="typo3_logo">Logo TYPO3</label>
+			<label index="welcome">Système de Gestion de Contenu web professionnel TYPO3</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

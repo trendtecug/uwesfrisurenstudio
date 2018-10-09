@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-30T00:51:32Z" product-name="core">
+		<header/>
+		<body>
+			<trans-unit id="label1" approved="no">
+				<source>This is label #1</source>
+				<target state="needs-translation">Ceci est le libellé no. 1</target>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Questa è l'etichetta no. 1</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="label2" approved="no">
+				<source>This is label #2</source>
+				<target state="needs-translation">Ceci est le libellé no. 2</target>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Questa è l'etichetta no. 2</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="label3" approved="no">
+				<source>This is label #3</source>
+				<target state="needs-translation">Ceci est le libellé no. 3</target>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Questa è l'etichetta no. 3</target>
+				</alt-trans>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

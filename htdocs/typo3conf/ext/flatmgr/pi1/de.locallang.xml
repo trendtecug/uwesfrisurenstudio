@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallangExt>
+	<data type="array">
+		<languageKey index="de" type="array">
+			<label index="details">Details</label>
+			<label index="vacantDay">frei</label>
+			<label index="vacant weekend">freies Wochenende</label>
+			<label index="bookedDay">gebucht</label>
+			<label index="booked weekend">gebuchtes Wochenende</label>
+			<label index="Jan">Januar</label>
+			<label index="Feb">Februar</label>
+			<label index="Mar">März</label>
+			<label index="Apr">April</label>
+			<label index="May">Mai</label>
+			<label index="Jun">Juni</label>
+			<label index="Jul">Juli</label>
+			<label index="Aug">August</label>
+			<label index="Sep">September</label>
+			<label index="Oct">Oktober</label>
+			<label index="Nov">November</label>
+			<label index="Dec">Dezember</label>
+			<label index="Sat">S</label>
+			<label index="Sun">S</label>
+			<label index="Mon">M</label>
+			<label index="Tue">D</label>
+			<label index="Wed">M</label>
+			<label index="Thu">D</label>
+			<label index="Fri">F</label>
+			<label index="availableFlats">Ferienwohnungen</label>
+			<label index="edit booking">Buchungen editieren</label>
+			<label index="bookingDataOf">Buchungen der Ferienwohnung</label>
+			<label index="date from">vom</label>
+			<label index="date to">bis</label>
+			<label index="insert booking">Neue Buchung</label>
+			<label index="insert flat">Neue Ferienwohnung</label>
+			<label index="insert room">Neues Zimmer</label>
+			<label index="delete this booking record">Buchungsatz löschen</label>
+			<label index="to the bookings">zu den Buchungen</label>
+			<label index="save record">speicher diesen Datensatz</label>
+			<label index="edit record">editiere diesen Datensatz</label>
+			<label index="rebook record">Umbuchen</label>
+			<label index="delete record">Lösche diesen Datensatz</label>
+			<label index="backToTheFlats">Zurück zur Ferienwohnungsliste</label>
+			<label index="availabilityCheck">Buchungsanfrage</label>
+			<label index="startOfBooking">Anreise:</label>
+			<label index="endOfBooking">Abreise:</label>
+			<label index="allFlatCategories">Alle</label>
+			<label index="flatCategory">Kategorie</label>
+			<label index="availableFlatsHeader">Verfügbare Ferienwohnung(en) für den Zeitraum</label>
+			<label index="availableFrom">vom</label>
+			<label index="availableTo">bis</label>
+			<label index="booked from">gebucht von:</label>
+			<label index="no available flat">Keine Ferienwohnung(en) für den gewünschten Zeitraum verfügbar!</label>
+			<label index="nextVacantPeriod">Nächste Buchungsmöglichkeit</label>
+			<label index="foreignFlats">Weitere verfügbare Ferienwohnungen</label>
+			<label index="availableFlat">Verfügbar</label>
+			<label index="availableForeignFlat">Extern Verfügbar</label>
+			<label index="available rooms">Zimmer</label>
+			<label index="nextForeignVacantPeriod">Nächste externe Buchungsmöglichkeit</label>
+			<label index="deleteFlatConfirmation">Lösche den Datensatz der Ferienwohnung</label>
+			<label index="deleteRoomConfirmation">Lösche den Datensatz </label>
+			<label index="deleteBookingConfirmation">Lösche den Buchungsdatensatz vom</label>
+			<label index="overbooked">Tag überbucht</label>
+			<label index="bookingCalendar">Buchungskalender</label>
+			<label index="booking request">Buchungsanfrage</label>
+			<label index="utilisation calendar">Auslastungskalender</label>
+			<label index="allFlats">alle Ferienwohnungen</label>
+			<label index="toggle additional fields">zusätzliche Felder</label>
+			<label index="customerNumber">Kundennummer</label>
+			<label index="grownups">Anzahl Erwachsene</label>
+			<label index="childs">Anzahl Kinder</label>
+			<label index="memo">Memo</label>
+			<label index="agent">Vermittler</label>
+			<label index="newBookingHeader">Neue Buchung erfassen</label>
+			<label index="newBookingInserted">Die neue Buchung wurde gespeichert</label>
+			<label index="bookingRecordDeleted">Der Buchungsdatensatz wurde gelöscht!</label>
+			<label index="category">Kategorie</label>
+			<label index="bookedBy">Gebucht von</label>
+			<label index="flatCapacity">Personenanzahl</label>
+			<label index="roomCapacity">Personenanzahl</label>
+			<label index="nameOfTheFlat">Name der Ferienwohnung</label>
+			<label index="nameOfTheRoom">Zimmername</label>
+			<label index="effectiveUtilisation">Effektive Jahresauslastung:</label>
+			<label index="rebook">Umbuchen</label>
+			<label index="rebooking header">Umbuchung der Buchung</label>
+			<label index="from">vom</label>
+			<label index="to">bis</label>
+			<label index="on">auf</label>
+			<label index="customer">Kunde</label>
+			<label index="agent">Vermittler</label>
+			<label index="illegaleCharacters">Illegale Zeichen in </label>
+			<label index="room">Zimmer</label>
+			<label index="editRooms">Zimmer editieren</label>
+			<label index="roomsOf">Zimmer von </label>
+			<label index="showRooms">Zeige alle Zimmer</label>
+			<label index="hideRooms">Verberge zusätzliche Zimmer</label>
+			<label index="flatDetails">Details</label>
+			<label index="Flat">Ferienwohnungen</label>
+			<label index="Bungalow">Bungalows/Villen</label>
+			<label index="name">Name</label>
+			<label index="livingSpace">Nutzfläche</label>
+			<label index="landArea">Grundstücksfläche</label>
+			<label index="capacityText">Anzahl Personen</label>
+			<!-- Attributes -->
+			<label index="Pool">Pool</label>
+			<label index="Landing">Bootsanlegeplatz</label>
+			<label index="PetsAllowed">Haustiere auf Anfrage</label>
+			<label index="Beach">Strand</label>
+			<label index="HandicappedAccessible">Behindertengerecht</label>
+			<label index="InternetWithCosts">kostenpflichtiges Internet</label>
+			<label index="InternetFree">Internet kostenfrei</label>
+			<label index="AirConditioner">Klimanalge</label>
+			<label index="AirConditionerWithCosts">kostenpflichtige Klimaanlage</label>
+
+			<label index="minPrice">ab</label>
+			<label index="minPriceUnit">€/Woche</label>
+			<label index="weekPrices">Wochenpreise</label>
+			<label index="peakseason">Hauptsaison</label>
+			<label index="lowseason">Zwischensaison</label>
+			<label index="savingseason">Nebensaison</label>
+			<label index="areaUnit"> m²</label>
+			
+			<label index="arrivalDay">An- und Abreisetag während der Hauptsaison</label>
+
+			<label index="Fr">Freitag</label>
+			<label index="Sa">Samstag</label>
+			<label index="Su">Sonntag</label>
+
+			<label index="caution">Kaution in bar bei Anreise</label>
+			<label index="additional">Zuzüglich</label>
+			<label index="endCleaning">Endreinigung</label>
+			
+			<label index="singleViewFooter">Optionale Zusatzleistungen: Siehe unter Service.
+Die abgebildete Bettwäsche auf den Fotos sind Beispiele aus unserem anmietbaren Sortiment
+<![CDATA[
+
+]]>
+            
+</label>
+			
+			<label index="onRequest">auf Anfrage</label>
+			<label index="noSpecials">Zu Zeit keine Angebote vorhanden</label>
+			<label index="backToList">--&gt; Zurück zur Gesamtliste</label>
+			
+			<!-- labels for flatmgrcalc -->
+			<label index="registeredCustomer">Stammkundenrabatt 5%</label>
+			<label index="earlyBirdRebate1">Frühbucherrabatt (Buchung vor Februar 5%) </label>
+			<label index="earlyBirdRebate2">Frühbucherrabatt (Buchung vor März 3%)</label>
+			<label index="startOfCalculation">Buchungsbegin</label>
+			<label index="endOfCalculation">Buchungsende</label>
+			<label index="calculateNow">Berechnen</label>
+			<label index="bookingNotAvailable">Buchung für diesen Zeitraum nicht verfügbar! Es existiert eine Buchung vom </label>
+			<label index="invalidDates">Ungültige Termine</label>
+			<label index="onlyOneEarlyBirdRebate">Bitte nur einen Frühbucherrabatt auswählen!</label>
+			<label index="flatmgrcalcPrice">Gesamtpreis: </label>
+
+			<label index="storeClosed">Geschäft am Samstag und Sonntag geschlossen!</label>
+			<label index="deliveryTitle">Übergabepauschale</label>
+			<label index="orderSelectorName">Name</label>
+			<label index="orderSelectorTotalWeight">zul. Gesamtgewicht</label>
+			<label index="orderSelectorCapacity">Personenanzahl</label>
+			<label index="orderSelectorMinPrice">Preis</label>
+			<label index="noSeasonDataAvailable">Keine Saisondaten für das gewählte Jahr verfügbar!</label>
+			<label index="pricePerDay"><![CDATA[ &euro;/Tag]]></label>
+			<label index="deliveryA">Pauschale A</label>
+			<label index="deliveryB">Pauschale B</label>
+			<label index="deliveryC">Pauschale C</label>
+			<label index="tentOption">Vorzelt buchen (99 €)</label>
+			<label index="flatmgrcalcOfficalPrice">Preis </label>
+			<label index="bookedNotEnoughDays">Mindestmietdauer unterschritten!</label>
+			<label index="bookedNotEnoughWhitsunDays">Mindestmietdauer für Pfingstenferien unterschritten!</label>
+			<label index="bookedNotEnoughSummerDays">Mindestmietdauer für Sommerferien unterschritten!</label>
+			
+			<label index="bookingMinDays">Tage Mindestmietdauer</label>
+			<label index="bookingMinDaysWhitsun">Tage Mindestmietdauer Pfingstferien</label>
+			<label index="bookingMinDaysSummer">Tage Mindestmietdauer Sommerferien</label>
+			<label index="lastMinuteRebate">Last minute Buchung</label>
+			<label index="noCleaningOutside">Ohne Außenreinigung</label>
+			<label index="longTimeBookingRebate1">Langzeit Buchungsrabatt 21 Tage</label>
+			<label index="longTimeBookingRebate2">Langzeit Buchungsrabatt 28 Tage</label>
+			<label index="onlyOneLongTimeBookingRebate">Nur ein Langzeitbuchungstrabatt möglich</label>
+			<label index="followUpBooking">Direkte Folgebuchung (10 € Rabatt, max. 1 Werktag Standzeit)</label>
+			
+			
+	
+		</languageKey>
+	</data>
+</T3locallangExt>

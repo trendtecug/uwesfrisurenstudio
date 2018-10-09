@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="action_BEu_db_mount">Точки доступа в дереве страниц</label>
+			<label index="action_BEu_email">Email</label>
+			<label index="action_BEu_hidden">Выключить пользователя</label>
+			<label index="action_BEu_password">Пароль</label>
+			<label index="action_BEu_realName">Настоящее имя</label>
+			<label index="action_BEu_usergroups">Член групп</label>
+			<label index="action_BEu_username">Имя пользователя (login)</label>
+			<label index="action_Create">Создать внутреннего пользователя</label>
+			<label index="action_createQuery">Создать запрос</label>
+			<label index="action_download_file">Нажмите здесь, чтобы сгрузить экспортированные данные в виде файла</label>
+			<label index="action_editQuery">Редактировать запрос</label>
+			<label index="action_emptyQuery">Пустой запрос, сначала его нужно создать!</label>
+			<label index="action_error">Ошибка в действии!</label>
+			<label index="action_error-access">Недостаточно прав для просмотра записей. Попросите администратора о назначении соответствующих прав.</label>
+			<label index="action_error-not-found">Действия не существует</label>
+			<label index="action_lowlevelMissing">Для создания запросов должно быть установлено расширение "lowlevel".</label>
+			<label index="action_not-found">Действий не найдено</label>
+			<label index="action_not-found-description">На данный момент действия еще не определены!</label>
+			<label index="action_notReady">Ошибка: не окончена настройка действия.</label>
+			<label index="action_noType">Ошибка: не был определен тип действия.</label>
+			<label index="action_t1_legend_configuration">Настройка</label>
+			<label index="action_t1_legend_generalFields">Основные поля</label>
+			<label index="action_t1_listOfUsers">Список внутренних пользователей</label>
+			<label index="action_t2_result">Результат запроса</label>
+			<label index="action_t4_edit">Выберите запись для правки:</label>
+			<label index="action_toolbaritem">Открытые системные действия</label>
+			<label index="action_Update">Обновить данные внутреннего пользователя</label>
+			<label index="description">"Действие" – это настройка определенной задачи, которая может быть назначена на определенную группу пользователей в Центре заданий.</label>
+			<label index="edit-sys_action">Править запись</label>
+			<label index="error-password-empty">Пустой пароль.</label>
+			<label index="error-username-empty">Пустое имя пользователя.</label>
+			<label index="error-wrong-email">Неверный адрес e-mail.</label>
+			<label index="error-wrong-user">Не разрешено редактировать этого пользователя.</label>
+			<label index="new-sys_action">Создать новое действие</label>
+			<label index="success">Успешно</label>
+			<label index="success-user-created">Пользователь создан.</label>
+			<label index="success-user-updated">Пользователь обновлен.</label>
+			<label index="sys_action">Действие</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

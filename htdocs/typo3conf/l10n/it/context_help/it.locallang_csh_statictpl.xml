@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="config.description"/>
+			<label index="_config.seeAlso"/>
+			<label index="constants.description"/>
+			<label index="_constants.seeAlso"/>
+			<label index=".description"/>
+			<label index="description.description"/>
+			<label index=".details"/>
+			<label index="editorcfg.description"/>
+			<label index="_.image"/>
+			<label index=".image_descr"/>
+			<label index="include_static.description"/>
+			<label index="_.seeAlso"/>
+			<label index="title.description"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

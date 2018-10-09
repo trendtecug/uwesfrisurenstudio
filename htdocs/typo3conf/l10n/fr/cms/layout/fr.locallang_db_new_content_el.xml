@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="common">Contenu de page</label>
+			<label index="common_bulletList_description">Une liste à puce simple.</label>
+			<label index="common_bulletList_title">Liste à puce</label>
+			<label index="common_headerOnly_description">Ajoute un simple titre</label>
+			<label index="common_headerOnly_title">Titre seulement</label>
+			<label index="common_imagesOnly_description">Images alignées en colonnes, avec une légende.</label>
+			<label index="common_imagesOnly_title">Images seules</label>
+			<label index="common_regularText_description">Elément de texte avec titre et paragraphe.</label>
+			<label index="common_regularText_title">Elément de texte</label>
+			<label index="common_table_description">Un tableau simple.</label>
+			<label index="common_table_title">Tableau</label>
+			<label index="common_textImage_description">Images alignées à droite d'un élément de texte.</label>
+			<label index="common_textImage_title">Texte &amp; images</label>
+			<label index="forms">Formulaires</label>
+			<label index="forms_login_description">Formulaire d'identification et de déconnexion utilisé pour permettre des accès restreints sur certaines parties du site.</label>
+			<label index="forms_login_title">Formulaire d'identification</label>
+			<label index="forms_mail_description">Un formulaire qui permet aux utilisateurs du site d'envoyer des réponses.</label>
+			<label index="forms_mail_title">Formulaire de contact</label>
+			<label index="forms_search_description">Insère un formulaire de recherche et les résultats si une recherche est lancée.</label>
+			<label index="forms_search_title">Formulaire de recherche</label>
+			<label index="plugins">Plugins</label>
+			<label index="plugins_general_description">Choisissez ce type d'élément pour insérer un plugin qui ne peut pas être trouvé parmi les options ci-dessous.</label>
+			<label index="plugins_general_title">Plugin général</label>
+			<label index="sel1">Veuillez sélectionner le type de contenu de page vous souhaitez créer :</label>
+			<label index="sel2">Maintenant, cliquez à l'endroit où vous souhaitez placer le contenu dans la page :</label>
+			<label index="special">Eléments spéciaux</label>
+			<label index="special_divider_description">Cet élément insère un diviseur visuel, qui est par défaut une ligne horizontale.</label>
+			<label index="special_divider_title">Diviseur</label>
+			<label index="special_filelinks_description">Crée une liste de fichiers pour téléchargement.</label>
+			<label index="special_filelinks_title">Liens vers des fichiers</label>
+			<label index="special_media_description">Insère un élément de type média tel qu'une animation Flash, un fichier audio ou un fichier vidéo.</label>
+			<label index="special_media_title">Média</label>
+			<label index="special_menus_description">Crée un menu des pages, un plan du site ou d'autres menus spéciaux.</label>
+			<label index="special_menus_title">Menus spéciaux</label>
+			<label index="special_multimedia_description">Insère un élément de type média tel qu'une animation Flash, un fichier audio ou un fichier vidéo.</label>
+			<label index="special_multimedia_title">Multimédia</label>
+			<label index="special_plainHTML_description">Avec cet élément vous pouvez insérer du code HTML brut sur la page.</label>
+			<label index="special_plainHTML_title">HTML brut</label>
+			<label index="special_qtobject_description">Insère un élément Quicktime de type vidéo ou audio (*.mov)</label>
+			<label index="special_qtobject_title">Insère un élément Quicktime</label>
+			<label index="special_shortcut_description">Avec cet élément, vous pouvez incorporer d'autres éléments de contenu</label>
+			<label index="special_shortcut_title">Insérer des enregistrements</label>
+			<label index="special_sitemap_title">Plan du site</label>
+			<label index="special_swfobject_description">Insère un élément Flash de type vidéo ou audio</label>
+			<label index="special_swfobject_title">Insère un élément Flash</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

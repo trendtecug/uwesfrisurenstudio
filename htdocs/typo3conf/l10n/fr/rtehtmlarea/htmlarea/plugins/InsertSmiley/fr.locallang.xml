@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="Cancel">Annuler</label>
+			<label index="Insert Smiley">Insérer un émoticône</label>
+			<label index="mozilla_cool">Cool</label>
+			<label index="mozilla_cry">Pleurer</label>
+			<label index="mozilla_embarassed">Emabarssé</label>
+			<label index="mozilla_footinmouth">Pied-dans-le-plat</label>
+			<label index="mozilla_frown">Froncement de sourcils</label>
+			<label index="mozilla_innocent">Innocent</label>
+			<label index="mozilla_kiss">Baiser</label>
+			<label index="mozilla_laughing">Rire</label>
+			<label index="mozilla_moneyinmouth">Voir des dollars</label>
+			<label index="mozilla_sealed">Les lèvres sont scellées</label>
+			<label index="mozilla_smile">Sourire</label>
+			<label index="mozilla_surprised">Surpris</label>
+			<label index="mozilla_tongueout">Tirer la langue</label>
+			<label index="mozilla_undecided">Indécis</label>
+			<label index="mozilla_wink">Clin d'œil</label>
+			<label index="mozilla_yell">Crier</label>
+			<label index="Smiley">Emoticône</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

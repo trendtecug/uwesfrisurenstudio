@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="addToList">Ajouter à la liste...</label>
+			<label index="class">Classe CSS</label>
+			<label index="clickToRedrawFullSize">L'image est plus grande en réalité! Cliquez pour la redessiner en pleine grandeur.</label>
+			<label index="contentElements">Eléments de contenu</label>
+			<label index="currentLink">Lien actuel</label>
+			<label index="email">Email</label>
+			<label index="emailAddress">Adresse email</label>
+			<label index="extUrl">URL externe</label>
+			<label index="file">Fichier</label>
+			<label index="files">Fichiers</label>
+			<label index="findDragDrop">Trouvez et cliquez sur votre image puis glissez la dans l'éditeur de la fenêtre principale !</label>
+			<label index="folder">Dossier</label>
+			<label index="folders">Dossiers</label>
+			<label index="folderTree">Arborescence de dossiers</label>
+			<label index="importSelection">Importer la sélection</label>
+			<label index="info">Info</label>
+			<label index="invalidChar">ERREUR: Caractère invalide dans le chemin au fichier (%s). Le fichier ne peut pas être ajouté !</label>
+			<label index="newWindow">Nouvelle fenêtre</label>
+			<label index="none">Vide - nouveau lien !</label>
+			<label index="noWebFolder">Vous ne pouvez pas faire glisser des images depuis ce dossier (jaune) car il est interne au serveur.</label>
+			<label index="page">Page</label>
+			<label index="pageTree">Arborescence de pages</label>
+			<label index="params">Paramètres additionels du lien</label>
+			<label index="path">Chemin</label>
+			<label index="removeLink">Supprimer un lien</label>
+			<label index="selectRecords">Sélectionnez un enregistrement</label>
+			<label index="setLink">Appliquer le lien</label>
+			<label index="special">Spécial</label>
+			<label index="target">Cible</label>
+			<label index="target_popUpWindow">Ouvrir dans une fenêtre</label>
+			<label index="target_popUpWindow_height">Hauteur</label>
+			<label index="target_popUpWindow_width">Largeur</label>
+			<label index="title">Titre</label>
+			<label index="toggleSelection">Basculer la sélection</label>
+			<label index="top">Haut</label>
+			<label index="update">Mettre à jour</label>
+			<label index="uploadImage">Envoyer une image</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

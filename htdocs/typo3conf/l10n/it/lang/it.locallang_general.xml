@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="LGL.address">Indirizzo:</label>
+			<label index="LGL.allLanguages">[Tutti]</label>
+			<label index="LGL.any_login">Mostra in caso di login</label>
+			<label index="LGL.author">Autore:</label>
+			<label index="LGL.baseStorage"/>
+			<label index="LGL.caption">Didascalia:</label>
+			<label index="LGL.category">Categoria:</label>
+			<label index="LGL.city">Città:</label>
+			<label index="LGL.code">CODICE:</label>
+			<label index="LGL.company">Società:</label>
+			<label index="LGL.country">Paese:</label>
+			<label index="LGL.creationDate">Creato il:</label>
+			<label index="LGL.creationUserId">Creato da:</label>
+			<label index="LGL.default_value">Predefinito</label>
+			<label index="LGL.description">Descrizione:</label>
+			<label index="LGL.disable">Disabilitato:</label>
+			<label index="LGL.disableRTE">Disabilita Rich Text Editor:</label>
+			<label index="LGL.email">Email:</label>
+			<label index="LGL.endtime">Fine:</label>
+			<label index="LGL.error">Errore!</label>
+			<label index="LGL.external">URL esterno</label>
+			<label index="LGL.fax">Fax:</label>
+			<label index="LGL.fe_group">Accesso:</label>
+			<label index="LGL.first_name">Nome proprio:</label>
+			<label index="LGL.folder"/>
+			<label index="LGL.hidden">Nascondi:</label>
+			<label index="LGL.hide_at_login">Nascondi al login</label>
+			<label index="LGL.image">Immagine:</label>
+			<label index="LGL.images">Immagini:</label>
+			<label index="LGL.keywords">Parole chiavi (separate da ,):</label>
+			<label index="LGL.l18n_parent">Traduzione d'origine:</label>
+			<label index="LGL.language">Lingua:</label>
+			<label index="LGL.lastlogin">Ultimo login:</label>
+			<label index="LGL.last_name">Cognome:</label>
+			<label index="LGL.layout">Layout:</label>
+			<label index="LGL.links">Links</label>
+			<label index="LGL.middle_name">Nome intermedio:</label>
+			<label index="LGL.name">Nome:</label>
+			<label index="LGL.normal">Normale</label>
+			<label index="LGL.note">Note:</label>
+			<label index="LGL.parameters">Parametri:</label>
+			<label index="LGL.phone">Telefono:</label>
+			<label index="LGL.prependAtCopy">(copia %s)</label>
+			<label index="LGL.recursive">Ricorsivo:</label>
+			<label index="LGL.shortcut_page">Collegamento alla pagina:</label>
+			<label index="LGL.startingpoint">Punto di partenza:</label>
+			<label index="LGL.starttime">Inizio:</label>
+			<label index="LGL.subheader">Sottointestazione:</label>
+			<label index="LGL.text">Testo:</label>
+			<label index="LGL.timestamp">Ultima modifica:</label>
+			<label index="LGL.title">Titolo:</label>
+			<label index="LGL.title_person">Titolo:</label>
+			<label index="LGL.type">Tipo:</label>
+			<label index="LGL.usergroups">__Gruppi utenti:__</label>
+			<label index="LGL.versionLabel">Etichetta Versioni:</label>
+			<label index="LGL.www">www:</label>
+			<label index="LGL.zip">CAP:</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index=".alttitle">Module Web &gt; Page</label>
+			<label index="button_panel.alttitle">Les "gros boutons"</label>
+			<label index="button_panel.description">Ces boutons vous permettent d'accéder aux fonctions les plus utilisées lors de l'édition des pages. Vous pouvez modifier les propriétés de la page (son titre par exemple), déplacer la page courante dans l'arborescence, créer une nouvelle page ou créer de nouveaux blocs de contenu dans cette page.</label>
+			<label index="_button_panel.image">EXT:cms/cshimages/pagemodule_2.png</label>
+			<label index="_button_panel.seeAlso">xMOD_csh_corebe:TCEforms,
+xMOD_csh_corebe:move_el_pages,
+xMOD_csh_corebe:new_pages,
+xMOD_csh_corebe:new_ce,</label>
+			<label index="columns_1.alttitle">Tri par colonne</label>
+			<label index="columns_1.description">Avec la vue "Colonnes", le contenu de la page est séparé en fonction de la colonne dans laquelle il se trouve.</label>
+			<label index="columns_2.alttitle">Tri par langue</label>
+			<label index="columns_2.description">Avec la vue "Langues", le contenu de la page est séparé en fonction de sa langue et de sa colonne.</label>
+			<label index="_columns_2.seeAlso">Article sur la localisation | http://typo3.org/documentation/tips-tricks/multi-language-sites-in-typo3/</label>
+			<label index="columns_3.alttitle">Information sur la page</label>
+			<label index="columns_3.description">Avec la vue "Information sur la page", vous pouvez visualiser différentes statistiques concernant la page.</label>
+			<label index="columns_3.details">Les informations de la page regroupent des informations comme la date de création ou de dernière modification de la page et son contenu.
+Vous y trouverez également les sous-titres, les mots-clés et la description de la page. Ces informations sont souvent utilisées sur des sites Web comme méta-données ou par les moteurs de recherche.</label>
+			<label index="_columns_3.image">EXT:cms/cshimages/pagemodule_9.png</label>
+			<label index="columns_multi.alttitle">Les blocs de contenu dans plusieurs colonnes</label>
+			<label index="columns_multi.description">La vue dans plusieurs colonne affiche les blocs de contenus tels qu'ils sont organisés dans les colonnes de la page. Cette vue est utilisée si votre site web contient plus d'une zone de contenu et que le contenu de ces zones est organisé en "colonne".</label>
+			<label index="_columns_multi.image">EXT:cms/cshimages/pagemodule_12.png</label>
+			<label index="columns_multi.image_descr">Quand votre site Internet intègre plusieurs zones d'éléments de contenu dans le gabarit vous pourrez utiliser une autre colonne que la colonne 'Normale'. Ici la colonne 'Gauche' est autorisée. TYPO3 offre quatre colonnes par défaut, 'Normale', 'Droite', 'Gauche' et 'Bordure'. Leur signification dépend des implémentations faites dans les gabarits frontend.</label>
+			<label index="_columns_multi.seeAlso">_MOD_web_layout:columns_single</label>
+			<label index="columns_single.alttitle">Les blocs de contenus dans une colonne unique</label>
+			<label index="columns_single.description">La vue dans une colonne unique affiche les blocs de contenus de la page courante. Cliquez sur un icône d'édition ou sur le texte du bloc pour éditer le bloc.</label>
+			<label index="columns_single.details">Vous pouvez aussi cacher, effacer et déplacer des éléments en utilisant les panneaux de contrôle.
+En cliquant sur l'icône 'Nouvel élément de contenu', vous serez en mesure de créer de nouveaux éléments de contenus entre les éléments existants sur la page.
+Cliquez sur l'icône d'un élément de contenu si vous voulez accéder au menu contextuel de l'élément.</label>
+			<label index="_columns_single.image">EXT:cms/cshimages/pagemodule_1.png</label>
+			<label index="columns_single.image_descr">Les éléments de contenu sur une page sont disposées dans un ordre précis - l'ordre où ils apparaissent sur le site. Cet ordre est également indiqué dans le module page. Le panneau de contrôle vous permet de déplacer des éléments haut et bas ainsi que de les modifier, les cacher et de les supprimer. Vous pouvez également simplement cliquer ici sur le texte de l'aperçu pour accéder au formulaire d'édition de l'élément.</label>
+			<label index="_columns_single.seeAlso">_MOD_web_layout:columns_multi</label>
+			<label index=".description">Le module Page est le module principal qui vous permettra d'éditer le contenu de votre site web. Ce module regroupe toutes les fonctionnalités de base d'un outil de gestion de contenu.</label>
+			<label index=".details">Le module affichera l'arborescence des pages. Cliquez alors sur le titre de la page dont vous voulez modifier le contenu et dans la colonne de droite apparaîtra le contenu de cette page.
+
+Le module Page dispose de différents modes d'affichage de contenu;
+
+&lt;b&gt;Colonnes &lt;/b&gt;
+La vue  en colonnes montrera les Éléments de Contenus affichés dans l'ordre où ils apparaîtront sur le site Internet. Une série de boutons vous permettra de cacher/afficher, déplacer et réviser les éléments facilement.
+
+&lt;b&gt;Édition rapide&lt;/b&gt;
+Dans l'Édition rapide le premier élément de la page sera chargé immédiatement dans un formulaire. Il dépendra de l'implémentation de votre site Internet ainsi que de vos préférences générales si vous préférez ce mode à la vue Colonnes.
+
+&lt;b&gt;Langues&lt;/b&gt;
+Si votre site utilise plusieurs langues et s'appuie sur une arborescence unique, vous aurez besoin de ce mode pour contrôler les traductions des éléments de contenus pour une même page.
+
+&lt;b&gt;Informations&lt;/b&gt;
+La vue informations de page reporte quelques données statistiques. Cela inclut la statistique de consultation si cette information est disponible.
+
+
+&lt;b&gt;Options générales&lt;/b&gt;
+Dans le haut du module de Page vous trouverez une rangée d'icônes qui vous donneront droit à des caractéristiques différentes comme Historique/Défaire (1), Création d'un nouvel élément de contenu (2), Déplacer la page (3), Créer une nouvelle page (4) et Modifier les propriétés de la page (5). Voir l'image ci-dessous.
+
+&lt;b&gt;Définir le nombre de colonnes affichées [Admin]&lt;/b&gt;
+Les Administrateurs peut configurer le module Page pour afficher seulement les colonnes de contenus que le site Internet utilise. On utilise le Page TSconfig (donc il peut être configuré par branche d'arborescence !) et cette option particulière utilise le paramètre "mod.web_layout.tt_content.colPos_list".
+Par exemple "mod.web_layout.tt_content.colPos_list = 0,3" affichera les colonnes "Normale" et "Bordure" uniquement.
+Il y a beaucoup d'autres options pour la personnalisation du module Page à l'aide de "mod.web_layout".A cet effet, les administrateurs devront se référer à la documentation "TSconfig" (lien plus bas).</label>
+			<label index="_.image">EXT:cms/cshimages/pagemodule_13.png,
+EXT:cms/cshimages/pagemodule_14.png,
+EXT:cms/cshimages/pagemodule_15.png</label>
+			<label index=".image_descr">Cliquez sur le module Page, puis le titre d'une page dans l'arborescence.
+Le module Page est maintenant activé dans le cadre de droite, montrant le contenu de la page sur laquelle vous avez cliqué dans l'arborescence.
+Ces boutons sont des liens directs vers : l'historique / fonction Annuler (1), l'assistant de création d'un nouvel élément de contenu (2), l'assistant de déplacement des pages (3), l'assistant de création d'une nouvelle page (4) et vers le formulaire d'édition des propriétés de la page (5). Voir les liens pour plus de détails.</label>
+			<label index="language_list.alttitle">Vue par langue</label>
+			<label index="language_list.description">Cette vue affiche les traductions existantes des blocs de contenu côte à côte. Elle permet également de créer une nouvelle version de la page.</label>
+			<label index="_language_list.image">EXT:cms/cshimages/pagemodule_6.png,
+EXT:cms/cshimages/pagemodule_7.png,
+EXT:cms/cshimages/pagemodule_11.png,
+EXT:cms/cshimages/pagemodule_10.png,</label>
+			<label index="language_list.image_descr">Dans la vue de Langue, vous pouvez créer une nouvelle traduction de la page si elle n'existe pas encore. Les langues disponibles doivent être définies d'abord via les enregistrements de langue créés à la racine de l'arborescence des pages.
+Cet exemple montre comment le contenu d'une page en trois langues est affiché côte à côte dans le module Page.
+Dans le haut du module Page vous pouvez aussi choisir parmi les traductions disponibles ...
+... et si vous choisissez n'importe laquelle des langues supplémentaires (ici "le danois" et "l'allemand") vous verrez la langue par défaut affichée à côté de la langue choisie</label>
+			<label index="_language_list.seeAlso">sys_language</label>
+			<label index="quickEdit.alttitle">Edition rapide</label>
+			<label index="quickEdit.description">L'éditeur rapide vous donne un accès rapide aux champs de formulaire du contenu de la page.</label>
+			<label index="quickEdit.details">L'éditeur rapide a pour but de réduire le nombre de clic nécessaire pour éditer le contenu d'une page. Simplement en cliquant sur le titre d'une page, vous aurez le premier élément de la colonne normal chargé. Dans la barre d'outil en haut, vous pouvez séléctionner les autres éléments dans le menu déroulant.</label>
+			<label index="_quickEdit.image">EXT:cms/cshimages/pagemodule_5.png</label>
+			<label index="quickEdit.image_descr">La vue d'édition rapide évite un clic supplémentaire en amenant directement l'utilisateur au formulaire d'édition après avoir cliqué sur un titre de page dans l'arborescence. L'enregistrement affiché correspond toujours au premier élément de contenu de la colonne Normal.</label>
+			<label index="_quickEdit.seeAlso">_MOD_web_layout:quickEdit_selElement</label>
+			<label index="quickEdit_selElement.alttitle">Eléments de contenu</label>
+			<label index="quickEdit_selElement.description">C'est un aperçu des éléments de cette page dans le mode d'édition rapide. Sélectionnez un autre élément pour l'éditer ou cliquez sur l'icône "Nouveau" pour créer un nouvel élément.</label>
+			<label index="_quickEdit_selElement.image">EXT:cms/cshimages/pagemodule_4.png</label>
+			<label index="quickEdit_selElement.image_descr">Vue d'ensemble des éléments de contenu dans la vue d'édition rapide. Vous trouverez ci-dessous des liens menant à : l'assistant "Déplacer l'élément de contenu" et l'assistant "Créer un nouvel élément de contenu". Voir les liens ci-dessous.</label>
+			<label index="_quickEdit_selElement.seeAlso">_MOD_web_layout:quickEdit,
+xMOD_csh_corebe:move_el_cs,
+xMOD_csh_corebe:new_ce</label>
+			<label index="_.seeAlso">Configuration du module Page [Technique] | http://docs.typo3.org/typo3cms/TSconfigReference/PageTsconfig/TSFE/,
+xMOD_csh_corebe:history_log,
+xMOD_csh_corebe:new_ce,
+xMOD_csh_corebe:move_el_pages,
+xMOD_csh_corebe:new_pages,
+xMOD_csh_corebe:TCEforms,
+A propos du module Page | http://typo3.org/documentation/tips-tricks/the-new-page-editing-concept/
+Modifier une page |http://docs.typo3.org/typo3cms/GettingStartedTutorial/EditAndCreatePagesAndContent/EditPageContent/
+Le module Page (Animation) | Utiliser l'arborescence de pages (Animation) | FILE:EXT:welcome/modsub/ani_05.gif</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

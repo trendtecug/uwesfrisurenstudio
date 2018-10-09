@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="wiz_crMany">Crea pagine multiple</label>
+			<label index="wiz_newPages">Crea nuove pagine</label>
+			<label index="wiz_newPages_addMoreLines">Aggiungi altre linee</label>
+			<label index="wiz_newPages_create">Le pagine sono state create!</label>
+			<label index="wiz_newPages_currentMenu">Nuova struttura delle pagine</label>
+			<label index="wiz_newPages_errorMsg1">Non hai i permessi per creare sottopagine di questa pagina!</label>
+			<label index="wiz_newPages_hidePages">Nascondi le pagine appena create</label>
+			<label index="wiz_newPages_hidePagesInMenus">Nascondi le nuove pagine nei menu</label>
+			<label index="wiz_newPages_lCreate">Crea pagine</label>
+			<label index="wiz_newPages_lCreate_msg1">Stai per creare molte nuove pagine. Sei sicuro di voler continuare?</label>
+			<label index="wiz_newPages_listEnd">Inserisci le nuove pagine dopo le sottopagine esistenti</label>
+			<label index="wiz_newPages_lReset">Cancella i campi</label>
+			<label index="wiz_newPages_noCreate">Nessuna pagina creata!</label>
+			<label index="wiz_newPages_page">Pagina</label>
+			<label index="wiz_W">W!</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

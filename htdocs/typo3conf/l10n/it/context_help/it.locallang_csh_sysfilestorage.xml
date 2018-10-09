@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index=".description"/>
+			<label index="description.description"/>
+			<label index="description.details"/>
+			<label index=".details"/>
+			<label index="driver.description"/>
+			<label index="driver.details"/>
+			<label index="hidden.description"/>
+			<label index="hidden.details"/>
+			<label index="is_browsable.description"/>
+			<label index="is_online.description"/>
+			<label index="is_public.description"/>
+			<label index="is_writable.description"/>
+			<label index="name.description"/>
+			<label index="name.details"/>
+			<label index="processingfolder.description"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

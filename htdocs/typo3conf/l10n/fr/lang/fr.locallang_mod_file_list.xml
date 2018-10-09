@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="bigControlPanel">Vue avancée</label>
+			<label index="c_file">Nom de fichier</label>
+			<label index="c_fileext">Type</label>
+			<label index="clipBoard">Afficher le presse-papier</label>
+			<label index="clip_deleteMarked">Supprimer la sélection</label>
+			<label index="clip_deleteMarkedWarning">Etes-vous sûr de vouloir supprimer de ce dossier tous les fichiers sélectionnés?</label>
+			<label index="clip_markRecords">Sélectionner tout/rien</label>
+			<label index="clip_paste">Coller le contenu du presse-papier</label>
+			<label index="clip_pasteInto">Coller dans: le contenu du presse-papier est inséré dans ce dossier</label>
+			<label index="clip_selectMarked">Transférer les fichiers sélectionnés dans le presse-papier</label>
+			<label index="c__REF_">Réf.</label>
+			<label index="c_rw">RW</label>
+			<label index="c_size">Taille</label>
+			<label index="c_tstamp">Date</label>
+			<label index="displayThumbs">Afficher les miniatures</label>
+			<label index="files">fichiers</label>
+			<label index="folderNotFoundMessage"/>
+			<label index="folderNotFoundTitle">Dossier non trouvé.</label>
+			<label index="localDriverFlexform_basePath">Chemin de base:</label>
+			<label index="localDriverFlexform_basePath_placeholder"/>
+			<label index="localDriverFlexform_caseSensitive"/>
+			<label index="localDriverFlexform_pathType">Type de chemin:</label>
+			<label index="localDriverFlexform_pathType_absolute">absolu</label>
+			<label index="localDriverFlexform_pathType_relative">relatif</label>
+			<label index="missingFolderPermissionsMessage">Vous n'avez pas d'accès à ce dossier "%s".</label>
+			<label index="missingFolderPermissionsTitle"/>
+			<label index="mlang_labels_tabdescr">C'est le système d'administration des fichiers de TYPO3. Il vous permet d'accéder aux points de montage auxquels vous avez droit. Avec ce module, vous pouvez envoyer, copier, déplacer et supprimer des fichiers sur le serveur.</label>
+			<label index="mlang_labels_tablabel">Liste des fichiers du répertoire</label>
+			<label index="mlang_tabs_tab">Fichiers</label>
+			<label index="paramError">Erreur de paramètre :</label>
+			<label index="read">R</label>
+			<label index="recycler">Corbeille</label>
+			<label index="role_folder_recycler">Corbeille</label>
+			<label index="role_folder_temporary">Fichiers temporaires</label>
+			<label index="storageNotBrowsableMessage"/>
+			<label index="storageNotBrowsableTitle">Accès refusé.</label>
+			<label index="targetNoDir">La cible n'est pas un répertoire !</label>
+			<label index="temp">Fichiers temporaires</label>
+			<label index="write">W</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

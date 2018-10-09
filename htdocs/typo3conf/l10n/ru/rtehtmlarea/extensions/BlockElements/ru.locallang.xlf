@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:15Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Address" approved="yes">
+				<source>Address</source>
+				<target state="translated">Адрес</target>
+			</trans-unit>
+			<trans-unit id="Article" approved="yes">
+				<source>Article</source>
+				<target state="translated">Статья</target>
+			</trans-unit>
+			<trans-unit id="Aside" approved="yes">
+				<source>Aside</source>
+				<target state="translated">Врезка</target>
+			</trans-unit>
+			<trans-unit id="Container" approved="yes">
+				<source>Container</source>
+				<target state="translated">Контейнер</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="Footer" approved="yes">
+				<source>Footer</source>
+				<target state="translated">Нижний колонтитул</target>
+			</trans-unit>
+			<trans-unit id="Header" approved="yes">
+				<source>Header</source>
+				<target state="translated">Заголовок</target>
+			</trans-unit>
+			<trans-unit id="Heading 1" approved="yes">
+				<source>Heading 1</source>
+				<target state="translated">Заголовок 1</target>
+			</trans-unit>
+			<trans-unit id="Heading 2" approved="yes">
+				<source>Heading 2</source>
+				<target state="translated">Заголовок 2</target>
+			</trans-unit>
+			<trans-unit id="Heading 3" approved="yes">
+				<source>Heading 3</source>
+				<target state="translated">Заголовок 3</target>
+			</trans-unit>
+			<trans-unit id="Heading 4" approved="yes">
+				<source>Heading 4</source>
+				<target state="translated">Заголовок 4</target>
+			</trans-unit>
+			<trans-unit id="Heading 5" approved="yes">
+				<source>Heading 5</source>
+				<target state="translated">Заголовок 5</target>
+			</trans-unit>
+			<trans-unit id="Heading 6" approved="yes">
+				<source>Heading 6</source>
+				<target state="translated">Заголовок 6</target>
+			</trans-unit>
+			<trans-unit id="Long quotation" approved="yes">
+				<source>Quotation</source>
+				<target state="translated">Цитата</target>
+			</trans-unit>
+			<trans-unit id="Navigation" approved="yes">
+				<source>Navigation</source>
+				<target state="translated">Навигация</target>
+			</trans-unit>
+			<trans-unit id="No block" approved="yes">
+				<source>No block format</source>
+				<target state="translated">Блок без форматирования</target>
+			</trans-unit>
+			<trans-unit id="Paragraph" approved="yes">
+				<source>Paragraph</source>
+				<target state="translated">Параграф</target>
+			</trans-unit>
+			<trans-unit id="Preformatted" approved="yes">
+				<source>Preformatted</source>
+				<target state="translated">Предотформатированный</target>
+			</trans-unit>
+			<trans-unit id="Section" approved="yes">
+				<source>Section</source>
+				<target state="translated">Контейнер</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

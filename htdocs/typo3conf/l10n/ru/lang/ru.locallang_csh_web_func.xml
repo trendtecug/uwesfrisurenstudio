@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index=".alttitle">Модуль Веб &gt; Функции</label>
+			<label index=".description">Модуль Веб &gt; Функции — это информационный модуль для внутренних приложений, которые могут предоставлять в нем возможность обработки страниц или ветвей дерева страниц.</label>
+			<label index=".details">Модуль Веб &gt; Функции отличается от модуля Веб &gt; Инфо тем, что он, по большей части, предлагает какие-либо возможности обработки, а не только показывает информацию. Поэтому, решение о том, какой модуль использовать для добавления функциональности остается за создателями расширений.</label>
+			<label index="_.image">EXT:lang/cshimages/pagetree_overview_11.png</label>
+			<label index=".image_descr">Модуль Веб &gt; Функции, в соответствии с ядром системы, является пустой оболочкой. Он предоставляет API (интерфейс), который могут использовать расширения, для добавления пунктов меню в модуль Функции. Здесь представлено расширение Мастер (func_wizards), добавляющего элементы в основное меню функций в правом верхнем углу. Выпадающее меню "Select Wizard" позволяет перейти к другому уровню функциональности (другим мастерам), которые добавлены другими расширениями, как здесь, расширением "wizard_sortpages".</label>
+			<label index="_.seeAlso">_MOD_web_info,
+More about the Web&gt;Functions module | http://typo3.org/documentation/document-library/doc_core_inside/Functions_module/,,
+_MOD_web_func:tx_funcwizards,
+_MOD_web_func:tx_wizardsortpages</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

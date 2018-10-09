@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="1">Mostra pagina</label>
+			<label index="16">Modifica il contenuto</label>
+			<label index="16_t">Cambia/Aggiungi/Elimina/Sposta il contenuto.</label>
+			<label index="1_t">Mostra/Copia pagina e contenuto.</label>
+			<label index="2">Modifica pagina</label>
+			<label index="2_t">Cambia/Sposta pagina, ad esempio cambia il titolo etc..</label>
+			<label index="4">Elimina pagina</label>
+			<label index="4_t">Elimina la pagina e il contenuto.</label>
+			<label index="8">Nuove pagine</label>
+			<label index="8_t">Crea nuove pagine all'interno di questa.</label>
+			<label index="Abort">Annulla</label>
+			<label index="A_Denied">Accesso negato</label>
+			<label index="A_Granted">Accesso consentito</label>
+			<label index="ch_permissions">Cambia permessi</label>
+			<label index="def">Definizione: 'contenuto' sono i record presenti nelle tabelle in una pagina - a parte i record di tipo "pagina".</label>
+			<label index="deleted">eliminato</label>
+			<label index="Depth">Profondità</label>
+			<label index="Edit">Modifica</label>
+			<label index="EditLock">Blocca</label>
+			<label index="EditLock_descr">La pagina e tutti i suoi contenuti sono bloccati agli utenti non-Admin</label>
+			<label index="Everybody">Tutti</label>
+			<label index="Group">Gruppo</label>
+			<label index="Legend">Legenda</label>
+			<label index="levels">livelli</label>
+			<label index="mlang_labels_tabdescr">Impostare i permessi è di fondamentale importanza per il controllo degli accessi alle pagine da parte degli utenti amministratori (backend user). Puoi decidere il proprietario di una pagina ed impostare i permessi d'accesso per i gruppi di utenti.</label>
+			<label index="mlang_labels_tablabel">Permessi per la modifica della pagina</label>
+			<label index="mlang_tabs_tab">Accesso</label>
+			<label index="Mode">Modo</label>
+			<label index="notSet">non attivato</label>
+			<label index="Owner">Proprietario</label>
+			<label index="pages_affected">Pagine coinvolte</label>
+			<label index="permissions">Permessi</label>
+			<label index="recursive">Imposta ricorsivamente</label>
+			<label index="Save">Salva</label>
+			<label index="User">Utente</label>
+			<label index="user_overview">Permessi per l'utente corrente</label>
+			<label index="WorkspaceWarning">Workspace Warning</label>
+			<label index="WorkspaceWarningText">I permessi che definisci nel workspace sono effettivi solo &lt;em&gt;dopo&lt;/em&gt; aver pubblicato i contenuti! Se vuoi che i permessi siano effettivi subito, devi configurarli nel Workspace Live.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

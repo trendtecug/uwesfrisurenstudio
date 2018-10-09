@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="mlang_labels_tabdescr">Module d'administration du planificateur. Visualisez toutes les tâches enregistrées. Ajoutez, modifiez ou supprimez des tâches.&lt;br/&gt;&lt;em&gt;Accesssible aux administrateurs uniquement !&lt;/em&gt;</label>
+			<label index="mlang_labels_tablabel">Planificateur TYPO3</label>
+			<label index="mlang_tabs_tab">Planificateur</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

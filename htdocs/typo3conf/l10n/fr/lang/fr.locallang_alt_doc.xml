@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="deleteItem">Supprimer</label>
+			<label index="deleteWarning">Etes-vous sûr de vouloir supprimer cet enregistrement ?</label>
+			<label index="editWholeRecord">Editer l'enregistrement complet</label>
+			<label index="noDocuments">Aucun document ouvert</label>
+			<label index="noDocuments_listmodule">le module Web&gt;Liste</label>
+			<label index="noDocuments_msg">Il n'y a aucun document ouvert disponible à éditer.</label>
+			<label index="noDocuments_msg2">Vous pouvez aller à %s pour trouver la page ou l'enregistrement que vous souhaitez éditer.</label>
+			<label index="noDocuments_msg3">Vous pouvez choisir un de vos derniers enregistrements édités depuis cette liste:</label>
+			<label index="noDocuments_OR">ou</label>
+			<label index="noDocuments_pagemodule">le module Web&gt;Page</label>
+			<label index="openDocs">DOCUMENTS OUVERTS</label>
+			<label index="recordHistory">Visualiser l'historique des changements</label>
+			<label index="undoLastChange">Annuler / Rétablir le dernier changement (%s)</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

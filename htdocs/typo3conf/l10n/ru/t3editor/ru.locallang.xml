@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="constants">Константы</label>
+			<label index="deactivate">Отключить t3editor</label>
+			<label index="delimiter">:</label>
+			<label index="file">Файл</label>
+			<label index="js.label_documentModified">документ изменен</label>
+			<label index="js.label_errorWhileSaving">При сохранении данных произошла ошибка.</label>
+			<label index="js.label_lines">строки</label>
+			<label index="noPermission">Доступ закрыт: нет разрешений для записей шаблонов.</label>
+			<label index="pageIDInteger">Синтаксическая ошибка: Параметр pageID должен быть целым числом.</label>
+			<label index="setup">Настройка</label>
+			<label index="template">Шаблон</label>
+			<label index="typeIDMissing">Синтаксическая ошибка: должен быть предоставлен хотя бы параметр typeID .</label>
+			<label index="unknownContentType">Неизвестный тип содержимого:</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

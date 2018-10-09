@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-29T03:42:23Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="keys" approved="yes">
+				<source>Extension keys:</source>
+				<target state="translated">Clés d'extension:</target>
+			</trans-unit>
+			<trans-unit id="none" approved="yes">
+				<source>None</source>
+				<target state="translated">Aucune</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Conflicting extensions installed</source>
+				<target state="translated">Extensions en conflit installées</target>
+			</trans-unit>
+			<trans-unit id="uninstall" approved="yes">
+				<source>Conflicting extensions should be uninstalled for htmlArea RTE to function correctly.</source>
+				<target state="translated">Les extensions en conflit doivent être désinstallées pour que htmlArea RTE fonctionne correctement.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

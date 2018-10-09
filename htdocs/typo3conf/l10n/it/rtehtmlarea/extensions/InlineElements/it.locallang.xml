@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="BiDi override"/>
+			<label index="Bold"/>
+			<label index="Citation"/>
+			<label index="Code"/>
+			<label index="Definition"/>
+			<label index="Deleted text"/>
+			<label index="Emphasis"/>
+			<label index="Inserted text"/>
+			<label index="Italic"/>
+			<label index="Keyboard"/>
+			<label index="Label"/>
+			<label index="Large text"/>
+			<label index="Monospaced text"/>
+			<label index="No markup"/>
+			<label index="Quotation"/>
+			<label index="Sample"/>
+			<label index="Small text"/>
+			<label index="Strike-through"/>
+			<label index="Strong emphasis"/>
+			<label index="Style container"/>
+			<label index="Subscript"/>
+			<label index="Superscript"/>
+			<label index="Underline"/>
+			<label index="Variable"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

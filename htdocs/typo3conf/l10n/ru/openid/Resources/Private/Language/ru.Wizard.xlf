@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:16:47Z" product-name="openid">
+		<header/>
+		<body>
+			<trans-unit id="addopenid" xml:space="preserve" approved="yes">
+				<source>Add OpenID</source>
+			<target state="translated">Добавить OpenID</target></trans-unit>
+			<trans-unit id="error.cancelled" xml:space="preserve" approved="yes">
+				<source>OpenID authentication has been cancelled.</source>
+			<target state="translated">Отменена аутентификация по OpenID.</target></trans-unit>
+			<trans-unit id="error.general" xml:space="preserve" approved="yes">
+				<source>Status: %s&lt;br/&gt;Message: %s</source>
+			<target state="translated">Статус: %s&lt;br/&gt;Сообщение: %s</target></trans-unit>
+			<trans-unit id="error.no-response" xml:space="preserve" approved="yes">
+				<source>We got no OpenID response.</source>
+			<target state="translated">Мы не получили ответ OpenID.</target></trans-unit>
+			<trans-unit id="error.setup" xml:space="preserve" approved="yes">
+				<source>Error setting up OpenID authentication for "%s".</source>
+			<target state="translated">Ошибка настройки аутентификации OpenID для "%s".</target></trans-unit>
+			<trans-unit id="html.description" xml:space="preserve" approved="yes">
+				<source>Add an OpenID to your backend user. This OpenID can then be used to log in the TYPO3 backend.</source>
+			<target state="translated">Добавление OpenID для внутреннего пользователя. После этот OpenID можно использовать для авторизации в интерфейсе управления TYPO3.</target></trans-unit>
+			<trans-unit id="html.openid_url" xml:space="preserve" approved="yes">
+				<source>OpenID identifier</source>
+			<target state="translated">Идентификатор OpenID</target></trans-unit>
+			<trans-unit id="html.submit" xml:space="preserve" approved="yes">
+				<source>Login</source>
+			<target state="translated">Вход</target></trans-unit>
+			<trans-unit id="html.title" xml:space="preserve" approved="yes">
+				<source>OpenID registration</source>
+			<target state="translated">Регистрация OpenID</target></trans-unit>
+			<trans-unit id="title.error" xml:space="preserve" approved="yes">
+				<source>Error during OpenID authentication</source>
+			<target state="translated">Ошибка в процессе авторизации по OpenID</target></trans-unit>
+			<trans-unit id="title.success" xml:space="preserve" approved="yes">
+				<source>OpenID authentication successful</source>
+			<target state="translated">Успешная аутентификация по OpenID</target></trans-unit>
+			<trans-unit id="youropenid" xml:space="preserve" approved="yes">
+				<source>OpenID is: &lt;tt&gt;%s&lt;/tt&gt;</source>
+			<target state="translated">OpenID: &lt;tt&gt;%s&lt;/tt&gt;</target></trans-unit>
+		</body>
+	</file>
+</xliff>

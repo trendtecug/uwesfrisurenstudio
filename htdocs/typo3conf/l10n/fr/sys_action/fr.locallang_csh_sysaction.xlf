@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-29T04:34:54Z" product-name="sys_action">
+		<header/>
+		<body>
+			<trans-unit id="assign_to_groups.description" approved="yes">
+				<source>Select the backend users groups allowed to activate the action in the Task Center.</source>
+				<target state="translated">Sélectionnez les groupes d'utilisateurs backend autorisés à activer l'action dans le Centre des tâches.</target>
+			</trans-unit>
+			<trans-unit id=".description" approved="yes">
+				<source>An 'Action' is a configuration of a specific task which may be performed by assigned usergroups via the Task Center.</source>
+				<target state="translated">Une 'Action' est une configuration spécifique de tâche qui peut être exécutée par un groupe assigné par le centre des tâches.</target>
+			</trans-unit>
+			<trans-unit id="description.description" approved="yes">
+				<source>Describe what the action does or allows to do.</source>
+				<target state="translated">Décrivez ce que l'action réalise ou autorise.</target>
+			</trans-unit>
+			<trans-unit id=".details" xml:space="preserve" approved="yes">
+				<source>Currently an Action may be configured to create additional backend usergroups without being and admin-user and by selecting from a limited set of options. Another option is to let an action initiate a SQL SELECT-query in the database and return the result as a CSV file.
+Actions can be assigned to a Backend usergroup and they are activated by a single click in the Task Center.</source>
+			<target state="translated">Actuellement, une action peut être configuré pour créer les groupes d'utilisateurs backend supplémentaires sans être administrateur et utilisateur et en choisissant parmi un ensemble limité d'options. Une autre option est de laisser une action initier une requête SQL SELECT dans la base de données et renvoie le résultat sous forme de fichier CSV. Les actions peuvent être assignés à un groupe d'utilisateurs backend et ils sont activés par un simple clic dans le centre de travail.</target></trans-unit>
+			<trans-unit id="hidden.description" approved="yes">
+				<source>Check this option if you wish to disable the availability of the action or non-admin users.</source>
+				<target state="translated">Cochez cette option si vous souhaitez masquer l'action pour des utilisateurs ordinaires.</target>
+			</trans-unit>
+			<trans-unit id="hidden.details">
+				<source>This option is a great way to disable an action during changes made to it because it still allows you as an 'Admin'-user to activate it for test purposes.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="oktopuce">
+					<target>Cette option est un excellent moyen pour désactiver une action lors des modifications apportées car elle vous permet toujours en tant qu'utilisateur de type « Admin » de l'activer pour effectuer des tests.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="t1_allowed_groups.description">
+				<source>Enter the Backend user groups which the user performing the action is able to choose among (if any).</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="oktopuce">
+					<target>Entrez les groupes d'utilisateurs Backend parmi lesquels l'utilisateur exécutant l'action sera à même de choisir (le cas échéant).</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="t1_copy_of_user.description" approved="no">
+				<source>Insert a current Backend user which will be used as a template for the new users created. </source>
+				<target state="needs-translation">Insérer un compte utilisateur qui sera utilisé comme modèle pour les futures comptes crées</target>
+				<alt-trans xml:space="preserve" origin="oktopuce">
+					<target>Insérer un compte utilisateur Backend qui sera utilisé comme modèle pour les futurs comptes crées</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="t1_copy_of_user.details" xml:space="preserve">
+				<source>All values are copied to the new user, except username, password, name and email is of course overridden.
+If the template user is a member of a group which is not defined among the "Groups which may be assigned through the action" that group is still set for the user and cannot be removed by the user carrying out the action.</source>
+			<target/><alt-trans xml:space="preserve" origin="oktopuce"><target>Toutes les valeurs sont copiés pour le nouvel utilisateur, excepté le nom d'utilisateur, le mot de passe, le nom et l'e-mail est qui évidemment doivent être modifiés.
+Si l'utilisateur pris comme modèle est membre d'un groupe qui n'est pas défini dans les « groupes qui peuvent être affectés par l'action » ce groupe est toujours prévu pour l'utilisateur et ne peut pas être supprimé par l'utilisateur effectuant l'action.</target></alt-trans></trans-unit>
+			<trans-unit id="t1_create_user_dir.description" approved="no">
+				<source>If checked, a private home-directory is also created during user creation. </source>
+				<target state="needs-translation">Si coché, un répertoire personnel est crée au cours de la création du compte utilisateur</target>
+			</trans-unit>
+			<trans-unit id="t1_create_user_dir.details">
+				<source>&lt;strong&gt;Notice:&lt;/strong&gt; $TYPO3_CONF_VARS["BE"]["userHomePath"] must be configured correctly along with $TYPO3_CONF_VARS["BE"]["lockRootPath"] and writable!</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="oktopuce">
+					<target>&lt;strong&gt;Notice :&lt;/strong&gt; $TYPO3_CONF_VARS["BE"]["userHomePath"] doit être correctement configuré avec  $TYPO3_CONF_VARS["BE"]["lockRootPath"] et inscriptible !</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="t1_userprefix.description" approved="yes">
+				<source>Enter a prefix which is forcibly prepended to new usernames (eg. "news_")</source>
+				<target state="translated">Entrez un préfixe qui est ajouté au début des nouveaux comptes utilisateurs (ex: "news_")</target>
+			</trans-unit>
+			<trans-unit id="t3_listPid.description">
+				<source>[FILL IN] sys_action-&gt;t3_listPid</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="oktopuce">
+					<target>[FILL IN] sys_action-&gt;t3_listPid</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="t3_tables.description">
+				<source>[FILL IN] sys_action-&gt;t3_tables</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="oktopuce">
+					<target>[FILL IN] sys_action-&gt;t3_tables</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="t4_recordsToEdit.description">
+				<source>[FILL IN] sys_action-&gt;t4_recordsToEdit</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="oktopuce">
+					<target>[FILL IN] sys_action-&gt;t4_recordsToEdit</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="title.description" approved="yes">
+				<source>Enter the title of the action. This is shown in the list of available actions in the Task Center.</source>
+				<target state="translated">Entrez le titre de l'action. Celui-ci est visible dans la liste des actions disponibles dans le Centre de tâches.</target>
+			</trans-unit>
+			<trans-unit id="type.description" approved="yes">
+				<source>Select the action type.</source>
+				<target state="translated">Sélectionnez le type d'action.</target>
+			</trans-unit>
+			<trans-unit id="type.details" xml:space="preserve">
+				<source>&lt;strong&gt;"Create Backend User"&lt;/strong&gt; allows to create backend users with a limited set of options. This action type is meant for semi-administrators among your users which is in charge of daily user administration - still without being full fledged 'Admin'-users with 'a License to Kill everything'.
+When you select this option, you get to enter a 'template' user, enter a prefix which the new users will automatically have and whether or not a user home-dir is created in the process. Finally you can select a limited number of usergroups which the can be selected among.
+
+&lt;strong&gt;"SQL-query"&lt;/strong&gt; allows to make a fixed SQL SELECT-query in the database returned as CSV lists. When you have created an action of this type, you need to go to the System &gt; DB check (prior to v7 this can be found on Tools &gt; DB check) module and enter the Advanced Search feature. Here you can design your SQL-query. When you have designed it to select what you want correctly, you can select this action (by it's name) and save the query to the action there. From that point it will be effective from the Task Center. (Notice that the form of output selected in the Advanced Search function is also stored, so make sure to select CSV output there!)</source>
+			<target/><alt-trans xml:space="preserve" origin="oktopuce"><target>&lt;strong&gt;« Créer un utilisateur Backend »&lt;/strong&gt; permet de créer des utilisateurs back-end avec un ensemble limité d'options. Ce type d'action est destiné aux semi-administrateurs parmi vos utilisateurs qui sont en charge de la gestion quotidienne des utilisateurs - sans pour autant être des administrateurs à part entière - utilisateurs ayant les droits pour tout détruire.
+Lorsque vous sélectionnez cette option, vous devez choisir un « modèle » utilisateur, entrez un préfixe qui sera automatiquement affecté aux nouveaux utilisateurs et préciser si un dossier "home" doit être créé durant le processus. Enfin, vous pouvez sélectionner un nombre limité de groupes d'utilisateurs au sein desquels ils pourront être sélectionnés.
+
+&lt;strong&gt;"Requête SQL"&lt;/strong&gt; permet d'effectuer une requête SQL SELECT dans la base de données dont les résultats seront rendus sous forme de listes CSV. Lorsque vous avez créé une action de ce type, vous devez choisir le module Outils &gt; DBint et entrez la fonctionnalité de recherche avancée. Ici, vous pourrez concevoir votre requête SQL. Lorsque vous avez créé votre requête pour sélectionner exactement ce que vous voulez, vous pouvez sélectionner cette action (par son nom) et enregistrer la requête pour votre action ici. À partir de ce moment, elle sera disponible depuis le centre de tâche. (Notez que le format de sortie sélectionné dans la fonction de recherche avancée est également enregistré, alors assurez-vous de sélectionner un format de type CSV ici !)</target></alt-trans></trans-unit>
+		</body>
+	</file>
+</xliff>

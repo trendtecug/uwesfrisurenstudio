@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="1">Visualiser la page</label>
+			<label index="16">Éditer le contenu</label>
+			<label index="16_t">Modifier/Ajouter/Effacer/Déplacer le contenu.</label>
+			<label index="1_t">Afficher/Copier page et contenu.</label>
+			<label index="2">Éditer la page</label>
+			<label index="2_t">Modifier/Déplacer la page, par ex. modifier le titre de la page, etc.</label>
+			<label index="4">Supprimer la page</label>
+			<label index="4_t">Supprimer page et contenu.</label>
+			<label index="8">Nouvelles pages</label>
+			<label index="8_t">Créer des sous-pages.</label>
+			<label index="Abort">Annuler</label>
+			<label index="A_Denied">Accès refusé</label>
+			<label index="A_Granted">Accès autorisé</label>
+			<label index="ch_permissions">Modifier les permissions</label>
+			<label index="def">Définition: le 'contenu' est constitué de tous les enregistrements d'une page, à l'exception des enregistrements de la table 'pages'.</label>
+			<label index="deleted">Supprimé</label>
+			<label index="Depth">Profondeur</label>
+			<label index="Edit">ÉDITER</label>
+			<label index="EditLock">Verrouiller</label>
+			<label index="EditLock_descr">La page et son contenu sont verrouillés à l'édition pour tout utilisateur non-admin.</label>
+			<label index="Everybody">Tous</label>
+			<label index="Group">Groupe</label>
+			<label index="Legend">Légende</label>
+			<label index="levels">Niveaux</label>
+			<label index="mlang_labels_tabdescr">Paramètrer les permissions aux pages est vital pour contrôler l'accès aux pages des utilisateurs backend. Vous pouvez assigner un groupe ou un utilisateur en tant que propriétaire de page et paramètrer les permissions pour chaque.</label>
+			<label index="mlang_labels_tablabel">Droits d'accès aux pages</label>
+			<label index="mlang_tabs_tab">Accès</label>
+			<label index="Mode">Mode</label>
+			<label index="notSet">Non appliqué</label>
+			<label index="Owner">Propriétaire</label>
+			<label index="pages_affected">pages affectées</label>
+			<label index="permissions">Permissions</label>
+			<label index="recursive">Appliquer recursivement</label>
+			<label index="Save">Enregistrer</label>
+			<label index="User">Utilisateur</label>
+			<label index="user_overview">Utilisateur (vue d'ensemble)</label>
+			<label index="WorkspaceWarning">Avertissement concernant les espaces de travail</label>
+			<label index="WorkspaceWarningText">Les permissions affectées aux espaces de travail sont appliquées uniquement &lt;em&gt;après&lt;/em&gt; qu'ils sont publiés ! Si vous souhaitez appliquer des permissions appliquées immédiatement, vous devez les appliquer dans l'espace de travail LIVE. (les permissions s'appliquent à partir de l'enregistrement /l'endroit référent de l'espace de travail LIVE)</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

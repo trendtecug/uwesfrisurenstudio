@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="config.description">Champ de code de configuration TypoScript</label>
+			<label index="_config.seeAlso">sys_template:config</label>
+			<label index="constants.description">Champ des constantes TypoScript</label>
+			<label index="_constants.seeAlso">sys_template:constants</label>
+			<label index=".description">Les gabarits statiques sont distribués de manière centralisée par une bibliothèque TypoScript. Vous ne devriez jamais modifier ces valeurs.</label>
+			<label index="description.description">Description du gabarit statique.</label>
+			<label index=".details"/>
+			<label index="editorcfg.description">Éditeur de configuration - utilisé pour configurer l'éditeur de feuilles de style.</label>
+			<label index="_.image"/>
+			<label index=".image_descr"/>
+			<label index="include_static.description">Inclusion d'autres gabarits statiques</label>
+			<label index="_.seeAlso"/>
+			<label index="title.description">Titre de gabarit. Sera visible dans la liste des gabarits statiques</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

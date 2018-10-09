@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="button.cancel">Annulla</label>
+			<label index="button.update"/>
+			<label index="flashmessage.canceled">Il processo è stato annullato.</label>
+			<label index="flashmessage.error">Errore</label>
+			<label index="flashmessage.information">Informazioni</label>
+			<label index="flashmessage.multipleErrors">Diverse richieste sono fallite. Per favore, controlla la tua connessione a internet!</label>
+			<label index="flashmessage.success">Successo</label>
+			<label index="flashmessage.updateComplete"/>
+			<label index="header.languageSelectionList">Lingue</label>
+			<label index="header.module">Amministrazione Lingue</label>
+			<label index="header.translationUpdateList">Traduzioni</label>
+			<label index="state.checking">Verifica...</label>
+			<label index="state.error">Errore</label>
+			<label index="state.failed">Fallito</label>
+			<label index="state.invalid">Non valido</label>
+			<label index="state.notAvailable">Non disponibile</label>
+			<label index="state.notChecked"/>
+			<label index="state.updated">Aggiornato</label>
+			<label index="state.upToDate">Aggiornato</label>
+			<label index="table.extension">Estensione</label>
+			<label index="table.language">Lingua</label>
+			<label index="table.locale">Locale</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

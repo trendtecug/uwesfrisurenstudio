@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T04:39:46Z" product-name="sys_note">
+		<header/>
+		<body>
+			<trans-unit id="author.description" approved="yes">
+				<source>Enter your name.</source>
+				<target state="translated">Введите своё имя.</target>
+			</trans-unit>
+			<trans-unit id="category.description" approved="yes">
+				<source>Select a category which describes the character of the note.</source>
+				<target state="translated">Выберете категорию, описывающую характер заметки.</target>
+			</trans-unit>
+			<trans-unit id=".description" approved="yes">
+				<source>Internal reminder note attached to a page.</source>
+				<target state="translated">Внутреннее напоминание прикрепляется к странице.</target>
+			</trans-unit>
+			<trans-unit id=".details" approved="yes">
+				<source>This provides a simple way to attach informative notes to a page regarding backend-related issues. Use it as you like for reminders, instructions, etc.</source>
+				<target state="translated">Это простая возможность прикрепления информативных заметок для внутренних распоряжений к странице. Используйте по собственному усмотрению для напоминаний, инструкций и тому подобного.</target>
+			</trans-unit>
+			<trans-unit id="email.description" approved="yes">
+				<source>Enter your email address.</source>
+				<target state="translated">Введите адрес своей почты.</target>
+			</trans-unit>
+			<trans-unit id="message.description" approved="yes">
+				<source>This is the note itself.</source>
+				<target state="translated">Это сама заметка.</target>
+			</trans-unit>
+			<trans-unit id="personal.description" approved="yes">
+				<source>Check this if you don't want other users to see this note.</source>
+				<target state="translated">Установите это, если не нужно, чтобы другие пользователи видели эту заметку.</target>
+			</trans-unit>
+			<trans-unit id="_.seeAlso" approved="yes">
+				<source>pages</source>
+				<target state="translated">страницы</target>
+			</trans-unit>
+			<trans-unit id="subject.description" approved="yes">
+				<source>Enter a title for the note.</source>
+				<target state="translated">Введите название заметки.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

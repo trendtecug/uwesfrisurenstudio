@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T00:27:18Z" product-name="cms">
+		<header/>
+		<body>
+			<trans-unit id="accessibility_bypass" xml:space="preserve" approved="yes">
+				<source>Add link to bypass block</source>
+			<target state="translated">Ajouter un lien afin de contourner le bloc</target></trans-unit>
+			<trans-unit id="accessibility_bypass_text" xml:space="preserve" approved="yes">
+				<source>Link text to bypass block</source>
+			<target state="translated">Lien texte pour contourner le bloc</target></trans-unit>
+			<trans-unit id="accessibility_title" xml:space="preserve" approved="yes">
+				<source>Block title</source>
+			<target state="translated">Titre du bloc</target></trans-unit>
+			<trans-unit id="ALT.imgDimensions" xml:space="preserve" approved="yes">
+				<source>Image Dimensions</source>
+			<target state="translated">Dimensions de l'image</target></trans-unit>
+			<trans-unit id="ALT.imgLinks" xml:space="preserve" approved="yes">
+				<source>Image Links</source>
+			<target state="translated">Liens d'image</target></trans-unit>
+			<trans-unit id="ALT.imgOptions" xml:space="preserve" approved="yes">
+				<source>Image Options</source>
+			<target state="translated">Options d'image</target></trans-unit>
+			<trans-unit id="altText_formlabel" xml:space="preserve" approved="yes">
+				<source>Alternative Labels (one per line)</source>
+			<target state="translated">Textes alternatifs (un par ligne)</target></trans-unit>
+			<trans-unit id="bodytext.ALT.bulletlist_formlabel" xml:space="preserve" approved="yes">
+				<source>Bullet List</source>
+			<target state="translated">Liste à puce</target></trans-unit>
+			<trans-unit id="bodytext.ALT.html" xml:space="preserve" approved="yes">
+				<source>HTML:</source>
+			<target state="translated">HTML:</target></trans-unit>
+			<trans-unit id="bodytext.ALT.html_formlabel" xml:space="preserve" approved="yes">
+				<source>HTML Code</source>
+			<target state="translated">Code HTML</target></trans-unit>
+			<trans-unit id="bodytext.ALT.mailform" xml:space="preserve" approved="yes">
+				<source>Configuration:</source>
+			<target state="translated">Configuration:</target></trans-unit>
+			<trans-unit id="bodytext.ALT.mailform_formlabel" xml:space="preserve" approved="yes">
+				<source>Form Structure</source>
+			<target state="translated">Structure du formulaire</target></trans-unit>
+			<trans-unit id="bodytext.ALT.media_formlabel" xml:space="preserve" approved="yes">
+				<source>Alternative Content</source>
+			<target state="translated">Contenu alternatif</target></trans-unit>
+			<trans-unit id="bodytext.ALT.multimedia_formlabel" xml:space="preserve" approved="yes">
+				<source>Parameters</source>
+			<target state="translated">Paramètres</target></trans-unit>
+			<trans-unit id="bodytext.ALT.script_formlabel" xml:space="preserve" approved="yes">
+				<source>Parameters to pass to the script</source>
+			<target state="translated">Paramètres à passer au script</target></trans-unit>
+			<trans-unit id="bodytext.ALT.table_formlabel" xml:space="preserve" approved="yes">
+				<source>Table Structure</source>
+			<target state="translated">Structure du tableau</target></trans-unit>
+			<trans-unit id="bodytext.ALT.textbox_formlabel" xml:space="preserve" approved="yes">
+				<source>Text</source>
+			<target state="translated">Texte</target></trans-unit>
+			<trans-unit id="bodytext_formlabel" xml:space="preserve" approved="yes">
+				<source>Text</source>
+			<target state="translated">Texte</target></trans-unit>
+			<trans-unit id="bodytext.W.forms" xml:space="preserve" approved="yes">
+				<source>Forms wizard</source>
+			<target state="translated">Assistant de formulaire</target></trans-unit>
+			<trans-unit id="bodytext.W.RTE" xml:space="preserve" approved="yes">
+				<source>Fullscreen Rich Text Editing</source>
+			<target state="translated">Edition texte riche plein écran</target></trans-unit>
+			<trans-unit id="bodytext.W.table" xml:space="preserve" approved="yes">
+				<source>Table Wizard</source>
+			<target state="translated">Assistant de tableau</target></trans-unit>
+			<trans-unit id="category_field" xml:space="preserve" approved="yes">
+				<source>Category field</source>
+			<target state="translated">Champ catégorie</target></trans-unit>
+			<trans-unit id="colPos" xml:space="preserve" approved="yes">
+				<source>Columns:</source>
+			<target state="translated">Colonnes:</target></trans-unit>
+			<trans-unit id="colPos_formlabel" xml:space="preserve" approved="yes">
+				<source>Column</source>
+			<target state="translated">Colonne</target></trans-unit>
+			<trans-unit id="colPos.I.0" xml:space="preserve" approved="yes">
+				<source>Left</source>
+			<target state="translated">Gauche</target></trans-unit>
+			<trans-unit id="colPos.I.1" xml:space="preserve" approved="yes">
+				<source>Normal</source>
+			<target state="translated">Normal</target></trans-unit>
+			<trans-unit id="colPos.I.2" xml:space="preserve" approved="yes">
+				<source>Right</source>
+			<target state="translated">Droite</target></trans-unit>
+			<trans-unit id="colPos.I.3" xml:space="preserve" approved="yes">
+				<source>Border</source>
+			<target state="translated">Bordure</target></trans-unit>
+			<trans-unit id="cols" xml:space="preserve" approved="yes">
+				<source>Columns</source>
+			<target state="translated">Colonnes</target></trans-unit>
+			<trans-unit id="cols.I.0" xml:space="preserve" approved="yes">
+				<source>Auto</source>
+			<target state="translated">Auto</target></trans-unit>
+			<trans-unit id="CType.div.forms" xml:space="preserve" approved="yes">
+				<source>Forms</source>
+			<target state="translated">Formulaire</target></trans-unit>
+			<trans-unit id="CType.div.lists" xml:space="preserve" approved="yes">
+				<source>Lists</source>
+			<target state="translated">Listes</target></trans-unit>
+			<trans-unit id="CType.div.special" xml:space="preserve" approved="yes">
+				<source>Special</source>
+			<target state="translated">Spécial</target></trans-unit>
+			<trans-unit id="CType.div.standard" xml:space="preserve" approved="yes">
+				<source>Standard</source>
+			<target state="translated">Standard</target></trans-unit>
+			<trans-unit id="CType_formlabel" xml:space="preserve" approved="yes">
+				<source>Type</source>
+			<target state="translated">Type</target></trans-unit>
+			<trans-unit id="CType.I.0" xml:space="preserve" approved="yes">
+				<source>Header</source>
+			<target state="translated">Titre</target></trans-unit>
+			<trans-unit id="CType.I.1" xml:space="preserve" approved="yes">
+				<source>Text</source>
+			<target state="translated">Texte</target></trans-unit>
+			<trans-unit id="CType.I.10" xml:space="preserve" approved="yes">
+				<source>Login</source>
+			<target state="translated">Identifiant</target></trans-unit>
+			<trans-unit id="CType.I.11" xml:space="preserve" approved="yes">
+				<source>Textbox</source>
+			<target state="translated">Textbox</target></trans-unit>
+			<trans-unit id="CType.I.12" xml:space="preserve" approved="yes">
+				<source>Special Menus</source>
+			<target state="translated">Menu / Plan du site</target></trans-unit>
+			<trans-unit id="CType.I.13" xml:space="preserve" approved="yes">
+				<source>Insert Records</source>
+			<target state="translated">Insérer des enregistrements</target></trans-unit>
+			<trans-unit id="CType.I.14" xml:space="preserve" approved="yes">
+				<source>Insert Plugin</source>
+			<target state="translated">Insérer un plugin</target></trans-unit>
+			<trans-unit id="CType.I.15" xml:space="preserve" approved="yes">
+				<source>Script</source>
+			<target state="translated">Script</target></trans-unit>
+			<trans-unit id="CType.I.16" xml:space="preserve" approved="yes">
+				<source>Divider</source>
+			<target state="translated">Séparation</target></trans-unit>
+			<trans-unit id="CType.I.17" xml:space="preserve" approved="yes">
+				<source>HTML</source>
+			<target state="translated">HTML</target></trans-unit>
+			<trans-unit id="CType.I.18" xml:space="preserve" approved="yes">
+				<source>Media</source>
+			<target state="translated">Média</target></trans-unit>
+			<trans-unit id="CType.I.2" xml:space="preserve" approved="yes">
+				<source>Text &amp; Images</source>
+			<target state="translated">Texte &amp; images</target></trans-unit>
+			<trans-unit id="CType.I.3" xml:space="preserve" approved="yes">
+				<source>Images</source>
+			<target state="translated">Images</target></trans-unit>
+			<trans-unit id="CType.I.4" xml:space="preserve" approved="yes">
+				<source>Bullet List</source>
+			<target state="translated">Liste à puces</target></trans-unit>
+			<trans-unit id="CType.I.5" xml:space="preserve" approved="yes">
+				<source>Table</source>
+			<target state="translated">Tableau</target></trans-unit>
+			<trans-unit id="CType.I.6" xml:space="preserve" approved="yes">
+				<source>File Links</source>
+			<target state="translated">Liens vers des fichiers</target></trans-unit>
+			<trans-unit id="CType.I.7" xml:space="preserve" approved="yes">
+				<source>Multimedia</source>
+			<target state="translated">Multimédia</target></trans-unit>
+			<trans-unit id="CType.I.8" xml:space="preserve" approved="yes">
+				<source>Form</source>
+			<target state="translated">Formulaire</target></trans-unit>
+			<trans-unit id="CType.I.9" xml:space="preserve" approved="yes">
+				<source>Search</source>
+			<target state="translated">Recherche</target></trans-unit>
+			<trans-unit id="date" xml:space="preserve" approved="yes">
+				<source>Date</source>
+			<target state="translated">Date</target></trans-unit>
+			<trans-unit id="date_formlabel" xml:space="preserve" approved="yes">
+				<source>Date</source>
+			<target state="translated">Date</target></trans-unit>
+			<trans-unit id="endtime_formlabel" xml:space="preserve" approved="yes">
+				<source>Expiration Date</source>
+			<target state="translated">Date de fin de publication</target></trans-unit>
+			<trans-unit id="fe_group_formlabel" xml:space="preserve" approved="yes">
+				<source>Usergroup Access Rights</source>
+			<target state="translated">Droits d'accès par groupe d'utilisateurs</target></trans-unit>
+			<trans-unit id="file_collections" xml:space="preserve" approved="yes">
+				<source>File collections</source>
+			<target state="translated">Collections de fichiers</target></trans-unit>
+			<trans-unit id="file_collections.ALT.uploads_formlabel" xml:space="preserve" approved="yes">
+				<source>Select file collections</source>
+			<target state="translated">Sélectionner les collections de fichiers</target></trans-unit>
+			<trans-unit id="filelink_size" xml:space="preserve" approved="yes">
+				<source>Show File Size:</source>
+			<target state="translated">Afficher la taille du fichier:</target></trans-unit>
+			<trans-unit id="filelink_size_formlabel" xml:space="preserve" approved="yes">
+				<source>Display File Size Information</source>
+			<target state="translated">Afficher la taille du fichier</target></trans-unit>
+			<trans-unit id="filelink_sorting" xml:space="preserve" approved="yes">
+				<source>Sort Filelist:</source>
+			<target state="translated">Tri pour la liste de fichiers:</target></trans-unit>
+			<trans-unit id="filelink_sorting.extension" xml:space="preserve" approved="yes">
+					<source>by Fileextension</source>
+			<target state="translated">selon l'extension de fichier</target></trans-unit>
+			<trans-unit id="filelink_sorting.name" xml:space="preserve" approved="yes">
+					<source>by Filename</source>
+			<target state="translated">selon le nom de fichier</target></trans-unit>
+			<trans-unit id="filelink_sorting.none" xml:space="preserve" approved="yes">
+					<source>none</source>
+			<target state="translated">aucun</target><note>75%</note></trans-unit>
+			<trans-unit id="filelink_sorting.size" xml:space="preserve" approved="yes">
+					<source>by Filesize</source>
+			<target state="translated">selon la taille de fichier</target></trans-unit>
+			<trans-unit id="filelink_sorting.type" xml:space="preserve" approved="yes">
+					<source>by Filetype</source>
+			<target state="translated">Selon le type de fichier</target></trans-unit>
+			<trans-unit id="header" xml:space="preserve" approved="yes">
+				<source>Header:</source>
+			<target state="translated">Titre:</target></trans-unit>
+			<trans-unit id="header.ALT.div_formlabel" xml:space="preserve" approved="yes">
+				<source>Name (not visible in frontend)</source>
+			<target state="translated">Nom (non visible sur le site)</target></trans-unit>
+			<trans-unit id="header.ALT.html_formlabel" xml:space="preserve" approved="yes">
+				<source>Name (not visible in frontend)</source>
+			<target state="translated">Nom (non visible sur le site)</target></trans-unit>
+			<trans-unit id="header.ALT.script_formlabel" xml:space="preserve" approved="yes">
+				<source>Name (not visible in frontend)</source>
+			<target state="translated">Nom (non visible sur le site)</target></trans-unit>
+			<trans-unit id="header.ALT.shortcut_formlabel" xml:space="preserve" approved="yes">
+				<source>Name (not visible in frontend)</source>
+			<target state="translated">Nom (non visible sur le site)</target></trans-unit>
+			<trans-unit id="header_formlabel" xml:space="preserve" approved="yes">
+				<source>Header</source>
+			<target state="translated">Titre</target></trans-unit>
+			<trans-unit id="header_layout_formlabel" xml:space="preserve" approved="yes">
+				<source>Type</source>
+			<target state="translated">Type</target></trans-unit>
+			<trans-unit id="header_layout.I.1" xml:space="preserve" approved="yes">
+				<source>Layout 1</source>
+			<target state="translated">Disposition 1</target></trans-unit>
+			<trans-unit id="header_layout.I.2" xml:space="preserve" approved="yes">
+				<source>Layout 2</source>
+			<target state="translated">Disposition 2</target></trans-unit>
+			<trans-unit id="header_layout.I.3" xml:space="preserve" approved="yes">
+				<source>Layout 3</source>
+			<target state="translated">Disposition 3</target></trans-unit>
+			<trans-unit id="header_layout.I.4" xml:space="preserve" approved="yes">
+				<source>Layout 4</source>
+			<target state="translated">Disposition 4</target></trans-unit>
+			<trans-unit id="header_layout.I.5" xml:space="preserve" approved="yes">
+				<source>Layout 5</source>
+			<target state="translated">Disposition 5</target></trans-unit>
+			<trans-unit id="header_layout.I.6" xml:space="preserve" approved="yes">
+				<source>Hidden</source>
+			<target state="translated">Caché</target></trans-unit>
+			<trans-unit id="header_link" xml:space="preserve" approved="yes">
+				<source>Link:</source>
+			<target state="translated">Lien:</target></trans-unit>
+			<trans-unit id="header_link_formlabel" xml:space="preserve" approved="yes">
+				<source>Link</source>
+			<target state="translated">Lien</target></trans-unit>
+			<trans-unit id="header_position" xml:space="preserve" approved="yes">
+				<source>Align:</source>
+			<target state="translated">Alignement:</target></trans-unit>
+			<trans-unit id="header_position_formlabel" xml:space="preserve" approved="yes">
+				<source>Alignment</source>
+			<target state="translated">Alignement</target></trans-unit>
+			<trans-unit id="header_position.I.1" xml:space="preserve" approved="yes">
+				<source>Center</source>
+			<target state="translated">Centré</target></trans-unit>
+			<trans-unit id="header_position.I.2" xml:space="preserve" approved="yes">
+				<source>Right</source>
+			<target state="translated">Aligné à droite</target></trans-unit>
+			<trans-unit id="header_position.I.3" xml:space="preserve" approved="yes">
+				<source>Left</source>
+			<target state="translated">Aligné à gauche</target></trans-unit>
+			<trans-unit id="hidden_formlabel" xml:space="preserve" approved="yes">
+				<source>Content Element</source>
+			<target state="translated">Elément de contenu</target></trans-unit>
+			<trans-unit id="hidden.I.0" xml:space="preserve" approved="yes">
+				<source>Disable</source>
+			<target state="translated">Désactiver</target></trans-unit>
+			<trans-unit id="image_altText" xml:space="preserve" approved="yes">
+				<source>Alternative Text:</source>
+			<target state="translated">Texte alternatif:</target></trans-unit>
+			<trans-unit id="image.ALT.textbox_formlabel" xml:space="preserve" approved="yes">
+				<source>Image Files</source>
+			<target state="translated">Fichiers d'images</target></trans-unit>
+			<trans-unit id="imageborder" xml:space="preserve" approved="yes">
+				<source>Border:</source>
+			<target state="translated">Bordure:</target></trans-unit>
+			<trans-unit id="imageborder_formlabel" xml:space="preserve" approved="yes">
+				<source>Border</source>
+			<target state="translated">Bordure</target></trans-unit>
+			<trans-unit id="imagecaption.ALT.script" xml:space="preserve" approved="yes">
+				<source>Comments:</source>
+			<target state="translated">Commentaires:</target></trans-unit>
+			<trans-unit id="imagecaption.ALT.script_formlabel" xml:space="preserve" approved="yes">
+				<source>Comments</source>
+			<target state="translated">Commentaires</target></trans-unit>
+			<trans-unit id="imagecaption.ALT.uploads" xml:space="preserve" approved="yes">
+				<source>Descriptions:</source>
+			<target state="translated">Descriptions:</target></trans-unit>
+			<trans-unit id="imagecaption.ALT.uploads_formlabel" xml:space="preserve" approved="yes">
+				<source>File Descriptions (one per line)</source>
+			<target state="translated">Descriptions des fichiers (une par ligne)</target></trans-unit>
+			<trans-unit id="imagecaption_formlabel" xml:space="preserve" approved="yes">
+				<source>Captions (one per line)</source>
+			<target state="translated">Légendes (une par ligne)</target></trans-unit>
+			<trans-unit id="imagecaption_position" xml:space="preserve" approved="yes">
+				<source>Align:</source>
+			<target state="translated">Alignement:</target></trans-unit>
+			<trans-unit id="imagecaption_position_formlabel" xml:space="preserve" approved="yes">
+				<source>Caption Alignment</source>
+			<target state="translated">Alignement de la légende</target></trans-unit>
+			<trans-unit id="imagecaption_position.I.1" xml:space="preserve" approved="yes">
+				<source>Center</source>
+			<target state="translated">Centré</target></trans-unit>
+			<trans-unit id="imagecaption_position.I.2" xml:space="preserve" approved="yes">
+				<source>Right</source>
+			<target state="translated">Droite</target></trans-unit>
+			<trans-unit id="imagecaption_position.I.3" xml:space="preserve" approved="yes">
+				<source>Left</source>
+			<target state="translated">Gauche</target></trans-unit>
+			<trans-unit id="imagecols" xml:space="preserve" approved="yes">
+				<source>Columns:</source>
+			<target state="translated">Colonnes:</target></trans-unit>
+			<trans-unit id="imagecols_formlabel" xml:space="preserve" approved="yes">
+				<source>Number of Columns</source>
+			<target state="translated">Nombre de colonnes</target></trans-unit>
+			<trans-unit id="image_compression" xml:space="preserve" approved="yes">
+				<source>Image Quality/Processing:</source>
+			<target state="translated">Qualité d'image:</target></trans-unit>
+			<trans-unit id="image_compression_formlabel" xml:space="preserve" approved="yes">
+				<source>Quality and Type</source>
+			<target state="translated">Qualité et type</target></trans-unit>
+			<trans-unit id="image_compression.I.1" xml:space="preserve" approved="yes">
+				<source>None (ignores all other options)</source>
+			<target state="translated">Aucune (ignore toutes les autres options)</target></trans-unit>
+			<trans-unit id="image_compression.I.15" xml:space="preserve" approved="yes">
+				<source>JPG/Very High</source>
+			<target state="translated">JPG/Très haut</target></trans-unit>
+			<trans-unit id="image_compression.I.16" xml:space="preserve" approved="yes">
+				<source>JPG/High</source>
+			<target state="translated">JPG/Haut</target></trans-unit>
+			<trans-unit id="image_compression.I.17" xml:space="preserve" approved="yes">
+				<source>JPG/Medium</source>
+			<target state="translated">JPG/Moyen</target></trans-unit>
+			<trans-unit id="image_compression.I.18" xml:space="preserve" approved="yes">
+				<source>JPG/Low</source>
+			<target state="translated">JPG/Bas</target></trans-unit>
+			<trans-unit id="image_compression.I.19" xml:space="preserve" approved="yes">
+				<source>JPG/Very Low</source>
+			<target state="translated">JPG/Très bas</target></trans-unit>
+			<trans-unit id="image_effects" xml:space="preserve" approved="yes">
+				<source>Effects:</source>
+			<target state="translated">Effets:</target></trans-unit>
+			<trans-unit id="image_effects_formlabel" xml:space="preserve" approved="yes">
+				<source>Effect</source>
+			<target state="translated">Effet</target></trans-unit>
+			<trans-unit id="image_effects.I.0" xml:space="preserve" approved="yes">
+				<source>None</source>
+			<target state="translated">(Aucun)</target></trans-unit>
+			<trans-unit id="image_effects.I.1" xml:space="preserve" approved="yes">
+				<source>Rotate 90 CW</source>
+			<target state="translated">Rotation 90°</target></trans-unit>
+			<trans-unit id="image_effects.I.2" xml:space="preserve" approved="yes">
+				<source>Rotate -90 CCW</source>
+			<target state="translated">Rotation -90°</target></trans-unit>
+			<trans-unit id="image_effects.I.3" xml:space="preserve" approved="yes">
+				<source>Rotate 180</source>
+			<target state="translated">Rotation 180°</target></trans-unit>
+			<trans-unit id="image_effects.I.4" xml:space="preserve" approved="yes">
+				<source>Grayscale</source>
+			<target state="translated">Nuances de gris</target></trans-unit>
+			<trans-unit id="image_effects.I.5" xml:space="preserve" approved="yes">
+				<source>Sharpen</source>
+			<target state="translated">Aiguiser</target></trans-unit>
+			<trans-unit id="image_effects.I.6" xml:space="preserve" approved="yes">
+				<source>Normalize</source>
+			<target state="translated">Normaliser</target></trans-unit>
+			<trans-unit id="image_effects.I.7" xml:space="preserve" approved="yes">
+				<source>Contrast</source>
+			<target state="translated">Contraster</target></trans-unit>
+			<trans-unit id="image_effects.I.8" xml:space="preserve" approved="yes">
+				<source>Brighter</source>
+			<target state="translated">Eclaircir</target></trans-unit>
+			<trans-unit id="image_effects.I.9" xml:space="preserve" approved="yes">
+				<source>Darker</source>
+			<target state="translated">Obscurcir</target></trans-unit>
+			<trans-unit id="image_formlabel" xml:space="preserve" approved="yes">
+				<source>Images</source>
+			<target state="translated">Images</target></trans-unit>
+			<trans-unit id="image_frames" xml:space="preserve" approved="yes">
+				<source>Frames:</source>
+			<target state="translated">Cadres:</target></trans-unit>
+			<trans-unit id="image_frames_formlabel" xml:space="preserve" approved="yes">
+				<source>Graphical Frames</source>
+			<target state="translated">Cadres visuels</target></trans-unit>
+			<trans-unit id="image_frames.I.0" xml:space="preserve" approved="yes">
+				<source>(None)</source>
+			<target state="translated">(Aucun)</target></trans-unit>
+			<trans-unit id="image_frames.I.1" xml:space="preserve" approved="yes">
+				<source>Frame 1</source>
+			<target state="translated">Cadre 1</target></trans-unit>
+			<trans-unit id="image_frames.I.2" xml:space="preserve" approved="yes">
+				<source>Frame 2</source>
+			<target state="translated">Cadre 2</target></trans-unit>
+			<trans-unit id="image_frames.I.3" xml:space="preserve" approved="yes">
+				<source>Frame 3</source>
+			<target state="translated">Cadre 3</target></trans-unit>
+			<trans-unit id="image_frames.I.4" xml:space="preserve" approved="yes">
+				<source>Frame 4</source>
+			<target state="translated">Cadre 4</target></trans-unit>
+			<trans-unit id="image_frames.I.5" xml:space="preserve" approved="yes">
+				<source>Frame 5</source>
+			<target state="translated">Cadre 5</target></trans-unit>
+			<trans-unit id="image_frames.I.6" xml:space="preserve" approved="yes">
+				<source>Frame 6</source>
+			<target state="translated">Cadre 6</target></trans-unit>
+			<trans-unit id="image_frames.I.7" xml:space="preserve" approved="yes">
+				<source>Frame 7</source>
+			<target state="translated">Cadre 7</target></trans-unit>
+			<trans-unit id="image_frames.I.8" xml:space="preserve" approved="yes">
+				<source>Frame 8</source>
+			<target state="translated">Cadre 8</target></trans-unit>
+			<trans-unit id="imageheight" xml:space="preserve" approved="yes">
+				<source>Height (pixels):</source>
+			<target state="translated">Hauteur (pixels):</target></trans-unit>
+			<trans-unit id="imageheight_formlabel" xml:space="preserve" approved="yes">
+				<source>Height (px)</source>
+			<target state="translated">Hauteur (px)</target></trans-unit>
+			<trans-unit id="image_link" xml:space="preserve" approved="yes">
+				<source>Link:</source>
+			<target state="translated">Lien:</target></trans-unit>
+			<trans-unit id="image_link_formlabel" xml:space="preserve" approved="yes">
+				<source>Links (one per line, one link per image)</source>
+			<target state="translated">Liens (un par ligne, un lien par image)</target></trans-unit>
+			<trans-unit id="image_longdescURL" xml:space="preserve" approved="yes">
+				<source>Long Description URL:</source>
+			<target state="translated">URL de la description longue :</target></trans-unit>
+			<trans-unit id="image_noRows" xml:space="preserve" approved="yes">
+				<source>No Rows:</source>
+			<target state="translated">Pas de ligne:</target></trans-unit>
+			<trans-unit id="image_noRows_formlabel" xml:space="preserve" approved="yes">
+				<source>Display as Rows</source>
+			<target state="translated">Lignes horizontales</target></trans-unit>
+			<trans-unit id="image_noRows.I.0" xml:space="preserve" approved="yes">
+				<source>Deactivate</source>
+			<target state="translated">Désactiver</target></trans-unit>
+			<trans-unit id="imageorient" xml:space="preserve" approved="yes">
+				<source>Position:</source>
+			<target state="translated">Position:</target></trans-unit>
+			<trans-unit id="imageorient_formlabel" xml:space="preserve" approved="yes">
+				<source>Position and Alignment</source>
+			<target state="translated">Position et alignement</target></trans-unit>
+			<trans-unit id="imageorient.I.0" xml:space="preserve" approved="yes">
+				<source>Above, center</source>
+			<target state="translated">Dessus, centre</target></trans-unit>
+			<trans-unit id="imageorient.I.1" xml:space="preserve" approved="yes">
+				<source>Above, right</source>
+			<target state="translated">Dessus, droite</target></trans-unit>
+			<trans-unit id="imageorient.I.10" xml:space="preserve" approved="yes">
+				<source>Beside Text, Left</source>
+			<target state="translated">A côté du texte, gauche</target></trans-unit>
+			<trans-unit id="imageorient.I.2" xml:space="preserve" approved="yes">
+				<source>Above, left</source>
+			<target state="translated">Dessus, gauche</target></trans-unit>
+			<trans-unit id="imageorient.I.3" xml:space="preserve" approved="yes">
+				<source>Below, center</source>
+			<target state="translated">Dessous, centre</target></trans-unit>
+			<trans-unit id="imageorient.I.4" xml:space="preserve" approved="yes">
+				<source>Below, right</source>
+			<target state="translated">Dessous, droite</target></trans-unit>
+			<trans-unit id="imageorient.I.5" xml:space="preserve" approved="yes">
+				<source>Below, left</source>
+			<target state="translated">Dessous, gauche</target></trans-unit>
+			<trans-unit id="imageorient.I.6" xml:space="preserve" approved="yes">
+				<source>In text, right</source>
+			<target state="translated">Habillé, droite</target></trans-unit>
+			<trans-unit id="imageorient.I.7" xml:space="preserve" approved="yes">
+				<source>In text, left</source>
+			<target state="translated">Habillé, gauche</target></trans-unit>
+			<trans-unit id="imageorient.I.8" xml:space="preserve" approved="yes">
+				<source>__No wrap:__</source>
+			<target state="translated">__Pas de retour à la ligne:__</target></trans-unit>
+			<trans-unit id="imageorient.I.9" xml:space="preserve" approved="yes">
+				<source>Beside Text, Right</source>
+			<target state="translated">A côté du texte, droite</target></trans-unit>
+			<trans-unit id="images.addFileReference" xml:space="preserve" approved="yes">
+				<source>Add image</source>
+			<target state="translated">Ajouter une image</target></trans-unit>
+			<trans-unit id="image_titleText" xml:space="preserve" approved="yes">
+				<source>Title Text:</source>
+			<target state="translated">Titre (survol):</target></trans-unit>
+			<trans-unit id="imagewidth" xml:space="preserve" approved="yes">
+				<source>Width (pixels):</source>
+			<target state="translated">Largeur (pixels):</target></trans-unit>
+			<trans-unit id="imagewidth_formlabel" xml:space="preserve" approved="yes">
+				<source>Width (px)</source>
+			<target state="translated">Largeur (px)</target></trans-unit>
+			<trans-unit id="image_zoom" xml:space="preserve" approved="yes">
+				<source>Click-enlarge:</source>
+			<target state="translated">Cliquer pour agrandir:</target></trans-unit>
+			<trans-unit id="image_zoom_formlabel" xml:space="preserve" approved="yes">
+				<source>Enlarge on Click</source>
+			<target state="translated">Agrandissement lors du clic</target></trans-unit>
+			<trans-unit id="layout_formlabel" xml:space="preserve" approved="yes">
+				<source>Layout</source>
+			<target state="translated">Mise en page</target></trans-unit>
+			<trans-unit id="layout.I.1" xml:space="preserve" approved="yes">
+				<source>Layout 1</source>
+			<target state="translated">Disposition 1</target></trans-unit>
+			<trans-unit id="layout.I.2" xml:space="preserve" approved="yes">
+				<source>Layout 2</source>
+			<target state="translated">Disposition 2</target></trans-unit>
+			<trans-unit id="layout.I.3" xml:space="preserve" approved="yes">
+				<source>Layout 3</source>
+			<target state="translated">Disposition 3</target></trans-unit>
+			<trans-unit id="linkToTop" xml:space="preserve" approved="yes">
+				<source>To top:</source>
+			<target state="translated">Lien vers le haut:</target></trans-unit>
+			<trans-unit id="linkToTop_formlabel" xml:space="preserve" approved="yes">
+				<source>Append with Link to Top of Page</source>
+			<target state="translated">Ajouter un lien vers le haut de la page</target></trans-unit>
+			<trans-unit id="list_type" xml:space="preserve" approved="yes">
+				<source>Plugin:</source>
+			<target state="translated">Plugin:</target></trans-unit>
+			<trans-unit id="list_type_formlabel" xml:space="preserve" approved="yes">
+				<source>Selected Plugin</source>
+			<target state="translated">Plugin sélectionné</target></trans-unit>
+			<trans-unit id="longdescURL_formlabel" xml:space="preserve" approved="yes">
+				<source>Long Description URLs (one per line)</source>
+			<target state="translated">URLs des descriptions longues (une par ligne)</target></trans-unit>
+			<trans-unit id="media" xml:space="preserve" approved="yes">
+				<source>Files</source>
+			<target state="translated">Fichiers</target></trans-unit>
+			<trans-unit id="media.addFileReference" xml:space="preserve" approved="yes">
+				<source>Add file</source>
+			<target state="translated">Ajouter un fichier</target></trans-unit>
+			<trans-unit id="media.additionalOptions" xml:space="preserve" approved="yes">
+				<source>Additional Parameters</source>
+			<target state="translated">Options complémentaires</target></trans-unit>
+			<trans-unit id="media.alternativeContent" xml:space="preserve" approved="yes">
+				<source>Alternative Content</source>
+			<target state="translated">Contenu alternatif</target></trans-unit>
+			<trans-unit id="media.ALT.uploads_formlabel" xml:space="preserve" approved="yes">
+				<source>Select single files</source>
+			<target state="translated">Sélectionnez les fichiers</target></trans-unit>
+			<trans-unit id="media.audioDescription" xml:space="preserve" approved="yes">
+				<source>audio description for videos</source>
+			<target state="translated">description audio pour les vidéos</target></trans-unit>
+			<trans-unit id="media.audioFallbackUrl" xml:space="preserve" approved="yes">
+				<source>Path or URL to fallback audio source (Flash or QuickTime)</source>
+			<target state="translated">Chemin ou URL vers le fichier source de l'audio (Flash ou QuickTime)</target></trans-unit>
+			<trans-unit id="media.audioSources" xml:space="preserve" approved="yes">
+				<source>Audio sources for HTML5 &lt;audio&gt; element</source>
+			<target state="translated">Sources audio pour l'élément HTML5 &lt;audio&gt;</target></trans-unit>
+			<trans-unit id="media.browseUrlTitle" xml:space="preserve" approved="yes">
+				<source>Select File or URL</source>
+			<target state="translated">Sélectionnez un fichier ou une URL</target></trans-unit>
+			<trans-unit id="media.captionUrl" xml:space="preserve" approved="yes">
+				<source>Path or URL to captions file</source>
+			<target state="translated">Chemin ou URL du fichier de légendes</target></trans-unit>
+			<trans-unit id="media.dataAttributes" xml:space="preserve" approved="yes">
+				<source>Additional data-* Attributes for HTML5 video tag</source>
+			<target state="translated">Attributs data-* supplémentaires pour la balise HTML5 video</target></trans-unit>
+			<trans-unit id="media.dataAttributes.attributeName" xml:space="preserve" approved="yes">
+				<source>Name of attribute (without data-)</source>
+			<target state="translated">Nom de l'attribut (sans data-)</target></trans-unit>
+			<trans-unit id="media.dataAttributes.content" xml:space="preserve" approved="yes">
+				<source>Content</source>
+			<target state="translated">Contenu</target></trans-unit>
+			<trans-unit id="media.downloadFlash" xml:space="preserve" approved="yes">
+				<source>Click here to download the latest version.</source>
+			<target state="translated">Cliquez ici pour télécharger la dernière version.</target></trans-unit>
+			<trans-unit id="media.fallbackUrl" xml:space="preserve" approved="yes">
+				<source>Path or URL to fallback video source (Flash or QuickTime)</source>
+			<target state="translated">Chemin ou URL vers le fichier source de la vidéo (Flash ou QuickTime)</target></trans-unit>
+			<trans-unit id="media.forcePlayer" xml:space="preserve" approved="yes">
+				<source>Use Player (Flash only)</source>
+			<target state="translated">Utiliser un lecteur (Flash uniquement)</target></trans-unit>
+			<trans-unit id="media.height" xml:space="preserve" approved="yes">
+				<source>Media Height</source>
+			<target state="translated">Hauteur du média</target></trans-unit>
+			<trans-unit id="media.needFlashPlugin" xml:space="preserve" approved="yes">
+				<source>You need a Flash plugin to view this content.</source>
+			<target state="translated">Vous avez besoin d'un module complémentaire Flash pour voir ce contenu.</target></trans-unit>
+			<trans-unit id="media.noFile" xml:space="preserve" approved="yes">
+				<source>ERROR: Missing URL or File!</source>
+			<target state="translated">ERREUR : URL manquante ou fichier manquant</target></trans-unit>
+			<trans-unit id="media.options" xml:space="preserve" approved="yes">
+				<source>Media Options</source>
+			<target state="translated">Options du média</target></trans-unit>
+			<trans-unit id="media.params" xml:space="preserve" approved="yes">
+				<source>Media Parameter</source>
+			<target state="translated">Paramètres du média</target></trans-unit>
+			<trans-unit id="media.params.allowFullScreen" xml:space="preserve" approved="yes">
+				<source>Allow Fullscreen</source>
+			<target state="translated">Autoriser le plein écran</target></trans-unit>
+			<trans-unit id="media.params.allowScriptAccess" xml:space="preserve" approved="yes">
+				<source>Allow ScriptAccess</source>
+			<target state="translated">Autoriser l'accès aux scripts</target></trans-unit>
+			<trans-unit id="media.params.autoPlay" xml:space="preserve" approved="yes">
+				<source>AutoPlay</source>
+			<target state="translated">Démarrage automatique</target></trans-unit>
+			<trans-unit id="media.params.bgColor" xml:space="preserve" approved="yes">
+				<source>Background Color</source>
+			<target state="translated">Couleur de fond</target></trans-unit>
+			<trans-unit id="media.params.controlsAtStart" xml:space="preserve" approved="yes">
+				<source>Make controls visible when page loads</source>
+			<target state="translated">Rendre les commandes visibles au chargement de la page</target></trans-unit>
+			<trans-unit id="media.params.controlsBelow" xml:space="preserve" approved="yes">
+				<source>Display controls below video</source>
+			<target state="translated">Afficher les commandes sous la vidéo</target></trans-unit>
+			<trans-unit id="media.params.controlsHiding" xml:space="preserve" approved="yes">
+				<source>Hide controls when not over the video</source>
+			<target state="translated">Masquer la barre de contrôle lorsqu'ils ne sont pas sur la vidéo</target></trans-unit>
+			<trans-unit id="media.params.customEntry" xml:space="preserve" approved="yes">
+				<source>Custom Parameters</source>
+			<target state="translated">Paramètres personalisés</target></trans-unit>
+			<trans-unit id="media.params.customEntryLabel" xml:space="preserve" approved="yes">
+				<source>Enter flashvars, params or attributes</source>
+			<target state="translated">Libellés des paramètres personalisés (attributs, paramètres, variables...)</target></trans-unit>
+			<trans-unit id="media.params.defaultVolume" xml:space="preserve" approved="yes">
+				<source>Default volume</source>
+			<target state="translated">Volume par défaut</target></trans-unit>
+			<trans-unit id="media.params.loop" xml:space="preserve" approved="yes">
+				<source>Loop</source>
+			<target state="translated">Boucle</target></trans-unit>
+			<trans-unit id="media.params.off" xml:space="preserve" approved="yes">
+				<source>Off</source>
+			<target state="translated">Off</target></trans-unit>
+			<trans-unit id="media.params.on" xml:space="preserve" approved="yes">
+				<source>On</source>
+			<target state="translated">On</target></trans-unit>
+			<trans-unit id="media.params.option" xml:space="preserve" approved="yes">
+				<source>Option</source>
+			<target state="translated">Option</target></trans-unit>
+			<trans-unit id="media.params.preload" xml:space="preserve" approved="yes">
+				<source>Preload media</source>
+			<target state="translated">Pré-charger le média</target></trans-unit>
+			<trans-unit id="media.params.preview" xml:space="preserve" approved="yes">
+				<source>Preview Video</source>
+			<target state="translated">Prévisualisation de la vidéo</target></trans-unit>
+			<trans-unit id="media.params.quality" xml:space="preserve" approved="yes">
+				<source>Quality</source>
+			<target state="translated">Qualité</target></trans-unit>
+			<trans-unit id="media.params.setTo" xml:space="preserve" approved="yes">
+				<source>Set to</source>
+			<target state="translated">Paramétré à</target></trans-unit>
+			<trans-unit id="media.params.value" xml:space="preserve" approved="yes">
+				<source>Value</source>
+			<target state="translated">Valeur</target></trans-unit>
+			<trans-unit id="media.params.valueEntry" xml:space="preserve" approved="yes">
+				<source>Value Entry</source>
+			<target state="translated">Valeur de l'entrée</target></trans-unit>
+			<trans-unit id="media.previewImage" xml:space="preserve" approved="yes">
+				<source>Preview-Image for the Video (HTML5 only)</source>
+			<target state="translated">Image de prévisualisation pour la vidéo (HTML5 uniquement)</target></trans-unit>
+			<trans-unit id="media.renderType" xml:space="preserve" approved="yes">
+				<source>Render Type</source>
+			<target state="translated">Type de rendu</target></trans-unit>
+			<trans-unit id="media.renderType.auto" xml:space="preserve" approved="yes">
+				<source>Auto</source>
+			<target state="translated">Automatique</target></trans-unit>
+			<trans-unit id="media.renderType.embed" xml:space="preserve" approved="yes">
+				<source>Native HTML Embed Element</source>
+			<target state="translated">Elément HTML</target></trans-unit>
+			<trans-unit id="media.renderType.preferFlashOverHtml5" xml:space="preserve" approved="yes">
+				<source>Flash with fallback to HTML5 video/audio tag</source>
+			<target state="translated">Flash avec repli aux balises video/audio HTML5</target></trans-unit>
+			<trans-unit id="media.renderType.preferHtml5OverFlash" xml:space="preserve" approved="yes">
+				<source>HTML5 video/audio tag with fallback to Flash</source>
+			<target state="translated">Balise HTML5 video / audio de repli à Flash</target></trans-unit>
+			<trans-unit id="media.renderType.qt" xml:space="preserve" approved="yes">
+				<source>QuickTime Browser Plugin</source>
+			<target state="translated">Plugin QuickTime</target></trans-unit>
+			<trans-unit id="media.renderType.swf" xml:space="preserve" approved="yes">
+				<source>Flash Browser Plugin</source>
+			<target state="translated">Plugin Flash</target></trans-unit>
+			<trans-unit id="media.sources" xml:space="preserve" approved="yes">
+				<source>Video sources for HTML5 &lt;video&gt; element</source>
+			<target state="translated">Sources vidéo pour l'élément HTML5 &lt;video&gt;</target></trans-unit>
+			<trans-unit id="media.tabAudio" xml:space="preserve" approved="yes">
+				<source>Audio Element</source>
+			<target state="translated">Élément sonore</target></trans-unit>
+			<trans-unit id="media.tabVideo" xml:space="preserve" approved="yes">
+				<source>Video Element</source>
+			<target state="translated">Élément vidéo</target></trans-unit>
+			<trans-unit id="media.tabVideoAccessible" xml:space="preserve" approved="yes">
+				<source>HTML5 Additions</source>
+			<target state="translated">Ajouts en HTML5</target></trans-unit>
+			<trans-unit id="media.type" xml:space="preserve" approved="yes">
+				<source>Media Type</source>
+			<target state="translated">Type du média</target></trans-unit>
+			<trans-unit id="media.type.audio" xml:space="preserve" approved="yes">
+				<source>Audio</source>
+			<target state="translated">Audio</target></trans-unit>
+			<trans-unit id="media.type.video" xml:space="preserve" approved="yes">
+				<source>Video</source>
+			<target state="translated">Vidéo</target></trans-unit>
+			<trans-unit id="media.url" xml:space="preserve" approved="yes">
+				<source>Path or URL</source>
+			<target state="translated">Chemin relatif ou URL</target></trans-unit>
+			<trans-unit id="media.useHTML5" xml:space="preserve" approved="yes">
+				<source>HTML5 / accessible rendering</source>
+			<target state="translated">rendu HTML5 / accessible</target></trans-unit>
+			<trans-unit id="media.width" xml:space="preserve" approved="yes">
+				<source>Media Width</source>
+			<target state="translated">Largeur du média</target></trans-unit>
+			<trans-unit id="menu.ALT.accessibility_bypass_formlabel" xml:space="preserve" approved="yes">
+				<source>Add link to bypass navigation block</source>
+			<target state="translated">Ajouter un lien pour contourner le bloc de navigation</target></trans-unit>
+			<trans-unit id="menu.ALT.accessibility_bypass_text_formlabel" xml:space="preserve" approved="yes">
+				<source>Link text to bypass navigation block</source>
+			<target state="translated">Texte du lien pour contourner le bloc de navigation</target></trans-unit>
+			<trans-unit id="menu.ALT.accessibility_title_formlabel" xml:space="preserve" approved="yes">
+				<source>Menu block title</source>
+			<target state="translated">Titre du bloc du menu</target></trans-unit>
+			<trans-unit id="menu_type" xml:space="preserve" approved="yes">
+				<source>Menu Type</source>
+			<target state="translated">Type de menu</target></trans-unit>
+			<trans-unit id="menu_type_formlabel" xml:space="preserve" approved="yes">
+				<source>Menu Type</source>
+			<target state="translated">Type de menu</target></trans-unit>
+			<trans-unit id="menu_type.I.0" xml:space="preserve" approved="yes">
+				<source>Menu of selected pages</source>
+			<target state="translated">Menu des pages sélectionnées</target></trans-unit>
+			<trans-unit id="menu_type.I.1" xml:space="preserve" approved="yes">
+				<source>Menu of subpages of selected pages</source>
+			<target state="translated">Menu des sous-pages des pages sélectionnées</target></trans-unit>
+			<trans-unit id="menu_type.I.2" xml:space="preserve" approved="yes">
+				<source>Menu of subpages of selected pages including abstracts</source>
+			<target state="translated">Menu des sous-pages des pages sélectionnées, avec les résumés</target></trans-unit>
+			<trans-unit id="menu_type.I.3" xml:space="preserve" approved="yes">
+				<source>Menu of subpages of selected pages including sections</source>
+			<target state="translated">Menu des sous-pages des pages sélectionnées, avec les sections</target></trans-unit>
+			<trans-unit id="menu_type.I.4" xml:space="preserve" approved="yes">
+				<source>Sitemap</source>
+			<target state="translated">Plan du site</target></trans-unit>
+			<trans-unit id="menu_type.I.5" xml:space="preserve" approved="yes">
+				<source>Section index (page content marked for section menus)</source>
+			<target state="translated">Menu de section (Contenu de page marqué pour être inclus dans les menus de sections)</target></trans-unit>
+			<trans-unit id="menu_type.I.6" xml:space="preserve" approved="yes">
+				<source>Recently updated pages</source>
+			<target state="translated">Pages récemment mises à jour</target></trans-unit>
+			<trans-unit id="menu_type.I.7" xml:space="preserve" approved="yes">
+				<source>Related pages (based on keywords)</source>
+			<target state="translated">Pages en relation (basé sur les mots-clés)</target></trans-unit>
+			<trans-unit id="menu_type.I.8" xml:space="preserve" approved="yes">
+				<source>Sitemaps of selected pages</source>
+			<target state="translated">Plan du site des pages sélectionnées</target></trans-unit>
+			<trans-unit id="menu_type.I.categorized_content" xml:space="preserve" approved="yes">
+				<source>Content elements for selected categories</source>
+			<target state="translated">Éléments de contenu des catégories sélectionnées</target></trans-unit>
+			<trans-unit id="menu_type.I.categorized_pages" xml:space="preserve" approved="yes">
+				<source>Pages for selected categories</source>
+			<target state="translated">Pages des catégories sélectionnées</target></trans-unit>
+			<trans-unit id="multimedia" xml:space="preserve" approved="yes">
+				<source>File:</source>
+			<target state="translated">Fichier:</target></trans-unit>
+			<trans-unit id="multimedia_formlabel" xml:space="preserve" approved="yes">
+				<source>Selected Media File</source>
+			<target state="translated">Fichier média sélectionné</target></trans-unit>
+			<trans-unit id="pages.ALT.list_formlabel" xml:space="preserve" approved="yes">
+				<source>Record Storage Page</source>
+			<target state="translated">Page de stockage des enregistrements</target></trans-unit>
+			<trans-unit id="pages.ALT.login" xml:space="preserve" approved="yes">
+				<source>Send to Page:</source>
+			<target state="translated">Envoyer à la page:</target></trans-unit>
+			<trans-unit id="pages.ALT.loginform" xml:space="preserve" approved="yes">
+				<source>Selected pages: Target (1st), Frontend user container (2nd)</source>
+			<target state="translated">Pages sélectionnées : Page de destination (1ère), Page contenant les utilisateurs frontend (2e)</target></trans-unit>
+			<trans-unit id="pages.ALT.mailform" xml:space="preserve" approved="yes">
+				<source>Target Page</source>
+			<target state="translated">Page de destination</target></trans-unit>
+			<trans-unit id="pages.ALT.menu_formlabel" xml:space="preserve" approved="yes">
+				<source>Selected Pages</source>
+			<target state="translated">Pages sélectionnées</target></trans-unit>
+			<trans-unit id="pages.ALT.script_formlabel" xml:space="preserve" approved="yes">
+				<source>Starting Point for This Script</source>
+			<target state="translated">Point de départ du script</target></trans-unit>
+			<trans-unit id="pages.ALT.search" xml:space="preserve" approved="yes">
+				<source>Send to Page:</source>
+			<target state="translated">Envoyer à la page:</target></trans-unit>
+			<trans-unit id="pages.ALT.searchform" xml:space="preserve" approved="yes">
+				<source>Target page</source>
+			<target state="translated">Page de destination</target></trans-unit>
+			<trans-unit id="palette.access" xml:space="preserve" approved="yes">
+				<source>Publish Dates and Access Rights</source>
+			<target state="translated">Dates de publication et droits d'accès</target></trans-unit>
+			<trans-unit id="palette.frames" xml:space="preserve" approved="yes">
+				<source>Content Element Layout</source>
+			<target state="translated">Mise en page du contenu</target></trans-unit>
+			<trans-unit id="palette.general" xml:space="preserve" approved="yes">
+				<source>Content Element</source>
+			<target state="translated">Element de contenu</target></trans-unit>
+			<trans-unit id="palette.header" xml:space="preserve" approved="yes">
+				<source>Header</source>
+			<target state="translated">Titre</target></trans-unit>
+			<trans-unit id="palette.headers" xml:space="preserve" approved="yes">
+				<source>Headlines</source>
+			<target state="translated">Titres</target></trans-unit>
+			<trans-unit id="palette.image_accessibility" xml:space="preserve" approved="yes">
+				<source>Accessibility</source>
+			<target state="translated">Accessibilité</target></trans-unit>
+			<trans-unit id="palette.imageblock" xml:space="preserve" approved="yes">
+				<source>Image Alignment</source>
+			<target state="translated">Alignement des images</target></trans-unit>
+			<trans-unit id="palette.imagefiles" xml:space="preserve" approved="yes">
+				<source>Images and Captions</source>
+			<target state="translated">Images et légendes</target></trans-unit>
+			<trans-unit id="palette.imagelinks" xml:space="preserve" approved="yes">
+				<source>Behavior</source>
+			<target state="translated">Comportement</target></trans-unit>
+			<trans-unit id="palette.image_settings" xml:space="preserve" approved="yes">
+				<source>Image Adjustments</source>
+			<target state="translated">Ajustements aux images</target></trans-unit>
+			<trans-unit id="palette.loginform" xml:space="preserve" approved="yes">
+				<source>Redirect Target and Frontend User Container</source>
+			<target state="translated">Destination de la redirection et page contenant les utilisateurs frontend</target></trans-unit>
+			<trans-unit id="palette.mailform" xml:space="preserve" approved="yes">
+				<source>Target and Recipient</source>
+			<target state="translated">Cible et destinataire</target></trans-unit>
+			<trans-unit id="palette.menu" xml:space="preserve" approved="yes">
+				<source>Menu and Sitemap</source>
+			<target state="translated">Menu et plan du site</target></trans-unit>
+			<trans-unit id="palette.menu_accessibility" xml:space="preserve" approved="yes">
+				<source>Accessibility</source>
+			<target state="translated">Accessibilité</target><note>100%</note></trans-unit>
+			<trans-unit id="palette.multimediafiles" xml:space="preserve" approved="yes">
+				<source>Media Files and Parameters</source>
+			<target state="translated">Fichiers média et paramètres</target></trans-unit>
+			<trans-unit id="palette.searchform" xml:space="preserve" approved="yes">
+				<source>Search Results</source>
+			<target state="translated">Résultats de recherche</target></trans-unit>
+			<trans-unit id="palette.table_layout" xml:space="preserve" approved="yes">
+				<source>Table Layout</source>
+			<target state="translated">Mise en page du tableau</target></trans-unit>
+			<trans-unit id="palette.textbox" xml:space="preserve" approved="yes">
+				<source>Render Text into Images</source>
+			<target state="translated">Rendre le texte en images</target></trans-unit>
+			<trans-unit id="palette.textlayout" xml:space="preserve" approved="yes">
+				<source>Text Layout</source>
+			<target state="translated">Mise en page du texte</target></trans-unit>
+			<trans-unit id="palette.uploads_layout" xml:space="preserve" approved="yes">
+				<source>Filelinks Layout</source>
+			<target state="translated">Mise en page des liens vers des fichiers</target></trans-unit>
+			<trans-unit id="palette.visibility" xml:space="preserve" approved="yes">
+				<source>Visibility</source>
+			<target state="translated">Visibilité</target></trans-unit>
+			<trans-unit id="pi_flexform" xml:space="preserve" approved="yes">
+				<source>Plugin Options</source>
+			<target state="translated">Options du plugin</target></trans-unit>
+			<trans-unit id="records" xml:space="preserve" approved="yes">
+				<source>Items:</source>
+			<target state="translated">Eléments:</target></trans-unit>
+			<trans-unit id="records_formlabel" xml:space="preserve" approved="yes">
+				<source>Records</source>
+			<target state="translated">Enregistrements</target></trans-unit>
+			<trans-unit id="recursive.I.0" xml:space="preserve" approved="yes">
+				<source>0 levels (only selected page)</source>
+			<target state="translated">0 niveau (page courante uniquement)</target></trans-unit>
+			<trans-unit id="recursive.I.1" xml:space="preserve" approved="yes">
+				<source>1 level</source>
+			<target state="translated">1 niveau</target></trans-unit>
+			<trans-unit id="recursive.I.2" xml:space="preserve" approved="yes">
+				<source>2 levels</source>
+			<target state="translated">2 niveaux</target></trans-unit>
+			<trans-unit id="recursive.I.3" xml:space="preserve" approved="yes">
+				<source>3 levels</source>
+			<target state="translated">3 niveaux</target></trans-unit>
+			<trans-unit id="recursive.I.4" xml:space="preserve" approved="yes">
+				<source>4 levels</source>
+			<target state="translated">4 niveaux</target></trans-unit>
+			<trans-unit id="recursive.I.5" xml:space="preserve" approved="yes">
+				<source>Infinite</source>
+			<target state="translated">Illimité</target></trans-unit>
+			<trans-unit id="rte_enabled" xml:space="preserve" approved="yes">
+				<source>Disable Rich Text Editor:</source>
+			<target state="translated">Désactiver l'éditeur de texte avec mise en forme:</target></trans-unit>
+			<trans-unit id="rte_enabled_formlabel" xml:space="preserve" approved="yes">
+				<source>Rich Text Editor</source>
+			<target state="translated">Editeur de texte avec mise en forme</target></trans-unit>
+			<trans-unit id="rte_enabled.I.0" xml:space="preserve" approved="yes">
+				<source>Disable</source>
+			<target state="translated">Désactiver</target></trans-unit>
+			<trans-unit id="section_frame" xml:space="preserve" approved="yes">
+				<source>Frame:</source>
+			<target state="translated">Cadre:</target></trans-unit>
+			<trans-unit id="section_frame_formlabel" xml:space="preserve" approved="yes">
+				<source>Indentation and Frames</source>
+			<target state="translated">Indentation et cadres</target></trans-unit>
+			<trans-unit id="section_frame.I.1" xml:space="preserve" approved="yes">
+				<source>Invisible</source>
+			<target state="translated">Invisible</target></trans-unit>
+			<trans-unit id="section_frame.I.2" xml:space="preserve" approved="yes">
+				<source>Ruler Before</source>
+			<target state="translated">Règle avant</target></trans-unit>
+			<trans-unit id="section_frame.I.3" xml:space="preserve" approved="yes">
+				<source>Ruler After</source>
+			<target state="translated">Règle après</target></trans-unit>
+			<trans-unit id="section_frame.I.4" xml:space="preserve" approved="yes">
+				<source>Indent</source>
+			<target state="translated">Indenter</target></trans-unit>
+			<trans-unit id="section_frame.I.5" xml:space="preserve" approved="yes">
+				<source>Indent, 33/66%</source>
+			<target state="translated">Indenter, 33/66%</target></trans-unit>
+			<trans-unit id="section_frame.I.6" xml:space="preserve" approved="yes">
+				<source>Indent, 66/33%</source>
+			<target state="translated">Indenter, 66/33%</target></trans-unit>
+			<trans-unit id="section_frame.I.7" xml:space="preserve" approved="yes">
+				<source>Frame 1</source>
+			<target state="translated">Cadre 1</target></trans-unit>
+			<trans-unit id="section_frame.I.8" xml:space="preserve" approved="yes">
+				<source>Frame 2</source>
+			<target state="translated">Cadre 2</target></trans-unit>
+			<trans-unit id="sectionIndex" xml:space="preserve" approved="yes">
+				<source>Index:</source>
+			<target state="translated">Index:</target></trans-unit>
+			<trans-unit id="sectionIndex_formlabel" xml:space="preserve" approved="yes">
+				<source>Show in Section Menus</source>
+			<target state="translated">Afficher dans les menus de section.</target></trans-unit>
+			<trans-unit id="selected_categories" xml:space="preserve" approved="yes">
+				<source>Selected categories</source>
+			<target state="translated">Catégories sélectionnées</target></trans-unit>
+			<trans-unit id="select_key.ALT.script_formlabel" xml:space="preserve" approved="yes">
+				<source>PHP Code</source>
+			<target state="translated">Code PHP</target></trans-unit>
+			<trans-unit id="select_key.ALT.uploads" xml:space="preserve" approved="yes">
+				<source>Read from Path:</source>
+			<target state="translated">Lire depuis le chemin:</target></trans-unit>
+			<trans-unit id="select_key.ALT.uploads_formlabel" xml:space="preserve" approved="yes">
+				<source>Path</source>
+			<target state="translated">Chemin</target></trans-unit>
+			<trans-unit id="select_key_formlabel" xml:space="preserve" approved="yes">
+				<source>Plugin Mode</source>
+			<target state="translated">Mode du plugin</target></trans-unit>
+			<trans-unit id="spaceAfter" xml:space="preserve" approved="yes">
+				<source>After:</source>
+			<target state="translated">Après:</target></trans-unit>
+			<trans-unit id="spaceAfter_formlabel" xml:space="preserve" approved="yes">
+				<source>Bottom Margin</source>
+			<target state="translated">Marge inférieure</target></trans-unit>
+			<trans-unit id="spaceBefore" xml:space="preserve" approved="yes">
+				<source>Before:</source>
+			<target state="translated">Avant:</target></trans-unit>
+			<trans-unit id="spaceBefore_formlabel" xml:space="preserve" approved="yes">
+				<source>Top Margin</source>
+			<target state="translated">Marge supérieure</target></trans-unit>
+			<trans-unit id="splash_layout" xml:space="preserve" approved="yes">
+				<source>Textbox Type:</source>
+			<target state="translated">Type de Textbox:</target></trans-unit>
+			<trans-unit id="splash_layout_formlabel" xml:space="preserve" approved="yes">
+				<source>Type</source>
+			<target state="translated">Type</target></trans-unit>
+			<trans-unit id="splash_layout.I.1" xml:space="preserve" approved="yes">
+				<source>Image Shadow</source>
+			<target state="translated">Image ombrée</target></trans-unit>
+			<trans-unit id="splash_layout.I.2" xml:space="preserve" approved="yes">
+				<source>Image Frame 1</source>
+			<target state="translated">Image Cadre 1</target></trans-unit>
+			<trans-unit id="splash_layout.I.3" xml:space="preserve" approved="yes">
+				<source>Image Frame 2</source>
+			<target state="translated">Image Cadre 2</target></trans-unit>
+			<trans-unit id="splash_layout.I.4" xml:space="preserve" approved="yes">
+				<source>__Graphical:__</source>
+			<target state="translated">___Graphique:___</target></trans-unit>
+			<trans-unit id="splash_layout.I.5" xml:space="preserve" approved="yes">
+				<source>Postit 1</source>
+			<target state="translated">Post-it 1</target></trans-unit>
+			<trans-unit id="starttime_formlabel" xml:space="preserve" approved="yes">
+				<source>Publish Date</source>
+			<target state="translated">Date de début de publication</target></trans-unit>
+			<trans-unit id="subheader.ALT.mailform" xml:space="preserve" approved="yes">
+				<source>Recipient Email:</source>
+			<target state="translated">E-mail du destinataire:</target></trans-unit>
+			<trans-unit id="subheader.ALT.mailform_formlabel" xml:space="preserve" approved="yes">
+				<source>Recipient Email</source>
+			<target state="translated">E-mail du destinataire</target></trans-unit>
+			<trans-unit id="subheader_formlabel" xml:space="preserve" approved="yes">
+				<source>Subheader</source>
+			<target state="translated">Sous-titre</target></trans-unit>
+			<trans-unit id="sys_language_uid_formlabel" xml:space="preserve" approved="yes">
+				<source>Language</source>
+			<target state="translated">Langue</target></trans-unit>
+			<trans-unit id="table_bgColor" xml:space="preserve" approved="yes">
+				<source>Backgr. Color:</source>
+			<target state="translated">Couleur de fond:</target></trans-unit>
+			<trans-unit id="table_bgColor_formlabel" xml:space="preserve" approved="yes">
+				<source>Background color</source>
+			<target state="translated">Couleur de fond</target></trans-unit>
+			<trans-unit id="table_bgColor.I.1" xml:space="preserve" approved="yes">
+				<source>Color 1</source>
+			<target state="translated">Couleur 1</target></trans-unit>
+			<trans-unit id="table_bgColor.I.2" xml:space="preserve" approved="yes">
+				<source>Color 2</source>
+			<target state="translated">Couleur 2</target></trans-unit>
+			<trans-unit id="table_bgColor.I.3" xml:space="preserve" approved="yes">
+				<source>None</source>
+			<target state="translated">Aucune</target></trans-unit>
+			<trans-unit id="table_bgColor.I.5" xml:space="preserve" approved="yes">
+				<source>Black</source>
+			<target state="translated">Noir</target></trans-unit>
+			<trans-unit id="table_bgColor.I.6" xml:space="preserve" approved="yes">
+				<source>White</source>
+			<target state="translated">Blanc</target></trans-unit>
+			<trans-unit id="table_bgColor.I.7" xml:space="preserve" approved="yes">
+				<source>Dark Gray</source>
+			<target state="translated">Gris foncé</target></trans-unit>
+			<trans-unit id="table_bgColor.I.8" xml:space="preserve" approved="yes">
+				<source>Gray</source>
+			<target state="translated">Gris clair</target></trans-unit>
+			<trans-unit id="table_bgColor.I.9" xml:space="preserve" approved="yes">
+				<source>Silver</source>
+			<target state="translated">Argent</target></trans-unit>
+			<trans-unit id="table_border" xml:space="preserve" approved="yes">
+				<source>Border:</source>
+			<target state="translated">Bordure:</target></trans-unit>
+			<trans-unit id="table_border_formlabel" xml:space="preserve" approved="yes">
+				<source>Border Size (px)</source>
+			<target state="translated">Taille de la bordure (px)</target></trans-unit>
+			<trans-unit id="table_cellpadding" xml:space="preserve" approved="yes">
+				<source>Cellpadding:</source>
+			<target state="translated">Espacement inter cellules:</target></trans-unit>
+			<trans-unit id="table_cellpadding_formlabel" xml:space="preserve" approved="yes">
+				<source>Cellpadding (px)</source>
+			<target state="translated">Espacement à l'intérieur des cellules (px)</target></trans-unit>
+			<trans-unit id="table_cellspacing" xml:space="preserve" approved="yes">
+				<source>Cellspacing:</source>
+			<target state="translated">Espacement entre cellules:</target></trans-unit>
+			<trans-unit id="table_cellspacing_formlabel" xml:space="preserve" approved="yes">
+				<source>Cellspacing (px)</source>
+			<target state="translated">Espacement entre les cellules (px)</target></trans-unit>
+			<trans-unit id="tabs.access" xml:space="preserve" approved="yes">
+				<source>Access</source>
+			<target state="translated">Accès</target></trans-unit>
+			<trans-unit id="tabs.appearance" xml:space="preserve" approved="yes">
+				<source>Appearance</source>
+			<target state="translated">Apparence</target></trans-unit>
+			<trans-unit id="tabs.behaviour" xml:space="preserve" approved="yes">
+				<source>Behaviour</source>
+			<target state="translated">Comportement</target></trans-unit>
+			<trans-unit id="tabs.extended" xml:space="preserve" approved="yes">
+				<source>Extended</source>
+			<target state="translated">Etendu</target></trans-unit>
+			<trans-unit id="tabs.images" xml:space="preserve" approved="yes">
+				<source>Images</source>
+			<target state="translated">Images</target></trans-unit>
+			<trans-unit id="tabs.media" xml:space="preserve" approved="yes">
+				<source>Media</source>
+			<target state="translated">Média</target></trans-unit>
+			<trans-unit id="tabs.plugin" xml:space="preserve" approved="yes">
+				<source>Plugin</source>
+			<target state="translated">Plugin</target></trans-unit>
+			<trans-unit id="tabs.script" xml:space="preserve" approved="yes">
+				<source>Script</source>
+			<target state="translated">Script</target></trans-unit>
+			<trans-unit id="tabs.text" xml:space="preserve" approved="yes">
+				<source>Text</source>
+			<target state="translated">Texte</target></trans-unit>
+			<trans-unit id="target" xml:space="preserve" approved="yes">
+				<source>Target:</source>
+			<target state="translated">Cible:</target></trans-unit>
+			<trans-unit id="target.I.1" xml:space="preserve" approved="yes">
+				<source>New window</source>
+			<target state="translated">Nouvelle fenêtre</target></trans-unit>
+			<trans-unit id="titleText_formlabel" xml:space="preserve" approved="yes">
+				<source>Titles (one per line)</source>
+			<target state="translated">Titres au survol (un par ligne)</target></trans-unit>
+		</body>
+	</file>
+</xliff>

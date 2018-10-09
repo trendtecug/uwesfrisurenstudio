@@ -1,0 +1,14 @@
+plugin.tx_rlmpdateselectlib.calConf {
+	dateTimeFormat =
+	toolTipDateTimeFormat =
+	inputFieldDateTimeFormat = %y-%m-%d
+	weekStartsMonday = 0
+	weekend = 6,0
+	allowedYearMin = 1900
+	allowedYearMax = 2070
+	displayWeekNumbers = 1
+	showMethod = element
+	showPositionAbsolute = 0,0
+	stylesheet = EXT:rlmp_dateselectlib/calendar-system.css
+	inputFieldLabel = ...
+}

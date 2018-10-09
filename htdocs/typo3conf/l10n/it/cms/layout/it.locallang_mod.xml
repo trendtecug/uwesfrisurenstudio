@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="mlang_labels_tabdescr">Questo modulo permette di creare e modificare le pagine, visualizzare le statistiche di accesso, gestire il multilingua, le colonne di contenuti standard e i contenuti speciali, come il guestbook o i prodotti.</label>
+			<label index="mlang_labels_tablabel">Contenuto di pagina</label>
+			<label index="mlang_tabs_tab">Pagina</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="action-items">Элементы действия</label>
+			<label index="component-items">Элементы компонента</label>
+			<label index="detail">Подробно</label>
+			<label index="frame-frame1">Область с серым фоном</label>
+			<label index="frame-frame2">Область с желтым фоном</label>
+			<label index="important">Важно!</label>
+			<label index="name-of-person">Имя человека</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

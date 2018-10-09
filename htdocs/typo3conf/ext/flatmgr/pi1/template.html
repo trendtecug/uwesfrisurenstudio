@@ -1,0 +1,266 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<title>Flatmgr Template</title>
+</head>
+
+<body>
+
+******************************************************
+*                                                    *
+*           list template                            *
+*                                                    *
+******************************************************
+<!-- ###FLATLISTHEADER_TEMPLATE### begin -->
+	<!-- use this marker only in combination with extension flatmgrcalc -->
+	<!--<div class="orderBySelector">###ORDERBYSELECTORV###</div>-->
+	<!-- use this marker only in combination with flatmgrcalc -->
+
+	<div class="flatListCategory">###CATEGORYV###</div>
+<!-- ###FLATLISTHEADER_TEMPLATE### end -->
+
+<!-- ###FLATLIST_TEMPLATE### begin -->
+	<div class="flatListFlat">
+		<div class="flatName">###NAME### ###NAMEV###</div>
+		<div>###STREETV###</div>
+		<div>###ZIPV###</div>
+		<div>###CITYV###</div>
+		<div>###LIVINGSPACE### ###LIVINGSPACEV###</div>
+		<div>###LANDAREA### ###LANDAREAV###</div>
+		<div class="capacity">###CAPACITYV###</div>
+		<div>###CAPACITYTEXT### ###CAPACITYTEXTV###</div>
+		<div>###MINPRICE### ###MINPRICEV### ###MINPRICEUNIT###</div>
+
+	<!-- use this marker only in combination with extension flatmgrcalc -->
+		<div>###TOTALWEIGHTV### kg</div>
+		<div>###BOOKINGMINDAYSV### ###BOOKINGMINDAYS###</div>
+		<div>###BOOKINGMINDAYSWHITSUNV### ###BOOKINGMINDAYSWHITSUN###</div>
+		<div>###BOOKINGMINDAYSSUMMERV### ###BOOKINGMINDAYSSUMMER###</div>
+	<!-- use this marker only in combination with extension flatmgrcalc -->
+
+	</div>
+	<div class="flatImage">###PICV###</div>
+	<div class="clearer"></div>
+	<div class="attributes">###ATTRIBUTESV###</div>
+	<div class="specialList" style="display: ###SPECIALDISPLAYV###;">
+			<span>
+    			<img src="/fileadmin/includes/icons/special.gif"/>
+    		</span>
+    		<span>
+				<div class="specialListText" >###SPECIALV###</div>
+			</span>
+	</div>
+	<div>###DETAILLINKV###</div>
+	<hr />
+<!-- ###FLATLIST_TEMPLATE### end -->
+
+******************************************************
+*                                                    *
+*          simple list template                      *
+*                                                    *
+******************************************************
+<!-- ###FLATLISTSIMPLEHEADER_TEMPLATE### begin -->
+
+	<div class="flatSimpleListCategory">###CATEGORYV###</div>
+<!-- ###FLATLISTSIMPLEHEADER_TEMPLATE### end -->
+
+
+<!-- ###FLATLISTSIMPLE_TEMPLATE### begin -->
+	<div class="simpleFlatList">###DETAILLINKV###</div>
+<!-- ###FLATLISTSIMPLE_TEMPLATE### end -->
+
+******************************************************
+*                                                    *
+*           single template                          *
+*                                                    *
+******************************************************
+<!-- ###FLATSINGLE_TEMPLATE### begin -->
+	<div class="flatSingleFlat">
+		<div class="flatImage"><img src="###PICV###" /></div>
+		<div class="flatName">###NAME### <span id="fewoName">###NAMEV###</span></div>
+		<div>###STREETV###</div>
+		<div>###ZIPV###</div>
+		<div>###CITYV###</div>
+		<div>###LIVINGSPACE### ###LIVINGSPACEV###</div>
+		<div>###LANDAREA### ###LANDAREAV###</div>
+		<div>###CAPACITYTEXT### ###CAPACITYTEXTV###</div>
+		<div>###MINPRICE### ###MINPRICEV### ###MINPRICEUNIT###</div>
+
+		<!-- use this 6 markers only in combination with flatmgrcalc -->
+		<div class="flatmgrcalcSeason">###SEASONV###</div>
+		<div class="flatmgrcalcTotalWeight">###TOTALWEIGHTV### kg</div>
+		<div>###CALCULATORV###</div>
+		<div>###BOOKINGMINDAYSV### ###BOOKINGMINDAYS###</div>
+		<div>###BOOKINGMINDAYSWHITSUNV### ###BOOKINGMINDAYSWHITSUN###</div>
+		<div>###BOOKINGMINDAYSSUMMERV### ###BOOKINGMINDAYSSUMMER###</div>
+
+		<!-- use this 6 markers only in combination with flatmgrcalc -->
+
+		<div>###ATTRIBUTESV###</div>
+		<span class="specialSingle" style="display: ###SPECIALDISPLAYV###;">###SPECIALV###</span>
+		<div class="flatDescription">###DESCRIPTIONV###</div>
+
+		<div class="singleViewMap">###MAPV###</div>
+
+		<div class="gallery">###GALLERYV###</div>
+
+		<div class="video ###VIDEOCLASS###">###VIDEOV###</div>
+
+
+
+		<div class="prices">
+		    <div>###WEEKPRICES### ###YEARV###</div>
+		    <div class="###PEAKSEASONCLASS###">###PEAKSEASON###</div>
+		    <div class="###PEAKSEASONCLASS###">###PEAKSEASONDATESV###</div>
+		    <div class="###PEAKSEASONCLASS###">###PRICEPEAKSEASONV###</div>
+
+		    <div class="###LOWSEASONCLASS###">###LOWSEASON###</div>
+		    <div class="###LOWSEASONCLASS###">###LOWSEASONDATESV###</div>
+		    <div class="###LOWSEASONCLASS###">###PRICELOWSEASONV###</div>
+
+		    <div class="###SAVINGSEASONCLASS###">###SAVINGSEASON###</div>
+		    <div class="###SAVINGSEASONCLASS###">###SAVINGSEASONDATESV###</div>
+		    <div class="###SAVINGSEASONCLASS###">###PRICESAVINGSEASONV###</div>
+		</div>
+		<div class="arrivalDay">###ARRIVALDAY###</div>
+		<div class="arrivalDay">###ARRIVALDAYV###</div>
+
+		<div class="caution">###CAUTION###
+		<span class="caution">###CAUTIONV###</span></div>
+		<div class="endcleaning">###ADDITIONAL### ###PRICEENDCLEANINGV### ###ENDCLEANING###</div>
+		<div class="petsAllowed">###PETSALLOWED###</div>
+		<div class="singleViewFooter">###SINGLEVIEWFOOTER###</div>
+
+	</div>
+	<div class="clearer"></div>
+	<hr />
+<!-- ###FLATSINGLE_TEMPLATE### end -->
+
+<h2>ADMIN_TEMPLATE</h2>
+
+<!-- ###ADMIN_TEMPLATE### begin -->
+
+	<!-- ###FLATLIST_HEADER### begin -->
+	<div class="adminFlatListHeader">
+		<b>###FLATS###</b><hr />
+  	</div>
+    <!-- ###FLATLIST_HEADER### end -->
+
+	<!-- ###FLATLIST_DATA### begin -->
+	<div class="adminFlatListData">
+		###BOOKING_LINK###
+	</div>
+    <!-- ###FLATLIST_DATA### end -->
+
+	<!-- ###NEW_FLAT### begin -->
+	<div class="adminFlatListInput">
+		<form action="###PAGE_LINK###?tx_flatmgr_pi1[action]=insertFlat" method="post">
+		<input type="text" name="tx_flatmgr_pi1[name]" value="" title="###NAME_OF_THE_FLAT###"/>
+        <input type="text" name="tx_flatmgr_pi1[capacity]" maxlength="2" size="2" value="" title="###FLAT_CAPACITY###" />
+		<select name="tx_flatmgr_pi1[flatCategory]">
+		###FLAT_CATEGORIES###
+		</select>
+		<input type="hidden" name="tx_flatmgr_pi1[action]" value="insertFlat" />
+		<input class="flatmgrAdminBookingInput" type="submit" name="submitFlat" value="###INSERT_FLAT###" />
+		</form>
+		<hr />
+	</div>
+	<!-- ###NEW_FLAT### end -->
+
+
+
+	<!-- ###ROOMLIST_HEADER### begin -->
+	<div class="adminFlatListHeader">
+	<b>###ROOMSOF### ###FLAT###</b><hr />
+  	</div>
+    <!-- ###ROOMLIST_HEADER### end -->
+
+	<!-- ###ROOMLIST_DATA### begin -->
+	<div class="adminFlatListData">
+		###BOOKING_LINK###
+	</div>
+    <!-- ###ROOMLIST_DATA### end -->
+
+	<!-- ###NEW_ROOM### begin -->
+	<div class="adminFlatListInput">
+		<form action="###PAGE_LINK###?tx_flatmgr_pi1[action]=insertRoom" method="post">
+		<input type="hidden" name="tx_flatmgr_pi1[flatUid]" value="###FLATUID###"/>
+		<input type="text" name="tx_flatmgr_pi1[name]" value="" title="###NAME_OF_THE_ROOM###"/>
+        <input type="text" name="tx_flatmgr_pi1[capacity]" maxlength="2" size="2" value="" title="###ROOM_CAPACITY###" />
+		<input type="hidden" name="tx_flatmgr_pi1[action]" value="insertRoom" />
+		<input class="flatmgrAdminBookingInput" type="submit" name="submitRoom" value="###INSERT_ROOM###" />
+		</form>
+		<hr />
+	</div>
+	<!-- ###NEW_ROOM### end -->
+
+
+
+
+
+
+	<!-- ###BOOKING_HEADER### begin -->
+
+	<div class="adminBookingHeader">
+
+<!--
+		<b>###BOOKING_DATA_OF###
+		###FLATNAME###</b>
+-->
+	</div>
+    <!-- ###BOOKING_HEADER### end -->
+    
+	<!-- ###BOOKING_DATA### begin -->
+	<div class="adminBookingData">###BOOKING###</div>
+    <!-- ###BOOKING_DATA### end -->
+
+	<!-- ###MESSAGES_DATA### begin -->
+	<div class="bookingMessages">###MESSAGES###</div>
+    <!-- ###MESSAGES_DATA### end -->
+
+
+   	<!-- ###BOOKING_FOOTER### begin -->
+	<div class="adminBookingFooter">
+		###FOOTER###
+		<hr />
+	</div>
+    <!-- ###BOOKING_FOOTER### end -->
+
+	<!-- ###NEW_BOOKING### begin -->
+	<div class="adminBookingInput" style="padding-top: 10px;">
+		<form action="###PAGE_LINK###" name="newRecord" id="newRecord" method="post">
+		<!--
+		<input type="hidden" name="tx_flatmgr_pi1[flat]" value="###FLAT###" />
+		-->
+		<input type="hidden" name="tx_flatmgr_pi1[action]" value="insertBooking" />
+		###NEW_BOOKING_DATA###
+		</form>
+	</div>
+    <!-- ###NEW_BOOKING### end -->
+
+	<!-- ###REBOOKING### begin -->
+<!--	    </table> --><!-- end of booking data table -->
+	<div class="rebooking">
+		<div class="rebookingHeader">
+		    ###REBOOKINGHEADER### ###FROM### ###SDATE### ###TO### ###EDATE###
+		</div>
+		<div class="data">
+		<div class="customer">
+			<span class="title">###CUSTOMER###:</span> ###CUSTOMERV###
+		</div>
+		<div class="agent">
+			<span class="title">###AGENT###:</span> ###AGENTV###
+		</div>
+		</div>
+		<div class="rebookingForm">
+		    ###REBOOKINGFORM###
+		</div>
+	</div>
+    <!-- ###REBOOKING### end -->
+
+
+
+<!-- ###ADMIN_TEMPLATE### end -->
+</body>
+</html>

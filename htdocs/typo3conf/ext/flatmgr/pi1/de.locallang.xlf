@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2014-01-18T16:00:42Z" product-name="flatmgr">
+		<header/>
+		<body>
+			<trans-unit id="details" xml:space="preserve" approved="yes">
+				<source>details</source>
+				<target>Details</target>
+			</trans-unit>
+			<trans-unit id="vacantDay" xml:space="preserve" approved="yes">
+				<source>vacant day</source>
+				<target>frei</target>
+			</trans-unit>
+			<trans-unit id="vacant weekend" xml:space="preserve" approved="yes">
+				<source>vacant weekend</source>
+				<target>freies Wochenende</target>
+			</trans-unit>
+			<trans-unit id="bookedDay" xml:space="preserve" approved="yes">
+				<source>bookedDay</source>
+				<target>gebucht</target>
+			</trans-unit>
+			<trans-unit id="booked weekend" xml:space="preserve" approved="yes">
+				<source>booked weekend</source>
+				<target>gebuchtes Wochenende</target>
+			</trans-unit>
+			<trans-unit id="Jan" xml:space="preserve" approved="yes">
+				<source>January</source>
+				<target>Januar</target>
+			</trans-unit>
+			<trans-unit id="Feb" xml:space="preserve" approved="yes">
+				<source>February</source>
+				<target>Februar</target>
+			</trans-unit>
+			<trans-unit id="Mar" xml:space="preserve" approved="yes">
+				<source>March</source>
+				<target>März</target>
+			</trans-unit>
+			<trans-unit id="Apr" xml:space="preserve" approved="yes">
+				<source>April</source>
+				<target>April</target>
+			</trans-unit>
+			<trans-unit id="May" xml:space="preserve" approved="yes">
+				<source>May</source>
+				<target>Mai</target>
+			</trans-unit>
+			<trans-unit id="Jun" xml:space="preserve" approved="yes">
+				<source>June</source>
+				<target>Juni</target>
+			</trans-unit>
+			<trans-unit id="Jul" xml:space="preserve" approved="yes">
+				<source>July</source>
+				<target>Juli</target>
+			</trans-unit>
+			<trans-unit id="Aug" xml:space="preserve" approved="yes">
+				<source>August</source>
+				<target>August</target>
+			</trans-unit>
+			<trans-unit id="Sep" xml:space="preserve" approved="yes">
+				<source>September</source>
+				<target>September</target>
+			</trans-unit>
+			<trans-unit id="Oct" xml:space="preserve" approved="yes">
+				<source>October</source>
+				<target>Oktober</target>
+			</trans-unit>
+			<trans-unit id="Nov" xml:space="preserve" approved="yes">
+				<source>November</source>
+				<target>November</target>
+			</trans-unit>
+			<trans-unit id="Dec" xml:space="preserve" approved="yes">
+				<source>December</source>
+				<target>Dezember</target>
+			</trans-unit>
+			<trans-unit id="Sat" xml:space="preserve" approved="yes">
+				<source>S</source>
+				<target>S</target>
+			</trans-unit>
+			<trans-unit id="Sun" xml:space="preserve" approved="yes">
+				<source>S</source>
+				<target>S</target>
+			</trans-unit>
+			<trans-unit id="Mon" xml:space="preserve" approved="yes">
+				<source>M</source>
+				<target>M</target>
+			</trans-unit>
+			<trans-unit id="Tue" xml:space="preserve" approved="yes">
+				<source>T</source>
+				<target>D</target>
+			</trans-unit>
+			<trans-unit id="Wed" xml:space="preserve" approved="yes">
+				<source>W</source>
+				<target>M</target>
+			</trans-unit>
+			<trans-unit id="Thu" xml:space="preserve" approved="yes">
+				<source>T</source>
+				<target>D</target>
+			</trans-unit>
+			<trans-unit id="Fri" xml:space="preserve" approved="yes">
+				<source>F</source>
+				<target>F</target>
+			</trans-unit>
+			<trans-unit id="availableFlats" xml:space="preserve" approved="yes">
+				<source>vacation flats</source>
+				<target>Ferienwohnungen</target>
+			</trans-unit>
+			<trans-unit id="edit booking" xml:space="preserve" approved="yes">
+				<source>edit booking</source>
+				<target>Buchungen editieren</target>
+			</trans-unit>
+			<trans-unit id="bookingDataOf" xml:space="preserve" approved="yes">
+				<source>Booking data of flat </source>
+				<target>Buchungen der Ferienwohnung</target>
+			</trans-unit>
+			<trans-unit id="date from" xml:space="preserve" approved="yes">
+				<source> from </source>
+				<target>vom</target>
+			</trans-unit>
+			<trans-unit id="date to" xml:space="preserve" approved="yes">
+				<source> until </source>
+				<target>bis</target>
+			</trans-unit>
+			<trans-unit id="insert booking" xml:space="preserve" approved="yes">
+				<source>New booking</source>
+				<target>Neue Buchung</target>
+			</trans-unit>
+			<trans-unit id="insert flat" xml:space="preserve" approved="yes">
+				<source>New flat</source>
+				<target>Neue Ferienwohnung</target>
+			</trans-unit>
+			<trans-unit id="insert room" xml:space="preserve" approved="yes">
+				<source>New room</source>
+				<target>Neues Zimmer</target>
+			</trans-unit>
+			<trans-unit id="delete this booking record" xml:space="preserve" approved="yes">
+				<source>delete this booking record</source>
+				<target>Buchungsatz löschen</target>
+			</trans-unit>
+			<trans-unit id="to the bookings" xml:space="preserve" approved="yes">
+				<source>to the bookings</source>
+				<target>zu den Buchungen</target>
+			</trans-unit>
+			<trans-unit id="save record" xml:space="preserve" approved="yes">
+				<source>save record</source>
+				<target>speicher diesen Datensatz</target>
+			</trans-unit>
+			<trans-unit id="edit record" xml:space="preserve" approved="yes">
+				<source>edit record</source>
+				<target>editiere diesen Datensatz</target>
+			</trans-unit>
+			<trans-unit id="rebook record" xml:space="preserve" approved="yes">
+				<source>rebook record</source>
+				<target>Umbuchen</target>
+			</trans-unit>
+			<trans-unit id="delete record" xml:space="preserve" approved="yes">
+				<source>delete record</source>
+				<target>Lösche diesen Datensatz</target>
+			</trans-unit>
+			<trans-unit id="backToTheFlats" xml:space="preserve" approved="yes">
+				<source>back to the flats</source>
+				<target>Zurück zur Ferienwohnungsliste</target>
+			</trans-unit>
+			<trans-unit id="availabilityCheck" xml:space="preserve" approved="yes">
+				<source>availability check</source>
+				<target>Buchungsanfrage</target>
+			</trans-unit>
+			<trans-unit id="startOfBooking" xml:space="preserve" approved="yes">
+				<source>arrival</source>
+				<target>Anreise:</target>
+			</trans-unit>
+			<trans-unit id="endOfBooking" xml:space="preserve" approved="yes">
+				<source>departure</source>
+				<target>Abreise:</target>
+			</trans-unit>
+			<trans-unit id="allFlatCategories" xml:space="preserve" approved="yes">
+				<source>all categories</source>
+				<target>Alle</target>
+			</trans-unit>
+			<trans-unit id="flatCategory" xml:space="preserve" approved="yes">
+				<source>Category</source>
+				<target>Kategorie</target>
+			</trans-unit>
+			<trans-unit id="availableFlatsHeader" xml:space="preserve" approved="yes">
+				<source>Available Flats for the time </source>
+				<target>Verfügbare Ferienwohnung(en) für den Zeitraum</target>
+			</trans-unit>
+			<trans-unit id="availableFrom" xml:space="preserve" approved="yes">
+				<source>from: </source>
+				<target>vom</target>
+			</trans-unit>
+			<trans-unit id="availableTo" xml:space="preserve" approved="yes">
+				<source> to: </source>
+				<target>bis</target>
+			</trans-unit>
+			<trans-unit id="booked from" xml:space="preserve" approved="yes">
+				<source> Booked from: </source>
+				<target>gebucht von:</target>
+			</trans-unit>
+			<trans-unit id="no available flat" xml:space="preserve" approved="yes">
+				<source>No available flat(s) for the desired time available!</source>
+				<target>Keine Ferienwohnung(en) für den gewünschten Zeitraum verfügbar!</target>
+			</trans-unit>
+			<trans-unit id="nextVacantPeriod" xml:space="preserve" approved="yes">
+				<source> next vacant period</source>
+				<target>Nächste Buchungsmöglichkeit</target>
+			</trans-unit>
+			<trans-unit id="foreignFlats" xml:space="preserve" approved="yes">
+				<source>available flats of other sites</source>
+				<target>Weitere verfügbare Ferienwohnungen</target>
+			</trans-unit>
+			<trans-unit id="availableFlat" xml:space="preserve" approved="yes">
+				<source> available flat </source>
+				<target>Verfügbar</target>
+			</trans-unit>
+			<trans-unit id="availableForeignFlat" xml:space="preserve" approved="yes">
+				<source> available foreign flat </source>
+				<target>Extern Verfügbar</target>
+			</trans-unit>
+			<trans-unit id="available rooms" xml:space="preserve" approved="yes">
+				<source> available rooms</source>
+				<target>Zimmer</target>
+			</trans-unit>
+			<trans-unit id="nextForeignVacantPeriod" xml:space="preserve" approved="yes">
+				<source> next foreign vacant period</source>
+				<target>Nächste externe Buchungsmöglichkeit</target>
+			</trans-unit>
+			<trans-unit id="deleteFlatConfirmation" xml:space="preserve" approved="yes">
+				<source>Delete the data record of flat </source>
+				<target>Lösche den Datensatz der Ferienwohnung</target>
+			</trans-unit>
+			<trans-unit id="deleteRoomConfirmation" xml:space="preserve" approved="yes">
+				<source>Delete the data record </source>
+				<target>Lösche den Datensatz</target>
+			</trans-unit>
+			<trans-unit id="deleteBookingConfirmation" xml:space="preserve" approved="yes">
+				<source>Delete the data record of booking from </source>
+				<target>Lösche den Buchungsdatensatz vom</target>
+			</trans-unit>
+			<trans-unit id="overbooked" xml:space="preserve" approved="yes">
+				<source>overbooked </source>
+				<target>Tag überbucht</target>
+			</trans-unit>
+			<trans-unit id="bookingCalendar" xml:space="preserve" approved="yes">
+				<source>bookingCalendar</source>
+				<target>Buchungskalender</target>
+			</trans-unit>
+			<trans-unit id="booking request" xml:space="preserve" approved="yes">
+				<source>booking request</source>
+				<target>Buchungsanfrage</target>
+			</trans-unit>
+			<trans-unit id="utilisation calendar" xml:space="preserve" approved="yes">
+				<source>utilisation calendar</source>
+				<target>Auslastungskalender</target>
+			</trans-unit>
+			<trans-unit id="allFlats" xml:space="preserve" approved="yes">
+				<source>all flats</source>
+				<target>alle Ferienwohnungen</target>
+			</trans-unit>
+			<trans-unit id="toggle additional fields" xml:space="preserve" approved="yes">
+				<source>toggle additional fields</source>
+				<target>zusätzliche Felder</target>
+			</trans-unit>
+			<trans-unit id="customerNumber" xml:space="preserve" approved="yes">
+				<source>customernumber:</source>
+				<target>Kundennummer</target>
+			</trans-unit>
+			<trans-unit id="grownups" xml:space="preserve" approved="yes">
+				<source>number of grownups </source>
+				<target>Anzahl Erwachsene</target>
+			</trans-unit>
+			<trans-unit id="childs" xml:space="preserve" approved="yes">
+				<source>number of children</source>
+				<target>Anzahl Kinder</target>
+			</trans-unit>
+			<trans-unit id="memo" xml:space="preserve" approved="yes">
+				<source>memo</source>
+				<target>Memo</target>
+			</trans-unit>
+			<trans-unit id="agent" xml:space="preserve" approved="yes">
+				<source>Agent</source>
+				<target>Vermittler</target>
+			</trans-unit>
+			<trans-unit id="newBookingHeader" xml:space="preserve" approved="yes">
+				<source>Insert new booking</source>
+				<target>Neue Buchung erfassen</target>
+			</trans-unit>
+			<trans-unit id="newBookingInserted" xml:space="preserve" approved="yes">
+				<source>New booking inserted</source>
+				<target>Die neue Buchung wurde gespeichert</target>
+			</trans-unit>
+			<trans-unit id="bookingRecordDeleted" xml:space="preserve" approved="yes">
+				<source>Booking record has been deleted!</source>
+				<target>Der Buchungsdatensatz wurde gelöscht!</target>
+			</trans-unit>
+			<trans-unit id="category" xml:space="preserve" approved="yes">
+				<source>category</source>
+				<target>Kategorie</target>
+			</trans-unit>
+			<trans-unit id="bookedBy" xml:space="preserve" approved="yes">
+				<source>booked from</source>
+				<target>Gebucht von</target>
+			</trans-unit>
+			<trans-unit id="flatCapacity" xml:space="preserve" approved="yes">
+				<source>Capacity [persons]</source>
+				<target>Personenanzahl</target>
+			</trans-unit>
+			<trans-unit id="roomCapacity" xml:space="preserve" approved="yes">
+				<source>Capacity [persons]</source>
+				<target>Personenanzahl</target>
+			</trans-unit>
+			<trans-unit id="nameOfTheFlat" xml:space="preserve" approved="yes">
+				<source>Name of the flat</source>
+				<target>Name der Ferienwohnung</target>
+			</trans-unit>
+			<trans-unit id="nameOfTheRoom" xml:space="preserve" approved="yes">
+				<source>Name of the room</source>
+				<target>Zimmername</target>
+			</trans-unit>
+			<trans-unit id="rebook" xml:space="preserve" approved="yes">
+				<source>rebook</source>
+				<target>Umbuchen</target>
+			</trans-unit>
+			<trans-unit id="rebooking header" xml:space="preserve" approved="yes">
+				<source>Rebooking</source>
+				<target>Umbuchung der Buchung</target>
+			</trans-unit>
+			<trans-unit id="from" xml:space="preserve" approved="yes">
+				<source>from</source>
+				<target>vom</target>
+			</trans-unit>
+			<trans-unit id="to" xml:space="preserve" approved="yes">
+				<source>to</source>
+				<target>bis</target>
+			</trans-unit>
+			<trans-unit id="on" xml:space="preserve" approved="yes">
+				<source>on to</source>
+				<target>auf</target>
+			</trans-unit>
+			<trans-unit id="customer" xml:space="preserve" approved="yes">
+				<source>Customer</source>
+				<target>Kunde</target>
+			</trans-unit>
+			<trans-unit id="illegaleCharacters" xml:space="preserve" approved="yes">
+				<source>Illegale character in </source>
+				<target>Illegale Zeichen in </target>
+			</trans-unit>
+			<trans-unit id="room" xml:space="preserve" approved="yes">
+				<source>Room</source>
+				<target>Zimmer</target>
+			</trans-unit>
+			<trans-unit id="editRooms" xml:space="preserve" approved="yes">
+				<source>Edit rooms</source>
+				<target>Zimmer editieren</target>
+			</trans-unit>
+			<trans-unit id="roomsOf" xml:space="preserve" approved="yes">
+				<source>Rooms of </source>
+				<target>Zimmer von </target>
+			</trans-unit>
+			<trans-unit id="showRooms" xml:space="preserve" approved="yes">
+				<source>Show all rooms</source>
+				<target>Zeige alle Zimmer</target>
+			</trans-unit>
+			<trans-unit id="hideRooms" xml:space="preserve" approved="yes">
+				<source>HideRooms</source>
+				<target>Verberge zusätzliche Zimmer</target>
+			</trans-unit>
+			<trans-unit id="flatDetails" xml:space="preserve" approved="yes">
+				<source>Details</source>
+				<target>Details</target>
+			</trans-unit>
+			<trans-unit id="Flat" xml:space="preserve" approved="yes">
+				<source>Flat</source>
+				<target>Ferienwohnungen</target>
+			</trans-unit>
+			<trans-unit id="Bungalow" xml:space="preserve" approved="yes">
+				<source>Bungalow</source>
+				<target>Bungalows/Villen</target>
+			</trans-unit>
+			<trans-unit id="name" xml:space="preserve" approved="yes">
+				<source>Name</source>
+				<target>Name</target>
+			</trans-unit>
+			<trans-unit id="livingSpace" xml:space="preserve" approved="yes">
+				<source>Living space</source>
+				<target>Nutzfläche</target>
+			</trans-unit>
+			<trans-unit id="landArea" xml:space="preserve" approved="yes">
+				<source>Landarea</source>
+				<target>Grundstücksfläche</target>
+			</trans-unit>
+			<trans-unit id="capacityText" xml:space="preserve" approved="yes">
+				<source>Persons</source>
+				<target>Anzahl Personen</target>
+			</trans-unit>
+			<trans-unit id="Pool" xml:space="preserve" approved="yes">
+				<source>Swimmingpool</source>
+				<target>Pool</target>
+			</trans-unit>
+			<trans-unit id="Landing" xml:space="preserve" approved="yes">
+				<source>Landing</source>
+				<target>Bootsanlegeplatz</target>
+			</trans-unit>
+			<trans-unit id="PetsAllowed" xml:space="preserve" approved="yes">
+				<source>Pets on request</source>
+				<target>Haustiere auf Anfrage</target>
+			</trans-unit>
+			<trans-unit id="Beach" xml:space="preserve" approved="yes">
+				<source>Beach</source>
+				<target>Strand</target>
+			</trans-unit>
+			<trans-unit id="HandicappedAccessible" xml:space="preserve" approved="yes">
+				<source>Handicapped accessible</source>
+				<target>Behindertengerecht</target>
+			</trans-unit>
+			<trans-unit id="InternetWithCosts" xml:space="preserve" approved="yes">
+				<source>Internet with costs</source>
+				<target>kostenpflichtiges Internet</target>
+			</trans-unit>
+			<trans-unit id="InternetFree" xml:space="preserve" approved="yes">
+				<source>Internet without costs</source>
+				<target>Internet kostenfrei</target>
+			</trans-unit>
+			<trans-unit id="AirConditioner" xml:space="preserve" approved="yes">
+				<source>Airconditioner</source>
+				<target>Klimanalge</target>
+			</trans-unit>
+			<trans-unit id="AirConditionerWithCosts" xml:space="preserve" approved="yes">
+				<source>Airconditioner with costs</source>
+				<target>kostenpflichtige Klimaanlage</target>
+			</trans-unit>
+			<trans-unit id="minPrice" xml:space="preserve" approved="yes">
+				<source>from</source>
+				<target>ab</target>
+			</trans-unit>
+			<trans-unit id="minPriceUnit" xml:space="preserve" approved="yes">
+				<source>€/Week</source>
+				<target>€/Woche</target>
+			</trans-unit>
+			<trans-unit id="weekPrices" xml:space="preserve" approved="yes">
+				<source>Week prices</source>
+				<target>Wochenpreise</target>
+			</trans-unit>
+			<trans-unit id="peakseason" xml:space="preserve" approved="yes">
+				<source>Peakseason</source>
+				<target>Hauptsaison</target>
+			</trans-unit>
+			<trans-unit id="lowseason" xml:space="preserve" approved="yes">
+				<source>Lowseason</source>
+				<target>Zwischensaison</target>
+			</trans-unit>
+			<trans-unit id="savingseason" xml:space="preserve" approved="yes">
+				<source>Savingseason</source>
+				<target>Nebensaison</target>
+			</trans-unit>
+			<trans-unit id="areaUnit" xml:space="preserve" approved="yes">
+				<source> m²</source>
+				<target> m²</target>
+			</trans-unit>
+			<trans-unit id="arrivalDay" xml:space="preserve" approved="yes">
+				<source>Arrival day in peakseason</source>
+				<target>An- und Abreisetag während der Hauptsaison</target>
+			</trans-unit>
+			<trans-unit id="Fr" xml:space="preserve" approved="yes">
+				<source>Friday</source>
+				<target>Freitag</target>
+			</trans-unit>
+			<trans-unit id="Sa" xml:space="preserve" approved="yes">
+				<source>Saturday</source>
+				<target>Samstag</target>
+			</trans-unit>
+			<trans-unit id="Su" xml:space="preserve" approved="yes">
+				<source>Sunday</source>
+				<target>Sonntag</target>
+			</trans-unit>
+			<trans-unit id="caution" xml:space="preserve" approved="yes">
+				<source>Caution</source>
+				<target>Kaution in bar bei Anreise</target>
+			</trans-unit>
+			<trans-unit id="additional" xml:space="preserve" approved="yes">
+				<source>Additional</source>
+				<target>Zuzüglich</target>
+			</trans-unit>
+			<trans-unit id="endCleaning" xml:space="preserve" approved="yes">
+				<source>endcleaning</source>
+				<target>Endreinigung</target>
+			</trans-unit>
+			<trans-unit id="singleViewFooter" xml:space="preserve" approved="yes">
+				<source>bedlinen and towels is to be bring along or can be rented.
+Costs per person: Bedlinen 12 euro towel package 10 euro 
+baby-travel bed or childrens chair a`10.--/week
+or as &quot;baby-travel-package&quot; from our equipment
+with travel-bed/high chair and Buggy &quot;Quinny&quot;
+together 35.--/week
+
+more Services on order of request (pictures by service):
+GARMIN outdoor, Internet, BBQ
+			</source>
+				<target>Optionale Zusatzleistungen: Siehe unter Service.
+Die abgebildete Bettwäsche auf den Fotos sind Beispiele aus unserem anmietbaren Sortiment
+				</target>
+			</trans-unit>
+			<trans-unit id="onRequest" xml:space="preserve" approved="yes">
+				<source>On request</source>
+				<target>auf Anfrage</target>
+			</trans-unit>
+			<trans-unit id="noSpecials" xml:space="preserve" approved="yes">
+				<source>No Offers right now</source>
+				<target>Zu Zeit keine Angebote vorhanden</target>
+			</trans-unit>
+			<trans-unit id="backToList" xml:space="preserve" approved="yes">
+				<source>--&gt; Back to list</source>
+				<target>--&gt; Zurück zur Gesamtliste</target>
+			</trans-unit>
+			<trans-unit id="registeredCustomer" xml:space="preserve" approved="yes">
+				<source>Registered customer</source>
+				<target>Stammkundenrabatt 5%</target>
+			</trans-unit>
+			<trans-unit id="earlyBirdRebate1" xml:space="preserve" approved="yes">
+				<source>Early bird rebate1</source>
+				<target>Frühbucherrabatt (Buchung vor Februar 5%) </target>
+			</trans-unit>
+			<trans-unit id="earlyBirdRebate2" xml:space="preserve" approved="yes">
+				<source>Early bird rebate2</source>
+				<target>Frühbucherrabatt (Buchung vor März 3%)</target>
+			</trans-unit>
+			<trans-unit id="startOfCalculation" xml:space="preserve" approved="yes">
+				<source>Booking start</source>
+				<target>Buchungsbegin</target>
+			</trans-unit>
+			<trans-unit id="endOfCalculation" xml:space="preserve" approved="yes">
+				<source>Booking end</source>
+				<target>Buchungsende</target>
+			</trans-unit>
+			<trans-unit id="calculateNow" xml:space="preserve" approved="yes">
+				<source>Calculate now</source>
+				<target>Berechnen</target>
+			</trans-unit>
+			<trans-unit id="bookingNotAvailable" xml:space="preserve" approved="yes">
+				<source>Booking not available!</source>
+				<target>Buchung für diesen Zeitraum nicht verfügbar! Es existiert eine Buchung vom </target>
+			</trans-unit>
+			<trans-unit id="invalidDates" xml:space="preserve" approved="yes">
+				<source>Invalid dates</source>
+				<target>Ungültige Termine</target>
+			</trans-unit>
+			<trans-unit id="onlyOneEarlyBirdRebate" xml:space="preserve" approved="yes">
+				<source>Please select only one early bird rebate!</source>
+				<target>Bitte nur einen Frühbucherrabatt auswählen!</target>
+			</trans-unit>
+			<trans-unit id="flatmgrcalcPrice" xml:space="preserve" approved="yes">
+				<source>Total amount: </source>
+				<target>Gesamtpreis: </target>
+			</trans-unit>
+			<trans-unit id="storeClosed" xml:space="preserve" approved="yes">
+				<source>Store closed on saturday and sunday!</source>
+				<target>Geschäft am Samstag und Sonntag geschlossen!</target>
+			</trans-unit>
+			<trans-unit id="deliveryTitle" xml:space="preserve" approved="yes">
+				<source>Delivery</source>
+				<target>Übergabepauschale</target>
+			</trans-unit>
+			<trans-unit id="orderSelectorName" xml:space="preserve" approved="yes">
+				<source>Name</source>
+				<target>Name</target>
+			</trans-unit>
+			<trans-unit id="orderSelectorTotalWeight" xml:space="preserve" approved="yes">
+				<source>Total weight</source>
+				<target>zul. Gesamtgewicht</target>
+			</trans-unit>
+			<trans-unit id="orderSelectorCapacity" xml:space="preserve" approved="yes">
+				<source>Capacity</source>
+				<target>Personenanzahl</target>
+			</trans-unit>
+			<trans-unit id="orderSelectorMinPrice" xml:space="preserve" approved="yes">
+				<source>Price</source>
+				<target>Preis</target>
+			</trans-unit>
+			<trans-unit id="noSeasonDataAvailable" xml:space="preserve" approved="yes">
+				<source>No season data available for the selected year!</source>
+				<target>Keine Saisondaten für das gewählte Jahr verfügbar!</target>
+			</trans-unit>
+			<trans-unit id="pricePerDay" xml:space="preserve" approved="yes">
+				<source>&amp;euro;/Tag</source>
+				<target>&amp;euro;/Tag</target>
+			</trans-unit>
+			<trans-unit id="deliveryA" xml:space="preserve" approved="yes">
+				<source>Delivery A</source>
+				<target>Pauschale A</target>
+			</trans-unit>
+			<trans-unit id="deliveryB" xml:space="preserve" approved="yes">
+				<source>Delivery B</source>
+				<target>Pauschale B</target>
+			</trans-unit>
+			<trans-unit id="deliveryC" xml:space="preserve" approved="yes">
+				<source>Delivery C</source>
+				<target>Pauschale C</target>
+			</trans-unit>
+			<trans-unit id="tentOption" xml:space="preserve" approved="yes">
+				<source>book tent</source>
+				<target>Vorzelt buchen (99 €)</target>
+			</trans-unit>
+			<trans-unit id="flatmgrcalcOfficalPrice" xml:space="preserve" approved="yes">
+				<source>Price</source>
+				<target>Preis </target>
+			</trans-unit>
+			<trans-unit id="bookedNotEnoughDays" xml:space="preserve" approved="yes">
+				<source>Booked not enough days!</source>
+				<target>Mindestmietdauer unterschritten!</target>
+			</trans-unit>
+			<trans-unit id="bookedNotEnoughWhitsunDays" xml:space="preserve" approved="yes">
+				<source>Booked not enough whitsun days!</source>
+				<target>Mindestmietdauer für Pfingstenferien unterschritten!</target>
+			</trans-unit>
+			<trans-unit id="bookedNotEnoughSummerDays" xml:space="preserve" approved="yes">
+				<source>Booked not enough summer days!</source>
+				<target>Mindestmietdauer für Sommerferien unterschritten!</target>
+			</trans-unit>
+			<trans-unit id="bookingMinDays" xml:space="preserve" approved="yes">
+				<source>days min. booking</source>
+				<target>Tage Mindestmietdauer</target>
+			</trans-unit>
+			<trans-unit id="bookingMinDaysWhitsun" xml:space="preserve" approved="yes">
+				<source>days min. booking whitsun</source>
+				<target>Tage Mindestmietdauer Pfingstferien</target>
+			</trans-unit>
+			<trans-unit id="bookingMinDaysSummer" xml:space="preserve" approved="yes">
+				<source>days min. booking summer</source>
+				<target>Tage Mindestmietdauer Sommerferien</target>
+			</trans-unit>
+			<trans-unit id="lastMinuteRebate" xml:space="preserve" approved="yes">
+				<source>Last minute booking</source>
+				<target>Last minute Buchung</target>
+			</trans-unit>
+			<trans-unit id="noCleaningOutside" xml:space="preserve" approved="yes">
+				<source>without cleaning outside</source>
+				<target>Ohne Außenreinigung</target>
+			</trans-unit>
+			<trans-unit id="longTimeBookingRebate1" xml:space="preserve" approved="yes">
+				<source>Longtime booking rebate 21 days</source>
+				<target>Langzeit Buchungsrabatt 21 Tage</target>
+			</trans-unit>
+			<trans-unit id="longTimeBookingRebate2" xml:space="preserve" approved="yes">
+				<source>Longtime booking rebate 28 days</source>
+				<target>Langzeit Buchungsrabatt 28 Tage</target>
+			</trans-unit>
+			<trans-unit id="onlyOneLongTimeBookingRebate" xml:space="preserve" approved="yes">
+				<source>Only one longtime booking rebate</source>
+				<target>Nur ein Langzeitbuchungstrabatt möglich</target>
+			</trans-unit>
+			<trans-unit id="followUpBooking" xml:space="preserve" approved="yes">
+				<source>Follow up booking</source>
+				<target>Direkte Folgebuchung (10 € Rabatt, max. 1 Werktag Standzeit)</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

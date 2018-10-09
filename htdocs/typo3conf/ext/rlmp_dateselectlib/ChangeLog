@@ -1,0 +1,16 @@
+30.09.2008
+	# Fixed a bug which appeared in IE and Opera: the year jumped to next year when selected the next month. Thanks to all those who send in the report and fix!
+
+09.01.2007  Robert Lemke <robert@typo3.org>
+	+ Added french translation (thanks to Nicolas Garab�dian)
+
+16.08.2006	Roland Robelix Obermayer <roland@robelix.com>
+
+	I experienced some troubles with rlmp_dateselectlib if the render-charset is not the same as the local_lang charset - since the strings (month names...) are not converted.
+	In my case the language is german, charset is utf-8. This resulted in weird characters with firefox and a javascript-error in ie.
+
+	Modified version of the class with charset conversion.
+
+10.10.2005 Robert Lemke  <robert@typo3.org>
+
+	#	The $conf parameter at getInputButton now overrides the TS configuration like it should.

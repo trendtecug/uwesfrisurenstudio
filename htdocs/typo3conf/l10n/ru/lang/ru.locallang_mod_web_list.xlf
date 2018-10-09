@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T02:37:35Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="clip_deleteMarked" approved="yes">
+				<source>Delete marked</source>
+				<target state="translated">Удалить выделенные</target>
+			</trans-unit>
+			<trans-unit id="clip_deleteMarkedWarning" approved="yes">
+				<source>Are you sure you want to delete all marked records from the table '%s'?</source>
+				<target state="translated">Вы уверены, что хотите удалить все выделенные записи из таблицы '%s'</target>
+			</trans-unit>
+			<trans-unit id="clip_duplicates" approved="yes">
+				<source>Mark duplicates</source>
+				<target state="translated">Выделить дубликаты</target>
+			</trans-unit>
+			<trans-unit id="clip_editMarked" approved="yes">
+				<source>Edit marked</source>
+				<target state="translated">Редактировать выделенные</target>
+			</trans-unit>
+			<trans-unit id="clip_markRecords" approved="yes">
+				<source>Mark All/Mark none</source>
+				<target state="translated">Выделить все/Снять выделение</target>
+			</trans-unit>
+			<trans-unit id="clip_paste" approved="yes">
+				<source>Paste in clipboard content</source>
+				<target state="translated">Вставить содержимое Буфера обмена</target>
+			</trans-unit>
+			<trans-unit id="clip_pasteAfter" approved="yes">
+				<source>Paste after: Clipboard content is inserted after this record</source>
+				<target state="translated">Вставка после: вставить содержимое Буфера обмена после этой записи</target>
+			</trans-unit>
+			<trans-unit id="clip_pasteInto" approved="yes">
+				<source>Paste into: Clipboard content is inserted on this page</source>
+				<target state="translated">Вставка внутрь: вставить содержимое Буфера обмена в эту страницу</target>
+			</trans-unit>
+			<trans-unit id="clip_selectMarked" approved="yes">
+				<source>Transfer the selection of records to clipboard</source>
+				<target state="translated">Передать выбранные записи в Буфер обмена</target>
+			</trans-unit>
+			<trans-unit id="contractView" approved="yes">
+				<source>List all tables</source>
+				<target state="translated">Список всех таблиц</target>
+			</trans-unit>
+			<trans-unit id="defaultLanguage" approved="yes">
+				<source>Default</source>
+				<target state="translated">Стандартный</target>
+			</trans-unit>
+			<trans-unit id="delete" approved="yes">
+				<source>Delete record (!)</source>
+				<target state="translated">Удалить запись (!)</target>
+			</trans-unit>
+			<trans-unit id="deleteWarning" approved="yes">
+				<source>Are you sure you want to delete this record?</source>
+				<target state="translated">Вы действительно хотите удалить эту запись?</target>
+			</trans-unit>
+			<trans-unit id="displayVersions" approved="yes">
+				<source>Display versions</source>
+				<target state="translated">Показать версии</target>
+			</trans-unit>
+			<trans-unit id="edit" approved="yes">
+				<source>Edit record</source>
+				<target state="translated">Редактировать запись</target>
+			</trans-unit>
+			<trans-unit id="editPage" approved="yes">
+				<source>Edit page properties</source>
+				<target state="translated">Свойства страницы</target>
+			</trans-unit>
+			<trans-unit id="editShownColumns" approved="yes">
+				<source>Edit all shown fields of the listed records</source>
+				<target state="translated">Редактировать все поля перечисленных записей</target>
+			</trans-unit>
+			<trans-unit id="editThisColumn" approved="yes">
+				<source>Edit the '%s' field of the listed records</source>
+				<target state="translated">Редактировать поле '%s' перечисленных записей</target>
+			</trans-unit>
+			<trans-unit id="expandView" approved="yes">
+				<source>List only this table</source>
+				<target state="translated">Список только этих таблиц</target>
+			</trans-unit>
+			<trans-unit id="hide" approved="yes">
+				<source>Hide record</source>
+				<target state="translated">Сделать запись невидимой</target>
+			</trans-unit>
+			<trans-unit id="hidePage" approved="yes">
+				<source>Hide page</source>
+				<target state="translated">Сделать страницу невидимой</target>
+			</trans-unit>
+			<trans-unit id="history" approved="yes">
+				<source>Display change history / Un-do</source>
+				<target state="translated">Показать историю изменений / Отмена</target>
+			</trans-unit>
+			<trans-unit id="largeControl" approved="yes">
+				<source>Extended view</source>
+				<target state="translated">Расширенный вид</target>
+			</trans-unit>
+			<trans-unit id="localization" approved="yes">
+				<source>Localization view</source>
+				<target state="translated">Просмотр переводов</target>
+			</trans-unit>
+			<trans-unit id="Localize" approved="yes">
+				<source>Localize to:</source>
+				<target state="translated">Перевести на:</target>
+			</trans-unit>
+			<trans-unit id="missingTcaColumnsMessage" approved="no">
+				<source>Warning: No fields for table "%s" have been found. $TCA['%s']['columns'] does not contain the necessary definitions.</source>
+				<target state="needs-translation">Внимание: не найдено полей для таблицы "%s". $TCA['%s']['columns'] не содержит необходимых определений.</target>
+			</trans-unit>
+			<trans-unit id="missingTcaColumnsMessageTitle" approved="yes">
+				<source>Missing TCA definition</source>
+				<target state="translated">Ошибочное определение TCA</target>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tabdescr" approved="yes">
+				<source>The Web&gt;List module provides low level access to records appearing on a page.</source>
+				<target state="translated">Модуль Веб&gt;Список обеспечивает доступ к наиболее широкому количеству элементов и параметров страницы.</target>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tablabel" approved="yes">
+				<source>List of database-records</source>
+				<target state="translated">Список записей базы данных</target>
+			</trans-unit>
+			<trans-unit id="mlang_tabs_tab" approved="yes">
+				<source>List</source>
+				<target state="translated">Список</target>
+			</trans-unit>
+			<trans-unit id="moveDown" approved="yes">
+				<source>Move down in list</source>
+				<target state="translated">Переместить ниже по списку</target>
+			</trans-unit>
+			<trans-unit id="move_page" approved="yes">
+				<source>Move page</source>
+				<target state="translated">Переместить страницу</target>
+			</trans-unit>
+			<trans-unit id="move_record" approved="yes">
+				<source>Re-position content element</source>
+				<target state="translated">Перемещение записи</target>
+			</trans-unit>
+			<trans-unit id="moveUp" approved="yes">
+				<source>Move up in list</source>
+				<target state="translated">Переместить выше по списку</target>
+			</trans-unit>
+			<trans-unit id="multipleLanguages" approved="yes">
+				<source>All languages</source>
+				<target state="translated">Все языки</target>
+			</trans-unit>
+			<trans-unit id="new" approved="yes">
+				<source>New record</source>
+				<target state="translated">Создать запись</target>
+			</trans-unit>
+			<trans-unit id="newPage" approved="yes">
+				<source>Create new page after this page</source>
+				<target state="translated">Создать новую страницу после этой</target>
+			</trans-unit>
+			<trans-unit id="newRecord" approved="yes">
+				<source>Create new record after this record</source>
+				<target state="translated">Создать новую запись после этой</target>
+			</trans-unit>
+			<trans-unit id="newRecordGeneral" approved="yes">
+				<source>Create new record</source>
+				<target state="translated">Создать новую запись</target>
+			</trans-unit>
+			<trans-unit id="nextLevel" approved="yes">
+				<source>Move this page to be a subpage of the page above (Outwards)</source>
+				<target state="translated">Переместить эту страницу дальше от корня дерева (так, чтобы она стала подстраницей той страницы, которая сейчас в предыдущей строке списка)</target>
+			</trans-unit>
+			<trans-unit id="pageIndicator" approved="no">
+				<source>Page %1$s of %2$d</source>
+				<target state="needs-translation">Страница %1$s из %2$d</target>
+			</trans-unit>
+			<trans-unit id="permissions" approved="yes">
+				<source>Set permissions for page</source>
+				<target state="translated">Установить права доступа к странице</target>
+			</trans-unit>
+			<trans-unit id="prevLevel" approved="yes">
+				<source>Move this page to the position after the current parent page (Inwards)</source>
+				<target state="translated">Переместить страницу ближе к корню дерева (так, чтобы она располагалась сразу после страницы, которая сейчас является родительской)</target>
+			</trans-unit>
+			<trans-unit id="rangeIndicator" approved="no">
+				<source>Records %1$d - %2$d</source>
+				<target state="needs-translation">Записи %1$d - %2$d</target>
+			</trans-unit>
+			<trans-unit id="restore" approved="yes">
+				<source>Restore record</source>
+				<target state="translated">Восстановить запись</target>
+			</trans-unit>
+			<trans-unit id="restoreWarning" approved="yes">
+				<source>Are you sure you want to restore this record by reverting the delete status?</source>
+				<target state="translated">Вы действительно хотите восстановить удаленную запись?</target>
+			</trans-unit>
+			<trans-unit id="showClipBoard" approved="yes">
+				<source>Show clipboard</source>
+				<target state="translated">Показать Буфер обмена</target>
+			</trans-unit>
+			<trans-unit id="showInfo" approved="yes">
+				<source>Display information</source>
+				<target state="translated">Показать информацию</target>
+			</trans-unit>
+			<trans-unit id="unHide" approved="yes">
+				<source>Un-hide record</source>
+				<target state="translated">Сделать запись видимой</target>
+			</trans-unit>
+			<trans-unit id="unHidePage" approved="yes">
+				<source>Un-hide page</source>
+				<target state="translated">Сделать страницу видимой</target>
+			</trans-unit>
+			<trans-unit id="viewRecords" approved="yes">
+				<source>Viewing records of</source>
+				<target state="translated">Просмотр записей</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="tt_content.tx_cssstyledcontent_acctables">Accessibilité</label>
+			<label index="tt_content.tx_cssstyledcontent_acctables_caption">Légende du table</label>
+			<label index="tt_content.tx_cssstyledcontent_acctables_headerpos">Position de l'en-tête du tableau</label>
+			<label index="tt_content.tx_cssstyledcontent_acctables_headerpos.I.0">Pas d'en-tête</label>
+			<label index="tt_content.tx_cssstyledcontent_acctables_headerpos.I.1">Haut</label>
+			<label index="tt_content.tx_cssstyledcontent_acctables_headerpos.I.2">Gauche</label>
+			<label index="tt_content.tx_cssstyledcontent_acctables_nostyles">Pas de styles CSS pour ce tableau</label>
+			<label index="tt_content.tx_cssstyledcontent_acctables_summary">Résumé du tableau</label>
+			<label index="tt_content.tx_cssstyledcontent_acctables_tableclass">Classe CSS supplémentaire</label>
+			<label index="tt_content.tx_cssstyledcontent_acctables_tfoot">Utiliser les pieds du tableau (enveloppé la dernière ligne avec une balise &lt;tfoot&gt;)</label>
+			<label index="tt_content.tx_cssstyledcontent_section_frame.I.0">Cadre par défaut</label>
+			<label index="tt_content.tx_cssstyledcontent_section_frame.I.9">Pas de cadre</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing">Analyse CSV</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_delimiter">Délimiteur de champs</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_delimiter_colon">: (Deux points)</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_delimiter_comma">, (Virgule)</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_delimiter_pipe">| (Barre vertical)</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_delimiter_semicolon">; (Point virgule)</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_delimiter_tab">⇥ (Tabulation)</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_quote">Délimiteur de texte</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_quote_double">" (Guillemet double)</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_quote_none">Aucun</label>
+			<label index="tt_content.tx_cssstyledcontent_tableparsing_quote_single">' (Guillemet simple)</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

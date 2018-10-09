@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-29T04:55:11Z" product-name="version">
+		<header/>
+		<body>
+			<trans-unit id="allowPreviewOfWholeWorkspace" approved="yes">
+				<source>Allow preview of whole workspace</source>
+				<target state="translated">Autoriser les aperçus pour tous les espaces de travail</target>
+			</trans-unit>
+			<trans-unit id="approveAllToPublish" approved="yes">
+				<source>Approve all for Publishing</source>
+				<target state="translated">Autoriser tous les élements à être publiés.</target>
+			</trans-unit>
+			<trans-unit id="approveForPublishing" approved="yes">
+				<source>Approve for Publishing</source>
+				<target state="translated">Approuver pour publication</target>
+			</trans-unit>
+			<trans-unit id="approveToPublish" approved="yes">
+				<source>Approving %s item(s) to publishing. </source>
+				<target state="translated">Autoriser %s élement(s) à être publié(s).</target>
+			</trans-unit>
+			<trans-unit id="archive" approved="yes">
+				<source>Archive</source>
+				<target state="translated">Archive</target>
+			</trans-unit>
+			<trans-unit id="autopublishTask.description" approved="yes">
+				<source>This tasks checks any workspace that has a publication date set in the past and automatically publishes it.</source>
+				<target state="translated">Ces tâches vérifient, pour chaque espace de travail, la date de publication des contenus. Le contenu est automatiquement publié si la date est déjà passée.</target>
+			</trans-unit>
+			<trans-unit id="autopublishTask.name" approved="yes">
+				<source>Workspaces auto-publication</source>
+				<target state="translated">Auto-publication de l'espace de travail</target>
+			</trans-unit>
+			<trans-unit id="branch" approved="no">
+				<source> [Branch]</source>
+				<target state="needs-translation">[Branche]</target>
+			</trans-unit>
+			<trans-unit id="change" approved="yes">
+				<source>change:</source>
+				<target state="translated">changement:</target>
+			</trans-unit>
+			<trans-unit id="clickAPage_content" approved="yes">
+				<source>Please click a page in the pagetree frame to see the versioning module.</source>
+				<target state="translated">Merci de cliquer sur une page dans l'arborescence afin de gérer les différentes versions de la page</target>
+			</trans-unit>
+			<trans-unit id="clickAPage_header" approved="yes">
+				<source>Web&gt;Versioning module</source>
+				<target state="translated">Web&gt;Module de gestion de version</target>
+			</trans-unit>
+			<trans-unit id="cmdPid0" approved="yes">
+				<source>Page: Page + content</source>
+				<target state="translated">Page: Page + contenu</target>
+			</trans-unit>
+			<trans-unit id="cmdPid1" approved="yes">
+				<source>Element: Just record</source>
+				<target state="translated">Elément: seulement les données</target>
+			</trans-unit>
+			<trans-unit id="cmdPid100" approved="yes">
+				<source>Branch: All subpages</source>
+				<target state="translated">Branch: Toutes les sous-pages</target>
+			</trans-unit>
+			<trans-unit id="coloredDiffView">
+				<source>Colored diff-view</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="comment" approved="yes">
+				<source>Comment:</source>
+				<target state="translated">Commentaires :</target>
+			</trans-unit>
+			<trans-unit id="commentForPublisher" approved="yes">
+				<source>Comment for Publisher:</source>
+				<target state="translated">Commentaire pour l'éditeur</target>
+			</trans-unit>
+			<trans-unit id="commentForReviewer" approved="yes">
+				<source>Comment for Reviewer:</source>
+				<target state="translated">Commentaire pour le relecteur:</target>
+			</trans-unit>
+			<trans-unit id="completeMatch" approved="yes">
+				<source>Complete match on editable fields.</source>
+				<target state="translated">Correspondance complète sur les champs éditables.</target>
+			</trans-unit>
+			<trans-unit id="controls" approved="yes">
+				<source>Controls:</source>
+				<target state="translated">Options:</target>
+			</trans-unit>
+			<trans-unit id="createNewVersion" approved="yes">
+				<source>Create new version</source>
+				<target state="translated">Créer une nouvelle version</target>
+			</trans-unit>
+			<trans-unit id="currentOnlineVersion" approved="yes">
+				<source>CURRENT ONLINE VERSION!</source>
+				<target state="translated">VERSION COURANTE EN LIGNE!</target>
+			</trans-unit>
+			<trans-unit id="defaultDraft" approved="yes">
+				<source>[Default Draft]</source>
+				<target state="translated">[Brouillon par défaut]</target>
+			</trans-unit>
+			<trans-unit id="deletedElement" approved="yes">
+				<source>Deleted element</source>
+				<target state="translated">Élément supprimé</target>
+			</trans-unit>
+			<trans-unit id="diff" approved="yes">
+				<source>Diff</source>
+				<target state="translated">Comparaison de version</target>
+			</trans-unit>
+			<trans-unit id="diffing" approved="yes">
+				<source>DIFFING</source>
+				<target state="translated">Comparaison de version</target>
+			</trans-unit>
+			<trans-unit id="diffToLiveElement" approved="yes">
+				<source>Difference to live element:</source>
+				<target state="translated">Différence avec l'élément en ligne:</target>
+			</trans-unit>
+			<trans-unit id="draft" approved="yes">
+				<source>Draft</source>
+				<target state="translated">Brouillon</target>
+			</trans-unit>
+			<trans-unit id="draftWorkspaces" approved="yes">
+				<source>Draft Workspaces</source>
+				<target state="translated">Espace de travail Brouillon</target>
+			</trans-unit>
+			<trans-unit id="editing" approved="yes">
+				<source>Editing</source>
+				<target state="translated">Edition</target>
+			</trans-unit>
+			<trans-unit id="element" approved="no">
+				<source> [Element]</source>
+				<target state="needs-translation">[Elément]</target>
+			</trans-unit>
+			<trans-unit id="errorDiffSources" approved="yes">
+				<source>ERROR: You didn't select two sources for diffing!</source>
+				<target state="translated">ERREUR: Vous n'avez pas sélectionné deux sources pour pouvoir les comparer</target>
+			</trans-unit>
+			<trans-unit id="errorRecordsNotFound" approved="yes">
+				<source>ERROR: Records could strangely not be found!</source>
+				<target state="translated">ERREUR: Les enregistrements ne peuvent pas être trouvés!</target>
+			</trans-unit>
+			<trans-unit id="errors" approved="yes">
+				<source>Errors:</source>
+				<target state="translated">Erreurs :</target>
+			</trans-unit>
+			<trans-unit id="fieldname" approved="yes">
+				<source>Fieldname</source>
+				<target state="translated">Nom du champ</target>
+			</trans-unit>
+			<trans-unit id="filter_all" approved="yes">
+				<source>All</source>
+				<target state="translated">Tous</target>
+			</trans-unit>
+			<trans-unit id="filter_archive" approved="yes">
+				<source>Archive</source>
+				<target state="translated">Archive</target>
+			</trans-unit>
+			<trans-unit id="filter_drafts" approved="yes">
+				<source>Drafts</source>
+				<target state="translated">Brouillons</target>
+			</trans-unit>
+			<trans-unit id="goBack" approved="yes">
+				<source>Click here to go back</source>
+				<target state="translated">Cliquez ici pour revenir en arrière</target>
+			</trans-unit>
+			<trans-unit id="lifecycle" approved="yes">
+				<source>Lifecycle</source>
+				<target state="translated">Cycle de vie</target>
+			</trans-unit>
+			<trans-unit id="live" approved="yes">
+				<source>LIVE</source>
+				<target state="translated">EN DIRECT</target>
+			</trans-unit>
+			<trans-unit id="liveVersion" approved="yes">
+				<source>Live Version:</source>
+				<target state="translated">Version en cours:</target>
+			</trans-unit>
+			<trans-unit id="liveWorkspace" approved="yes">
+				<source>[Live workspace]</source>
+				<target state="translated">[Espace de travail en direct]</target>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tabdescr" approved="yes">
+				<source>The Web&gt;Versioning module provides access to versioning features for the page tree.</source>
+				<target state="translated">Le module Web &gt; Versionnement propose l'accès à des fonctionnalités de versionnement pour l'arborescence des pages.</target>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tablabel" approved="yes">
+				<source>Page and content versioning and workspace management for pages.</source>
+				<target state="translated">Outil de gestion de version et d'espace de travail pour les pages.</target>
+			</trans-unit>
+			<trans-unit id="mlang_tabs_tab" approved="yes">
+				<source>Versioning</source>
+				<target state="translated">Gestion de version</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="moveToPlaceholder" approved="yes">
+				<source>Move-to placeholder (destination)</source>
+				<target state="translated">Déplacer dans votre espace réservé (but)</target>
+			</trans-unit>
+			<trans-unit id="moveToPointer">
+				<source>Move-to pointer (source)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="multipleVersions" approved="yes">
+				<source>Multiple versions in same workspace!</source>
+				<target state="translated">Nombreuses versions dans le même espace de travail !</target>
+			</trans-unit>
+			<trans-unit id="newElement" approved="yes">
+				<source>New element</source>
+				<target state="translated">Nouvel élément</target>
+			</trans-unit>
+			<trans-unit id="notAvailable" approved="yes">
+				<source>N/A</source>
+				<target state="translated">N/A</target>
+			</trans-unit>
+			<trans-unit id="offline" approved="yes">
+				<source>[Offline]</source>
+				<target state="translated">[Hors ligne]</target>
+			</trans-unit>
+			<trans-unit id="otherVersions" approved="yes">
+				<source>Other version(s) in workspace </source>
+				<target state="translated">Autre(s) version(s) dans l'espace de travail</target>
+			</trans-unit>
+			<trans-unit id="page" approved="no">
+				<source> [Page]</source>
+				<target state="needs-translation">[Page]</target>
+			</trans-unit>
+			<trans-unit id="previewInstruction" approved="yes">
+				<source>You can preview this page from the workspace using this link for the next %s hours (does not require backend login):</source>
+				<target state="translated">Vous pouvez obtenir un aperçu de la page dans votre espace de travail en utilisant ce lien pour les prochaines %s heures (ne requiert pas de connexion au back-office)</target>
+			</trans-unit>
+			<trans-unit id="previewLink" approved="yes">
+				<source>Preview Link</source>
+				<target state="translated">Lien de prévisualisation</target>
+			</trans-unit>
+			<trans-unit id="previewUrl" approved="yes">
+				<source>Preview Url:</source>
+				<target state="translated">Url de prévisualisation:</target>
+			</trans-unit>
+			<trans-unit id="publish" approved="yes">
+				<source>Publish</source>
+				<target state="translated">Publier</target>
+			</trans-unit>
+			<trans-unit id="publishedXTimes" approved="yes">
+				<source>Published %s times</source>
+				<target state="translated">Publié %s fois</target>
+			</trans-unit>
+			<trans-unit id="publishPage" approved="yes">
+				<source>Publish Page</source>
+				<target state="translated">Publier la page</target>
+			</trans-unit>
+			<trans-unit id="publishPageQuestion" approved="yes">
+				<source>Are you sure you want to publish all content %sfrom this page?</source>
+				<target state="translated">Êtes-vous sûr de vouloir publier tous les contenus %s provenant de cette page ?</target>
+			</trans-unit>
+			<trans-unit id="publishPageQuestionStage" approved="no">
+				<source>in "Publish" stage </source>
+				<target state="needs-translation">en état "Publié"</target>
+			</trans-unit>
+			<trans-unit id="recordsMatchesCompletely" approved="yes">
+				<source>Records matches completely on all editable fields!</source>
+				<target state="translated">Les enregistrements correspondent exactement sur tous les champs éditables !</target>
+			</trans-unit>
+			<trans-unit id="refresh" approved="yes">
+				<source>Refresh</source>
+				<target state="translated">Actualiser</target>
+			</trans-unit>
+			<trans-unit id="rejected" approved="yes">
+				<source>Rejected</source>
+				<target state="translated">Rejeté</target>
+			</trans-unit>
+			<trans-unit id="rejectExplain" approved="yes">
+				<source>Please explain why you reject:</source>
+				<target state="translated">Merci d'expliquer pourquoi vous avez rejeté:</target>
+			</trans-unit>
+			<trans-unit id="removeFromWorkspace" approved="yes">
+				<source>Remove from workspace</source>
+				<target state="translated">Supprimer de l'espace de travail</target>
+			</trans-unit>
+			<trans-unit id="resetStage" approved="yes">
+				<source>Reset stage</source>
+				<target state="translated">État de réinitialisation</target>
+			</trans-unit>
+			<trans-unit id="review" approved="yes">
+				<source>Review</source>
+				<target state="translated">Relecture</target>
+			</trans-unit>
+			<trans-unit id="sendAllToReview" approved="yes">
+				<source>Send all to Review</source>
+				<target state="translated">Envoyer tout en relecture</target>
+			</trans-unit>
+			<trans-unit id="sendItemsToReview" approved="yes">
+				<source>Sending %s item(s) to review. </source>
+				<target state="translated">Envoi de %s élément(s) pour relecture.</target>
+			</trans-unit>
+			<trans-unit id="sendToReview" approved="yes">
+				<source>Send to Review</source>
+				<target state="translated">Envoyer en relecture</target>
+			</trans-unit>
+			<trans-unit id="showAllInformation" approved="yes">
+				<source>Show all information</source>
+				<target state="translated">Afficher toutes les informations</target>
+			</trans-unit>
+			<trans-unit id="showDiffView" approved="yes">
+				<source>Show difference view</source>
+				<target state="translated">Voir les différentes vues</target>
+			</trans-unit>
+			<trans-unit id="showLog" approved="yes">
+				<source>Show Log</source>
+				<target state="translated">Voir les log</target>
+			</trans-unit>
+			<trans-unit id="stage.approvedForPublish" approved="yes">
+				<source>approved for "Publish"</source>
+				<target state="translated">approuver pour "Publication"</target>
+			</trans-unit>
+			<trans-unit id="stage.rejectedElement" approved="yes">
+				<source>rejected element!</source>
+				<target state="translated">élément rejeté!</target>
+			</trans-unit>
+			<trans-unit id="stage.resetToEdit" approved="yes">
+				<source>reset to "Editing"</source>
+				<target state="translated">Réinitialiser en "Edition"</target>
+			</trans-unit>
+			<trans-unit id="stage.sentToReview" approved="yes">
+				<source>sent element to "Review"</source>
+				<target state="translated">Envoyer ces éléments en "Relecture"</target>
+			</trans-unit>
+			<trans-unit id="stage.undefined" approved="yes">
+				<source>[undefined]</source>
+				<target state="translated">[indéfini]</target>
+			</trans-unit>
+			<trans-unit id="subElements" approved="yes">
+				<source>[Sub elements]</source>
+				<target state="translated">[Sous-éléments]</target>
+			</trans-unit>
+			<trans-unit id="subElementsClick" approved="yes">
+				<source>[Sub elements, click for details]</source>
+				<target state="translated">[Sous-éléments, cliquez pour plus de détails]</target>
+			</trans-unit>
+			<trans-unit id="swap" approved="yes">
+				<source>Swap</source>
+				<target state="translated">Echanger</target>
+			</trans-unit>
+			<trans-unit id="swapPage" approved="yes">
+				<source>Swap page</source>
+				<target state="translated">Changer la page</target>
+			</trans-unit>
+			<trans-unit id="swapPageQuestion" approved="yes">
+				<source>Are you sure you want to publish (swap) all content %sfrom this page?</source>
+				<target state="translated">Êtes-vous sûr de vouloir échanger tous les contenus %s provenant de cette page ?</target>
+			</trans-unit>
+			<trans-unit id="swapWithCurrent" approved="yes">
+				<source>SWAP with current</source>
+				<target state="translated">Echanger avec la version courante</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_pid" approved="yes">
+				<source>Page ID</source>
+				<target state="translated">ID de la page</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_t3ver_count" approved="yes">
+				<source>t3ver_count - Life cycle counter. Incremented each time element is unpublished.</source>
+				<target state="translated">t3ver_count - Compteur des cycles de vie. Incrémenté chaque fois qu'un élément n'est pas publié.</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_t3ver_id" approved="yes">
+				<source>t3ver_id - Version number, incremental integer</source>
+				<target state="translated">t3ver_id - Numéro de version, entier incrémental</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_t3ver_label" approved="yes">
+				<source>Label</source>
+				<target state="translated">Etiquette</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_t3ver_oid" approved="yes">
+				<source>t3ver_oid - Reference to live version UID</source>
+				<target state="translated">t3ver_oid - Référence de l'UID de la version en ligne</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_t3ver_stage" approved="yes">
+				<source>t3ver_stage - Publishing stage: Editing (0), review (1), publish (10), rejected (-1).</source>
+				<target state="translated">t3ver_stage - État de publication : Édité (0), relecture (1), publié (10), rejeté (-1).</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_t3ver_state" approved="yes">
+				<source>t3ver_state - Special states of a version: 1=Placeholder for "New". 2=Marked deleted.</source>
+				<target state="translated">t3ver_state - États particuliers d'une version : 1 = espace réservé pour « Nouveau ». 2 = Marqué comme supprimé.</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_t3ver_wsid" approved="yes">
+				<source>t3ver_wsid - Workspace ID. There can be only one version of an element per ID (except ID zero).</source>
+				<target state="translated">t3ver_wsid - ID de l'espace de travail. Il ne peut y avoir qu'une seule version d'un élément par ID (excepté pour l'ID zéro).</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_title" approved="yes">
+				<source>Header of element</source>
+				<target state="translated">En-tête de l'élément</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_uid" approved="yes">
+				<source>Unique ID of element</source>
+				<target state="translated">ID unique de l'élément</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_pid" approved="yes">
+				<source>pid</source>
+				<target state="translated">pid</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_t3ver_count" approved="yes">
+				<source>count</source>
+				<target state="translated">nombre</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_t3ver_id" approved="yes">
+				<source>id</source>
+				<target state="translated">id</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_t3ver_label" approved="yes">
+				<source>Label</source>
+				<target state="translated">Libellé</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_t3ver_oid" approved="yes">
+				<source>oid</source>
+				<target state="translated">oid</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_t3ver_stage" approved="yes">
+				<source>stage</source>
+				<target state="translated">état</target>
+				<note>80%</note>
+			</trans-unit>
+			<trans-unit id="tblHeader_t3ver_state" approved="yes">
+				<source>state</source>
+				<target state="translated">état</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_t3ver_wsid" approved="yes">
+				<source>wsid</source>
+				<target state="translated">wsid</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Titre</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_uid" approved="yes">
+				<source>UID</source>
+				<target state="translated">UID</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Versioning</source>
+				<target state="translated">Versionnage</target>
+			</trans-unit>
+			<trans-unit id="title_review" approved="yes">
+				<source>Send to review/pub</source>
+				<target state="translated">Envoyer en relecture/publication</target>
+			</trans-unit>
+			<trans-unit id="undefined" approved="yes">
+				<source>Undefined</source>
+				<target state="translated">Non défini</target>
+			</trans-unit>
+			<trans-unit id="userComment" approved="yes">
+				<source>User Comment</source>
+				<target state="translated">Commentaire utilisateur</target>
+			</trans-unit>
+			<trans-unit id="versionDetails" approved="yes">
+				<source>Details for version</source>
+				<target state="translated">Détails de la version</target>
+			</trans-unit>
+			<trans-unit id="versionId" approved="yes">
+				<source>ID:</source>
+				<target state="translated">ID :</target>
+			</trans-unit>
+			<trans-unit id="versionInVersion" approved="yes">
+				<source>Version inside version!</source>
+				<target state="translated">Version à l'intérieur d'une version !</target>
+			</trans-unit>
+			<trans-unit id="versionSelect.inBranch" approved="yes">
+				<source>Inside branch, no further versioning possible</source>
+				<target state="translated">Dans cette branche, pas d'autre version possible</target>
+			</trans-unit>
+			<trans-unit id="versionSelect.label" approved="yes">
+				<source>Versions of this page:</source>
+				<target state="translated">Versions de cette page:</target>
+			</trans-unit>
+			<trans-unit id="versionSelect.live" approved="yes">
+				<source>LIVE version</source>
+				<target state="translated">version EN DIRECT</target>
+			</trans-unit>
+			<trans-unit id="versionSelect.publish" approved="yes">
+				<source>Publish page</source>
+				<target state="translated">Publier la page</target>
+				<note>91%</note>
+			</trans-unit>
+			<trans-unit id="versionSelect.versionsFound" approved="yes">
+				<source>Versions found on page, no "Page" versioning possible</source>
+				<target state="translated">Versions non trouvés sur cette page, pas de gestion de version possible</target>
+			</trans-unit>
+			<trans-unit id="workspace" approved="yes">
+				<source>Workspace</source>
+				<target state="translated">Espace de travail</target>
+			</trans-unit>
+			<trans-unit id="workspaceId" approved="yes">
+				<source>Workspace-Id:</source>
+				<target state="translated">ID de l'espace de travail :</target>
+			</trans-unit>
+			<trans-unit id="wsManagement" approved="yes">
+				<source>Workspace management</source>
+				<target state="translated">Gestion des espaces de travail</target>
+			</trans-unit>
+			<trans-unit id="wsVersions" approved="yes">
+				<source>Workspace Versions:</source>
+				<target state="translated">Versions de l'espace de travail:</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

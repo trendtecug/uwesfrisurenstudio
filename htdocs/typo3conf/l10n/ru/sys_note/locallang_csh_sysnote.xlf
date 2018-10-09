@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:37Z" product-name="sys_note" target-language="ru">
+    <header/>
+    <body>
+      <trans-unit id=".description" xml:space="preserve" approved="yes">
+        <source>Internal reminder note attached to a page.</source>
+      <target state="translated">Заметка для внутреннего пользования на странице</target></trans-unit>
+      <trans-unit id=".details" xml:space="preserve" approved="yes">
+        <source>This provides a simple way to attach informative notes to a page regarding backend-related issues. Use it as you like for reminders, instructions, etc.</source>
+      <target state="translated">Размещение на страницах заметок для внутреннего пользования, касательно вопросов BE. Используйте по своему усмотрению - для напоминаний, инструкций и т.п.</target></trans-unit>
+      <trans-unit id="_.seeAlso" xml:space="preserve" approved="yes">
+        <source>pages</source>
+      <target state="translated">страницы</target></trans-unit>
+      <trans-unit id="category.description" xml:space="preserve" approved="yes">
+        <source>Select a category which describes the character of the note.</source>
+      <target state="translated">Выберите категорию</target></trans-unit>
+      <trans-unit id="subject.description" xml:space="preserve" approved="yes">
+        <source>Enter a title for the note.</source>
+      <target state="translated">Введите заголовок для заметки</target></trans-unit>
+      <trans-unit id="message.description" xml:space="preserve" approved="yes">
+        <source>This is the note itself.</source>
+      <target state="translated">Текст заметки</target></trans-unit>
+      <trans-unit id="author.description" xml:space="preserve" approved="yes">
+        <source>Enter your name.</source>
+      <target state="translated">Введите ваше имя</target></trans-unit>
+      <trans-unit id="email.description" xml:space="preserve" approved="yes">
+        <source>Enter your email address.</source>
+      <target state="translated">Введите ваш email</target></trans-unit>
+      <trans-unit id="personal.description" xml:space="preserve" approved="yes">
+        <source>Check this if you don't want other users to see this note.</source>
+      <target state="translated">Отметьте, если не хотите, чтобы другие пользователи увидели вашу заметку.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

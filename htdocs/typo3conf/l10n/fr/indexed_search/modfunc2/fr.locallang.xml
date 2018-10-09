@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="all">Tout</label>
+			<label index="allpages">Statistiques pour toutes les pages.</label>
+			<label index="justthispage">Statistiques pour cette page seulement</label>
+			<label index="last24hours">Dernières 24 heures</label>
+			<label index="last30days">Derniers 30 jours</label>
+			<label index="noresults">Aucun résultat</label>
+			<label index="title">Statistiques du moteur</label>
+			<label index="title2">Liste des mots les plus recherchés</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+      <label index="report_title">Servizi Istallati</label>
+      <label index="report_description">Lista di tutti i servizi installati con relative informazioni e stato di attivazione.</label>
+      <label index="report_explanation">Questo report mostra li lista dei Servizi installati, con informazioni dettagliate su ognuno di essi. I Servizi sono ordinati per tipo, priorità e qualità. I Servizi non disponibili sono evidenziati con uno stato di errore.</label>
+      <label index="externals_explanation">La colonna "Esterni" mostra su quali programmi esterni un servizio si basa. Se tali programmi sono mancanti o non eseguibili, il servizio non sarà disponibile. I path di ricerca degli eseguibili sono elencati in fondo a questo report.</label>
+      <label index="service_type">Tipo di servizio: %s</label>
+      <label index="service">Servizio</label>
+      <label index="priority">Priorità</label>
+      <label index="quality">Qualità</label>
+      <label index="subtypes">Sottotipi</label>
+      <label index="os">OS</label>
+      <label index="externals">Esterni</label>
+      <label index="available">Disponibile</label>
+      <label index="any">Qualunque</label>
+      <label index="search_paths">Percorsi di ricerca configurati per applicazioni esterne:</label>
+      <label index="path">Path</label>
+      <label index="valid">Valido</label>
+      <label index="no_search_paths">Percorsi di ricerca non configurati.</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T04:26:04Z" product-name="setup">
+		<header/>
+		<body>
+			<trans-unit id=".alttitle" approved="yes">
+				<source>User &gt; Setup module</source>
+				<target state="translated">Пользователь &gt; Настройки</target>
+			</trans-unit>
+			<trans-unit id=".description" approved="yes">
+				<source>The Setup module allows the backend user to customize TYPO3 for his own login sessions. This includes the backend language and various other interface features.</source>
+				<target state="translated">Модуль настройки позволяет внутреннему пользователю настраивать TYPO3. К таким настройкам относятся язык системы и настройка интерфейса.</target>
+			</trans-unit>
+			<trans-unit id=".details" approved="yes">
+				<source>&lt;b&gt;Notice [For Admins]:&lt;/b&gt; These settings can all be overridden or have their default values changed by "User TSconfig". To read more about this concept, see the link below!</source>
+				<target state="translated">&lt;b&gt;Примечание [Для Администраторов]:&lt;/b&gt; Эти настройки могут быть принудительно изменены или возвращены к значениям по умолчанию изменением "User TSconfig". Чтобы узнать больше об этой возможности - пройдите по ссылке ниже.</target>
+			</trans-unit>
+			<trans-unit id="_.image" xml:space="preserve" approved="no">
+				<source>EXT:setup/Resources/Public/Images/cshimages/setup8.png,
+EXT:setup/Resources/Public/Images/cshimages/setup7.png</source>
+				<target state="needs-translation">EXT:setup/cshimages/setup8.png, EXT:setup/cshimages/setup7.png</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id=".image_descr" xml:space="preserve" approved="yes">
+				<source>The Setup module is selected in the left menu.
+This is how the Setup module interface looks like - a list of options to configure.</source>
+			<target state="translated">модуль Настройки выбирается в меню слева. Так выглядит настройка интерфейса - список опций для настройки.</target></trans-unit>
+			<trans-unit id="language.alttitle" approved="yes">
+				<source>Backend Language selection</source>
+				<target state="translated">Выбор языка системы</target>
+			</trans-unit>
+			<trans-unit id="language.description" approved="yes">
+				<source>Select the backend language you prefer. Most parts of TYPO3s backend (for regular users) are translated into other languages.</source>
+				<target state="translated">Выберите нужный язык системы. БОльшая часть системы TYPO3 (для простых пользователей) переведена на другие языки.</target>
+			</trans-unit>
+			<trans-unit id="language.details" xml:space="preserve" approved="no">
+				<source>&lt;b&gt;Warning [technical]:&lt;/b&gt; If TYPO3 is not configured to use a single character set (through $TYPO3_CONF_VARS[BE][forceCharset]) then all data entered in the backend is submitted in the character set of the selected backend language. This leads to inconsistent data storage if some users are using the backend in Russian and others in English which uses different character sets.
+The solution clearly is to set the configuration option mentioned above to a value like "utf-8". This must be done by the developers responsible for the whole system configuration.</source>
+			<target state="needs-translation">&lt;b&gt;Предупреждение [техническое]:&lt;/b&gt; если TYPO3 не настроен на использование одной кодировки (через $TYPO3_CONF_VARS[BE][forceCharset]), то для всех введенных во внутреннем интерфейсе данных будет использоваться выбранный язык. Это приводит к смешанному хранению данных, например некоторые пользователи используют русский язык, а другие — английский, который использует другой набор символов. Разрешить эту проблему можно, установив упомянутый параметр настроек в значение, например "utf-8". Это должен сделать разработчик, отвечающий за всю настройку системы.</target></trans-unit>
+			<trans-unit id="_language.image" approved="no">
+				<source>EXT:setup/Resources/Public/Images/cshimages/lang.png</source>
+				<target state="needs-translation">EXT:setup/cshimages/lang.png</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="language.image_descr" approved="yes">
+				<source>TYPO3 is translated into around 40 languages. English is the default language and all labels must be available in English first and foremost. This screenshot shows translations for Hebrew, Arabic, Russian and Chinese.</source>
+				<target state="translated">TYPO3 переведена более чем на 40 языков. Английский является языком по умолчанию и все надписи существуют на английском и доступны в начале и в любой момент. Эти скриншоты показывают перевод на иврит, арабский, русский и китайский.</target>
+			</trans-unit>
+			<trans-unit id="option_beUser_email.alttitle" approved="yes">
+				<source>Your email address</source>
+				<target state="translated">Ваш email</target>
+			</trans-unit>
+			<trans-unit id="option_beUser_email.description" approved="yes">
+				<source>Make sure this is a valid email address for you. This is the contact address that the backend administrator will use if he needs to contact you. Also, the TYPO3 system might need to send you messages at various times and this will be the recipient address.</source>
+				<target state="translated">Убедитесь, что ввели правильный адрес электронной почты. Это контактный адрес, по которому в вами сможет связаться администратор. Также по этому адресу будут отправляться различные системные сообщения из TYPO3.</target>
+			</trans-unit>
+			<trans-unit id="option_beUser_realName.alttitle" approved="yes">
+				<source>Your real name</source>
+				<target state="translated">Ваше настоящее имя</target>
+			</trans-unit>
+			<trans-unit id="option_beUser_realName.description" approved="yes">
+				<source>Enter your real name here.</source>
+				<target state="translated">Введите настоящее ваше имя.</target>
+			</trans-unit>
+			<trans-unit id="option_condensedMode.alttitle" approved="yes">
+				<source>Condensed Mode</source>
+				<target state="translated">Компактный режим</target>
+			</trans-unit>
+			<trans-unit id="option_condensedMode.description" approved="yes">
+				<source>If set, the backend will not load the Web-submodules and File-submodules in a frameset but allow the page and folder trees to load the submodule in the main content frame. This allows for a better display on small screens.</source>
+				<target state="translated">В этом режиме дерево страниц и содержание отображаются попеременно. Это позволяет улучшить отображение на маленьких экранах.</target>
+			</trans-unit>
+			<trans-unit id="_option_condensedMode.image" xml:space="preserve" approved="no">
+				<source>EXT:setup/Resources/Public/Images/cshimages/setup3.png,
+EXT:setup/Resources/Public/Images/cshimages/setup4.png</source>
+				<target state="needs-translation">EXT:setup/cshimages/setup3.png, EXT:setup/cshimages/setup4.png</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="option_condensedMode.image_descr" xml:space="preserve" approved="yes">
+				<source>In this example Condensed Mode is enabled. The page tree is &lt;em&gt;not&lt;/em&gt; shown in the normal navigation frame but rather in the full content frame to the right of the menu.
+When a page title is clicked in the page tree the module page (here the Web &gt; List module) will be loaded in the &lt;u&gt;same&lt;/u&gt; frame of the backend. In this way Condensed Mode saves horizontal screen space since the navigation frame is removed - but it takes an extra click if you need to go to another page.</source>
+			<target state="translated">В этом примере используется компактный режим. Дерево страниц показано &lt;em&gt;не&lt;/em&gt; в обычном фрейме навигации, а в полнофункциональном фрейме, справа от меню. При щелчке по заголовку страницы в дереве страниц, загружается модуль страница (здесь — модуль Веб &gt; Список) в &lt;u&gt;то же&lt;/u&gt; фрейм во внутреннем интерфейсе. Таким образом, компактрый режим сохраняет пространство по горизонтали, путем удаления фрейма навигации, но при этом увеличивается количество дополнительных щелчков для перехода к другой странице.</target></trans-unit>
+			<trans-unit id="_option_condensedMode.seeAlso" approved="yes">
+				<source>_MOD_user_setup:option_noMenuMode</source>
+				<target state="translated">_MOD_user_setup:option_noMenuMode</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="option_copyLevels.alttitle" approved="yes">
+				<source>Recursive Copy</source>
+				<target state="translated">Рекурсивное копирование</target>
+			</trans-unit>
+			<trans-unit id="option_copyLevels.description" approved="yes">
+				<source>When you copy a page, subpages can also be copied along if you set this option. The number you set here defines the number of levels under a page to include in a copy operation.</source>
+				<target state="translated">Установив этот параметр, можно скопировать подстраницы вместе с копируемой страницей. Установленное здесь число означает число уровней, которые будут копироваться.</target>
+			</trans-unit>
+			<trans-unit id="option_disableCMlayers.alttitle" approved="yes">
+				<source>Disable Popup Context Menus</source>
+				<target state="translated">Отключить всплывающее контекстное меню</target>
+			</trans-unit>
+			<trans-unit id="option_disableCMlayers.description" approved="yes">
+				<source>When an icon for a file or database record is shown inside the TYPO3 backend you can often click on the icon and a contextual menu will appear over the icon with options related to it. You can disable this behaviour by this option. However you probably don't want to do that.</source>
+				<target state="translated">Обычно щелчок по значку отображаемых во внутреннем интерфейсе TYPO3 файлов или записей вызывает контекстное всплывающее меню. Этот параметр отключает эту возможность. Наверняка это вам не понадобиться.</target>
+			</trans-unit>
+			<trans-unit id="_option_disableCMlayers.image" approved="no">
+				<source>EXT:setup/Resources/Public/Images/cshimages/setup9.png</source>
+				<target state="needs-translation">EXT:setup/cshimages/setup9.png</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="option_disableCMlayers.image_descr" approved="yes">
+				<source>This is the context menu (or "Clickmenu") of a page in the page tree. Notice that it is activated by a regular "left-click" opposite to the normal "right-click" activation known from most Operating Systems.</source>
+				<target state="translated">Это контекстное меню страницы в дереве страниц. Помните, что оно появляется при щелчке левой кнопкой мыши, в противоположность обычному поведению операционной системы, при активации контекстного меню при щелчке правой кнопкой.</target>
+			</trans-unit>
+			<trans-unit id="option_edit_docModuleUpload.alttitle" approved="yes">
+				<source>Enable File Uploads in editing forms</source>
+				<target state="translated">Загрузка файлов непосредственно в документе</target>
+			</trans-unit>
+			<trans-unit id="option_edit_docModuleUpload.description" approved="yes">
+				<source>This option will enable an "Upload" box for each field in TYPO3 records where you can attach a file or image. Most likely you don't want to disable this since it is usually just a nice thing to have.</source>
+				<target state="translated">Этот параметр включает блок "загрузки" для каждого поля в записях TYPO3, в которые можно вставить файл или изображение. Вероятно вы не откажетесь от этой удобной возможности.</target>
+			</trans-unit>
+			<trans-unit id="option_edit_docModuleUpload.details" approved="yes">
+				<source>If you disable the Upload box there is still the TYPO3 Element Browser left for attaching files and images.</source>
+				<target state="translated">При отключении блока загрузки, все еще будет доступен проводник элемнтов TYPO3 слева, для прикрепления файлов или изображений.</target>
+			</trans-unit>
+			<trans-unit id="_option_edit_docModuleUpload.image" approved="no">
+				<source>EXT:setup/Resources/Public/Images/cshimages/setup12.png</source>
+				<target state="needs-translation">EXT:setup/cshimages/setup12.png</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="option_edit_RTE.alttitle" approved="yes">
+				<source>Enable Rich Text Editor</source>
+				<target state="translated">Включить редактор сложного текста RTE</target>
+			</trans-unit>
+			<trans-unit id="option_edit_RTE.description" approved="yes">
+				<source>If set, the Rich Text Editor in TYPO3 will be enabled for you. Normally you wouldn't want to disable this option.</source>
+				<target state="translated">При включении будет досупен редактор сложного текста RTE. Обычно этот параметр не отключают.</target>
+			</trans-unit>
+			<trans-unit id="option_edit_RTE.details" approved="no">
+				<source>A Rich Text Editor (RTE) means that a text editing field has buttons for making selected text bold, italic etc. Whether a RTE is available also depends on factors like the browser you are using and which extensions are installed. Finally RTEs are applied to only a few record fields. The most well known example would be the Text field of a Content Element.</source>
+				<target state="needs-translation">Редактор сложного текста (RTE) — это специальная панель инструментов, помогающая форматировать выделенный текст, делать его жирным, применять курсив и т.п. Доступность RTE также зависит от таких факторов, как используемый браузер, установленные расширения. Наконец, RTE применим лишь к ограниченному количеству полей записи. Самым известным примером является текстовое поле элемента содержимого.</target>
+			</trans-unit>
+			<trans-unit id="_option_edit_RTE.image" approved="no">
+				<source>EXT:setup/Resources/Public/Images/cshimages/rte.png</source>
+				<target state="needs-translation">EXT:setup/cshimages/rte.png</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="option_edit_showFieldHelp.alttitle" approved="yes">
+				<source>Context Sensitive Help mode</source>
+				<target state="translated">Режим контекстной справки</target>
+			</trans-unit>
+			<trans-unit id="option_edit_showFieldHelp.description" approved="yes">
+				<source>Defines the mode of Context Sensitive Help (CSH) in TYPO3. The default is that small help icons are shown everywhere a help item is available. You can click the icon and help will appear in a window for you.</source>
+				<target state="translated">Определяет режим контекстно зависимой справки в TYPO3. По умолчанию используется маленький значок, отображаемый везде, где справка доступна. Щелчок по нему вызывает всплывающее окно со справкой.</target>
+			</trans-unit>
+			<trans-unit id="option_edit_showFieldHelp.details" xml:space="preserve" approved="yes">
+				<source>Alternatively you can select that descriptions are shown inline. This is useful for people who are still learning how TYPO3 works and want to browse the backend with descriptions shown directly.
+Finally experienced users will want to totally disable the help icons if they seem to just bloat the backend interface.
+
+Context Sensitive Help is also available as a full user manual in the Help&gt;Manual module.</source>
+			<target state="translated">Альтернативно, можно показывать описание полностью. Это полезно при обучении работе с TYPO3. И наконец, опытные пользователи могут отключить справку совсем, включая значок. Контекстно зависимая справка доступна как полноценное руководство пользователя в модуле Справка &gt; Справочник.</target></trans-unit>
+			<trans-unit id="_option_edit_showFieldHelp.image" xml:space="preserve" approved="no">
+				<source>EXT:setup/Resources/Public/Images/cshimages/setup11.png,
+EXT:setup/Resources/Public/Images/cshimages/setup10.png</source>
+				<target state="needs-translation">EXT:setup/cshimages/setup11.png, EXT:setup/cshimages/setup10.png</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="option_edit_showFieldHelp.image_descr" xml:space="preserve" approved="yes">
+				<source>The default mode, "Display help icon only", will show the help icons with no additional text.
+When "Display full text message" is selected you will see a short description shown together with the help icon and framed into a box. Clicking the help icon always links to the full description of the element shown in a pop-up window.</source>
+			<target state="translated">В режиме по умолчанию, "показывать лишь значок справки", будет виден лишь ее значок, без дополнительного текста. Режим "показать текст полностью" означает заключенное в рамку краткое описания рядом со значком справки. Щелчок по значку откроет полное описание элемента во всплывающем окне.</target></trans-unit>
+			<trans-unit id="option_edit_wideDocument.alttitle" approved="yes">
+				<source>Wide document background</source>
+				<target state="translated">Широкий фон документа</target>
+			</trans-unit>
+			<trans-unit id="option_edit_wideDocument.description" approved="yes">
+				<source>Setting this option will enlarge the default width of record editing forms in TYPO3 by around 50%</source>
+				<target state="translated">Включение этого параметра, увеличивает место для редактирования формы в TYPO3 примерно на 50%.</target>
+			</trans-unit>
+			<trans-unit id="option_emailMeAtLogin.alttitle" approved="yes">
+				<source>Notify by login</source>
+				<target state="translated">Оповещение о регистрации</target>
+			</trans-unit>
+			<trans-unit id="option_emailMeAtLogin.description" approved="yes">
+				<source>If you set this option you will receive an email from TYPO3 each time you (or "someone") logs in using your username. You might like to receive such a "warning" as a security measure so you will know if someone else picks up your password and uses your account.</source>
+				<target state="translated">При включении этого параметра, сообщения будут отправляться на введенный здесь адрес электронной почты, когда вы (или кто-то под вашим именем) будете входить в систему. Это можно рассматривать как "предупреждение" системы безопасности о том, что кто-то зарегистрировался в системе под вашим именем.</target>
+			</trans-unit>
+			<trans-unit id="option_enableFlashUploader.alttitle" approved="yes">
+				<source>Enable Flash Uploader</source>
+				<target state="translated">Включение загрузчика Flash</target>
+			</trans-unit>
+			<trans-unit id="option_enableFlashUploader.description" approved="yes">
+				<source>This option will enable a flash-based uploader that allows you to select multiple files at once when uploading files. If you enable this option, make sure that your browser has the latest Flash plugin (Flash 9 or higher) installed in order to make this feature work.</source>
+				<target state="translated">Этот параметр включает загрузчик, работающий на технологии flash, позволяющий выбирать несколько файлов за раз для загрузки. При включении этого параметра, удостоверьтесь, что в браузере установлено расширение Flash последней версии (9 или выше).</target>
+			</trans-unit>
+			<trans-unit id="option_enableInstallTool.alttitle" approved="yes">
+				<source>Admin control for re-enabling Install Tool access</source>
+				<target state="translated">Административный контроль за доступом к инструментарию установки.</target>
+			</trans-unit>
+			<trans-unit id="option_enableInstallTool.description" approved="yes">
+				<source>By clicking this button, a file typo3conf/ENABLE_INSTALL_TOOL is created (or removed if it already exists). It unlocks the access to the Install Tool (password is still needed!) and will be removed automatically after 1 hour.</source>
+				<target state="translated">При щелчке по этой кнопке, будет создан файл typo3conf/ENABLE_INSTALL_TOOL (или, соответственно удален, если он существовал). При этом разблокируется доступ к инструментарию установки (пароль для него все еще будет нужен!). Файл автоматически удаляется через 1 час.</target>
+			</trans-unit>
+			<trans-unit id="option_flexibleTextareas_MaxHeight.alttitle" approved="yes">
+				<source>Maximal Height of flexible textareas</source>
+				<target state="translated">Максимальная высота изменяемых текстовых областей</target>
+			</trans-unit>
+			<trans-unit id="option_flexibleTextareas_MaxHeight.description" approved="yes">
+				<source>Define the maximal height of flexible textareas (in Pixel).</source>
+				<target state="translated">Максимальная высота изменяемой текстовой области (в пикселях).</target>
+			</trans-unit>
+			<trans-unit id="option_helpText.alttitle" approved="yes">
+				<source>Show help text when applicable</source>
+				<target state="translated">По возможности показать справку</target>
+			</trans-unit>
+			<trans-unit id="option_helpText.description" approved="yes">
+				<source>If set, some help texts will appear by default. Applies to the "Legend" text in the Web&gt;Access module for instance.</source>
+				<target state="translated">При включении, по умолчанию будет показан текст справки. Например, применяется в тексте "Легенда" модуля Веб &gt; Доступ.</target>
+			</trans-unit>
+			<trans-unit id="option_maxTitleLen.alttitle" approved="yes">
+				<source>Maximum title length</source>
+				<target state="translated">Максимальная длина заголовка</target>
+			</trans-unit>
+			<trans-unit id="option_maxTitleLen.description" approved="yes">
+				<source>TYPO3 will often crop long titles of records etc. so only the first X characters are shown. Often the number of shown characters depends on this variable. For instance the length of page titles in the page tree is determined by this value.</source>
+				<target state="translated">Часто TYPO3 обрезает длинные заголовки записей и т.п., при этом будут показаны лишь X начальных символов. Как правило, это количество показываемых символов зависит от этого значения. Например, длина заголовка страниц в дереве страниц.</target>
+			</trans-unit>
+			<trans-unit id="_option_maxTitleLen.image" approved="no">
+				<source>EXT:setup/Resources/Public/Images/cshimages/setup6.png</source>
+				<target state="needs-translation">EXT:setup/cshimages/setup6.png</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="option_maxTitleLen.image_descr" approved="yes">
+				<source>In this case the Maximum Title length is set to 10 - and the result is that titles in the page tree - as well as other places in the backend - will be cropped after 10 characters, then suffixed by "...". The default value is "30".</source>
+				<target state="translated">Здесь максимальная длина заголовка установлена 10, в результате, как видно на картинке, заголовки были обрезаны до 10 символов, после чего поставлено многоточие. Значение по умолчанию — 30.</target>
+			</trans-unit>
+			<trans-unit id="option_newPasswordAgain.alttitle" approved="yes">
+				<source>Change password, confirm</source>
+				<target state="translated">Подтверждение изменения пароля</target>
+			</trans-unit>
+			<trans-unit id="option_newPasswordAgain.description" approved="yes">
+				<source>Confirm the new password by entering it again, exactly like above. If the two new passwords do not match, the password will not be changed.</source>
+				<target state="translated">Подтвердите новый пароль, введя его снова, точно также, как в предыдущее поле. При несовпадении введенных символов пароль не будет изменен.</target>
+			</trans-unit>
+			<trans-unit id="option_newPassword.alttitle" approved="yes">
+				<source>Change password</source>
+				<target state="translated">Изменение пароля</target>
+			</trans-unit>
+			<trans-unit id="option_newPassword.description" approved="yes">
+				<source>Enter a new password for your backend account:</source>
+				<target state="translated">Введите новый пароль для вашей учетной записи:</target>
+			</trans-unit>
+			<trans-unit id="option_newPassword.details" approved="yes">
+				<source>The passwords are encrypted to an MD5 hash when you leave the field so no plain text password is sent over the wire.</source>
+				<target state="translated">Пароль шифруется по алгоритму MD5, таким образом информация в явном виде передаваться не будет.</target>
+			</trans-unit>
+			<trans-unit id="option_noMenuMode.alttitle" approved="yes">
+				<source>Navigation Mode</source>
+				<target state="translated">Режим Навигации</target>
+			</trans-unit>
+			<trans-unit id="option_noMenuMode.description" approved="yes">
+				<source>Setting alternative backend menu modes</source>
+				<target state="translated">Настройка альтернативного режима меню во внутреннем интерфейсе</target>
+			</trans-unit>
+			<trans-unit id="option_noMenuMode.details" xml:space="preserve" approved="yes">
+				<source>By default you navigate between backend modules with the menu in the left frame. By this option you can select alternative navigation modes:
+
+&lt;b&gt;Selectorbox in top frame:&lt;/b&gt;
+If set, the backend will not load the left menu frame but rather put a selector-box menu in the topframe. This saves a lot of space on small screens.
+
+&lt;b&gt;Icons in top frame&lt;/b&gt;
+This option shows all menu items in the top frame as a horizontal list of icons. This is for experienced users only who knows the order of modules and can recognize them based on their icon.</source>
+			<target state="translated">По умолчанию, перемещение по модулям внутреннего интерфейса осуществляется через меню слева. Здесь можно включить альтернативную модель навигации: &lt;b&gt;Выпадающее меню сверху:&lt;/b&gt; При этом, меню слева не будет отображаться, но сверху появится выпадающее меню. Это сохраняет пространство на маленьких экранах. &lt;b&gt;Значки сверху&lt;/b&gt; При этом все элементы меню отображаются в виде значков сверху. Этот режим предназначен только для опытных пользователей, определяющих нужный модуль по виду значка.</target></trans-unit>
+			<trans-unit id="_option_noMenuMode.image" xml:space="preserve" approved="no">
+				<source>EXT:setup/Resources/Public/Images/cshimages/setup1.png,
+EXT:setup/Resources/Public/Images/cshimages/setup2.png</source>
+				<target state="needs-translation">EXT:setup/cshimages/setup1.png, EXT:setup/cshimages/setup2.png</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="option_noMenuMode.image_descr" xml:space="preserve" approved="yes">
+				<source>The "Selectorbox" menu. Selecting an item makes the backend jump to that module.
+The "Icons" menu. As you can see you will need to know the icons by heart. You can also position the mouse over the icon and the tool-tip text will reveal the module name.</source>
+			<target state="translated">"Выпадающее" меню. Выбирая элемент, попадаете в нужный модуль. Меню "Значки". Как можно заметить, нужно знать, что за модуль скрывается за определенным значком. Чтобы понять это, можно поместить указатель мыши над значком, при этом появиться всплывающая подсказка с названием модуля.</target></trans-unit>
+			<trans-unit id="_option_noMenuMode.seeAlso" approved="yes">
+				<source>_MOD_user_setup:option_condensedMode</source>
+				<target state="translated">_MOD_user_setup:option_condensedMode</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="option_recursiveDelete.alttitle" approved="yes">
+				<source>Recursive Delete</source>
+				<target state="translated">Рекурсивное удаление</target>
+			</trans-unit>
+			<trans-unit id="option_recursiveDelete.description" approved="yes">
+				<source>You cannot delete a page with subpages unless this flag is set. Be careful - setting this option means that TYPO3 will allow a whole tree of pages to be deleted in one go!</source>
+				<target state="translated">Если этот параметр не установлен, то удалить страницу будет невозможно, если у нее есть подстраницы. Будьте осторожны, включение этого параметра означает, что TYPO3 позволит удалить все дерево страниц одним щелчком мыши!</target>
+			</trans-unit>
+			<trans-unit id="option_recursiveDelete.details" approved="yes">
+				<source>You should also consider the performance issues involved when deleting a large page tree. It might take a considerable amount of time to do that and if PHP times out before the operation is finished the results might be unpredictable.</source>
+				<target state="translated">Также нужно помнить, что удаление большого количества страниц влияет на производительность сервера. Операция может занять много времени, либо, при исчерпании лимита времени для операций PHP, результаты могут оказаться непредсказуемыми.</target>
+			</trans-unit>
+			<trans-unit id="option_resizeTextareas.alttitle" approved="yes">
+				<source>Make Textareas Resizable</source>
+				<target state="translated">Изменять размер текстовых областей</target>
+			</trans-unit>
+			<trans-unit id="option_resizeTextareas.description" approved="yes">
+				<source>This option will make textareas resizable. You will see the resize mouse cursor if you move mouse to the outer border of textarea.</source>
+				<target state="translated">Этот параметр отвечает за изменение размеров текстовых областей. При подведении курсора мышки к краю текстовой области, ее размер можно будет изменить.</target>
+			</trans-unit>
+			<trans-unit id="option_resizeTextareas_Flexible.alttitle" approved="yes">
+				<source>Make Textareas Flexible</source>
+				<target state="translated">Сделать текстовые области гибкими</target>
+			</trans-unit>
+			<trans-unit id="option_resizeTextareas_Flexible.description" approved="yes">
+				<source>This option will make textareas flexible. The height will grow automatically while typing. Limit is the maximal height set (default 600).</source>
+				<target state="translated">Этот параметр отвечает за размер текстовых областей. Их высота будет автоматически увеличиваться по мере набора текста. Можно установить ограничения на максимальную их высоту (по умолчанию – 600 пикселей)</target>
+			</trans-unit>
+			<trans-unit id="option_resizeTextareas_MaxHeight.alttitle" approved="yes">
+				<source>Maximal Height of Textarea</source>
+				<target state="translated">Максимальная высота текстовой области</target>
+			</trans-unit>
+			<trans-unit id="option_resizeTextareas_MaxHeight.description" approved="yes">
+				<source>Define the maximal height of textarea (in Pixel).</source>
+				<target state="translated">Определение максимальной высоты текстовой области (в пикселях).</target>
+			</trans-unit>
+			<trans-unit id="option_showHiddenFilesAndFolders.description" approved="no">
+				<source>Defines whether you want to list all the hidden files and folders (beginning with a .) in the filelist and element browser.</source>
+				<target state="needs-translation">Настройка видимости всех скрытых файлов и папок (начинающихся с точки (/)) в списке файлов и проводнике по элементам.</target>
+			</trans-unit>
+			<trans-unit id="option_showHiddenFilesAndFolders.details" approved="no">
+				<source>By default all hidden files are not displayed in filelists and element browsers and link pickers. This option enables to additionally show the hidden files.</source>
+				<target state="needs-translation">По умолчанию все скрытые файлы не отображаются в списках и проводниках по элементам для выбора ссылок. Этот параметр позволяет сделать их видимыми.</target>
+			</trans-unit>
+			<trans-unit id="option_showThumbs.alttitle" approved="yes">
+				<source>Show Thumbnails by default</source>
+				<target state="translated">По умолчанию показывать эскизы картинок</target>
+			</trans-unit>
+			<trans-unit id="option_showThumbs.description" approved="yes">
+				<source>In modules like the "Web &gt; List" and "File &gt; Filelist" you can enable the display of thumbnails of files (images/fonts) and records (if images are attached) with a checkbox. Setting this option will enable the display by default.</source>
+				<target state="translated">В таких модулях, как "Веб &gt; Список" и "Файл &gt; Список файлов" можно включить отображение эскизов файлов (изображений/шрифтов) и записей (если присутствует изображение). Этот параметр включает отображение эскизов в подобных модулях по умолчанию.</target>
+			</trans-unit>
+			<trans-unit id="_option_showThumbs.image" approved="no">
+				<source>EXT:setup/Resources/Public/Images/cshimages/setup5.png</source>
+				<target state="needs-translation">EXT:setup/cshimages/setup5.png</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="option_showThumbs.image_descr" approved="yes">
+				<source>When thumbnails display is enabled, files attached to records will be shown in the "Web &gt; List" module like this.</source>
+				<target state="translated">При включении отображения эскизов, файлы, прикрепленные к записям будут отображаться в модулях, подобных "Веб &gt; Список".</target>
+			</trans-unit>
+			<trans-unit id="option_startModule.alttitle" approved="yes">
+				<source>Start module</source>
+				<target state="translated">Стартовый модуль</target>
+			</trans-unit>
+			<trans-unit id="option_startModule.description" xml:space="preserve" approved="yes">
+				<source>Let you select the module that is called when you login in the Backend
+The default module is "About Modules".</source>
+			<target state="translated">Возможно выбрать модуль, загружаемый при входе во внутренний интерфейс. По умолчанию загружается модуль "О модулях"</target></trans-unit>
+			<trans-unit id="reset.alttitle" approved="yes">
+				<source>Reset all Values to default</source>
+				<target state="translated">Сброс значений к значениям по умолчанию</target>
+			</trans-unit>
+			<trans-unit id="reset.description" approved="yes">
+				<source>If you select this option all settings in this module will be reset to the default settings of the system.</source>
+				<target state="translated">Этот параметр сбрасывает все настройки к значениям по умолчанию.</target>
+			</trans-unit>
+			<trans-unit id="reset.details" approved="yes">
+				<source>This does not apply to user name, email and password settings of course.</source>
+				<target state="translated">Это конечно не затронет имя пользователя, его email и пароль.</target>
+			</trans-unit>
+			<trans-unit id="_.seeAlso" approved="no">
+				<source>User TSconfig SETUP | https://docs.typo3.org/typo3cms/TSconfigReference/UserTsconfig/Setup/Index.html</source>
+				<target state="needs-translation">Настройка TSconfig пользователя | http://typo3.org/documentation/document-library/doc_core_tsconfig/SETUP/</target>
+			</trans-unit>
+			<trans-unit id="simuser.alttitle" approved="yes">
+				<source>Simulate backend user</source>
+				<target state="translated">Имитация внутреннего пользователя</target>
+			</trans-unit>
+			<trans-unit id="simuser.description" approved="yes">
+				<source>This option allows "admin"-users to change settings for another backend user in the system.</source>
+				<target state="translated">Этот параметр позволяет пользователям-администраторам изменить настройки, имитируя другого внутреннего пользователя системы.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

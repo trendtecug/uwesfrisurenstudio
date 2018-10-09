@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="mlang_labels_tabdescr">Manuale Online costituito raccogliendo tutti gli aiuti in linea del sistema.</label>
+			<label index="mlang_labels_tablabel">Manuale Online TYPO3</label>
+			<label index="mlang_tabs_tab">Manuale TYPO3</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

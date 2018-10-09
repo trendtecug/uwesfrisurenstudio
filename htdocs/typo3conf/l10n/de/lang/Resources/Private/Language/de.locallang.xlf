@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2016-05-30T02:23:24Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="button.cancel" approved="yes">
+				<source>Cancel</source>
+				<target state="translated">Abbrechen</target>
+			</trans-unit>
+			<trans-unit id="button.update" xml:space="preserve" approved="yes">
+				<source>Update from repository</source>
+			<target state="translated">Vom Repository aktualisieren</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="flashmessage.canceled" approved="yes">
+				<source>The process has been canceled.</source>
+				<target state="translated">Der Prozess wurde abgebrochen.</target>
+			</trans-unit>
+			<trans-unit id="flashmessage.error" approved="yes">
+				<source>Error</source>
+				<target state="translated">Fehler</target>
+			</trans-unit>
+			<trans-unit id="flashmessage.information" approved="yes">
+				<source>Information</source>
+				<target state="translated">Information</target>
+			</trans-unit>
+			<trans-unit id="flashmessage.multipleErrors" approved="yes">
+				<source>Several requests have been failed. Please check your internet connection!</source>
+				<target state="translated">Mehrere Anfragen sind fehlgeschlagen. Bitte überprüfen Sie Ihre Internet-Verbindung!</target>
+			</trans-unit>
+			<trans-unit id="flashmessage.success" approved="yes">
+				<source>Success</source>
+				<target state="translated">Erfolg</target>
+			</trans-unit>
+			<trans-unit id="flashmessage.updateComplete" approved="yes">
+				<source>The translation update has been successfully completed.</source>
+				<target state="translated">Die Aktualisierung der Übersetzungen wurde erfolgreich beendet.</target>
+			</trans-unit>
+			<trans-unit id="header.languageSelectionList" xml:space="preserve" approved="yes">
+				<source>Languages</source>
+			<target state="translated">Sprachen</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="header.module" xml:space="preserve" approved="yes">
+				<source>Language Administration</source>
+			<target state="translated">Sprachverwaltung</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="header.translationUpdateList" xml:space="preserve" approved="yes">
+				<source>Translations</source>
+			<target state="translated">Übersetzungen</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="state.checking" xml:space="preserve" approved="yes">
+				<source>Checking...</source>
+			<target state="translated">Überprüfung...</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="state.error" approved="yes">
+				<source>Error</source>
+				<target state="translated">Fehler</target>
+			</trans-unit>
+			<trans-unit id="state.failed" xml:space="preserve" approved="yes">
+				<source>Failed</source>
+			<target state="translated">Fehlgeschlagen</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="state.invalid" xml:space="preserve" approved="yes">
+				<source>Invalid</source>
+			<target state="translated">Ungültig</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="state.notAvailable" xml:space="preserve" approved="yes">
+				<source>Not available</source>
+			<target state="translated">Nicht verfügbar</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="state.notChecked" xml:space="preserve" approved="yes">
+				<source>Not checked</source>
+			<target state="translated">Nicht überprüft</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="state.updated" xml:space="preserve" approved="yes">
+				<source>Updated</source>
+			<target state="translated">Aktualisiert</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="state.upToDate" xml:space="preserve" approved="yes">
+				<source>Up to date</source>
+			<target state="translated">Aktuell</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="table.extension" approved="yes">
+				<source>Extension</source>
+				<target state="translated">Erweiterung</target>
+			</trans-unit>
+			<trans-unit id="table.language" approved="yes">
+				<source>Language</source>
+				<target state="translated">Sprache</target>
+			</trans-unit>
+			<trans-unit id="table.locale" approved="yes">
+				<source>Locale</source>
+				<target state="translated">Gebietsschema</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

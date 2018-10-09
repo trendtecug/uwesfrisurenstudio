@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="tx_openid_change_allowed.description">Si ce paramètre est actif, les utilisateurs peuvent changer leur identifiant OpenID depuis le module de préférence utilisateur.</label>
+			<label index="tx_openid_openid.description">Identifiant OpenID</label>
+			<label index="tx_openid_openid.details">Ce champs contient l'identifiant OpenID. Si ce champs n'est pas vide, les utilisateurs peuvent s'identifier avec leur identifiant OpenID.</label>
+			<label index="tx_openid_openid.seeAlso">http://openid.net/</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

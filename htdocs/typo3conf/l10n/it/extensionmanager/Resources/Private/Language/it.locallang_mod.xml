@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="mlang_labels_tabdescr">Gestisce le estensioni i TYPO3 da un repository centralizzato. Le estensioni di TYPO3 includono, plugin, moduli, estensioni, codice di configurazione, ecc. &lt;br /&gt;&lt;em&gt;Accesso riservato per gli 'admin'!&lt;/em&gt;</label>
+			<label index="mlang_labels_tablabel">TYPO3 Extension Manager</label>
+			<label index="mlang_tabs_tab">Estensioni</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

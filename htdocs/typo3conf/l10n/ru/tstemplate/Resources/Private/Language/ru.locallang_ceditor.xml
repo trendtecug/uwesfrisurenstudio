@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="category">Категория</label>
+			<label index="editConstants">Правка констант шаблона</label>
+			<label index="noConstants">Нет констант</label>
+			<label index="noConstantsDescription">Для редактора нет доступных для редактирования констант.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

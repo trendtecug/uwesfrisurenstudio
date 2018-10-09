@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="sys_action">Действие</label>
+			<label index="sys_action.assign_to_groups">Назначить действие для группы:</label>
+			<label index="sys_action.hidden">Отключены:</label>
+			<label index="sys_action.t1_allowed_groups">Группа, которая может быть назначена через действие:</label>
+			<label index="sys_action.t1_copy_of_user">Шаблон пользователя:</label>
+			<label index="sys_action.t1_create_user_dir">Создать домашний каталог для пользователя:</label>
+			<label index="sys_action.t1_userprefix">Префикс пользователя:</label>
+			<label index="sys_action.t3_listPid">Список pid:</label>
+			<label index="sys_action.t3_tables">Список таблиц:</label>
+			<label index="sys_action.t4_recordsToEdit">Записи для редактирования:</label>
+			<label index="sys_action.type.1">Создать внутреннего пользователя</label>
+			<label index="sys_action.type.2">Запрос SQL</label>
+			<label index="sys_action.type.3">Список записей</label>
+			<label index="sys_action.type.4">Править записи</label>
+			<label index="sys_action.type.5">Новая запись</label>
+			<label index="tx_sys_action">Действия</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

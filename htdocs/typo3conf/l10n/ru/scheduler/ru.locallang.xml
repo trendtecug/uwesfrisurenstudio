@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="cachingFrameworkGarbageCollection.description">Эта задача по сбору мусора в кеша по одной из схем кеширования, выбранной во внутреннем интерфейсе. Это высвободит немного места за счет кеша внутреннего интерфейса, не имеющего внутреннего буфера. Для базы данных внутреннего интерфейса по умолчанию, целесообразно запускать эту задачу ежедневно, при наименьшей загрузке базы.</label>
+			<label index="cachingFrameworkGarbageCollection.name">Сбор мусора схемы кеширования</label>
+			<label index="fileIndexing.description">Настройка запуска задач по индексации и информация о хранилище/папке.</label>
+			<label index="fileIndexing.name">File Abstraction Layer: работа по индексации</label>
+			<label index="fileStorageExtraction.description">Извлечение метаданных для всех файлов хранилища, изменившихся с прошлого запуска.</label>
+			<label index="fileStorageExtraction.name">File Abstraction Layer: извлечение метаданных в хранилище</label>
+			<label index="fileStorageIndexing.description">Обновление данных индекса/кеша хранилища; необходимо лишь при изменении хранилища извне внутреннего интерфейса (FTP, RemoteStorages).</label>
+			<label index="fileStorageIndexing.name">File Abstraction Layer: обновление индекса хранилища</label>
+			<label index="recyclerGarbageCollection.description">Эта задача очищает все папкиl "_recycler_" расположенные в директории fileadmin. Это освобождает место в файловой системе.</label>
+			<label index="recyclerGarbageCollection.name">Таблица мусора Fileadmin</label>
+			<label index="sleepTask.description">Эта задача просто откладывает PHP на заданное количество секунд. Разработан для тестирования выполнения нескольких задач.</label>
+			<label index="sleepTask.name">Планировщик отложенной задачи</label>
+			<label index="tableGarbageCollection.description">Задача удаления старых записей из определенных таблиц, вроде sys_log. Для настройки таблиц используйте $GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['scheduler']['tasks']['tx_scheduler_TableGarbageCollection']['options']['tables']. За деталями обратитесь к руководству.</label>
+			<label index="tableGarbageCollection.name">Таблица с мусором</label>
+			<label index="testTask.description">Планировщик тестовой задачи просто отправляет письмо на заданный электронный адрес. Он разработан для тестирования.</label>
+			<label index="testTask.name">Планировщик тестовой задачи</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

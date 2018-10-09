@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="areYouSure">Вы уверены, что хотите это сделать?</label>
+			<label index="constantEditor">Редактор констант</label>
+			<label index="createTemplate">Перед редактированием констант, сначала нужно создать запись шаблона!</label>
+			<label index="createTemplateToEditConfiguration">Для редактирования своих настроек, необходимо создать запись шаблона ниже.</label>
+			<label index="extTemplate">Создать шаблон расширение</label>
+			<label index="extTemplateAction">Щелкните здесь для создания шаблона расширения.</label>
+			<label index="extTemplateDescription">Шаблон расширение позволяет ввести значения TypoScript, которые затронут только текущую страницу с подстраницами.</label>
+			<label index="goToClosest">Перейти к ближайшей странице с шаблоном</label>
+			<label index="goToClosestAction">Щелкните здесь для перехода</label>
+			<label index="goToClosestDescription">Ближайший шаблон имеется на странице '%s' (uid %s).</label>
+			<label index="infoModify">Информация/изменение</label>
+			<label index="isExt">Расширение</label>
+			<label index="isRoot">Корень</label>
+			<label index="moduleTitle">Инструменты шаблонирования</label>
+			<label index="newWebsite">Создать новый сайт</label>
+			<label index="newWebsiteAction">Создать шаблон для нового сайта</label>
+			<label index="newWebsiteDescription">Если нужно, чтобы эта страница стала корнем нового сайта, созданного на основе одного из стандартных шаблонов, нажмите кнопку ниже:</label>
+			<label index="noTemplate">Нет шаблона</label>
+			<label index="noTemplateDescription">На этой странице нет шаблона!</label>
+			<label index="objectBrowser">Проводник по объектам TypoScript</label>
+			<label index="overview">Это - краткий обзор страниц в базе данных, содержащих одну или несколько записей шаблонов. Щелкните по заголовку страницы для перехода к ней.</label>
+			<label index="pageName">Название страницы</label>
+			<label index="templateAnalyzer">Анализ шаблона</label>
+			<label index="templates"># Шаблонов</label>
+			<label index="titleNewSite">НОВЫЙ САЙТ</label>
+			<label index="titleNewSiteStandard">НОВЫЙ САЙТ, на стандартной основе</label>
+			<label index="viewTemplates">Просмотр шаблонов</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

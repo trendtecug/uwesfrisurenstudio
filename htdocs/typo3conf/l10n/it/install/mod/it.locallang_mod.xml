@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+      <label index="mlang_labels_tablabel">Tool di installazione</label>
+      <label index="mlang_labels_tabdescr">Link al tool di installazione (che deve essere attivato, in typo3/install/)&lt;br&gt;&lt;em&gt;Accesso riservato ai soli utenti 'admin'!&lt;/em&gt;</label>
+      <label index="mlang_tabs_tab">Installazione</label>
+      <label index="confirmUnlockInstallToolTitle">Il tool di installazione è bloccato</label>
+      <label index="confirmUnlockInstallToolMessage">&lt;p&gt;Per motivi di sicurezza il tool di installazione è di default bloccato.&lt;/p&gt;
+&lt;p&gt;Per sbloccare il tool di installazione, si deve creare un file vuoto con nome ENABLE_INSTALL_TOOL nella directory typo3conf/.&lt;/p&gt;
+&lt;p&gt;Cliccando sul pulsante sottostenate, il file verrà creato per voi e il tool di installazione risulterà sbloccato.&lt;/p&gt;
+&lt;p&gt;Si raccomanda di effettuare il log-out dal tool di installazione una volta effettuato il lavoro. Diversamente
+TYPO3 bloccherà automaticamente il tool di installazione per un'ora.&lt;/p&gt;</label>
+      <label index="confirmUnlockInstallToolButton">Sblocca il tool di installazione</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

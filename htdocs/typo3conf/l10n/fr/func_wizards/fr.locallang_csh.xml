@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="tx_funcwizards.alttitle">Assistants de Page</label>
+			<label index="tx_funcwizards.description">Ce sous-module permet d'ajouter des assistants. Les assistants actuellement disponibles permettent la création de plusieurs pages et le tri des pages par titre, date de création, etc.</label>
+			<label index="_tx_funcwizards.seeAlso">_MOD_web_func:tx_wizardcrpages, _MOD_web_func:tx_wizardsortpages</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

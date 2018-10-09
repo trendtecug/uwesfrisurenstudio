@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="mlang_labels_tablabel">Vérification de l'intégrité de la base de données</label>
+			<label index="mlang_labels_tabdescr">Vous pouvez ici contrôler l'intégrité de la base de données selon le $TCA. Pour l'instant, tous les enregistrements doivent correspondre à une page. Les fichiers orphelins attachés à des enregistrements (normalement stockés dans des répertoires uploads/*) sont eux aussi contrôlés. Vous pouvez également avoir une vue de l'ensemble de l'arborescence des pages, y.c. les pages supprimées. Pour terminer, vous avez accès à un moteur de recherche sur la base de données globale.&lt;br /&gt;&lt;em&gt;Accès pour les administrateurs uniquement !&lt;/em&gt;</label>
+			<label index="mlang_tabs_tab">Vérification BD</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

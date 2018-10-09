@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T02:27:01Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="age" approved="yes">
+				<source>Age</source>
+				<target state="translated">Âge</target>
+			</trans-unit>
+			<trans-unit id="changes" approved="yes">
+				<source>Changelog</source>
+				<target state="translated">Changelog</target>
+			</trans-unit>
+			<trans-unit id="delete" approved="yes">
+				<source>delete</source>
+				<target state="translated">effacer</target>
+			</trans-unit>
+			<trans-unit id="differenceMsg" approved="yes">
+				<source>In the Difference column you can see the changes at every modification of records. New changes are displayed in &lt;span class="diff-g"&gt;green colored text&lt;/span&gt; and the &lt;span class="diff-r"&gt;red colored text&lt;/span&gt; are the old values which were removed.</source>
+				<target state="translated">Dans la colonne "Différences" vous pouvez voir les changement à chaque modification d'enregistrement. Les nouvelles valeurs sont affichées en &lt;span class="diff-g"&gt;texte vert&lt;/span&gt; et les anciennes valeurs qui ont été supprimées sont affichées en &lt;span class="diff-r"&gt;texte rouge&lt;/span&gt;.</target>
+			</trans-unit>
+			<trans-unit id="differences" approved="yes">
+				<source>Differences</source>
+				<target state="translated">Différences</target>
+			</trans-unit>
+			<trans-unit id="elementHistory" approved="yes">
+				<source>You are currently seeing the history for an element.</source>
+				<target state="translated">Vous regardez actuellement l'historique d'un élément</target>
+			</trans-unit>
+			<trans-unit id="elementHistory_link" approved="yes">
+				<source>Show the full page history!</source>
+				<target state="translated">Afficher l'historique complet de la page!</target>
+			</trans-unit>
+			<trans-unit id="externalChange" approved="yes">
+				<source>Intermediate external change!</source>
+				<target state="translated">Changement intermediaire externe!</target>
+			</trans-unit>
+			<trans-unit id="fullView" approved="yes">
+				<source>Return to full view</source>
+				<target state="translated">Retour à la vue complète</target>
+			</trans-unit>
+			<trans-unit id="insert" approved="yes">
+				<source>insert</source>
+				<target state="translated">ajout</target>
+			</trans-unit>
+			<trans-unit id="linkRecordHistory" approved="yes">
+				<source>Limit history to this record</source>
+				<target state="translated">Limiter l'historique de cet enregistrement</target>
+			</trans-unit>
+			<trans-unit id="markState" approved="yes">
+				<source>mark this change</source>
+				<target state="translated">Marquer cette modification</target>
+			</trans-unit>
+			<trans-unit id="maxSteps" approved="yes">
+				<source>Show entries:</source>
+				<target state="translated">Afficher les enregistrements:</target>
+			</trans-unit>
+			<trans-unit id="maxSteps_all" approved="yes">
+				<source>ALL</source>
+				<target state="translated">TOUS</target>
+			</trans-unit>
+			<trans-unit id="maxSteps_marked" approved="yes">
+				<source>marked</source>
+				<target state="translated">marquer</target>
+			</trans-unit>
+			<trans-unit id="mergedDifferences" approved="yes">
+				<source>Preview for Rollback</source>
+				<target state="translated">Aperçu pour restauration</target>
+			</trans-unit>
+			<trans-unit id="no" approved="yes">
+				<source>No</source>
+				<target state="translated">Non</target>
+			</trans-unit>
+			<trans-unit id="noDifferences" approved="yes">
+				<source>There are no differences to the current page!</source>
+				<target state="translated">Il na aucune différence à la page en cours.</target>
+			</trans-unit>
+			<trans-unit id="return" approved="yes">
+				<source>Return</source>
+				<target state="translated">Retourner</target>
+			</trans-unit>
+			<trans-unit id="returnLink" approved="yes">
+				<source>Click here to go back</source>
+				<target state="translated">Cliquez ici pour retourner en arrière</target>
+			</trans-unit>
+			<trans-unit id="revertAll" approved="yes">
+				<source>Rollback all changes shown</source>
+				<target state="translated">Restaurer tout les changements affichés</target>
+			</trans-unit>
+			<trans-unit id="revertField" approved="yes">
+				<source>Rollback single field</source>
+				<target state="translated">Restaurer ce champ</target>
+			</trans-unit>
+			<trans-unit id="revertRecord" approved="yes">
+				<source>Rollback single record</source>
+				<target state="translated">Restaurer l'élément</target>
+			</trans-unit>
+			<trans-unit id="settings" approved="yes">
+				<source>Settings</source>
+				<target state="translated">Option</target>
+			</trans-unit>
+			<trans-unit id="showDiff" approved="yes">
+				<source>Show differences:</source>
+				<target state="translated">Afficher les différences:</target>
+			</trans-unit>
+			<trans-unit id="showDiff_inline" approved="yes">
+				<source>Inline</source>
+				<target state="translated">En ligne</target>
+			</trans-unit>
+			<trans-unit id="showDiff_no" approved="yes">
+				<source>No</source>
+				<target state="translated">Non</target>
+			</trans-unit>
+			<trans-unit id="showInsertDelete" approved="yes">
+				<source>Show inserts/deletes of records:</source>
+				<target state="translated">Afficher les ajouts/supressions d'élements:</target>
+			</trans-unit>
+			<trans-unit id="showSubElements" approved="yes">
+				<source>Show sub elements:</source>
+				<target state="translated">Afficher les sous elements:</target>
+			</trans-unit>
+			<trans-unit id="sumUpChanges" approved="yes">
+				<source>Rollback (Preview)</source>
+				<target state="translated">Restauration (prévisualisation)</target>
+			</trans-unit>
+			<trans-unit id="tableUid" approved="yes">
+				<source>Table:uid (Title)</source>
+				<target state="translated">Table:uid (Titre)</target>
+			</trans-unit>
+			<trans-unit id="time" approved="yes">
+				<source>Time</source>
+				<target state="translated">Date et heure</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Show record history</source>
+				<target state="translated">Afficher l'historique de l'enregistrement</target>
+			</trans-unit>
+			<trans-unit id="unmarkState" approved="yes">
+				<source>unMark this change</source>
+				<target state="translated">Démarquer cette modification</target>
+			</trans-unit>
+			<trans-unit id="user" approved="yes">
+				<source>User</source>
+				<target state="translated">Utilisateur</target>
+			</trans-unit>
+			<trans-unit id="yes" approved="yes">
+				<source>Yes</source>
+				<target state="translated">Oui</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

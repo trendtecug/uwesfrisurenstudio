@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="tsparser_ext.make_copy">Questa operazione creerà una copia del file '%s'. Confermi di volere proseguire?</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

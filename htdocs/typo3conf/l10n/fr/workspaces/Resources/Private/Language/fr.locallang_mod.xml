@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="autopublishTask.description">Cette tâche vérifie tout espace de travail possédant une date de publication fixée dans le passé, et le publie automatiquement.</label>
+			<label index="autopublishTask.name">Auto-publication des espaces de travail</label>
+			<label index="cleanupPreviewLinkTask.description">Cette tache supprimera les anciens liens de prévisualisation</label>
+			<label index="cleanupPreviewLinkTask.name">Nettoyage des liens de prévisualisation des Espaces de travail</label>
+			<label index="mlang_labels_tabdescr">Ce module contient une vue d'ensemble de tous les éléments à l'intérieur de l'espace de travail actuel. Il permet de continuer leur flux de travail de relecture et de publication.</label>
+			<label index="mlang_labels_tablabel">Créer et manipuler les flux de travail pour la gestion des versions</label>
+			<label index="mlang_tabs_tab">Espaces de travail</label>
+			<label index="stage_ready_to_publish">Prêt à publier</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T02:37:22Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="allowed_languages" approved="yes">
+				<source>Limit to languages:</source>
+				<target state="translated">Привязать к языкам:</target>
+			</trans-unit>
+			<trans-unit id="be_groups" approved="yes">
+				<source>Backend usergroup</source>
+				<target state="translated">Группа внутренних пользователей</target>
+			</trans-unit>
+			<trans-unit id="be_groups.custom_options" approved="yes">
+				<source>Custom module options:</source>
+				<target state="translated">Настройки дополнительных модулей:</target>
+			</trans-unit>
+			<trans-unit id="be_groups.explicit_allowdeny" approved="yes">
+				<source>Explicitly allow/deny field values:</source>
+				<target state="translated">Явно разрешить/запретить значения полей:</target>
+			</trans-unit>
+			<trans-unit id="be_groups.fileoper_perms" approved="yes">
+				<source>Fileoperation permissions:</source>
+				<target state="translated">Разрешения для операций с файлами:</target>
+			</trans-unit>
+			<trans-unit id="be_groups.fileoper_perms_diroper_perms" approved="yes">
+				<source>Directory: Move,Delete,Rename,New</source>
+				<target state="translated">Папки: Перемещение,Удаление,Переименование,Создание</target>
+			</trans-unit>
+			<trans-unit id="be_groups.fileoper_perms_diroper_perms_copy" approved="yes">
+				<source>Directory: Copy</source>
+				<target state="translated">Папки: Копирование</target>
+			</trans-unit>
+			<trans-unit id="be_groups.fileoper_perms_diroper_perms_delete" approved="yes">
+				<source>Directory: Delete recursively (rm -Rf)</source>
+				<target state="translated">Папки: Удаление вложенного (rm -Rf)</target>
+			</trans-unit>
+			<trans-unit id="be_groups.fileoper_perms_general" approved="yes">
+				<source>Files: Upload,Copy,Move,Delete,Rename,New,Edit</source>
+				<target state="translated">Файлы: Загрузка,Копирование,Перемещение,Удаление,Переименование,Создание,Правка</target>
+			</trans-unit>
+			<trans-unit id="be_groups.fileoper_perms_unzip" approved="yes">
+				<source>Files: Unzip</source>
+				<target state="translated">Файлы: распаковка</target>
+			</trans-unit>
+			<trans-unit id="be_groups.file_permissions.files" approved="yes">
+				<source>Files:</source>
+				<target state="translated">Файлы:</target>
+				<note>83%</note>
+			</trans-unit>
+			<trans-unit id="be_groups.file_permissions.files_add" approved="yes">
+				<source>Files: Add</source>
+				<target state="translated">Файлы: добавление</target>
+			</trans-unit>
+			<trans-unit id="be_groups.file_permissions.files_copy" approved="yes">
+				<source>Files: Copy</source>
+				<target state="translated">Файлы: копирование</target>
+			</trans-unit>
+			<trans-unit id="be_groups.file_permissions.files_delete" approved="yes">
+				<source>Files: Delete</source>
+				<target state="translated">Файлы: удаление</target>
+			</trans-unit>
+			<trans-unit id="be_groups.file_permissions.files_edit" approved="yes">
+				<source>Files: Edit</source>
+				<target state="translated">Файлы: правка</target>
+			</trans-unit>
+			<trans-unit id="be_groups.file_permissions.files_move" approved="yes">
+				<source>Files: Move</source>
+				<target state="translated">Файлы: перемещение</target>
+			</trans-unit>
+			<trans-unit id="be_groups.file_permissions.files_read" approved="yes">
+				<source>Files: Read</source>
+				<target state="translated">Файлы: чтение</target>
+			</trans-unit>
+			<trans-unit id="be_groups.file_permissions.files_rename" approved="yes">
+				<source>Files: Rename</source>
+				<target state="translated">Файлы: переименование</target>
+			</trans-unit>
+			<trans-unit id="be_groups.file_permissions.files_write" approved="yes">
+				<source>Files: Write</source>
+				<target state="translated">Файлы: запись</target>
+			</trans-unit>
+			<trans-unit id="be_groups.file_permissions.folder" approved="yes">
+				<source>Directory:</source>
+				<target state="translated">Директория:</target>
+			</trans-unit>
+			<trans-unit id="be_groups.file_permissions.folder_add" approved="yes">
+				<source>Directory: Add</source>
+				<target state="translated">Директория: добавление</target>
+				<note>80% 75% 76% 76% 82% 80%</note>
+			</trans-unit>
+			<trans-unit id="be_groups.file_permissions.folder_copy" approved="yes">
+				<source>Directory: Copy</source>
+				<target state="translated">Директории: копировать</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="be_groups.file_permissions.folder_delete" approved="yes">
+				<source>Directory: Delete</source>
+				<target state="translated">Директория: удаление</target>
+				<note>80% 75% 76% 100%</note>
+			</trans-unit>
+			<trans-unit id="be_groups.file_permissions.folder_move" approved="yes">
+				<source>Directory: Move</source>
+				<target state="translated">Директория: перемещение</target>
+				<note>80%</note>
+			</trans-unit>
+			<trans-unit id="be_groups.file_permissions.folder_read" approved="yes">
+				<source>Directory: Read</source>
+				<target state="translated">Директория: чтение</target>
+				<note>80% 75% 76% 76% 82%</note>
+			</trans-unit>
+			<trans-unit id="be_groups.file_permissions.folder_recursivedelete" approved="yes">
+				<source>Directory: Delete recursively</source>
+				<target state="translated">Директория: рекурсивное удаление</target>
+				<note>76%</note>
+			</trans-unit>
+			<trans-unit id="be_groups.file_permissions.folder_rename" approved="yes">
+				<source>Directory: Rename</source>
+				<target state="translated">Директория: переименование</target>
+				<note>80% 75% 76% 76%</note>
+			</trans-unit>
+			<trans-unit id="be_groups.file_permissions.folder_write" approved="yes">
+				<source>Directory: Write</source>
+				<target state="translated">Директория: запись</target>
+				<note>80% 75%</note>
+			</trans-unit>
+			<trans-unit id="be_groups.hide_in_lists" approved="yes">
+				<source>Hide in lists:</source>
+				<target state="translated">Спрятать в списках:</target>
+			</trans-unit>
+			<trans-unit id="be_groups.inc_access_lists" approved="yes">
+				<source>Include Access Lists:</source>
+				<target state="translated">Включить списки доступа:</target>
+			</trans-unit>
+			<trans-unit id="be_groups.non_exclude_fields" approved="yes">
+				<source>Allowed excludefields:</source>
+				<target state="translated">Разрешённые поля-исключения:</target>
+			</trans-unit>
+			<trans-unit id="be_groups.pagetypes_select" approved="yes">
+				<source>Page types:</source>
+				<target state="translated">Типы страниц:</target>
+			</trans-unit>
+			<trans-unit id="be_groups.subgroup" approved="yes">
+				<source>Inherit settings from groups:</source>
+				<target state="translated">Наследовать настройки из групп:</target>
+			</trans-unit>
+			<trans-unit id="be_groups.tables_modify" approved="yes">
+				<source>Tables (modify):</source>
+				<target state="translated">Таблицы (редактировать):</target>
+			</trans-unit>
+			<trans-unit id="be_groups.tables_select" approved="yes">
+				<source>Tables (listing):</source>
+				<target state="translated">Таблицы (просматривать):</target>
+			</trans-unit>
+			<trans-unit id="be_groups.tabs.base_rights" approved="yes">
+				<source>Access Lists</source>
+				<target state="translated">Списки доступа</target>
+			</trans-unit>
+			<trans-unit id="be_groups.tabs.extended" approved="yes">
+				<source>Extended</source>
+				<target state="translated">Дополнительно</target>
+			</trans-unit>
+			<trans-unit id="be_groups.tabs.mounts_and_workspaces" approved="yes">
+				<source>Mounts and Workspaces</source>
+				<target state="translated">Точки доступа и рабочие области</target>
+			</trans-unit>
+			<trans-unit id="be_groups.tabs.options" approved="yes">
+				<source>Options</source>
+				<target state="translated">Параметры</target>
+			</trans-unit>
+			<trans-unit id="be_groups.title" approved="yes">
+				<source>Grouptitle:</source>
+				<target state="translated">Название группы:</target>
+			</trans-unit>
+			<trans-unit id="be_users" approved="yes">
+				<source>Backend user</source>
+				<target state="translated">Внутренний пользователь</target>
+			</trans-unit>
+			<trans-unit id="be_users.admin" approved="yes">
+				<source>Admin(!):</source>
+				<target state="translated">Администратор(!):</target>
+			</trans-unit>
+			<trans-unit id="be_users.disableIPlock" approved="yes">
+				<source>Disable IP lock for user:</source>
+				<target state="translated">Запретить привязку к IP для этого пользователя:</target>
+			</trans-unit>
+			<trans-unit id="be_users.fileoper_perms" approved="yes">
+				<source>Fileoperation permissions:</source>
+				<target state="translated">Разрешения для операций с файлами:</target>
+			</trans-unit>
+			<trans-unit id="be_users.fileoper_perms_diroper_perms" approved="yes">
+				<source>Directory: Move,Delete,Rename,New</source>
+				<target state="translated">Директории: перемещать,удалять,переименовывать,создавать</target>
+			</trans-unit>
+			<trans-unit id="be_users.fileoper_perms_diroper_perms_copy" approved="yes">
+				<source>Directory: Copy</source>
+				<target state="translated">Директории: копировать</target>
+			</trans-unit>
+			<trans-unit id="be_users.fileoper_perms_diroper_perms_delete" approved="yes">
+				<source>Directory: Delete recursively (rm -Rf)</source>
+				<target state="translated">Директории: удалять рекурсивно (rm -Rf)</target>
+			</trans-unit>
+			<trans-unit id="be_users.fileoper_perms_general" approved="yes">
+				<source>Files: Upload,Copy,Move,Delete,Rename,New,Edit</source>
+				<target state="translated">Файлы: загружать,копировать,перемещать,удалять,переименовывать,создавать,редактировать</target>
+			</trans-unit>
+			<trans-unit id="be_users.fileoper_perms_unzip" approved="yes">
+				<source>Files: Unzip</source>
+				<target state="translated">Файлы: распаковывать zip архивы</target>
+			</trans-unit>
+			<trans-unit id="be_users.file_permissions.file_delete" approved="yes">
+				<source>Files: Delete</source>
+				<target state="translated">Файлы: удаление</target>
+			</trans-unit>
+			<trans-unit id="be_users.file_permissions.files" approved="yes">
+				<source>Files:</source>
+				<target state="translated">Файлы</target>
+				<note>83%</note>
+			</trans-unit>
+			<trans-unit id="be_users.file_permissions.files_add" approved="yes">
+				<source>Files: Add</source>
+				<target state="translated">Файлы: добавлять</target>
+			</trans-unit>
+			<trans-unit id="be_users.file_permissions.files_copy" approved="yes">
+				<source>Files: Copy</source>
+				<target state="translated">Файлы: копировать</target>
+			</trans-unit>
+			<trans-unit id="be_users.file_permissions.files_move" approved="yes">
+				<source>Files: Move</source>
+				<target state="translated">Файлы: перемещение</target>
+			</trans-unit>
+			<trans-unit id="be_users.file_permissions.files_read" approved="yes">
+				<source>Files: Read</source>
+				<target state="translated">Файлы: чтение</target>
+			</trans-unit>
+			<trans-unit id="be_users.file_permissions.files_rename" approved="yes">
+				<source>Files: Rename</source>
+				<target state="translated">Файлы: переименование</target>
+			</trans-unit>
+			<trans-unit id="be_users.file_permissions.files_write" approved="yes">
+				<source>Files: Write</source>
+				<target state="translated">Файлы: запись</target>
+			</trans-unit>
+			<trans-unit id="be_users.lang" approved="yes">
+				<source>Default Language:</source>
+				<target state="translated">Язык по умолчанию:</target>
+			</trans-unit>
+			<trans-unit id="be_users.options" approved="yes">
+				<source>Mount from groups:</source>
+				<target state="translated">Наследовать точки доступа из групп:</target>
+			</trans-unit>
+			<trans-unit id="be_users.options_db_mounts" approved="yes">
+				<source>DB Mounts</source>
+				<target state="translated">Точки доступа к БД:</target>
+			</trans-unit>
+			<trans-unit id="be_users.options_file_mounts" approved="yes">
+				<source>File Mounts</source>
+				<target state="translated">Точки доступа к файлам:</target>
+			</trans-unit>
+			<trans-unit id="be_users.password" approved="yes">
+				<source>Password:</source>
+				<target state="translated">Пароль:</target>
+			</trans-unit>
+			<trans-unit id="be_users.tabs.access" approved="yes">
+				<source>Access</source>
+				<target state="translated">Доступ</target>
+			</trans-unit>
+			<trans-unit id="be_users.tabs.extended" approved="yes">
+				<source>Extended</source>
+				<target state="translated">Дополнительно</target>
+			</trans-unit>
+			<trans-unit id="be_users.tabs.mounts_and_workspaces" approved="yes">
+				<source>Mounts and Workspaces</source>
+				<target state="translated">Точки доступа и рабочие области</target>
+			</trans-unit>
+			<trans-unit id="be_users.tabs.options" approved="yes">
+				<source>Options</source>
+				<target state="translated">Параметры</target>
+			</trans-unit>
+			<trans-unit id="be_users.tabs.rights" approved="yes">
+				<source>Access Rights</source>
+				<target state="translated">Права доступа</target>
+			</trans-unit>
+			<trans-unit id="be_users.usergroup" approved="yes">
+				<source>Group:</source>
+				<target state="translated">Группа:</target>
+			</trans-unit>
+			<trans-unit id="be_users.usergroup_add_title" approved="yes">
+				<source>Create new group</source>
+				<target state="translated">Создать новую группу</target>
+			</trans-unit>
+			<trans-unit id="be_users.usergroup_edit_title" approved="yes">
+				<source>Edit usergroup</source>
+				<target state="translated">Править группу пользователя</target>
+			</trans-unit>
+			<trans-unit id="be_users.usergroup_list_title" approved="yes">
+				<source>List groups</source>
+				<target state="translated">Список групп</target>
+			</trans-unit>
+			<trans-unit id="be_users.username" approved="yes">
+				<source>Username:</source>
+				<target state="translated">Имя пользователя:</target>
+			</trans-unit>
+			<trans-unit id="category_perms" approved="yes">
+				<source>Category Mounts:</source>
+				<target state="translated">Категория точки монтирования:</target>
+			</trans-unit>
+			<trans-unit id="db_mountpoints" approved="yes">
+				<source>DB Mounts:</source>
+				<target state="translated">Доступ к БД:</target>
+			</trans-unit>
+			<trans-unit id="doktype.I.0" approved="yes">
+				<source>Standard</source>
+				<target state="translated">Стандарт</target>
+			</trans-unit>
+			<trans-unit id="doktype.I.1" approved="yes">
+				<source>SysFolder</source>
+				<target state="translated">Системная папка</target>
+			</trans-unit>
+			<trans-unit id="doktype.I.2" approved="yes">
+				<source>Recycler</source>
+				<target state="translated">Корзина</target>
+			</trans-unit>
+			<trans-unit id="doktype.I.folder" approved="yes">
+				<source>Folder</source>
+				<target state="translated">Папка</target>
+			</trans-unit>
+			<trans-unit id="editlock" approved="yes">
+				<source>Restrict editing by non-Admins:</source>
+				<target state="translated">Запретить редактирование помимо администраторов:</target>
+			</trans-unit>
+			<trans-unit id="file_mountpoints" approved="yes">
+				<source>File Mounts:</source>
+				<target state="translated">Точки доступа к файлам:</target>
+			</trans-unit>
+			<trans-unit id="file_mountpoints_add_title" approved="yes">
+				<source>Create new filemount</source>
+				<target state="translated">Создать новую точку доступа к файлам</target>
+			</trans-unit>
+			<trans-unit id="file_mountpoints_edit_title" approved="yes">
+				<source>Edit filemount</source>
+				<target state="translated">Редактировать точку доступа к файлам</target>
+			</trans-unit>
+			<trans-unit id="file_mountpoints_list_title" approved="yes">
+				<source>List filemounts</source>
+				<target state="translated">Список точек доступа к файлам</target>
+			</trans-unit>
+			<trans-unit id="is_siteroot" approved="yes">
+				<source>Is root of website:</source>
+				<target state="translated">Корень сайта:</target>
+			</trans-unit>
+			<trans-unit id="lockToDomain" approved="yes">
+				<source>Lock to domain:</source>
+				<target state="translated">Ограничить доменом:</target>
+			</trans-unit>
+			<trans-unit id="pages" approved="yes">
+				<source>Page</source>
+				<target state="translated">Страница</target>
+			</trans-unit>
+			<trans-unit id="php_tree_stop" approved="yes">
+				<source>Stop page tree:</source>
+				<target state="translated">Конец дерева:</target>
+			</trans-unit>
+			<trans-unit id="storage_pid" xml:space="preserve" approved="yes">
+				<source>General Record Storage page:</source>
+			<target state="translated">Место хранения общих записей:</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="sys_category" approved="yes">
+				<source>Category</source>
+				<target state="translated">Категория</target>
+			</trans-unit>
+			<trans-unit id="sys_category.categories" approved="yes">
+				<source>Categories</source>
+				<target state="translated">Категории</target>
+			</trans-unit>
+			<trans-unit id="sys_category.description" approved="yes">
+				<source>Description</source>
+				<target state="translated">Описание</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="sys_category.items" approved="yes">
+				<source>Items</source>
+				<target state="translated">Элементы</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="sys_category.parent" approved="yes">
+				<source>Parent</source>
+				<target state="translated">Родитель</target>
+			</trans-unit>
+			<trans-unit id="sys_category.tabs.category" approved="yes">
+				<source>Categories</source>
+				<target state="translated">Категории</target>
+			</trans-unit>
+			<trans-unit id="sys_category.tabs.items" approved="yes">
+				<source>Items</source>
+				<target state="translated">Элементы</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="sys_category.title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Название</target>
+			</trans-unit>
+			<trans-unit id="sys_collection" approved="yes">
+				<source>Record Collection</source>
+				<target state="translated">Набор записей</target>
+			</trans-unit>
+			<trans-unit id="sys_collection.description" approved="yes">
+				<source>Description</source>
+				<target state="translated">Описание</target>
+			</trans-unit>
+			<trans-unit id="sys_collection.items" approved="yes">
+				<source>Items</source>
+				<target state="translated">Элементы</target>
+			</trans-unit>
+			<trans-unit id="sys_collection.table_name" approved="yes">
+				<source>Record Type of Collection</source>
+				<target state="translated">Тип записей в наборе</target>
+			</trans-unit>
+			<trans-unit id="sys_collection.title" approved="yes">
+				<source>Collection-Name</source>
+				<target state="translated">Название набора</target>
+			</trans-unit>
+			<trans-unit id="sys_collection.type" approved="yes">
+				<source>Type of collection</source>
+				<target state="translated">Тип набора</target>
+			</trans-unit>
+			<trans-unit id="sys_collection.type.static" approved="yes">
+				<source>static record composition</source>
+				<target state="translated">набор статических записей</target>
+			</trans-unit>
+			<trans-unit id="sys_file" approved="yes">
+				<source>File</source>
+				<target state="translated">Файл</target>
+			</trans-unit>
+			<trans-unit id="sys_file.alternative" approved="yes">
+				<source>Alternative Text</source>
+				<target state="translated">Альтернативный текст</target>
+			</trans-unit>
+			<trans-unit id="sys_file_collection" approved="yes">
+				<source>File collection</source>
+				<target state="translated">Файловая коллекция</target>
+			</trans-unit>
+			<trans-unit id="sys_file_collection.category" approved="yes">
+				<source>Category</source>
+				<target state="translated">Категория</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="sys_file_collection.files" approved="yes">
+				<source>Files</source>
+				<target state="translated">Файлы</target>
+			</trans-unit>
+			<trans-unit id="sys_file_collection.folder" approved="yes">
+				<source>Folder</source>
+				<target state="translated">Папка</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="sys_file_collection.storage" approved="yes">
+				<source>File Storage</source>
+				<target state="translated">Файловое хранилище</target>
+			</trans-unit>
+			<trans-unit id="sys_file_collection.title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Название</target>
+			</trans-unit>
+			<trans-unit id="sys_file_collection.type" approved="yes">
+				<source>Type</source>
+				<target state="translated">Тип</target>
+			</trans-unit>
+			<trans-unit id="sys_file_collection.type.0" approved="yes">
+				<source>Static selection of files</source>
+				<target state="translated">Статический выбор файлов</target>
+			</trans-unit>
+			<trans-unit id="sys_file_collection.type.1" approved="yes">
+				<source>Folder from Storage</source>
+				<target state="translated">Папка из хранилища</target>
+			</trans-unit>
+			<trans-unit id="sys_file_collection.type.2" approved="yes">
+				<source>Select by category</source>
+				<target state="translated">Выбор по категории</target>
+			</trans-unit>
+			<trans-unit id="sys_file.description" approved="yes">
+				<source>Description</source>
+				<target state="translated">Описание</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="sys_file.identifier" approved="yes">
+				<source>Identifier</source>
+				<target state="translated">Идентификатор</target>
+			</trans-unit>
+			<trans-unit id="sys_file_metadata" approved="yes">
+				<source>File Metadata</source>
+				<target state="translated">Метаданные файла</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="sys_file.metadata" approved="yes">
+				<source>Metadata records</source>
+				<target state="translated">Записи мета данных</target>
+			</trans-unit>
+			<trans-unit id="sys_file.mime_type" approved="yes">
+				<source>Mime Type</source>
+				<target state="translated">Тип MIME</target>
+			</trans-unit>
+			<trans-unit id="sys_file.missing" approved="yes">
+				<source>Marked as missing</source>
+				<target state="translated">Отмечено как отсутствующее</target>
+			</trans-unit>
+			<trans-unit id="sys_filemounts" approved="yes">
+				<source>Filemount</source>
+				<target state="translated">Доступ к файлам</target>
+			</trans-unit>
+			<trans-unit id="sys_filemounts.base" approved="yes">
+				<source>Base:</source>
+				<target state="translated">База:</target>
+			</trans-unit>
+			<trans-unit id="sys_filemounts.base_absolute" approved="no">
+				<source>absolute (root) / </source>
+				<target state="needs-translation">абсолютный (от корня файловой системы) /</target>
+			</trans-unit>
+			<trans-unit id="sys_filemounts.base_relative" approved="yes">
+				<source>relative ../fileadmin/</source>
+				<target state="translated">относительный ../fileadmin/</target>
+			</trans-unit>
+			<trans-unit id="sys_filemounts.path" approved="yes">
+				<source>Path:</source>
+				<target state="translated">Путь:</target>
+			</trans-unit>
+			<trans-unit id="sys_filemounts.tabs.mountpoints" approved="yes">
+				<source>Mountpoints</source>
+				<target state="translated">Точки доступа</target>
+			</trans-unit>
+			<trans-unit id="sys_filemounts.tabs.other" approved="yes">
+				<source>Other</source>
+				<target state="translated">Другое</target>
+			</trans-unit>
+			<trans-unit id="sys_filemounts.tabs.publishing" approved="yes">
+				<source>Publishing</source>
+				<target state="translated">Публикация</target>
+			</trans-unit>
+			<trans-unit id="sys_filemounts.tabs.users" approved="yes">
+				<source>Users</source>
+				<target state="translated">Пользователи</target>
+			</trans-unit>
+			<trans-unit id="sys_filemounts.title" approved="yes">
+				<source>Label:</source>
+				<target state="translated">Метка:</target>
+			</trans-unit>
+			<trans-unit id="sys_file.name" approved="yes">
+				<source>Filename</source>
+				<target state="translated">Имя файла</target>
+			</trans-unit>
+			<trans-unit id="sys_file_reference" approved="yes">
+				<source>File Reference</source>
+				<target state="translated">Ссылка на файл</target>
+			</trans-unit>
+			<trans-unit id="sys_file_reference.alternative" approved="yes">
+				<source>Alternative Text</source>
+				<target state="translated">Альтернативный текст</target>
+			</trans-unit>
+			<trans-unit id="sys_file_reference.basicoverlayPalette" approved="yes">
+				<source>File Metadata</source>
+				<target state="translated">Метаданные файла</target>
+			</trans-unit>
+			<trans-unit id="sys_file_reference.description" approved="yes">
+				<source>Description (Caption)</source>
+				<target state="translated">Описание (подпись)</target>
+			</trans-unit>
+			<trans-unit id="sys_file_reference.downloadname" approved="yes">
+				<source>Download Name</source>
+				<target state="translated">Название загрузки</target>
+			</trans-unit>
+			<trans-unit id="sys_file_reference.fieldname" approved="yes">
+				<source>Foreign Field</source>
+				<target state="translated">Внешнее (foreign) поле</target>
+			</trans-unit>
+			<trans-unit id="sys_file_reference.imageoverlayPalette" approved="yes">
+				<source>Image Metadata</source>
+				<target state="translated">Метаданные картинки</target>
+			</trans-unit>
+			<trans-unit id="sys_file_reference.link" approved="yes">
+				<source>Link</source>
+				<target state="translated">Ссылка</target>
+			</trans-unit>
+			<trans-unit id="sys_file_reference.sorting_foreign" approved="yes">
+				<source>Sorting foreign</source>
+				<target state="translated">Внешняя (foreign) сортировка</target>
+			</trans-unit>
+			<trans-unit id="sys_file_reference.tablenames" approved="yes">
+				<source>Table name</source>
+				<target state="translated">Имя таблицы</target>
+			</trans-unit>
+			<trans-unit id="sys_file_reference.title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Название</target>
+			</trans-unit>
+			<trans-unit id="sys_file_reference.uid_foreign" approved="yes">
+				<source>Used by content elements</source>
+				<target state="translated">Используется элементом содержимого</target>
+			</trans-unit>
+			<trans-unit id="sys_file_reference.uid_local" approved="yes">
+				<source>File</source>
+				<target state="translated">Файл</target>
+			</trans-unit>
+			<trans-unit id="sys_file.sha1" approved="yes">
+				<source>SHA1</source>
+				<target state="translated">SHA1</target>
+			</trans-unit>
+			<trans-unit id="sys_file.size" approved="yes">
+				<source>Size</source>
+				<target state="translated">Размер</target>
+			</trans-unit>
+			<trans-unit id="sys_file_storage" approved="yes">
+				<source>File Storage</source>
+				<target state="translated">Файловое хранилище</target>
+			</trans-unit>
+			<trans-unit id="sys_file.storage" approved="yes">
+				<source>Storage</source>
+				<target state="translated">Хранилище</target>
+			</trans-unit>
+			<trans-unit id="sys_file_storage.capabilities" approved="yes">
+				<source>Capabilities</source>
+				<target state="translated">Возможности</target>
+			</trans-unit>
+			<trans-unit id="sys_file_storage.configuration" approved="yes">
+				<source>Driver Configuration</source>
+				<target state="translated">Настройки драйвера</target>
+			</trans-unit>
+			<trans-unit id="sys_file_storage.description" approved="yes">
+				<source>Description</source>
+				<target state="translated">Описание</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="sys_file_storage.driver" approved="yes">
+				<source>Driver</source>
+				<target state="translated">Драйвер</target>
+			</trans-unit>
+			<trans-unit id="sys_file_storage.driver.local" approved="yes">
+				<source>Local Filesystem</source>
+				<target state="translated">Локальная файловая система</target>
+			</trans-unit>
+			<trans-unit id="sys_file_storage.hidden" approved="yes">
+				<source>Hide from listings</source>
+				<target state="translated">Не показывать в списке</target>
+			</trans-unit>
+			<trans-unit id="sys_file_storage.is_browsable" approved="yes">
+				<source>Is browsable?</source>
+				<target state="translated">Можно просмотреть?</target>
+			</trans-unit>
+			<trans-unit id="sys_file_storage.is_default" approved="yes">
+				<source>Is default storage?</source>
+				<target state="translated">Хранилище по умолчанию?</target>
+			</trans-unit>
+			<trans-unit id="sys_file_storage.is_online" approved="yes">
+				<source>Is online?</source>
+				<target state="translated">Онлайн?</target>
+			</trans-unit>
+			<trans-unit id="sys_file_storage.is_public" approved="yes">
+				<source>Is publicly available?</source>
+				<target state="translated">Разрешён публичный доступ?</target>
+			</trans-unit>
+			<trans-unit id="sys_file_storage.is_writable" approved="yes">
+				<source>Is writable?</source>
+				<target state="translated">Открыт для записи?</target>
+			</trans-unit>
+			<trans-unit id="sys_file_storage.name" approved="yes">
+				<source>Name</source>
+				<target state="translated">Имя</target>
+			</trans-unit>
+			<trans-unit id="sys_file_storage.processingfolder" approved="yes">
+				<source>Folder for manipulated and temporary images etc.</source>
+				<target state="translated">Папка для временного хранения картинок и т.п.</target>
+			</trans-unit>
+			<trans-unit id="sys_file_storage.processingfolder.placeholder" approved="yes">
+				<source>_processed_ or 1:/processed_files_storage_x</source>
+				<target state="translated">_processed_ or 1:/processed_files_storage_x</target>
+			</trans-unit>
+			<trans-unit id="sys_file_storage.type" approved="yes">
+				<source>Entry point</source>
+				<target state="translated">Точка входа</target>
+			</trans-unit>
+			<trans-unit id="sys_file.title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Название</target>
+			</trans-unit>
+			<trans-unit id="sys_file.type" approved="yes">
+				<source>File Type</source>
+				<target state="translated">Тип файла</target>
+			</trans-unit>
+			<trans-unit id="sys_file.type.audio" approved="yes">
+				<source>Audio</source>
+				<target state="translated">Аудио</target>
+			</trans-unit>
+			<trans-unit id="sys_file.type.image" approved="yes">
+				<source>Image</source>
+				<target state="translated">Картинка</target>
+			</trans-unit>
+			<trans-unit id="sys_file.type.software" approved="yes">
+				<source>Software</source>
+				<target state="translated">Программное обеспечение</target>
+			</trans-unit>
+			<trans-unit id="sys_file.type.text" approved="yes">
+				<source>Text</source>
+				<target state="translated">Текст</target>
+			</trans-unit>
+			<trans-unit id="sys_file.type.unknown" approved="yes">
+				<source>Unknown</source>
+				<target state="translated">Неизвестно</target>
+			</trans-unit>
+			<trans-unit id="sys_file.type.video" approved="yes">
+				<source>Video</source>
+				<target state="translated">Видео</target>
+			</trans-unit>
+			<trans-unit id="sys_file.usage_count" approved="yes">
+				<source>Usage Count</source>
+				<target state="translated">Счётчик обращений</target>
+			</trans-unit>
+			<trans-unit id="sys_language" approved="yes">
+				<source>Website Language</source>
+				<target state="translated">Язык сайта</target>
+			</trans-unit>
+			<trans-unit id="sys_language.flag" approved="yes">
+				<source>Select flag icon:</source>
+				<target state="translated">Выберите символ флага:</target>
+			</trans-unit>
+			<trans-unit id="sys_language.isocode" approved="yes">
+				<source>Select Official Language (ISO code):</source>
+				<target state="translated">Выберите официальный язык (код ISO):</target>
+			</trans-unit>
+			<trans-unit id="sys_log" approved="yes">
+				<source>System Log</source>
+				<target state="translated">Системный журнал</target>
+			</trans-unit>
+			<trans-unit id="sys_news" approved="yes">
+				<source>System News</source>
+				<target state="translated">Системные новости</target>
+			</trans-unit>
+			<trans-unit id="sys_news.tabs.access" approved="yes">
+				<source>Access</source>
+				<target state="translated">Доступ</target>
+			</trans-unit>
+			<trans-unit id="sys_workspace" approved="yes">
+				<source>Workspace</source>
+				<target state="translated">Рабочая область</target>
+			</trans-unit>
+			<trans-unit id="sys_workspace.adminusers" approved="yes">
+				<source>Owners:</source>
+				<target state="translated">Владельцы:</target>
+			</trans-unit>
+			<trans-unit id="sys_workspace.disable_autocreate" approved="yes">
+				<source>Disable auto-versioning when editing</source>
+				<target state="translated">Запретить автоматическое управление версиями во время правки</target>
+			</trans-unit>
+			<trans-unit id="sys_workspace.freeze" approved="yes">
+				<source>Freeze Editing</source>
+				<target state="translated">Остановить редактирование</target>
+			</trans-unit>
+			<trans-unit id="sys_workspace.live_edit" approved="yes">
+				<source>Allow "live" editing of records from tables without versioning</source>
+				<target state="translated">Разрешить "оперативное" редактирование записей из таблиц без поддержки управления версиями</target>
+			</trans-unit>
+			<trans-unit id="sys_workspace.members" approved="yes">
+				<source>Members:</source>
+				<target state="translated">Члены:</target>
+			</trans-unit>
+			<trans-unit id="sys_workspace.publish_access" approved="yes">
+				<source>Publish access:</source>
+				<target state="translated">Право публикации:</target>
+			</trans-unit>
+			<trans-unit id="sys_workspace.publish_time" approved="yes">
+				<source>Publish:</source>
+				<target state="translated">Опубликовать:</target>
+			</trans-unit>
+			<trans-unit id="sys_workspace.reviewers" approved="yes">
+				<source>Reviewers:</source>
+				<target state="translated">Редакторы:</target>
+			</trans-unit>
+			<trans-unit id="sys_workspace.review_stage_edit" approved="yes">
+				<source>Allow members to edit records in "Review" stage</source>
+				<target state="translated">Разрешить членам рабочей области править записи на стадии рассмотрения</target>
+			</trans-unit>
+			<trans-unit id="sys_workspace.stagechg_notification" approved="yes">
+				<source>Stage change notification by email:</source>
+				<target state="translated">Уведомление об изменениях стадии по электронной почте:</target>
+			</trans-unit>
+			<trans-unit id="sys_workspace.swap_modes" approved="yes">
+				<source>Swap modes</source>
+				<target state="translated">Режим обмена</target>
+			</trans-unit>
+			<trans-unit id="sys_workspace.unpublish_time" approved="yes">
+				<source>Un-Publish:</source>
+				<target state="translated">Снять публикацию:</target>
+			</trans-unit>
+			<trans-unit id="sys_workspace.vtypes" approved="yes">
+				<source>Disable Versioning Types for members and reviewers:</source>
+				<target state="translated">Запрещенные типы управления версиями для членов и редакторов области:</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Pagetitle:</source>
+				<target state="translated">Заголовок:</target>
+			</trans-unit>
+			<trans-unit id="TSconfig" approved="yes">
+				<source>TSconfig:</source>
+				<target state="translated">TSconfig:</target>
+			</trans-unit>
+			<trans-unit id="TSconfig_title" approved="yes">
+				<source>TSconfig QuickReference</source>
+				<target state="translated">TSconfig QuickReference</target>
+			</trans-unit>
+			<trans-unit id="userMods" approved="yes">
+				<source>Modules:</source>
+				<target state="translated">Модули:</target>
+			</trans-unit>
+			<trans-unit id="workspace_perms" approved="yes">
+				<source>Workspace permissions:</source>
+				<target state="translated">Настройки доступа к рабочим областям:</target>
+			</trans-unit>
+			<trans-unit id="workspace_perms_custom" approved="yes">
+				<source>Create new workspace projects</source>
+				<target state="translated">Создать новые рабочие области</target>
+			</trans-unit>
+			<trans-unit id="workspace_perms_draft" approved="yes">
+				<source>Edit Draft (Offline)</source>
+				<target state="translated">Править черновую рабочую область (Оффлайн)</target>
+			</trans-unit>
+			<trans-unit id="workspace_perms_live" approved="yes">
+				<source>Edit Live (Online)</source>
+				<target state="translated">Править оперативную рабочую область (Онлайн)</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

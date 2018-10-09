@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="CO-forecolor">Цвет текста</label>
+			<label index="CO-forecolor_title">Установить цвет текста</label>
+			<label index="CO-hilitecolor">Цвет фона</label>
+			<label index="CO-hilitecolor_title">Установить цвет фона</label>
+			<label index="color_title">Выбор цвета</label>
+			<label index="no_color">Без цвета</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

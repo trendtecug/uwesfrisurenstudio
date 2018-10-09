@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="fe_groups.tx_extbase_type">Tipo Record</label>
+			<label index="fe_groups.tx_extbase_type.0">indefinito</label>
+			<label index="fe_groups.tx_extbase_type.Tx_Extbase_Domain_Model_FrontendUserGroup">Tx_Extbase_Domain_Model_FrontendUserGroup</label>
+			<label index="fe_users.tx_extbase_type">Tipo Record</label>
+			<label index="fe_users.tx_extbase_type.0">indefinito</label>
+			<label index="fe_users.tx_extbase_type.Tx_Extbase_Domain_Model_FrontendUser">Tx_Extbase_Domain_Model_FrontendUser</label>
+			<label index="task.action">Comando CommandController</label>
+			<label index="task.description">Permetti ai comandi Extbase CommandController di essere configurati ed eseguiti tramite il framework di pianificazione</label>
+			<label index="task.name">Compito Extbase CommandController</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

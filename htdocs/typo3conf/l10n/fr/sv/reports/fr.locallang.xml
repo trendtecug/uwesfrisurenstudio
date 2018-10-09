@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="report_title">Services installés</label>
+      <label index="report_description">Liste des services installés avec des informations et le statut pour chacun d’entre eux.</label>
+      <label index="report_explanation">Ce rapport affiche la liste des services installés, avec des informations détaillées pour chacun d’entre eux. Les services sont triés par type, priorité et qualité. Les services indisponibles sont mis en valeur via un code d’erreur.</label>
+      <label index="externals_explanation">La colonne "Exécutables externes" affiche les programmes externes d'un service donné. Si un tel programme est manquant ou non exécutable, le service ne sera pas disponible. Les chemins de recherche des exécutables sont listés en bas de ce rapport.</label>
+      <label index="service_type">Type du service: %s</label>
+      <label index="service">Service</label>
+      <label index="priority">Priorité</label>
+      <label index="quality">Qualité</label>
+      <label index="subtypes">Sous-types</label>
+      <label index="os">OS</label>
+      <label index="externals">Exécutables externes</label>
+      <label index="available">Disponible</label>
+      <label index="any">Tous</label>
+      <label index="search_paths">Chemins de recherche configurés pour les programmes externes</label>
+      <label index="path">Chemin</label>
+      <label index="valid">Valide</label>
+      <label index="no_search_paths">Pas de chemin de recherche configuré.</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

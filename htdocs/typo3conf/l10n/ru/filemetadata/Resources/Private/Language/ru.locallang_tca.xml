@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="fe_groups.files">Разрешённые файлы</label>
+			<label index="palette.content_date">Дата содержимого</label>
+			<label index="palette.geo_location">Геолокация</label>
+			<label index="palette.metrics">Метрика</label>
+			<label index="palette.visibility">Видимость</label>
+			<label index="placeholder.keywords">Метка1, Метка2, ...</label>
+			<label index="sys_file_metadata.caption">Заголовок</label>
+			<label index="sys_file_metadata.color_space">Цветовая гамма</label>
+			<label index="sys_file_metadata.content_creation_date">Дата создания контента</label>
+			<label index="sys_file_metadata.content_modification_date">Дата изменения содержимого</label>
+			<label index="sys_file_metadata.creator">Автор</label>
+			<label index="sys_file_metadata.creator_tool">Создан с помощью</label>
+			<label index="sys_file_metadata.download_name">Имя при загрузке</label>
+			<label index="sys_file_metadata.duration">Длительность (в секундах)</label>
+			<label index="sys_file_metadata.fe_groups">Права доступа в публичной части</label>
+			<label index="sys_file_metadata.height">Высота</label>
+			<label index="sys_file_metadata.keywords">Ключевые слова</label>
+			<label index="sys_file_metadata.language">Язык файла</label>
+			<label index="sys_file_metadata.latitude">Широта</label>
+			<label index="sys_file_metadata.location_city">Город</label>
+			<label index="sys_file_metadata.location_country">Страна</label>
+			<label index="sys_file_metadata.location_region">Регион</label>
+			<label index="sys_file_metadata.longitude">Долгота</label>
+			<label index="sys_file_metadata.note">Заметки</label>
+			<label index="sys_file_metadata.pages">Количество страниц</label>
+			<label index="sys_file_metadata.publisher">Издатель</label>
+			<label index="sys_file_metadata.ranking">Рейтинг</label>
+			<label index="sys_file_metadata.source">Источник</label>
+			<label index="sys_file_metadata.status">Статус</label>
+			<label index="sys_file_metadata.status.1">Ok</label>
+			<label index="sys_file_metadata.status.2">Ожидает</label>
+			<label index="sys_file_metadata.status.3">Проверяется</label>
+			<label index="sys_file_metadata.unit">Единицы измерения</label>
+			<label index="sys_file_metadata.visible">Видимый</label>
+			<label index="sys_file_metadata.width">Ширина</label>
+			<label index="tabs.metadata">Мета-данные</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

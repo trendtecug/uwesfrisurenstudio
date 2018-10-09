@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="mlang_labels_tabdescr">Il cestino ti dà la possibilità di ripristinare i records eliminati o di rimuoverli definitivamente dal database. Queste azioni possono essere applicate ad un singolo record, a gruppi di record, e ricorsivamente a tutti i records "figli"</label>
+			<label index="mlang_labels_tablabel">Cestino di TYPO3</label>
+			<label index="mlang_tabs_tab">Cestino</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

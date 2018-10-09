@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index=".description">Определяет альтернативный язык, доступный для каждой страницы.</label>
+			<label index=".details">Модуль Веб &gt; Страница имеет функции, позволяющие пользователям редактировать содержимое страницы не только в колонках, но и на различных языках. Доступные для перевода языки определяются созданными записями языков для сайта. Для того, чтобы страница была доступна на другом языке, на странице должна быть создана запись "альтернативного языка страницы".</label>
+			<label index="hidden.description">Этот параметр для скрытия системного языка во внутреннем интерфейсе.</label>
+			<label index="_.seeAlso">pages_language_overlay</label>
+			<label index="title.description">Введите название дополнительного системного языка</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

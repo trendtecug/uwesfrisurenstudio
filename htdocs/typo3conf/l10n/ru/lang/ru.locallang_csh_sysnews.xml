@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="content.description">Содержимое новостей, позволяющее редакторам оставаться в курсе событий. HTML отключен, но можно использовать переносы строк.</label>
+			<label index=".description">Системные новости, показываемые в диалоге авторизации TYPO3, позволяют администраторам информировать редакторов о произошедших в системе изменениях и подобных событиях.</label>
+			<label index="hidden.description">Этот параметр скроет отображение новостей в диалоге авторизации.</label>
+			<label index="title.description">Введите название новостей.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

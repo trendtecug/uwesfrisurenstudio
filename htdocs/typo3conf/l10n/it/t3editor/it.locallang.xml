@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="constants">Costanti</label>
+			<label index="deactivate">Disattiva t3editor</label>
+			<label index="delimiter">:</label>
+			<label index="file">File</label>
+			<label index="js.label_documentModified">il documento è stato modificato</label>
+			<label index="js.label_errorWhileSaving">Errore durante il salvataggio dei dati.</label>
+			<label index="js.label_lines">linee</label>
+			<label index="noPermission">Accesso negato: nessun permesso per i record di template.</label>
+			<label index="pageIDInteger">Errore di sintassi : il parametro pageID deve essere un intero valido.</label>
+			<label index="setup">Setup</label>
+			<label index="template">Template</label>
+			<label index="typeIDMissing">Errore di sintassi : almeno il parametro typeID deve essere fornito.</label>
+			<label index="unknownContentType">Contenuto di tipo sconosciuto:</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

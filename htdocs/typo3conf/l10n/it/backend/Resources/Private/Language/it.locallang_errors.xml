@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="foldertreeview.noFolders.message">Non dispone di accesso a qualsiasi cartella. Contattare l'amministratore per correggere le autorizzazioni di accesso per il suo account.</label>
+			<label index="foldertreeview.noFolders.title">Nessuna cartella disponibile</label>
+			<label index="no_modules_registered">Nessun modulo e stato registrato. Si prega di contattare l'amministratore del sistema.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

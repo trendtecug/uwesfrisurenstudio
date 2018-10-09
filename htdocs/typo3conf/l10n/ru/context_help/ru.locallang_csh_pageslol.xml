@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="abstract.description">Введите резюме на альтернативном языке.</label>
+			<label index="_abstract.seeAlso">pages:abstract</label>
+			<label index="author.description">Введите автора альтернативного перевода.</label>
+			<label index="author_email.description">Введите e-mail автора альтернативного перевода.</label>
+			<label index="_author_email.seeAlso">pages:author_email</label>
+			<label index="_author.seeAlso">pages:author</label>
+			<label index=".description">Представляет альтернативный язык для страницы.</label>
+			<label index="description.description">Введите описание на альтернативном языке.</label>
+			<label index="_description.seeAlso">pages:description</label>
+			<label index=".details">Эти записи содержат поля, очень похожие на записи Страницы, только эти поля, должны быть переведены на другие языки в случае, если Вы хотите получить локализованную версию страницы. Создавайте лишь ОДНУ запись Альтернативного языка страницы для определенного языка для каждой из страниц. Если записей будет несколько, то будет неясно, какую из них нужно использовать при отображении страницы. Перед созданием Альтернативного языка страницы, нужно создать "основной" язык в корне web сайта ("Язык вебсайта"). Шаблон TypoScript должен быть настроен на использование других языков. Технически, при отображении альтернативного языка страницы, содержимое записи Альтернативного языка просто замещает записи страницы на языке по умолчанию.</label>
+			<label index="endtime.description">"Конец" – определенная дата, с которой во внешнем интерфейсе альтернативный язык больше не будет доступен.</label>
+			<label index="_endtime.seeAlso">pages_language_overlay:starttime, pages_language_overlay:hidden, pages:endtime</label>
+			<label index="hidden.description">Используйте для временного отключения использования альтернативного языка для этой страницы.</label>
+			<label index="hidden.details">Этот параметр входит в фазу добавления альтернативного языка для страницы. При его включении, альтернативное содержимое не отображается, независимо от того, что Вы вошли как внутренний пользователь, на это влияет параметр Панель Администратора&gt;Обзор&gt;Показать скрытые записи.</label>
+			<label index="_hidden.seeAlso">pages_language_overlay:starttime, pages_language_overlay:endtime</label>
+			<label index="keywords.description">Введите ключевые слова на альтернативном языке.</label>
+			<label index="_keywords.seeAlso">pages:keywords</label>
+			<label index="media.description">Вставьте медиа файлы для альтернативного языка.</label>
+			<label index="_media.seeAlso">pages:media</label>
+			<label index="nav_title.description">Введите заголовок для меню на альтернативном языке.</label>
+			<label index="_.seeAlso">sys_language, _MOD_web_layout:language_list</label>
+			<label index="starttime.description">"Старт" – определенная дата, с которой во внешнем интерфейсе будет доступен альтернативный язык.</label>
+			<label index="_starttime.seeAlso">pages_language_overlay:endtime, pages_language_overlay:hidden, pages:starttime</label>
+			<label index="subtitle.description">Введите подзаголовок альтернативного языка.</label>
+			<label index="_subtitle.seeAlso">pages:subtitle</label>
+			<label index="sys_language_uid.description">Выберете альтернативный язык, представленный этой записью.</label>
+			<label index="_sys_language_uid.seeAlso">sys_language, sys_language:title</label>
+			<label index="title.description">Введите название альтернативного языка.</label>
+			<label index="_title.seeAlso">pages:title</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

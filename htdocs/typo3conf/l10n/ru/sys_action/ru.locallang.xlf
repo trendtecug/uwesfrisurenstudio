@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T04:35:30Z" product-name="sys_action">
+		<header/>
+		<body>
+			<trans-unit id="action_BEu_db_mount" approved="yes">
+				<source>Pagetree starting points</source>
+				<target state="translated">Точки доступа в дереве страниц</target>
+			</trans-unit>
+			<trans-unit id="action_BEu_email" approved="yes">
+				<source>Email</source>
+				<target state="translated">Email</target>
+			</trans-unit>
+			<trans-unit id="action_BEu_hidden" approved="yes">
+				<source>Disable user</source>
+				<target state="translated">Выключить пользователя</target>
+			</trans-unit>
+			<trans-unit id="action_BEu_password" approved="yes">
+				<source>Password</source>
+				<target state="translated">Пароль</target>
+			</trans-unit>
+			<trans-unit id="action_BEu_realName" approved="yes">
+				<source>Real name</source>
+				<target state="translated">Настоящее имя</target>
+			</trans-unit>
+			<trans-unit id="action_BEu_usergroups" approved="yes">
+				<source>Member of groups</source>
+				<target state="translated">Член групп</target>
+			</trans-unit>
+			<trans-unit id="action_BEu_username" approved="yes">
+				<source>Login name</source>
+				<target state="translated">Имя пользователя (login)</target>
+			</trans-unit>
+			<trans-unit id="action_Create" approved="yes">
+				<source>Create Backend User</source>
+				<target state="translated">Создать внутреннего пользователя</target>
+			</trans-unit>
+			<trans-unit id="action_createQuery" approved="yes">
+				<source>Create Query</source>
+				<target state="translated">Создать запрос</target>
+			</trans-unit>
+			<trans-unit id="action_download_file" approved="yes">
+				<source>Click here to download the exported data in a file</source>
+				<target state="translated">Нажмите здесь, чтобы сгрузить экспортированные данные в виде файла</target>
+			</trans-unit>
+			<trans-unit id="action_editQuery" approved="yes">
+				<source>Edit Query</source>
+				<target state="translated">Редактировать запрос</target>
+			</trans-unit>
+			<trans-unit id="action_emptyQuery" approved="yes">
+				<source>Query is empty, create one first!</source>
+				<target state="translated">Пустой запрос, сначала его нужно создать!</target>
+			</trans-unit>
+			<trans-unit id="action_error" approved="yes">
+				<source>Action error!</source>
+				<target state="translated">Ошибка в действии!</target>
+			</trans-unit>
+			<trans-unit id="action_error-access" approved="yes">
+				<source>You don't have sufficient rights to see the records. Please ask the administrator to set those for you.</source>
+				<target state="translated">Недостаточно прав для просмотра записей. Попросите администратора о назначении соответствующих прав.</target>
+			</trans-unit>
+			<trans-unit id="action_error-not-found" approved="yes">
+				<source>The action doesn't exist</source>
+				<target state="translated">Действия не существует</target>
+			</trans-unit>
+			<trans-unit id="action_lowlevelMissing" approved="no">
+				<source>The extension 'lowlevel' must be installed in order to create a query.</source>
+				<target state="needs-translation">Для создания запросов должно быть установлено расширение "lowlevel".</target>
+			</trans-unit>
+			<trans-unit id="action_not-found" approved="yes">
+				<source>No actions found</source>
+				<target state="translated">Действий не найдено</target>
+			</trans-unit>
+			<trans-unit id="action_not-found-description" approved="yes">
+				<source>Currently there are no actions yet defined!</source>
+				<target state="translated">На данный момент действия еще не определены!</target>
+			</trans-unit>
+			<trans-unit id="action_notReady" approved="yes">
+				<source>Error: The action configuration is not finished.</source>
+				<target state="translated">Ошибка: не окончена настройка действия.</target>
+			</trans-unit>
+			<trans-unit id="action_noType" approved="yes">
+				<source>Error: The action had no type defined.</source>
+				<target state="translated">Ошибка: не был определен тип действия.</target>
+			</trans-unit>
+			<trans-unit id="action_t1_legend_configuration" approved="yes">
+				<source>Configuration</source>
+				<target state="translated">Настройка</target>
+			</trans-unit>
+			<trans-unit id="action_t1_legend_generalFields" approved="yes">
+				<source>General fields</source>
+				<target state="translated">Основные поля</target>
+			</trans-unit>
+			<trans-unit id="action_t1_listOfUsers" approved="yes">
+				<source>List of backend users</source>
+				<target state="translated">Список внутренних пользователей</target>
+			</trans-unit>
+			<trans-unit id="action_t2_result" approved="yes">
+				<source>Result of query</source>
+				<target state="translated">Результат запроса</target>
+			</trans-unit>
+			<trans-unit id="action_t4_edit" approved="yes">
+				<source>Select record to edit:</source>
+				<target state="translated">Выберите запись для правки:</target>
+			</trans-unit>
+			<trans-unit id="action_toolbaritem" approved="yes">
+				<source>Open System Actions</source>
+				<target state="translated">Открытые системные действия</target>
+			</trans-unit>
+			<trans-unit id="action_Update" approved="yes">
+				<source>Update Backend User</source>
+				<target state="translated">Обновить данные внутреннего пользователя</target>
+			</trans-unit>
+			<trans-unit id="description" approved="yes">
+				<source>An 'Action' is a configuration of a specific task which may be performed by assigned usergroups via the Task Center.</source>
+				<target state="translated">"Действие" – это настройка определенной задачи, которая может быть назначена на определенную группу пользователей в Центре заданий.</target>
+			</trans-unit>
+			<trans-unit id="edit-sys_action" approved="yes">
+				<source>Edit record</source>
+				<target state="translated">Править запись</target>
+			</trans-unit>
+			<trans-unit id="error-password-empty" approved="yes">
+				<source>The password is empty.</source>
+				<target state="translated">Пустой пароль.</target>
+			</trans-unit>
+			<trans-unit id="error-username-empty" approved="yes">
+				<source>The username is empty.</source>
+				<target state="translated">Пустое имя пользователя.</target>
+			</trans-unit>
+			<trans-unit id="error-wrong-email" approved="yes">
+				<source>The E-mail address is wrong.</source>
+				<target state="translated">Неверный адрес e-mail.</target>
+			</trans-unit>
+			<trans-unit id="error-wrong-user" approved="yes">
+				<source>You are not allowed to edit this user.</source>
+				<target state="translated">Не разрешено редактировать этого пользователя.</target>
+			</trans-unit>
+			<trans-unit id="new-sys_action" approved="yes">
+				<source>Create a new action</source>
+				<target state="translated">Создать новое действие</target>
+			</trans-unit>
+			<trans-unit id="success" approved="yes">
+				<source>Success</source>
+				<target state="translated">Успешно</target>
+			</trans-unit>
+			<trans-unit id="success-user-created" approved="yes">
+				<source>The user has been created.</source>
+				<target state="translated">Пользователь создан.</target>
+			</trans-unit>
+			<trans-unit id="success-user-updated" approved="yes">
+				<source>The user has been updated.</source>
+				<target state="translated">Пользователь обновлен.</target>
+			</trans-unit>
+			<trans-unit id="sys_action" approved="yes">
+				<source>Action</source>
+				<target state="translated">Действие</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

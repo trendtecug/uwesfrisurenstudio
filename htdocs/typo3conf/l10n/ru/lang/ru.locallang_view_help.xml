@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="close">Закрыть</label>
+			<label index="description">Встроенный справочник состоит из записей контекстной помощи доступных в текущей установке TYPO3. Здесь вы найдете общую информацию о системных модулях TYPO3, установленных специфических служебных модулях и таблицах базы данных доступных для текущего пользователя.</label>
+			<label index="details">Детали</label>
+			<label index="fullDescription">См. полное описание таблицы</label>
+			<label index="fullDescription_module">См. полное описание модуля</label>
+			<label index="full_manual">Полная документация (одной страницей)</label>
+			<label index="full_manual_chapters">Главы документации</label>
+			<label index="goBack">Возврат</label>
+			<label index="goToToc">&lt;&lt; назад к оглавлению</label>
+			<label index="introduction">Введение</label>
+			<label index="manual_title">Встроенное руководство пользователя TYPO3</label>
+			<label index="seeAlso">См. также</label>
+			<label index="syntax">Синтаксис</label>
+			<label index="title">Встроенная помощь TYPO3</label>
+			<label index="TOC">Содержание</label>
+			<label index="TOC_core">TYPO3 основные свойства</label>
+			<label index="TOC_extensions">Расширения</label>
+			<label index="TOC_glossary">Глоссарий</label>
+			<label index="TOC_modules">Модули внутреннего интерфейса</label>
+			<label index="TOC_other">Другое</label>
+			<label index="TOC_tables">Таблицы БД</label>
+			<label index="to_top">На начало страницы</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

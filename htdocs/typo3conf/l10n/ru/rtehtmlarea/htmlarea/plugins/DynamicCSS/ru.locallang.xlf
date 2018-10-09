@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:15Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="action-items" xml:space="preserve" approved="yes">
+				<source>Action items</source>
+			<target state="translated">Действия</target></trans-unit>
+			<trans-unit id="component-items" xml:space="preserve" approved="yes">
+				<source>Component items</source>
+			<target state="translated">Компоненты</target></trans-unit>
+			<trans-unit id="Default" xml:space="preserve" approved="yes">
+				<source>Default</source>
+			<target state="translated">По умолчанию</target></trans-unit>
+			<trans-unit id="detail" xml:space="preserve" approved="yes">
+				<source>Detail</source>
+			<target state="translated">Деталь</target></trans-unit>
+			<trans-unit id="DynamicCSSStyleTooltip" xml:space="preserve" approved="yes">
+				<source>Apply style to the containing paragraph</source>
+			<target state="translated">Применить стиль к абзацу</target></trans-unit>
+			<trans-unit id="frame-frame1" xml:space="preserve" approved="yes">
+				<source>Frame with grey background</source>
+			<target state="translated">Рамка с серым фоном</target></trans-unit>
+			<trans-unit id="frame-frame2" xml:space="preserve" approved="yes">
+				<source>Frame with yellow background</source>
+			<target state="translated">Рамка с желтым фоном</target></trans-unit>
+			<trans-unit id="important" xml:space="preserve" approved="yes">
+				<source>Important</source>
+			<target state="translated">Внимание</target></trans-unit>
+			<trans-unit id="name-of-person" xml:space="preserve" approved="yes">
+				<source>Name of person</source>
+			<target state="translated">Имя человека</target></trans-unit>
+			<trans-unit id="Undefined" xml:space="preserve" approved="yes">
+				<source>Undefined</source>
+			<target state="translated">Неопределено</target></trans-unit>
+		</body>
+	</file>
+</xliff>

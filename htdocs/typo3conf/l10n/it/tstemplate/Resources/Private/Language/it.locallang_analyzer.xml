@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="blockMode"/>
+			<label index="clearConstants"/>
+			<label index="clearSetup"/>
+			<label index="comments"/>
+			<label index="completeTS"/>
+			<label index="constants"/>
+			<label index="cropLines"/>
+			<label index="currentTemplate"/>
+			<label index="displayOptions"/>
+			<label index="lineNumbers"/>
+			<label index="nextLevel"/>
+			<label index="pid"/>
+			<label index="rootlevel"/>
+			<label index="rootline"/>
+			<label index="setup"/>
+			<label index="syntaxHighlight"/>
+			<label index="templateHierarchy"/>
+			<label index="title"/>
+			<label index="viewCompleteTS"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

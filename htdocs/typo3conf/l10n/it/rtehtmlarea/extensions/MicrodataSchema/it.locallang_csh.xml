@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index=".alttitle"/>
+			<label index="currentItemType.alttitle"/>
+			<label index="currentItemType.description"/>
+			<label index="currentItemType.details"/>
+			<label index=".description"/>
+			<label index=".details"/>
+			<label index=".image"/>
+			<label index=".image_descr"/>
+			<label index="itemprop.alttitle"/>
+			<label index="itemprop.description"/>
+			<label index="itemprop.details"/>
+			<label index="itemscope.alttitle"/>
+			<label index="itemscope.description"/>
+			<label index="itemscope.details"/>
+			<label index="itemtype.alttitle"/>
+			<label index="itemtype.description"/>
+			<label index=".seeAlso"/>
+			<label index="Show_microdata.alttitle"/>
+			<label index="Show_microdata.description"/>
+			<label index="Show_microdata.details"/>
+			<label index="Show_microdata.image"/>
+			<label index="Show_microdata.image_descr"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

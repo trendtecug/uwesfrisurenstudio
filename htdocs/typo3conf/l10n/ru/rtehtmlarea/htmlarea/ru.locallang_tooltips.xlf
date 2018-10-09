@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:12Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="about" approved="yes">
+				<source>About this editor</source>
+				<target state="translated">Об этом редакторе</target>
+			</trans-unit>
+			<trans-unit id="bold" approved="yes">
+				<source>Bold</source>
+				<target state="translated">Жирный</target>
+			</trans-unit>
+			<trans-unit id="copy" approved="yes">
+				<source>Copy selection</source>
+				<target state="translated">Копировать выбраное</target>
+			</trans-unit>
+			<trans-unit id="createlink" approved="yes">
+				<source>Insert Web Link</source>
+				<target state="translated">Вставить ссылку</target>
+			</trans-unit>
+			<trans-unit id="cut" approved="yes">
+				<source>Cut selection</source>
+				<target state="translated">Вырезать выбраное</target>
+			</trans-unit>
+			<trans-unit id="fontname" approved="yes">
+				<source>Font</source>
+				<target state="translated">Шрифт</target>
+			</trans-unit>
+			<trans-unit id="fontsize" approved="yes">
+				<source>Font size</source>
+				<target state="translated">Размер шрифта</target>
+			</trans-unit>
+			<trans-unit id="forecolor" approved="yes">
+				<source>Font Color</source>
+				<target state="translated">Цвет шрифта</target>
+			</trans-unit>
+			<trans-unit id="formatblock" approved="yes">
+				<source>Type of paragragh</source>
+				<target state="translated">Тип параграфа</target>
+			</trans-unit>
+			<trans-unit id="hilitecolor" approved="yes">
+				<source>Background Color</source>
+				<target state="translated">Цвет фона</target>
+			</trans-unit>
+			<trans-unit id="htmlmode" approved="yes">
+				<source>Toggle HTML Source</source>
+				<target state="translated">Переключиться на редактирование HTML</target>
+			</trans-unit>
+			<trans-unit id="indent" approved="yes">
+				<source>Increase Indent</source>
+				<target state="translated">Увеличить отступ</target>
+			</trans-unit>
+			<trans-unit id="inserthorizontalrule" approved="yes">
+				<source>Horizontal Rule</source>
+				<target state="translated">Горизонтальный разделитель</target>
+			</trans-unit>
+			<trans-unit id="insertimage" approved="yes">
+				<source>Insert/Modify Image</source>
+				<target state="translated">Вставить картинку</target>
+			</trans-unit>
+			<trans-unit id="insertorderedlist" approved="yes">
+				<source>Ordered List</source>
+				<target state="translated">Нумерованый список</target>
+			</trans-unit>
+			<trans-unit id="inserttable" approved="yes">
+				<source>Insert Table</source>
+				<target state="translated">Вставить таблицу</target>
+			</trans-unit>
+			<trans-unit id="insertunorderedlist" approved="yes">
+				<source>Bulleted List</source>
+				<target state="translated">Ненумерованый список</target>
+			</trans-unit>
+			<trans-unit id="italic" approved="yes">
+				<source>Italic</source>
+				<target state="translated">Курсив</target>
+			</trans-unit>
+			<trans-unit id="justifycenter" approved="yes">
+				<source>Justify Center</source>
+				<target state="translated">Выключка по центру</target>
+			</trans-unit>
+			<trans-unit id="justifyfull" approved="yes">
+				<source>Justify Full</source>
+				<target state="translated">Выключка по ширине</target>
+			</trans-unit>
+			<trans-unit id="justifyleft" approved="yes">
+				<source>Justify Left</source>
+				<target state="translated">Выключка влево</target>
+			</trans-unit>
+			<trans-unit id="justifyright" approved="yes">
+				<source>Justify Right</source>
+				<target state="translated">Выключка вправо</target>
+			</trans-unit>
+			<trans-unit id="killword" approved="yes">
+				<source>Clear MSOffice tags</source>
+				<target state="translated">Убрать все таги MSOffice</target>
+			</trans-unit>
+			<trans-unit id="lefttoright" approved="yes">
+				<source>Direction left to right</source>
+				<target state="translated">Направление слева направо</target>
+			</trans-unit>
+			<trans-unit id="outdent" approved="yes">
+				<source>Decrease Indent</source>
+				<target state="translated">Уменьшить отступ</target>
+			</trans-unit>
+			<trans-unit id="paste" approved="yes">
+				<source>Paste from clipboard</source>
+				<target state="translated">Вставить из буфера обмена</target>
+			</trans-unit>
+			<trans-unit id="popupeditor" approved="yes">
+				<source>Enlarge the editor</source>
+				<target state="translated">Увеличить редактор</target>
+			</trans-unit>
+			<trans-unit id="print" approved="yes">
+				<source>Print document</source>
+				<target state="translated">Печатать документ</target>
+			</trans-unit>
+			<trans-unit id="redo" approved="yes">
+				<source>Redo the last action</source>
+				<target state="translated">Возвращает последнее действие</target>
+			</trans-unit>
+			<trans-unit id="removeformat" approved="yes">
+				<source>Remove formatting</source>
+				<target state="translated">Удалить форматирование</target>
+			</trans-unit>
+			<trans-unit id="righttoleft" approved="yes">
+				<source>Direction right to left</source>
+				<target state="translated">Направление справа налево</target>
+			</trans-unit>
+			<trans-unit id="showhelp" xml:space="preserve" approved="yes">
+				<source>Help using editor</source>
+			<target state="translated">Подсказка по функциям</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="strikethrough" approved="yes">
+				<source>Strikethrough</source>
+				<target state="translated">Зачёркивание</target>
+			</trans-unit>
+			<trans-unit id="subscript" approved="yes">
+				<source>Subscript</source>
+				<target state="translated">Нижний индекс</target>
+			</trans-unit>
+			<trans-unit id="superscript" approved="yes">
+				<source>Superscript</source>
+				<target state="translated">Верхний индекс</target>
+			</trans-unit>
+			<trans-unit id="textindicator" approved="yes">
+				<source>Current style</source>
+				<target state="translated">Текущий стиль</target>
+			</trans-unit>
+			<trans-unit id="underline" approved="yes">
+				<source>Underline</source>
+				<target state="translated">Подчёркивание</target>
+			</trans-unit>
+			<trans-unit id="undo" approved="yes">
+				<source>Undo the last action</source>
+				<target state="translated">Отменяет последнее действие</target>
+			</trans-unit>
+			<trans-unit id="unlink" approved="yes">
+				<source>Remove link</source>
+				<target state="translated">Удалить ссылку</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

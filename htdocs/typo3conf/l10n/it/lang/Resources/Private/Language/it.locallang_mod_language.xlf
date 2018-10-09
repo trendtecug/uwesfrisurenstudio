@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-30T02:30:42Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="mlang_labels_tabdescr">
+				<source>Select languages to be available for backend and frontend. Provide update of chosen languages.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tablabel" approved="no">
+				<source>Languages</source>
+				<target state="needs-translation">Lingua</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Lingue</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="mlang_tabs_tab" approved="no">
+				<source>Languages</source>
+				<target state="needs-translation">Lingua</target>
+				<note>100%</note>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Lingue</target>
+				</alt-trans>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

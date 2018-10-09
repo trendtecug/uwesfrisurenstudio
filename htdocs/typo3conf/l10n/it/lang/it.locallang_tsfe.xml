@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="adminOptions">ADMIN PANEL</label>
+			<label index="adminPanelTitle">TYPO3 ADMIN PANEL</label>
+			<label index="cache">Cache</label>
+			<label index="cache_cacheEntries">Elementi nella cache</label>
+			<label index="cache_clearLevels">Svuota la cache per i seguenti livelli</label>
+			<label index="cache_doit">Svuota la cache!</label>
+			<label index="cache_noCache">Non usare la cache</label>
+			<label index="div_Levels_0">Questa pagina</label>
+			<label index="div_Levels_1">+ 1 sottolivello</label>
+			<label index="div_Levels_2">+ 2 sottolivelli</label>
+			<label index="edit">Editing</label>
+			<label index="edit_db_list">Modulo Web&gt;Lista</label>
+			<label index="edit_displayFieldIcons">Mostra icone per l'editing</label>
+			<label index="edit_displayIcons">Mostra pannello per l'editing</label>
+			<label index="edit_editFormsOnPage">Editing nella pagina:</label>
+			<label index="edit_editNoPopup">No finestre pop-up</label>
+			<label index="edit_editPageOverlay">Modifica proprietà della pagina tradotta</label>
+			<label index="edit_editPageProperties">Modifica propietà pagina</label>
+			<label index="edit_move_page">Sposta pagina</label>
+			<label index="edit_newContentElement">Crea nuovo elemento di contenuto</label>
+			<label index="edit_newPage">Crea nuova pagina</label>
+			<label index="edit_openAB">Apri interfaccia di amministrazione di Typo3</label>
+			<label index="edit_recordHistory">Mostra storia cambiamenti del record</label>
+			<label index="info">Informazioni</label>
+			<label index="info_countUserInt"/>
+			<label index="info_DocumentSize"/>
+			<label index="info_feuserId"/>
+			<label index="info_feuserName"/>
+			<label index="info_groupList"/>
+			<label index="info_id"/>
+			<label index="info_imagesOnPage"/>
+			<label index="info_imagesSize"/>
+			<label index="info_noCache"/>
+			<label index="info_noCache_no"/>
+			<label index="info_noCache_yes"/>
+			<label index="info_totalParsetime"/>
+			<label index="info_type"/>
+			<label index="p_delete">Elimina</label>
+			<label index="p_deleteConfirm">Sei sicuro di voler eliminare questo record?</label>
+			<label index="p_editRecord">Modifica record</label>
+			<label index="p_hide">Nascondi</label>
+			<label index="p_hideConfirm">Un record nascosto non è più visibile sul sito web. Per modificare i record nascosti è necessario abilitare "frontend preview" dall'interfaccia di amministrazione. Continuare?</label>
+			<label index="p_moveDown">Sposta giù</label>
+			<label index="p_moveUp">Sposta su</label>
+			<label index="p_newRecordAfter">Nuovo record dopo</label>
+			<label index="p_newSubpage">Nuova sottopagina</label>
+			<label index="preview">Preview</label>
+			<label index="preview_showHiddenPages">Mostra pagine nascoste</label>
+			<label index="preview_showHiddenRecords">Mostra record nascosti</label>
+			<label index="preview_simulateDate">Simula data</label>
+			<label index="preview_simulateUserGroup">Simula gruppo utenti</label>
+			<label index="publish">Pubblicazione</label>
+			<label index="publish_doit">Pubblica ora!</label>
+			<label index="publish_levels">Numero di livelli pubblicati:</label>
+			<label index="publish_tree">Pubblica pagine:</label>
+			<label index="p_unhide">Rendi visibile</label>
+			<label index="tsdebug">TypoScript</label>
+			<label index="tsdebug_displayContent">Mostra contenuto</label>
+			<label index="tsdebug_displayMessages">Mostra messaggi</label>
+			<label index="tsdebug_displayQueries">Informazioni sulle query SELECT (usa EXPLAIN come keyword)</label>
+			<label index="tsdebug_displayTimes">Mostra sempre</label>
+			<label index="tsdebug_forceTemplateParsing">Forza rendering del codice TS</label>
+			<label index="tsdebug_LR">Traccia rendering del contenuto</label>
+			<label index="tsdebug_tree">Mostra l'albero</label>
+			<label index="update">Aggiorna</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

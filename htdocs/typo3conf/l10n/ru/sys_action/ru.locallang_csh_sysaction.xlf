@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T04:35:30Z" product-name="sys_action">
+		<header/>
+		<body>
+			<trans-unit id="assign_to_groups.description" approved="yes">
+				<source>Select the backend users groups allowed to activate the action in the Task Center.</source>
+				<target state="translated">Выберете группы внутренних пользователей, которые смогут выполнять действие в Центре заданий.</target>
+			</trans-unit>
+			<trans-unit id=".description" approved="yes">
+				<source>An 'Action' is a configuration of a specific task which may be performed by assigned usergroups via the Task Center.</source>
+				<target state="translated">"Действия" – это настройка определенных задач, которые могут осуществляться назначенной через Центр заданий группой пользователей.</target>
+			</trans-unit>
+			<trans-unit id="description.description" approved="yes">
+				<source>Describe what the action does or allows to do.</source>
+				<target state="translated">Опишите, что делает или позволяет сделать это действие.</target>
+			</trans-unit>
+			<trans-unit id=".details" xml:space="preserve" approved="yes">
+				<source>Currently an Action may be configured to create additional backend usergroups without being and admin-user and by selecting from a limited set of options. Another option is to let an action initiate a SQL SELECT-query in the database and return the result as a CSV file.
+Actions can be assigned to a Backend usergroup and they are activated by a single click in the Task Center.</source>
+			<target state="translated">На данный момент Действия могут быть настроены на создание дополнительной группы внутренних пользователей, без уже созданных пользователей и администраторов и выбор ограничен несколькими параметрами. Другой параметр позволяет действию создать запрос SQL SELECT в базу данных и возвратить результат в виде CSV файла. Действия могуть быть назначены на группу внутренних пользователей и производиться одним щелчком в Центре заданий.</target></trans-unit>
+			<trans-unit id="hidden.description" approved="yes">
+				<source>Check this option if you wish to disable the availability of the action or non-admin users.</source>
+				<target state="translated">Включите этот параметр, если хотите сделать недоступным действие для пользователей без административных прав.</target>
+			</trans-unit>
+			<trans-unit id="hidden.details" approved="yes">
+				<source>This option is a great way to disable an action during changes made to it because it still allows you as an 'Admin'-user to activate it for test purposes.</source>
+				<target state="translated">Этот параметр - отличный способ отключить действие на время его изменения, так как оно все еще доступно для пользователей администраторов, например в качестве теста.</target>
+			</trans-unit>
+			<trans-unit id="t1_allowed_groups.description" approved="yes">
+				<source>Enter the Backend user groups which the user performing the action is able to choose among (if any).</source>
+				<target state="translated">Введите группы внутренних пользователей, пользователи которых могут быть выбраны (любой).</target>
+			</trans-unit>
+			<trans-unit id="t1_copy_of_user.description" approved="yes">
+				<source>Insert a current Backend user which will be used as a template for the new users created. </source>
+				<target state="translated">Вставьте текущего внутреннего пользователя, который будет использоваться как шаблон для создания новых пользователей.</target>
+			</trans-unit>
+			<trans-unit id="t1_copy_of_user.details" xml:space="preserve" approved="yes">
+				<source>All values are copied to the new user, except username, password, name and email is of course overridden.
+If the template user is a member of a group which is not defined among the "Groups which may be assigned through the action" that group is still set for the user and cannot be removed by the user carrying out the action.</source>
+			<target state="translated">Для нового пользователя будет скопированы все значения, за исключением имени пользователя, пароля, имени и email. Если шаблонный пользователь – член группы, которая не определа в "Группах, которые могут быть назначены через действие", эта группа останется в настройках пользователя и не может быть удалена пользователем, выполняющим действие.</target></trans-unit>
+			<trans-unit id="t1_create_user_dir.description" approved="yes">
+				<source>If checked, a private home-directory is also created during user creation. </source>
+				<target state="translated">Если включено, при создании пользователя, также создается его личная директория.</target>
+			</trans-unit>
+			<trans-unit id="t1_create_user_dir.details" approved="yes">
+				<source>&lt;strong&gt;Notice:&lt;/strong&gt; $TYPO3_CONF_VARS["BE"]["userHomePath"] must be configured correctly along with $TYPO3_CONF_VARS["BE"]["lockRootPath"] and writable!</source>
+				<target state="translated">&lt;strong&gt;Примечание:&lt;/strong&gt; $TYPO3_CONF_VARS["BE"]["userHomePath"] должна быть правильно настроена, вместе с $TYPO3_CONF_VARS["BE"]["lockRootPath"] и доступна для записи!</target>
+			</trans-unit>
+			<trans-unit id="t1_userprefix.description" approved="yes">
+				<source>Enter a prefix which is forcibly prepended to new usernames (eg. "news_")</source>
+				<target state="translated">Введите префикс, который принудительно назначается новому имени пользователя (напр. "news_")</target>
+			</trans-unit>
+			<trans-unit id="t3_listPid.description" approved="yes">
+				<source>[FILL IN] sys_action-&gt;t3_listPid</source>
+				<target state="translated">[FILL IN] sys_action-&gt;t3_listPid</target>
+			</trans-unit>
+			<trans-unit id="t3_tables.description" approved="yes">
+				<source>[FILL IN] sys_action-&gt;t3_tables</source>
+				<target state="translated">[FILL IN] sys_action-&gt;t3_tables</target>
+			</trans-unit>
+			<trans-unit id="t4_recordsToEdit.description" approved="yes">
+				<source>[FILL IN] sys_action-&gt;t4_recordsToEdit</source>
+				<target state="translated">[FILL IN] sys_action-&gt;t4_recordsToEdit</target>
+			</trans-unit>
+			<trans-unit id="title.description" approved="yes">
+				<source>Enter the title of the action. This is shown in the list of available actions in the Task Center.</source>
+				<target state="translated">Введите название действия. Оно будет показано в списке доступных действий в Центре заданий.</target>
+			</trans-unit>
+			<trans-unit id="type.description" approved="yes">
+				<source>Select the action type.</source>
+				<target state="translated">Выбор типа действия.</target>
+			</trans-unit>
+			<trans-unit id="type.details" xml:space="preserve" approved="yes">
+				<source>&lt;strong&gt;"Create Backend User"&lt;/strong&gt; allows to create backend users with a limited set of options. This action type is meant for semi-administrators among your users which is in charge of daily user administration - still without being full fledged 'Admin'-users with 'a License to Kill everything'.
+When you select this option, you get to enter a 'template' user, enter a prefix which the new users will automatically have and whether or not a user home-dir is created in the process. Finally you can select a limited number of usergroups which the can be selected among.
+
+&lt;strong&gt;"SQL-query"&lt;/strong&gt; allows to make a fixed SQL SELECT-query in the database returned as CSV lists. When you have created an action of this type, you need to go to the System &gt; DB check (prior to v7 this can be found on Tools &gt; DB check) module and enter the Advanced Search feature. Here you can design your SQL-query. When you have designed it to select what you want correctly, you can select this action (by it's name) and save the query to the action there. From that point it will be effective from the Task Center. (Notice that the form of output selected in the Advanced Search function is also stored, so make sure to select CSV output there!)</source>
+			<target state="translated">&lt;strong&gt;"Создать внутреннего пользователя"&lt;/strong&gt; позволяет создать внутреннего пользователя с ограниченным набором параметров. Этот тип действия предназначается для создания полуадминистраторов из Ваших пользователей, который может возглавить ежедневное управление пользователями, но все еще без полных административных привелегий на "вседозволенность". Выбрав эту опцию, вы должны будете ввести "шаблонного" пользователя, назначив префикс, который будет автоматически даваться новым пользователям, и выбрать будет или нет для него создаваться директория. И наконец, вы сможете выбрать ограниченное количество групп пользователей, из которых можно выбирать пользователя. &lt;strong&gt;"SQL-запрос"&lt;/strong&gt; позволяет создать определенный SQL SELECT-запрос к базе данных, возвращаемый в виде CSV списка. При создании такого типа действий, нужно перейти в модуль Инструменты администрирования&gt;Проверка БД и ввести параметр Пользовательского запроса. Здесь вы сможете определить свой SQL-запрос. Когда вы точно определите, что хотите, можете выбрать действие (по названию) и сохранить запрос в этом действии. С этого момента оно будет действовать из Центра заданий. (Помните, что форма вывода, выбранная в Пользовательском запросе также сохраняется, так что удостоверьтесь, что выбрали там CSV вывод!)</target></trans-unit>
+		</body>
+	</file>
+</xliff>

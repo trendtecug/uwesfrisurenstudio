@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="activeOnly">Actifs seulement</label>
+			<label index="activeSessions">Sessions actives</label>
+			<label index="admin">Administrateur</label>
+			<label index="adminOnly">Administrateur seulement</label>
+			<label index="allowedLanguages">Limiter aux langues</label>
+			<label index="any">Tous</label>
+			<label index="backendUserAdministration">Administration des utilisateurs Backend</label>
+			<label index="backendUserGroup">Groupe d'utilisateurs</label>
+			<label index="backendUserGroups">Membre des groupes</label>
+			<label index="backendUserListing">Liste des utilisateurs backend</label>
+			<label index="backendUsers">Utilisateurs backend</label>
+			<label index="both">Les deux</label>
+			<label index="changeToMode">[sans retour au login actuel]</label>
+			<label index="compare">Comparer</label>
+			<label index="compareBackendUsers">Comparer des utilisateurs backend</label>
+			<label index="compareUserList">Comparer la liste des utilisateurs</label>
+			<label index="confirm">Êtes-vous sûr(e) de vouloir supprimer cet utilisateur backend %s ?</label>
+			<label index="dbMountPoints">Points de montage en DB</label>
+			<label index="disable">Désactiver</label>
+			<label index="disableIpLock">Désactiver le verrouillage d'IP</label>
+			<label index="email">E-mail</label>
+			<label index="endDateAndTime">Fin</label>
+			<label index="endSession">Terminer la session</label>
+			<label index="fileMounts">Points de montage sur les fichiers</label>
+			<label index="filter">Filtre</label>
+			<label index="inactiveOnly">Inactifs seulement</label>
+			<label index="ipAddress">Adresse IP</label>
+			<label index="lastAccess">Dernier accès</label>
+			<label index="lastLogin">Dernière connexion</label>
+			<label index="loginBefore">Déjà authentifié</label>
+			<label index="never">Jamais</label>
+			<label index="neverLoggedIn">Jamais authentifié</label>
+			<label index="no">Non</label>
+			<label index="normalUserOnly">Utilisateurs normaux seulement</label>
+			<label index="onlineUsers">Utilisateurs en ligne</label>
+			<label index="reallyLogout">Vraiment déconnecter</label>
+			<label index="realName">Nom réel</label>
+			<label index="section.compare">Comparer</label>
+			<label index="startDateAndTime">Début</label>
+			<label index="status">État</label>
+			<label index="switchBackMode">Changer d'utilisateur</label>
+			<label index="userName">Nom d'utilisateur</label>
+			<label index="users">Utilisateurs</label>
+			<label index="yes">Oui</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

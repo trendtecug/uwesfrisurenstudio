@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="bigControlPanel">Vista estesa</label>
+			<label index="c_file">Nome file</label>
+			<label index="c_fileext">Tipo</label>
+			<label index="clipBoard">Mostra clipboard</label>
+			<label index="clip_deleteMarked">Elimina file selezionati</label>
+			<label index="clip_deleteMarkedWarning">Sei sicuro di voler eliminare tutti i file selezionati in questa cartella?</label>
+			<label index="clip_markRecords">Seleziona tutti/nessuno</label>
+			<label index="clip_paste">Incolla il contenuto della clipboard</label>
+			<label index="clip_pasteInto">Incolla dentro: il contenuto della clipboad viene inserito in questa cartella</label>
+			<label index="clip_selectMarked">Trasferisci i file selezionati nella clipboard</label>
+			<label index="c__REF_">Ref</label>
+			<label index="c_rw">RW</label>
+			<label index="c_size">Dimensione</label>
+			<label index="c_tstamp">Data</label>
+			<label index="displayThumbs">Mostra miniature</label>
+			<label index="files">File</label>
+			<label index="folderNotFoundMessage"/>
+			<label index="folderNotFoundTitle"/>
+			<label index="localDriverFlexform_basePath"/>
+			<label index="localDriverFlexform_basePath_placeholder"/>
+			<label index="localDriverFlexform_caseSensitive"/>
+			<label index="localDriverFlexform_pathType"/>
+			<label index="localDriverFlexform_pathType_absolute"/>
+			<label index="localDriverFlexform_pathType_relative"/>
+			<label index="missingFolderPermissionsMessage"/>
+			<label index="missingFolderPermissionsTitle"/>
+			<label index="mlang_labels_tabdescr">Sistema per la gestione dei file di Typo3. Consente di accedere alle cartelle per cui avete i permessi. Attraverso questo modulo potete copiare, spostare, rinominare, eliminare e uploadare i file sul server.</label>
+			<label index="mlang_labels_tablabel">Lista dei file nella cartella</label>
+			<label index="mlang_tabs_tab">Lista File</label>
+			<label index="paramError">Errore di parametro:</label>
+			<label index="read">R</label>
+			<label index="recycler">Cestino</label>
+			<label index="role_folder_recycler">Cestino</label>
+			<label index="role_folder_temporary">Files temporanei</label>
+			<label index="storageNotBrowsableMessage"/>
+			<label index="storageNotBrowsableTitle"/>
+			<label index="targetNoDir">La destinazione non è una cartella!</label>
+			<label index="temp">Files temporanei</label>
+			<label index="write">W</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

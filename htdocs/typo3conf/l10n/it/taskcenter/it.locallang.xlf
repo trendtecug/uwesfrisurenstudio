@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T04:45:27Z" product-name="taskcenter">
+		<header/>
+		<body>
+			<trans-unit id="choose_task" approved="yes">
+				<source>Task:</source>
+				<target state="translated">Task:</target>
+			</trans-unit>
+			<trans-unit id="lCancel" approved="yes">
+				<source>Cancel</source>
+				<target state="translated">Annulla</target>
+			</trans-unit>
+			<trans-unit id="lCreate" approved="yes">
+				<source>Create</source>
+				<target state="translated">Crea</target>
+			</trans-unit>
+			<trans-unit id="lDelete" approved="yes">
+				<source>Delete</source>
+				<target state="translated">Elimina</target>
+			</trans-unit>
+			<trans-unit id="lDelete_warning" approved="yes">
+				<source>Are you sure you want to delete this user?</source>
+				<target state="translated">Sei sicuro di voler rimuovere questo utente?</target>
+			</trans-unit>
+			<trans-unit id="lHomedir" approved="yes">
+				<source>Home dir</source>
+				<target state="translated">Directory home</target>
+			</trans-unit>
+			<trans-unit id="listSeparator_Groups" approved="yes">
+				<source>__Groups:__</source>
+				<target state="translated">__Gruppi:__</target>
+			</trans-unit>
+			<trans-unit id="lNone" approved="yes">
+				<source>[none]</source>
+				<target state="translated">[nessuno]</target>
+			</trans-unit>
+			<trans-unit id="lReplyAddress" approved="yes">
+				<source>Reply address is your email</source>
+				<target state="translated">L'indirizzo di risposta è il tuo email</target>
+			</trans-unit>
+			<trans-unit id="lSelf" approved="yes">
+				<source>Self</source>
+				<target state="translated">Sé stesso</target>
+			</trans-unit>
+			<trans-unit id="lSendNew" approved="yes">
+				<source>Send message</source>
+				<target state="translated">Invia messaggio</target>
+			</trans-unit>
+			<trans-unit id="lSendReply" approved="yes">
+				<source>Reply to message</source>
+				<target state="translated">Rispondi al messaggio</target>
+			</trans-unit>
+			<trans-unit id="lUpdate" approved="yes">
+				<source>Update</source>
+				<target state="translated">Aggiorna</target>
+			</trans-unit>
+			<trans-unit id="mlang_tabs_tab" approved="yes">
+				<source>Tasks</source>
+				<target state="translated">Tasks:</target>
+			</trans-unit>
+			<trans-unit id="taskcenter" approved="yes">
+				<source>Taskcenter</source>
+				<target state="translated">Task Center</target>
+			</trans-unit>
+			<trans-unit id="task_help_description" approved="yes">
+				<source>Get more information about the taskcenter</source>
+				<target state="translated">Accedi a maggiori info su Task Center</target>
+			</trans-unit>
+			<trans-unit id="task_help_title" approved="yes">
+				<source>About the taskcenter</source>
+				<target state="translated">Note su Task Center</target>
+			</trans-unit>
+			<trans-unit id="task_overview" approved="yes">
+				<source>Overview</source>
+				<target state="translated">Panoramica</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

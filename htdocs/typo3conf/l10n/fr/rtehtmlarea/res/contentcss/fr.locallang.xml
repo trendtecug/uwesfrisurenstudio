@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="action-items">Actions</label>
+			<label index="component-items">Composantes</label>
+			<label index="detail">Détail</label>
+			<label index="frame-frame1">Cadre avec un fond gris</label>
+			<label index="frame-frame2">Cadre avec un fond jaune</label>
+			<label index="important">Important</label>
+			<label index="name-of-person">Nom d'une personne</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

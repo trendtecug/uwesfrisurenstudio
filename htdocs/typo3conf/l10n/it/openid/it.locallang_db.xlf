@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:16:33Z" product-name="openid">
+		<header/>
+		<body>
+			<trans-unit id="be_groups.tx_openid_change_allowed" xml:space="preserve" approved="yes">
+				<source>Change own OpenID:</source>
+			<target state="translated">Cambiare il proprio OpenID:</target></trans-unit>
+			<trans-unit id="be_users.tx_openid_openid" xml:space="preserve" approved="yes">
+				<source>OpenID identifier:</source>
+			<target state="translated">Identificatore OpenID:</target></trans-unit>
+			<trans-unit id="fe_users.tx_openid_openid" xml:space="preserve" approved="yes">
+				<source>OpenID identifier:</source>
+			<target state="translated">Identificatore OpenID:</target></trans-unit>
+			<trans-unit id="_MOD_user_setup.tx_openid_openid" xml:space="preserve" approved="yes">
+				<source>OpenID identifier</source>
+			<target state="translated">Identificatore OpenID</target><note>94%</note></trans-unit>
+		</body>
+	</file>
+</xliff>

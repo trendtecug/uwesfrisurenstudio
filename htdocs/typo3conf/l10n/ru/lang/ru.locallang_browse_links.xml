@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="addToList">Добавить в список...</label>
+			<label index="class">CSS-класс</label>
+			<label index="clickToRedrawFullSize">Картинка больше, чем показано здесь. Щелкните, чтобы открыть в натуральную величину.</label>
+			<label index="contentElements">Записи содержания</label>
+			<label index="currentLink">Текущая ссылка</label>
+			<label index="email">Email</label>
+			<label index="emailAddress">Адрес электронной почты</label>
+			<label index="extUrl">Внешний адрес</label>
+			<label index="file">Файл</label>
+			<label index="files">Файлы</label>
+			<label index="findDragDrop">Нажмите на нужную картинку и перетяните ее мышью в редактор в главном окне.</label>
+			<label index="folder">Директория</label>
+			<label index="folders">Директория</label>
+			<label index="folderTree">Дерево папок</label>
+			<label index="importSelection">Импортировать выбранное</label>
+			<label index="info">Информация</label>
+			<label index="invalidChar">ОШИБКА: в пути к файлу найден недопустимый символ (%s). Невозможно добавить файл!</label>
+			<label index="newWindow">Новое окно</label>
+			<label index="none">Отсутствует - создать ссылку!</label>
+			<label index="noWebFolder">Вы не можете перетянуть картинки из этой папки (желтой), т.к. она является внутренней папкой сервера.</label>
+			<label index="page">Страница</label>
+			<label index="pageTree">Дерево страниц</label>
+			<label index="params">Дополнительные параметры ссылки</label>
+			<label index="path">Путь</label>
+			<label index="removeLink">Удалить ссылку</label>
+			<label index="selectRecords">Выбрать записи</label>
+			<label index="setLink">Установить ссылку</label>
+			<label index="special">Особый</label>
+			<label index="target">Цель</label>
+			<label index="target_popUpWindow">Открыть в новом окне</label>
+			<label index="target_popUpWindow_height">Высота</label>
+			<label index="target_popUpWindow_width">Ширина</label>
+			<label index="title">Название</label>
+			<label index="toggleSelection">Переключить выбранное</label>
+			<label index="top">Текущее окно</label>
+			<label index="update">Обновить</label>
+			<label index="uploadImage">Загрузить изображение</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

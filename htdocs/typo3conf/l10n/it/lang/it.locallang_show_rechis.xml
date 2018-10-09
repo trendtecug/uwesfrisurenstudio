@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="age">Età</label>
+			<label index="changes">Cambiamenti</label>
+			<label index="delete">elimina</label>
+			<label index="differenceMsg">Nella colonna Differenze puoi vedere i cambiamenti avvenuti ad ogni modifica dei record. I &lt;span class="diff-g"&gt;testi in verde&lt;/span&gt; sono i nuovi cambiamenti e i &lt;span class="diff-r"&gt;testi in rosso&lt;/span&gt; sono i vecchi valori che sono stati rimossi.</label>
+			<label index="differences">Differenze</label>
+			<label index="elementHistory">Attualmente si vede la storia dell'elemento</label>
+			<label index="elementHistory_link">Mostra la storia completa della pagina</label>
+			<label index="externalChange">Cambiamento esterno!</label>
+			<label index="fullView">Ritorna alla lista completa</label>
+			<label index="insert">inserisci</label>
+			<label index="linkRecordHistory">Limita la storia a solo questo record</label>
+			<label index="markState">contrassegna questo cambiamento</label>
+			<label index="maxSteps">Mostra elementi:</label>
+			<label index="maxSteps_all">TUTTO</label>
+			<label index="maxSteps_marked">contrassegnato</label>
+			<label index="mergedDifferences">Anteprima dell'annullo</label>
+			<label index="no">No</label>
+			<label index="noDifferences">Non ci sono differenze nella pagina corrente!</label>
+			<label index="return">Indietro</label>
+			<label index="returnLink">Torna Indietro</label>
+			<label index="revertAll">Ripristina tutte le modifiche visualizzate</label>
+			<label index="revertField">Ripristina il vecchio valore di questo campo</label>
+			<label index="revertRecord">Ripristina il vecchio valore di questo record</label>
+			<label index="settings">Configurazione</label>
+			<label index="showDiff">Mostra differenze:</label>
+			<label index="showDiff_inline">Inline</label>
+			<label index="showDiff_no">No</label>
+			<label index="showInsertDelete">Mostra inserimenti/modifiche dei records:</label>
+			<label index="showSubElements">Mostra sottoelementi:</label>
+			<label index="sumUpChanges">Raggruppa i cambiamenti fino a questo punto</label>
+			<label index="tableUid">Tabella:uid</label>
+			<label index="time">Ora</label>
+			<label index="title">Mostra storia modifiche</label>
+			<label index="unmarkState">toglie il contrassegno a questo cambiamento</label>
+			<label index="user">Utente</label>
+			<label index="yes">Si</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

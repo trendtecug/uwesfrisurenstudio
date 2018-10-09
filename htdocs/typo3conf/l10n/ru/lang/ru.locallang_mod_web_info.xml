@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="depth_0">Эта страница</label>
+			<label index="depth_1">+ 1 подуровень</label>
+			<label index="depth_2">+ 2 подуровня</label>
+			<label index="depth_3">+ 3 подуровня</label>
+			<label index="mlang_labels_tabdescr">Модуль Веб&gt;Инфо предоставляет статистическую информацию о страницах. Это статистика обращений, журнал истории изменений, количество записей на каждой странице и настройки отдельных страниц, классически представленные в виде дерева.</label>
+			<label index="mlang_labels_tablabel">Информация о страницах, например статистика обращений к страницам, журнал изменений, количество записей</label>
+			<label index="mlang_tabs_tab">Инфо</label>
+			<label index="title">Информация о странице</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

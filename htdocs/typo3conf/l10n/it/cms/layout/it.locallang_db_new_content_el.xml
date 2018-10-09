@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="common">Contenuto tipico</label>
+			<label index="common_bulletList_description">Una semplice lista puntata</label>
+			<label index="common_bulletList_title">Lista Puntata</label>
+			<label index="common_headerOnly_description">Aggiungi solo un header.</label>
+			<label index="common_headerOnly_title">Solo Header</label>
+			<label index="common_imagesOnly_description">Un numero qualsiasi di immagini allineate per colonne e righe, con didascalie</label>
+			<label index="common_imagesOnly_title">Immagini</label>
+			<label index="common_regularText_description">Testo regolare, con un'intestazione e un corpo centrale.</label>
+			<label index="common_regularText_title">Testo Normale</label>
+			<label index="common_table_description">Una tabella semplice.</label>
+			<label index="common_table_title">Tabella</label>
+			<label index="common_textImage_description">Come il precedente, ma con la possibilità di impaginare automaticamente un qualsiasi numero di immagini.</label>
+			<label index="common_textImage_title">Testo &amp; Immagini</label>
+			<label index="forms">Elementi Form</label>
+			<label index="forms_login_description">form Login/Logout usata per limitare l'accesso a determinate sezioni del sito solo agli utenti e gruppi autorizzati.</label>
+			<label index="forms_login_title">Login Form</label>
+			<label index="forms_mail_description">Una form che permette di inviare via email i dati inseriti dall'utente</label>
+			<label index="forms_mail_title">Mail Form</label>
+			<label index="forms_search_description">Una form di ricerca e mostra i risultati quando viene eseguita una ricerca</label>
+			<label index="forms_search_title">Cerca nel Sito</label>
+			<label index="plugins">Plugins</label>
+			<label index="plugins_general_description">Seleziona questo elemento per inserire un plugin non presente in questa lista.</label>
+			<label index="plugins_general_title">Plugin Generico</label>
+			<label index="sel1">Seleziona il tipo di contenuto che vuoi creare:</label>
+			<label index="sel2">Clicca nella posizione della pagina in cui vuoi inserire l'elemento:</label>
+			<label index="special">Contenuti speciali</label>
+			<label index="special_divider_description">Questo elemento inserisce un divisore visuale, di default una linea orizzontale.</label>
+			<label index="special_divider_title">Divisore</label>
+			<label index="special_filelinks_description">Lista di files da scaricare</label>
+			<label index="special_filelinks_title">File Links</label>
+			<label index="special_media_description">Inserisce un elemento multimediale tipo animazione Flash, file audio o video</label>
+			<label index="special_media_title">Media</label>
+			<label index="special_menus_description">Crea un menù di pagine, una sitemap o un altro menu speciale.</label>
+			<label index="special_menus_title">Menù speciale</label>
+			<label index="special_multimedia_description">Inserisce un contenuto multimediale tipo Flash, file audio o video.</label>
+			<label index="special_multimedia_title">Multimedia</label>
+			<label index="special_plainHTML_description">Con questo elemento puoi inserire del codice HTML nella pagina.</label>
+			<label index="special_plainHTML_title">HTML semplice</label>
+			<label index="special_qtobject_description">Inserisce un file Quicktime, audio o video ( *.mov)</label>
+			<label index="special_qtobject_title">Inserisce un file Quicktime</label>
+			<label index="special_shortcut_description">Tramite questo elemento è possbile "embeddare" altri contenuti</label>
+			<label index="special_shortcut_title">Inserisci record</label>
+			<label index="special_sitemap_title">Mappa del sito</label>
+			<label index="special_swfobject_description">Inserisce un oggetto Flash, audio o video</label>
+			<label index="special_swfobject_title">Inserisce un oggetto Flash</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

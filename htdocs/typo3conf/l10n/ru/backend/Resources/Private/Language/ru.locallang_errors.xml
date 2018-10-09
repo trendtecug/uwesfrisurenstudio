@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="foldertreeview.noFolders.message">Нет доступа ни к одной из папок. Попросите администратора исправить права доступа для Вашей учётной записи.</label>
+			<label index="foldertreeview.noFolders.title">Нет доступных директорий</label>
+			<label index="no_modules_registered">Модули не зарегистрированы. Свяжитесь со своим системным администратором.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="Access-to-clipboard-denied"/>
+			<label index="disablepasteFormat"/>
+			<label index="disablepasteStructure"/>
+			<label index="disableplainText"/>
+			<label index="enablepasteFormat"/>
+			<label index="enablepasteStructure"/>
+			<label index="enableplainText"/>
+			<label index="Paste-as-Plain-Text"/>
+			<label index="PasteBehaviourTooltip"/>
+			<label index="pasteFormat"/>
+			<label index="pasteInPastingPad"/>
+			<label index="pasteStructure"/>
+			<label index="PasteToggleTooltip"/>
+			<label index="plainText"/>
+			<label index="rteCleanPasteBehaviour"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

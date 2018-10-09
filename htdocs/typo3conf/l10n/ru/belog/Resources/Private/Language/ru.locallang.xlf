@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T00:10:33Z" product-name="belog">
+		<header/>
+		<body>
+			<trans-unit id="100" approved="yes">
+				<source>100</source>
+				<target state="translated">100</target>
+			</trans-unit>
+			<trans-unit id="1000" approved="yes">
+				<source>1000</source>
+				<target state="translated">1000</target>
+			</trans-unit>
+			<trans-unit id="20" approved="yes">
+				<source>20</source>
+				<target state="translated">20</target>
+			</trans-unit>
+			<trans-unit id="200" approved="yes">
+				<source>200</source>
+				<target state="translated">200</target>
+			</trans-unit>
+			<trans-unit id="50" approved="yes">
+				<source>50</source>
+				<target state="translated">50</target>
+			</trans-unit>
+			<trans-unit id="500" approved="yes">
+				<source>500</source>
+				<target state="translated">500</target>
+			</trans-unit>
+			<trans-unit id="action" approved="yes">
+				<source>Action:</source>
+				<target state="translated">Действие:</target>
+			</trans-unit>
+			<trans-unit id="action_1_1" approved="yes">
+				<source>Insert</source>
+				<target state="translated">Добавление</target>
+			</trans-unit>
+			<trans-unit id="action_1_2" approved="yes">
+				<source>Update</source>
+				<target state="translated">Обновление</target>
+			</trans-unit>
+			<trans-unit id="action_1_3" approved="yes">
+				<source>Delete</source>
+				<target state="translated">Удаление</target>
+			</trans-unit>
+			<trans-unit id="action_1_4" approved="yes">
+				<source>Move</source>
+				<target state="translated">Перемещение</target>
+			</trans-unit>
+			<trans-unit id="action_1_5" approved="yes">
+				<source>Check</source>
+				<target state="translated">Проверка</target>
+			</trans-unit>
+			<trans-unit id="action_2_1" approved="yes">
+				<source>Upload</source>
+				<target state="translated">Загрузка</target>
+			</trans-unit>
+			<trans-unit id="action_2_2" approved="yes">
+				<source>Copy</source>
+				<target state="translated">Копирование</target>
+			</trans-unit>
+			<trans-unit id="action_2_3" approved="yes">
+				<source>Move</source>
+				<target state="translated">Перемещение</target>
+			</trans-unit>
+			<trans-unit id="action_2_4" approved="yes">
+				<source>Delete</source>
+				<target state="translated">Удаление</target>
+			</trans-unit>
+			<trans-unit id="action_2_5" approved="yes">
+				<source>Rename</source>
+				<target state="translated">Переименование</target>
+			</trans-unit>
+			<trans-unit id="action_254_1" approved="yes">
+				<source>Change</source>
+				<target state="translated">Изменение</target>
+			</trans-unit>
+			<trans-unit id="action_255_1" approved="yes">
+				<source>LOGIN</source>
+				<target state="translated">Вход</target>
+			</trans-unit>
+			<trans-unit id="action_255_2" approved="yes">
+				<source>LOGOUT</source>
+				<target state="translated">Выход</target>
+			</trans-unit>
+			<trans-unit id="action_255_3" approved="yes">
+				<source>ATTEMPT</source>
+				<target state="translated">Попытка входа</target>
+			</trans-unit>
+			<trans-unit id="action_2_6" approved="yes">
+				<source>New</source>
+				<target state="translated">Создание</target>
+			</trans-unit>
+			<trans-unit id="action_2_7" approved="yes">
+				<source>Unzip</source>
+				<target state="translated">Распаковка</target>
+			</trans-unit>
+			<trans-unit id="action_2_8" approved="yes">
+				<source>New file</source>
+				<target state="translated">Новый файл</target>
+			</trans-unit>
+			<trans-unit id="action_2_9" approved="yes">
+				<source>Edit</source>
+				<target state="translated">Правка</target>
+			</trans-unit>
+			<trans-unit id="action_3_1" approved="yes">
+				<source>Clear&amp;nbsp;Cache</source>
+				<target state="translated">Очистка кэша</target>
+			</trans-unit>
+			<trans-unit id="action_5_0" approved="yes">
+				<source>Error handler</source>
+				<target state="translated">Обработчик ошибок</target>
+			</trans-unit>
+			<trans-unit id="actionAll" approved="yes">
+				<source>All</source>
+				<target state="translated">Все</target>
+			</trans-unit>
+			<trans-unit id="actionCache" approved="yes">
+				<source>Cache</source>
+				<target state="translated">Управление кэшем</target>
+			</trans-unit>
+			<trans-unit id="actionDatabase" approved="yes">
+				<source>Database</source>
+				<target state="translated">Редактирование базы данных</target>
+			</trans-unit>
+			<trans-unit id="actionErrors" approved="yes">
+				<source>Errors</source>
+				<target state="translated">Различные ошибки</target>
+			</trans-unit>
+			<trans-unit id="actionFile" approved="yes">
+				<source>File</source>
+				<target state="translated">Изменение файлов</target>
+			</trans-unit>
+			<trans-unit id="actionLogin" approved="yes">
+				<source>Login</source>
+				<target state="translated">Вход</target>
+			</trans-unit>
+			<trans-unit id="actionSettings" approved="yes">
+				<source>Settings</source>
+				<target state="translated">Изменение настроек</target>
+			</trans-unit>
+			<trans-unit id="adminLog" approved="yes">
+				<source>Administration log</source>
+				<target state="translated">Административный журнал</target>
+			</trans-unit>
+			<trans-unit id="allUsers" approved="yes">
+				<source>[All users]</source>
+				<target state="translated">[Все пользователи]</target>
+			</trans-unit>
+			<trans-unit id="any" approved="yes">
+				<source>[Any]</source>
+				<target state="translated">[Любое]</target>
+			</trans-unit>
+			<trans-unit id="changesInFields" approved="yes">
+				<source>Changes in fields: %s.</source>
+				<target state="translated">Изменённые поля: %s.</target>
+			</trans-unit>
+			<trans-unit id="chLog_l_action" approved="yes">
+				<source>Action</source>
+				<target state="translated">Действие</target>
+			</trans-unit>
+			<trans-unit id="chLog_l_details" approved="yes">
+				<source>Details</source>
+				<target state="translated">Сведения</target>
+			</trans-unit>
+			<trans-unit id="chLog_l_error" approved="yes">
+				<source>E</source>
+				<target state="translated">!</target>
+			</trans-unit>
+			<trans-unit id="chLog_l_table" approved="yes">
+				<source>Table</source>
+				<target state="translated">Таблица</target>
+			</trans-unit>
+			<trans-unit id="chLog_l_time" approved="yes">
+				<source>Time</source>
+				<target state="translated">Время</target>
+			</trans-unit>
+			<trans-unit id="chLog_l_types" approved="yes">
+				<source>Type</source>
+				<target state="translated">Тип</target>
+			</trans-unit>
+			<trans-unit id="chLog_l_user" approved="yes">
+				<source>User</source>
+				<target state="translated">Пользователь</target>
+			</trans-unit>
+			<trans-unit id="chLog_menuDepth" approved="yes">
+				<source>Depth:</source>
+				<target state="translated">Глубина:</target>
+			</trans-unit>
+			<trans-unit id="chLog_menuTime" approved="yes">
+				<source>Time</source>
+				<target state="translated">Время</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_menuUsers" approved="yes">
+				<source>Users</source>
+				<target state="translated">Пользователи</target>
+			</trans-unit>
+			<trans-unit id="chLog_time_0" approved="yes">
+				<source>This week</source>
+				<target state="translated">На этой неделе</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_time_1" approved="yes">
+				<source>Last week</source>
+				<target state="translated">На прошлой неделе</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_time_10" approved="yes">
+				<source>This month</source>
+				<target state="translated">В этом месяце</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_time_11" approved="yes">
+				<source>Last month</source>
+				<target state="translated">В прошлом месяце</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_time_12" approved="yes">
+				<source>Last 31 days</source>
+				<target state="translated">За последние 31 день</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_time_2" approved="yes">
+				<source>Last 7 days</source>
+				<target state="translated">За последние 7 дней</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_time_20" approved="yes">
+				<source>No limit</source>
+				<target state="translated">Без ограничений</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_title" approved="yes">
+				<source>Admin Changelog</source>
+				<target state="translated">Журнал изменений администратора</target>
+			</trans-unit>
+			<trans-unit id="chLog_users_0" approved="yes">
+				<source>All users</source>
+				<target state="translated">Все пользователи</target>
+			</trans-unit>
+			<trans-unit id="chLog_users_-1" approved="yes">
+				<source>Self</source>
+				<target state="translated">Я</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="draft" approved="yes">
+				<source>Draft</source>
+				<target state="translated">Черновик</target>
+			</trans-unit>
+			<trans-unit id="forNonPageRelatedActions" approved="yes">
+				<source>for NON-PAGE related actions</source>
+				<target state="translated">для действий не со страницами</target>
+			</trans-unit>
+			<trans-unit id="forPage" approved="yes">
+				<source>for PAGE "%s" (UID: %s)</source>
+				<target state="translated">для страницы "%s" (UID: %s)</target>
+			</trans-unit>
+			<trans-unit id="forRootLevel" approved="yes">
+				<source>for ROOT LEVEL</source>
+				<target state="translated">для корневого уровня</target>
+			</trans-unit>
+			<trans-unit id="group" approved="yes">
+				<source>Group:</source>
+				<target state="translated">Группа:</target>
+			</trans-unit>
+			<trans-unit id="groupByPage" approved="yes">
+				<source>Group by page:</source>
+				<target state="translated">Группировать по страницам:</target>
+			</trans-unit>
+			<trans-unit id="last31Days" approved="yes">
+				<source>Last 31 days</source>
+				<target state="translated">За последние 31 день</target>
+			</trans-unit>
+			<trans-unit id="last7Days" approved="yes">
+				<source>Last 7 days</source>
+				<target state="translated">За последние 7 дней</target>
+			</trans-unit>
+			<trans-unit id="lastMonth" approved="yes">
+				<source>Last month</source>
+				<target state="translated">В прошлом месяце</target>
+			</trans-unit>
+			<trans-unit id="lastWeek" approved="yes">
+				<source>Last week</source>
+				<target state="translated">На прошлой неделе</target>
+			</trans-unit>
+			<trans-unit id="live" approved="yes">
+				<source>LIVE</source>
+				<target state="translated">LIVE</target>
+			</trans-unit>
+			<trans-unit id="logForNonPageRelatedActionsOrRootLevelOrPage" approved="yes">
+				<source>Log %s from %s to %s</source>
+				<target state="translated">Журнал %s с %s по %s</target>
+			</trans-unit>
+			<trans-unit id="max" approved="yes">
+				<source>Max:</source>
+				<target state="translated">Количество:</target>
+			</trans-unit>
+			<trans-unit id="msg_1_0_1" approved="yes">
+				<source>Referer host '%s' and server host '%s' did not match!</source>
+				<target state="translated">Имя ссылающегося хоста '%s' и имя сервера '%s' не совпадают!</target>
+			</trans-unit>
+			<trans-unit id="msg_1_1_11" approved="yes">
+				<source>Attempt to insert record on page '%s' (%s) where this table, %s, is not allowed</source>
+				<target state="translated">Попытка добавить запись на страницу '%s' (%s), на которой указанная таблица, %s, недоступна</target>
+			</trans-unit>
+			<trans-unit id="msg_1_1_12" approved="yes">
+				<source>Attempt to insert a record on page '%s' (%s) from table '%s' without permissions. Or non-existing page.</source>
+				<target state="translated">Попытка добавить запись на страницу '%s' (%s) из таблицы '%s' без достаточных привелегий. Или такая страница не существует.</target>
+			</trans-unit>
+			<trans-unit id="msg_1_2_1" approved="yes">
+				<source>Attempt to modify table '%s' without permission</source>
+				<target state="translated">Попытка изменить страницу '%s' без достаточных привелегий</target>
+			</trans-unit>
+			<trans-unit id="msg_1_2_10" approved="yes">
+				<source>Record '%s' (%s) was updated.</source>
+				<target state="translated">Запись '%s' (%s) была обновлена.</target>
+			</trans-unit>
+			<trans-unit id="msg_1_2_12" approved="yes">
+				<source>MySQL error: '%s' (%s)</source>
+				<target state="translated">Ошибка MySQL: '%s' (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_2_2" approved="yes">
+				<source>Attempt to modify record '%s' (%s) without permission. Or non-existing page.</source>
+				<target state="translated">Попытка изменить запись '%s' (%s) без достаточных привелегий. Или такая страница не существует.</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_1" approved="yes">
+				<source>Attempt to move record '%s' (%s) to after a non-existing record (uid=%s)</source>
+				<target state="translated">Попытка переместить запись '%s' (%s) после несуществующей записи (uid=%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_10" approved="yes">
+				<source>Attempt to move page '%s' (%s) to inside of its own rootline (at page '%s' (%s))</source>
+				<target state="translated">Попытка переместить страницу '%s' (%s) внутрь её же собственного дерева (для страницы '%s' (%s))</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_11" approved="yes">
+				<source>Attempt to insert record on page '%s' (%s) where this table, %s, is not allowed</source>
+				<target state="translated">Попытка добавить запись на страницу '%s' (%s), на которой таблица %s недоступна</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_12" approved="yes">
+				<source>Attempt to insert a record on page '%s' (%s) from table '%s' without permissions. Or non-existing page.</source>
+				<target state="translated">Попытка добавить на странице '%s' (%s) запись из таблицы '%s' без достаточных прав на это. Или страница не существует.</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_13" approved="yes">
+				<source>Attempt to move record '%s' (%s) to after another record, although the table has no sorting row.</source>
+				<target state="translated">Попытка переместить запись '%s' (%s) после другой записи, хотя в таблице нет поля для сортировки.</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_14" approved="yes">
+				<source>Attempt to move record '%s' (%s) without having permissions to do so</source>
+				<target state="translated">Попытка переместить запись '%s' (%s) без достаточных прав на это</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_2" approved="yes">
+				<source>Moved record '%s' (%s) to page '%s' (%s)</source>
+				<target state="translated">Запись '%s' (%s) перемещена на страницу '%s' (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_3" approved="yes">
+				<source>Moved record '%s' (%s) from page '%s' (%s)</source>
+				<target state="translated">Запись '%s' (%s) перемещена со страницы '%s' (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_4" approved="yes">
+				<source>Moved record '%s' (%s) on page '%s' (%s)</source>
+				<target state="translated">Запись '%s' (%s) перемещена в пределах страницы '%s' (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_1" approved="yes">
+				<source>You cannot change the 'doktype' of page '%s' to the desired value.</source>
+				<target state="translated">Вы не можете изменить поле 'doktype' страницы '%s' на указанное значение.</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_10" approved="yes">
+				<source>Could not delete file '%s' (does not exist). (%s)</source>
+				<target state="translated">Невозможно удалить файл '%s' (не существует). (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_11" approved="yes">
+				<source>Copying file '%s' failed!: No destination file (%s) possible!. (%s)</source>
+				<target state="translated">Копирование файла '%s' не удалось: Невозможно создать целевой файл! (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_12" approved="yes">
+				<source>File extension '%s' is not allowed. (%s)</source>
+				<target state="translated">Расширение '%s' не разрешено. (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_13" approved="yes">
+				<source>File size (%s) of file '%s' exceeds limit (%s). (%s)</source>
+				<target state="translated">Реальный размер (%s) файла '%s' превышает установленный лимит (%s). (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_14" approved="yes">
+				<source>The destination (%s) or the source file (%s) does not exist. (%s)</source>
+				<target state="translated">Целевой (%s) или исходный (%s) файлы не существуют. (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_15" approved="yes">
+				<source>Copying to file '%s' failed! (%s)</source>
+				<target state="translated">Копирование в файл '%s' не удалось! (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_16" approved="yes">
+				<source>Copying file '%s' failed!: The destination path (%s) may be write protected. Please make it write enabled!. (%s)</source>
+				<target state="translated">Копирование файла '%s' не удалось: Целевой путь (%s) кажется защищённым от записи. Пожалуйста, предоставьте права на запись! (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_2" approved="yes">
+				<source>'doktype' of page '%s' could not be changed because the page contains records from disallowed tables; %s</source>
+				<target state="translated">Свойство 'doktype' страницы '%s' не может быть изменено, так как на странице есть содержимое из несовместимых таблиц; %s</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_3" approved="yes">
+				<source>Too few items in the list of values. (%s)</source>
+				<target state="translated">Слишком мало элементов в списке значений. (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_2_9_1" approved="yes">
+				<source>File saved to '%s', bytes: %s, MD5: %s </source>
+				<target state="translated">Файл сохранён как '%s', размер: %s байт, MD5: %s</target>
+			</trans-unit>
+			<trans-unit id="noLimit" approved="yes">
+				<source>No limit</source>
+				<target state="translated">Без ограничений</target>
+			</trans-unit>
+			<trans-unit id="overview" approved="yes">
+				<source>Overview</source>
+				<target state="translated">Обзор</target>
+			</trans-unit>
+			<trans-unit id="pagenameWithUID" approved="yes">
+				<source>%s" [UID: %s]</source>
+				<target state="translated">%s" [UID: %s]</target>
+			</trans-unit>
+			<trans-unit id="self" approved="yes">
+				<source>Self</source>
+				<target state="translated">Я</target>
+			</trans-unit>
+			<trans-unit id="set" approved="yes">
+				<source>Set</source>
+				<target state="translated">Готово</target>
+			</trans-unit>
+			<trans-unit id="showHistory" approved="yes">
+				<source>Show History</source>
+				<target state="translated">Показать историю</target>
+			</trans-unit>
+			<trans-unit id="thisMonth" approved="yes">
+				<source>This month</source>
+				<target state="translated">В этом месяце</target>
+			</trans-unit>
+			<trans-unit id="thisWeek" approved="yes">
+				<source>This week</source>
+				<target state="translated">На этой неделе</target>
+			</trans-unit>
+			<trans-unit id="time" approved="yes">
+				<source>Time:</source>
+				<target state="translated">За период:</target>
+			</trans-unit>
+			<trans-unit id="timeInfo" approved="yes">
+				<source>These pages have log messages from %s to %s</source>
+				<target state="translated">На этой странице представлены события журнала с %s по %s</target>
+			</trans-unit>
+			<trans-unit id="type_1" approved="yes">
+				<source>DB</source>
+				<target state="translated">DB</target>
+			</trans-unit>
+			<trans-unit id="type_2" approved="yes">
+				<source>FILE</source>
+				<target state="translated">FILE</target>
+			</trans-unit>
+			<trans-unit id="type_254" approved="yes">
+				<source>SETTING</source>
+				<target state="translated">SETTING</target>
+			</trans-unit>
+			<trans-unit id="type_255" approved="yes">
+				<source>LOGIN</source>
+				<target state="translated">LOGIN</target>
+			</trans-unit>
+			<trans-unit id="type_3" approved="yes">
+				<source>CACHE</source>
+				<target state="translated">CACHE</target>
+			</trans-unit>
+			<trans-unit id="type_4" approved="yes">
+				<source>EXTENSION</source>
+				<target state="translated">РАСШИРЕНИЕ</target>
+			</trans-unit>
+			<trans-unit id="type_5" approved="yes">
+				<source>ERROR</source>
+				<target state="translated">ОШИБКА</target>
+			</trans-unit>
+			<trans-unit id="user" approved="yes">
+				<source>User:</source>
+				<target state="translated">Пользователь:</target>
+			</trans-unit>
+			<trans-unit id="userDefined" approved="yes">
+				<source>User defined</source>
+				<target state="translated">Указать период</target>
+			</trans-unit>
+			<trans-unit id="userGroup" approved="yes">
+				<source>Group:</source>
+				<target state="translated">Группа:</target>
+			</trans-unit>
+			<trans-unit id="users" approved="yes">
+				<source>Users:</source>
+				<target state="translated">Пользователи:</target>
+			</trans-unit>
+			<trans-unit id="workspace" approved="yes">
+				<source>Workspace:</source>
+				<target state="translated">Рабочая область:</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

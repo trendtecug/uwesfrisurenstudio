@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="cssstyledcontent.config.removePositionTypes">Убрать неиспользуемые типы размещений: Позволяет отключить незначимые для CType=image позиции изображений (останутся только "слева", "по центру" и "справа").</label>
+			<label index="cssstyledcontent.config.setPageTSconfig">Установить PageTSconfig по умолчанию: Если в этой базе данных вы планируете использовать данное расширение по умолчанию, установите флаг. В таком случае вам не придётся указывать PageTSconfig для каждой отдельной страницы.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

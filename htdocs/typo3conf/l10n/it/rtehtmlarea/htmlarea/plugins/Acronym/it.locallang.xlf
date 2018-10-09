@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:44:08Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Abbreviation" xml:space="preserve" approved="yes">
+				<source>Abbreviation</source>
+			<target state="translated">Abbreviazione</target></trans-unit>
+			<trans-unit id="Abridged_term" xml:space="preserve" approved="yes">
+				<source>Short form</source>
+			<target state="translated">Forma abbreviata</target></trans-unit>
+			<trans-unit id="Acronym" xml:space="preserve" approved="yes">
+				<source>Acronym</source>
+			<target state="translated">Acronimo</target></trans-unit>
+			<trans-unit id="Defined_abbr" xml:space="preserve" approved="yes">
+				<source>Pre-defined abbreviations</source>
+			<target state="translated">Abbreviazioni predefinite</target></trans-unit>
+			<trans-unit id="Defined_acronym" xml:space="preserve" approved="yes">
+				<source>Pre-defined acronyms</source>
+			<target state="translated">Acronimi predefiniti</target></trans-unit>
+			<trans-unit id="Delete" xml:space="preserve" approved="yes">
+				<source>Delete</source>
+			<target state="translated">Cancellare</target></trans-unit>
+			<trans-unit id="Edit abbreviation" xml:space="preserve" approved="yes">
+				<source>Edit abbreviation</source>
+			<target state="translated">Modifica abbreviazione</target></trans-unit>
+			<trans-unit id="Insert abbreviation" xml:space="preserve" approved="yes">
+				<source>Insert abbreviation</source>
+			<target state="translated">Inserire abbreviazione</target><note>79%</note></trans-unit>
+			<trans-unit id="Insert/Modify Acronym" xml:space="preserve" approved="yes">
+				<source>Insert/edit abbreviation</source>
+			<target state="translated">Inserisci/Modifica Acronimo o Abbreviazione</target></trans-unit>
+			<trans-unit id="Language_abbr_helpText" xml:space="preserve">
+				<source>This is the language for which the abbreviation is defined</source>
+			<target/></trans-unit>
+			<trans-unit id="Language_acronym_helpText" xml:space="preserve">
+				<source>This is the language for which the acronym is defined</source>
+			<target/></trans-unit>
+			<trans-unit id="Select_a_language" xml:space="preserve">
+				<source>Select a language</source>
+			<target/></trans-unit>
+			<trans-unit id="Select_an_abbr" xml:space="preserve" approved="yes">
+				<source>Select an abbreviation</source>
+			<target state="translated">Selezionare un'abbreviazione</target></trans-unit>
+			<trans-unit id="Select_an_acronym" xml:space="preserve" approved="yes">
+				<source>Select an acronym</source>
+			<target state="translated">Selezionare un acronimo</target></trans-unit>
+			<trans-unit id="Select_a_term" xml:space="preserve" approved="yes">
+				<source>Select a term</source>
+			<target state="translated">Selezionare un termine</target></trans-unit>
+			<trans-unit id="Term" xml:space="preserve" approved="yes">
+				<source>Term</source>
+			<target state="translated">Termine</target></trans-unit>
+			<trans-unit id="Term_to_abridge" xml:space="preserve">
+				<source>Term to abbreviate</source>
+			<target/></trans-unit>
+			<trans-unit id="Unabridged_term" xml:space="preserve" approved="yes">
+				<source>Term</source>
+			<target state="translated">Termine</target></trans-unit>
+			<trans-unit id="Use_this_term" xml:space="preserve" approved="yes">
+				<source>Use this term</source>
+			<target state="translated">Usare questo termine</target></trans-unit>
+			<trans-unit id="Use_this_term_explain" xml:space="preserve">
+				<source>Associate this term to the current selection</source>
+			<target/></trans-unit>
+		</body>
+	</file>
+</xliff>

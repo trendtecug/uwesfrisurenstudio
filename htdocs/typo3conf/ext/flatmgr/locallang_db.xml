@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'flatmgr'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_flatmgr_flat">Vacation flat</label>
+			<label index="tx_flatmgr_flat.name">Name</label>
+			<label index="tx_flatmgr_flat.capacity">Capacity[persons]</label>
+			<label index="tx_flatmgr_flat.capacitytext">Capacity[text]</label>
+			<label index="tx_flatmgr_flat.marketing">Marketing</label>
+			<label index="tx_flatmgr_flat.marketingRental">Rental</label>
+			<label index="tx_flatmgr_flat.marketingPurchase">Purchase</label>
+			<label index="tx_flatmgr_flat.livingspace">Living space</label>
+			<label index="tx_flatmgr_flat.landarea">Land area</label>
+			<label index="tx_flatmgr_flat.minprice">Min. price</label>
+			<label index="tx_flatmgr_flat.attribute">Attributes</label>
+			<label index="tx_flatmgr_flat.video">Video [HTML]</label>
+			<label index="tx_flatmgr_flat.pic">Picture</label>
+			<label index="tx_flatmgr_flat.url">Url</label>
+			<label index="tx_flatmgr_flat.category">Category</label>
+			<label index="tx_flatmgr_flat.feuser">FE user</label>
+			<label index="tx_flatmgr_flat.pricepeakseason">Price peakseason</label>
+			<label index="tx_flatmgr_flat.pricelowseason">Price lowseason</label>
+			<label index="tx_flatmgr_flat.pricesavingseason">Price savingseason</label>
+			<label index="tx_flatmgr_flat.showalternativeprices">Show alternative prices</label>
+			<label index="tx_flatmgr_flat.alternativepricepeakseason">Alternative price peakseason</label>
+			<label index="tx_flatmgr_flat.alternativepricelowseason">Alternative price lowseason</label>
+			<label index="tx_flatmgr_flat.alternativepricesavingseason">Alternative price savingseason</label>
+
+			<label index="tx_flatmgr_flat.caution">Caution</label>
+			<label index="tx_flatmgr_flat.priceendcleaning">Price end cleaning</label>
+			<label index="tx_flatmgr_flat.arrivaldayfr">Fr</label>
+			<label index="tx_flatmgr_flat.arrivaldaysa">Sa</label>
+			<label index="tx_flatmgr_flat.arrivaldaysu">Su</label>
+			<label index="tx_flatmgr_flat.gallery">Directory for gallery</label>
+			<label index="tx_flatmgr_flat.dayofarrival">Day of arrival</label>
+
+
+			<label index="tx_flatmgr_flat.street">Street</label>
+			<label index="tx_flatmgr_flat.zip">Zipcode</label>
+			<label index="tx_flatmgr_flat.city">City</label>
+			<label index="tx_flatmgr_flat.country">Country</label>
+			<label index="tx_flatmgr_flat.showmap">Show Google map in single view</label>
+			<label index="tx_flatmgr_flat.showcalendar">Show calendar in single view</label>
+			<label index="tx_flatmgr_flat.showfutureyearsincalendar">Show future calendar years</label>
+
+
+
+
+			<label index="tx_flatmgr_room">Room</label>
+			<label index="tx_flatmgr_room.name">Roomname</label>
+			<label index="tx_flatmgr_room.flatuid">Flat</label>
+			<label index="tx_flatmgr_room.capacity">Capacity</label>
+
+			<label index="tx_flatmgr_book">Flatbooking</label>
+			<label index="tx_flatmgr_book.flatid">Vacation flat object</label>
+			<label index="tx_flatmgr_book.roomuid">Vacation room object</label>
+			<label index="tx_flatmgr_book.bookedby">Booked from</label>
+			<label index="tx_flatmgr_book.startdate">First day of booking</label>
+			<label index="tx_flatmgr_book.enddate">Last day of booking</label>
+			<label index="tx_flatmgr_book.onrequest">On request</label>
+		
+			<label index="tx_flatmgr_book.customernumber">Customer number</label>
+			<label index="tx_flatmgr_book.grownups">Number of grownups</label>
+			<label index="tx_flatmgr_book.childs">Number of children</label>
+			<label index="tx_flatmgr_book.memo">Memo</label>
+			<label index="tx_flatmgr_book.agent">Agent</label>
+
+			<label index="tx_flatmgr_category">Flatbooking category</label>
+			<label index="tx_flatmgr_category.name">Category</label>
+
+			<label index="tx_flatmgr_flatcategory">Flat category</label>
+			<label index="tx_flatmgr_flatcategory.categoryName">Flat category</label>
+			
+			<label index="tx_flatmgr_description">Flat description</label>
+			<label index="tx_flatmgr_description.name">Name</label>
+			<label index="tx_flatmgr_description.description">Flat description</label>
+
+			<label index="tx_flatmgr_special">Flat special price</label>
+			<label index="tx_flatmgr_special.name">Name</label>
+			<label index="tx_flatmgr_special.description">Special description</label>
+
+			<label index="tx_flatmgr_season">Season</label>
+			<label index="tx_flatmgr_season.year">Year</label>
+			<label index="tx_flatmgr_season.peakseason">Peakseason</label>
+			<label index="tx_flatmgr_season.lowseason">Lowseason</label>
+			<label index="tx_flatmgr_season.savingseason">Savingseason</label>
+			<label index="tx_flatmgr_season.alternativePeakseason">Alternative peakseason</label>
+			<label index="tx_flatmgr_season.alternativeLowseason">Alternative lowseason</label>
+			<label index="tx_flatmgr_season.alternativeSavingseason">Alternative savingseason</label>
+
+			<label index="tx_flatmgr_attribute">Attribute</label>
+			<label index="tx_flatmgr_attribute.name">Name</label>
+			<label index="tx_flatmgr_attribute.icon">Icon</label>
+
+
+			<label index="tx_flatmgr.tx_locator_lat">tx_locator[lat]</label>
+			<label index="tx_flatmgr.tx_locator_lon">tx_locator[lon]</label>
+			<label index="tx_flatmgr.tx_locator_geocode">tx_locator[geocode]</label>
+			
+
+			<label index="tt_content.list_type_pi1">Vacation flat manager</label>
+		</languageKey>
+
+		<languageKey index="de" type="array">
+			<label index="tx_flatmgr_flat">Ferienwohnung</label>
+			<label index="tx_flatmgr_flat.name">Name</label>
+			<label index="tx_flatmgr_flat.capacity">Kapazität[Personen]</label>
+			<label index="tx_flatmgr_flat.capacitytext">Kapazität[Text]</label>
+			<label index="tx_flatmgr_flat.marketing">Marketing</label>
+			<label index="tx_flatmgr_flat.marketingRental">Vermietung</label>
+			<label index="tx_flatmgr_flat.marketingPurchase">Kauf</label>
+			<label index="tx_flatmgr_flat.livingspace">Wohnfläche [m²]</label>
+			<label index="tx_flatmgr_flat.landarea">Grundstücksfläche [m²]</label>
+			<label index="tx_flatmgr_flat.minprice">Min. Preis</label>
+			<label index="tx_flatmgr_flat.attribute">Ausstattung</label>
+			<label index="tx_flatmgr_flat.video">Video [HTML]</label>
+			<label index="tx_flatmgr_flat.pic">Bild</label>
+			<label index="tx_flatmgr_flat.url">Link</label>
+			<label index="tx_flatmgr_flat.category">Kategorie</label>
+			<label index="tx_flatmgr_flat.feuser">FE User</label>
+			<label index="tx_flatmgr_flat.street">Straße</label>
+			<label index="tx_flatmgr_flat.zip">PLZ</label>
+			<label index="tx_flatmgr_flat.city">Stadt</label>
+			<label index="tx_flatmgr_flat.country">Land</label>
+			<label index="tx_flatmgr_flat.pricepeakseason">Preis Hauptsaison</label>
+			<label index="tx_flatmgr_flat.pricelowseason">Preis Nebensaison</label>
+			<label index="tx_flatmgr_flat.pricesavingseason">Preis Sparwochen</label>
+			<label index="tx_flatmgr_flat.showalternativeprices">Zeige alternative Preise und Saisonzeiten</label>
+			<label index="tx_flatmgr_flat.alternativepricepeakseason">Alternativpreis Hauptsaison</label>
+			<label index="tx_flatmgr_flat.alternativepricelowseason">Alternativpreis Nebensaison</label>
+			<label index="tx_flatmgr_flat.alternativepricesavingseason">Alternativpreis Sparwochen</label>
+
+			<label index="tx_flatmgr_flat.caution">Kaution</label>
+			<label index="tx_flatmgr_flat.priceendcleaning">Preis Endreinigung</label>
+			<label index="tx_flatmgr_flat.arrivaldayfr">Fr</label>
+			<label index="tx_flatmgr_flat.arrivaldaysa">Sa</label>
+			<label index="tx_flatmgr_flat.arrivaldaysu">So</label>
+			<label index="tx_flatmgr_flat.gallery">Ordner Bildergalerie</label>
+			<label index="tx_flatmgr_flat.dayofarrival">Anreisetag</label>
+			<label index="tx_flatmgr_flat.showmap">Zeige Google Map im Singleview</label>
+			<label index="tx_flatmgr_flat.showcalendar">Zeige Kalender im Singleview</label>
+			<label index="tx_flatmgr_flat.showfutureyearsincalendar">Zeige zukünftige Jahre im Kalender</label>
+
+
+
+			<label index="tx_flatmgr_room">Zimmer</label>
+			<label index="tx_flatmgr_room.name">Zimmername</label>
+			<label index="tx_flatmgr_room.flatuid">Ferienwohnung</label>
+			<label index="tx_flatmgr_room.capacity">Kapazität</label>
+
+			<label index="tx_flatmgr_book">Buchungen</label>
+			<label index="tx_flatmgr_book.flatid">Ferienwohnung</label>
+			<label index="tx_flatmgr_book.roomuid">Zimmer</label>
+			<label index="tx_flatmgr_book.bookedby">Gebucht von</label>
+			<label index="tx_flatmgr_book.startdate">Buchungsbeginn</label>
+			<label index="tx_flatmgr_book.enddate">Buchungsende</label>
+			<label index="tx_flatmgr_book.onrequest">Auf Anfrage</label>
+		
+			<label index="tx_flatmgr_book.customernumber">Kundennummer</label>
+			<label index="tx_flatmgr_book.grownups">Erwachsenenanzahl</label>
+			<label index="tx_flatmgr_book.childs">Kinderanzahl</label>
+			<label index="tx_flatmgr_book.memo">Memo</label>
+			<label index="tx_flatmgr_book.agent">Vermittler</label>
+
+			<label index="tx_flatmgr_category">Buchungskategorie</label>
+			<label index="tx_flatmgr_category.name">Kategorie</label>
+
+			<label index="tx_flatmgr_flatcategory">Ferienwohnungskategorie</label>
+			<label index="tx_flatmgr_flatcategory.categoryName">Kategorie</label>
+
+			<label index="tx_flatmgr_description">Ferienwohnungsbeschreibungen</label>
+			<label index="tx_flatmgr_description.name">Name</label>
+			<label index="tx_flatmgr_description.description">Ferienwohnungsbeschreibung</label>
+
+			<label index="tx_flatmgr_special">Flat special price</label>
+			<label index="tx_flatmgr_special.name">Name</label>
+			<label index="tx_flatmgr_special.description">Special description</label>
+
+			<label index="tx_flatmgr_season">Season</label>
+			<label index="tx_flatmgr_season.year">Jahr</label>
+			<label index="tx_flatmgr_season.peakseason">Hochsaison</label>
+			<label index="tx_flatmgr_season.lowseason">Nebensaison</label>
+			<label index="tx_flatmgr_season.savingseason">Sparwochen</label>
+			<label index="tx_flatmgr_season.alternativePeakseason">Alternative Hauptsaison</label>
+			<label index="tx_flatmgr_season.alternativeLowseason">Alternative Nebensaison</label>
+			<label index="tx_flatmgr_season.alternativeSavingseason">Alternative Sparwochen</label>
+
+			<label index="tx_flatmgr_attribute">Attribute</label>
+			<label index="tx_flatmgr_attribute.name">Name</label>
+			<label index="tx_flatmgr_attribute.icon">Icon</label>
+
+			<label index="tx_flatmgr.tx_locator_lat">tx_locator[lat]</label>
+			<label index="tx_flatmgr.tx_locator_lon">tx_locator[lon]</label>
+			<label index="tx_flatmgr.tx_locator_geocode">tx_locator[geocode]</label>
+
+			<label index="tt_content.list_type_pi1">Ferienwohnungsmanager</label>
+		</languageKey>
+
+
+	</data>
+</T3locallang>

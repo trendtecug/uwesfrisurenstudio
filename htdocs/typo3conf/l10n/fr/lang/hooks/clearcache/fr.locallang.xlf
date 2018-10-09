@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T02:27:07Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="title" approved="yes">
+				<source>Clear language cache</source>
+				<target state="translated">Vider le cache de langue</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

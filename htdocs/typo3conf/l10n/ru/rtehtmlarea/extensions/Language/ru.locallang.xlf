@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:11Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="No language mark" approved="yes">
+				<source>No language mark</source>
+				<target state="translated">Отсутствует языковая метка</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

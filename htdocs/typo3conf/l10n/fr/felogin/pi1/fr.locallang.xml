@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="change_password">Changez votre mot de passe</label>
+			<label index="cookie_warning">Attention: Il est possible que les cookies ne soient pas activés dans votre navigateur! C'est le cas si votre connexion se perd lorsque vous naviguez sur le site. Dans ce cas, vous devriez immédiatement accepter les cookies, au moins pour ce site web!</label>
+			<label index="ll_change_password_done_message">Votre mot de passe a été enregistré. Vous pouvez maintenant vous connecter avec votre nouveau mot de passe.</label>
+			<label index="ll_change_password_header">Modifier votre mot de passe</label>
+			<label index="ll_change_password_message">Veuillez saisir votre nouveau mot de passe deux fois. Les mots de passe doivent avoir une longueur minimum de %s caractères.</label>
+			<label index="ll_change_password_nolinkprefix_message">Erreur : le lien n'a pas de préfixe. Veuillez configurer l'un de ces paramètres dans votre gabarit typoscript : plugin.tx_felogin_pi1.feloginBaseURL = http://votredomain/, config.baseURL = http://votredomain/, config.absRelPrefix = http://votredomain/</label>
+			<label index="ll_change_password_notequal_message">Les mots de passe sont différents. Veuillez saisir votre nouveau mot de passe deux fois. Les mots de passe doivent avoir une longueur minimum de %s caractères.</label>
+			<label index="ll_change_password_notvalid_message">Le lien que vous venez de cliquer n'est pas valide. Veuillez recommencer la procédure.</label>
+			<label index="ll_change_password_tooshort_message">Le mot de passe est trop court. Veuillez saisir votre nouveau mot de passe deux fois. Les mots de passe doivent avoir une longueur minimum de %s caractères.</label>
+			<label index="ll_enter_your_data">Nom d'utilisateur ou adresse mail:</label>
+			<label index="ll_error_header">Identification incorrecte</label>
+			<label index="ll_error_message">Une erreur est survenue durant la connexion. Vraisemblablement le nom d'utilisateur ou le mot de passe était faux. Faites attention à être précis, en particulier en ce qui concerne l'usage des minuscules et des majuscules. Il est aussi possible que les cookies soient désactivés.</label>
+			<label index="ll_forgot_email_nopassword">Votre mot de passe 
+Bonjour %s,
+
+Aucun nom d'utilisateur n'a été trouvé pour cette adresse de courriel ainsi aucun mot de passe ne peut vous être envoyé. Une erreur s'est probablement glissée dans votre adresse de courriel (la casse est importante !) ou bien vous n'êtes pas encore enregistré sur le site ?
+</label>
+			<label index="ll_forgot_email_password">Votre mot de passe
+Bonjour %s
+
+Votre nom d'utilisateur est "%s"
+Votre mot de passe est "%s"</label>
+			<label index="ll_forgot_header">Mot de passe oublié ?</label>
+			<label index="ll_forgot_header_backToLogin">Retourner au formulaire d'identification</label>
+			<label index="ll_forgot_message">Veuillez indiquer l'adresse mail que vous avez utilisée lors de la création de votre compte. Appuyez ensuite sur le bouton "Envoyer le mot de passe" et votre mot de passe vous sera directement envoyé par courrier électronique. Veillez à saisir correctement votre adresse mail.</label>
+			<label index="ll_forgot_message_emailSent">Votre mot de passe a été envoyé à l'adresse %s</label>
+			<label index="ll_forgot_reset_message">Veuillez saisir votre nom d'utilisateur ou votre email. Les instructions nécessaires à la réinitialisation de votre mot de passe vous seront immédiatement envoyées par mail.</label>
+			<label index="ll_forgot_reset_message_emailSent">Un email a été envoyé à l'adresse correspondant à votre compte. Ce mail contient un lien vous permettant de réinitialiser votre mot de passe. Si vous ne recevez pas de mail, c'est que votre compte ou votre adresse mail n'a pas été trouvé.</label>
+			<label index="ll_forgot_reset_message_error">Votre compte ou votre adresse e-mail n'existe pas.</label>
+			<label index="ll_forgot_validate_reset_password">Votre nouveau mot de passe
+Bonjour %s,
+
+Cet email vous a été envoyé suite à votre demande de réinitialisation de mot de passe. Veuillez cliquer sur le lien ci-dessous.
+%s
+
+Pour des raisons de sécurité, ce lien n'est valide que jusqu'au %s. Si vous ne cliquez pas sur ce lien avant ce délai, vous devrez recommencer la procédure de réinitialisation de mot de passe.</label>
+			<label index="ll_logout_header">Vous êtes déconnecté</label>
+			<label index="ll_logout_message">Vous vous êtes déconnecté avec succès. Vous pouvez vous identifier à nouveau en utilisant le formulaire ci-dessous.</label>
+			<label index="ll_status_header">Etat actuel</label>
+			<label index="ll_status_message">Votre état actuel :</label>
+			<label index="ll_success_header">Identification correcte</label>
+			<label index="ll_success_message">Vous êtes maintenant connecté en tant que '###USER###'</label>
+			<label index="ll_welcome_header">Identification de l'utilisateur</label>
+			<label index="ll_welcome_message">Entrez votre nom d'utilisateur et votre mot de passe pour vous identifier:</label>
+			<label index="login">Identification</label>
+			<label index="logout">Déconnexion</label>
+			<label index="newpassword_label1">Saisissez le nouveau mot de passe</label>
+			<label index="newpassword_label2">Saisissez une seconde fois le nouveau mot de passe</label>
+			<label index="noValidRedirectUrl">L'URL "%s" pour la redirection n'est pas acceptée</label>
+			<label index="password">Mot de passe :</label>
+			<label index="permalogin">Rester connecté :</label>
+			<label index="reset_password">Réinitialiser le mot de passe</label>
+			<label index="send_password">Envoyer le mot de passe</label>
+			<label index="username">Nom d'utilisateur :</label>
+			<label index="xssAttackDetected">L'URL "%s" contenait un attaque XSS et a été nettoyé!</label>
+			<label index="your_email">Votre adresse e-mail:</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

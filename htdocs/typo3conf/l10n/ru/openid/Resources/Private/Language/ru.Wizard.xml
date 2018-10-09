@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="addopenid">Добавить OpenID</label>
+			<label index="error.cancelled">Отменена аутентификация по OpenID.</label>
+			<label index="error.general">Статус: %s&lt;br/&gt;Сообщение: %s</label>
+			<label index="error.no-response">Мы не получили ответ OpenID.</label>
+			<label index="error.setup">Ошибка настройки аутентификации OpenID для "%s".</label>
+			<label index="html.description">Добавление OpenID для внутреннего пользователя. После этот OpenID можно использовать для авторизации в интерфейсе управления TYPO3.</label>
+			<label index="html.openid_url">Идентификатор OpenID</label>
+			<label index="html.submit">Вход</label>
+			<label index="html.title">Регистрация OpenID</label>
+			<label index="title.error">Ошибка в процессе авторизации по OpenID</label>
+			<label index="title.success">Успешная аутентификация по OpenID</label>
+			<label index="youropenid">OpenID: &lt;tt&gt;%s&lt;/tt&gt;</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:12Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Address" approved="yes">
+				<source>Address</source>
+				<target state="translated">Адрес</target>
+			</trans-unit>
+			<trans-unit id="deprecatedPropertyMessage" approved="no">
+				<source>Page TSConfig property "%1$s" used on page id #%4$s is DEPRECATED and will be removed in TYPO3 %3$s. Use "%2$s" instead.</source>
+				<target state="needs-translation">Свойство из TSConfig страницы "%1$s" используется на странице с id #%4$s, является УСТАРЕВШИМ и будет удалено в TYPO3 %3$s. Вместо этого используйте "%2$s".</target>
+			</trans-unit>
+			<trans-unit id="Heading 1" approved="yes">
+				<source>Heading 1</source>
+				<target state="translated">Заголовок 1</target>
+			</trans-unit>
+			<trans-unit id="Heading 2" approved="yes">
+				<source>Heading 2</source>
+				<target state="translated">Заголовок 2</target>
+			</trans-unit>
+			<trans-unit id="Heading 3" approved="yes">
+				<source>Heading 3</source>
+				<target state="translated">Заголовок 3</target>
+			</trans-unit>
+			<trans-unit id="Heading 4" approved="yes">
+				<source>Heading 4</source>
+				<target state="translated">Заголовок 4</target>
+			</trans-unit>
+			<trans-unit id="Heading 5" approved="yes">
+				<source>Heading 5</source>
+				<target state="translated">Заголовок 5</target>
+			</trans-unit>
+			<trans-unit id="Heading 6" approved="yes">
+				<source>Heading 6</source>
+				<target state="translated">Заголовок 6</target>
+			</trans-unit>
+			<trans-unit id="No font" approved="yes">
+				<source>No font</source>
+				<target state="translated">Нет шрифта</target>
+			</trans-unit>
+			<trans-unit id="Normal" approved="yes">
+				<source>Normal</source>
+				<target state="translated">Нормальный</target>
+			</trans-unit>
+			<trans-unit id="No size" approved="yes">
+				<source>No font size</source>
+				<target state="translated">Нет размера шрифта</target>
+			</trans-unit>
+			<trans-unit id="Please wait" approved="yes">
+				<source>The editor is being loaded. Please wait...</source>
+				<target state="translated">Редактор загружается. Подождите, пожалуйста...</target>
+			</trans-unit>
+			<trans-unit id="Preformatted" approved="yes">
+				<source>Preformatted</source>
+				<target state="translated">Пре-форматированый</target>
+			</trans-unit>
+			<trans-unit id="rteHeight" approved="yes">
+				<source>Height of the RTE in pixels</source>
+				<target state="translated">Высота редактора в пикселях</target>
+			</trans-unit>
+			<trans-unit id="rteMaxHeight" approved="no">
+				<source>Maximal height of resizeable RTE in pixels</source>
+				<target state="needs-translation">Максимальная высота изменяемого редактора в пикселях</target>
+			</trans-unit>
+			<trans-unit id="rteResize" approved="yes">
+				<source>Make RTE resizable</source>
+				<target state="translated">Изменять размер редактора</target>
+			</trans-unit>
+			<trans-unit id="rteSettings" approved="yes">
+				<source>Rich Text Editor</source>
+				<target state="translated">Редактор сложного текста</target>
+			</trans-unit>
+			<trans-unit id="rteWidth" approved="yes">
+				<source>Width of the RTE in pixels or percentage</source>
+				<target state="translated">Ширина редактора в пикселях или процентах</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

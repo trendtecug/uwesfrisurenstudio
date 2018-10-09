@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="Access-to-clipboard-denied">Содержимое в виде обычного текста не может быть вставлено, так как доступ к буферу обмена запрещен.</label>
+			<label index="disablepasteFormat">Запретить вставлять структуру и основное форматирование</label>
+			<label index="disablepasteStructure">Запретить вставлять лишь структуру</label>
+			<label index="disableplainText">Запретить вставлять обычный текст</label>
+			<label index="enablepasteFormat">Разрешить вставлять структуру и основное форматирование</label>
+			<label index="enablepasteStructure">Разрешить вставлять лишь структуру</label>
+			<label index="enableplainText">Разрешить вставлять обычный текст</label>
+			<label index="Paste-as-Plain-Text">Вставить как обычный текст</label>
+			<label index="PasteBehaviourTooltip">Выбор альтернативного события вставки</label>
+			<label index="pasteFormat">Вставить структуру и основное форматирование</label>
+			<label index="pasteInPastingPad">Вставьте содержимое в этот карман и нажмите OK/</label>
+			<label index="pasteStructure">Вставить только структуру</label>
+			<label index="PasteToggleTooltip">Переключатель события вставки</label>
+			<label index="plainText">Вставить как обычный текст</label>
+			<label index="rteCleanPasteBehaviour">Сбросить поведение при вставке</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

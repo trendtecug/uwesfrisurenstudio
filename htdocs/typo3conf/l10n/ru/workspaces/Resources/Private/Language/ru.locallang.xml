@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="actionSendToStage">Переслать на стадию</label>
+			<label index="cancel">отмена</label>
+			<label index="chooseAction">выбор действия</label>
+			<label index="chooseMassAction">выбор группового действия</label>
+			<label index="close">Закрыть</label>
+			<label index="column.actions">Действия</label>
+			<label index="column.changeDate">Изменение</label>
+			<label index="column.difference">Разница</label>
+			<label index="column.livePath">Оперативная-путь</label>
+			<label index="column.liveTitle">Оперативная-название</label>
+			<label index="column.oid">Оперативная-ID</label>
+			<label index="column.stage">Текущая стадия</label>
+			<label index="column.uid">РО-ID</label>
+			<label index="column.workspaceName">Рабочая область</label>
+			<label index="column.wsPath">Путь</label>
+			<label index="column.wsSwapColumn">Обмен рабочих областей</label>
+			<label index="column.wsTitle">Изменено</label>
+			<label index="comments">Пользовательский комментарий для &lt;b&gt;шага {0} на этапе&lt;/b&gt; "{1}"</label>
+			<label index="current_step">&lt;b&gt;Шаг текущего этапа&lt;/b&gt;: {0} (&lt;b&gt;{1}&lt;/b&gt;/{2})</label>
+			<label index="editorInLive">Это ОПЕРАТИВНАЯ рабочая область. Необходимо выбрать черновую рабочую область, перед тем, как станет возможным рецензировать и
+					публиковать изменения.
+				</label>
+			<label index="error.getStageTitle.stageNotFound">Этап не найден</label>
+			<label index="error.noResponse">Сервер не ответил об успешном выполнении действия.</label>
+			<label index="error.sendToNextStage.noRecordFound">Невозможно найти запись элемента.</label>
+			<label index="error.sendToPrevStage.noPreviousStage">Запись элемента уже на стадии редактирования, а ранних этапов не существует.</label>
+			<label index="error.stageId.integer">ID этапа должно быть целым числом</label>
+			<label index="error.stageId.invalid">Желаемый для использования этап имеет ошибки не может использоваться. Используйте мастер обновления
+					в install tool для исправления.
+				</label>
+			<label index="info.elementAlreadyModified">Элемент находится на рабочем этапе "%s", изменения вернут его на этап "%s".</label>
+			<label index="info.newpage">Новая страница!</label>
+			<label index="info.newpage.detail">Просматриваемая страница была создана в рабочей области и не имеет аналога на живом сайте.</label>
+			<label index="integrity.dependsOnDefaultLanguageRecord">Запись "%s" зависит от записи на языке по умолчанию</label>
+			<label index="integrity.hasIssuesDescription">При проверке целостности были обнаружены некоторые ошибки, смотрите значки статуса напротив каждой записи для детальной информации.</label>
+			<label index="integrity.hasIssuesQuestion">Настаиваете на продолжении?</label>
+			<label index="integrity.isDefaultLanguageRecord">Запись на языке по умолчанию для записи "%s"</label>
+			<label index="item">элемент</label>
+			<label index="items">элементы</label>
+			<label index="label_doaction_discard">Удаление</label>
+			<label index="label_doaction_generatePreviewLinks">Сформировать ссылку предпросмотра области</label>
+			<label index="label_doaction_publish">Публикация</label>
+			<label index="label_doaction_swap">Обмен</label>
+			<label index="language.allLanguages">все языки</label>
+			<label index="language.selectLanguage">все языки</label>
+			<label index="legend.deleted">удален</label>
+			<label index="legend.edited">отредактированный</label>
+			<label index="legend.hidden">скрыт</label>
+			<label index="legend.label">Легенда:</label>
+			<label index="legend.moved">перемещен</label>
+			<label index="legend.new">создан</label>
+			<label index="live_workspace">Оперативная область</label>
+			<label index="ok">ok</label>
+			<label index="path">&lt;b&gt;Путь&lt;/b&gt;: {0}</label>
+			<label index="previewLink">Ссылка на предварительный просмотр</label>
+			<label index="preview.listView">Режим списка</label>
+			<label index="preview.livePreview">В живую</label>
+			<label index="preview.livePreviewDetail">Щелкните по элементу для скрытия рабочей версии и просмотра живой версии страницы.</label>
+			<label index="preview.modeHbox">Горизонтальный</label>
+			<label index="preview.modeSlider">Слайдер</label>
+			<label index="preview.modeVbox">Вертикальный</label>
+			<label index="preview.visualPreview">Визуальный просмотр</label>
+			<label index="preview.workspacePreview">Рабочая область</label>
+			<label index="preview.workspacePreviewDetail">Щелкните по элементу для скрытия живой версии и просмотра рабочей версии страницы.</label>
+			<label index="publish_execute_action_option">Публиковать В ЖИВУЮ</label>
+			<label index="recordsToDisplay">Отображение записей</label>
+			<label index="reviewandpublish">рецензия и публикация</label>
+			<label index="rowDetails">Подробнее...</label>
+			<label index="runMassAction.done">Обработано %d элементов</label>
+			<label index="runMassAction.init">инициализация</label>
+			<label index="stage">Этап {0}</label>
+			<label index="status.error">Ошибки</label>
+			<label index="status.info">Информация</label>
+			<label index="status.warning">Предупреждение</label>
+			<label index="title">Рабочие области</label>
+			<label index="tooltip.affectWholeWorkspace">Обратите внимание, что это затронет все изменения, сделанные в текущей рабочей области, их может быть больше,
+					чем видно на экране.
+				</label>
+			<label index="tooltip.discardAll">Подтверждаете отмену изменений во всей рабочей области целиком?</label>
+			<label index="tooltip.discardSelected">Подтверждаете отмену изменений в выбранных элементах?</label>
+			<label index="tooltip.discardVersion">Отменить версию записи в рабочей области.</label>
+			<label index="tooltip.editElementAction">Править элемент</label>
+			<label index="tooltip.generatePagePreview">Сформировать страницу</label>
+			<label index="tooltip.openPage">Открыть версию страницы</label>
+			<label index="tooltip.publishAll">Подтверждаете публикацию рабочей области целиком?</label>
+			<label index="tooltip.publishSelected">Подтверждаете публикацию выбранных элементов?</label>
+			<label index="tooltip.sendToNextStage">Отправить запись на следующий этап</label>
+			<label index="tooltip.sendToPrevStage">Отправить запись на предыдущий этап</label>
+			<label index="tooltip.showHistory">Показать историю версий рабочей области</label>
+			<label index="tooltip.swap">Обменять оперативную и рабочую версии записи</label>
+			<label index="tooltip.swapAll">Подтверждаете обмен рабочей области целиком?</label>
+			<label index="tooltip.swapSelected">Подтверждаете обмен выбранных элементов?</label>
+			<label index="tooltip.viewElementAction">Просмотр элемента</label>
+			<label index="warning.oldStyleWorkspaceInUser">Похоже, что используется устаревшая рабочая область. Воспользуйтесь сценарием обновления в TYPO3
+					Install Tool для внесения необходимых изменений. Если продолжить использование этого
+					модуля без обновления, то можно потерять все данные из рабочей области.
+				</label>
+			<label index="window.discardAll.message">Подтверждаете отмену всех версий на странице?</label>
+			<label index="window.discardAll.title">Отменить все рабочие версии текущей страницы.</label>
+			<label index="window.discard.message">Подтверждаете отмену этой версии из рабочей области?</label>
+			<label index="window.discard.title">Отменить версию записи в рабочей области.</label>
+			<label index="window.massAction.title">Подготовка к групповому действию</label>
+			<label index="window.selectionAction.title">Подготовка к выполнению действий над выбранным</label>
+			<label index="window.sendToNextStageWindow.additionalRecipients">Дополнительные получатели</label>
+			<label index="window.sendToNextStageWindow.comments">Комментарии</label>
+			<label index="window.sendToNextStageWindow.itemsWillBeSentTo">Выбранный(е) элемент(ы) будут направлены на</label>
+			<label index="window.sendToNextStageWindow.sendMailTo">Отправить письмо</label>
+			<label index="window.swap.message">Подтверждаете обмен этой версии?</label>
+			<label index="window.swap.title">Обмен версий</label>
+			<label index="workspacelist">Список рабочих областей</label>
+			<label index="workspace_version">Версия области</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

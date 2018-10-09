@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T02:37:34Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="about" approved="yes">
+				<source>About</source>
+				<target state="translated">Сведения</target>
+			</trans-unit>
+			<trans-unit id="and" approved="yes">
+				<source>and</source>
+				<target state="translated">и</target>
+			</trans-unit>
+			<trans-unit id="ascending" approved="yes">
+				<source>Ascending</source>
+				<target state="translated">По возрастанию</target>
+			</trans-unit>
+			<trans-unit id="back" approved="yes">
+				<source>Back</source>
+				<target state="translated">Назад</target>
+			</trans-unit>
+			<trans-unit id="byteSizeUnits" approved="no">
+				<source> B| KB| MB| GB</source>
+				<target state="needs-translation">Б| КБ| МБ| ГБ</target>
+			</trans-unit>
+			<trans-unit id="cancel" approved="yes">
+				<source>Cancel</source>
+				<target state="translated">Отмена</target>
+			</trans-unit>
+			<trans-unit id="category" approved="yes">
+				<source>Category</source>
+				<target state="translated">Категория</target>
+			</trans-unit>
+			<trans-unit id="close" approved="yes">
+				<source>Close</source>
+				<target state="translated">Закрыть</target>
+			</trans-unit>
+			<trans-unit id="delete" approved="yes">
+				<source>Delete</source>
+				<target state="translated">Удалить</target>
+			</trans-unit>
+			<trans-unit id="descending" approved="yes">
+				<source>Descending</source>
+				<target state="translated">По убыванию</target>
+			</trans-unit>
+			<trans-unit id="details" approved="yes">
+				<source>Details</source>
+				<target state="translated">Детали</target>
+			</trans-unit>
+			<trans-unit id="disable" approved="yes">
+				<source>Disable</source>
+				<target state="translated">Отключить</target>
+			</trans-unit>
+			<trans-unit id="disabled" approved="yes">
+				<source>Disabled</source>
+				<target state="translated">Отключено</target>
+			</trans-unit>
+			<trans-unit id="down" approved="yes">
+				<source>Down</source>
+				<target state="translated">Ниже</target>
+			</trans-unit>
+			<trans-unit id="download" approved="yes">
+				<source>Download</source>
+				<target state="translated">Скачать</target>
+			</trans-unit>
+			<trans-unit id="edit" approved="yes">
+				<source>Edit</source>
+				<target state="translated">Править</target>
+			</trans-unit>
+			<trans-unit id="editField" approved="yes">
+				<source>Edit field</source>
+				<target state="translated">Править поле</target>
+			</trans-unit>
+			<trans-unit id="editFile" approved="yes">
+				<source>Edit file</source>
+				<target state="translated">Править файл</target>
+			</trans-unit>
+			<trans-unit id="enable" approved="yes">
+				<source>Enable</source>
+				<target state="translated">Включить</target>
+			</trans-unit>
+			<trans-unit id="enabled" approved="yes">
+				<source>Enabled</source>
+				<target state="translated">Включено</target>
+			</trans-unit>
+			<trans-unit id="file" approved="yes">
+				<source>File</source>
+				<target state="translated">Файл</target>
+			</trans-unit>
+			<trans-unit id="files" approved="yes">
+				<source>Files</source>
+				<target state="translated">Файлы</target>
+			</trans-unit>
+			<trans-unit id="first" approved="yes">
+				<source>First</source>
+				<target state="translated">Первый</target>
+			</trans-unit>
+			<trans-unit id="folder" approved="yes">
+				<source>Folder</source>
+				<target state="translated">Папка</target>
+			</trans-unit>
+			<trans-unit id="from" approved="yes">
+				<source>From</source>
+				<target state="translated">Из</target>
+			</trans-unit>
+			<trans-unit id="go" approved="yes">
+				<source>Go</source>
+				<target state="translated">Перейти</target>
+			</trans-unit>
+			<trans-unit id="goTo" approved="yes">
+				<source>Go to</source>
+				<target state="translated">Перейти к</target>
+			</trans-unit>
+			<trans-unit id="help" approved="yes">
+				<source>Help</source>
+				<target state="translated">Справка</target>
+			</trans-unit>
+			<trans-unit id="item" approved="yes">
+				<source>Item</source>
+				<target state="translated">Элемент</target>
+			</trans-unit>
+			<trans-unit id="items" approved="yes">
+				<source>Items</source>
+				<target state="translated">Элементы</target>
+			</trans-unit>
+			<trans-unit id="last" approved="yes">
+				<source>Last</source>
+				<target state="translated">Последний</target>
+			</trans-unit>
+			<trans-unit id="left" approved="yes">
+				<source>Left</source>
+				<target state="translated">Влево</target>
+			</trans-unit>
+			<trans-unit id="login" approved="yes">
+				<source>Login</source>
+				<target state="translated">Войти</target>
+			</trans-unit>
+			<trans-unit id="logout" approved="yes">
+				<source>Logout</source>
+				<target state="translated">Выйти</target>
+			</trans-unit>
+			<trans-unit id="more" approved="yes">
+				<source>More</source>
+				<target state="translated">Еще</target>
+			</trans-unit>
+			<trans-unit id="move" approved="yes">
+				<source>Move</source>
+				<target state="translated">Переместить</target>
+			</trans-unit>
+			<trans-unit id="new" approved="yes">
+				<source>New</source>
+				<target state="translated">Новый</target>
+			</trans-unit>
+			<trans-unit id="next" approved="yes">
+				<source>Next</source>
+				<target state="translated">Далее</target>
+			</trans-unit>
+			<trans-unit id="no" approved="yes">
+				<source>No</source>
+				<target state="translated">Нет</target>
+			</trans-unit>
+			<trans-unit id="ok" approved="yes">
+				<source>OK</source>
+				<target state="translated">ОК</target>
+			</trans-unit>
+			<trans-unit id="open" approved="yes">
+				<source>Open</source>
+				<target state="translated">Открыть</target>
+			</trans-unit>
+			<trans-unit id="page" approved="yes">
+				<source>Page</source>
+				<target state="translated">Страница</target>
+			</trans-unit>
+			<trans-unit id="pages" approved="yes">
+				<source>Pages</source>
+				<target state="translated">Страниц</target>
+			</trans-unit>
+			<trans-unit id="previous" approved="yes">
+				<source>Previous</source>
+				<target state="translated">Предыдущая</target>
+			</trans-unit>
+			<trans-unit id="print" approved="yes">
+				<source>Print</source>
+				<target state="translated">Печать</target>
+			</trans-unit>
+			<trans-unit id="reload" approved="yes">
+				<source>Reload</source>
+				<target state="translated">Обновить</target>
+			</trans-unit>
+			<trans-unit id="right" approved="yes">
+				<source>Right</source>
+				<target state="translated">Вправо</target>
+			</trans-unit>
+			<trans-unit id="save" approved="yes">
+				<source>Save</source>
+				<target state="translated">Сохранить</target>
+			</trans-unit>
+			<trans-unit id="saveAndClose" approved="yes">
+				<source>Save and close</source>
+				<target state="translated">Сохранить и закрыть</target>
+			</trans-unit>
+			<trans-unit id="saveAndCloseDoc" approved="yes">
+				<source>Save and close document</source>
+				<target state="translated">Сохранить и закрыть документ</target>
+			</trans-unit>
+			<trans-unit id="saveAndCreateNewDoc" approved="yes">
+				<source>Save and create new document</source>
+				<target state="translated">Сохранить и создать новый документ</target>
+			</trans-unit>
+			<trans-unit id="saveAndViewPage" approved="yes">
+				<source>Save and view page</source>
+				<target state="translated">Сохранить и просмотреть страницу</target>
+			</trans-unit>
+			<trans-unit id="search" approved="yes">
+				<source>Search</source>
+				<target state="translated">Поиск</target>
+			</trans-unit>
+			<trans-unit id="send" approved="yes">
+				<source>Send</source>
+				<target state="translated">Отправить</target>
+			</trans-unit>
+			<trans-unit id="start" approved="yes">
+				<source>Start</source>
+				<target state="translated">Начало</target>
+			</trans-unit>
+			<trans-unit id="stop" approved="yes">
+				<source>Stop</source>
+				<target state="translated">Окончание</target>
+			</trans-unit>
+			<trans-unit id="submit" approved="yes">
+				<source>Submit</source>
+				<target state="translated">Подтвердить</target>
+			</trans-unit>
+			<trans-unit id="to" approved="yes">
+				<source>To</source>
+				<target state="translated">К</target>
+			</trans-unit>
+			<trans-unit id="tsRef" approved="yes">
+				<source>TSref reference</source>
+				<target state="translated">Справка TSref</target>
+			</trans-unit>
+			<trans-unit id="up" approved="yes">
+				<source>Up</source>
+				<target state="translated">Выше</target>
+			</trans-unit>
+			<trans-unit id="upload" approved="yes">
+				<source>Upload</source>
+				<target state="translated">Загрузить</target>
+			</trans-unit>
+			<trans-unit id="user" approved="yes">
+				<source>User</source>
+				<target state="translated">Пользователь</target>
+			</trans-unit>
+			<trans-unit id="users" approved="yes">
+				<source>Users</source>
+				<target state="translated">Пользователи</target>
+			</trans-unit>
+			<trans-unit id="view" approved="yes">
+				<source>View</source>
+				<target state="translated">Просмотр</target>
+			</trans-unit>
+			<trans-unit id="yes" approved="yes">
+				<source>Yes</source>
+				<target state="translated">Да</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

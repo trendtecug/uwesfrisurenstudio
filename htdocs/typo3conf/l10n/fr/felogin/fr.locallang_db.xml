@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="felogin_forgotHash">Jeton de hachage pour le mot de passe oublié</label>
+			<label index="felogin_redirectPid">Redirection à la connexion vers la page (felogin)</label>
+			<label index="tt_content.CType_pi1">Connexion d'utilisateur web</label>
+			<label index="tt_content.pi_flexform.error_header">En-tête erreur de connexion</label>
+			<label index="tt_content.pi_flexform.error_message">Message erreur de connexion</label>
+			<label index="tt_content.pi_flexform.field_manualOrder">Utiliser les champs suivant :</label>
+			<label index="tt_content.pi_flexform.field_orderDetails">Champs (détails) :</label>
+			<label index="tt_content.pi_flexform.field_orderList">Champs (liste) :</label>
+			<label index="tt_content.pi_flexform.forgot_header">En-tête mot de passe oublié</label>
+			<label index="tt_content.pi_flexform.forgot_message">Message mot de passe oublié</label>
+			<label index="tt_content.pi_flexform.general_header">En-tête général</label>
+			<label index="tt_content.pi_flexform.general_message">Message général</label>
+			<label index="tt_content.pi_flexform.groupSelection">Sélection groupe FE :</label>
+			<label index="tt_content.pi_flexform.groupSelection_noGroup">Pas de groupe</label>
+			<label index="tt_content.pi_flexform.groupSelectmode">Mode de sélection groupe FE :</label>
+			<label index="tt_content.pi_flexform.groupSelectmode_DontShowSelected">Ne pas afficher sélectionné</label>
+			<label index="tt_content.pi_flexform.groupSelectmode_FromTS">(de Typoscript)</label>
+			<label index="tt_content.pi_flexform.groupSelectmode_showAll">Tout afficher</label>
+			<label index="tt_content.pi_flexform.groupSelectmode_showSelected">Afficher sélectionné</label>
+			<label index="tt_content.pi_flexform.logout_header">En-tête déconnexion</label>
+			<label index="tt_content.pi_flexform.logout_message">Message déconnexion</label>
+			<label index="tt_content.pi_flexform.redirectDisable">Désactiver les redirections</label>
+			<label index="tt_content.pi_flexform.redirectFirstMethod">Utiliser le premier mode supporté pour la sélection</label>
+			<label index="tt_content.pi_flexform.redirect_header">En-tête de redirection</label>
+			<label index="tt_content.pi_flexform.redirect_message">Message de redirection</label>
+			<label index="tt_content.pi_flexform.redirectMode">Mode de redirection</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.0">Défini par l'enregistrement "Groupe d'utilisateurs"</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.1">Défini par l'enregistrement "Utilisateurs"</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.2">Après la connexion (TS ou Flexform)</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.3">Après la déconnexion (TS ou Flexform)</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.4">Après une erreur de connexion (TS ou Flexform)</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.5">Défini par les paramètres GET/POST</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.6">Défini par le référent</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.7">Défini par des enregistrements "Domaines"</label>
+			<label index="tt_content.pi_flexform.redirectPageLogin">Après une connexion réussie, redirection vers la page</label>
+			<label index="tt_content.pi_flexform.redirectPageLoginError">Après connexion échouée, redirection vers la page</label>
+			<label index="tt_content.pi_flexform.redirectPageLogout">Après une déconnexion, redirection vers la page</label>
+			<label index="tt_content.pi_flexform.sheet_general">Général</label>
+			<label index="tt_content.pi_flexform.sheet_messages">Messages</label>
+			<label index="tt_content.pi_flexform.sheet_redirect">Redirections</label>
+			<label index="tt_content.pi_flexform.show_forgot_password">Afficher le lien "Mot de passe oublié?"</label>
+			<label index="tt_content.pi_flexform.show_logoutFormAfterLogin">Désactiver la redirection après la connexion et affiche le formulaire de déconnexion</label>
+			<label index="tt_content.pi_flexform.show_permalogin">Afficher l'option "Rester connecté"</label>
+			<label index="tt_content.pi_flexform.status_header">En-tête affichage de l'état</label>
+			<label index="tt_content.pi_flexform.status_message">Message affichage de l'état</label>
+			<label index="tt_content.pi_flexform.success_header">En-tête succès de connexion</label>
+			<label index="tt_content.pi_flexform.success_message">Message succès de connexion</label>
+			<label index="tt_content.pi_flexform.template_file">Fichier de gabarit</label>
+			<label index="tt_content.pi_flexform.user_storage">Page de stockage des utilisateurs</label>
+			<label index="tt_content.pi_flexform.welcome_header">En-tête de bienvenue</label>
+			<label index="tt_content.pi_flexform.welcome_message">Message de bienvenue</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index=".alttitle">htmlArea RTE &gt; Язык</label>
+			<label index=".description">Языковой функционал позволяет редактировать атрибуты элемента language и text direction в области редактора.</label>
+			<label index=".details">В панели инструментов редактора могут появиться следующие атрибуты: - блок выбора языка, назначенного для содержимого элемента; - две кнопки, позволяющие задать направление текста; - другая кнопка, позволяющая сделать видимыми языковые метки в области редактирования. Блок выбора языка и направления текста, кроме того, может присутствовать в некоторых диалогах.</label>
+			<label index="directionCombo.alttitle">Направление текста</label>
+			<label index="directionCombo.description">Выберете направление текста в содержимом элемента.</label>
+			<label index="directionCombo.details">Блок выбора направления текста может присутствовать в панеле инструментов редактора, а также в некоторых диалогах. Если для элемента назначено какое-либо направление текста, оно будет показано в блоке выбора. Выбор направления текста для содержимого элемента. Если направление текста уже было выбрано, оно будет заменено на вновь выбранное. Любое назначенное направление текста можно убрать, выбрав "Не установлено" вверху списка.</label>
+			<label index=".image">EXT:rtehtmlarea/extensions/Language/skin/images/left_to_right.gif, EXT:rtehtmlarea/extensions/Language/skin/images/right_to_left.gif, EXT:rtehtmlarea/extensions/Language/skin/images/show-language-marks.gif</label>
+			<label index=".image_descr">Значок "слева направо" на панели инструментов редактора. Значок "справа налево" на панели инструментов редактора. Значок "показать языковые метки" на панели инструментов редактора.</label>
+			<label index="languageCombo.alttitle">Язык содержимого</label>
+			<label index="languageCombo.description">Выберете язык для содержимого элемента.</label>
+			<label index="languageCombo.details">Блок выбора языка может присутствовать в панеле инструментов редактора, а также в некоторых диалогах. Если для элемента назначен какой-либо язык, он будет показан в блоке выбора. Выбор языка для содержимого элемента. Если язык уже был выбран, он будет заменен на вновь выбранный. Любой назначенный язык можно убрать, выбрав "Удалить языковые метки" вверху списка выбора языков.</label>
+			<label index=".seeAlso">xEXT_rtehtmlarea_Language:languageCombo, xEXT_rtehtmlarea_Language:directionCombo,</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="action-items"/>
+			<label index="component-items"/>
+			<label index="detail"/>
+			<label index="frame-frame1"/>
+			<label index="frame-frame2"/>
+			<label index="important"/>
+			<label index="name-of-person">Nome proprio</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

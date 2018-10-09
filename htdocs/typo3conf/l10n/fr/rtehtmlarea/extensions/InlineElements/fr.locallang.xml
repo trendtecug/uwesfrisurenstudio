@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="BiDi override">Outrepassement BiDi</label>
+			<label index="Bold">Gras</label>
+			<label index="Citation">Citation</label>
+			<label index="Code">Code</label>
+			<label index="Definition">Définition</label>
+			<label index="Deleted text">Texte supprimé</label>
+			<label index="Emphasis">Emphase</label>
+			<label index="Inserted text">Text inséré</label>
+			<label index="Italic">Italique</label>
+			<label index="Keyboard">Clavier</label>
+			<label index="Label">Label</label>
+			<label index="Large text">Texte large</label>
+			<label index="Monospaced text">Texte à chasse fixe</label>
+			<label index="No markup">Aucun format de texte</label>
+			<label index="Quotation">Cotes</label>
+			<label index="Sample">Exemple</label>
+			<label index="Small text">Petit texte</label>
+			<label index="Strike-through">Barré</label>
+			<label index="Strong emphasis">Emphase (Gras)</label>
+			<label index="Style container">Conteneur de style</label>
+			<label index="Subscript">Indice</label>
+			<label index="Superscript">Exposant</label>
+			<label index="Underline">Souligné</label>
+			<label index="Variable">Variable</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

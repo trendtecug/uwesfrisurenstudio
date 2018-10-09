@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="bigControlPanel">Расширенный вид</label>
+			<label index="c_file">Название файла</label>
+			<label index="c_fileext">Тип</label>
+			<label index="clipBoard">Показать Буфер обмена</label>
+			<label index="clip_deleteMarked">Удалить выделенные</label>
+			<label index="clip_deleteMarkedWarning">Вы уверены, что хотите удалить все выделенные файлы из этой папки?</label>
+			<label index="clip_markRecords">Выделить все/Снять выделение</label>
+			<label index="clip_paste">Вставить содержимое Буфера обмена</label>
+			<label index="clip_pasteInto">Вставка внутрь: вставить содержимое Буфера обмена в эту папку</label>
+			<label index="clip_selectMarked">Переместить выделенные файлы в Буфер обмена</label>
+			<label index="c__REF_">Связь</label>
+			<label index="c_rw">Чт.Зап.</label>
+			<label index="c_size">Размер</label>
+			<label index="c_tstamp">Дата</label>
+			<label index="displayThumbs">Показать миниатюры картинок</label>
+			<label index="files">файлы</label>
+			<label index="folderNotFoundMessage">Не может быть получен доступ к папке "%s".</label>
+			<label index="folderNotFoundTitle">Доступ к папке запрещён.</label>
+			<label index="localDriverFlexform_basePath">Базовый путь:</label>
+			<label index="localDriverFlexform_basePath_placeholder"/>
+			<label index="localDriverFlexform_caseSensitive">Используются чувствительные к регистру идентификаторы</label>
+			<label index="localDriverFlexform_pathType">Тип пути:</label>
+			<label index="localDriverFlexform_pathType_absolute">абсолютный (от корня файловой системы) /</label>
+			<label index="localDriverFlexform_pathType_relative">относительный ../fileadmin/</label>
+			<label index="missingFolderPermissionsMessage"/>
+			<label index="missingFolderPermissionsTitle"/>
+			<label index="mlang_labels_tabdescr">Это система управления файлами. Она позволяет работать с файлами, находящимися в зоне вашего доступа. С ее помощью можно загружать на сервер файлы, копировать, перемещать и удалять их.</label>
+			<label index="mlang_labels_tablabel">Список файлов в каталоге</label>
+			<label index="mlang_tabs_tab">Список файлов</label>
+			<label index="paramError">Ошибка параметра:</label>
+			<label index="read">Чт</label>
+			<label index="recycler">Корзина</label>
+			<label index="role_folder_recycler">Корзина</label>
+			<label index="role_folder_temporary">Временные файлы</label>
+			<label index="storageNotBrowsableMessage">Вы пытаетесь получить доступ к папке в хранилище, которое невозможно просмотреть.</label>
+			<label index="storageNotBrowsableTitle">Доступ запрещён.</label>
+			<label index="targetNoDir">Цель не является директорией!</label>
+			<label index="temp">Временные файлы</label>
+			<label index="write">Зп</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

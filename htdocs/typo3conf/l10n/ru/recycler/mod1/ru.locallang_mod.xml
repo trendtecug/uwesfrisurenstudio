@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="mlang_labels_tabdescr">Корзина позволяет восстановить удаленные записи или безвозвратно их удалить. Эти действия можно примеять к одной записи, к нескольким записям, и даже к к дочерним записям (например, на восстановленной странице будут восстановлены все ее элементы). Фильтрация по страницам и таблицам позволяет быстро отобрать нужные записи.</label>
+			<label index="mlang_labels_tablabel">Корзина TYPO3</label>
+			<label index="mlang_tabs_tab">Корзина</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

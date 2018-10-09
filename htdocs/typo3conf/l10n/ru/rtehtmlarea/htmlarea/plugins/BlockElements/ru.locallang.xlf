@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:10Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Blockquote-helpText" approved="yes">
+				<source>Makes a large quotation block</source>
+				<target state="translated">Создание большого блока цитаты</target>
+			</trans-unit>
+			<trans-unit id="Blockquote-Tooltip" approved="yes">
+				<source>Large quotation</source>
+				<target state="translated">Большая цитата</target>
+			</trans-unit>
+			<trans-unit id="FormatBlock-Tooltip" approved="yes">
+				<source>Type of block</source>
+				<target state="translated">Тип блока</target>
+			</trans-unit>
+			<trans-unit id="Indent-helpText" approved="yes">
+				<source>Increases text indentation</source>
+				<target state="translated">Увеличение отступов в тексте</target>
+			</trans-unit>
+			<trans-unit id="Indent-Tooltip" approved="yes">
+				<source>Increase indent</source>
+				<target state="translated">Увеличить отступ</target>
+			</trans-unit>
+			<trans-unit id="InsertHorizontalRule-helpText" approved="yes">
+				<source>Inserts an horizontal rule</source>
+				<target state="translated">Вставка горизонтальной линии</target>
+			</trans-unit>
+			<trans-unit id="InsertHorizontalRule-Tooltip" approved="yes">
+				<source>Horizontal Rule</source>
+				<target state="translated">Горизонтальная линия</target>
+			</trans-unit>
+			<trans-unit id="InsertOrderedList-helpText" approved="no">
+				<source>Makes an ordered list from the current selection</source>
+				<target state="needs-translation">Создание упорядоченного списка из выделения</target>
+			</trans-unit>
+			<trans-unit id="InsertOrderedList-Tooltip" approved="yes">
+				<source>Ordered List</source>
+				<target state="translated">Маркированный список</target>
+			</trans-unit>
+			<trans-unit id="InsertParagraphAfter-contextMenuTitle" approved="yes">
+				<source>Insert paragraph after</source>
+				<target state="translated">Вставить параграф после</target>
+			</trans-unit>
+			<trans-unit id="InsertParagraphAfter-helpText" approved="yes">
+				<source>Inserts a paragraph after the current block</source>
+				<target state="translated">Вставка параграфа после текущего блока</target>
+			</trans-unit>
+			<trans-unit id="InsertParagraphAfter-Tooltip" approved="yes">
+				<source>Insert a paragraph after the current block</source>
+				<target state="translated">Вставить параграф после текущего блока</target>
+			</trans-unit>
+			<trans-unit id="InsertParagraphBefore-contextMenuTitle" approved="yes">
+				<source>Insert paragraph before</source>
+				<target state="translated">Вставить параграф перед</target>
+			</trans-unit>
+			<trans-unit id="InsertParagraphBefore-helpText" approved="yes">
+				<source>Inserts a paragraph before the current block</source>
+				<target state="translated">Вставка параграфа перед текущим блоком</target>
+			</trans-unit>
+			<trans-unit id="InsertParagraphBefore-Tooltip" approved="yes">
+				<source>Insert a paragraph before the current block</source>
+				<target state="translated">Вставить параграф перед текущим блоком</target>
+			</trans-unit>
+			<trans-unit id="InsertUnorderedList-helpText" approved="yes">
+				<source>Makes a bulleted list from the current selection</source>
+				<target state="translated">Создание нумерованного списка из выделения</target>
+			</trans-unit>
+			<trans-unit id="InsertUnorderedList-Tooltip" approved="yes">
+				<source>Bulleted List</source>
+				<target state="translated">Нумерованный список</target>
+			</trans-unit>
+			<trans-unit id="JustifyCenter-helpText" approved="yes">
+				<source>Centers the text</source>
+				<target state="translated">Выключить текст по центру</target>
+			</trans-unit>
+			<trans-unit id="JustifyCenter-Tooltip" approved="yes">
+				<source>Center</source>
+				<target state="translated">Центрировать</target>
+			</trans-unit>
+			<trans-unit id="JustifyFull-helpText" approved="yes">
+				<source>Aligns the text both to the left and the right</source>
+				<target state="translated">Выключить текст по ширине</target>
+			</trans-unit>
+			<trans-unit id="JustifyFull-Tooltip" approved="yes">
+				<source>Justify left and right</source>
+				<target state="translated">Выровнять текст по ширине</target>
+			</trans-unit>
+			<trans-unit id="JustifyLeft-helpText" approved="yes">
+				<source>Aligns the text to the left</source>
+				<target state="translated">Выключка текста влево</target>
+			</trans-unit>
+			<trans-unit id="JustifyLeft-Tooltip" approved="yes">
+				<source>Justify left</source>
+				<target state="translated">Выровнять влево</target>
+			</trans-unit>
+			<trans-unit id="JustifyRight-helpText" approved="yes">
+				<source>Aligns the text to the right</source>
+				<target state="translated">Выключить текст вправо</target>
+			</trans-unit>
+			<trans-unit id="JustifyRight-Tooltip" approved="yes">
+				<source>Justify right</source>
+				<target state="translated">Выровнять вправо</target>
+			</trans-unit>
+			<trans-unit id="Left-Tooltip" approved="yes">
+				<source>Left</source>
+				<target state="translated">Слева</target>
+			</trans-unit>
+			<trans-unit id="No block" approved="yes">
+				<source>No block format</source>
+				<target state="translated">Блок без форматирования</target>
+			</trans-unit>
+			<trans-unit id="Outdent-helpText" approved="yes">
+				<source>Reduces text indentation</source>
+				<target state="translated">Уменьшение отступов в тексте</target>
+			</trans-unit>
+			<trans-unit id="Outdent-Tooltip" approved="yes">
+				<source>Reduce indent</source>
+				<target state="translated">Уменьшить отступ</target>
+			</trans-unit>
+			<trans-unit id="Remove block" approved="yes">
+				<source>Remove block format</source>
+				<target state="translated">Удалить форматирование блока</target>
+			</trans-unit>
+			<trans-unit id="Technische Universitat Ilmenau" approved="yes">
+				<source>Technische Universität Ilmenau</source>
+				<target state="translated">Технический университет Ильменау</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

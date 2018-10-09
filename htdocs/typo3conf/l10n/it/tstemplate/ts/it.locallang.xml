@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="areYouSure">Confermare questa operazione?</label>
+			<label index="constantEditor">Editor Costanti</label>
+			<label index="createTemplate">Creare un record di template prima di modificare le costanti!</label>
+			<label index="createTemplateToEditConfiguration">Occore creare un record di template nella sezione sottostante per poter modificare la propria configurazione.</label>
+			<label index="extTemplate">Crea estensione template</label>
+			<label index="extTemplateAction">Clicca qui per creare un'estensione template.</label>
+			<label index="extTemplateDescription">Un template di estensione permette di inserire valori TypoScript che condizionano solo la pagina e le sottopagine relative.</label>
+			<label index="goToClosest">Vai al template più vicino</label>
+			<label index="goToClosestAction">Clicca qui per iniziare.</label>
+			<label index="goToClosestDescription">Il template più vicino è nella pagina '%s' (uid %s).</label>
+			<label index="infoModify">Info/Modifica</label>
+			<label index="isExt">Ext?</label>
+			<label index="isRoot">Radice ?</label>
+			<label index="moduleTitle">Strumenti Template</label>
+			<label index="newWebsite">Crea nuovo sito web</label>
+			<label index="newWebsiteAction">Crea template per un nuovo sito</label>
+			<label index="newWebsiteDescription">Se si vuole che questa pagina sia la radice di un nuovo sito web, eventualmente basata su uno dei template standard, allora cliccate sul pulsante sottostante:</label>
+			<label index="noTemplate">Nessun template</label>
+			<label index="noTemplateDescription">Non esiste alcun template in questa pagina!</label>
+			<label index="objectBrowser">TypoScript Object Browser</label>
+			<label index="overview">Questa è un'anteprima delle pagine nel database contenenti uno o più record di template. Cliccare sul titolo per andare alla rispettiva pagina.</label>
+			<label index="pageName">Titolo pagina</label>
+			<label index="templateAnalyzer">Analizza Template</label>
+			<label index="templates"># Template</label>
+			<label index="titleNewSite">NUOVO SITO</label>
+			<label index="titleNewSiteStandard">NUOVO SITO, modello standard</label>
+			<label index="viewTemplates">Mostro i templates di</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

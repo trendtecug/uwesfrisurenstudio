@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="all.alttitle">Очистка форматирования во всем тексте</label>
+			<label index="all.description">Выберете эту возможность для очистки форматирования во всем тексте, находящемся в области редактирования.</label>
+			<label index="allHtml.alttitle">Полное удаление форматирования HTML</label>
+			<label index="allHtml.description">Установите этот параметр, если нужно полностью удалить все форматирование HTML.</label>
+			<label index="allHtml.details">Этот параметр отвечает за полное удаление форматирования HTML из текста.</label>
+			<label index="_all.seeAlso">xEXT_rtehtmlarea_RemoveFormat:area</label>
+			<label index=".alttitle">htmlArea RTE &gt; Очистить форматирование</label>
+			<label index="area.alttitle">Определение области для очистки</label>
+			<label index="area.description">Операция очистки форматирования может применяться либо к выделенному в редакторе тексту, либо ко всему тексту полностью.</label>
+			<label index="area.details">Выберете одну из предоставленных возможностей для очистки содержимого.</label>
+			<label index=".description">Возможность очистки форматирования разметки HTML в редактируемом тексте.</label>
+			<label index=".details">Такая возможность полезна при вставке текста, скопированного в область редактирования из любых внешних источников. Функционал включается щелчком по кнопке "Очистить формат" в панели инструментов. Диалог, покрывающийся при щелчке по кнопке: - сначала определите область для очистки; - затем выберете параметры для очистки выбранной области; - нажмите OK для выполнения операции очистки. Окно диалога закроется автоматически.</label>
+			<label index="htmlFormat.alttitle">Удаление форматирования всех встроенных HTML стилей и форматов</label>
+			<label index="htmlFormat.description">Установите этот параметр для удаления всей встроенной разметки и стилей HTML.</label>
+			<label index="htmlFormat.details">При этом удаляются: - следующие элементы HTML, с сохранение их текстового содержимого: abbr, acronym, b, big, cite, code, em, font, i, q, s, samp, small, span, strike, strong, sub, sup, tt, u, var; - следующие атрибуты во всех элементах HTML: align, bgcolor, cellpadding, cellspacing, class, frame, style.</label>
+			<label index=".image">EXT:rtehtmlarea/extensions/RemoveFormat/skin/images/remove-format.gif</label>
+			<label index=".image_descr">Значок "Удалить форматирование" в панели инструментов редактора.</label>
+			<label index="images.alttitle">Удаление изображений</label>
+			<label index="images.description">Установите этот параметр, если нужно удалить все изображения.</label>
+			<label index="images.details">Этот параметр отвечает за полное удаление изображений из текста.</label>
+			<label index="msWordFormat.alttitle">Удаление разметки и стилей MS Word</label>
+			<label index="msWordFormat.description">Установите этот параметр для удаления всей встроенной разметки и стилей MS Word.</label>
+			<label index="msWordFormat.details">При этом удаляются: - все атрибуты следующих элементов: b, em, i, li, p, strong, ul; - следующие атрибуты всех элементов HTML: align, class, style; - следующие элементы, с сохранение их текстового содержимого: div, link, meta, span, любые элементы, содержащие в своих названиях ":"; - следующие элементы и их содержимое: style, title; - комментарии HTML; - следующие элементы, если они не имеют текстового содержимого: b, big, i, s, small, strike, tt, u; - двойные открывающие и двойные закрывающие теги; - несколько пробелов заменяются на одиночный пробел.</label>
+			<label index="nonBreakingSpace.alttitle">Замена неразрывных пробелов</label>
+			<label index="nonBreakingSpace.description">Установите этот параметр, если нужно заменить знак неразрывного пробела на обычный пробел.</label>
+			<label index="nonBreakingSpace.details">Этот параметр отвечает за замену знаков неразрывных пробелов на обычные пробелы.</label>
+			<label index="options.alttitle">Выбор типа удаляемого форматирования</label>
+			<label index="options.description">Возможно удаление форматирования различного типа.</label>
+			<label index="options.details">Выберете один или несколько типов форматирования, которое будет удалено.</label>
+			<label index="options.seeAlso">xEXT_rtehtmlarea_RemoveFormat:htmlFormat,xEXT_rtehtmlarea_RemoveFormat:msWordFormat,xEXT_rtehtmlarea_RemoveFormat:typographicalPunctuation,xEXT_rtehtmlarea_RemoveFormat:nonBreakingSpace,xEXT_rtehtmlarea_RemoveFormat:images,xEXT_rtehtmlarea_RemoveFormat:allHtml</label>
+			<label index=".seeAlso">xEXT_rtehtmlarea_RemoveFormat:area,xEXT_rtehtmlarea_RemoveFormat:options</label>
+			<label index="selection.alttitle">Очистка форматирования только в выделенной области</label>
+			<label index="selection.description">Выберете эту возможность для очистки форматирования только лишь в выбранной области.</label>
+			<label index="_selection.seeAlso">xEXT_rtehtmlarea_RemoveFormat:area</label>
+			<label index="typographicalPunctuation.alttitle">Замена типографской пунктуации</label>
+			<label index="typographicalPunctuation.description">Установите этот параметр, если нужно заменить знаки типографской пунктуации на коды символов ASCII.</label>
+			<label index="typographicalPunctuation.details">Этот параметр отвечает за замену типографских знаков пунктуации на коды символов ASCII. Заменяется следующее: - многоточие на знак многоточия; - короткое и длинное тире на дефис; - двойные нижние, левые, правые апострофы на двойные кавычки; - левые, правые, нижние апострофы на одинарные кавычки; - одиночный левый/правый угловой апостроф на одиночную кавычку; - двойные левые/правые угловые кавычки на на двойные кавычки; - наклонное ударение (основное ударение) и ударение на одинарную кавычку.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="mlang_labels_tablabel">Informations sur les modules</label>
+      <label index="mlang_labels_tabdescr">Afficher cette page sur les modules disponibles.</label>
+      <label index="mlang_tabs_tab">À propos des modules</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

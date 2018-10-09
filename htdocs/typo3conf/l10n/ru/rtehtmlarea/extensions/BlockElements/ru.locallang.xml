@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="Address">Адрес</label>
+			<label index="Article">Статья</label>
+			<label index="Aside">Врезка</label>
+			<label index="Container">Контейнер</label>
+			<label index="Footer">Нижний колонтитул</label>
+			<label index="Header">Заголовок</label>
+			<label index="Heading 1">Заголовок 1</label>
+			<label index="Heading 2">Заголовок 2</label>
+			<label index="Heading 3">Заголовок 3</label>
+			<label index="Heading 4">Заголовок 4</label>
+			<label index="Heading 5">Заголовок 5</label>
+			<label index="Heading 6">Заголовок 6</label>
+			<label index="Long quotation">Цитата</label>
+			<label index="Navigation">Навигация</label>
+			<label index="No block">Блок без форматирования</label>
+			<label index="Paragraph">Параграф</label>
+			<label index="Preformatted">Предотформатированный</label>
+			<label index="Section">Контейнер</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

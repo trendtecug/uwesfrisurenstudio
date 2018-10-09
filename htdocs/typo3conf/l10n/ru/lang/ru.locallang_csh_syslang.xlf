@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T02:37:36Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id=".description" approved="yes">
+				<source>Defines which languages are alternatively available on each webpage.</source>
+				<target state="translated">Определяет альтернативный язык, доступный для каждой страницы.</target>
+			</trans-unit>
+			<trans-unit id=".details" xml:space="preserve" approved="yes">
+				<source>The Web&gt;Page module has a feature which allows users to edit page content divided into not only columns but also languages. The languages available for translation are determined by the number of Website Language record created.
+For a webpage to be available in another language an "Alternative Page Language" record must be created on the page.</source>
+			<target state="translated">Модуль Веб &gt; Страница имеет функции, позволяющие пользователям редактировать содержимое страницы не только в колонках, но и на различных языках. Доступные для перевода языки определяются созданными записями языков для сайта. Для того, чтобы страница была доступна на другом языке, на странице должна быть создана запись "альтернативного языка страницы".</target></trans-unit>
+			<trans-unit id="hidden.description" approved="yes">
+				<source>This option will hide the system language from being available in the backend.</source>
+				<target state="translated">Этот параметр для скрытия системного языка во внутреннем интерфейсе.</target>
+			</trans-unit>
+			<trans-unit id="_.seeAlso" approved="yes">
+				<source>pages_language_overlay</source>
+				<target state="translated">pages_language_overlay</target>
+			</trans-unit>
+			<trans-unit id="title.description" approved="yes">
+				<source>Enter the name of this additional system language.</source>
+				<target state="translated">Введите название дополнительного системного языка</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="deleteItem">Удалить</label>
+			<label index="deleteWarning">Действительно удалить эту запись?</label>
+			<label index="editWholeRecord">Редактировать всю запись</label>
+			<label index="noDocuments">Открытых документов нет</label>
+			<label index="noDocuments_listmodule">модуль Веб&gt;Список</label>
+			<label index="noDocuments_msg">Нет открытых документов, доступных для редактирования.</label>
+			<label index="noDocuments_msg2">Идите в %s, чтобы найти страницу или запись, которую вы хотите изменить.</label>
+			<label index="noDocuments_msg3">Вы можете выбрать из этого списка записи, которые вы правили последними:</label>
+			<label index="noDocuments_OR">или</label>
+			<label index="noDocuments_pagemodule">модуль Веб&gt;Страница</label>
+			<label index="openDocs">ОТКРЫТЫЕ ДОКУМЕНТЫ</label>
+			<label index="recordHistory">Показать историю изменения записи</label>
+			<label index="undoLastChange">Отменить/Восстановить последние изменения (%s шагов)</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

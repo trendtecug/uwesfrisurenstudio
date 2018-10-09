@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="scheduler.config.maxLifetime"/>
+			<label index="scheduler.config.enableBELog"/>
+			<label index="scheduler.config.showSampleTasks"/>
+			<label index="scheduler.config.useAtdaemon"/>
+			<label index="scheduler.config.listShowTaskDescriptionAsHover"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

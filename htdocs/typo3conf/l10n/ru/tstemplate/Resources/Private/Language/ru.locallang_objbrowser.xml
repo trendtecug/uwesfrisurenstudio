@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="addButton">Добавить</label>
+			<label index="addKey">&lt;b&gt;Добавить ключ&lt;/b&gt;&lt;/a&gt; "%s" к Списку объектов</label>
+			<label index="addProperty">Добавить свойство объекта:</label>
+			<label index="all">Все</label>
+			<label index="back">&lt; Назад</label>
+			<label index="badProperty">Ошибочное свойство!</label>
+			<label index="browse">Просмотр:</label>
+			<label index="clear">Очистить?</label>
+			<label index="clearButton">Очистить</label>
+			<label index="clearObject">Очистить объект:</label>
+			<label index="conditions">Условия</label>
+			<label index="constantRoot">корневые константы</label>
+			<label index="constants">Константы</label>
+			<label index="cropLines">Обрезка строк</label>
+			<label index="currentTemplate">Текущий шаблон</label>
+			<label index="displayComments">Вывести комментарии</label>
+			<label index="displayConstants">Вывод констант:</label>
+			<label index="displayOptions">Вывод параметров</label>
+			<label index="edit">Править:</label>
+			<label index="editProperty">Правка значения объекта/свойства:</label>
+			<label index="errorShowDetails">Подробно</label>
+			<label index="errorsWarnings">Ошибки и предупреждения</label>
+			<label index="noCurrentTemplate">Невозможно править свойства и значение при отсутствии какого-либо шаблона.</label>
+			<label index="noSpaces">Название свойство должно включать символы a-z, A-Z и 0-9, без пробелов!</label>
+			<label index="nothingUpdated">Ничего не обновлено!</label>
+			<label index="objectCleared">Объект очищен</label>
+			<label index="objectList">Список объектов:</label>
+			<label index="plainSubstitution">Простая замена (по умолчанию)</label>
+			<label index="propertyAdded">Свойство добавлено</label>
+			<label index="regExp">Регулярные выражения</label>
+			<label index="removeKey">&lt;b&gt;Удалить ключ&lt;/b&gt;&lt;/a&gt; "%s" из Списка объектов</label>
+			<label index="search">Поиск:</label>
+			<label index="setConditions">Назначить условия</label>
+			<label index="setup">Настройка</label>
+			<label index="setupRoot">корневая настройка</label>
+			<label index="sortAlphabetically">Упорядочить по алфавиту</label>
+			<label index="substitutedGreen">Заменённые константы зелёные</label>
+			<label index="unsubstitutedGreen">Заменённые константы выводятся зелёным</label>
+			<label index="updateButton">Обновить</label>
+			<label index="valueUpdated">Значение обновлено</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

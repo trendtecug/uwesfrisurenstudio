@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="currentItemType"/>
+			<label index="itemprop"/>
+			<label index="itemscope"/>
+			<label index="itemtype"/>
+			<label index="microdata"/>
+			<label index="ShowMicrodata-Tooltip"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

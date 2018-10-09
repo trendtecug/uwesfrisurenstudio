@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index=".alttitle">Web &gt; Module info</label>
+			<label index=".description">L'idée du module Web&gt;Info est d'être un module hôte pour les applications back-end permettant de présenter les informations / analyses d'une page ou d'une branche de l'arborescence. Cela peut être des statistiques de site web, des informations de statuts de mise en cache etc.</label>
+			<label index=".details"/>
+			<label index="_.image">EXT:lang/cshimages/pagetree_overview_10.png</label>
+			<label index=".image_descr"/>
+			<label index="_.seeAlso"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

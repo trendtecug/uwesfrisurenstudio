@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index=".alttitle">Web &gt; Pagina</label>
+			<label index="button_panel.alttitle">I "grandi pulsanti"</label>
+			<label index="button_panel.description">Questi pulsanti permettono di usare una delle funzioni più comuni per la formazione delle pagine. Da qui puoi editare le proprietà di pagina (es. il titolo di pagina), spostare la pagina corrente in un'altra posizione nell'albero delle pagine, creare una nuova pagina nell'albero delle pagine, nella posizione desiderata, o creare un nuovo elemento di contenuto in questa pagina.</label>
+			<label index="_button_panel.image">EXT:cms/cshimages/pagemodule_2.png</label>
+			<label index="_button_panel.seeAlso">xMOD_csh_corebe:TCEforms,
+xMOD_csh_corebe:move_el_pages,
+xMOD_csh_corebe:new_pages,
+xMOD_csh_corebe:new_ce,</label>
+			<label index="columns_1.alttitle">Lista per Colonne</label>
+			<label index="columns_1.description">Attraverso la vista a colonne puoi visualizzare il contenuto della pagina secondo la sua reale disposizione su più colonne.</label>
+			<label index="columns_2.alttitle">Lista per Lingua</label>
+			<label index="columns_2.description">In "vista traduzioni" puoi controllare il contenuto della pagina web che viene suddivisa in lingue e colonne.</label>
+			<label index="_columns_2.seeAlso">Articolo relativo alla localizzazione | http://typo3.org/documentation/tips-tricks/multi-language-sites-in-typo3/</label>
+			<label index="columns_3.alttitle">Informazioni sulla pagina</label>
+			<label index="columns_3.description">In "Informazioni sulla Pagina" puoi visualizzare varie statistiche sulla pagina.</label>
+			<label index="columns_3.details">Le informazioni di pagina illustrano alcune informazioni come la data di creazione e dell'ultima modifica alla pagina e ai suoi contenuti. Puoi anche vedere il sottotitolo, le parole chiave e i campi descrizione. Le informazioni sono spesso usante sui siti web come meta-data o per le ricerche.</label>
+			<label index="_columns_3.image">EXT:cms/cshimages/pagemodule_9.png</label>
+			<label index="columns_multi.alttitle">Elementi di contenuto di pagina disposti in più colonne</label>
+			<label index="columns_multi.description">La visualizzazione in più colonne visualizzera i contenuti del sito disposti in più colonne. Questo è il caso nel quale il tuo sito web supporta una o più zone che ospitano elementi di contenuto; ogni zona è organizzata in "colonne".</label>
+			<label index="_columns_multi.image">EXT:cms/cshimages/pagemodule_12.png</label>
+			<label index="columns_multi.image_descr">Quando il tuo sito web supporta più zone di elementi di contenuto nel template, tu potrai usare un'altra colonna diversa dalla "Normale" che è quella visualizzata per default. Qui la colonna "Sinistra" è abilitata. TYPO3 offre la possibilità di usare quattro colonne per default, "Normale", "Destra", "Sinistra" e "Bordo". Il loro significato e uso dipendono dal tipo di modello (template) usato nel frontend.</label>
+			<label index="_columns_multi.seeAlso">_MOD_web_layout:columns_single</label>
+			<label index="columns_single.alttitle">Elementi di contenuto in una singola colonna</label>
+			<label index="columns_single.description">La vista per singola colonna mostra gli elementi di contenuto visualizzati nel sito web. Clicca l'icona di modifica o il testo visualizzato per modificare un elemento.</label>
+			<label index="columns_single.details">Puoi anche nascondere, cancellare o spostare gli elementi usando i pannelli di controllo. Cliccando l'icona "Nuovo elemento di contenuto" potrai creare nuovi elementi di contenuto tra gli elementi già esistenti nella pagina. Clicca l'icone di un elemento di contenuto se desideri accedere al menu contestuale relativo all'elemento scelto.</label>
+			<label index="_columns_single.image">EXT:cms/cshimages/pagemodule_1.png</label>
+			<label index="columns_single.image_descr">Gli elementi di contenuto in una pagina sono disposti in un ordine specifico - l'ordine con il quale appariranno nel sito web. Questo ordine è mostrato anche nel modulo pagina. I pannelli di controllo (pulsantiere) ti permetteranno di spostare gli elementi in alto e in basso e ancor di più di modificare, cancellare o nascondere l'elemento sul quale stai lavorando. Puoi anche premere il testo visualizzato in anteprima per accedere al modulo di modifica dell'elemento.</label>
+			<label index="_columns_single.seeAlso">_MOD_web_layout:columns_multi</label>
+			<label index=".description">Il modulo Pagina viene selezionato dal menu del backend, ed è il modulo principale per tutte le operazioni di base per la gestione dei contenuti del sito.</label>
+			<label index=".details">Selezionando il modulo sarà visualizzato l'albero delle pagine. Clicca il titolo della pagina che desideri modifica e nel riquadro più a destra vedrai il contenuto della pagina visualizzato dal modulo 'Pagina'. Il modulo 'Pagina' ha diversi modi per visualizzare il contenuto: &lt;b&gt;Colonne&lt;/b&gt; La vista per colonne visualizzerà elementi di contenuto elencati nelle varie colonne e nello stesso ordine di apparizione nel sito web. Un pannello di pulsanti ti permett di nascondere/visualizzare, spostare e editare gli elementi con facilità. &lt;b&gt;QuickEdit (editing veloce)&lt;/b&gt; Nella modalità Quickedit il primo elemento della pagina sarà caricato in un modulo. La visualizzazione delle colonne dipende o meno dalle impostazioni generali del sito web; una o più colonne potranno o meno essere visualizzate. &lt;b&gt;Lingue&lt;/b&gt; Se il tuo sito supporta la modalità multilingue e usa tecniche di localizzazione basate sul concetto d'uso di un unico albero ("one-tree-fits-all") avrai bisogno di questa modalità per controllare le traduzioni degli elementi di contenuto relativi alla pagina editata. &lt;b&gt;Informazioni di pagina&lt;/b&gt; Mostra alcuni dati statistici sulla pagina selezionata. Include le statistiche d'accesso (hit) se disponibili. &lt;b&gt;Opzioni generali&lt;/b&gt; In cima al modulo 'Pagina' troverai una riga con alcune icone che ti permettono di svolgere alcune azioni come Storia dei cambiamenti/Annulla (1), Crea un nuovo elemento di contenuto (2), Sposta la pagina (3), Crea una nuova pagina (4) e Edita le proprietà di pagina (5). Vedi l'immagine seguente. &lt;b&gt;Definire il numero delle colonne visualizzate [Amministratore]&lt;/b&gt; L'amministratore può configurare il modulo Pagina per visualizzare solo il contenuto di alcune colonne necessarie al sito web gestito dai redattori. Questo viene fatto attraverso il codice TSconfig (la configurazione afferisce l'intero ramo delle pagine sottostanti!) e questa opzione particolare usa l'oggetto di path "mod.web_layout.tt_content.colPos_list". Per esempio "mod.web_layout.tt_content.colPos_list= 0,3" visualizzerà nel riquadro a destra solo la colonna 'Normale' e la colonna 'Bordo' nascondendo le altre. Ci sono numerose altre opzioni per personalizzare il modulo Pagina nell'oggetto di path "mod.web_layout" e l'amministratore deve far riferimento alle istruzioni di "TSconfig" cliccando il link sottostante.</label>
+			<label index="_.image">EXT:cms/cshimages/pagemodule_13.png,
+EXT:cms/cshimages/pagemodule_14.png,
+EXT:cms/cshimages/pagemodule_15.png</label>
+			<label index=".image_descr">Clicca il modulo Pagina e il titolo della pagina dall'albero delle pagine.
+Il modulo Pagina è ora attivo nel frame a destra che mostra il contenuto della pagina selezionata dall'albero delle pagine.
+Questi pulsanti sono dei link diretti alle funzioni di Cronologia/Annulla (1), Crea un nuovo elemento di contenuto con il wizard (2), Muovi la pagina con il wizard (3),  Crea una nuova pagina con il wizard (4)  ed il modulo Edita le proprietà di pagina (5). Vedi i links per maggiori dettagli.</label>
+			<label index="language_list.alttitle">Vista traduzioni</label>
+			<label index="language_list.description">Visualizza affiancate le traduzioni disponibili dei contenuti di pagina. Abilita l'utente a creare una nuova traduzione della pagina.</label>
+			<label index="_language_list.image">EXT:cms/cshimages/pagemodule_6.png,
+EXT:cms/cshimages/pagemodule_7.png,
+EXT:cms/cshimages/pagemodule_11.png,
+EXT:cms/cshimages/pagemodule_10.png,</label>
+			<label index="language_list.image_descr">Nella "vista traduzioni" puoi selezionare la creazione di nuove traduzioni della pagina se non già esistenti. Le lingue disponibili possono essere definite tramite i record di localizzazione configurati alla radice del sito. Questo esempio mostra come i contenuti di pagina per tre lingue sono visualizzati affiancati nel modulo Pagina. In alto al modulo Pagina puoi anche selezionare tra "traduzioni disponibili..." e se tu selezioni una delle lingue aggiuntive (qui "Danese" e "Tedesco") vedrai che la lingua principale di default viene visualizzata affiancata alla lingua selezionata per la traduzione.</label>
+			<label index="_language_list.seeAlso">sys_language</label>
+			<label index="quickEdit.alttitle">Quick Edit</label>
+			<label index="quickEdit.description">Attraverso il Quick Edit puoi accesso diretto al contenuto della pagina.</label>
+			<label index="quickEdit.details">Il Quick Editor è stato concepito per poter accedere con pochi click al contenuto della pagina. Cliccando il titolo della pagina nell'albero delle pagine viene aperto il primo blocco di contenuto della pagina. Attraverso la toolbar puoi accedere agli altri blocchi di contenuto presenti nella pagina.</label>
+			<label index="_quickEdit.image">EXT:cms/cshimages/pagemodule_5.png</label>
+			<label index="quickEdit.image_descr">La vista con Quick Edit risparmia un click in più e porta l'utente direttamente al modulo di editing dopo aver cliccato il titolo di pagina nell'albero delle pagine. Il record visualizzato è semkpre il primo elemento di contenuto della colonna Normale.</label>
+			<label index="_quickEdit.seeAlso">_MOD_web_layout:quickEdit_selElement</label>
+			<label index="quickEdit_selElement.alttitle">Elementi Contenuto</label>
+			<label index="quickEdit_selElement.description">Visione d'insieme del contenuto della pagina. Seleziona un altro blocco da modificare o clicca sull'icona "Nuovo"per crearne uno di nuovo.</label>
+			<label index="_quickEdit_selElement.image">EXT:cms/cshimages/pagemodule_4.png</label>
+			<label index="quickEdit_selElement.image_descr">Nella modalità di Editing veloce (QuickEdit) visualizza gli elementi di pagina sottoforma di panoramica. Nella parte inferiore ci sono dei link a due wizard: "Wizard per spostare l'elemento di contenuto" e "Wizard per creare un nuovo elemento di contenuto". Guarda i link sottostanti.</label>
+			<label index="_quickEdit_selElement.seeAlso">_MOD_web_layout:quickEdit,
+xMOD_csh_corebe:move_el_cs,
+xMOD_csh_corebe:new_ce</label>
+			<label index="_.seeAlso">Configurare il modulo Pagine [Technical] | http://typo3.org/documentation/document-library/doc_core_tsconfig/TSFE/,
+xMOD_csh_corebe:history_log,
+xMOD_csh_corebe:new_ce,
+xMOD_csh_corebe:move_el_pages,
+xMOD_csh_corebe:new_pages,
+xMOD_csh_corebe:TCEforms,
+Informazioni sul modulo Pagine | http://typo3.org/documentation/tips-tricks/the-new-page-editing-concept/
+Modificare una pagina | http://typo3.org/documentation/document-library/doc_tut_quickstart/Edit_page/
+il modulo Pagine (Animazione) | Usare l'albero delle pagine (Animazione) | FILE:EXT:welcome/modsub/ani_05.gif</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

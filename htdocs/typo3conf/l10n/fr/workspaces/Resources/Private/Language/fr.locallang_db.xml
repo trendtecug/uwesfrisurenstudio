@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="sys_filemounts.tabs.staging">Etapes</label>
+			<label index="sys_workspace.custom_stages">Étapes personnalisées :</label>
+			<label index="sys_workspace.edit_allow_notificaton_settings">Autoriser le paramétrage de notification par email lors d'un retour à l'état d'édition</label>
+			<label index="sys_workspace.edit_notification_defaults">Édition de l'état : Destinataires par défaut pour la notification par email</label>
+			<label index="sys_workspace.edit_notification_mode">Édition de l'état : Cases à cocher pour suggestion destinataire</label>
+			<label index="sys_workspace.notification_mode.0">Tous sont sélectionnés par défaut (peut être modifié)</label>
+			<label index="sys_workspace.notification_mode.1">Certains sont sélectionnés par défaut (ceux par défaut ne peuvent être décochés)</label>
+			<label index="sys_workspace.notification_mode.2">Tous sont sélectionnés par défaut (non modifiable)</label>
+			<label index="sys_workspace.publish_allow_notificaton_settings">Permettre les notifications durant le changement d'étape vers l'état Prêt à publier</label>
+			<label index="sys_workspace.publish_notification_defaults">Etape Prêt pour la publication : destinataires par défaut des emails de notification</label>
+			<label index="sys_workspace.publish_notification_mode">Etape Prêt pour la publication : Cases à cocher suggestion de destinataire</label>
+			<label index="sys_workspace_stage">État de l'espace de travail</label>
+			<label index="sys_workspace_stage.allow_notificaton_settings">Permettre les notifications durant les changements d'état</label>
+			<label index="sys_workspace_stage.default_mailcomment">Commentaire e-mail par défaut :</label>
+			<label index="sys_workspace_stage.notification_defaults">Destinataires par défaut des emails de notification</label>
+			<label index="sys_workspace_stage.notification_mode">Cases à cocher Suggestion destinataire</label>
+			<label index="sys_workspace_stage.parentid">UID de l'enregistrement parent</label>
+			<label index="sys_workspace_stage.parenttable">Table parent :</label>
+			<label index="sys_workspace_stage.responsible_persons">Personnes responsables :</label>
+			<label index="tabs.general">Généralités</label>
+			<label index="tabs.notification_settings">Paramètres de notification</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

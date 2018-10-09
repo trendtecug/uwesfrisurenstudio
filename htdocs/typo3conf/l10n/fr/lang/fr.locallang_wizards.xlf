@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T02:27:08Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="colorpicker_black" approved="yes">
+				<source>BLACK</source>
+				<target state="translated">NOIR</target>
+			</trans-unit>
+			<trans-unit id="colorpicker_colorValue" approved="yes">
+				<source>Selected Color:</source>
+				<target state="translated">Couleurs sélectionnées:</target>
+			</trans-unit>
+			<trans-unit id="colorpicker_fromImage" approved="yes">
+				<source>Capture color from image (click on image):</source>
+				<target state="translated">Capturer la couleur depuis une image (cliquer sur l'image):</target>
+			</trans-unit>
+			<trans-unit id="colorpicker_fromList" approved="yes">
+				<source>Select HTML color name:</source>
+				<target state="translated">Choisir le nom de la couleur HTML:</target>
+			</trans-unit>
+			<trans-unit id="colorpicker_fromMatrix" approved="yes">
+				<source>Select color from matrix (websafe colors):</source>
+				<target state="translated">Choisir une couleur depuis une matrice (couleurs web):</target>
+			</trans-unit>
+			<trans-unit id="colorpicker_setClose" approved="yes">
+				<source>Save and Close</source>
+				<target state="translated">Enregistrer et Fermer</target>
+			</trans-unit>
+			<trans-unit id="colorpicker_title" approved="yes">
+				<source>Color Picker</source>
+				<target state="translated">Palette de couleurs</target>
+			</trans-unit>
+			<trans-unit id="colorpicker_white" approved="yes">
+				<source>WHITE</source>
+				<target state="translated">BLANC</target>
+			</trans-unit>
+			<trans-unit id="forms_autosize" approved="yes">
+				<source>Auto size</source>
+				<target state="translated">Taille automatique</target>
+			</trans-unit>
+			<trans-unit id="forms_checked" approved="yes">
+				<source>Checked</source>
+				<target state="translated">Sélectionné</target>
+			</trans-unit>
+			<trans-unit id="forms_cols" approved="yes">
+				<source>Columns</source>
+				<target state="translated">Colonnes</target>
+			</trans-unit>
+			<trans-unit id="forms_config" approved="yes">
+				<source>Detailed configuration</source>
+				<target state="translated">Configuration détaillée</target>
+			</trans-unit>
+			<trans-unit id="forms_default" approved="yes">
+				<source>Value</source>
+				<target state="translated">Valeur</target>
+			</trans-unit>
+			<trans-unit id="forms_eform_formtype_mail" approved="yes">
+				<source>Send button label</source>
+				<target state="translated">Etiquette du bouton d'envoi</target>
+			</trans-unit>
+			<trans-unit id="forms_eform_html_enabled" approved="yes">
+				<source>HTML mode enabled</source>
+				<target state="translated">Mode HTML activé</target>
+			</trans-unit>
+			<trans-unit id="forms_eform_recipient" approved="yes">
+				<source>Recipient email</source>
+				<target state="translated">Email du destinataire</target>
+			</trans-unit>
+			<trans-unit id="forms_eform_subject" approved="yes">
+				<source>Subject</source>
+				<target state="translated">Sujet</target>
+			</trans-unit>
+			<trans-unit id="forms_element" approved="yes">
+				<source>Element type</source>
+				<target state="translated">Type de l'élément</target>
+			</trans-unit>
+			<trans-unit id="forms_extra" approved="yes">
+				<source>No Wrap</source>
+				<target state="translated">Pas de retour à la ligne</target>
+			</trans-unit>
+			<trans-unit id="forms_fieldName" approved="yes">
+				<source>Field</source>
+				<target state="translated">Champ</target>
+			</trans-unit>
+			<trans-unit id="forms_label" approved="yes">
+				<source>Label</source>
+				<target state="translated">Etiquette</target>
+			</trans-unit>
+			<trans-unit id="forms_max" approved="yes">
+				<source>Max</source>
+				<target state="translated">Max</target>
+			</trans-unit>
+			<trans-unit id="forms_multiple" approved="yes">
+				<source>Multiple</source>
+				<target state="translated">Multiple</target>
+			</trans-unit>
+			<trans-unit id="forms_options" approved="yes">
+				<source>List options</source>
+				<target state="translated">Liste des options</target>
+			</trans-unit>
+			<trans-unit id="forms_preview" approved="yes">
+				<source>Preview of element</source>
+				<target state="translated">Prévisualisation de l'élément</target>
+			</trans-unit>
+			<trans-unit id="forms_refresh" approved="yes">
+				<source>Refresh without saving</source>
+				<target state="translated">Rafraîchir sans enregistrer</target>
+			</trans-unit>
+			<trans-unit id="forms_required" approved="yes">
+				<source>Required</source>
+				<target state="translated">Obligatoire</target>
+			</trans-unit>
+			<trans-unit id="forms_rows" approved="yes">
+				<source>Rows</source>
+				<target state="translated">Lignes</target>
+			</trans-unit>
+			<trans-unit id="forms_size" approved="yes">
+				<source>Size</source>
+				<target state="translated">Taille</target>
+			</trans-unit>
+			<trans-unit id="forms_special_eform" approved="yes">
+				<source>Special configuration for mail forms</source>
+				<target state="translated">Configuration spéciale de courrier électronique</target>
+			</trans-unit>
+			<trans-unit id="forms_title" approved="yes">
+				<source>Forms wizard</source>
+				<target state="translated">Assistant de Formulaire</target>
+			</trans-unit>
+			<trans-unit id="forms_type" approved="yes">
+				<source>Type</source>
+				<target state="translated">Type</target>
+			</trans-unit>
+			<trans-unit id="forms_type_check" approved="yes">
+				<source>Check box</source>
+				<target state="translated">Case à cocher</target>
+			</trans-unit>
+			<trans-unit id="forms_type_file" approved="yes">
+				<source>File upload</source>
+				<target state="translated">Envoi de fichier</target>
+			</trans-unit>
+			<trans-unit id="forms_type_hidden" approved="yes">
+				<source>Hidden value</source>
+				<target state="translated">Champ caché</target>
+			</trans-unit>
+			<trans-unit id="forms_type_input" approved="yes">
+				<source>Input field</source>
+				<target state="translated">Champ texte</target>
+			</trans-unit>
+			<trans-unit id="forms_type_label" approved="yes">
+				<source>Label</source>
+				<target state="translated">Etiquette</target>
+			</trans-unit>
+			<trans-unit id="forms_type_password" approved="yes">
+				<source>Password field</source>
+				<target state="translated">Champ 'Mot de passe'</target>
+			</trans-unit>
+			<trans-unit id="forms_type_property" approved="yes">
+				<source>Property</source>
+				<target state="translated">Propriété</target>
+			</trans-unit>
+			<trans-unit id="forms_type_radio" approved="yes">
+				<source>Radio buttons</source>
+				<target state="translated">Boutons 'radio'</target>
+			</trans-unit>
+			<trans-unit id="forms_type_select" approved="yes">
+				<source>Selector box</source>
+				<target state="translated">Liste déroulante</target>
+			</trans-unit>
+			<trans-unit id="forms_type_submit" approved="yes">
+				<source>Submit Button</source>
+				<target state="translated">Bouton Envoyer</target>
+			</trans-unit>
+			<trans-unit id="forms_type_textarea" approved="yes">
+				<source>Text area</source>
+				<target state="translated">Zone de texte</target>
+			</trans-unit>
+			<trans-unit id="grid_addColumn" approved="yes">
+				<source>Add column</source>
+				<target state="translated">Ajouter une colonne</target>
+			</trans-unit>
+			<trans-unit id="grid_addRow" approved="yes">
+				<source>Add row</source>
+				<target state="translated">Ajouter une ligne</target>
+			</trans-unit>
+			<trans-unit id="grid_column" approved="yes">
+				<source>Column number</source>
+				<target state="translated">Numéro de colonne</target>
+			</trans-unit>
+			<trans-unit id="grid_columnHelp" approved="yes">
+				<source>The column position defines in which area the content is rendered in the frontend.</source>
+				<target state="translated">La position de la colonne défini dans quelle zone de contenu elle est affichée dans le frontend.</target>
+			</trans-unit>
+			<trans-unit id="grid_editCell" approved="yes">
+				<source>Edit cell</source>
+				<target state="translated">Editer la cellule</target>
+			</trans-unit>
+			<trans-unit id="grid_labelColumn" approved="yes">
+				<source>Column Number</source>
+				<target state="translated">Numéro de colonne</target>
+			</trans-unit>
+			<trans-unit id="grid_labelName" approved="yes">
+				<source>Name</source>
+				<target state="translated">Nom</target>
+			</trans-unit>
+			<trans-unit id="grid_labelSave" approved="yes">
+				<source>Save to cell</source>
+				<target state="translated">Enregistrer dans la cellule</target>
+			</trans-unit>
+			<trans-unit id="grid_mergeCell" approved="yes">
+				<source>Combine with next cell</source>
+				<target state="translated">Fusionner avec la cellule suivante</target>
+			</trans-unit>
+			<trans-unit id="grid_name" approved="yes">
+				<source>Name</source>
+				<target state="translated">Nom</target>
+			</trans-unit>
+			<trans-unit id="grid_nameHelp" approved="yes">
+				<source>Enter a name for the cell.</source>
+				<target state="translated">Entrez un nom pour la cellule.</target>
+			</trans-unit>
+			<trans-unit id="grid_notSet" approved="yes">
+				<source>not set</source>
+				<target state="translated">Non défini</target>
+			</trans-unit>
+			<trans-unit id="grid_removeColumn" approved="yes">
+				<source>Remove column</source>
+				<target state="translated">Supprimer la colonne</target>
+			</trans-unit>
+			<trans-unit id="grid_removeRow" approved="yes">
+				<source>Remove row</source>
+				<target state="translated">Supprimer la ligne</target>
+			</trans-unit>
+			<trans-unit id="grid_splitCell" approved="yes">
+				<source>Split cell</source>
+				<target state="translated">Scinder la cellule</target>
+			</trans-unit>
+			<trans-unit id="grid_windowTitle" approved="yes">
+				<source>Set cell name and column number</source>
+				<target state="translated">Définir le nom de la cellule et le numéro de colonne</target>
+			</trans-unit>
+			<trans-unit id="rte_undoLastChange" approved="yes">
+				<source>Undo/Redo last change (%s ago)</source>
+				<target state="translated">Annuler/Rétablir le dernier changement (%s)</target>
+			</trans-unit>
+			<trans-unit id="table_addColumn" approved="yes">
+				<source>Add column to the right</source>
+				<target state="translated">Ajouter un colonne sur la droite</target>
+			</trans-unit>
+			<trans-unit id="table_addRow" approved="yes">
+				<source>Add row below</source>
+				<target state="translated">Ajouter un ligne après</target>
+			</trans-unit>
+			<trans-unit id="table_bottom" approved="yes">
+				<source>Move to bottom</source>
+				<target state="translated">Déplacer vers le dernier</target>
+			</trans-unit>
+			<trans-unit id="table_down" approved="yes">
+				<source>Move down</source>
+				<target state="translated">Déplacer en bas</target>
+			</trans-unit>
+			<trans-unit id="table_end" approved="yes">
+				<source>Move to last column</source>
+				<target state="translated">Déplacer vers la dernière colonne</target>
+			</trans-unit>
+			<trans-unit id="table_left" approved="yes">
+				<source>Move left</source>
+				<target state="translated">Déplacer à gauche</target>
+			</trans-unit>
+			<trans-unit id="table_noData" approved="yes">
+				<source>No table,field or uid given</source>
+				<target state="translated">Aucun champ, table ou uid spécifié</target>
+			</trans-unit>
+			<trans-unit id="table_removeColumn" approved="yes">
+				<source>Remove column</source>
+				<target state="translated">Supprimer la colonne</target>
+			</trans-unit>
+			<trans-unit id="table_removeRow" approved="yes">
+				<source>Remove row</source>
+				<target state="translated">Supprimer la ligne</target>
+			</trans-unit>
+			<trans-unit id="table_right" approved="yes">
+				<source>Move right</source>
+				<target state="translated">Déplacer à droite</target>
+			</trans-unit>
+			<trans-unit id="table_smallFields" approved="yes">
+				<source>Small fields</source>
+				<target state="translated">Petits champs (formulaire)</target>
+			</trans-unit>
+			<trans-unit id="table_start" approved="yes">
+				<source>Move to first column</source>
+				<target state="translated">Déplacer vers la première colonne</target>
+			</trans-unit>
+			<trans-unit id="table_title" approved="yes">
+				<source>Table wizard</source>
+				<target state="translated">Assitant de tableau</target>
+			</trans-unit>
+			<trans-unit id="table_top" approved="yes">
+				<source>Move to top</source>
+				<target state="translated">Déplacer vers le sommet</target>
+			</trans-unit>
+			<trans-unit id="table_up" approved="yes">
+				<source>Move up</source>
+				<target state="translated">Déplacer en haut</target>
+			</trans-unit>
+			<trans-unit id="tsprop" approved="yes">
+				<source>TypoScript property lookup</source>
+				<target state="translated">Consulter les propriétés TypoScript</target>
+			</trans-unit>
+			<trans-unit id="tsprop_addToList" approved="yes">
+				<source>Add to list...</source>
+				<target state="translated">Ajouter à la liste...</target>
+			</trans-unit>
+			<trans-unit id="tsprop_mixer_indent" approved="yes">
+				<source>Indent +2</source>
+				<target state="translated">Indenter +2</target>
+			</trans-unit>
+			<trans-unit id="tsprop_mixer_outdent" approved="yes">
+				<source>Outdent -2</source>
+				<target state="translated">Désindenter -2</target>
+			</trans-unit>
+			<trans-unit id="tsprop_mixer_transfer" approved="yes">
+				<source>Transfer &amp; Close</source>
+				<target state="translated">Transférer &amp; Fermer</target>
+			</trans-unit>
+			<trans-unit id="tsprop_mixer_wrap" approved="yes">
+				<source>Wrap</source>
+				<target state="translated">Entourer</target>
+			</trans-unit>
+			<trans-unit id="tsprop_prefix" approved="yes">
+				<source>Object prefix</source>
+				<target state="translated">Préfixe de l'objet</target>
+			</trans-unit>
+			<trans-unit id="tsprop_title" approved="yes">
+				<source>Object title</source>
+				<target state="translated">Titre de l'objet</target>
+			</trans-unit>
+			<trans-unit id="tsprop_tsconfig" approved="yes">
+				<source>TSconfig online</source>
+				<target state="translated">Configuration TS en ligne</target>
+			</trans-unit>
+			<trans-unit id="tsprop_TSref" approved="yes">
+				<source>TSref online</source>
+				<target state="translated">Référence TS en ligne</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

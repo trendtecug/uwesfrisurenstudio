@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T02:37:39Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="adminusers.description" xml:space="preserve" approved="yes">
+				<source>Owners of the workspace are those who are allowed to add members and reviewers to the workspace and pick the page tree starting points etc.</source>
+			<target state="translated">Владельцы рабочей области могут добавлять в него новых членов и рецензентов, указывать точки доступа к дереву страниц.</target></trans-unit>
+			<trans-unit id="adminusers.details" xml:space="preserve" approved="yes">
+				<source>Owners can also add and delete other owners. If a user is allowed to create workspaces himself he will automatically become the initial owner user of the workspace. They are also the only ones who can eventually publish the workspace content (except general TYPO3 "admin" users) and thus the highest review authority (unless members/reviewers have access to the Live workspace).</source>
+			<target state="translated">Владельцы могут также добавлять и удалять других владельцев. Если пользователь сам может создавать рабочие области, он автоматически становится изначальным владельцем созданной рабочей области. Также, лишь владельцы могут публиковать содержимое рабочей области (за исключением пользователей-"администраторов" TYPO3), получая, таким образом, наивысшие полномочия при рассмотрении публикации (если у членов/рецензентов нет доступа к оперативной рабочей области).</target></trans-unit>
+			<trans-unit id="db_mountpoints.description" xml:space="preserve" approved="yes">
+				<source>If one or more DB mounts are specified the page tree of the backend will be locked into these root points during work in the workspace.</source>
+			<target state="translated">Если определена хотя бы одна точка доступа к БД, дерево страниц во внутреннем интерфейсе будет ограничено в пределах этих точек во время работы в текущей рабочей области.</target></trans-unit>
+			<trans-unit id="db_mountpoints.details" xml:space="preserve" approved="yes">
+				<source>Any DB mount specified here must be inside the DB mount set for the backend user who logs in. If that is not the case the workspace DB mount will simply not be mounted for the user. If no DB mounts are specified for the workspace the users will access the DB mounts of their user profile.</source>
+			<target state="translated">Любая определенная здесь точка доступа к БД должна находиться в пределах точек досупа к БД, определенных для внутреннего пользователя. Если точек доступа к БД не определено, пользователи будут ограничены точками доступа к БД из своего профиля.</target></trans-unit>
+			<trans-unit id=".description" xml:space="preserve" approved="yes">
+				<source>Defines custom workspaces in TYPO3 which allows for groups of people to work together in a publishing process with draft content. More information about workspaces can be found in the document "Inside TYPO3".</source>
+			<target state="translated">Определяет определенные пользователем рабочие области в TYPO3, позволяющие сотрудничать людям в процессе публикации чернового содрежимого. Дополнительную информацию по рабочим областям можно найти в документе "Inside TYPO3".</target></trans-unit>
+			<trans-unit id="description.description" xml:space="preserve" approved="yes">
+				<source>Make a description of the workspace purpose here. This information is shown in the Workspace Manager and should instruct the workspace users about the purpose of the workspace.</source>
+			<target state="translated">По возможности дайте описание рабочей области. Эта информация будет показана в модуле управления рабочими областями, она должна дать понятие о назначении этого пространства.</target></trans-unit>
+			<trans-unit id="disable_autocreate.description" xml:space="preserve" approved="yes">
+				<source>If set, records are not automatically created as new versions when edited in the workspace. A new version must be manually created first.</source>
+			<target state="translated">Если включено, при редактировании в рабочей области, автоматически не создаются новые версии этих записей. Сначала нужно создать новую версию вручную.</target></trans-unit>
+			<trans-unit id="file_mountpoints.description" xml:space="preserve" approved="yes">
+				<source>Filemounts available for workspace users. Please see details for security information!</source>
+			<target state="translated">Точки доступа к файлам, доступные для пользователей рабочей области. Ознакомьтесь с информацией по безопасности!</target></trans-unit>
+			<trans-unit id="file_mountpoints.details" xml:space="preserve" approved="yes">
+				<source>IMPORTANT: By default a draft workspace has all filemounts disabled! This is because versioning does not apply to any files edited through filemounts in TYPO3. Hence any access to those files would violate the principle that no content managed in a draft workspace will be live before published.
+However, for specific projects this violation might be acceptable or necessary and therefore you can add a filemount. This will be forced upon any user in the workspace regardless of his filemounts inherited from his groups and user profile!</source>
+			<target state="translated">ВАЖНО: по умолчанию в черномвом рабочем пространстве отключены точки доступа к файлам! Это сделано по причине неприменимости версионирования к любым файлам, редактируемым в TYPO3 через точки доступа. Поэтому любой подобный доступ к файлам нарушает принцип о публикации содержимого в оперативную рабочую область перед тем, как оно станет доступным на сайте. Однако, для определенных проектов, это нарушение возможно, и даже необходимо, ввиду этого возможно добавлять точки доступа к файловой системе. Это будет затрагивать всех пользователей данной рабочей области, независимо от наследуемых им точек доступа из пользовательских групп и профилей!</target></trans-unit>
+			<trans-unit id="freeze.description" xml:space="preserve" approved="yes">
+				<source>If set, no editing is allowed inside workspace.</source>
+			<target state="translated">Если включено, то редактирование внутри области запрещено.</target></trans-unit>
+			<trans-unit id="live_edit.description" xml:space="preserve" approved="yes">
+				<source>If set, records from tables where versioning is not enabled can still be edited "live" inside the workspace.</source>
+			<target state="translated">Если включено, то записи из таблиц не включенных в контроль версий все еще могут быть "оперативно" отредактированы внутри рабочей области.</target></trans-unit>
+			<trans-unit id="members.description" xml:space="preserve" approved="yes">
+				<source>Members can be backend users or groups and will have access to work in the workspace. They cannot publish content (unless they have access to the Live workspace) but only edit it after which they will forward it for approval by a reviewer.</source>
+			<target state="translated">В качестве рядовых пользователей в рабочей области могут состоять внутренние пользователи и их группы, имеющие доступ к работе в рабочей области. Они не могут публиковать содержимое (только если у них нет доступа к оперативной рабочей области), а только редактировать его, после чего должны передать на рассмотрение рецензенту.</target></trans-unit>
+			<trans-unit id="_members.seeAlso" xml:space="preserve" approved="yes">
+				<source>sys_workspace:reviewers</source>
+				<target state="translated">sys_workspace:reviewers</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="publish_access.description" xml:space="preserve" approved="yes">
+				<source>Refines the rules of publishing</source>
+			<target state="translated">Расширение правил публикации</target></trans-unit>
+			<trans-unit id="publish_access.details" xml:space="preserve" approved="yes">
+				<source>"Publish only content in publish stage" : Only when content is in publish stage can it be published.
+"Only workspace owner can publish" : Only the workspace owner can publish the content in the workspace, even if members or reviewers have access to the Live workspace.</source>
+			<target state="translated">"Publish only content in publish stage": публикация возможна, когда содержимое находиться на стадии публикации. "Only workspace owner can publish": возможность публикации имеется лишь у владельца рабочей области, даже если члены области или рецензенты имеют доступ к оперативной рабочей области.</target></trans-unit>
+			<trans-unit id="publish_time.description" xml:space="preserve" approved="yes">
+				<source>Specify a time of publication of the workspace content.</source>
+			<target state="translated">Определяет время публикации содержимого рабочей области.</target></trans-unit>
+			<trans-unit id="publish_time.details" xml:space="preserve" approved="yes">
+				<source>The publish and unpublish times are active only if "mod/user/ws/cli/ws_cli.phpsh" is set up as a cronjob running every minute. Example configuration could be "* * * * * /[ABSOLUTE PATH TO TYPO3 SITE]/typo3/mod/user/ws/cli/ws_cli.phpsh"</source>
+			<target state="translated">Время публикации и снятия публикации доступно только при установке "mod/user/ws/cli/ws_cli.phpsh" как задания cron срабатывающего ежеминутно. Пример настроек может быть таким "* * * * * /[ABSOLUTE PATH TO TYPO3 SITE]/typo3/mod/user/ws/cli/ws_cli.phpsh"</target></trans-unit>
+			<trans-unit id="_publish_time.seeAlso" xml:space="preserve" approved="yes">
+				<source>sys_workspace:unpublish_time</source>
+				<target state="translated">sys_workspace:unpublish_time</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="reviewers.description" xml:space="preserve" approved="yes">
+				<source>Content have to pass through reviewers approval before it can finally be published by a workspace owner. Reviewers can be backend users or groups and will have access to the workspace just as members have, but can in addition approve content for final publication.</source>
+			<target state="translated">Содержимое должно быть одобрено рецензентом, после чего оно может быть окончательно опубликовано владельцем рабочей области. Рецензентами могут быть внутренние пользователи или их группы, имеющие доступ к рабочей области, как и рядовые пользователи, но в дополнение к этому, имеющие право одобрения содержимого для конечной публикации.</target></trans-unit>
+			<trans-unit id="reviewers.details" xml:space="preserve" approved="yes">
+				<source>In case you need no review layer between editors (normally workspace "members") and the workspace owners what you simply do is to add all editors as reviewers. This give them access to raise content all the way to the workspace owners. Since content is by default raised from editing to review to publish state it even gives the possibility of informal "four-eye" review where workspace owners can require that content has  been raised by action from two different reviewers.</source>
+			<target state="translated">Если не требуется рецензирования содержимого и разделение на редакторов ("обычный пользователь" рабочей области) и владельцев, нужно просто наделить всех редакторов правами рецензентов. При этом они смогут сразу отправлять публикуемое содержимое напрямую владельцу рабочей области. Так как содержимое по умолчанию проходит стадию редактирования, затем рецензию и лишь после этого отправляется на публикацию, появляется даже возможность обзора "в четыре глаза", когда владелец рабочей области требует подтверждения от двух разных рецензентов.</target></trans-unit>
+			<trans-unit id="_reviewers.seeAlso" xml:space="preserve" approved="yes">
+				<source>sys_workspace:members</source>
+				<target state="translated">sys_workspace:members</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="review_stage_edit.description" xml:space="preserve" approved="yes">
+				<source>If set, records raised to Review stage can still be edited by workspace members. This allows late changes to be made while waiting for the review. Only when the stage is raised to Publish the record is completely locked for editing for members and reviewers.</source>
+			<target state="translated">Если установлено, то записи, вошедшие в стадию рецензирования, все еще могут редактироваться членами рабочей области. Это разрешает позднее редактирование, в процессе ожидания рецензии. Записи окончательно блокируются для изменения как обычными членами области, так и рецензентами на стадии публикации.</target></trans-unit>
+			<trans-unit id="stagechg_notification.description" xml:space="preserve" approved="yes">
+				<source>When the stage of content changes, users in the workspace can receive a notification by email. Only members/reviewers who are attached to the workspace as users and not through their groups will be notified.</source>
+			<target state="translated">При изменении стадии публикации пользователи рабочей области могут получать сообщения через email. Сообщения отсылаются лишь членам/рецензентам, прикрепленным к рабочей области в качестве пользователей, а не через группы пользователей.</target></trans-unit>
+			<trans-unit id="stagechg_notification.details" xml:space="preserve" approved="yes">
+				<source>"Notify users on next stage only": When content is raised from "Editing" to "Review", reviewers are notified. When content is raised to "Publish", owners are notified. When content is rejected, members and reviewers are notified. When content is raised from rejected state, members are notified.
+
+"Notify all users on any change" : All users in workspace are notified regardless of change.</source>
+			<target state="translated">"Notify users on next stage only": когда публикация переходит из стадии "Редактирование" в стадию "Рецензирование", отсылается сообщение рецензентам. Когда материал переходит на стадию "Публикация", сообщение отсылается владельцу области. При отклонении публикации, об этом уведомляются рядовые члены и рецензенты. При переходе публикации из стадии отклонения, поступает уведомление для пользователей. "Notify all users on any change" : уведомляются все пользователи рабочей области, независимо от произошедших изменений.</target></trans-unit>
+			<trans-unit id="swap_modes.description" xml:space="preserve" approved="yes">
+				<source>Defines modes for publishing as a "swap" action where the online content is moved into the workspace in exchange for the workspace content.</source>
+			<target state="translated">Определяет режим публикации, как "обмен", когда текущее действующее содержимое перемещается в рабочую область, в обмен на ее содержимое.</target></trans-unit>
+			<trans-unit id="swap_modes.details" xml:space="preserve" approved="yes">
+				<source>By default swapping is allowed. Thereby two versions can be published "in and out" of a workspace multiple times, always substituting each other. If this is not desired, it can be disabled with "Disable Swap-Into-Workspace".
+Another mode "Swap-Into-Workspace on Auto-publish" will force the automatic publishing through the cronjob to swap versions. This is necessary to use if you specify both a publish AND un-publish time because otherwise the workspace will be empty after the first publish action!</source>
+			<target state="translated">По умолчанию обмен включен. При этом две версии могут несколько раз публиковаться, заменяя друг-друга. Если это не желательно, то такое поведение можно отключить через значение "Disable Swap-Into-Workspace". Другой режим "Swap-Into-Workspace on Auto-publish" включает автопубликацию через задание cron на обмен версий. При этом необходимо определить как время публикации, так И время снятия публикации, иначе, после первой публикации рабочее пространство окажется пустым!</target></trans-unit>
+			<trans-unit id="_swap_modes.seeAlso" xml:space="preserve" approved="yes">
+				<source>sys_workspace:unpublish_time</source>
+				<target state="translated">sys_workspace:unpublish_time</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="title.description" xml:space="preserve" approved="yes">
+				<source>Enter the name of the workspace. This value is shown in the workspace selector box in the backend.</source>
+			<target state="translated">Введите название рабочей области. Это значение будет отображаться в меню выбора рабочих областей внутреннего интерфейса.</target></trans-unit>
+			<trans-unit id="unpublish_time.description" xml:space="preserve" approved="yes">
+				<source>Specify an additional time of (un)publication of the workspace content.</source>
+			<target state="translated">Определите дополнительное время (снятия) публикации содержимого рабочей области.</target></trans-unit>
+			<trans-unit id="unpublish_time.details" xml:space="preserve" approved="yes">
+				<source>By "additional" is meant that both publishing times are used in a similar way, but if "Publish" is specified it takes precedence over "Unpublish". Anyway, the point of two publishing times is that workspace content could be swapped in for a limited period and then out again. But notice; for this to work the Swap mode must be set to "Swap-Into-Workspace on Auto-publish".</source>
+			<target state="translated">Под дополнительным подразумевается то, что оба времени для публикации используются схожим образом, но, если определено время "Опубликовать", оно имеет приоритет перед "Снять с публикацию". В любом случае, две этих точки означают то, что содержимое рабочей области может быть загружено на ограниченное время и затем перезагружено. Но помните, чтобы это работало, должен быть установлен Режим обмена "Swap-Into-Workspace on Auto-publish".</target></trans-unit>
+			<trans-unit id="_unpublish_time.seeAlso" xml:space="preserve" approved="yes">
+				<source>sys_workspace:publish_time,sys_workspace:swap_modes</source>
+				<target state="translated">sys_workspace:publish_time,sys_workspace:swap_modes</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="vtypes.description" xml:space="preserve" approved="yes">
+				<source>Select versioning types you want to disable for workspace editors/reviewers (admin users and owners are not limited).</source>
+			<target state="translated">Выберете типы версионирования, которые нужно отключить для редакторов/рецензентов (пользователи-"администраторы" и владельцы не ограничиваются).</target></trans-unit>
+			<trans-unit id="vtypes.details" xml:space="preserve" approved="yes">
+				<source>"Element" is the most common form of versioning where a single element is versionized solo.
+"Page" is a versioning type where a page record and child records from specified tables (like "Content Elements" and "Language Overlay Records") are copied along. This form is more complex but offers flexibility in terms of rearrangement of elements on the page.
+"Branch" versioning is where a page is versionized and all subpages and content is copied along. This can have quite heavy implications on data duplication and is recommended only in special circumstances.
+
+More information about versioning types can be read in "Inside TYPO3"</source>
+			<target state="translated">"Element" наиболее общая форма версионирования, при которой создаются версии для каждого отдельного элемента. "Page" — тип управления версиями, при котором копируются запись страницы и дочерние записи из определенных таблиц (вроде "элементов содержимого" и "записи дополнительных языковых меток"). Это более сложная форма, но более гибкая для перестановки элементов на странице. "Branch" — при этом создаются копии не только страницы, но и всех ее подстраниц со всем их содержимым. Это очень сожный тип версионирования, ввиду дублирования записей, и он может быть рекомендован лишь в исключительных случаях. Дополнительную информацию о типах версионирования можно найти в "Inside TYPO3"</target></trans-unit>
+		</body>
+	</file>
+</xliff>

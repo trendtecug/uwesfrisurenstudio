@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="Allow-Clipboard-Helper-Add-On-Title"/>
+			<label index="Firefox-Security-Prefs-Question-Title"/>
+			<label index="Technische Universitat Ilmenau"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

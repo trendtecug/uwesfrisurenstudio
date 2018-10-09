@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="Actions">Actions</label>
+			<label index="Case sensitive search">Respecter la casse</label>
+			<label index="Clear">Normal</label>
+			<label index="Done">Terminé</label>
+			<label index="Enter the text you want to find">Écrivez le texte que vous désirez rechercher</label>
+			<label index="Find and Replace">Rechercher et remplacer</label>
+			<label index="found item">occurrence trouvée</label>
+			<label index="found items">occurrences trouvées</label>
+			<label index="Highlight">En évidence</label>
+			<label index="Inform a replacement word">Ceci effacera toutes les occurrences.</label>
+			<label index="Next">Suivant</label>
+			<label index="not found">n'a pas été trouvé</label>
+			<label index="Options">Options</label>
+			<label index="replaced item">occurrence remplacée</label>
+			<label index="replaced items">occurrences remplacées</label>
+			<label index="Replace with:">Remplacer par:</label>
+			<label index="Search for:">Texte à rechercher:</label>
+			<label index="Substitute all occurrences">Remplacer tout</label>
+			<label index="Substitute this occurrence?">Remplacer cette occurrence?</label>
+			<label index="Undo">Défaire</label>
+			<label index="Whole words only">Mot entier uniquement</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

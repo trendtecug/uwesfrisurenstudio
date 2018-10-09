@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:44:09Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="ATTRIBUTES" approved="yes">
+				<source>Attributes</source>
+				<target state="translated">ATTRIBUTI</target>
+			</trans-unit>
+			<trans-unit id="Cancel" approved="yes">
+				<source>Cancel</source>
+				<target state="translated">Annulla</target>
+			</trans-unit>
+			<trans-unit id="Colors" approved="yes">
+				<source>Colors</source>
+				<target state="translated">Colori</target>
+			</trans-unit>
+			<trans-unit id="Enter the TAG you want to insert" approved="yes">
+				<source>Enter the TAG you want to insert</source>
+				<target state="translated">Scegli il TAG che vuoi inserire</target>
+			</trans-unit>
+			<trans-unit id="No CSS class avaiable" approved="yes">
+				<source>No CSS classes available</source>
+				<target state="translated">Non ci sono classi CSS disponibili</target>
+			</trans-unit>
+			<trans-unit id="Ok" approved="yes">
+				<source>Ok</source>
+				<target state="translated">Ok</target>
+			</trans-unit>
+			<trans-unit id="OPTIONS" approved="yes">
+				<source>Options</source>
+				<target state="translated">OPZIONI</target>
+			</trans-unit>
+			<trans-unit id="Quick Tag Editor" approved="yes">
+				<source>Insert tag</source>
+				<target state="translated">Inserisci tag</target>
+			</trans-unit>
+			<trans-unit id="TAGs" approved="yes">
+				<source>Tags</source>
+				<target state="translated">TAG</target>
+			</trans-unit>
+			<trans-unit id="There are some unclosed quote" approved="yes">
+				<source>There are some unclosed quotes</source>
+				<target state="translated">Ci sono virgolette non chiuse</target>
+			</trans-unit>
+			<trans-unit id="This attribute already exists in the TAG" approved="yes">
+				<source>This attribute already exists in the TAG</source>
+				<target state="translated">Questo attributo esiste già nel TAG</target>
+			</trans-unit>
+			<trans-unit id="You have to select some text" approved="yes">
+				<source>You have to select some text</source>
+				<target state="translated">Devi selezionare del testo</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

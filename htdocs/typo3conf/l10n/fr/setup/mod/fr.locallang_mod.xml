@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="mlang_labels_tabdescr">Ce module vous permet de personnaliser votre profil. Vous pouvez changer ici, votre langue d'interface par défaut, votre nom, votre adresse e-mail. Vous pouvez aussi modifier quelques options générales du système.</label>
+			<label index="mlang_labels_tablabel">Configuration utilisateur personnelle</label>
+			<label index="mlang_tabs_tab">Configuration utilisateur</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

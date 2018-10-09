@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="availableInterfaces">Backend, Frontend, Backend traditionnel</label>
+			<label index="clear">Réinitialiser le champ !</label>
+			<label index="copyright">Copyright</label>
+			<label index="details.link">Rendez-vous à %s pour plus de détails.</label>
+			<label index="error.capslock">Attention : la touche majuscule est verrouillée !</label>
+			<label index="error.cookies">Veuillez activer les cookies !</label>
+			<label index="error.cookies_ignore">Ignorer !</label>
+			<label index="error.furtherInformation">Pour plus d'information ou de l'aide veuillez cliquer ici</label>
+			<label index="error.javascript">Veuillez activer le Javascript !</label>
+			<label index="error.login">Votre tentative de connexion a échoué. Veuillez vérifier votre login et votre mot de passe, en incluant les majuscules et les minuscules.</label>
+			<label index="error.login.description">Veuillez vérifier votre nom d'utilisateur et votre mot de passe, notamment les majuscules et les minuscules.</label>
+			<label index="error.login.title">Votre tentative de connexion a échoué</label>
+			<label index="extension.copyright">Les copyright des extensions appartiennent à leur propriétaires respectifs.</label>
+			<label index="free.software">Ceci est un logiciel libre, et vous êtes invités à le redistribuer sous certaines conditions;%sveuillez cliquer pour plus de détails.%s</label>
+			<label index="headline">Connexion au backend TYPO3 du site ###SITENAME###</label>
+			<label index="info.about">Ceci est l'accès au backend TYPO3. You devez posséder un login et un mot de passe pour accéder à cette interface d'administration. Si vous êtes un visiteur du site ###SITENAME###, veuillez poursuivre votre visite sur le site public : ###SITELINK###</label>
+			<label index="info.cookies_and_js">(Note : les Cookies et le JavaScript doivent être activés !)</label>
+			<label index="info.reset">Réinitialiser le formulaire</label>
+			<label index="interface.backend">Backend</label>
+			<label index="interface.backend_old">Backend traditionnel</label>
+			<label index="interface.frontend">Frontend</label>
+			<label index="keep.notice">Masquer cette note est interdit par la loi.</label>
+			<label index="labels.donate">Donation</label>
+			<label index="labels.interface">Interface</label>
+			<label index="labels.openId">OpenID</label>
+			<label index="labels.password">Mot de passe</label>
+			<label index="labels.submitLogin">Connexion</label>
+			<label index="labels.submitLogout">Déconnexion</label>
+			<label index="labels.switchToDefault">Passer en mode connexion par défaut</label>
+			<label index="labels.switchToOpenId">Passer en mode OpenID</label>
+			<label index="labels.username">Utilisateur</label>
+			<label index="labels.whatIsOpenId">Qu'est-ce qu'OpenID ?</label>
+			<label index="login_process">Vérification des données de connexion...</label>
+			<label index="newsheadline">Messages importants :</label>
+			<label index="no.warranty">TYPO3 n'est fourni avec ABSOLUMENT AUCUNE GARANTIE; %sveuillez cliquer pour plus de détails.%s</label>
+			<label index="typo3.cms">CMS TYPO3</label>
+			<label index="typo3.logo">Logo TYPO3</label>
+			<label index="version.short">ver.</label>
+			<label index="warning.incompatibleBrowser">Vous utilisez une version d'un navigateur non supportée.</label>
+			<label index="warning.incompatibleBrowserHeadline">Navigateur non supporté</label>
+			<label index="warning.incompatibleBrowserInternetExplorer">Veuillez installer &lt;a href="http://www.microsoft.com/internetexplorer/" target="_blank" /&gt;un navigateur plus récent&lt;/a&gt;.</label>
+			<label index="warranty.by">La garantie est fournie par %s; %sveuillez cliquer pour plus de détails.%s</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="addButton"/>
+			<label index="addKey"/>
+			<label index="addProperty"/>
+			<label index="all"/>
+			<label index="back"/>
+			<label index="badProperty"/>
+			<label index="browse"/>
+			<label index="clear"/>
+			<label index="clearButton"/>
+			<label index="clearObject"/>
+			<label index="conditions"/>
+			<label index="constantRoot"/>
+			<label index="constants"/>
+			<label index="cropLines"/>
+			<label index="currentTemplate"/>
+			<label index="displayComments"/>
+			<label index="displayConstants"/>
+			<label index="displayOptions"/>
+			<label index="edit"/>
+			<label index="editProperty"/>
+			<label index="errorShowDetails"/>
+			<label index="errorsWarnings"/>
+			<label index="noCurrentTemplate"/>
+			<label index="noSpaces"/>
+			<label index="nothingUpdated"/>
+			<label index="objectCleared"/>
+			<label index="objectList"/>
+			<label index="plainSubstitution"/>
+			<label index="propertyAdded"/>
+			<label index="regExp"/>
+			<label index="removeKey"/>
+			<label index="search"/>
+			<label index="setConditions"/>
+			<label index="setup"/>
+			<label index="setupRoot"/>
+			<label index="sortAlphabetically"/>
+			<label index="substitutedGreen"/>
+			<label index="unsubstitutedGreen"/>
+			<label index="updateButton"/>
+			<label index="valueUpdated"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

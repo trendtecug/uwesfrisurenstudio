@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index=".alttitle">Модуль Веб &gt; Инфо</label>
+			<label index=".description">Модуль Веб &gt; Инфо — это информационный модуль для внутренних приложений, которые могут предоставлять в нем информацию / анализ страниц или ветвей в дереве страниц. Это может быть статистика сайта, статус кеширования информации и т.п.</label>
+			<label index=".details">Модуль Веб &gt; Инфо отличается от модуля Веб &gt; Функции тем, что он, по большей части, лишь показывает информацию, а не предлагает какую-либо функции. Поэтому, решение о том, какой модуль использовать для добавления функциональности остается за создателями расширений.</label>
+			<label index="_.image">EXT:lang/cshimages/pagetree_overview_10.png</label>
+			<label index=".image_descr">Модуль Веб &gt; Инфо, в соответствии с ядром системы, является пустой оболочкой. Он предоставляет API (интерфейс), который могут использовать расширения, для добавления пунктов меню в функции модуля Инфо. Здесь представлен обзор "TSconfig страницы" из расширения "info_pagetsconfig".</label>
+			<label index="_.seeAlso">_MOD_web_func,
+More about Web&gt;Info module framework | http://typo3.org/documentation/document-library/doc_core_inside/Info_module/,</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

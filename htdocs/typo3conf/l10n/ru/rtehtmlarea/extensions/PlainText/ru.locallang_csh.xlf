@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:12Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id=".alttitle" approved="yes">
+				<source>htmlArea RTE &gt; Clean Paste</source>
+				<target state="translated">htmlArea RTE &gt; Очистить вставляемое</target>
+			</trans-unit>
+			<trans-unit id="behaviour.alttitle" approved="yes">
+				<source>Select a paste behaviour</source>
+				<target state="translated">Выбор поведения при вставке</target>
+			</trans-unit>
+			<trans-unit id="behaviour.description" approved="yes">
+				<source>Select one of the three alternate paste behaviours.</source>
+				<target state="translated">Выберете поведение при вставке из трех альтернативных.</target>
+			</trans-unit>
+			<trans-unit id="behaviour.details" xml:space="preserve" approved="yes">
+				<source>When the "Clean paste" toggle is "on" in the RTE tool bar, the content may be tranformed according to the three following behaviours before being pasted:
+- plain text: all HTML markup is removed;
+- structure only: only structural HTML markup is retained, all format is removed;
+- structure and basic format: structural HTML markup is preserved as well as basic format provided by inline HTML elements.
+
+Which behaviour is activated when clicking the toggle button may be set either in the TYPO3 BE User Settings or in the "Clean Paste Behaviour" dialogue. If not set, it defaults to "Paste as plain text".
+The "Clean Paste Behaviour" dialogue is activated by clicking on the "Clean Paste Behaviour" button in the toolbar of the RTE.</source>
+			<target state="translated">При включении "Очистки вставляемого" из панели инструментов редактора, содержимое из буфера обмена, перед помещением в область редактирования будет преобразовано следующим образом: - обычный текст: удаляется вся разметка HTML; - только структура: остается лишь разметка структуры HTML, а все теги форматирования удаляются; - структура и основное форматирование: остается как разметка HTML для структуры, так и основное форматирование для встроенных элементов HTML. Используемое при включении очистки содержимого буфера обмена поведение можно установить либо в настройках для внутреннего пользователя TYPO3, либо в диалоге "Поведение при очистке вставляемого". Если поведение не определено, по умолчанию используется "вставлять как простой текст". Диалог "Поведение при очистке вставляемого" выводится щелчком по кнопке "Поведение при очистке вставляемого" на панели инструментов редактора.</target></trans-unit>
+			<trans-unit id="behaviour.seeAlso" approved="yes">
+				<source>xEXT_rtehtmlarea_PlainText:plainText,xEXT_rtehtmlarea_PlainText:pasteStructure,xEXT_rtehtmlarea_PlainText:pasteFormat,_MOD_user_setup</source>
+				<target state="translated">xEXT_rtehtmlarea_PlainText:plainText,xEXT_rtehtmlarea_PlainText:pasteStructure,xEXT_rtehtmlarea_PlainText:pasteFormat,_MOD_user_setup</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id=".description" approved="yes">
+				<source>The Clean Paste feature offers options for cleaning content copied from external source before it gets pasted into the editing area.</source>
+				<target state="translated">Возможность очистки содержимого, вставляемого в область редактирования из внешнего источника.</target>
+			</trans-unit>
+			<trans-unit id=".details" xml:space="preserve" approved="yes">
+				<source>This feature is useful when pasting text that was copied to the clipboard from some external source.
+
+The "Clean paste" button allows to toggle to clean paste mode and back to normal paste mode.
+Clicking on the "Clean paste" button puts the button "on". This action does not initiate any paste operation. But when the "clean paste" button is "on" in the RTE tool bar, whenever a paste operation is performed, content contained in the clipboard is transformed before being pasted into the editing area.
+Clicking again on the toggle button puts it "off". Any subsequent paste operation is performed as a normal paste.</source>
+			<target state="translated">Такая возможность полезна при вставке текста, скопированного в буфер обмена из любых внешних источников. Кнопка "Очистить вставляемое" позволяет переключаться между режимом очистки и обычным режимом. Щелчок по кнопке "Очистить вставляемое" включает режим очистки. При этом ничего не будет вставлено, просто включает режим очистки, в котором содержимое буфера обмена определенным образом преобразуется перед помещением в область редактирования. Новый щелчок по кнопке выключает режим очистки, после чего содержимое буфера обмена не преобразуется перед помещением в область редактирования.</target></trans-unit>
+			<trans-unit id=".image" xml:space="preserve" approved="no">
+				<source>EXT:rtehtmlarea/Resources/Public/Images/Plugins/PlainText/paste-toggle.gif,
+EXT:rtehtmlarea/Resources/Public/Images/Plugins/PlainText/paste-behaviour.gif</source>
+				<target state="needs-translation">EXT:rtehtmlarea/extensions/PlainText/skin/images/paste-toggle.gif, EXT:rtehtmlarea/extensions/PlainText/skin/images/paste-behaviour.gif</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id=".image_descr" xml:space="preserve" approved="yes">
+				<source>"Clean paste" toggle icon in the editor tool bar. Clicking on it changes the behaviour of subsequent paste operations.
+"Clean Paste Behaviour" icon in the editor tool bar. Clicking on it opens a dialogue that allows to select an alternate paste behaviour.</source>
+			<target state="translated">Значок "Очистить вставку" в панели инструментов редактора. Щелчок по нему изменяет поведение при вставке содержимого из буфера обмена в область редактирования. Значок "Поведение при очистки вставляемого" в панели инструментов редактора. Щелчок по нему открывает диалог, позволяющий изменить поведение по очистке содержимого буфера обмена.</target></trans-unit>
+			<trans-unit id="pasteFormat.alttitle" approved="yes">
+				<source>Paste structure and basic format</source>
+				<target state="translated">Вставить структуру и основное форматирование</target>
+			</trans-unit>
+			<trans-unit id="pasteFormat.description" approved="yes">
+				<source>When this paste behaviour is enabled and content is pasted in the editing area, structural HTML markup is preserved as well as basic format provided by inline HTML elements.</source>
+				<target state="translated">При включении текущего поведения, в содержимом буфера обмена остаются все теги HTML для структуры документа, наряду с разметкой для форматирования встроенных элементов HTML.</target>
+			</trans-unit>
+			<trans-unit id="pasteFormat.details" xml:space="preserve" approved="yes">
+				<source>By default, "Structure and basic format" means that:
+- the following HTML structural elements are retained: a, p, h[0-6], pre, address, article, aside, blockquote, div, footer, header, nav, section, hr, br, table, thead, tbody, tfoot, caption, tr, th, td, ul, ol, dl, li, dt, dd;
+- the following HTML inline elements are also retained: b, bdo, big, cite, code, del, dfn, em, i, ins, kbd, label, q, samp, small, strike, strong, sub, sup, tt, u, var;
+- the following HTML attributes are removed: id, style, class, lang, align, valign, bgcolor, color, border, face, any attribute starting with "on", and any attribute containing ":".
+
+These defaults may be modified in Page TSConfig.</source>
+			<target state="translated">По умолчанию, режим "структура и основное форматирование" означает следующее: - остаются следующие элементы HTML, определяющие структуру: a, p, h[0-6], pre, address, blockquote, div, hr, br, table, thead, tbody, tfoot, caption, tr, th, td, ul, ol, dl, li, dt, dd; - кроме того, остаются встроенные элементы HTML: b, bdo, big, cite, code, del, dfn, em, i, ins, kbd, label, q, samp, small, strike, strong, sub, sup, tt, u, var; - удаляются следующие атрибуты HTML: id, style, class, lang, align, valign, bgcolor, color, border, face, любые атрибуты, начинающиеся с "on", и содержащие ":". Режим по умолчанию можно изменить в TSConfig страницы.</target></trans-unit>
+			<trans-unit id="pasteFormat.seeAlso" approved="yes">
+				<source>xEXT_rtehtmlarea_PlainText:behaviour</source>
+				<target state="translated">xEXT_rtehtmlarea_PlainText:behaviour</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="pasteInPastingPad.description" approved="yes">
+				<source>Contents pasted into this pasting pad will be cleaned. Click OK to insert the cleaned contents into the RTE editing area.</source>
+				<target state="translated">Содержимое, помещаемое в редактор из буфера обмена будет очищено. Щелкните OK для применения режима очистки.</target>
+			</trans-unit>
+			<trans-unit id="pasteInPastingPad.details" approved="yes">
+				<source>When using Internet Explorer and when pasting behaviour "Paste structure only" or "Paste structure and format" is enabled, contents must first be pasted into this pasting pad so that they can be cleaned before being inserted into the RTE editing area.</source>
+				<target state="translated">При использовании Internet Explorer с поведением очистки содержимого буфера обмена "Вставить только структуру" или "Вставить структуру и основное форматирование", содержимое сначала должно быть помещено в буфер обмена. Только после этого оно будет очищено при вставке в область редактирования.</target>
+			</trans-unit>
+			<trans-unit id="pasteStructure.alttitle" approved="yes">
+				<source>Paste structure only</source>
+				<target state="translated">Вставить только структуру</target>
+			</trans-unit>
+			<trans-unit id="pasteStructure.description" approved="yes">
+				<source>When this paste behaviour is enabled and content is pasted in the editing area, only structural HTML markup is retained, all format is removed.</source>
+				<target state="translated">При включении текущего поведения, из содержимого буфера обмена удаляется вся разметка HTML для форматирования элементов, но остаются все теги HTML для структуры документа.</target>
+			</trans-unit>
+			<trans-unit id="pasteStructure.details" xml:space="preserve" approved="yes">
+				<source>By default, "Structure only" means that:
+- only the following HTML elements are retained: a, p, h[0-6], pre, address, article, aside, blockquote, div, footer, header, nav, section, hr, br, table, thead, tbody, tfoot, caption, tr, th, td, ul, ol, dl, li, dt, dd;
+- the following HTML attributes are removed: id, style, class, lang, align, valign, bgcolor, color, border, face, any attribute starting with "on", and any attribute containing ":".
+
+These defaults may be modified in Page TSConfig.</source>
+			<target state="translated">По умолчанию, режим "только структура" означает следующее: - остаются только следующие элементы HTML: a, p, h[0-6], pre, address, blockquote, div, hr, br, table, thead, tbody, tfoot, caption, tr, th, td, ul, ol, dl, li, dt, dd; - удаляются следующие атрибуты HTML: id, style, class, lang, align, valign, bgcolor, color, border, face, любые атрибуты, начинающиеся с "on", и содержащие ":". Режим по умолчанию можно изменить в TSConfig страницы.</target></trans-unit>
+			<trans-unit id="pasteStructure.seeAlso" approved="yes">
+				<source>xEXT_rtehtmlarea_PlainText:behaviour</source>
+				<target state="translated">xEXT_rtehtmlarea_PlainText:behaviour</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="plainText.alttitle" approved="yes">
+				<source>Paste as plain text</source>
+				<target state="translated">Вставить как простой текст</target>
+			</trans-unit>
+			<trans-unit id="plainText.description" approved="yes">
+				<source>When this paste behaviour is enabled, all HTML markup is removed before content is pasted in the editing area.</source>
+				<target state="translated">При включении текущего поведения, из содержимого буфера обмена удаляется вся разметка HTML.</target>
+			</trans-unit>
+			<trans-unit id="plainText.seeAlso" approved="yes">
+				<source>xEXT_rtehtmlarea_PlainText:behaviour</source>
+				<target state="translated">xEXT_rtehtmlarea_PlainText:behaviour</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id=".seeAlso" approved="yes">
+				<source>xEXT_rtehtmlarea_PlainText:behaviour</source>
+				<target state="translated">xEXT_rtehtmlarea_PlainText:behaviour</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

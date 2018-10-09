@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:44:11Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="action-items">
+				<source>Action items</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="BlockStyle-Tooltip" approved="yes">
+				<source>Apply style to the containing block</source>
+				<target state="translated">Applica lo stile al blocco contenitore</target>
+			</trans-unit>
+			<trans-unit id="component-items">
+				<source>Component items</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="detail" approved="yes">
+				<source>Detail</source>
+				<target state="translated">Dettaglio</target>
+			</trans-unit>
+			<trans-unit id="Element style" approved="yes">
+				<source>Block element style</source>
+				<target state="translated">Stile del blocco</target>
+			</trans-unit>
+			<trans-unit id="frame-frame1" approved="yes">
+				<source>Frame with grey background</source>
+				<target state="translated">Riquadro con lo sfondo grigio</target>
+			</trans-unit>
+			<trans-unit id="frame-frame2" approved="yes">
+				<source>Frame with yellow background</source>
+				<target state="translated">Riquadro con lo sfondo giallo</target>
+			</trans-unit>
+			<trans-unit id="important" approved="yes">
+				<source>Important</source>
+				<target state="translated">Significativo</target>
+			</trans-unit>
+			<trans-unit id="name-of-person">
+				<source>Name of person</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="No style" approved="yes">
+				<source>No block style</source>
+				<target state="translated">Nessuno stile sul blocco</target>
+			</trans-unit>
+			<trans-unit id="Remove style" approved="yes">
+				<source>Remove block style</source>
+				<target state="translated">Rimuovi lo stile dal blocco</target>
+			</trans-unit>
+			<trans-unit id="Technische Universitat Ilmenau">
+				<source>Technische Universität Ilmenau</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="Unknown style" approved="yes">
+				<source>Unknown block style</source>
+				<target state="translated">Stile del blocco sconosciuto</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

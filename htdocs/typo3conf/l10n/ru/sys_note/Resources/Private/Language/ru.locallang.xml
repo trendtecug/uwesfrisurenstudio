@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="author">Автор:</label>
+			<label index="category.1">Указания</label>
+			<label index="category.2">Шаблон</label>
+			<label index="category.3">Замечания</label>
+			<label index="category.4">Сделать</label>
+			<label index="date">Дата:</label>
+			<label index="personal">Персонально:</label>
+			<label index="yes">Да</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

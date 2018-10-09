@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:13Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="DefinitionItem-helpText" approved="yes">
+				<source>Toggles term and definition elements</source>
+				<target state="translated">Обмен местами элементов термина и определения</target>
+			</trans-unit>
+			<trans-unit id="DefinitionItem-Tooltip" approved="yes">
+				<source>Toggle term and definition</source>
+				<target state="translated">Переключить термин и определение</target>
+			</trans-unit>
+			<trans-unit id="DefinitionList-helpText" approved="yes">
+				<source>Makes a definition list from the current selection</source>
+				<target state="translated">Создание списка определений из выделенного текста</target>
+			</trans-unit>
+			<trans-unit id="DefinitionList-Tooltip" approved="yes">
+				<source>Definition list</source>
+				<target state="translated">Список определения</target>
+			</trans-unit>
+			<trans-unit id="Indent-helpText" approved="yes">
+				<source>Increases text indentation</source>
+				<target state="translated">Увеличение отступов в тексте</target>
+			</trans-unit>
+			<trans-unit id="Indent-Tooltip" approved="yes">
+				<source>Increase indent</source>
+				<target state="translated">Увеличить отступ</target>
+			</trans-unit>
+			<trans-unit id="No block" approved="yes">
+				<source>No block format</source>
+				<target state="translated">Блок без форматирования</target>
+			</trans-unit>
+			<trans-unit id="Outdent-helpText" approved="yes">
+				<source>Reduces text indentation</source>
+				<target state="translated">Уменьшение отступов в тексте</target>
+			</trans-unit>
+			<trans-unit id="Outdent-Tooltip" approved="yes">
+				<source>Reduce indent</source>
+				<target state="translated">Уменьшить отступ</target>
+			</trans-unit>
+			<trans-unit id="Remove block" approved="yes">
+				<source>Remove block format</source>
+				<target state="translated">Удалить форматирование блока</target>
+			</trans-unit>
+			<trans-unit id="Technische Universitat Ilmenau" approved="yes">
+				<source>Technische Universität Ilmenau</source>
+				<target state="translated">Технический университет Ильменау</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

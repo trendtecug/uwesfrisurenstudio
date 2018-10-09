@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+      <label index="mlang_tabs_tab">Отчеты</label>
+      <label index="mlang_labels_tabdescr">Набор различных системных отчетов.</label>
+      <label index="mlang_labels_tablabel">Системные отчеты</label>
+      <label index="title">Отчеты</label>
+      <label index="reports_overview">Резюме</label>
+      <label index="choose_report">Отчет:</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

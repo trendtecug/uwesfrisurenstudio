@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for plugin &quot;tx_flatmgr_pi1&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="details">details</label>
+			<label index="vacantDay">vacant day</label>
+			<label index="vacant weekend">vacant weekend</label>
+			<label index="bookedDay">booked day</label>
+			<label index="booked weekend">booked weekend</label>
+			<label index="Jan">January</label>
+			<label index="Feb">February</label>
+			<label index="Mar">March</label>
+			<label index="Apr">April</label>
+			<label index="May">May</label>
+			<label index="Jun">June</label>
+			<label index="Jul">July</label>
+			<label index="Aug">August</label>
+			<label index="Sep">September</label>
+			<label index="Oct">October</label>
+			<label index="Nov">November</label>
+			<label index="Dec">December</label>
+			<label index="Sat">S</label>
+			<label index="Sun">S</label>
+			<label index="Mon">M</label>
+			<label index="Tue">T</label>
+			<label index="Wed">W</label>
+			<label index="Thu">T</label>
+			<label index="Fri">F</label>
+			<label index="availableFlats">vacation flats</label>
+			<label index="edit booking">edit booking</label>
+			<label index="bookingDataOf">Booking data of flat </label>
+			<label index="date from"> from </label>
+			<label index="date to"> until </label>
+			<label index="insert booking">New booking</label>
+			<label index="insert flat">New flat</label>
+			<label index="insert room">New room</label>
+			<label index="delete this booking record">delete this booking record</label>
+			<label index="to the bookings">to the bookings</label>
+			<label index="save record">save record</label>
+			<label index="edit record">edit record</label>
+			<label index="rebook record">rebook record</label>
+			<label index="delete record">delete record</label>
+			<label index="backToTheFlats">back to the flats</label>
+			<label index="availabilityCheck">availability check</label>
+			<label index="startOfBooking">arrival</label>
+			<label index="endOfBooking">departure</label>
+			<label index="allFlatCategories">all categories</label>
+			<label index="flatCategory">Category</label>
+			<label index="availableFlatsHeader">Available Flats for the time </label>
+			<label index="availableFrom">from: </label>
+			<label index="availableTo"> to: </label>
+			<label index="booked from"> Booked from: </label>
+			<label index="no available flat">No available flat(s) for the desired time available!</label>
+			<label index="nextVacantPeriod"> next vacant period</label>
+			<label index="foreignFlats">available flats of other sites</label>
+			<label index="availableFlat"> available flat </label>
+			<label index="availableForeignFlat"> available foreign flat </label>
+			<label index="available rooms"> available rooms</label>
+			<label index="nextForeignVacantPeriod"> next foreign vacant period</label>
+			<label index="deleteFlatConfirmation">Delete the data record of flat </label>
+			<label index="deleteRoomConfirmation">Delete the data record </label>
+			<label index="deleteBookingConfirmation">Delete the data record of booking from </label>
+			<label index="overbooked">overbooked </label>
+			<label index="bookingCalendar">booking calendar</label>
+			<label index="booking request">booking request</label>
+			<label index="utilisation calendar">utilisation calendar</label>
+			<label index="allFlats">all flats</label>
+			<label index="toggle additional fields">toggle additional fields</label>
+			<label index="customerNumber">customernumber:</label>
+			<label index="grownups">number of grownups </label>
+			<label index="childs">number of children</label>
+			<label index="memo">memo</label>
+			<label index="agent">agent</label>
+			<label index="newBookingHeader">Insert new booking</label>
+			<label index="newBookingInserted">New booking inserted</label>
+			<label index="bookingRecordDeleted">Booking record has been deleted!</label>
+			<label index="category">category</label>
+			<label index="bookedBy">booked from</label>
+			<label index="flatCapacity">Capacity [persons]</label>
+			<label index="roomCapacity">Capacity [persons]</label>
+			<label index="nameOfTheFlat">Name of the flat</label>
+			<label index="nameOfTheRoom">Name of the room</label>
+			<label index="rebook">rebook</label>
+			<label index="rebooking header">Rebooking</label>
+			<label index="from">from</label>
+			<label index="to">to</label>
+			<label index="on">on to</label>
+			<label index="customer">Customer</label>
+			<label index="agent">Agent</label>
+			<label index="illegaleCharacters">Illegale character in </label>
+			<label index="room">Room</label>
+			<label index="editRooms">Edit rooms</label>
+			<label index="roomsOf">Rooms of </label>
+			<label index="showRooms">Show all rooms</label>
+			<label index="hideRooms">HideRooms</label>
+			
+			<label index="flatDetails">Details</label>
+			<label index="Flat">Flat</label>
+			<label index="Bungalow">Bungalow</label>
+			<label index="name">Name</label>
+			<label index="livingSpace">Living space</label>
+			<label index="landArea">Landarea</label>
+			<label index="capacityText">Persons</label>
+			<!-- Attributes -->
+			<label index="Pool">Swimmingpool</label>
+			<label index="Landing">Landing</label>
+			<label index="PetsAllowed">Pets on request</label>
+			<label index="Beach">Beach</label>
+			<label index="HandicappedAccessible">Handicapped accessible</label>
+			<label index="InternetWithCosts">Internet with costs</label>
+			<label index="InternetFree">Internet without costs</label>
+			<label index="AirConditioner">Airconditioner</label>
+			<label index="AirConditionerWithCosts">Airconditioner with costs</label>
+			
+			
+			<label index="minPrice">from</label>
+			<label index="minPriceUnit">€/Week</label>
+			<label index="weekPrices">Week prices</label>
+			<label index="peakseason">Peakseason</label>
+			<label index="lowseason">Lowseason</label>
+			<label index="savingseason">Savingseason</label>
+			<label index="areaUnit"> m²</label>
+
+			<label index="arrivalDay">Arrival day in peakseason</label>
+			<label index="Fr">Friday</label>
+			<label index="Sa">Saturday</label>
+			<label index="Su">Sunday</label>
+
+			<label index="caution">Caution</label>
+			<label index="additional">Additional</label>
+			<label index="endCleaning">endcleaning</label>
+			
+			<label index="singleViewFooter">bedlinen and towels is to be bring along or can be rented.
+Costs per person: Bedlinen 12 euro towel package 10 euro 
+baby-travel bed or childrens chair a`10.--/week
+or as "baby-travel-package" from our equipment
+with travel-bed/high chair and Buggy "Quinny"
+together 35.--/week
+
+more Services on order of request (pictures by service):
+GARMIN outdoor, Internet, BBQ
+			</label>
+			<label index="onRequest">On request</label>
+			<label index="noSpecials">No Offers right now</label>
+			<label index="backToList">--&gt; Back to list</label>
+
+			<!-- labels for flatmgrcalc -->
+			<label index="registeredCustomer">Registered customer</label>
+			<label index="earlyBirdRebate1">Early bird rebate1</label>
+			<label index="earlyBirdRebate2">Early bird rebate2</label>
+			<label index="startOfCalculation">Booking start</label>
+			<label index="endOfCalculation">Booking end</label>
+			<label index="calculateNow">Calculate now</label>
+			<label index="bookingNotAvailable">Booking not available!</label>
+			<label index="invalidDates">Invalid dates</label>
+			<label index="onlyOneEarlyBirdRebate">Please select only one early bird rebate!</label>
+			<label index="flatmgrcalcPrice">Total amount: </label>
+			<label index="storeClosed">Store closed on saturday and sunday!</label>
+			<label index="deliveryTitle">Delivery</label>
+			<label index="orderSelectorName">Name</label>
+			<label index="orderSelectorTotalWeight">Total weight</label>
+			<label index="orderSelectorCapacity">Capacity</label>
+			<label index="orderSelectorMinPrice">Price</label>
+			<label index="noSeasonDataAvailable">No season data available for the selected year!</label>
+			<label index="pricePerDay"><![CDATA[&euro;/Tag]]></label>
+			<label index="deliveryA">Delivery A</label>
+			<label index="deliveryB">Delivery B</label>
+			<label index="deliveryC">Delivery C</label>
+			<label index="tentOption">book tent</label>
+			<label index="flatmgrcalcOfficalPrice">Price</label>
+			<label index="bookedNotEnoughDays">Booked not enough days!</label>
+			<label index="bookedNotEnoughWhitsunDays">Booked not enough whitsun days!</label>
+			<label index="bookedNotEnoughSummerDays">Booked not enough summer days!</label>
+			<label index="bookingMinDays">days min. booking</label>
+			<label index="bookingMinDaysWhitsun">days min. booking whitsun</label>
+			<label index="bookingMinDaysSummer">days min. booking summer</label>
+			<label index="lastMinuteRebate">Last minute booking</label>
+			<label index="noCleaningOutside">without cleaning outside</label>
+			<label index="longTimeBookingRebate1">Longtime booking rebate 21 days</label>
+			<label index="longTimeBookingRebate2">Longtime booking rebate 28 days</label>
+			<label index="onlyOneLongTimeBookingRebate">Only one longtime booking rebate</label>
+			<label index="followUpBooking">Follow up booking</label>
+			
+
+		</languageKey>
+		<languageKey index="de">EXT:flatmgr/pi1/de.locallang.xml</languageKey>
+		<languageKey index="nl">EXT:flatmgr/pi1/nl.locallang.xml</languageKey>
+		<languageKey index="es">EXT:flatmgr/pi1/es.locallang.xml</languageKey>
+		<languageKey index="fr">EXT:flatmgr/pi1/fr.locallang.xml</languageKey>
+		<languageKey index="rus">EXT:flatmgr/pi1/rus.locallang.xml</languageKey>
+
+		
+
+	
+
+
+	</data>
+	<orig_hash type="array">
+	</orig_hash>
+	<orig_text type="array">
+	</orig_text>
+</T3locallang>

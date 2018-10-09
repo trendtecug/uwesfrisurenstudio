@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-30T01:51:04Z" product-name="indexed_search">
+		<header/>
+		<body>
+			<trans-unit id="defaultOperands.0">
+				<source>All words (AND)</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Tutte le parole (AND)</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="defaultOperands.1">
+				<source>Any words (OR)</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Qualsiasi parola (OR)</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="displayResults">
+				<source>Displaying results &lt;strong&gt;%1$s to %2$s&lt;/strong&gt; out of &lt;strong&gt;%3$s&lt;/strong&gt;</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Mostro i risultati &lt;strong&gt;da %1$s a %2$s&lt;/strong&gt; di &lt;strong&gt;%3$s&lt;/strong&gt;</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="displayResults.next">
+				<source>Next &gt;</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Successiva &gt;</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="displayResults.page">
+				<source>Page</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Pagina</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="displayResults.previous">
+				<source>&lt; Previous</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>&lt; Precedente</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="form.addToSearch">
+				<source>Add to current search words</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Aggiungi alle chiavi di ricerca correnti</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="form.atATime">
+				<source>at a time</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="form.extResume">
+				<source>Extended resume</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="form.freeIndexUid">
+				<source>Category</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Categoria</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="form.fromSection">
+				<source>From section</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="form.legend">
+				<source>Search form</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Modulo di ricerca</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="form.linkToAdvancedSearch">
+				<source>Advanced search</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Ricerca avanzata</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="form.linkToRegularSearch">
+				<source>Regular search</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Ricerca regolare</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="form.match">
+				<source>Match</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="form.orderBy">
+				<source>Order by</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Ordina per</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="form.searchFor">
+				<source>Search for</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Cerca</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="form.searchIn">
+				<source>Search in</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Cerca in</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="form.style">
+				<source>Style</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Stile</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="form.submit">
+				<source>Search</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Cerca</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="groupBy.flat">
+				<source>Flat list</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Lista piatta</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="groupBy.sections">
+				<source>Section hierarchy</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="indexingConfigurationHeader.0">
+				<source>Website Pages</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="indexingConfigurationHeader.-1">
+				<source>Mixed categories</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="indexingConfigurations.0">
+				<source>Pages</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Pagine</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="indexingConfigurations.-1">
+				<source>All, mixed</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="indexingConfigurations.-2">
+				<source>All, categorized</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="languageUids.0">
+				<source>Default</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="languageUids.-1">
+				<source>All languages</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Tutte le lingue</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="localizedOperandAnd">
+				<source>AND</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="ctoffolo">
+					<target>AND</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="localizedOperandNot">
+				<source>NOT</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="ctoffolo">
+					<target>NOT</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="localizedOperandOr">
+				<source>OR</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="ctoffolo">
+					<target>OR</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="mediaTypes.0">
+				<source>Internal pages</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Pagine interne</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="mediaTypes.-1">
+				<source>All media</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="mediaTypes.-2">
+				<source>All External</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="result.created">
+				<source>Created:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Creato:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="result.inNsection">
+				<source>in %s section:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="result.inNsections">
+				<source>in %s sections:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="result.inSection">
+				<source>in the section</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>nella sezione</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="result.memberGroups">
+				<source>Require membership of group numbers %s</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="result.modified">
+				<source>Modified:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Modificato:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="result.noResult">
+				<source>No results found.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Nessun risultato trovato.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="result.noResume">
+				<source>Note: This search hit may not accurately match the content on this page. The page resume cannot be shown.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="result.otherMatching">
+				<source>Other matching pages in the same document:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Altre pagine corrispondenti nello stesso documento:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="result.otherPageAsWell">
+				<source>INFO: There was another page indexed as well. Probably indexed with another or no usergroup.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="result.page">
+				<source>page</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>pagina</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="result.pages">
+				<source>pages</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>pagine</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="result.path">
+				<source>Path:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Percorso:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="result.ratingMatches">
+				<source>matches</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="result.size">
+				<source>Size:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Dimensione:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="result.unnamedSection">
+				<source>Other</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="rules.headline">
+				<source>Rules</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="ctoffolo">
+					<target>Regole</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="rules.text" xml:space="preserve">
+				<source>Only words with 2 or more characters are accepted&lt;br /&gt;
+Max 200 chars total&lt;br /&gt;
+Space is used to split words, "" can be used to search for a whole string (not indexed search then)&lt;br /&gt;
+AND, OR and NOT are prefix words, overruling the default operator&lt;br /&gt;
++/|/- equals AND, OR and NOT as operators.&lt;br /&gt;
+All search words are converted to lowercase.
+</source>
+			<target/><alt-trans xml:space="preserve" origin="c_strizzolo"><target>Sono accettate solo parole con 2 o più caratteri&lt;br /&gt;
+Max 200 caratteri totali&lt;br /&gt;
+Lo spazio è utilizzato per dividere le parole, "" può essere usato per cercare un'intera stringa (ricerca non indicizzata)&lt;br /&gt;
+AND, OR e NOT sono prefissi che prevalgono sull'operatore predefinito&lt;br /&gt;
++/|/- sono equivalenti agli operatori AND, OR e NOT.&lt;br /&gt;
+Tutte le parole cercate saranno convertite in minuscolo.
+</target></alt-trans></trans-unit>
+			<trans-unit id="searchFor">
+				<source>Search for</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Cerca</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="searchFor.and">
+				<source>and</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>e</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="searchFor.andnot">
+				<source>but not</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>ma non</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="searchFor.or">
+				<source>or</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>o</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="searchTypes.0">
+				<source>Distinct word</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Parola distinta</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="searchTypes.1">
+				<source>Part of word</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Parte di una parola</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="searchTypes.10">
+				<source>Sounds like</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Suona come</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="searchTypes.2">
+				<source>First part of word</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Prima parte di una parola</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="searchTypes.20">
+				<source>Sentence</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Frase</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="searchTypes.3">
+				<source>Last part of word</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Ultima parte di una parola</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="sections.0">
+				<source>Whole site</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Intero sito</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="sections.-1">
+				<source>Only this page</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Solo questa pagina</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="sections.-2">
+				<source>Top + level 1</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Top + livello 1</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="sections.-3">
+				<source>Level 2 and out</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sections.rootLevel1">
+				<source>Level 1:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Livello 1:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="sections.rootLevel1All">
+				<source>All pages on level 1</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Tutte le pagine al livello 1</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="sections.rootLevel2">
+				<source>- Level 2:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>- Livello 2:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="sections.rootLevel2All">
+				<source>- All pages on level 2</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>- Tutte le pagine al livello 2</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="sortOrders.ascending">
+				<source>Lowest first</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sortOrders.crdate">
+				<source>Creation date</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Data di creazione</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="sortOrders.descending">
+				<source>Highest first</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sortOrders.mtime">
+				<source>Date Modified</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Data di modifica</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="sortOrders.rank_count">
+				<source>Number of words</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Numero di parole</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="sortOrders.rank_first">
+				<source>Close to top</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sortOrders.rank_flag">
+				<source>Weight/Frequency</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Peso/Frequenza</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="sortOrders.rank_freq">
+				<source>Frequency</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Frequenza</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="sortOrders.title">
+				<source>Document title</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Titolo del documento</target>
+				</alt-trans>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

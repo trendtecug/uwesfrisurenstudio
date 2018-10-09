@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="button.cancel">Annuler</label>
+			<label index="button.update">Mettre à jour depuis le dépôt</label>
+			<label index="flashmessage.canceled">Le processus a été annulé.</label>
+			<label index="flashmessage.error">Erreur</label>
+			<label index="flashmessage.information">Information</label>
+			<label index="flashmessage.multipleErrors">Plusieurs requêtes ont échoué. Veuillez vérifier votre connection internet !</label>
+			<label index="flashmessage.success">Succès</label>
+			<label index="flashmessage.updateComplete">La mise à jour des traductions s'est effectuée avec succès.</label>
+			<label index="header.languageSelectionList">Langues</label>
+			<label index="header.module">Administration des langues</label>
+			<label index="header.translationUpdateList">Traductions</label>
+			<label index="state.checking">Vérification...</label>
+			<label index="state.error">Erreur</label>
+			<label index="state.failed">Échec</label>
+			<label index="state.invalid">Invalide</label>
+			<label index="state.notAvailable">Indisponible</label>
+			<label index="state.notChecked">Non vérifié</label>
+			<label index="state.updated">Mis à jour</label>
+			<label index="state.upToDate">À jour</label>
+			<label index="table.extension">Extension</label>
+			<label index="table.language">Langue</label>
+			<label index="table.locale">Locale</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

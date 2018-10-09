@@ -1,0 +1,7 @@
+/*
+plugin.tx_flatmgr_pi1 {
+
+  	templateFile = {$plugin.tx_flatmgr_pi1.templateFile}
+  	cssFile = {$plugin.tx_flatmgr_pi1.cssFile}
+}
+*/

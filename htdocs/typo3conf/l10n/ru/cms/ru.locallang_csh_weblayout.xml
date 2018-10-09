@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index=".alttitle">Веб &gt; Модуль страницы</label>
+			<label index="button_panel.alttitle">"Большие кнопки"</label>
+			<label index="button_panel.description">При этом будут отображены четыре наиболее используемые при создании страниц функции. Доступно редактирование свойств страницы (напр. заголовок страницы), можно передвинуть страницу, создать новую страницу или элемент ее содержимого.</label>
+			<label index="_button_panel.image">EXT:cms/cshimages/pagemodule_2.png</label>
+			<label index="_button_panel.seeAlso">xMOD_csh_corebe:TCEforms, xMOD_csh_corebe:move_el_pages, xMOD_csh_corebe:new_pages, xMOD_csh_corebe:new_ce,</label>
+			<label index="columns_1.alttitle">Содержимое по колонкам</label>
+			<label index="columns_1.description">В режиме "Колонки" Вы можете управлять содержанием веб-страницы, размещенным в колонках.</label>
+			<label index="columns_2.alttitle">Содержимое по языкам</label>
+			<label index="columns_2.description">В режиме "Языки" Вы можете управлять содержанием веб-страницы, размещенным в колонках и разделенным по языкам.</label>
+			<label index="_columns_2.seeAlso">Статья о локализации | http://typo3.org/documentation/tips-tricks/multi-language-sites-in-typo3/</label>
+			<label index="columns_3.alttitle">Инфромация о странице</label>
+			<label index="columns_3.description">В режиме "Информация о странице" Вы можете просматривать различную статистику по странице.</label>
+			<label index="columns_3.details">Информация о странице – дата создания, последнего изменения страницы и ее содержимого. Можно также просмотреть подзаголовки, ключевые слова и описания. Эта информация зачастую используется на вебсайтах для мета данных или поиска.</label>
+			<label index="_columns_3.image">EXT:cms/cshimages/pagemodule_9.png</label>
+			<label index="columns_multi.alttitle">Содержимое страницы по колонкам</label>
+			<label index="columns_multi.description">Отображение содержимого страницы по колонкам. Выберете этот режим, если на Вашем сайте несколько зон для содержимого и каждая разбита на "колонки"</label>
+			<label index="_columns_multi.image">EXT:cms/cshimages/pagemodule_12.png</label>
+			<label index="columns_multi.image_descr">Если шаблон Вашего сайт поддерживает несколько зон с содержимым, вы можете использовать другие, отличные от "Обычной", колонки. Здесь включена "Левая" колонка. В TYPO3 по умолчанию доступно четыре колонки, "Обычная", "Правая", "Левая" и "Граничная". Их использование зависит от индивидуальных предпочтений и внешнего шаблона.</label>
+			<label index="_columns_multi.seeAlso">_MOD_web_layout:columns_single</label>
+			<label index="columns_single.alttitle">Содержимое страницы в одной колонке</label>
+			<label index="columns_single.description">Элементы содержимого страницы отображаются в одной колонке. Для их редактирования щелкните по значку редактирования или текстовому элементу.</label>
+			<label index="columns_single.details">Также можно скрыть, удалить или передвинуть элементы при помощи панели упрвления. Нажав на значек "Создать новый элемент", можно вставить новый элемент содержимого между существующими на странице. Щелкнете по значку элементу содержимого для доступа к его контекстному меню.</label>
+			<label index="_columns_single.image">EXT:cms/cshimages/pagemodule_1.png</label>
+			<label index="columns_single.image_descr">Элементы содержимого расположены в порядке их отображения на вебсайте. Такой же порядок отображается в модуле Страница. Контрольная панель позволяет как передвигать элементы, так и редактировать, скрывать и удалять их. Можно просто щелкнуть на отображаемый здесь текст просмотра, для доступа к форме редактирования элемента.</label>
+			<label index="_columns_single.seeAlso">_MOD_web_layout:columns_multi</label>
+			<label index=".description">Модуль страницы включается из меню и является основным модулем для всех основных операций создания и обновления контента сайта.</label>
+			<label index=".details">При выборе этого модуля будет отображено</label>
+			<label index="_.image">EXT:cms/cshimages/pagemodule_13.png, EXT:cms/cshimages/pagemodule_14.png, EXT:cms/cshimages/pagemodule_15.png</label>
+			<label index=".image_descr">Перейдите в модуль "Страница", затем кликните по названию страницы в дереве страниц. Модуль "Страница" будет активизирован в правой части окна и будет отображать содержимое выбранной вами страницы. Эти кнопки &amp;mdash; прямые ссылки на: модуль история/отмены (1), мастера создания новых элементов содержимого (2), мастера перемещения страниц (3), мастера создания новых страниц (4) и форму свойств страницы (5). Смотрите ссылки для получения дополнительной информации.</label>
+			<label index="language_list.alttitle">Локализация</label>
+			<label index="language_list.description">В этом режиме отображаются доступные переводы содержимого страницы рядом друг с другом. Он используется пользователями для создания нового перевода страницы.</label>
+			<label index="_language_list.image">EXT:cms/cshimages/pagemodule_6.png, EXT:cms/cshimages/pagemodule_7.png, EXT:cms/cshimages/pagemodule_11.png, EXT:cms/cshimages/pagemodule_10.png,</label>
+			<label index="language_list.image_descr">При отображении локализации, можно создать новый перевод страницы, если он еще не существует. Но сначала нужно создать запись для языка на корневой странице сайта. В этом примере показано, как отображается содержимое для трех языков в модуле Страница. Свеху модуля Страница можно выбрать из доступных переводов.... ... и, при выборе дополнительного языка (здесь "Danish" и "German"), Вы увидите язык по умолчанию, рядом с выбранным языком.</label>
+			<label index="_language_list.seeAlso">sys_language</label>
+			<label index="quickEdit.alttitle">Быстрый Редактор</label>
+			<label index="quickEdit.description">Быстрый Редактор предоставляет непосредственный доступ к содержанию страницы.</label>
+			<label index="quickEdit.details">Быстрый Редактор разработан, чтобы сократить число щелчков для редактирования содержимого страницы. Простым щелчком по названию страницы в дереве страниц открывается первая запись из ее содержимого. В верхней панели инструментов возможно выбрать другие записи из списка.</label>
+			<label index="_quickEdit.image">EXT:cms/cshimages/pagemodule_5.png</label>
+			<label index="quickEdit.image_descr">При быстром редактировании, щелчек по заголовку страницы отобразит форму редактирования первого элемента содержимого страницы в Обычной колонке.</label>
+			<label index="_quickEdit.seeAlso">_MOD_web_layout:quickEdit_selElement</label>
+			<label index="quickEdit_selElement.alttitle">Элементы содержимого</label>
+			<label index="quickEdit_selElement.description">Это - краткий обзор записей на этой странице. Выберите другой элемент для редактирования или щелкните на кнопку "Нов.", чтобы создать новую запись.</label>
+			<label index="_quickEdit_selElement.image">EXT:cms/cshimages/pagemodule_4.png</label>
+			<label index="quickEdit_selElement.image_descr">Резюме элементов содержимого страницы в отображении Быстрого редактирования. Внизу имеются ссылки на два мастера: "Мастера перемещения элементов содрежимого" и "Мастера создания нового элемента содержимого".</label>
+			<label index="_quickEdit_selElement.seeAlso">_MOD_web_layout:quickEdit, xMOD_csh_corebe:move_el_cs, xMOD_csh_corebe:new_ce</label>
+			<label index="_.seeAlso">Настройка модуля Страница [технически] | http://typo3.org/documentation/document-library/doc_core_tsconfig/TSFE/, xMOD_csh_corebe:history_log, xMOD_csh_corebe:new_ce, xMOD_csh_corebe:move_el_pages, xMOD_csh_corebe:new_pages, xMOD_csh_corebe:TCEforms, О модуле страница | http://typo3.org/documentation/tips-tricks/the-new-page-editing-concept/ Редактирование страницы | http://typo3.org/documentation/document-library/doc_tut_quickstart/Edit_page/ Модуль Страница (анимация) | Работа с деревом страниц (анимация) | FILE:EXT:welcome/modsub/ani_05.gif</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

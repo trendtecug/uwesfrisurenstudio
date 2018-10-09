@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="mlang_labels_tablabel">Просмотр настроек из файлов localconf.php и tables.php</label>
+			<label index="mlang_labels_tabdescr">Возомжен просмотр значений массивов $TCA (конфигурация таблиц) и $TYPO3_CONF_VARS. Изменение значений здесь невозможно, только просмотр.&lt;BR&gt;&lt;em&gt;Доступ только для администраторов!&lt;/em&gt;</label>
+			<label index="mlang_tabs_tab">Настройка</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

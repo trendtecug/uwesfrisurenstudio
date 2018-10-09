@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:34Z" product-name="lowlevel" target-language="ru">
+    <header/>
+    <body>
+      <trans-unit id="configuration" xml:space="preserve" approved="yes">
+        <source>Configuration</source>
+      <target state="translated">Настройка</target></trans-unit>
+      <trans-unit id="typo3ConfVars" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TYPO3_CONF_VARS'] (Global Configuration)</source>
+      <target state="translated">$GLOBALS['TYPO3_CONF_VARS'] (глобальная настройка)</target></trans-unit>
+      <trans-unit id="tca" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TCA'] (Table configuration array)</source>
+      <target state="translated">$GLOBALS['TCA'] (область настройки таблиц)</target></trans-unit>
+      <trans-unit id="tcaDescr" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TCA_DESCR'] (Table Help Description)</source>
+      <target state="translated">$GLOBALS['TCA_DESCR'] (описание таблицы справки)</target></trans-unit>
+      <trans-unit id="loadedExt" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TYPO3_LOADED_EXT'] (Loaded Extensions)</source>
+      <target state="translated">$GLOBALS['TYPO3_LOADED_EXT'] (загруженные расширения)</target></trans-unit>
+      <trans-unit id="tbeStyles" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TBE_STYLES'] (Skinning Styles)</source>
+      <target state="translated">$GLOBALS['TBE_STYLES'] (стили оформления)</target></trans-unit>
+      <trans-unit id="beUser" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['BE_USER']-&gt;uc (User Settings)</source>
+      <target state="translated">$GLOBALS['BE_USER']-&gt;uc (пользовательские настройки)</target></trans-unit>
+      <trans-unit id="usersettings" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TYPO3_USER_SETTINGS'] (User Settings Configuration)</source>
+      <target state="translated">$GLOBALS['TYPO3_USER_SETTINGS'] (настройки для пользователей)</target></trans-unit>
+      <trans-unit id="t3services" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['T3_SERVICES'] (Registered Services)</source>
+      <target state="translated">$GLOBALS['T3_SERVICES'] (зарегистрированные службы)</target></trans-unit>
+      <trans-unit id="tbemodulesext" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TBE_MODULES_EXT'] (BE Modules Extensions)</source>
+      <target state="translated">$GLOBALS['TBE_MODULES_EXT'] (расширения модулей внутреннего интерфейса)</target></trans-unit>
+      <trans-unit id="tbemodules" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TBE_MODULES'] (BE Modules)</source>
+      <target state="translated">$GLOBALS['TBE_MODULES'] (модули внутреннего интерфейса)</target></trans-unit>
+      <trans-unit id="cropLines" xml:space="preserve" approved="yes">
+        <source>Crop lines</source>
+      <target state="translated">Линии обрезки</target></trans-unit>
+      <trans-unit id="variable" xml:space="preserve" approved="yes">
+        <source>Variable:</source>
+      <target state="translated">Переменная:</target></trans-unit>
+      <trans-unit id="copyPaste" xml:space="preserve">
+        <source>(Now, copy/paste this value into the configuration file where you can set it. This is all you can do from here...)</source>
+      <target></target></trans-unit>
+      <trans-unit id="enterSearchPhrase" xml:space="preserve" approved="yes">
+        <source>Enter search phrase:</source>
+      <target state="translated">Введите искомую фразу:</target></trans-unit>
+      <trans-unit id="search" xml:space="preserve" approved="yes">
+        <source>Search</source>
+      <target state="translated">Поиск</target></trans-unit>
+      <trans-unit id="useRegExp" xml:space="preserve" approved="yes">
+        <source>Use regular expression</source>
+      <target state="translated">Использовать регулярное выражение</target></trans-unit>
+      <trans-unit id="writeValue" xml:space="preserve" approved="yes">
+        <source>Write value to configuration file</source>
+      <target state="translated">Записать значение в файл конфигурации</target></trans-unit>
+      <trans-unit id="writeMessage" xml:space="preserve">
+        <source>Following line was added to configuration file (%s): %s%s</source>
+      <target></target></trans-unit>
+      <trans-unit id="writeMessageFailed" xml:space="preserve" approved="yes">
+        <source>Write to configuration file failed (%s)!</source>
+      <target state="translated">Запись в файл конфигурации не удалось (%s)!</target></trans-unit>
+    </body>
+  </file>
+</xliff>

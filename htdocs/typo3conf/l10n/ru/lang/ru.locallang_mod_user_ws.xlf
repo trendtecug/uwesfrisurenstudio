@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T02:37:21Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="create_workspace_no_permission" approved="yes">
+				<source>You have no permission to create workspaces. Only admin users can create workspaces.</source>
+				<target state="translated">У вас нет допуска к созданию рабочей области. Только администраторы могут создавать рабочие области.</target>
+			</trans-unit>
+			<trans-unit id="diff_no_diff" approved="yes">
+				<source>Do not show differences</source>
+				<target state="translated">Не показывать отличия</target>
+			</trans-unit>
+			<trans-unit id="diff_show_inline" approved="yes">
+				<source>Show differences inline</source>
+				<target state="translated">Отобразить отличия в тексте</target>
+			</trans-unit>
+			<trans-unit id="diff_show_popup" approved="yes">
+				<source>Show diff. popups (branches)</source>
+				<target state="translated">Отобразить отличия в новом окне</target>
+			</trans-unit>
+			<trans-unit id="diffview_cannot_find_records" approved="yes">
+				<source>ERROR: Records could strangely not be found!</source>
+				<target state="translated">ОШИБКА: записи странным образом не могут быть найдены!</target>
+			</trans-unit>
+			<trans-unit id="diffview_complete_match" approved="yes">
+				<source>Complete match on editable fields.</source>
+				<target state="translated">Полное соответствие редактируемых полей.</target>
+			</trans-unit>
+			<trans-unit id="diffview_label_colored_diff_view" approved="yes">
+				<source>Colored diff-view:</source>
+				<target state="translated">Показать различия цветом:</target>
+			</trans-unit>
+			<trans-unit id="diffview_label_field_name" approved="yes">
+				<source>Fieldname:</source>
+				<target state="translated">Название поля:</target>
+			</trans-unit>
+			<trans-unit id="do_not_interrupt_publishing_1" approved="yes">
+				<source>Do not interrupt publishing process or</source>
+				<target state="translated">Не прерывайте процесс публикации! Иначе</target>
+			</trans-unit>
+			<trans-unit id="do_not_interrupt_publishing_2" approved="yes">
+				<source>workspace may be left in half-published state!</source>
+				<target state="translated">рабочая область может остаться в недоопубликованном состоянии!</target>
+			</trans-unit>
+			<trans-unit id="edit_workspace_go_back" approved="yes">
+				<source>Go back</source>
+				<target state="translated">Вернуться</target>
+			</trans-unit>
+			<trans-unit id="edit_workspace_no_permission" approved="yes">
+				<source>You have no permission to edit this workspace. Only admin users or owners of the workspace can modify its parameters.</source>
+				<target state="translated">У вас нет допуска к редактировании этой рабочей области. Только администраторы и владельцы рабочей области могут изменить ее параметры.</target>
+			</trans-unit>
+			<trans-unit id="edit_workspace_title_edit" approved="yes">
+				<source>Edit workspace</source>
+				<target state="translated">Редактировать рабочую область</target>
+			</trans-unit>
+			<trans-unit id="edit_workspace_title_new" approved="yes">
+				<source>Create new workspace</source>
+				<target state="translated">Создать новую рабочую область</target>
+			</trans-unit>
+			<trans-unit id="explain_reject" approved="yes">
+				<source>Please explain why you reject:</source>
+				<target state="translated">Причина отклонения:</target>
+			</trans-unit>
+			<trans-unit id="filter_all" approved="yes">
+				<source>All</source>
+				<target state="translated">Все</target>
+			</trans-unit>
+			<trans-unit id="filter_archive" approved="yes">
+				<source>Archive</source>
+				<target state="translated">Архив</target>
+			</trans-unit>
+			<trans-unit id="filter_drafts" approved="yes">
+				<source>Drafts</source>
+				<target state="translated">Черновики</target>
+			</trans-unit>
+			<trans-unit id="img_title_create_new_workspace" approved="yes">
+				<source>Create new workspace</source>
+				<target state="translated">Создать новую рабочую область</target>
+			</trans-unit>
+			<trans-unit id="img_title_current_workspace" approved="yes">
+				<source>This is a current workspace!</source>
+				<target state="translated">Это текущая рабочая область!</target>
+			</trans-unit>
+			<trans-unit id="img_title_edit_element" approved="yes">
+				<source>Edit element</source>
+				<target state="translated">Редактировать элемент</target>
+			</trans-unit>
+			<trans-unit id="img_title_edit_page" approved="yes">
+				<source>Edit page</source>
+				<target state="translated">Редактировать страницу</target>
+			</trans-unit>
+			<trans-unit id="img_title_publish" approved="yes">
+				<source>Publish</source>
+				<target state="translated">Публиковать</target>
+			</trans-unit>
+			<trans-unit id="img_title_remove_from_ws" approved="yes">
+				<source>Remove from workspace?</source>
+				<target state="translated">Удалить из рабочей области?</target>
+			</trans-unit>
+			<trans-unit id="img_title_show_log" approved="yes">
+				<source>Show Log</source>
+				<target state="translated">Показать журнал</target>
+			</trans-unit>
+			<trans-unit id="img_title_show_more" approved="yes">
+				<source>Show more</source>
+				<target state="translated">Показать больше</target>
+			</trans-unit>
+			<trans-unit id="img_title_swap" approved="yes">
+				<source>Swap</source>
+				<target state="translated">Поменять</target>
+			</trans-unit>
+			<trans-unit id="label_access_level" approved="yes">
+				<source>Access level:</source>
+				<target state="translated">Уровень доступа:</target>
+			</trans-unit>
+			<trans-unit id="label_allWSes" approved="yes">
+				<source>All workspaces</source>
+				<target state="translated">Все рабочие области</target>
+			</trans-unit>
+			<trans-unit id="label_approveforpublishing" approved="yes">
+				<source>Approve for publishing</source>
+				<target state="translated">Одобрить для публикации</target>
+			</trans-unit>
+			<trans-unit id="label_branch" approved="yes">
+				<source>Branch</source>
+				<target state="translated">Ветвь дерева страниц</target>
+			</trans-unit>
+			<trans-unit id="label_commentforpublisher" approved="yes">
+				<source>Comment for Publisher:</source>
+				<target state="translated">Комментарий издателю:</target>
+			</trans-unit>
+			<trans-unit id="label_commentforreviewer" approved="yes">
+				<source>Comment for Reviewer:</source>
+				<target state="translated">Комментарий рецензенту:</target>
+			</trans-unit>
+			<trans-unit id="label_deletedrecord" approved="yes">
+				<source>Deleted element</source>
+				<target state="translated">Удалённый элемент</target>
+			</trans-unit>
+			<trans-unit id="label_description" approved="yes">
+				<source>Description:</source>
+				<target state="translated">Описание:</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_default" approved="yes">
+				<source>Do:</source>
+				<target state="translated">Сделать:</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_flush" approved="yes">
+				<source>Flush ALL changes/versions</source>
+				<target state="translated">Сброс ВСЕХ изменений/версий</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_publish" approved="yes">
+				<source>Publish</source>
+				<target state="translated">Опубликовать</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_release" approved="yes">
+				<source>Remove this version</source>
+				<target state="translated">Удалить эту версию</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_stage_editing" approved="yes">
+				<source>Send to stage: Editing</source>
+				<target state="translated">Переместить на стадию: Редактирование</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_stage_publish" approved="yes">
+				<source>Send to stage: Publish</source>
+				<target state="translated">Переместить на стадию: Публикация</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_stage_reject" approved="yes">
+				<source>Reject changes</source>
+				<target state="translated">Отклонить изменения</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_stage_review" approved="yes">
+				<source>Send to stage: Review</source>
+				<target state="translated">Переместить на стадию: Рассмотрение</target>
+			</trans-unit>
+			<trans-unit id="label_doaction_swap" approved="yes">
+				<source>Swap</source>
+				<target state="translated">Обменять</target>
+			</trans-unit>
+			<trans-unit id="label_draft_versions" approved="yes">
+				<source>Workspace Versions:</source>
+				<target state="translated">Черновые версии:</target>
+			</trans-unit>
+			<trans-unit id="label_element" approved="yes">
+				<source>Element</source>
+				<target state="translated">Элемент</target>
+			</trans-unit>
+			<trans-unit id="label_errors" approved="yes">
+				<source>Errors:</source>
+				<target state="translated">Ошибки:</target>
+			</trans-unit>
+			<trans-unit id="label_lifecycle" approved="yes">
+				<source>Lifecycle:</source>
+				<target state="translated">Жизненный цикл:</target>
+			</trans-unit>
+			<trans-unit id="label_live_version" approved="yes">
+				<source>Live Version:</source>
+				<target state="translated">Чистовая версия:</target>
+			</trans-unit>
+			<trans-unit id="label_moveto_placeholder" approved="yes">
+				<source>Move-to placeholder (destination)</source>
+				<target state="translated">Отправить по месту (адресат)</target>
+			</trans-unit>
+			<trans-unit id="label_moveto_pointer" approved="yes">
+				<source>Move-to pointer (source)</source>
+				<target state="translated">Отправить к указателю (источник)</target>
+			</trans-unit>
+			<trans-unit id="label_multipleversions" approved="yes">
+				<source>Multiple versions in same workspace!</source>
+				<target state="translated">Несколько версий в одной рабочей области!</target>
+			</trans-unit>
+			<trans-unit id="label_nestedversions" approved="yes">
+				<source>Version inside version!</source>
+				<target state="translated">Версия внутри версии!</target>
+			</trans-unit>
+			<trans-unit id="label_newrecord" approved="yes">
+				<source>New element</source>
+				<target state="translated">Новый элемент</target>
+			</trans-unit>
+			<trans-unit id="label_notapplicable" approved="yes">
+				<source>n/a</source>
+				<target state="translated">не применимо</target>
+			</trans-unit>
+			<trans-unit id="label_offlineWSes" approved="yes">
+				<source>Draft workspaces</source>
+				<target state="translated">Черновые рабочие области</target>
+			</trans-unit>
+			<trans-unit id="label_onlymychanges" approved="yes">
+				<source>Show only my changes</source>
+				<target state="translated">Показать только мои изменения</target>
+			</trans-unit>
+			<trans-unit id="label_options" approved="yes">
+				<source>Options:</source>
+				<target state="translated">Свойства:</target>
+			</trans-unit>
+			<trans-unit id="label_otherversions" approved="yes">
+				<source>Other version(s) in workspace(s):</source>
+				<target state="translated">Другая(ие) версия(и) в рабочей(их) области(ях)</target>
+			</trans-unit>
+			<trans-unit id="label_page" approved="yes">
+				<source>Page</source>
+				<target state="translated">Страница</target>
+			</trans-unit>
+			<trans-unit id="label_pagetree" approved="yes">
+				<source>Pagetree:</source>
+				<target state="translated">Дерево страниц:</target>
+			</trans-unit>
+			<trans-unit id="label_percentchange" approved="yes">
+				<source>%%% change:</source>
+				<target state="translated">%%% обмен:</target>
+			</trans-unit>
+			<trans-unit id="label_percentChange" approved="yes">
+				<source>%d%% change:</source>
+				<target state="translated">%d%% обмен:</target>
+			</trans-unit>
+			<trans-unit id="label_publish" approved="yes">
+				<source>Publish:</source>
+				<target state="translated">Публиковать:</target>
+			</trans-unit>
+			<trans-unit id="label_reject" approved="yes">
+				<source>Reject</source>
+				<target state="translated">Отклонить</target>
+			</trans-unit>
+			<trans-unit id="label_rejected" approved="yes">
+				<source>Rejected</source>
+				<target state="translated">Отклонено</target>
+			</trans-unit>
+			<trans-unit id="label_resetstage" approved="yes">
+				<source>Reset stage</source>
+				<target state="translated">Сбросить стадию</target>
+			</trans-unit>
+			<trans-unit id="label_review" approved="yes">
+				<source>Review</source>
+				<target state="translated">Рассмотреть</target>
+			</trans-unit>
+			<trans-unit id="label_sendtoreview" approved="yes">
+				<source>Send to review</source>
+				<target state="translated">Отправить на рассмотрение</target>
+			</trans-unit>
+			<trans-unit id="label_showsubelements" approved="yes">
+				<source>Show sub elements</source>
+				<target state="translated">Показать под-элементы</target>
+			</trans-unit>
+			<trans-unit id="label_stage" approved="yes">
+				<source>Stage:</source>
+				<target state="translated">Стадия:</target>
+			</trans-unit>
+			<trans-unit id="label_status" approved="yes">
+				<source>Status:</source>
+				<target state="translated">Статус:</target>
+			</trans-unit>
+			<trans-unit id="label_subelements" approved="yes">
+				<source>Sub elements</source>
+				<target state="translated">Подэлементы</target>
+			</trans-unit>
+			<trans-unit id="label_subelementsdetails" approved="yes">
+				<source>Sub elements, click for details</source>
+				<target state="translated">Подэлементы, нажмите, чтобы узнать больше</target>
+			</trans-unit>
+			<trans-unit id="label_undefined" approved="yes">
+				<source>Undefined</source>
+				<target state="translated">Не определено</target>
+			</trans-unit>
+			<trans-unit id="label_workspace" approved="yes">
+				<source>Workspace:</source>
+				<target state="translated">Рабочая область:</target>
+			</trans-unit>
+			<trans-unit id="link_text_create_new_workspace" approved="yes">
+				<source>Create new workspace</source>
+				<target state="translated">Создать новую рабочую область</target>
+			</trans-unit>
+			<trans-unit id="menuitem_review" approved="yes">
+				<source>Review and Publish</source>
+				<target state="translated">Рецензия и публикация</target>
+			</trans-unit>
+			<trans-unit id="menuitem_workspaces" approved="yes">
+				<source>Workspace List</source>
+				<target state="translated">Список рабочих областей</target>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tabdescr" approved="yes">
+				<source>Workspace overview showing the changes you have made in the workspace. Here you can also publish the changes to the website if you are allowed to do that.</source>
+				<target state="translated">Обзор рабочих областей, отображающий изменения, сделанные в рабочей области. Здесь можно публиковать изменения на сайте, если имеются соответствующие права.</target>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tablabel" approved="yes">
+				<source>Workspace overview</source>
+				<target state="translated">Обзор рабочих областей</target>
+			</trans-unit>
+			<trans-unit id="mlang_tabs_tab" approved="yes">
+				<source>Workspace</source>
+				<target state="translated">Рабочая область</target>
+			</trans-unit>
+			<trans-unit id="no_publish_permission" approved="yes">
+				<source>You are not permitted to publish from this workspace</source>
+				<target state="translated">Вам не разрешено публиковать эту рабочую область</target>
+			</trans-unit>
+			<trans-unit id="please_wait" approved="yes">
+				<source>Please, wait...</source>
+				<target state="translated">Пожалуйста, подождите...</target>
+			</trans-unit>
+			<trans-unit id="publish_prepare" approved="yes">
+				<source>TYPO3 is preparing to publish records.</source>
+				<target state="translated">TYPO3 готовится к публикации записей</target>
+			</trans-unit>
+			<trans-unit id="publish_status" approved="yes">
+				<source>Published records &lt;strong&gt;%d&lt;/strong&gt; to &lt;strong&gt;%d&lt;/strong&gt; of &lt;strong&gt;%d&lt;/strong&gt;.</source>
+				<target state="translated">Опубликованы записи &lt;strong&gt;%d&lt;/strong&gt;-&lt;strong&gt;%d&lt;/strong&gt; из &lt;strong&gt;%d&lt;/strong&gt;.</target>
+			</trans-unit>
+			<trans-unit id="publish_title" approved="yes">
+				<source>Publish workspace</source>
+				<target state="translated">Опубликовать рабочую область</target>
+			</trans-unit>
+			<trans-unit id="remove_from_ws_confirmation" approved="yes">
+				<source>Remove from workspace?</source>
+				<target state="translated">Удалить из рабочей области?</target>
+			</trans-unit>
+			<trans-unit id="return_to_index" approved="yes">
+				<source>Return to Workspace module</source>
+				<target state="translated">Вернуться в модуль рабочих областей</target>
+			</trans-unit>
+			<trans-unit id="stage_approved_for_publish" approved="yes">
+				<source>"%s" approved for "Publish"</source>
+				<target state="translated">"%s" утвердил для "Публикации"</target>
+			</trans-unit>
+			<trans-unit id="stage_editing" approved="yes">
+				<source>Editing</source>
+				<target state="translated">Редактирование</target>
+			</trans-unit>
+			<trans-unit id="stage_label_user_comment" approved="yes">
+				<source>User Comment:</source>
+				<target state="translated">Комментарий пользователя:</target>
+			</trans-unit>
+			<trans-unit id="stage_publish" approved="yes">
+				<source>Publish</source>
+				<target state="translated">Публикация</target>
+			</trans-unit>
+			<trans-unit id="stage_rejected" approved="yes">
+				<source>"%s" rejected element!</source>
+				<target state="translated">"%s" отклонил элемент!</target>
+			</trans-unit>
+			<trans-unit id="stage_reset_to_editing" approved="yes">
+				<source>"%s" reset to "Editing"</source>
+				<target state="translated">"%s" вернул в "Публикацию"</target>
+			</trans-unit>
+			<trans-unit id="stage_review" approved="yes">
+				<source>Review</source>
+				<target state="translated">Рассмотрение</target>
+			</trans-unit>
+			<trans-unit id="stage_sent_to_review" approved="yes">
+				<source>"%s" sent element to "Review"</source>
+				<target state="translated">"%s" послал элемент на "Рецензию"</target>
+			</trans-unit>
+			<trans-unit id="stage_undefined" approved="yes">
+				<source>[undefined]</source>
+				<target state="translated">[не определено]</target>
+			</trans-unit>
+			<trans-unit id="submit_apply_action_on_selected_elements" approved="yes">
+				<source>Sure you want to perform this action with selected elements?</source>
+				<target state="translated">Подтверждаете выполнение этого действие с выбранными элементами?</target>
+			</trans-unit>
+			<trans-unit id="submit_publish_workspace" approved="yes">
+				<source>Publish workspace</source>
+				<target state="translated">Опубликовать рабочую область</target>
+			</trans-unit>
+			<trans-unit id="submit_publish_workspace_confirmation_1" approved="yes">
+				<source>Are you sure you want to publish all content in "Publish" stage from the workspace?</source>
+				<target state="translated">Действительно опубликовать все содержимое в чистовую рабочую область?</target>
+			</trans-unit>
+			<trans-unit id="submit_publish_workspace_confirmation_2" approved="yes">
+				<source>Are you sure you want to publish all content from the workspace?</source>
+				<target state="translated">Действительно опубликовать все содержимое из этой рабочей области?</target>
+			</trans-unit>
+			<trans-unit id="submit_swap_workspace" approved="yes">
+				<source>Swap workspace</source>
+				<target state="translated">Обменять рабочую область</target>
+			</trans-unit>
+			<trans-unit id="submit_swap_workspace_confirmation_1" approved="yes">
+				<source>Are you sure you want to publish (swap) all content in "Publish" stage from the workspace?</source>
+				<target state="translated">Действительно опубликовать (поменять) все содержимое из рабочей области в стадию "публикации"?</target>
+			</trans-unit>
+			<trans-unit id="submit_swap_workspace_confirmation_2" approved="yes">
+				<source>Are you sure you want to publish (swap) all content from the workspace?</source>
+				<target state="translated">Действительно опубликовать (поменять) все содержимое рабочей области?</target>
+			</trans-unit>
+			<trans-unit id="swap_prepare" approved="yes">
+				<source>TYPO3 is preparing to swap records.</source>
+				<target state="translated">TYPO3 готовится к обмену записей</target>
+			</trans-unit>
+			<trans-unit id="swap_status" approved="yes">
+				<source>Swapped records &lt;strong&gt;%d&lt;/strong&gt; to &lt;strong&gt;%d&lt;/strong&gt; of &lt;strong&gt;%d&lt;/strong&gt;.</source>
+				<target state="translated">Обменяны записи &lt;strong&gt;%d&lt;/strong&gt;-&lt;strong&gt;%d&lt;/strong&gt; из &lt;strong&gt;%d&lt;/strong&gt;.</target>
+			</trans-unit>
+			<trans-unit id="swap_title" approved="yes">
+				<source>Swap workspace</source>
+				<target state="translated">Обменять рабочую область</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Workspace Manager</source>
+				<target state="translated">Управление рабочими областями</target>
+			</trans-unit>
+			<trans-unit id="workspace_description_draft" approved="yes">
+				<source>In the Draft workspace all changes will be made as new versions of the live content. Changes can be previewed, reviewed and eventually published live.</source>
+				<target state="translated">В черновой рабочей области все изменения являются новыми версиями чистового содержимого.</target>
+			</trans-unit>
+			<trans-unit id="workspace_description_live" approved="yes">
+				<source>The LIVE workspace allows changes to take effect immediately on the website. However versioning can be applied inside the live workspace and this overview shows you draft and archive versions from the various workspaces, including the LIVE workspace.</source>
+				<target state="translated">Оперативная рабочая область позволяет публиковать изменения непосредственно на сайте. Тем не менее, версионный контроль может быть применен в чистовой рабочей области, тогда здесь будут показаны черновые и архивные версии различных рабочих областей, включая чистовую рабочую область.</target>
+			</trans-unit>
+			<trans-unit id="workspace_description_no_access" approved="yes">
+				<source>You have no access to any workspace which might be an error. Please contact you administrator!</source>
+				<target state="translated">Вы не имеете доступа к любой из рабочих области, возможно это ошибка. Обратитесь к администратору!</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_access_admin" approved="yes">
+				<source>Admin</source>
+				<target state="translated">Администратор</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_access_admins_only" approved="yes">
+				<source>Admins only</source>
+				<target state="translated">Только администраторы</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_access_anyone" approved="yes">
+				<source>no restrictions</source>
+				<target state="translated">без ограничений</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_access_member" approved="yes">
+				<source>Member</source>
+				<target state="translated">Член</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_access_offline" approved="yes">
+				<source>Offline</source>
+				<target state="translated">офлайн</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_access_online" approved="yes">
+				<source>Online</source>
+				<target state="translated">онлайн</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_access_owner" approved="yes">
+				<source>Owner</source>
+				<target state="translated">Владелец</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_access_reviewer" approved="yes">
+				<source>Reviewer</source>
+				<target state="translated">Рецензент</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_db_mount_point_custom" approved="yes">
+				<source>Mount points from user profile are used.</source>
+				<target state="translated">Использована стартовая точка из профиля пользователя.</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_db_mount_point_draft" approved="yes">
+				<source>Mount points from user profile are used.</source>
+				<target state="translated">Использована стартовая точка из профиля пользователя.</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_db_mount_point_live" approved="yes">
+				<source>Mount points from user profile are used.</source>
+				<target state="translated">Использована стартовая точка из профиля пользователя.</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_file_mount_point_custom" approved="yes">
+				<source>File mount points are not defined for this workspace. Therefore no file mount points available in the workspace.</source>
+				<target state="translated">Стартовая точка не определена для этой рабочей области.</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_file_mount_point_draft" approved="yes">
+				<source>File mount points are not available in draft workspace.</source>
+				<target state="translated">Стартовая точка в структуре файлов не доступна в черновой рабочей области.</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_file_mount_point_live" approved="yes">
+				<source>Mount points from user profile are used.</source>
+				<target state="translated">Использована стартовая точка из профиля пользователя.</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_icon_title_edit_workspace" approved="yes">
+				<source>Edit workspace</source>
+				<target state="translated">Редактировать рабочую область</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_icon_title_switch_workspace" approved="yes">
+				<source>Switch workspace</source>
+				<target state="translated">Поменять рабочую область</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_current_workspace" approved="yes">
+				<source>Current:</source>
+				<target state="translated">Текущая:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_db_mountpoints" approved="yes">
+				<source>Database mountpoints:</source>
+				<target state="translated">Стартовая точка в дереве страниц:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_file_mountpoints" approved="yes">
+				<source>File mountpoints:</source>
+				<target state="translated">Стартовая точка в структуре файлов:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_frozen" approved="yes">
+				<source>Frozen:</source>
+				<target state="translated">Заморожено:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_frozen_no" approved="yes">
+				<source>No</source>
+				<target state="translated">Нет</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_frozen_yes" approved="yes">
+				<source>Yes</source>
+				<target state="translated">Да</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_members" approved="yes">
+				<source>Members:</source>
+				<target state="translated">Члены:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_owners" approved="yes">
+				<source>Owners:</source>
+				<target state="translated">Владельцы:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_publish_date" approved="yes">
+				<source>Publish date:</source>
+				<target state="translated">Дата публикации:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_reviewers" approved="yes">
+				<source>Reviewers:</source>
+				<target state="translated">Рецензенты:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_unpublish_date" approved="yes">
+				<source>Unpublish date:</source>
+				<target state="translated">Дата снятия с сайта:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_workspace_description" approved="yes">
+				<source>Description:</source>
+				<target state="translated">Описание:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_workspace_title" approved="yes">
+				<source>Title:</source>
+				<target state="translated">Название:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_workspace_users" approved="yes">
+				<source>Workspace users:</source>
+				<target state="translated">Пользователи рабочей области:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_label_your_access" approved="yes">
+				<source>Your access:</source>
+				<target state="translated">Ваш допуск:</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_mount_point_inaccessible" approved="yes">
+				<source>This mount point is defined for workspace but not accessible to you. If you need access to this mount point, ask your system administrator to give you access to it.</source>
+				<target state="translated">Стартовая точка рабочей области недоступна для вас. Если нужен допуск к этой стартовой точке, обратитесь к администратору с просьбой на получение допуска.</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_publishing_count" approved="yes">
+				<source>Published %d times</source>
+				<target state="translated">Опубликовано %d раз</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_publishing_count_archive" approved="yes">
+				<source>Archive</source>
+				<target state="translated">Архив</target>
+			</trans-unit>
+			<trans-unit id="workspace_list_publishing_count_draft" approved="yes">
+				<source>Draft</source>
+				<target state="translated">Черновик</target>
+			</trans-unit>
+			<trans-unit id="workspace_published" approved="yes">
+				<source>Workspace has been published.</source>
+				<target state="translated">Рабочая область опубликована</target>
+			</trans-unit>
+			<trans-unit id="workspace_swapped" approved="yes">
+				<source>Workspace has been swapped.</source>
+				<target state="translated">Рабочая область обменена</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

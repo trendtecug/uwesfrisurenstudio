@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:01:51Z" product-name="linkvalidator">
+		<header/>
+		<body>
+			<trans-unit id="mlang_labels_tabdescr">
+				<source>Checks the links in your website for validity.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Verifica la validità dei collegamenti nel tuo sito web</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tablabel">
+				<source>Validates links</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Convalida i collegamenti</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="mlang_tabs_tab">
+				<source>Check Links</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Verifica collegamenti</target>
+				</alt-trans>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

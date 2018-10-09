@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="sys_filemounts.tabs.staging">Staging</label>
+			<label index="sys_workspace.custom_stages">Stage Custom:</label>
+			<label index="sys_workspace.edit_allow_notificaton_settings">Consentire impostazioni di notifica durante il cambiamento di stage tornando a Modifica</label>
+			<label index="sys_workspace.edit_notification_defaults">Stage Modifica: destinatari di default delle e-mail di notifica</label>
+			<label index="sys_workspace.edit_notification_mode">Stage Modifica: checkbox suggerimenti al destinatario</label>
+			<label index="sys_workspace.notification_mode.0">Tutti sono selezionati di default (può essere modificato)</label>
+			<label index="sys_workspace.notification_mode.1">Alcuni sono selezionati di default (i default non possono essere deselezionati)</label>
+			<label index="sys_workspace.notification_mode.2">Tutti sono selezionati di default (non può essere modificato)</label>
+			<label index="sys_workspace.publish_allow_notificaton_settings">Consentire impostazioni di notifica durante il cambiamento di stage a Pronto per la pubblicazione</label>
+			<label index="sys_workspace.publish_notification_defaults">Stage Pronto per la pubblicazione: destinatari di default delle e-mail di notifica</label>
+			<label index="sys_workspace.publish_notification_mode">Stage Pronto per la pubblicazione: checkbox suggerimenti al destinatario</label>
+			<label index="sys_workspace_stage">Workspace Stage</label>
+			<label index="sys_workspace_stage.allow_notificaton_settings">Consentire impostazioni di notifica durante il cambiamento di stage</label>
+			<label index="sys_workspace_stage.default_mailcomment">Mail di commento (default):</label>
+			<label index="sys_workspace_stage.notification_defaults">Destinatari di default delle e-mail di notifica</label>
+			<label index="sys_workspace_stage.notification_mode">Checkbox suggerimenti al destinatario</label>
+			<label index="sys_workspace_stage.parentid">UID del record di appartenenza:</label>
+			<label index="sys_workspace_stage.parenttable">Tabella di appartenenza:</label>
+			<label index="sys_workspace_stage.responsible_persons">Persone responsabili:</label>
+			<label index="tabs.general">Generale</label>
+			<label index="tabs.notification_settings">Impostazioni di notifica</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

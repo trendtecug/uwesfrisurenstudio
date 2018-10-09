@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="mlang_labels_tabdescr">Ce module permet de créer et d'éditer les pages web. Ce module présente aussi les statistiques pour chaque page. De plus, vous pouvez gérer plusieurs langues et colonnes pour le contenu de la page. Finalement, vous pouvez accéder à certains contenus spéciaux tels que des forums et des produits.</label>
+			<label index="mlang_labels_tablabel">Contenu de la page</label>
+			<label index="mlang_tabs_tab">Page</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

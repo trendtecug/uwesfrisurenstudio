@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T00:55:30Z" product-name="css_styled_content">
+		<header/>
+		<body>
+			<trans-unit id="tt_content.tx_cssstyledcontent_acctables" approved="yes">
+				<source>Accessibility</source>
+				<target state="translated">Accessibilité</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_acctables_caption" approved="yes">
+				<source>Table Caption</source>
+				<target state="translated">Légende du table</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_acctables_headerpos" approved="yes">
+				<source>Table Header Position</source>
+				<target state="translated">Position de l'en-tête du tableau</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_acctables_headerpos.I.0" approved="yes">
+				<source>No header</source>
+				<target state="translated">Pas d'en-tête</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_acctables_headerpos.I.1" approved="yes">
+				<source>Top</source>
+				<target state="translated">Haut</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_acctables_headerpos.I.2" approved="yes">
+				<source>Left</source>
+				<target state="translated">Gauche</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_acctables_nostyles" approved="yes">
+				<source>No CSS styles for this table</source>
+				<target state="translated">Pas de styles CSS pour ce tableau</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_acctables_summary" approved="yes">
+				<source>Table Summary</source>
+				<target state="translated">Résumé du tableau</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_acctables_tableclass" approved="yes">
+				<source>Additional CSS Class</source>
+				<target state="translated">Classe CSS supplémentaire</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_acctables_tfoot" approved="yes">
+				<source>Use Table Footer (wrap last row with &lt;tfoot&gt; tags)</source>
+				<target state="translated">Utiliser les pieds du tableau (enveloppé la dernière ligne avec une balise &lt;tfoot&gt;)</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_section_frame.I.0" approved="yes">
+				<source>Default Frame</source>
+				<target state="translated">Cadre par défaut</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_section_frame.I.9" approved="yes">
+				<source>No Frame</source>
+				<target state="translated">Pas de cadre</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_tableparsing" approved="yes">
+				<source>CSV parsing</source>
+				<target state="translated">Analyse CSV</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_tableparsing_delimiter" approved="yes">
+				<source>Field Delimiter</source>
+				<target state="translated">Délimiteur de champs</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_tableparsing_delimiter_colon" approved="yes">
+				<source>: (Colon)</source>
+				<target state="translated">: (Deux points)</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_tableparsing_delimiter_comma" approved="yes">
+				<source>, (Comma)</source>
+				<target state="translated">, (Virgule)</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_tableparsing_delimiter_pipe" approved="yes">
+				<source>| (Pipe)</source>
+				<target state="translated">| (Barre vertical)</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_tableparsing_delimiter_semicolon" approved="yes">
+				<source>; (Semicolon)</source>
+				<target state="translated">; (Point virgule)</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_tableparsing_delimiter_tab" approved="yes">
+				<source>⇥ (Tab)</source>
+				<target state="translated">⇥ (Tabulation)</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_tableparsing_quote" approved="yes">
+				<source>Text Delimiter</source>
+				<target state="translated">Délimiteur de texte</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_tableparsing_quote_double" approved="yes">
+				<source>" (Double quotes)</source>
+				<target state="translated">" (Guillemet double)</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_tableparsing_quote_none" approved="yes">
+				<source>None</source>
+				<target state="translated">Aucun</target>
+			</trans-unit>
+			<trans-unit id="tt_content.tx_cssstyledcontent_tableparsing_quote_single" approved="yes">
+				<source>' (Single quotes)</source>
+				<target state="translated">' (Guillemet simple)</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

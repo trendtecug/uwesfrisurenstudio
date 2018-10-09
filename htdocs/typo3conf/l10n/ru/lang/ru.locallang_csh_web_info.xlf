@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T02:37:41Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id=".alttitle" approved="yes">
+				<source>Web &gt; Info module</source>
+				<target state="translated">Модуль Веб &gt; Инфо</target>
+			</trans-unit>
+			<trans-unit id=".description" approved="yes">
+				<source>The idea of the Web&gt;Info module is to be a host module for backend applications that wish to present information / analysis of pages or branches of the page tree. This could be website statistics, caching status information etc.</source>
+				<target state="translated">Модуль Веб &gt; Инфо — это информационный модуль для внутренних приложений, которые могут предоставлять в нем информацию / анализ страниц или ветвей в дереве страниц. Это может быть статистика сайта, статус кеширования информации и т.п.</target>
+			</trans-unit>
+			<trans-unit id=".details" approved="yes">
+				<source>Conceptually the Web&gt;Info module is different from the Web&gt;Functions module only by primarily showing information rather than offering functionality. It is up to extension programmers to decide in which of these two modules they want to insert functionality.</source>
+				<target state="translated">Модуль Веб &gt; Инфо отличается от модуля Веб &gt; Функции тем, что он, по большей части, лишь показывает информацию, а не предлагает какую-либо функции. Поэтому, решение о том, какой модуль использовать для добавления функциональности остается за создателями расширений.</target>
+			</trans-unit>
+			<trans-unit id="_.image" approved="no">
+				<source>EXT:lang/Resources/Public/Images/cshimages/pagetree_overview_10.png</source>
+				<target state="needs-translation">EXT:lang/cshimages/pagetree_overview_10.png</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id=".image_descr" approved="yes">
+				<source>The Web&gt;Info module as provided by the core is an empty shell. It provides an API that extensions can use to attach function menu items to the Info module. Here you see the "Page TSconfig" overview from the extension "info_pagetsconfig".</source>
+				<target state="translated">Модуль Веб &gt; Инфо, в соответствии с ядром системы, является пустой оболочкой. Он предоставляет API (интерфейс), который могут использовать расширения, для добавления пунктов меню в функции модуля Инфо. Здесь представлен обзор "TSconfig страницы" из расширения "info_pagetsconfig".</target>
+			</trans-unit>
+			<trans-unit id="_.seeAlso" xml:space="preserve" approved="no">
+				<source>_MOD_web_func,
+More about Web&gt;Info module framework | https://docs.typo3.org/typo3cms/InsideTypo3Reference/CoreArchitecture/CoreModules/InfoModule/,</source>
+				<target state="needs-translation">_MOD_web_func,
+More about Web&gt;Info module framework | http://typo3.org/documentation/document-library/doc_core_inside/Info_module/,</target><note from="developer">A part of this string is an internal text, which must not be changed. Just copy this part into the translation field and do not change it. For more information have a look at the Tutorial.</note>
+			<note>A part of this string is an internal text, which must not be changed. Just copy this part into the translation field and do not change it. For more information have a look at the Tutorial.</note></trans-unit>
+		</body>
+	</file>
+</xliff>

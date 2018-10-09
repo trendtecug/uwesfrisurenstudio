@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="mlang_labels_tabdescr">Task Center dà l'accesso alla lista dei to-do, ai messaggi, alle note, alle azioni, etc. Vi dà inoltre accesso ai moduli frontend e alle pagine modificate recentemente. Task Center è il modulo in cui tenete traccia delle attività quotidiane e dei workflows.</label>
+			<label index="mlang_labels_tablabel">Task Center con visione d'insieme, messaggi, lista dei to-do</label>
+			<label index="mlang_tabs_tab">Task Center</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

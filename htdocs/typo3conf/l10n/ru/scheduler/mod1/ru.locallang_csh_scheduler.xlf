@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T04:16:08Z" product-name="scheduler">
+		<header/>
+		<body>
+			<trans-unit id=".alttitle" approved="yes">
+				<source>Scheduler</source>
+				<target state="translated">Планировщик</target>
+			</trans-unit>
+			<trans-unit id=".description" approved="yes">
+				<source>The Scheduler provides an interface to register and manage recurring or one-time tasks.</source>
+				<target state="translated">Интерфейс для регистрации и управления повторяющихся или единичных задач.</target>
+			</trans-unit>
+			<trans-unit id=".syntax" approved="yes">
+				<source>The Scheduler uses a single cron job to handle all registered tasks. It is thus very convenient as only one cron job needs to be set up and all task frequencies can be managed from the BE module.</source>
+				<target state="translated">Планировщик использует единственное cron задание для обработки всех зарегистрированных задач. Очень удобно установить единственное cron задание и управлять частотой выполнения всех задач из модуля внутреннего интерфейса.</target>
+			</trans-unit>
+			<trans-unit id="task_cachingFrameworkGarbageCollection_selectedBackends.alttitle" approved="yes">
+				<source>Select backends</source>
+				<target state="translated">Выбор внутренних интерфейсов</target>
+			</trans-unit>
+			<trans-unit id="task_cachingFrameworkGarbageCollection_selectedBackends.description" approved="yes">
+				<source>If a cache uses one of the selected backends, the garbage collection will be called for this cache.</source>
+				<target state="translated">Если кеширование использует один из выбранных интерфейсов, для него будет вызвана уборка мусора.</target>
+			</trans-unit>
+			<trans-unit id="task_class.alttitle" approved="yes">
+				<source>Class of the task</source>
+				<target state="translated">Класс задач</target>
+			</trans-unit>
+			<trans-unit id="task_class.description" approved="yes">
+				<source>Choose a class from the list of available tasks</source>
+				<target state="translated">Выберете класс из списка доступных задач</target>
+			</trans-unit>
+			<trans-unit id="task_class.details" approved="yes">
+				<source>Some tasks are provided by the TYPO3 Core itself. Others come from extensions. See the manual to learn how to create your own tasks and register them with the Scheduler.</source>
+				<target state="translated">Некоторые задачи определяются самим ядром TYPO3. Смотрите руководство, чтобы научиться создавать собственные задачи и регистрировать их в планировщике.</target>
+			</trans-unit>
+			<trans-unit id="task_disable.alttitle" approved="yes">
+				<source>Disable task</source>
+				<target state="translated">Отключение задач</target>
+			</trans-unit>
+			<trans-unit id="task_disable.description" approved="yes">
+				<source>Check this box to disable the automatic, scheduled execution of this task. It can still be launched manually from the BE module.</source>
+				<target state="translated">Включите этот флажок для отключения автоматического запланированного выполнения данной задачи. Ее все еще можно будет выполнить вручную из модуля внутреннего интерфейса.</target>
+			</trans-unit>
+			<trans-unit id="task_email.alttitle" approved="yes">
+				<source>Email address</source>
+				<target state="translated">Адрес email</target>
+			</trans-unit>
+			<trans-unit id="task_email.description" approved="yes">
+				<source>Enter a recipient for the mails sent by the test task</source>
+				<target state="translated">Введите адрес получателя письма, отосланного тестовой задачей</target>
+			</trans-unit>
+			<trans-unit id="task_end.alttitle" approved="yes">
+				<source>End of task</source>
+				<target state="translated">Окончание задачи</target>
+			</trans-unit>
+			<trans-unit id="task_end.description" approved="yes">
+				<source>Enter an end date and time for the task, can be blank</source>
+				<target state="translated">Введите дату и время для окончания выполнения задачи</target>
+			</trans-unit>
+			<trans-unit id="task_end.details" xml:space="preserve" approved="yes">
+				<source>Date must be entered in a standard format like HH:mm dd-mm-YYYY or YYYY-mm-dd HH:mm. Natural keywords can also be used, like "now" or "tomorrow".
+Date and time must correspond to the server's time zone.
+
+Can be left blank, if task is not supposed to end at any point.</source>
+			<target state="translated">Дата должна вводиться в стандартном формате, вроде ЧЧ:мм дд-мм-ГГГГ или ГГГГ-мм-дд ЧЧ:мм. Также можно использовать обычные слова, вроде "now" или "tomorrow". Дата и время должны соответствовать часовому поясу сервера. Можно оставить пустым, если задача не имеет срока окончания.</target></trans-unit>
+			<trans-unit id="task_frequency.alttitle" approved="yes">
+				<source>Frequency of task</source>
+				<target state="translated">Частота повторения задачи</target>
+			</trans-unit>
+			<trans-unit id="task_frequency.description" approved="yes">
+				<source>Enter a frequency, either in seconds or using a cron-like syntax (minutes, hours, day of month, months and day of week)</source>
+				<target state="translated">Введите частоту повторения задачи в секундах или используйте cron-подобный синтаксис (минуты, часы, день месяца, месяц и день недели)</target>
+			</trans-unit>
+			<trans-unit id="task_frequency.details" xml:space="preserve" approved="yes">
+				<source>The frequency of the task can be simply entered as a number of seconds.
+
+Alternatively it is possible to use the same syntax as for cron jobs. This is simply a list of five numbers or the wildcard "*", separated by blanks. The five numbers are (in order) minutes, hours, day of month, months and day of week. Examples:
+
+*/5 * * * * means every 5 minutes
+30 22 * * * means every day at 22:30
+
+The Scheduler supports the full cron syntax.</source>
+			<target state="translated">Частота задачи может быть введена, как количество секунд. 
+
+В качестве альтернативы можно использовать синтаксис для ввода заданий cron. Это просто список из пяти чисел или шаблона "*", через пробел. Эти пять чисел (по порядку) – минуты, часы, день месяца и день недели. Примеры: 
+
+*/5 * * * * значит, каждые 5 минут 
+30 22 * * * значит, каждый день, в 22:30
+
+Планировщик поддерживает полный синтаксис cron.</target></trans-unit>
+			<trans-unit id="task_frequency.seeAlso" approved="yes">
+				<source>Wikipedia reference|http://en.wikipedia.org/wiki/Cron</source>
+				<target state="translated">Ссылка на википедию|http://ru.wikipedia.org/wiki/Cron</target>
+			</trans-unit>
+			<trans-unit id="task_multiple.alttitle" approved="yes">
+				<source>Multiple executions</source>
+				<target state="translated">Множественное исполнение</target>
+			</trans-unit>
+			<trans-unit id="task_multiple.description" approved="yes">
+				<source>Choose whether a task can be running several times simultaneously or not</source>
+				<target state="translated">Выберете, может ли задача выполняться несколько раз одновременно или нет</target>
+			</trans-unit>
+			<trans-unit id="task_recyclerGarbageCollection_numberOfDays.alttitle" approved="yes">
+				<source>Number of days</source>
+				<target state="translated">Количество дней</target>
+			</trans-unit>
+			<trans-unit id="task_recyclerGarbageCollection_numberOfDays.description" approved="yes">
+				<source>Delete files in _recycler_ folders that are older than the given number of days.</source>
+				<target state="translated">Удалить файлы в папках _recycler_, которые старше указанного количества дней.</target>
+			</trans-unit>
+			<trans-unit id="task_sleepTime.alttitle" approved="yes">
+				<source>Sleep time</source>
+				<target state="translated">Время отсрочки</target>
+			</trans-unit>
+			<trans-unit id="task_sleepTime.description" approved="yes">
+				<source>Enter a number of seconds during which the task will just sleep.</source>
+				<target state="translated">Введите количество секунд, на которые будет отсрочено выполнение задачи.</target>
+			</trans-unit>
+			<trans-unit id="task_start.alttitle" approved="yes">
+				<source>Start of task</source>
+				<target state="translated">Начало задачи</target>
+			</trans-unit>
+			<trans-unit id="task_start.description" approved="yes">
+				<source>Enter a start date and time for the task</source>
+				<target state="translated">Введите начальную дату и время для задачи</target>
+			</trans-unit>
+			<trans-unit id="task_start.details" xml:space="preserve" approved="yes">
+				<source>Date must be entered in a standard format like HH:mm dd-mm-YYYY or YYYY-mm-dd HH:mm. Natural keywords can also be used, like "now" or "tomorrow".
+Date and time must correspond to the server's time zone.</source>
+			<target state="translated">Дата должна вводиться в стандартном формате, вроде ЧЧ:мм дд-мм-ГГГГ или ГГГГ-мм-дд ЧЧ:мм. Также можно использовать обычные слова, вроде "now" или "tomorrow". Дата и время должны соответствовать часовому поясу сервера.</target></trans-unit>
+			<trans-unit id="task_tableGarbageCollection_allTables.alttitle" approved="yes">
+				<source>Clean up all tables</source>
+				<target state="translated">Очистить все таблицы</target>
+			</trans-unit>
+			<trans-unit id="task_tableGarbageCollection_allTables.description" approved="yes">
+				<source>If selected, all configured tables are cleaned. The selection below is ignored.</source>
+				<target state="translated">При выборе, очищаются все настроенные таблицы. Выбранное ниже игнорируется.</target>
+			</trans-unit>
+			<trans-unit id="task_tableGarbageCollection_numberOfDays.alttitle" approved="yes">
+				<source>Number of days</source>
+				<target state="translated">Количество дней</target>
+			</trans-unit>
+			<trans-unit id="task_tableGarbageCollection_numberOfDays.description" approved="yes">
+				<source>Delete rows from selected table that are older than given number of days.</source>
+				<target state="translated">Удаление записей из выбранных таблиц, которые старше заданного количества дней.</target>
+			</trans-unit>
+			<trans-unit id="task_tableGarbageCollection_table.alttitle" approved="yes">
+				<source>Select table</source>
+				<target state="translated">Выберите таблицу</target>
+			</trans-unit>
+			<trans-unit id="task_tableGarbageCollection_table.description" approved="yes">
+				<source>Select one of the registered tables to be cleaned up with this task.</source>
+				<target state="translated">Выберите одну из зарегистрированных таблиц, для очистки в процессе выполнения задачи.</target>
+			</trans-unit>
+			<trans-unit id="task_type.alttitle" approved="yes">
+				<source>Type of task</source>
+				<target state="translated">Тип задачи</target>
+			</trans-unit>
+			<trans-unit id="task_type.description" approved="yes">
+				<source>Choose whether the task must happen a single time or will be repeated</source>
+				<target state="translated">Выберете, должна ли задача выполняться один раз или повторяться</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

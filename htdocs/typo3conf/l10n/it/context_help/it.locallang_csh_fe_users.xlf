@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-30T00:42:55Z" product-name="context_help">
+		<header/>
+		<body>
+			<trans-unit id="address.description" approved="yes">
+				<source>Enter the street address of the user.</source>
+				<target state="translated">Digita l'indirizzo stradale dell'utente.</target>
+			</trans-unit>
+			<trans-unit id="company.description" approved="yes">
+				<source>Enter the name of the company in which the user is employed.</source>
+				<target state="translated">Digita il nome dela Azienda presso la quale l'utente è impiegato.</target>
+			</trans-unit>
+			<trans-unit id=".description" approved="yes">
+				<source>A website login user.</source>
+				<target state="translated">Sito web di login per l'utente.</target>
+			</trans-unit>
+			<trans-unit id=".details" approved="yes">
+				<source>These are users with a username and password who are allowed specific access to otherwise restricted areas on your website.</source>
+				<target state="translated">Questi sono utenti con uno username e password che sono autorizzata ad accessi specifici ad aree protette del tuo sito.</target>
+			</trans-unit>
+			<trans-unit id="disable.description" approved="yes">
+				<source>This option will temporarily disable the user from logging in.</source>
+				<target state="translated">Questa opzione disabiliterà temporaneamente il login dell'utente.</target>
+			</trans-unit>
+			<trans-unit id="_disable.seeAlso">
+				<source>fe_users:starttime,fe_users:endtime</source>
+				<target/>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="endtime.description" approved="yes">
+				<source>Enter the date from which the account is disabled.</source>
+				<target state="translated">Inserisci la data dopo la quale l'account sarà disabilitato.</target>
+			</trans-unit>
+			<trans-unit id="_endtime.seeAlso">
+				<source>fe_users:disable,fe_users:starttime</source>
+				<target/>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="endtime.syntax" approved="yes">
+				<source>See "Start"</source>
+				<target state="translated">Vedi "Inizio"</target>
+			</trans-unit>
+			<trans-unit id="_.image" xml:space="preserve">
+				<source>EXT:context_help/Resources/Public/Images/cshimages/feusers_1.png,
+EXT:context_help/Resources/Public/Images/cshimages/feusers_2.png,</source>
+				<target/><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id=".image_descr" xml:space="preserve">
+				<source>Part of the form for editing a frontend user.
+A typical login box (standard) on the website where frontend users can login.</source>
+			<target/></trans-unit>
+			<trans-unit id="image.description" approved="yes">
+				<source>Insert a photo of the user.</source>
+				<target state="translated">Inserisci la foto dell'utente.</target>
+			</trans-unit>
+			<trans-unit id="lastlogin.description" approved="yes">
+				<source>This field shows the user's last log in date.</source>
+				<target state="translated">Questo campo mostra l'ultima data nella quale l'utente ha fatto login.</target>
+			</trans-unit>
+			<trans-unit id="lockToDomain.description" approved="yes">
+				<source>Enter the host name from which the user is forced to login.</source>
+				<target state="translated">Digita il nome dell'host dal quale l'utente sarà costretto a fare login.</target>
+			</trans-unit>
+			<trans-unit id="lockToDomain.details" approved="yes">
+				<source>A TYPO3 system may have multiple domains pointing to it. Therefore this option secures that users can login only from a certain host name.</source>
+				<target state="translated">Un sistema TYPO3 può avere più domini ai quali puntare. Pertanto questa opzione si assicura che gli utenti possano fare login solamente da un dato nome di host.</target>
+			</trans-unit>
+			<trans-unit id="_lockToDomain.seeAlso" approved="yes">
+				<source>fe_groups:lockToDomain</source>
+				<target state="translated">fe_groups:lockToDomain</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="lockToDomain.syntax" approved="yes">
+				<source>Either a domain name, "www.typo3.org" or an IP address, "10.34.222.83"</source>
+				<target state="translated">Indica nome di dominio, es. "www.typo3.com" e/o un indirizzo IP, es. "10.34.222.83"</target>
+			</trans-unit>
+			<trans-unit id="name.description">
+				<source>Enter the regular name of the user, both first- and surname.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="password.description" approved="yes">
+				<source>Enter the password for the username above. This is needed to login.</source>
+				<target state="translated">Digita la password per lo username sopra. E' necessaria per il login.</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Digita la password per lo username sopra. È necessaria per il login.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="password.syntax" approved="yes">
+				<source>A password is required and must be in lowercase without spaces in it.</source>
+				<target state="translated">La password è un dato obbligatorio e deve essere trascritta a caratteri minuscoli e non deve contenere spazi.</target>
+			</trans-unit>
+			<trans-unit id="_.seeAlso" xml:space="preserve">
+				<source>fe_groups
+be_users</source>
+			<target/></trans-unit>
+			<trans-unit id="starttime.description" approved="yes">
+				<source>Enter the date from which the account is active.</source>
+				<target state="translated">Inserisci la data di inizio attività del codice.</target>
+			</trans-unit>
+			<trans-unit id="_starttime.seeAlso">
+				<source>fe_users:disable,fe_users:endtime</source>
+				<target/>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="starttime.syntax" xml:space="preserve" approved="yes">
+				<source>The syntax is dd-mm-yy, but you can just enter a "d" in the field to insert todays date. Or "d+10" to insert the date 10 days from now etc.
+The field will re-format any input to fit the format it understands so you can just experiment and you will be able to clearly see how dates should be entered.</source>
+			<target state="translated">La sintassi è dd-mm-yy (giorno, mese e anno), ma tu puoi inserire anche "d" nel campo per inserire la data di oggi. Anche "d+10" per inserire la data del decimo giorno in avanti a partire da oggi, ecc. Il campo modificherà qualsiasi input affinchè corrisponda al formato; puoi modificare questo campo per comprendere le potenzialità e a titolo sperimentale finchè sarai in grado di impostare quello che ritieni utile al tuo caso.</target><alt-trans xml:space="preserve" origin="c_strizzolo"><target>La sintassi è dd-mm-yy (giorno, mese e anno), ma puoi inserire anche "d" nel campo per includere la data di oggi. Oppure "d+10" per inserire la data del decimo giorno in avanti a partire da oggi, ecc.
+Il campo modificherà qualsiasi input affinché corrisponda ad un formato che possa comprendere, di conseguenza puoi fare sperimentazioni in modo da vedere chiaramente come devono essere inserite le date.</target></alt-trans></trans-unit>
+			<trans-unit id="title.description" approved="yes">
+				<source>Enter the job title, eg. 'Director' or 'Accountant'.</source>
+				<target state="translated">Digita la qualifica dell'utente (es. Direttore, Ragioniere...).</target>
+			</trans-unit>
+			<trans-unit id="TSconfig.description" approved="yes">
+				<source>Enter additional TSconfig for the user (advanced).</source>
+				<target state="translated">Digita codice TSconfig addizionale per questo utente (funzione avanzata)</target>
+			</trans-unit>
+			<trans-unit id="TSconfig.details" xml:space="preserve">
+				<source>This field allows you to enter TypoScript style configuration values for the user. Currently there are no system defined keys. If there ever will be, they will be described in detail in the administrative documentation.
+
+The primary use of this field (as well as the 'sister'-field in the Website usergroup table) is for custom purposes. In this case, you should use the root-key "user" for your customly defined values. Thus you don't risk any future system keys to interfere with your configuration.
+
+You access the values of the configuration from your frontend plugins by calling the function &lt;em&gt;$GLOBALS["TSFE"]-&gt;fe_user-&gt;getUserTSconf()&lt;/em&gt; which will return an array with the valuetree in it.
+
+&lt;b&gt;Warning:&lt;/b&gt; You should use Website user/group TSconfig in your PHP-scripts ONLY if your resulting content is NOT being cached! So call it from TypoScript USER_INT cObjects or disable caching from your PHP-code by calling &lt;em&gt;$GLOBALS["TSFE"]-&gt;set_no_cache();&lt;/em&gt;
+
+&lt;b&gt;TSconfig from Website usergroups:&lt;/b&gt;
+Notice that the configuration from the field TSconfig in the member groups of the user is accumulated and prepended to the TSconfig of the user before it's parsed. This means for instance that a key defined in the TSconfig of the user (this field) will override the same key defined in the last (bottom) usergroup in the list which will again override the same key defined in the first (top) usergroup in the list.
+
+&lt;b&gt;Example:&lt;/b&gt;
+Let's imagine you want to define for a user that his name is printed in the bottom of the webpages when he is logged in. First of all you must write a PHP-function and insert the result from it as a USER_INT cObject in the bottom of the page. But your function needs to know, whether or not this user is configured to have his name printed. So you decide to use a custom TSconfig key, 'user.printUserName':
+
+&lt;em&gt;In the TSconfig field of the user or usergroup:&lt;/em&gt;
+
+user.printUserName = 1
+
+
+&lt;em&gt;In your PHP-function:&lt;/em&gt;
+
+$userTSConfig = $GLOBALS["TSFE"]-&gt;fe_user-&gt;getUserTSconf();
+if ($userTSConfig["user."]["printUserName"]) {
+return $GLOBALS["TSFE"]-&gt;fe_user-&gt;user["name"];
+}</source>
+			<target/></trans-unit>
+			<trans-unit id="_TSconfig.seeAlso" xml:space="preserve">
+				<source>TSconfig for TSFE | https://docs.typo3.org/typo3cms/TSconfigReference/PageTsconfig/TCEmain/
+pages:TSconfig,
+fe_groups:TSconfig,
+be_users:TSconfig,
+be_groups:TSconfig</source>
+			<target/></trans-unit>
+			<trans-unit id="TSconfig.syntax">
+				<source>TypoScript syntax, without conditions and constants.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="usergroup.description" approved="yes">
+				<source>Select a user group for the username.</source>
+				<target state="translated">Seleziona un gruppo da associare allo username.</target>
+			</trans-unit>
+			<trans-unit id="usergroup.details" approved="yes">
+				<source>When a user logs in he is able to view all content which is access restricted to the user &lt;em&gt;group(s)&lt;/em&gt; the user is a member of. Therefore the user login primarily makes sense with regard to the member groups.</source>
+				<target state="translated">Quando un utente fa login potrà vedere tutti i contenuti conformemente alle restrizioni applicate al &lt;em&gt;gruppo(i)&lt;/em&gt; di appartenenza. Pertanto fare login per l'utente ha senso esclusivamente se appartiene ad uno o più gruppi.</target>
+			</trans-unit>
+			<trans-unit id="username.description" approved="yes">
+				<source>Enter the username of the website user. This is needed to login.</source>
+				<target state="translated">Digitare lo username dell'utente del sito web. Questo dato è necessario per effettuare il login.</target>
+			</trans-unit>
+			<trans-unit id="_username.seeAlso" approved="no">
+				<source>Creating Frontend Users and Groups | https://docs.typo3.org/typo3cms/GettingStartedTutorial/EditAndCreatePagesAndContent/CreateUsersGroups/</source>
+				<target state="needs-translation">Per la crezione di Gruppi e Utenti di Frontend | http://typo3.org/documentation/document-library/doc_tut_quickstart/Create_users_group/</target>
+			</trans-unit>
+			<trans-unit id="username.syntax" approved="yes">
+				<source>A username is required and must be in lowercase without spaces in it. The username must be unique among other usernames in the page where it's saved. If it is not unique a number will be prepended automatically.</source>
+				<target state="translated">Lo username è obbigatorio e deve essere digitato in caratteri minuscoli; non deve contenere spazi; deve essere un dato unico tra tutti gli altri nomi utenti presenti nella pagina dove viene salvato. Se non è unico sarà creato con l'anteposizione di n numero.</target>
+			</trans-unit>
+			<trans-unit id="www.description" approved="yes">
+				<source>Enter the homepage URL</source>
+				<target state="translated">Digita la pagina principale dell'utente (URL)</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

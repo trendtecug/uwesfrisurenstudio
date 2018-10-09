@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="tx_wizardsortpages.alttitle">Мастер сортировки страниц</label>
+			<label index="tx_wizardsortpages.description"/>
+			<label index="tx_wizardsortpages.details"/>
+			<label index="_tx_wizardsortpages.image">EXT:wizard_sortpages/cshimages/wizards_1.png</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

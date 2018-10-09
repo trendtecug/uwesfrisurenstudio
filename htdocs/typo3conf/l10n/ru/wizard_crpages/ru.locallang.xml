@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="wiz_crMany">Создать несколько страниц</label>
+			<label index="wiz_newPages">Создать новые страницы</label>
+			<label index="wiz_newPages_addMoreLines">Добавить строки</label>
+			<label index="wiz_newPages_create">Страницы созданы!</label>
+			<label index="wiz_newPages_currentMenu">Новая структура страниц</label>
+			<label index="wiz_newPages_errorMsg1">Вы не имеете права создавать новые подстраницы этой страницы!</label>
+			<label index="wiz_newPages_hidePages">Скрыть новые страницы</label>
+			<label index="wiz_newPages_hidePagesInMenus">Скрыть новые страницы в меню</label>
+			<label index="wiz_newPages_lCreate">Создать страницы</label>
+			<label index="wiz_newPages_lCreate_msg1">Вы создаете большое количество новых страниц. Вы уверены, что хотите продолжить?</label>
+			<label index="wiz_newPages_listEnd">Поместить новые страницы после существующих</label>
+			<label index="wiz_newPages_lReset">Очистить поля</label>
+			<label index="wiz_newPages_noCreate">Страницы не созданы!</label>
+			<label index="wiz_newPages_page">Страница</label>
+			<label index="wiz_W">W!</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="beUser">$BE_USER-&gt;uc (пользовательские настройки)</label>
+			<label index="configuration">Настройка</label>
+			<label index="copyPaste">(На данный момент возможно лишь скопировать отсюда эти значения и вставить в файл для настроек...)</label>
+			<label index="cropLines">Перенос строк</label>
+			<label index="enterSearchPhrase">Введите искомую фразу:</label>
+			<label index="loadedExt">$TYPO3_LOADED_EXT (загруженные расширения)</label>
+			<label index="search">Поиск</label>
+			<label index="t3services">$T3_SERVICES (зарегистрированные службы)</label>
+			<label index="tbemodules">$TBE_MODULES (модули внутреннего интерфейса)</label>
+			<label index="tbemodulesext">$TBE_MODULES_EXT (расширения модулей внутреннего интерфейса)</label>
+			<label index="tbeStyles">$TBE_STYLES (стили оформления)</label>
+			<label index="tca">$TCA (область настройки таблиц)</label>
+			<label index="tcaDescr">$TCA_DESCR (описание таблицы справки)</label>
+			<label index="typo3ConfVars">$TYPO3_CONF_VARS (глобальная настройка)</label>
+			<label index="useRegExp">Фраза целиком</label>
+			<label index="usersettings">$TYPO3_USER_SETTINGS (настройки для пользователей)</label>
+			<label index="variable">Переменная:</label>
+			<label index="writeMessage">В файл настроек была добавлена следующая строка (%s): %s%s</label>
+			<label index="writeMessageFailed">Ошибка записи в файл настроек (%s)!</label>
+			<label index="writeValue">Записать значение в файл настроек</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

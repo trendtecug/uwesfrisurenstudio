@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+      <label index="menu.introduction">Введение</label>
+      <label index="menu.checkLinks">Проверка ссылок</label>
+      <label index="menu.overview">Обзор ссылок на сайте</label>
+      <label index="overview.header">Обзор – выберете параметры для проверки ссылок</label>
+      <label index="overview.all.header">Общее количество в tt_content</label>
+      <label index="overview.all.records">Записей с внешн. ссылками:</label>
+      <label index="overview.all.links">Внешние ссылки:</label>
+      <label index="overview.branch.header">Количество из фактической ветви в tt_content</label>
+      <label index="overview.branch.records">Записей с внешн. ссылками:</label>
+      <label index="overview.branch.links">Внешние ссылки:</label>
+      <label index="overview.attention.header">Внимание:</label>
+      <label index="overview.attention.text"/>
+      <label index="Report">Отчет</label>
+      <label index="CheckLink">Проверка ссылок</label>
+      <label index="report.statistics.header">Показать эти типы не работающих ссылок</label>
+      <label index="checklinks.statistics.header">Проверить эти виды не работающих ссылок</label>
+      <label index="report.func.title">Показать этот уровень</label>
+      <label index="checklinks.func.title">Проверить этот уровень</label>
+      <label index="overviews.nbtotal">Всего неработающих ссылок:</label>
+      <label index="hooks.db">Внутренние ссылки:</label>
+      <label index="hooks.file">Файловые ссылки:</label>
+      <label index="hooks.external">Внешние ссылки:</label>
+      <label index="hooks.linkhandler">Ссылки обработчика:</label>
+      <label index="label_refresh">Обновить</label>
+      <label index="label_update">Проверка ссылок</label>
+      <label index="list.header">Список неработающих ссылок</label>
+      <label index="list.tableHead.path">Путь</label>
+      <label index="list.tableHead.element">Элемент</label>
+      <label index="list.tableHead.headlink">Ссылка</label>
+      <label index="list.tableHead.linktarget">URL / цель ссылки</label>
+      <label index="list.tableHead.linkmessage">Сообщение об ошибке</label>
+      <label index="list.tableHead.lastCheck">Последняя проверка</label>
+      <label index="list.edit">Править элемент с этой неработающей ссылкой</label>
+      <label index="list.field">(Поле: %s)</label>
+      <label index="list.no.headline">нет заголовка</label>
+      <label index="list.report.pagedeleted">Страница '###title###' (###uid###) удалена.</label>
+      <label index="list.report.pagenotvisible">Страница '###title###' (###uid###) скрыта.</label>
+      <label index="list.report.pagenotexisting">Страница (###uid###) не существует.</label>
+      <label index="list.report.contentmoved"/>
+      <label index="list.report.contentdeleted">Элемент '###title###' (###uid###) удален.</label>
+      <label index="list.report.contentnotvisible">Элемент '###title###' (###uid###) скрыт.</label>
+      <label index="list.report.contentnotexisting">Элемент (###uid###) не существует.</label>
+      <label index="list.report.rowdeleted">###title### строка (###uid###) удалена.</label>
+      <label index="list.report.rowdeleted.default.title">Связанный</label>
+      <label index="list.report.rownotexisting">Строка (###uid###) не существует.</label>
+      <label index="list.report.noinformation">Недоступна информация об ошибке.</label>
+      <label index="list.report.noresponse">Внешняя ссылка недоступна.</label>
+      <label index="list.report.redirectloop">Цикличное перенаправление. (%s: %s)</label>
+      <label index="list.report.pageforbidden403">Нет доступа по этому адресу (403).</label>
+      <label index="list.report.pagenotfound404">Запрашиваемый url не найден (404).</label>
+      <label index="list.report.externalerror">Внешняя ссылка возвратила код ошибки HTTP (%s).</label>
+      <label index="list.report.filenotexisting">Файл не существует.</label>
+      <label index="list.report.timeout"/>
+      <label index="list.report.internalerror500">Внутренняя ошибка сервера (500)</label>
+      <label index="list.report.couldnotresolvehost">Невозможно разрешить хост. Заданный удаленный хост не разрешен.</label>
+      <label index="list.report.errornetworkdata">Ошибка с получением сетевых данных.</label>
+      <label index="list.report.otherhttpcode">Ошибка (%s): "%s".</label>
+      <label index="list.report.httpexception">Исключение: %s</label>
+      <label index="list.msg.ok">Ok</label>
+      <label index="list.msg.lastRun">%1$s %2$s</label>
+      <label index="list.no.broken.links.title">Нет неработающих ссылок!</label>
+      <label index="list.no.broken.links">Нет неработающих ссылок.</label>
+      <label index="no.access.title">Нет доступа!</label>
+      <label index="no.access">Нет разрешений для доступа к этому списку.</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

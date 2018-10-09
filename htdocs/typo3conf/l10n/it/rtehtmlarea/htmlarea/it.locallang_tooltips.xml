@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="about">Info su questo editor</label>
+			<label index="bold">Grassetto</label>
+			<label index="copy">Copia Selezione</label>
+			<label index="createlink">Inserisci Link</label>
+			<label index="cut">Taglia selezione</label>
+			<label index="fontname">Font</label>
+			<label index="fontsize">Dimensione Font</label>
+			<label index="forecolor">Colore Carattere</label>
+			<label index="formatblock">Tipo di paragrafo</label>
+			<label index="hilitecolor">Colore Background</label>
+			<label index="htmlmode">Visualizza Codice HTML</label>
+			<label index="indent">Aumenta Indentazione</label>
+			<label index="inserthorizontalrule">Linea Orizzontale</label>
+			<label index="insertimage">Inserisci/Modifica Immagine</label>
+			<label index="insertorderedlist">Lista numerata</label>
+			<label index="inserttable">Inserisci Tabella</label>
+			<label index="insertunorderedlist">Lista non numerata</label>
+			<label index="italic">Corsivo</label>
+			<label index="justifycenter">Giustificato al Centro</label>
+			<label index="justifyfull">Pienamente Giustificato</label>
+			<label index="justifyleft">Giustificato a Sinistra</label>
+			<label index="justifyright">Giustificato a Destra</label>
+			<label index="killword">Pulisci tag MSOffice</label>
+			<label index="lefttoright">Direzione da sinistra a destra</label>
+			<label index="outdent">Diminuisci Indentazione</label>
+			<label index="paste">Incolla dalla clipboard</label>
+			<label index="popupeditor">Ingrandisci Editor</label>
+			<label index="print">Stampa documento</label>
+			<label index="redo">Rifai l'ultima operazione</label>
+			<label index="removeformat">Rimuovi formattazione</label>
+			<label index="righttoleft">Direzione da destra e sinistra</label>
+			<label index="showhelp">Aiuto nell'utilizzo dell'editor</label>
+			<label index="strikethrough">Linea in mezzo al testo</label>
+			<label index="subscript">Indice posto in basso</label>
+			<label index="superscript">Indice posto in alto</label>
+			<label index="textindicator">Stile attuale</label>
+			<label index="underline">Sottolineatura</label>
+			<label index="undo">Annulla l'ultima operazione</label>
+			<label index="unlink">Rimuovi Link</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

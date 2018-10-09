@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T00:58:03Z" product-name="dbal">
+		<header/>
+		<body>
+			<trans-unit id="dbal.config.sql_query.passthrough" approved="yes">
+				<source>Enable MySQL pass-through: Method $GLOBALS['TYPO3_DB']-&gt;sql_query() is only experimentally supported by DBAL. Its use should be avoided. When active, this flag tells DBAL to not try to parse the query and always send it as-this to MySQL, thus as if DBAL were not loaded.</source>
+				<target state="translated">Включение сквозного My SQL: метод $GLOBALS['TYPO3_DB']-&gt;sql_query() поддерживается DBAL лишь в качестве эксперимента. Следует избегать его использования. При включении этот флаг инструктирует DBAL не пытаться анализировать запрос, а всегда отправлять его как есть в MySQL, как если бы DBAL не был загружен.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

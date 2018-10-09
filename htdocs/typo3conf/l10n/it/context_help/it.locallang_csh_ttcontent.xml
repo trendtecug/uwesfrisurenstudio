@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="bodytext.description">Inserisci il testo principale.</label>
+			<label index="bodytext.details"/>
+			<label index="_bodytext.seeAlso"/>
+			<label index="category_field.description"/>
+			<label index="category_field.details"/>
+			<label index="colPos.description"/>
+			<label index="colPos.details"/>
+			<label index="_colPos.seeAlso"/>
+			<label index="cols.description">Seleziona un numero fisso di colonne della tabella.</label>
+			<label index="CType.description">Seleziona il tipo di contenuto di pagina che l'elemento rappresenta. Nuove opzioni appariranno una volta memorizzato.</label>
+			<label index="CType.details"/>
+			<label index="_CType.image">EXT:context_help/cshimages/ttcontent_7.png</label>
+			<label index="_CType.seeAlso"/>
+			<label index="date.description">Inserisci una data da visualizzare sopra l'header</label>
+			<label index=".description">Tutto il contenuto visibile nelle pagine di TYPO3 è costituito tipicamente da records di "Contenuto di Pagina" ("Page Records"). Essi fanno tipicamente riferimento a "Elementi di contenuto". Spesso gli elementi di contenuto sono gestiti dal modulo "Pagina" che è stato progettato per gestire gli elementi di contenuto in colonne multiple e nelle varie lingue.</label>
+			<label index=".details">I records di "Contenuto di Pagina" sono disposti in un certo ordinee pertanto possono essere riposizionati. Nota anche che il selettore "Lingua" e "Colonna" dei records di "Contenuto di pagina" determina dove e in quale situazione deve apparire. Se tu non cambi il valore del selettore "Lingua" e "Colonne" sei maggiormente certo che l'elemento apparirà per default.</label>
+			<label index="endtime.description">Inserisci la data dalla quale l'elemento di contenuto sparirà dal sito.</label>
+			<label index="_endtime.seeAlso"/>
+			<label index="fe_group.description">Seleziona un gruppo del sito web che avrà accesso esclusivo per vedere l'elemento.</label>
+			<label index="fe_group.details"/>
+			<label index="_fe_group.seeAlso"/>
+			<label index="filelink_size.description">Seleziona se vuoi visualizzare le dimensioni del file.</label>
+			<label index="header.description"/>
+			<label index="header.details"/>
+			<label index="_header.image">EXT:context_help/cshimages/ttcontent_7.png</label>
+			<label index="header_layout.description">Seleziona un formato per l'header.</label>
+			<label index="header_layout.details"/>
+			<label index="_header_layout.seeAlso">tt_content:pages</label>
+			<label index="header_link.description"/>
+			<label index="_header_link.seeAlso">tt_content:pages</label>
+			<label index="header_link.syntax"/>
+			<label index="header_position.description">Posiziona l'header a sinistra, in centro o a destra.</label>
+			<label index="_header_position.seeAlso">tt_content:pages</label>
+			<label index="_header.seeAlso"/>
+			<label index="hidden.description">Scegli questa opzione se desideri nascondere l'elemento di contenuto in modo che non sia visualizzato.</label>
+			<label index="_hidden.seeAlso"/>
+			<label index="_.image"/>
+			<label index="imageborder.description">Seleziona questo se vuoi un bordo colorato intorno alle immagini.</label>
+			<label index="_imageborder.seeAlso">tt_content:imagecols,
+tt_content:image</label>
+			<label index="imagecaption.description">Inserisci una didascalia per l'immagine</label>
+			<label index="imagecaption.details"/>
+			<label index="imagecaption_position.description">Posiziona la didascalia a sinistra, in centro o a destra.</label>
+			<label index="_imagecaption_position.seeAlso">tt_content:imagecaption,
+tt_content:image</label>
+			<label index="_imagecaption.seeAlso">tt_content:imagecaption_position,
+tt_content:image</label>
+			<label index="imagecols.description">Seleziona il numero di colonne per il blocco immagini</label>
+			<label index="_imagecols.seeAlso">tt_content:image_noRows,
+tt_content:image</label>
+			<label index="image_compression.description">Seleziona le opzioni per la compressione/qualità</label>
+			<label index="_image_compression.seeAlso">tt_content:image_frames,
+tt_content:image_effects,
+tt_content:image</label>
+			<label index=".image_descr">Il modulo Pagina è usato per gestire gli elementi di Contenuto effettivamente come essi appaiono disposti nelle varie colonne e lingue. Un elemento di contenuto ha numerose opzioni e modalità di modifica. "Tipo" determina quale opzioni sono visibili. Nel frontend -- in una pagina web - un elemento di Contenuto come quello sopra potrebbe apparire allo stesso modo.</label>
+			<label index="image.description">Inserisce una o più immagini.</label>
+			<label index="image.details"/>
+			<label index="image_effects.description"/>
+			<label index="_image_effects.seeAlso">tt_content:image_compression,
+tt_content:image_frames,
+tt_content:image</label>
+			<label index="image_frames.description"/>
+			<label index="_image_frames.seeAlso">tt_content:image_compression,
+tt_content:image_effects,
+tt_content:image</label>
+			<label index="imageheight.description">Inserisci l'altezza in pixel dell'immagine.</label>
+			<label index="_imageheight.seeAlso">tt_content:imagewidth,
+tt_content:image</label>
+			<label index="_image.image">EXT:context_help/cshimages/ttcontent_7.png</label>
+			<label index="image.image_descr"/>
+			<label index="image_link.description">Inserisci un link per le immagini.</label>
+			<label index="image_link.details">Per default tutte le immagini condividono lo stesso link. Tuttavia è possibile configurare il template Typoscript per consentire l'utilizzo di un link separato per ogni immagine. In questo caso i valori dei link vanno separati con una virgola. 
+
+Vedi Page content &gt; Link per maggiori informazioni circa  questa sintassi.</label>
+			<label index="_image_link.seeAlso">tt_content:header_link,
+tt_content:image_zoom,
+tt_content:image</label>
+			<label index="image_noRows.description"/>
+			<label index="image_noRows.details"/>
+			<label index="_image_noRows.seeAlso">tt_content:imagecols,
+tt_content:image</label>
+			<label index="imageorient.description">Seleziona la posizione delle immagini in relazione al testo principale.</label>
+			<label index="imageorient.details"/>
+			<label index="_image.seeAlso"/>
+			<label index="imagewidth.description">Inserisce la larghezza in pixel dell'immagine.</label>
+			<label index="imagewidth.details"/>
+			<label index="_imagewidth.seeAlso">tt_content:imageheight,
+tt_content:image</label>
+			<label index="image_zoom.description">Selezionando questa opzione, cliccando sulle immagini si aprirà una nuova finestra con l'iimagine in dimensioni maggiori.</label>
+			<label index="image_zoom.details">Questa opzione sovrascrive il valore nel campo Link</label>
+			<label index="_image_zoom.seeAlso">tt_content:image_link,
+tt_content:image</label>
+			<label index="layout.description">Seleziona un layout</label>
+			<label index="layout.details"/>
+			<label index="linkToTop.description">Se selezionato un breve link 'Torna su' sarà inserito dopo un contenuto di elemento.</label>
+			<label index="list_type.description">Seleziona un plugin da inserire.</label>
+			<label index="list_type.details">La lista dei plugin che puoi inserire in una pagina. I plugin disponibili dipendono da quali estensioni sono al momento installate.</label>
+			<label index="_list_type.image">EXT:context_help/cshimages/ttcontent_7.png</label>
+			<label index="_list_type.seeAlso">_MOD_tools_em</label>
+			<label index="media.description">Aggiungi files alla lista</label>
+			<label index="menu_type.description">Seleziona il tipo di menù che vuoi creare.</label>
+			<label index="menu_type.details"/>
+			<label index="_menu_type.seeAlso">tt_content:pages,
+tt_content:sectionIndex</label>
+			<label index="multimedia.description">Inserisci un contenuto multimediale, ad es. un filmato in flash</label>
+			<label index="pages.description">Inserisci pagina(e)</label>
+			<label index="pages.details"/>
+			<label index="_pages.seeAlso">tt_content:CType,
+tt_content:recursive</label>
+			<label index="pi_flexform.description">Configurazione dei Plugins via FlexForm</label>
+			<label index="pi_flexform.details">Alcuni plugin potrebbero richiedere una configurazione per le loro opzioni .E' possibile utilizzare questo campo per le loro impostazioni di configurazione basate su FlexForm (salvate come XML)</label>
+			<label index="_pi_flexform.seeAlso">tt_content:list_type</label>
+			<label index="records.description">Inserisci relazioni ai records.</label>
+			<label index="recursive.description">Scegli quanti sottolivelli dovrebbero essere selezionati in aggiunta ad ogni pagina elencata.</label>
+			<label index="recursive.details"/>
+			<label index="_recursive.seeAlso">tt_content:pages</label>
+			<label index="rte_enabled.description">Se selezionato, l' Editor di Testo Avanzato (RTE) sarà disabilitato per i tipi di contenuto "Testo" e "Testo con Immagini" (&lt;em&gt;solo per questo elemento&lt;/em&gt;)</label>
+			<label index="_rte_enabled.seeAlso">tt_content:bodytext</label>
+			<label index="section_frame.description">Seleziona un'opzione di cornice per l'elemento di contenuto.</label>
+			<label index="_section_frame.seeAlso">tt_content:spaceAfter,
+tt_content:section_frame</label>
+			<label index="sectionIndex.description">Se configurato, l'elemento di contennuto apparirà negli indici di sezione.</label>
+			<label index="sectionIndex.details"/>
+			<label index="_sectionIndex.seeAlso">tt_content:list_type</label>
+			<label index="_.seeAlso"/>
+			<label index="selected_categories.description"/>
+			<label index="select_key.description">Inserisci una stringa codice.</label>
+			<label index="select_key.details">Se il contenuto di questo campo è usato o meno e come è interpretato varia in funzione del contesto. Al momento è considerato superato.</label>
+			<label index="_select_key.seeAlso">tt_content:list_type</label>
+			<label index="spaceAfter.description">Digita l'ammontare di spazio (in pixel) da inserire &lt;em&gt;dopo&lt;/em&gt; l'elemento di contenuto.</label>
+			<label index="_spaceAfter.seeAlso">tt_content:spaceBefore,
+tt_content:section_frame</label>
+			<label index="spaceBefore.description">Digita l'ammontare di spazio (in pixel) da inserire &lt;em&gt;prima&lt;/em&gt; dell'elemento di contenuto.</label>
+			<label index="_spaceBefore.seeAlso">tt_content:spaceAfter,
+tt_content:section_frame</label>
+			<label index="splash_layout.description">Seleziona il formato del box di testo.</label>
+			<label index="splash_layout.details"/>
+			<label index="_splash_layout.seeAlso"/>
+			<label index="starttime.description">Inserisci la data dalla quale l'elemento di contenuto sarà visibile.</label>
+			<label index="_starttime.seeAlso"/>
+			<label index="subheader.description">Inserire una sottotestata (subheader). Questa viene visualizzata sotto il titolo di testa. Se il tipo di contenuto e' "Form" il campo sarà l'email del destinatario.</label>
+			<label index="subheader.details"/>
+			<label index="_subheader.seeAlso"/>
+			<label index="sys_language_uid.description">Seleziona il linguaggio di sistema per questo elemento. &lt;strong&gt;Attenzione&lt;/strong&gt; questa opzione influenza la visibilità dell'elemento.</label>
+			<label index="sys_language_uid.details"/>
+			<label index="_sys_language_uid.seeAlso"/>
+			<label index="table_bgColor.description">Seleziona il colore di sfondo della tabella.</label>
+			<label index="table_border.description">Seleziona lo spessore dei bordi della tabella.</label>
+			<label index="table_cellpadding.description">Seleziona il cell padding della tabella.</label>
+			<label index="table_cellpadding.details">Il Padding della cella (Cell Padding) è una sorta di margine interno di una cella di una tabella. La distanza è uniformementte applicata in tutte le direzioni: sopra, sotto, sinistra e destra.</label>
+			<label index="table_cellspacing.description">Seleziona il cell spacing della tabella.</label>
+			<label index="table_cellspacing.details">Lo spazio della cella è la distanza tra le celle di tabella disposte in righe e colonne. La distanza è applicata uniformemente in tutte le direzioni: sopra, sotto, sinistra e destra.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

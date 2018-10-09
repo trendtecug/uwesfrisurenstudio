@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="className">Classe</label>
+			<label index="editElement">Editer l'élément</label>
+			<label index="events">Evénements</label>
+			<label index="general">Général</label>
+			<label index="id">Id</label>
+			<label index="identification">Identification</label>
+			<label index="onclick">Onclick</label>
+			<label index="ondblclick">Ondblclick</label>
+			<label index="onkeydown">Onkeydown</label>
+			<label index="onkeypress">Onkeypress</label>
+			<label index="onkeyup">Onkeyup</label>
+			<label index="onmousedown">Onmousedown</label>
+			<label index="onmousemove">Onmousemove</label>
+			<label index="onmouseout">Onmouseout</label>
+			<label index="onmouseover">Onmouseover</label>
+			<label index="onmouseup">Onmouseup</label>
+			<label index="title">Titre</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

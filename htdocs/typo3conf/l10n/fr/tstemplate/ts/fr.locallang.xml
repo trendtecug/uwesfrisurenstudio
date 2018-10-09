@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="areYouSure">Êtes-vous sûr de vouloir faire ça ?</label>
+			<label index="constantEditor">Éditeur de constantes</label>
+			<label index="createTemplate">Créer d'abord un enregistrement de gabarit avant d'éditer les constantes !</label>
+			<label index="createTemplateToEditConfiguration">Vous devez créer un enregistrement de gabarit ci-dessous avant d'éditer votre configuration.</label>
+			<label index="extTemplate">Crée un gabarit extension</label>
+			<label index="extTemplateAction">Cliquez ici pour créer un gabarit extension</label>
+			<label index="extTemplateDescription">Un gabarit extension vous permet d'entrer des valeurs TypoScript qui affecteront seulement cette page et les sous-pages.</label>
+			<label index="goToClosest">Allez à la page la plus proche contenant un gabarit</label>
+			<label index="goToClosestAction">Cliquez ici pour y aller.</label>
+			<label index="goToClosestDescription">Le gabarit le plus proche est à la page '%s' (uid %s).</label>
+			<label index="infoModify">Informations/Modifications</label>
+			<label index="isExt">Ext ?</label>
+			<label index="isRoot">Racine ?</label>
+			<label index="moduleTitle">Outils de gabarit</label>
+			<label index="newWebsite">Créer un nouveau site</label>
+			<label index="newWebsiteAction">Crée un gabarit pour un nouveau site</label>
+			<label index="newWebsiteDescription">Si vous voulez que cette page soit la racine d'un nouveau site, éventuellement basé sur un gabarit standard, alors cliquez sur le bouton ci-dessous :</label>
+			<label index="noTemplate">Pas de gabarit</label>
+			<label index="noTemplateDescription">Il n'y a pas de gabarit pour cette page !</label>
+			<label index="objectBrowser">Navigateur d'objets TypoScript</label>
+			<label index="overview">Ceci est un aperçu des pages de la base de données contenant un ou plusieurs enregistrements de gabarit. Cliquez sur un titre de page pour aller à cette page.</label>
+			<label index="pageName">Nom de la page</label>
+			<label index="templateAnalyzer">Analyseur de gabarit</label>
+			<label index="templates"># Gabarits</label>
+			<label index="titleNewSite">NOUVEAU SITE</label>
+			<label index="titleNewSiteStandard">NOUVEAU SITE, basé sur un standard</label>
+			<label index="viewTemplates">Voir les gabarits de</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

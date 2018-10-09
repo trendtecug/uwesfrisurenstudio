@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="editThisColumn">Editer le fichier '%s' pour toutes les pages listées</label>
+			<label index="editTSconfig">Editer la configuration TS</label>
+			<label index="editTSconfig_all">Editer les configurations TS des pages séléctionnées</label>
+			<label index="editTSconfig_default">Configuration par défaut depuis TYPO3_CONF_VARS</label>
+			<label index="mod_pagetsconfig">Configuration TS de la page</label>
+			<label index="sort_alphabetic">Classer par ordre alphabétique</label>
+			<label index="tsconf_configFields">Afficher les configurations TS</label>
+			<label index="tsconf_parts_0">Tout</label>
+			<label index="tsconf_parts_1">Module ('mod') droit prioritaire sur les paramètres utilisateurs</label>
+			<label index="tsconf_parts_1a">Module: Web&gt;Page</label>
+			<label index="tsconf_parts_1b">Module: Web&gt;Vue</label>
+			<label index="tsconf_parts_1c">Module: Web&gt;Modules</label>
+			<label index="tsconf_parts_1d">Module: Web&gt;Liste</label>
+			<label index="tsconf_parts_1e">Module: Web&gt;Info</label>
+			<label index="tsconf_parts_1f">Module: Web&gt;Fonctions</label>
+			<label index="tsconf_parts_1g">Module: Web&gt;Gabarit</label>
+			<label index="tsconf_title">Page TSconfig</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

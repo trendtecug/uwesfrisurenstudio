@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallangExt>
+	<data type="array">
+		<languageKey index="nl" type="array">
+			<label index="details">specificaties</label>
+			<label index="vacantDay">vrije Dag</label>
+			<label index="vacant weekend">vrij weekeind</label>
+			<label index="bookedDay">geboekte dag</label>
+			<label index="booked weekend">geboekt weekeinde</label>
+			<label index="Jan">januari</label>
+			<label index="Feb">februari</label>
+			<label index="Mar">maart</label>
+			<label index="Apr">april</label>
+			<label index="May">mei</label>
+			<label index="Jun">juni</label>
+			<label index="Jul">juli</label>
+			<label index="Aug">augustus</label>
+			<label index="Sep">september</label>
+			<label index="Oct">oktober</label>
+			<label index="Nov">november</label>
+			<label index="Dec">december</label>
+			<label index="Sat">Z</label>
+			<label index="Sun">Z</label>
+			<label index="Mon">M</label>
+			<label index="Tue">D</label>
+			<label index="Wed">W</label>
+			<label index="Thu">D</label>
+			<label index="Fri">V</label>
+			<label index="availableFlats">beschikbare Appartementen</label>
+			<label index="edit booking">wijzig boeking</label>
+			<label index="bookingDataOf">Boekingsdatum vanaf</label>
+			<label index="date from">van</label>
+			<label index="date to">tot</label>
+			<label index="insert booking">Nieuwe boeking</label>
+			<label index="insert flat">voeg appartement toe</label>
+			<label index="insert room">voeg kamer toe</label>
+			<label index="delete this booking record">verwijder deze boeking</label>
+			<label index="to the bookings">naar de boekingen</label>
+			<label index="save record">bewaar boeking</label>
+			<label index="edit record">wijzig boeking</label>
+			<label index="rebook record">herboek boeking</label>
+			<label index="delete record">verwijder boeking</label>
+			<label index="backToTheFlats">terug naar appartementen</label>
+			<label index="availabilityCheck">beschikbaarheidscontrole</label>
+			<label index="startOfBooking">aankomst</label>
+			<label index="endOfBooking">vertrek</label>
+			<label index="allFlatCategories">alle categorien</label>
+			<label index="flatCategory">categorie</label>
+			<label index="availableFlatsHeader">beschikbare appartementen gedurende </label>
+			<label index="availableFrom">van</label>
+			<label index="availableTo">tot</label>
+			<label index="booked from">geboekt van:</label>
+			<label index="no available flat">geen beschikbare appartementen in de gewenste periode</label>
+			<label index="nextVacantPeriod">volgende beschikbare periode</label>
+			<label index="foreignFlats">beschikbaar op andere sites</label>
+			<label index="availableFlat">beschikbare appartementen</label>
+			<label index="availableForeignFlat">beschikbare externe appartementen</label>
+			<label index="available rooms">beschikbare kamers</label>
+			<label index="nextForeignVacantPeriod">volgende beschikbare externe periode</label>
+			<label index="deleteFlatConfirmation">verwijder de appartement data</label>
+			<label index="deleteRoomConfirmation">verwijder de data</label>
+			<label index="deleteBookingConfirmation">verwijder de data van het boekingsformulier</label>
+			<label index="overbooked">overgeboekt</label>
+			<label index="bookingCalendar">boekingskalender</label>
+			<label index="booking request">boekingsaanvraag</label>
+			<label index="utilisation calendar">geboekte kalender</label>
+			<label index="allFlats">alle appartementen</label>
+			<label index="toggle additional fields">switch extra velden</label>
+			<label index="customerNumber">klantnummer</label>
+			<label index="grownups">aantal volwassenen</label>
+			<label index="childs">aantal kinderen</label>
+			<label index="memo">memo</label>
+			<label index="agent">agent</label>
+			<label index="newBookingHeader">voeg nieuwe boeking in </label>
+			<label index="newBookingInserted">nieuwe boeking ingevoegd</label>
+			<label index="bookingRecordDeleted">boeking is verwijderd</label>
+			<label index="category">categorie</label>
+			<label index="bookedBy">geboekt van</label>
+			<label index="flatCapacity">capaciteit (personen)</label>
+			<label index="roomCapacity">capaciteit (personen)</label>
+			<label index="nameOfTheFlat">naam van het appartement</label>
+			<label index="nameOfTheRoom">naam van de kamer</label>
+			<label index="effectiveUtilisation">Jaarlijkse cyclus:</label>
+			<label index="rebook">Herboek</label>
+			<label index="rebooking header">Herboeken</label>
+			<label index="from">van</label>
+			<label index="to">tot</label>
+			<label index="on">tot en met</label>
+			<label index="customer">klant</label>
+			<label index="agent">agent</label>
+			<label index="illegaleCharacters">karakterfouten in </label>
+			<label index="room">Kamer</label>
+			<label index="editRooms">weizig kamer</label>
+			<label index="roomsOf">kamer van </label>
+			<label index="showRooms">Laat alle kamers zien</label>
+			<label index="hideRooms">kamers verbergen</label>
+			<label index="flatDetails">Detail</label>
+			<label index="Flat">Appartementen</label>
+			<label index="Bungalow">Bungalows / villa's</label>
+			<label index="name">Naam</label>
+			<label index="livingSpace">Vloeroppervlakte</label>
+			<label index="landArea">Gebied van het Land</label>
+			<label index="capacityText">Aantal Personen</label>
+			<!-- Attributes -->
+			<label index="Pool">Zwembad</label>
+			<label index="Landing">Ligplaats boten</label>
+			<label index="PetsAllowed">Huisdieren toegestaan</label>
+			<label index="Beach">Strand</label>
+			<label index="HandicappedAccessible">Toegang voor gehandicapten</label>
+			<label index="InternetWithCosts">Internet tegen meerprijs</label>
+			<label index="InternetFree">Gratis internet</label>
+			<label index="AirConditioner">Airco</label>
+			<label index="AirConditionerWithCosts">Airco tegen meerprijs</label>
+
+			<label index="minPrice">vanaf</label>
+			<label index="minPriceUnit">€/Week</label>
+			<label index="weekPrices">Weekprijs</label>
+			<label index="peakseason">Hoofdseizoen</label>
+			<label index="lowseason">Nevenseizoen</label>
+			<label index="savingseason">Kortingsweken</label>
+			<label index="areaUnit"> m²</label>
+			
+			<label index="arrivalDay">Aankomst en vertrek in het hoogseizoen</label>
+
+			<label index="Fr">Vrijdag</label>
+			<label index="Sa">Zaterdag</label>
+			<label index="Su">Zondag</label>
+
+			<label index="caution">Borgsom in contanten bij aankomst</label>
+			<label index="additional">Additioneel</label>
+			<label index="endCleaning">Eindreiniging</label>
+			
+			<label index="singleViewFooter">Beddengoed en handdoeken kunnen zelf worden meegenomen of worden gehuurd. ( het afgebeelde beddengoed is een voorbeeld van het door ons verhuurde assortiment) 
+Prijzen per persoon: beddengoed 12.-- handdoeken 10.--
+
+Baby reisuitrusting:
+compleet Baby-rondom-zorgeloos-pakket , bestaande uit:
+Reisbed, kinderstoel, kinderwagen Jogger Maxi Cosi Quinny, samen voor 35.--/Week
+(Foto s onder Service)
+
+Verdere SERVICEPRODUCTEN op voorbestelling en afhankelijk van de beschikbaarheid
+(zie Service):
+
+INTERNET-SURFSTICK
+GPS Garmin Outdoor
+			</label>
+			
+			<label index="onRequest">op aanvraag</label>
+			<label index="noSpecials">No offers right now</label>			
+			<label index="backToList">--&gt; Back to list</label>
+			
+		</languageKey>
+	</data>
+</T3locallangExt>

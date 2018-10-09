@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T00:42:15Z" product-name="context_help">
+		<header/>
+		<body>
+			<trans-unit id=".description">
+				<source>Determines the entrypoint of a certain host name.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="badr">
+					<target>Détermine le point d'accès d'un certain nom d'hôte.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id=".details" xml:space="preserve">
+				<source>When a TYPO3 database contains more than a single website, you'll typically have to assign a domain name to each new websites "root-page". In practice you point all the domains to the same TYPO3 database on the server, but then you insert these Domain records at the positions in the page tree where you want to direct requests to the domain. And thus pages 'outside' that point will not be accessible from that domain.
+This is like "Virtual hosts" in Apache servers.
+
+(Should probably be available for admin only.)</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Quand une base de données TYPO3 contient plus d'un seul site web, vous aurez typiquement à assigner un nom de domaine à la page-racine  de chaque nouveau site web. En pratique, vous pointez tous les domaines vers la même base de données TYPO3 su le serveur, mais à ce moment là vous insérez ces archives de Domaine aux positions sur l'arborescence là où vous voulez dirigez les requête au domaine. Et ainsi, les pages externes qui pointent ne seront pas accessibles depuis ce domaine.Ce sont comme des Hôtes Virtuels dans les serveurs Apache.(Ne devrait être disponible que pour l'administrateur)</target></alt-trans></trans-unit>
+			<trans-unit id="domainName.description" approved="yes">
+				<source>Enter the host name, eg. "www.my-domain.com".</source>
+				<target state="translated">Entrez le nom de domaine, ex: "www.mon-domaine.com"</target>
+			</trans-unit>
+			<trans-unit id="domainName.details" xml:space="preserve">
+				<source>Before a domain record will have any effect you must make sure that the domains A-record is pointed towards the server and that your server is setup to direct requests to this TYPO3 database. So basically before entering anything here, make sure a request to the domain you wish to enter arrives at the root of the current page tree.
+When you create a domain record and the host name in it (be it a real domain name or an IP address) matches the hostname of the URL, the TypoScript based front end will limit the available page to only those in the page tree from this point and outwards. In effect you will 'arrive' at the page where this record is and furthermore users cannot see pages with ids outside this branch.
+
+&lt;strong&gt;Notice, &lt;/strong&gt;if you run TYPO3 from a subdirectory of the domain name, you must include the subdirectory as well, eg. "www.my-domain.org/typo3_subdir/"</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Avant qu'une archive de domaine n'ait d'effets, vous devez vous assurer que l'archive-A de des domaines soit pointée vers le serveur et que votre serveur est installé pour diriger les requêtes vers votre base de données TYPO3. Donc fondamentalement, avant d'entrer quoi que ce soit ici, veillez à ce  qu'une requête pour le domaine dans lequel vous souhaitez entrer arrive à la racine de l'arborescence de la page courante.Quand vous créez une archive de domaine et que le nom d'hôte à l'intérieur de celui-ci (que ce soit un vrai nom de domaine ou une adresse IP) correspond au nom d'hôte de l'URL, le TypoScript basé dans le frontend va limiter les pages disponibles à ceux dans l'arborescence des pages à partir de ce point et en dehors. Dans les effets, vous allez "arriver" à la page où l'archive se trouve, et de plus, les utilisateurs ne peuvent pas voir les pages avec des ID à l'extérieur de la branche.Notez que si vous lancez TYPO3 depuis un sous-répertoire du nom de domaine, vous devez inclure le sous-répertoire également,eg. "www.my-domain.org/typo3_subdir/"</target></alt-trans></trans-unit>
+			<trans-unit id="hidden.description" approved="yes">
+				<source>Use this option to temporarily disable the Domain record.</source>
+				<target state="translated">Utilisez cette option pour désactiver temporairement l'enregistrement de domaine.</target>
+			</trans-unit>
+			<trans-unit id="prepend_params.description">
+				<source>If set, any GET parameters in the calling URL will be transferred to the redirect URL.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="badr">
+					<target>Si activé, tout paramètre GET dans l'URL appelée sera transférée à l'URL redirigée.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="redirectTo.description">
+				<source>All requests to the domain will be redirected to this URL, if any value is entered.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="badr">
+					<target>toutes les requêtes au domaine seront redirigées vers cette URL, si n'importe quelle valeur est rentrée.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="redirectTo.details" xml:space="preserve">
+				<source>Make sure to prepend "http://" or equally to the value! Basically a "Location: " header is just issued to this value!
+&lt;strong&gt;Warning:&lt;/strong&gt; You cannot use this to 'redirect' to a specific page id within the same domain as the record has! If you do that it'll just go into an endless loop because the redirect is redirecting to itself!
+
+Good Example:
+Domain: "my-domain.org"
+Redirect: "www.my-domain.org"
+
+This redirects requests to what is infact another domain name, namely "www.my-domain.org"
+
+Bad Example:
+Domain: "www.my-domain.org"
+Redirect: "www.my-domain.org/?id=10"
+
+This will go into an eternal loop because the domain name has in fact not changed!
+
+
+Virtual directories:
+If you're using TYPO3 on a unix computer you can make 'virtual subdirectories' to a website, still within the same database. See document list for more information. In that case you should enter the hostname with the subdirectory appended, like this: "my-domain.org/subdir/". If the combination of host name and current subdirectory matches the value, the domain record will be correctly detected and limit page access to the page tree below the Domain record.</source>
+			<target/></trans-unit>
+			<trans-unit id="_.seeAlso" xml:space="preserve">
+				<source>sys_language
+sys_template</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>sys_language
+sys_template</target></alt-trans></trans-unit>
+		</body>
+	</file>
+</xliff>

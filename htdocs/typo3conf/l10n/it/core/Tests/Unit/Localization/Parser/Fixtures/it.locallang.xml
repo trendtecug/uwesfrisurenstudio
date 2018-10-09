@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="label1">Questa è l'etichetta n° 1</label>
+			<label index="label2">Questa è l'etichetta n° 2</label>
+			<label index="label3">Questa è l'etichetta #3</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

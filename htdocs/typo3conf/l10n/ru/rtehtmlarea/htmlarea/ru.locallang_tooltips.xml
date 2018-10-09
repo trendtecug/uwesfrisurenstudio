@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="about">Об этом редакторе</label>
+			<label index="bold">Жирный</label>
+			<label index="copy">Копировать выбраное</label>
+			<label index="createlink">Вставить ссылку</label>
+			<label index="cut">Вырезать выбраное</label>
+			<label index="fontname">Шрифт</label>
+			<label index="fontsize">Размер шрифта</label>
+			<label index="forecolor">Цвет шрифта</label>
+			<label index="formatblock">Тип параграфа</label>
+			<label index="hilitecolor">Цвет фона</label>
+			<label index="htmlmode">Переключиться на редактирование HTML</label>
+			<label index="indent">Увеличить отступ</label>
+			<label index="inserthorizontalrule">Горизонтальный разделитель</label>
+			<label index="insertimage">Вставить картинку</label>
+			<label index="insertorderedlist">Нумерованый список</label>
+			<label index="inserttable">Вставить таблицу</label>
+			<label index="insertunorderedlist">Ненумерованый список</label>
+			<label index="italic">Курсив</label>
+			<label index="justifycenter">Выключка по центру</label>
+			<label index="justifyfull">Выключка по ширине</label>
+			<label index="justifyleft">Выключка влево</label>
+			<label index="justifyright">Выключка вправо</label>
+			<label index="killword">Убрать все таги MSOffice</label>
+			<label index="lefttoright">Направление слева направо</label>
+			<label index="outdent">Уменьшить отступ</label>
+			<label index="paste">Вставить из буфера обмена</label>
+			<label index="popupeditor">Увеличить редактор</label>
+			<label index="print">Печатать документ</label>
+			<label index="redo">Возвращает последнее действие</label>
+			<label index="removeformat">Удалить форматирование</label>
+			<label index="righttoleft">Направление справа налево</label>
+			<label index="showhelp">Подсказка по функциям</label>
+			<label index="strikethrough">Зачёркивание</label>
+			<label index="subscript">Нижний индекс</label>
+			<label index="superscript">Верхний индекс</label>
+			<label index="textindicator">Текущий стиль</label>
+			<label index="underline">Подчёркивание</label>
+			<label index="undo">Отменяет последнее действие</label>
+			<label index="unlink">Удалить ссылку</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="activeOnly">Solo quelli attivi</label>
+			<label index="activeSessions">Sessioni attive</label>
+			<label index="admin">Admin</label>
+			<label index="adminOnly">Solo Amministratori (Admin)</label>
+			<label index="allowedLanguages">Limitato solo alle lingue</label>
+			<label index="any">Qualunque</label>
+			<label index="backendUserAdministration">Amministrazione Utente di Backend</label>
+			<label index="backendUserGroup">Gruppo utente</label>
+			<label index="backendUserGroups">Membro dei gruppi</label>
+			<label index="backendUserListing">Lista utenti di Backend</label>
+			<label index="backendUsers">Uenti di Backend</label>
+			<label index="both">Entrambi</label>
+			<label index="changeToMode">[passare alla modalità]</label>
+			<label index="compare">Confronta</label>
+			<label index="compareBackendUsers">Confronta gli utenti di backend</label>
+			<label index="compareUserList">Confronta l'elenco degli utenti</label>
+			<label index="confirm">Sei sicuro di voler cancellare l'utente %s?</label>
+			<label index="dbMountPoints">Punti di mount per DB</label>
+			<label index="disable">Disabilitare</label>
+			<label index="disableIpLock">Disabilita il blocco IP</label>
+			<label index="email">E-mail</label>
+			<label index="endDateAndTime">Fermare</label>
+			<label index="endSession">Fine della sessione</label>
+			<label index="fileMounts">Punti di mount per File</label>
+			<label index="filter">Filtro</label>
+			<label index="inactiveOnly">Solo quelli inattivi</label>
+			<label index="ipAddress">Indirizzo IP</label>
+			<label index="lastAccess">Ultimo accesso</label>
+			<label index="lastLogin">Ultimo accesso</label>
+			<label index="loginBefore">Che ha fatto login in precedenza</label>
+			<label index="never">Mai</label>
+			<label index="neverLoggedIn">Che non ha mai fatto login</label>
+			<label index="no">No</label>
+			<label index="normalUserOnly">Solo utenti normali</label>
+			<label index="onlineUsers">Utenti online</label>
+			<label index="reallyLogout">Logout effettuato</label>
+			<label index="realName">Vero nome</label>
+			<label index="section.compare">Confronta</label>
+			<label index="startDateAndTime">Avviare</label>
+			<label index="status">Stato</label>
+			<label index="switchBackMode">Cambia utente</label>
+			<label index="userName">Nome utente</label>
+			<label index="users">Utenti</label>
+			<label index="yes">Sì</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

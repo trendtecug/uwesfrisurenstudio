@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="about">Сведения</label>
+			<label index="and">и</label>
+			<label index="ascending">По возрастанию</label>
+			<label index="back">Назад</label>
+			<label index="byteSizeUnits">Б| КБ| МБ| ГБ</label>
+			<label index="cancel">Отмена</label>
+			<label index="category">Категория</label>
+			<label index="close">Закрыть</label>
+			<label index="delete">Удалить</label>
+			<label index="descending">По убыванию</label>
+			<label index="details">Детали</label>
+			<label index="disable">Отключить</label>
+			<label index="disabled">Отключено</label>
+			<label index="down">Ниже</label>
+			<label index="download">Скачать</label>
+			<label index="edit">Править</label>
+			<label index="editField">Править поле</label>
+			<label index="editFile">Править файл</label>
+			<label index="enable">Включить</label>
+			<label index="enabled">Включено</label>
+			<label index="file">Файл</label>
+			<label index="files">Файлы</label>
+			<label index="first">Первый</label>
+			<label index="folder">Папка</label>
+			<label index="from">Из</label>
+			<label index="go">Перейти</label>
+			<label index="goTo">Перейти к</label>
+			<label index="help">Справка</label>
+			<label index="item">Элемент</label>
+			<label index="items">Элементы</label>
+			<label index="last">Последний</label>
+			<label index="left">Влево</label>
+			<label index="login">Войти</label>
+			<label index="logout">Выйти</label>
+			<label index="more">Еще</label>
+			<label index="move">Переместить</label>
+			<label index="new">Новый</label>
+			<label index="next">Далее</label>
+			<label index="no">Нет</label>
+			<label index="ok">ОК</label>
+			<label index="open">Открыть</label>
+			<label index="page">Страница</label>
+			<label index="pages">Страниц</label>
+			<label index="previous">Предыдущая</label>
+			<label index="print">Печать</label>
+			<label index="reload">Обновить</label>
+			<label index="right">Вправо</label>
+			<label index="save">Сохранить</label>
+			<label index="saveAndClose">Сохранить и закрыть</label>
+			<label index="saveAndCloseDoc">Сохранить и закрыть документ</label>
+			<label index="saveAndCreateNewDoc">Сохранить и создать новый документ</label>
+			<label index="saveAndViewPage">Сохранить и просмотреть страницу</label>
+			<label index="search">Поиск</label>
+			<label index="send">Отправить</label>
+			<label index="start">Начало</label>
+			<label index="stop">Окончание</label>
+			<label index="submit">Подтвердить</label>
+			<label index="to">К</label>
+			<label index="tsRef">Справка TSref</label>
+			<label index="up">Выше</label>
+			<label index="upload">Загрузить</label>
+			<label index="user">Пользователь</label>
+			<label index="users">Пользователи</label>
+			<label index="view">Просмотр</label>
+			<label index="yes">Да</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="choose_task">Задача:</label>
+			<label index="lCancel">Отмена</label>
+			<label index="lCreate">Создать</label>
+			<label index="lDelete">Удалить</label>
+			<label index="lDelete_warning">Подтвердите удаление этого пользователя.</label>
+			<label index="lHomedir">Домашняя папка</label>
+			<label index="listSeparator_Groups">__Группы:__</label>
+			<label index="lNone">[нет]</label>
+			<label index="lReplyAddress">Адресом ответа служит ваш email</label>
+			<label index="lSelf">Сам</label>
+			<label index="lSendNew">Отправить сообщение</label>
+			<label index="lSendReply">Ответить на сообщение</label>
+			<label index="lUpdate">Обновить</label>
+			<label index="mlang_tabs_tab">Задачи</label>
+			<label index="taskcenter">Центр заданий</label>
+			<label index="task_help_description">Получить дополнительные сведения о центре заданий.</label>
+			<label index="task_help_title">Сведения о центре заданий</label>
+			<label index="task_overview">Обзор</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

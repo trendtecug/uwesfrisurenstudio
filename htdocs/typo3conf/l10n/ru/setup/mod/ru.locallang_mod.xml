@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="mlang_labels_tabdescr">Этот модуль позволяет изменять свои настройки для внутреннего интерфейса. Можно изменить системный язык, имя или email-адрес. Также как и другие основные параметры системы.</label>
+			<label index="mlang_labels_tablabel">Персональные настройки</label>
+			<label index="mlang_tabs_tab">Персональные настройки</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

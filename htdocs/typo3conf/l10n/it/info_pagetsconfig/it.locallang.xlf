@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-30T01:56:53Z" product-name="info_pagetsconfig">
+		<header/>
+		<body>
+			<trans-unit id="editThisColumn" approved="yes">
+				<source>Edit the field '%s' for all listed pages</source>
+				<target state="translated">Modifica il campo '%s' per tutte le pagine elencate</target>
+			</trans-unit>
+			<trans-unit id="editTSconfig" approved="yes">
+				<source>Edit TSconfig for this page</source>
+				<target state="translated">Modifica TSconfig per questa pagina</target>
+			</trans-unit>
+			<trans-unit id="editTSconfig_all" approved="yes">
+				<source>Edit TSconfig for all shown pages</source>
+				<target state="translated">Modifica TSconfig per tutte le pagine visualizzate</target>
+			</trans-unit>
+			<trans-unit id="editTSconfig_default" approved="yes">
+				<source>Default Configuration from TYPO3_CONF_VARS</source>
+				<target state="translated">Configurazione di default da TYPO3_CONF_VARS</target>
+			</trans-unit>
+			<trans-unit id="mod_pagetsconfig" approved="yes">
+				<source>Page TSconfig</source>
+				<target state="translated">TSconfig della pagina</target>
+			</trans-unit>
+			<trans-unit id="sort_alphabetic" approved="no">
+				<source>Sort alphabetically</source>
+				<target state="needs-translation">Ordine alfabetico:</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Metti in ordine alfabetico</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tsconf_configFields" approved="yes">
+				<source>View TSconfig fields content</source>
+				<target state="translated">Mostra il contenuto dei campi TSconfig</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_0" approved="yes">
+				<source>All</source>
+				<target state="translated">Tutto</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1" approved="yes">
+				<source>Module key ('mod') with overruling user settings</source>
+				<target state="translated">Modulo ('mod') con impostazioni dell'utente in sovrascrittura</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1a" approved="yes">
+				<source>Module: Web&gt;Page</source>
+				<target state="translated">Modulo: Web&gt;Pagina</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1b" approved="yes">
+				<source>Module: Web&gt;View</source>
+				<target state="translated">Modulo: Web&gt;Mostra</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1c" approved="yes">
+				<source>Module: Web&gt;Modules</source>
+				<target state="translated">Modulo: Web&gt;Moduli</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1d" approved="yes">
+				<source>Module: Web&gt;List</source>
+				<target state="translated">Modulo: Web&gt;Lista</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1e" approved="yes">
+				<source>Module: Web&gt;Info</source>
+				<target state="translated">Modulo: Web&gt;Info</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1f" approved="yes">
+				<source>Module: Web&gt;Func</source>
+				<target state="translated">Modulo: Web&gt;Func</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1g" approved="yes">
+				<source>Module: Web&gt;Template</source>
+				<target state="translated">Modulo: Web&gt;Template</target>
+			</trans-unit>
+			<trans-unit id="tsconf_title" approved="yes">
+				<source>Page TSconfig</source>
+				<target state="translated">TSConfig della pagina</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

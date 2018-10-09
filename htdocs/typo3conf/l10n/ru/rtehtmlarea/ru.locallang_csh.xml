@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index=".alttitle">htmlArea RTE</label>
+			<label index="beUserSettings.alttitle">Настройки внутреннего пользователя</label>
+			<label index="beUserSettings.description">Некоторые параметры редактора можно настроить для конкретных пользователей.</label>
+			<label index="beUserSettings.seeAlso">xEXT_rtehtmlarea_General:rteWidth,xEXT_rtehtmlarea_General:rteHeight,xEXT_rtehtmlarea_General:rteResize,xEXT_rtehtmlarea_General:rteMaxHeight,xEXT_rtehtmlarea_PlainText:behaviour,_MOD_user_setup</label>
+			<label index=".description">htmlArea RTE явялется бесплатным, с открытым исходным кодом, редактором для полей &lt;textarea&gt;,построенным на ExtJS, и тесной взаимодействующим с TYPO3.</label>
+			<label index=".details">htmlArea RTE поддерживает следующие браузеры: Firefox 1.5+, SeaMonkey 1.0+, Safari 3.0.4+, Google Chrome 1.0+ и Opera 9.62+ для любых платформ, а также Internet Explorer 6.0+ для Windows.</label>
+			<label index="rteHeight.alttitle">Высота редактора в пикселях по умолчанию</label>
+			<label index="rteHeight.description">Этот параметр позволяет назначить начальную высоту окна редактора.</label>
+			<label index="rteHeight.details">Параметр определяет высоту редактора при начальном его отображении. Высота определяется в пикселях, а не в процентах. Определенная высота должна учитывать панель инструментов, область редактирования и панель статуса редактора.</label>
+			<label index="rteMaxHeight.alttitle">Максимально возможная высота редактора в пикселях.</label>
+			<label index="rteMaxHeight.description">Параметр определяет максимально возможную высоту редактора, включая панель инструментов, область редактирования и панель статуса редактора. По умолчанию - 2000 пикселей.</label>
+			<label index="rteResize.alttitle">Возможность изменения размеров редактора</label>
+			<label index="rteResize.description">Параметр позволяет изменять размеры поля для редактора. Изменять размер можно при помощи правого нижнего поля редактора.</label>
+			<label index="rteWidth.alttitle">Ширина редактора в пикселях или % по умолчанию</label>
+			<label index="rteWidth.description">Этот параметр позволяет назначить начальную ширину окна редактора.</label>
+			<label index="rteWidth.details">Параметр определяет ширину редактора при начальном его отображении. Ширина определяется в пикселях или в процентах.</label>
+			<label index=".seeAlso">xEXT_rtehtmlarea_General:beUserSettings, xEXT_rtehtmlarea_EditElement, xEXT_rtehtmlarea_Language, xEXT_rtehtmlarea_PlainText, xEXT_rtehtmlarea_RemoveFormat</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:33Z" product-name="install" target-language="it">
+    <header/>
+    <body>
+      <trans-unit id="status_fileSystem" xml:space="preserve" approved="yes">
+        <source>File System</source>
+      <target state="translated">File System</target></trans-unit>
+      <trans-unit id="status_writable" xml:space="preserve" approved="yes">
+        <source>Writable</source>
+      <target state="translated">Scrivibile</target></trans-unit>
+      <trans-unit id="status_missingDirectory" xml:space="preserve" approved="yes">
+        <source>Required Directory Missing</source>
+      <target state="translated">Directory indispensabile mancante</target></trans-unit>
+      <trans-unit id="status_nonExistingDirectory" xml:space="preserve" approved="yes">
+        <source>Directory not existing</source>
+      <target state="translated">Directory inesistente</target></trans-unit>
+      <trans-unit id="status_recommendedWritableDirectory" xml:space="preserve" approved="yes">
+        <source>Directory should be writable</source>
+      <target state="translated">La directory deve essere scrivibile</target></trans-unit>
+      <trans-unit id="status_requiredWritableDirectory" xml:space="preserve" approved="yes">
+        <source>Directory not writable</source>
+      <target state="translated">Directory non scrivibile</target></trans-unit>
+      <trans-unit id="status_directoryDoesNotExist" xml:space="preserve" approved="yes">
+        <source>%s does not exist.</source>
+      <target state="translated">%s non esiste.</target></trans-unit>
+      <trans-unit id="status_directoryDoesNotExistCouldNotCreate" xml:space="preserve" approved="yes">
+        <source>%s does not exist and could not be created.</source>
+      <target state="translated">%s non esiste e non è stato possibile crearlo.</target></trans-unit>
+      <trans-unit id="status_directoryShouldAlsoBeWritable" xml:space="preserve" approved="yes">
+        <source>Also note that it should be writable, if it did exist.</source>
+      <target state="translated">E dovrebbe anche essere scrivibile, se esistesse.</target></trans-unit>
+      <trans-unit id="status_directoryShouldBeWritable" xml:space="preserve" approved="yes">
+        <source>%s should be writable.</source>
+      <target state="translated">%s dovrebbe essere scrivibile.</target></trans-unit>
+      <trans-unit id="status_directoryMustBeWritable" xml:space="preserve" approved="yes">
+        <source>%s must be writable.</source>
+      <target state="translated">%s deve essere scrivibile.</target></trans-unit>
+      <trans-unit id="status_remainingUpdates" xml:space="preserve" approved="yes">
+        <source>Remaining Updates</source>
+      <target state="translated">Aggiornamenti rimanenti</target></trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="tt_content.table_caption">Didascalia della tabella</label>
+			<label index="tt_content.table_delimiter">Delimitatore di campo</label>
+			<label index="tt_content.table_delimiter.124">| (Pipe)</label>
+			<label index="tt_content.table_delimiter.44">, (Virgola)</label>
+			<label index="tt_content.table_delimiter.58">: (Due punti)</label>
+			<label index="tt_content.table_delimiter.59">; (Punto e virgola)</label>
+			<label index="tt_content.table_delimiter.9">⇥ (Tabulazione)</label>
+			<label index="tt_content.table_enclosure">Testo allegato</label>
+			<label index="tt_content.table_enclosure.0">Nessuno</label>
+			<label index="tt_content.table_enclosure.34">" (Doppie virgolette)</label>
+			<label index="tt_content.table_enclosure.39">' (Virgolette singole)</label>
+			<label index="tt_content.table_header_position">Posizione intestazione tabella</label>
+			<label index="tt_content.table_header_position.0">Senza intestazione</label>
+			<label index="tt_content.table_header_position.1">Sopra</label>
+			<label index="tt_content.table_header_position.2">Sinistra</label>
+			<label index="tt_content.table_tfoot">Usare piè di pagina della tabella (racchiudere l'ultima riga con il tag &lt;tfoot&gt;)</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

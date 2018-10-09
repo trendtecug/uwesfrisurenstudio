@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="ATTRIBUTES">ATTRIBUTI</label>
+			<label index="Cancel">Annulla</label>
+			<label index="Colors">Colori</label>
+			<label index="Enter the TAG you want to insert">Scegli il TAG che vuoi inserire</label>
+			<label index="No CSS class avaiable">Non ci sono classi CSS disponibili</label>
+			<label index="Ok">Ok</label>
+			<label index="OPTIONS">OPZIONI</label>
+			<label index="Quick Tag Editor">Inserisci tag</label>
+			<label index="TAGs">TAG</label>
+			<label index="There are some unclosed quote">Ci sono virgolette non chiuse</label>
+			<label index="This attribute already exists in the TAG">Questo attributo esiste già nel TAG</label>
+			<label index="You have to select some text">Devi selezionare del testo</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

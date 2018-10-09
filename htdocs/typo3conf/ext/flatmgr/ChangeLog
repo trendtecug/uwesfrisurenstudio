@@ -1,0 +1,13 @@
+(add new changes on top of this file)
+
+see manual.sxw documentation for the changelog
+
+14-01-21 Sebastian Lemke
+
+	* Fixes for Typo3 6.2.0beta
+	* UTF8 fixes (some files were not correctly encoded)
+	* added pi1/de.locallang.xlf for new translation handling
+
+06-11-30 Joachim Ruhs  <postmaster@joachim-ruhs.de>
+
+	* Initial release

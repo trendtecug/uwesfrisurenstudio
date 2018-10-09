@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="Allow-Clipboard-Helper-Add-On-Title">Дополнение к Firefox AllowClipboard Helper</label>
+			<label index="Firefox-Security-Prefs-Question-Title">Настройки безопасности для доступа к буферу обмена в Firefox</label>
+			<label index="Technische Universitat Ilmenau">Технический университет Ильменау</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

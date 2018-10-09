@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T00:27:18Z" product-name="cms">
+		<header/>
+		<body>
+			<trans-unit id="backend_layout" xml:space="preserve" approved="yes">
+				<source>Backend Layout</source>
+			<target state="translated">Mise en page backend</target></trans-unit>
+			<trans-unit id="backend_layout.config" xml:space="preserve" approved="yes">
+				<source>Config</source>
+			<target state="translated">Configuration</target></trans-unit>
+			<trans-unit id="backend_layout.description" xml:space="preserve" approved="yes">
+				<source>Description</source>
+			<target state="translated">Description</target></trans-unit>
+			<trans-unit id="backend_layout.icon" xml:space="preserve" approved="yes">
+				<source>Icon</source>
+			<target state="translated">Icône</target></trans-unit>
+			<trans-unit id="backend_layout.title" xml:space="preserve" approved="yes">
+				<source>Title</source>
+			<target state="translated">Titre</target></trans-unit>
+			<trans-unit id="backend_layout.wizard" xml:space="preserve" approved="yes">
+				<source>Wizard</source>
+			<target state="translated">Assistant</target></trans-unit>
+			<trans-unit id="fe_groups" xml:space="preserve" approved="yes">
+				<source>Website Usergroup</source>
+			<target state="translated">Groupe de membre</target></trans-unit>
+			<trans-unit id="fe_groups.lockToDomain" xml:space="preserve" approved="yes">
+				<source>Lock to Domain:</source>
+			<target state="translated">Bloqué au domaine:</target></trans-unit>
+			<trans-unit id="fe_groups.subgroup" xml:space="preserve" approved="yes">
+				<source>Subgroups:</source>
+			<target state="translated">Sous-groupes:</target></trans-unit>
+			<trans-unit id="fe_groups.tabs.extended" xml:space="preserve" approved="yes">
+				<source>Extended</source>
+			<target state="translated">Etendu</target></trans-unit>
+			<trans-unit id="fe_groups.tabs.options" xml:space="preserve" approved="yes">
+				<source>Options</source>
+			<target state="translated">Options</target></trans-unit>
+			<trans-unit id="fe_groups.title" xml:space="preserve" approved="yes">
+				<source>Group Title:</source>
+			<target state="translated">Nom de groupe:</target></trans-unit>
+			<trans-unit id="fe_users" xml:space="preserve" approved="yes">
+				<source>Website User</source>
+			<target state="translated">Membre</target></trans-unit>
+			<trans-unit id="fe_users.lockToDomain" xml:space="preserve" approved="yes">
+				<source>Lock to Domain:</source>
+			<target state="translated">Bloqué au domaine:</target></trans-unit>
+			<trans-unit id="fe_users.password" xml:space="preserve" approved="yes">
+				<source>Password:</source>
+			<target state="translated">Mot de passe:</target></trans-unit>
+			<trans-unit id="fe_users.tabs.access" xml:space="preserve" approved="yes">
+				<source>Access</source>
+			<target state="translated">Accès</target></trans-unit>
+			<trans-unit id="fe_users.tabs.extended" xml:space="preserve" approved="yes">
+				<source>Extended</source>
+			<target state="translated">Etendu</target></trans-unit>
+			<trans-unit id="fe_users.tabs.options" xml:space="preserve" approved="yes">
+				<source>Options</source>
+			<target state="translated">Options</target></trans-unit>
+			<trans-unit id="fe_users.tabs.personelData" xml:space="preserve" approved="yes">
+				<source>Personal Data</source>
+			<target state="translated">Données personnelles</target></trans-unit>
+			<trans-unit id="fe_users.usergroup" xml:space="preserve" approved="yes">
+				<source>Groups:</source>
+			<target state="translated">Groupes:</target></trans-unit>
+			<trans-unit id="fe_users.username" xml:space="preserve" approved="yes">
+				<source>Username:</source>
+			<target state="translated">Nom d'utilisateur:</target></trans-unit>
+			<trans-unit id="mod_tx_cms_webinfo_lang" xml:space="preserve" approved="yes">
+				<source>Localization Overview</source>
+			<target state="translated">Localisation (vue d'ensemble)</target></trans-unit>
+			<trans-unit id="mod_tx_cms_webinfo_page" xml:space="preserve" approved="yes">
+				<source>Pagetree Overview</source>
+			<target state="translated">Arborescence (vue d'ensemble)</target></trans-unit>
+			<trans-unit id="pages.abstract" xml:space="preserve" approved="yes">
+				<source>Abstract:</source>
+			<target state="translated">Résumé :</target></trans-unit>
+			<trans-unit id="pages.abstract_formlabel" xml:space="preserve" approved="yes">
+				<source>Abstract</source>
+			<target state="translated">Résumé</target></trans-unit>
+			<trans-unit id="pages.alias" xml:space="preserve" approved="yes">
+				<source>Alias:</source>
+			<target state="translated">Alias :</target></trans-unit>
+			<trans-unit id="pages.alias_formlabel" xml:space="preserve" approved="yes">
+				<source>URL Alias</source>
+			<target state="translated">Alias d'URL</target></trans-unit>
+			<trans-unit id="pages.author_email_formlabel" xml:space="preserve" approved="yes">
+				<source>Author Email</source>
+			<target state="translated">Email de l'auteur</target></trans-unit>
+			<trans-unit id="pages.author_formlabel" xml:space="preserve" approved="yes">
+				<source>Author Name</source>
+			<target state="translated">Nom de l'auteur</target></trans-unit>
+			<trans-unit id="pages.backend_layout.default" xml:space="preserve" approved="yes">
+				<source>Default</source>
+			<target state="translated">Par défaut</target></trans-unit>
+			<trans-unit id="pages.backend_layout_formlabel" xml:space="preserve" approved="yes">
+				<source>Backend Layout (this page only)</source>
+			<target state="translated">Mise en page backend (cette page uniquement)</target></trans-unit>
+			<trans-unit id="pages.backend_layout_next_level_formlabel" xml:space="preserve" approved="yes">
+				<source>Backend Layout (subpages of this page)</source>
+			<target state="translated">Mise en page backend (sous-pages de cette page)</target></trans-unit>
+			<trans-unit id="pages.backend_layout.none" xml:space="preserve" approved="yes">
+				<source>None</source>
+			<target state="translated">Aucune</target></trans-unit>
+			<trans-unit id="pages.cache_tags" xml:space="preserve" approved="yes">
+				<source>Cache Tags:</source>
+			<target state="translated">Tags pour le cache :</target></trans-unit>
+			<trans-unit id="pages.cache_timeout" xml:space="preserve" approved="yes">
+				<source>Cache Expires:</source>
+			<target state="translated">Expiration du cache :</target></trans-unit>
+			<trans-unit id="pages.cache_timeout_formlabel" xml:space="preserve" approved="yes">
+				<source>Cache Lifetime</source>
+			<target state="translated">Durée de vie du cache</target></trans-unit>
+			<trans-unit id="pages.cache_timeout.I.1" xml:space="preserve" approved="yes">
+				<source>1 min</source>
+			<target state="translated">1 min</target></trans-unit>
+			<trans-unit id="pages.cache_timeout.I.10" xml:space="preserve" approved="yes">
+				<source>1 month</source>
+			<target state="translated">1 mois</target></trans-unit>
+			<trans-unit id="pages.cache_timeout.I.2" xml:space="preserve" approved="yes">
+				<source>5 min</source>
+			<target state="translated">5 min</target></trans-unit>
+			<trans-unit id="pages.cache_timeout.I.3" xml:space="preserve" approved="yes">
+				<source>15 min</source>
+			<target state="translated">15 min</target></trans-unit>
+			<trans-unit id="pages.cache_timeout.I.4" xml:space="preserve" approved="yes">
+				<source>30 min</source>
+			<target state="translated">30 min</target></trans-unit>
+			<trans-unit id="pages.cache_timeout.I.5" xml:space="preserve" approved="yes">
+				<source>1 hour</source>
+			<target state="translated">1 heure</target></trans-unit>
+			<trans-unit id="pages.cache_timeout.I.6" xml:space="preserve" approved="yes">
+				<source>4 hours</source>
+			<target state="translated">4 heures</target></trans-unit>
+			<trans-unit id="pages.cache_timeout.I.7" xml:space="preserve" approved="yes">
+				<source>1 day</source>
+			<target state="translated">1 jour</target></trans-unit>
+			<trans-unit id="pages.cache_timeout.I.8" xml:space="preserve" approved="yes">
+				<source>2 days</source>
+			<target state="translated">2 jours</target></trans-unit>
+			<trans-unit id="pages.cache_timeout.I.9" xml:space="preserve" approved="yes">
+				<source>7 days</source>
+			<target state="translated">7 jours</target></trans-unit>
+			<trans-unit id="pages.content_from_pid" xml:space="preserve" approved="yes">
+				<source>Show content from this page instead:</source>
+			<target state="translated">Afficher le contenu de cette page à la place :</target></trans-unit>
+			<trans-unit id="pages.content_from_pid_formlabel" xml:space="preserve" approved="yes">
+				<source>Show Content from Page</source>
+			<target state="translated">Afficher le contenu de la page</target></trans-unit>
+			<trans-unit id="pages.description_formlabel" xml:space="preserve" approved="yes">
+				<source>Description</source>
+			<target state="translated">Description</target></trans-unit>
+			<trans-unit id="pages.doktype.div.link" xml:space="preserve" approved="yes">
+				<source>Link</source>
+			<target state="translated">Lien</target></trans-unit>
+			<trans-unit id="pages.doktype.div.page" xml:space="preserve" approved="yes">
+				<source>Page</source>
+			<target state="translated">Page</target></trans-unit>
+			<trans-unit id="pages.doktype.div.special" xml:space="preserve" approved="yes">
+				<source>Special</source>
+			<target state="translated">Spécial</target></trans-unit>
+			<trans-unit id="pages.doktype_formlabel" xml:space="preserve" approved="yes">
+				<source>Type</source>
+			<target state="translated">Type</target></trans-unit>
+			<trans-unit id="pages.doktype.I.0" xml:space="preserve" approved="yes">
+				<source>Advanced</source>
+			<target state="translated">Avancé</target></trans-unit>
+			<trans-unit id="pages.doktype.I.2" xml:space="preserve" approved="yes">
+				<source>Shortcut</source>
+			<target state="translated">Raccourci</target></trans-unit>
+			<trans-unit id="pages.doktype.I.3" xml:space="preserve" approved="yes">
+				<source>Not in Menu</source>
+			<target state="translated">Hors menu</target></trans-unit>
+			<trans-unit id="pages.doktype.I.4" xml:space="preserve" approved="yes">
+				<source>Backend User Section</source>
+			<target state="translated">Section utilisateur backend</target></trans-unit>
+			<trans-unit id="pages.doktype.I.5" xml:space="preserve" approved="yes">
+				<source>Mount Point</source>
+			<target state="translated">Point de montage</target></trans-unit>
+			<trans-unit id="pages.doktype.I.7" xml:space="preserve" approved="yes">
+				<source>Menu Separator</source>
+			<target state="translated">Séparateur de menu</target></trans-unit>
+			<trans-unit id="pages.doktype.I.8" xml:space="preserve" approved="yes">
+				<source>Link to External URL</source>
+			<target state="translated">Lien vers une URL externe</target></trans-unit>
+			<trans-unit id="pages.editlock_formlabel" xml:space="preserve" approved="yes">
+				<source>Editable for Admins Only</source>
+			<target state="translated">Editable par les administrateurs uniquement</target></trans-unit>
+			<trans-unit id="pages.endtime_formlabel" xml:space="preserve" approved="yes">
+				<source>Expiration Date</source>
+			<target state="translated">Date de fin de publication</target></trans-unit>
+			<trans-unit id="pages.extendToSubpages" xml:space="preserve" approved="yes">
+				<source>Include Subpages:</source>
+			<target state="translated">Inclure les sous-pages:</target></trans-unit>
+			<trans-unit id="pages.extendToSubpages_formlabel" xml:space="preserve" approved="yes">
+				<source>Extend to Subpages</source>
+			<target state="translated">Étendre les droits aux sous-pages</target></trans-unit>
+			<trans-unit id="pages.fe_group_formlabel" xml:space="preserve" approved="yes">
+				<source>Usergroup Access Rights</source>
+			<target state="translated">Droits d'accès par groupe d'utilisateurs</target></trans-unit>
+			<trans-unit id="pages.fe_login_mode" xml:space="preserve" approved="yes">
+				<source>Login Mode:</source>
+			<target state="translated">Mode de connexion:</target></trans-unit>
+			<trans-unit id="pages.fe_login_mode.disable" xml:space="preserve" approved="yes">
+				<source>Disable</source>
+			<target state="translated">Désactiver</target></trans-unit>
+			<trans-unit id="pages.fe_login_mode.disableAll" xml:space="preserve" approved="yes">
+				<source>Disable login</source>
+			<target state="translated">Désactiver les connexions</target></trans-unit>
+			<trans-unit id="pages.fe_login_mode.disableGroups" xml:space="preserve" approved="yes">
+				<source>Enable user login, Disable usergroup login</source>
+			<target state="translated">Activer les connexions par utilisateur, désactiver les connexions par groupe d'utilisateurs</target></trans-unit>
+			<trans-unit id="pages.fe_login_mode.enable" xml:space="preserve" approved="yes">
+				<source>Enable login</source>
+			<target state="translated">Activer les connexions</target></trans-unit>
+			<trans-unit id="pages.fe_login_mode.enableAgain" xml:space="preserve" approved="yes">
+				<source>Re-Enable login</source>
+			<target state="translated">Activer les connexions à nouveau</target></trans-unit>
+			<trans-unit id="pages.fe_login_mode_formlabel" xml:space="preserve" approved="yes">
+				<source>Login Behaviour</source>
+			<target state="translated">Comportement des connexions d'utilisateur</target></trans-unit>
+			<trans-unit id="pages.hidden" xml:space="preserve" approved="yes">
+				<source>Hide page:</source>
+			<target state="translated">Cacher la page:</target></trans-unit>
+			<trans-unit id="pages.hidden_checkbox_1_formlabel" xml:space="preserve" approved="yes">
+				<source>Disable</source>
+			<target state="translated">Désactiver</target></trans-unit>
+			<trans-unit id="pages.hidden_formlabel" xml:space="preserve" approved="yes">
+				<source>Page</source>
+			<target state="translated">Page</target></trans-unit>
+			<trans-unit id="pages.is_siteroot" xml:space="preserve" approved="yes">
+				<source>Is Root of Website:</source>
+			<target state="translated">Est la racine du site:</target></trans-unit>
+			<trans-unit id="pages.is_siteroot_formlabel" xml:space="preserve" approved="yes">
+				<source>Use as Root Page</source>
+			<target state="translated">Utiliser comme page racine</target></trans-unit>
+			<trans-unit id="pages.keywords_formlabel" xml:space="preserve" approved="yes">
+				<source>Keywords</source>
+			<target state="translated">Mots-clés</target></trans-unit>
+			<trans-unit id="pages.l18n_cfg" xml:space="preserve" approved="yes">
+				<source>Localization Settings:</source>
+			<target state="translated">Paramètres de localisation:</target></trans-unit>
+			<trans-unit id="pages.l18n_cfg_formlabel" xml:space="preserve" approved="yes">
+				<source>Localization</source>
+			<target state="translated">Localisation</target></trans-unit>
+			<trans-unit id="pages.l18n_cfg.I.1" xml:space="preserve" approved="yes">
+				<source>Hide default translation of page</source>
+			<target state="translated">Cacher la traduction par défaut</target></trans-unit>
+			<trans-unit id="pages.l18n_cfg.I.2" xml:space="preserve" approved="yes">
+				<source>Hide page if no translation for current language exists</source>
+			<target state="translated">Cacher la page si elle n'est pas traduite</target></trans-unit>
+			<trans-unit id="pages.l18n_cfg.I.2a" xml:space="preserve" approved="yes">
+				<source>Show page even if no translation exists</source>
+			<target state="translated">Afficher les pages même non traduites</target></trans-unit>
+			<trans-unit id="pages_language_overlay" xml:space="preserve" approved="yes">
+				<source>Alternative Page Language</source>
+			<target state="translated">Langue alternative de la page</target></trans-unit>
+			<trans-unit id="pages.lastUpdated" xml:space="preserve" approved="yes">
+				<source>Last Updated:</source>
+			<target state="translated">Dernière mise à jour :</target></trans-unit>
+			<trans-unit id="pages.lastUpdated_formlabel" xml:space="preserve" approved="yes">
+				<source>Last Update</source>
+			<target state="translated">Dernière mise à jour</target></trans-unit>
+			<trans-unit id="pages.layout_formlabel" xml:space="preserve" approved="yes">
+				<source>Frontend Layout</source>
+			<target state="translated">Mise en page frontend</target></trans-unit>
+			<trans-unit id="pages.layout.I.1" xml:space="preserve" approved="yes">
+				<source>Layout 1</source>
+			<target state="translated">Disposition 1</target></trans-unit>
+			<trans-unit id="pages.layout.I.2" xml:space="preserve" approved="yes">
+				<source>Layout 2</source>
+			<target state="translated">Disposition 2</target></trans-unit>
+			<trans-unit id="pages.layout.I.3" xml:space="preserve" approved="yes">
+				<source>Layout 3</source>
+			<target state="translated">Disposition 3</target></trans-unit>
+			<trans-unit id="pages.media" xml:space="preserve" approved="yes">
+				<source>Files:</source>
+			<target state="translated">Fichiers:</target></trans-unit>
+			<trans-unit id="pages.media_formlabel" xml:space="preserve" approved="yes">
+				<source>Media</source>
+			<target state="translated">Média</target></trans-unit>
+			<trans-unit id="pages.module" xml:space="preserve" approved="yes">
+				<source>Contains Plugin:</source>
+			<target state="translated">Contient le plugin:</target></trans-unit>
+			<trans-unit id="pages.module_formlabel" xml:space="preserve" approved="yes">
+				<source>Contains Plugin</source>
+			<target state="translated">Contient le plugin</target></trans-unit>
+			<trans-unit id="pages.module.I.1" xml:space="preserve" approved="yes">
+				<source>Shop</source>
+			<target state="translated">Magasin</target></trans-unit>
+			<trans-unit id="pages.module.I.2" xml:space="preserve" approved="yes">
+				<source>Board</source>
+			<target state="translated">Forum</target></trans-unit>
+			<trans-unit id="pages.module.I.3" xml:space="preserve" approved="yes">
+				<source>News</source>
+			<target state="translated">News</target></trans-unit>
+			<trans-unit id="pages.module.I.4" xml:space="preserve" approved="yes">
+				<source>Website Users</source>
+			<target state="translated">Membres</target></trans-unit>
+			<trans-unit id="pages.module.I.5" xml:space="preserve" approved="yes">
+				<source>Direct Mail</source>
+			<target state="translated">Direct Mail</target></trans-unit>
+			<trans-unit id="pages.module.I.6" xml:space="preserve" approved="yes">
+				<source>Approvals</source>
+			<target state="translated">Approbations</target></trans-unit>
+			<trans-unit id="pages.mount_pid" xml:space="preserve" approved="yes">
+				<source>Mount Point (advanced):</source>
+			<target state="translated">Point de montage (avancé) :</target></trans-unit>
+			<trans-unit id="pages.mount_pid_formlabel" xml:space="preserve" approved="yes">
+				<source>Mounted page</source>
+			<target state="translated">Page montée</target></trans-unit>
+			<trans-unit id="pages.mount_pid_ol" xml:space="preserve" approved="yes">
+				<source>Substitute Mount Point (this page) with Mounted page:</source>
+			<target state="translated">Substituer le point de montage (cette page) avec une page montée :</target></trans-unit>
+			<trans-unit id="pages.mount_pid_ol_formlabel" xml:space="preserve" approved="yes">
+				<source>Show Content from</source>
+			<target state="translated">Afficher le contenu de</target></trans-unit>
+			<trans-unit id="pages.mount_pid_ol.I.0" xml:space="preserve" approved="yes">
+				<source>This Page</source>
+			<target state="translated">Cette page</target></trans-unit>
+			<trans-unit id="pages.mount_pid_ol.I.1" xml:space="preserve" approved="yes">
+				<source>Mounted Page</source>
+			<target state="translated">La page montée</target></trans-unit>
+			<trans-unit id="pages.nav_hide" xml:space="preserve" approved="yes">
+				<source>Hide in Menu:</source>
+			<target state="translated">Hors menu :</target></trans-unit>
+			<trans-unit id="pages.nav_hide_checkbox_1_formlabel" xml:space="preserve" approved="yes">
+				<source>Hide</source>
+			<target state="translated">Cacher</target></trans-unit>
+			<trans-unit id="pages.nav_hide_formlabel" xml:space="preserve" approved="yes">
+				<source>In Menus</source>
+			<target state="translated">Dans les menus</target></trans-unit>
+			<trans-unit id="pages.nav_title" xml:space="preserve" approved="yes">
+				<source>Navigation Title:</source>
+			<target state="translated">Titre de navigation :</target></trans-unit>
+			<trans-unit id="pages.nav_title_formlabel" xml:space="preserve" approved="yes">
+				<source>Alternative Navigation Title</source>
+			<target state="translated">Titre de navigation alternatif</target></trans-unit>
+			<trans-unit id="pages.newUntil" xml:space="preserve" approved="yes">
+				<source>'New' Until:</source>
+			<target state="translated">'Nouveau' jusqu'à :</target></trans-unit>
+			<trans-unit id="pages.newUntil_formlabel" xml:space="preserve" approved="yes">
+				<source>Mark as 'New' Until</source>
+			<target state="translated">Marquer comme étant "Nouveau" jusqu'à</target></trans-unit>
+			<trans-unit id="pages.no_cache" xml:space="preserve" approved="yes">
+				<source>No Cache:</source>
+			<target state="translated">Sans cache :</target></trans-unit>
+			<trans-unit id="pages.no_cache_checkbox_1_formlabel" xml:space="preserve" approved="yes">
+				<source>Disable</source>
+			<target state="translated">Désactiver</target></trans-unit>
+			<trans-unit id="pages.no_cache_formlabel" xml:space="preserve" approved="yes">
+				<source>Cache</source>
+			<target state="translated">Cache</target></trans-unit>
+			<trans-unit id="pages.no_search" xml:space="preserve" approved="yes">
+				<source>No Search:</source>
+			<target state="translated">Sans recherche :</target></trans-unit>
+			<trans-unit id="pages.no_search_checkbox_1_formlabel" xml:space="preserve" approved="yes">
+				<source>Disable</source>
+			<target state="translated">Désactiver</target></trans-unit>
+			<trans-unit id="pages.no_search_formlabel" xml:space="preserve" approved="yes">
+				<source>Include in Search</source>
+			<target state="translated">Inclure dans les résultats de recherche</target></trans-unit>
+			<trans-unit id="pages.palettes.abstract" xml:space="preserve" approved="yes">
+				<source>Abstract</source>
+			<target state="translated">Résumé</target></trans-unit>
+			<trans-unit id="pages.palettes.access" xml:space="preserve" approved="yes">
+				<source>Publish Dates and Access Rights</source>
+			<target state="translated">Dates de publication et droits d'accès</target></trans-unit>
+			<trans-unit id="pages.palettes.caching" xml:space="preserve" approved="yes">
+				<source>Caching</source>
+			<target state="translated">Mise en cache</target></trans-unit>
+			<trans-unit id="pages.palettes.config" xml:space="preserve" approved="yes">
+				<source>TypoScript Configuration</source>
+			<target state="translated">Configuration TypoScript</target></trans-unit>
+			<trans-unit id="pages.palettes.editorial" xml:space="preserve" approved="yes">
+				<source>Editorial</source>
+			<target state="translated">Éditorial</target></trans-unit>
+			<trans-unit id="pages.palettes.language" xml:space="preserve" approved="yes">
+				<source>Language</source>
+			<target state="translated">Langue</target></trans-unit>
+			<trans-unit id="pages.palettes.layout" xml:space="preserve" approved="yes">
+				<source>Page Layout</source>
+			<target state="translated">Mise en page</target></trans-unit>
+			<trans-unit id="pages.palettes.links" xml:space="preserve" approved="yes">
+				<source>Links to this Page</source>
+			<target state="translated">Liens vers cette page</target></trans-unit>
+			<trans-unit id="pages.palettes.media" xml:space="preserve" approved="yes">
+				<source>Files</source>
+			<target state="translated">Fichiers</target></trans-unit>
+			<trans-unit id="pages.palettes.metatags" xml:space="preserve" approved="yes">
+				<source>Meta Tags</source>
+			<target state="translated">Métadonnées</target></trans-unit>
+			<trans-unit id="pages.palettes.miscellaneous" xml:space="preserve" approved="yes">
+				<source>Miscellaneous</source>
+			<target state="translated">Divers</target></trans-unit>
+			<trans-unit id="pages.palettes.module" xml:space="preserve" approved="yes">
+				<source>Use as Container</source>
+			<target state="translated">Utilisé comme conteneur</target></trans-unit>
+			<trans-unit id="pages.palettes.replace" xml:space="preserve" approved="yes">
+				<source>Replace Content</source>
+			<target state="translated">Remplacer le contenu</target></trans-unit>
+			<trans-unit id="pages.palettes.standard" xml:space="preserve" approved="yes">
+				<source>Page</source>
+			<target state="translated">Page</target></trans-unit>
+			<trans-unit id="pages.palettes.storage" xml:space="preserve" approved="yes">
+				<source>General Record Storage Page</source>
+			<target state="translated">Page de stockage des enregistrements généraux</target></trans-unit>
+			<trans-unit id="pages.palettes.title" xml:space="preserve" approved="yes">
+				<source>Title</source>
+			<target state="translated">Titre</target></trans-unit>
+			<trans-unit id="pages.palettes.visibility" xml:space="preserve" approved="yes">
+				<source>Visibility</source>
+			<target state="translated">Visibilité</target></trans-unit>
+			<trans-unit id="pages.php_tree_stop_formlabel" xml:space="preserve" approved="yes">
+				<source>Stop Page Tree</source>
+			<target state="translated">Arrêter l'arborescence des pages</target></trans-unit>
+			<trans-unit id="pages.shortcut_formlabel" xml:space="preserve" approved="yes">
+				<source>Shortcut Target</source>
+			<target state="translated">Cible du raccourci</target></trans-unit>
+			<trans-unit id="pages.shortcut_mode" xml:space="preserve" approved="yes">
+				<source>Shortcut Mode:</source>
+			<target state="translated">Mode raccourci :</target></trans-unit>
+			<trans-unit id="pages.shortcut_mode_formlabel" xml:space="preserve" approved="yes">
+				<source>Shortcut Mode</source>
+			<target state="translated">Mode de raccourci</target></trans-unit>
+			<trans-unit id="pages.shortcut_mode.I.0" xml:space="preserve" approved="yes">
+				<source>Selected page</source>
+			<target state="translated">Page sélectionnée</target></trans-unit>
+			<trans-unit id="pages.shortcut_mode.I.1" xml:space="preserve" approved="yes">
+				<source>First subpage of selected/current page</source>
+			<target state="translated">Première sous-page</target></trans-unit>
+			<trans-unit id="pages.shortcut_mode.I.2" xml:space="preserve" approved="yes">
+				<source>Random subpage of selected/current page</source>
+			<target state="translated">Sous-page aléatoire</target></trans-unit>
+			<trans-unit id="pages.shortcut_mode.I.3" xml:space="preserve" approved="yes">
+				<source>Parent page of current page</source>
+			<target state="translated">Page parent de la page courante</target></trans-unit>
+			<trans-unit id="pages.starttime_formlabel" xml:space="preserve" approved="yes">
+				<source>Publish Date</source>
+			<target state="translated">Date de début de publication</target></trans-unit>
+			<trans-unit id="pages.storage_pid_formlabel" xml:space="preserve" approved="yes">
+				<source>Page</source>
+			<target state="translated">Page</target></trans-unit>
+			<trans-unit id="pages.subtitle" xml:space="preserve" approved="yes">
+				<source>Subtitle:</source>
+			<target state="translated">Sous-titre :</target></trans-unit>
+			<trans-unit id="pages.subtitle_formlabel" xml:space="preserve" approved="yes">
+				<source>Subtitle</source>
+			<target state="translated">Sous-titre</target></trans-unit>
+			<trans-unit id="pages.tabs.access" xml:space="preserve" approved="yes">
+				<source>Access</source>
+			<target state="translated">Accès</target></trans-unit>
+			<trans-unit id="pages.tabs.appearance" xml:space="preserve" approved="yes">
+				<source>Appearance</source>
+			<target state="translated">Apparence</target></trans-unit>
+			<trans-unit id="pages.tabs.behaviour" xml:space="preserve" approved="yes">
+				<source>Behaviour</source>
+			<target state="translated">Comportement</target></trans-unit>
+			<trans-unit id="pages.tabs.extended" xml:space="preserve" approved="yes">
+				<source>Extended</source>
+			<target state="translated">Etendu</target></trans-unit>
+			<trans-unit id="pages.tabs.files" xml:space="preserve" approved="yes">
+				<source>Resources</source>
+			<target state="translated">Ressources</target></trans-unit>
+			<trans-unit id="pages.tabs.metadata" xml:space="preserve" approved="yes">
+				<source>Metadata</source>
+			<target state="translated">Métadonnées</target></trans-unit>
+			<trans-unit id="pages.tabs.mount" xml:space="preserve" approved="yes">
+				<source>Mount</source>
+			<target state="translated">Point de montage</target></trans-unit>
+			<trans-unit id="pages.tabs.options" xml:space="preserve" approved="yes">
+				<source>Options</source>
+			<target state="translated">Options</target></trans-unit>
+			<trans-unit id="pages.tabs.resources" xml:space="preserve" approved="yes">
+				<source>Resources</source>
+			<target state="translated">Ressources</target></trans-unit>
+			<trans-unit id="pages.tabs.shortcut" xml:space="preserve" approved="yes">
+				<source>Shortcut</source>
+			<target state="translated">Raccourci</target></trans-unit>
+			<trans-unit id="pages.tabs.url" xml:space="preserve" approved="yes">
+				<source>URL</source>
+			<target state="translated">URL</target></trans-unit>
+			<trans-unit id="pages.target" xml:space="preserve" approved="yes">
+				<source>Target:</source>
+			<target state="translated">Cible :</target></trans-unit>
+			<trans-unit id="pages.target_formlabel" xml:space="preserve" approved="yes">
+				<source>Link Target</source>
+			<target state="translated">Cible des liens</target></trans-unit>
+			<trans-unit id="pages.title_formlabel" xml:space="preserve" approved="yes">
+				<source>Page Title</source>
+			<target state="translated">Titre de la page</target></trans-unit>
+			<trans-unit id="pages.TSconfig_formlabel" xml:space="preserve" approved="yes">
+				<source>Page TSConfig</source>
+			<target state="translated">TSConfig de la page</target></trans-unit>
+			<trans-unit id="pages.url" xml:space="preserve" approved="yes">
+				<source>URL:</source>
+			<target state="translated">URL :</target></trans-unit>
+			<trans-unit id="pages.url_formlabel" xml:space="preserve" approved="yes">
+				<source>URL</source>
+			<target state="translated">URL</target></trans-unit>
+			<trans-unit id="pages.url_scheme" xml:space="preserve" approved="yes">
+				<source>Enforce Protocol:</source>
+			<target state="translated">Forcer le protocole :</target></trans-unit>
+			<trans-unit id="pages.url_scheme_formlabel" xml:space="preserve" approved="yes">
+				<source>Use Protocol</source>
+			<target state="translated">Utiliser le protocole</target></trans-unit>
+			<trans-unit id="pages.url_scheme.http" xml:space="preserve" approved="yes">
+				<source>http://</source>
+			<target state="translated">http://</target></trans-unit>
+			<trans-unit id="pages.url_scheme.https" xml:space="preserve" approved="yes">
+				<source>https://</source>
+			<target state="translated">https://</target></trans-unit>
+			<trans-unit id="pages.urltype_formlabel" xml:space="preserve" approved="yes">
+				<source>Protocol</source>
+			<target state="translated">Protocole</target></trans-unit>
+			<trans-unit id="sys_domain" xml:space="preserve" approved="yes">
+				<source>Domain</source>
+			<target state="translated">Domaine</target></trans-unit>
+			<trans-unit id="sys_domain.domainName" xml:space="preserve" approved="yes">
+				<source>Domain:</source>
+			<target state="translated">Domaine:</target></trans-unit>
+			<trans-unit id="sys_domain.forced" xml:space="preserve" approved="yes">
+				<source>Always prepend this domain in links:</source>
+			<target state="translated">Toujours préfixer ce domaine dans les liens :</target></trans-unit>
+			<trans-unit id="sys_domain.prepend_params" xml:space="preserve" approved="yes">
+				<source>Transfer parameters to Redirect URL:</source>
+			<target state="translated">Transférer les paramètres vers l'URL:</target></trans-unit>
+			<trans-unit id="sys_domain.redirectHttpStatusCode" xml:space="preserve" approved="yes">
+				<source>HTTP Status Code for the Redirect:</source>
+			<target state="translated">Code de statut HTTP pour la redirection:</target></trans-unit>
+			<trans-unit id="sys_domain.redirectHttpStatusCode.301" xml:space="preserve" approved="yes">
+				<source>Moved permanently (301)</source>
+			<target state="translated">Déplacé de façon permanente (301)</target></trans-unit>
+			<trans-unit id="sys_domain.redirectHttpStatusCode.302" xml:space="preserve" approved="yes">
+				<source>Found (302)</source>
+			<target state="translated">Déplacé de façon temporaire (302)</target></trans-unit>
+			<trans-unit id="sys_domain.redirectHttpStatusCode.303" xml:space="preserve" approved="yes">
+				<source>See Other (303)</source>
+			<target state="translated">Autre (303)</target></trans-unit>
+			<trans-unit id="sys_domain.redirectHttpStatusCode.307" xml:space="preserve" approved="yes">
+				<source>Moved Temporarily (307)</source>
+			<target state="translated">Redirection temporaire (307)</target></trans-unit>
+			<trans-unit id="sys_domain.redirectTo" xml:space="preserve" approved="yes">
+				<source>Redirect to:</source>
+			<target state="translated">Rediriger vers:</target></trans-unit>
+			<trans-unit id="sys_template" xml:space="preserve" approved="yes">
+				<source>Template</source>
+			<target state="translated">Gabarit</target></trans-unit>
+			<trans-unit id="sys_template.basedOn" xml:space="preserve" approved="yes">
+				<source>Include Basis Template:</source>
+			<target state="translated">Inclure les gabarits de base:</target></trans-unit>
+			<trans-unit id="sys_template.basedOn_add" xml:space="preserve" approved="yes">
+				<source>Add New Basis Template</source>
+			<target state="translated">Ajouter un nouveau gabarit de base</target></trans-unit>
+			<trans-unit id="sys_template.clear" xml:space="preserve" approved="yes">
+				<source>Clear:</source>
+			<target state="translated">Effacer:</target></trans-unit>
+			<trans-unit id="sys_template.config" xml:space="preserve" approved="yes">
+				<source>Setup:</source>
+			<target state="translated">Configuration (setup):</target></trans-unit>
+			<trans-unit id="sys_template.constants" xml:space="preserve" approved="yes">
+				<source>Constants:</source>
+			<target state="translated">Constantes:</target></trans-unit>
+			<trans-unit id="sys_template.description" xml:space="preserve" approved="yes">
+				<source>Description:</source>
+			<target state="translated">Description:</target></trans-unit>
+			<trans-unit id="sys_template.editorcfg" xml:space="preserve" approved="yes">
+				<source>Backend Editor Configuration:</source>
+			<target state="translated">Configuration de l'éditeur backend:</target></trans-unit>
+			<trans-unit id="sys_template.includeStaticAfterBasedOn" xml:space="preserve" approved="yes">
+				<source>Include Static Templates After Basis Templates:</source>
+			<target state="translated">Inclure les gabarits statiques après les gabarits de base:</target></trans-unit>
+			<trans-unit id="sys_template.include_static_file" xml:space="preserve" approved="yes">
+				<source>Include static (from extensions):</source>
+			<target state="translated">Inclure les gabarits statiques des extensions:</target></trans-unit>
+			<trans-unit id="sys_template.nextLevel" xml:space="preserve" approved="yes">
+				<source>Template on Next Level:</source>
+			<target state="translated">Gabarit au prochain niveau:</target></trans-unit>
+			<trans-unit id="sys_template.resources" xml:space="preserve" approved="yes">
+				<source>Resources:</source>
+			<target state="translated">Ressources:</target></trans-unit>
+			<trans-unit id="sys_template.root" xml:space="preserve" approved="yes">
+				<source>Rootlevel:</source>
+			<target state="translated">Racine du site :</target></trans-unit>
+			<trans-unit id="sys_template.sitetitle" xml:space="preserve" approved="yes">
+				<source>Website Title:</source>
+			<target state="translated">Titre du site:</target></trans-unit>
+			<trans-unit id="sys_template.static_file_mode" xml:space="preserve" approved="yes">
+				<source>Static Template Files from TYPO3 Extensions:</source>
+			<target state="translated">Fichiers des gabarits statiques des extensions:</target></trans-unit>
+			<trans-unit id="sys_template.static_file_mode.0" xml:space="preserve" approved="yes">
+				<source>Default (include before if root flag is set)</source>
+			<target state="translated">Par défaut (inclure avant si la racine du site est cochée)</target></trans-unit>
+			<trans-unit id="sys_template.static_file_mode.1" xml:space="preserve" approved="yes">
+				<source>Always include before this template record</source>
+			<target state="translated">Toujours inclure avant ce gabarit</target></trans-unit>
+			<trans-unit id="sys_template.static_file_mode.2" xml:space="preserve" approved="yes">
+				<source>Never include before this template record</source>
+			<target state="translated">Ne jamais inclure avant ce gabarit</target></trans-unit>
+			<trans-unit id="sys_template.static_file_mode.3" xml:space="preserve" approved="yes">
+				<source>Include before all static templates if root flag is set</source>
+			<target state="translated">Inclure avant tous les gabarits statiques si la propriété racine est définie</target></trans-unit>
+			<trans-unit id="sys_template.tabs.access" xml:space="preserve" approved="yes">
+				<source>Access</source>
+			<target state="translated">Accès</target></trans-unit>
+			<trans-unit id="sys_template.tabs.files" xml:space="preserve" approved="yes">
+				<source>Resources</source>
+			<target state="translated">Ressources</target></trans-unit>
+			<trans-unit id="sys_template.tabs.include" xml:space="preserve" approved="yes">
+				<source>Includes</source>
+			<target state="translated">Inclusions</target></trans-unit>
+			<trans-unit id="sys_template.tabs.options" xml:space="preserve" approved="yes">
+				<source>Options</source>
+			<target state="translated">Options</target></trans-unit>
+			<trans-unit id="sys_template.title" xml:space="preserve" approved="yes">
+				<source>Template Title:</source>
+			<target state="translated">Titre du gabarit</target></trans-unit>
+			<trans-unit id="tt_content" xml:space="preserve" approved="yes">
+				<source>Page Content</source>
+			<target state="translated">Contenu de la page</target></trans-unit>
+		</body>
+	</file>
+</xliff>

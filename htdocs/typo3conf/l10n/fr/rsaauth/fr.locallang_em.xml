@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="rsaauth.config.temporaryDirectory">Chemin du dossier temporaire : Ce dossier contiendra les fichiers temporaires nécessaire pour le chiffrement / déchiffrement. Il devrait se trouver hors du dossier root du site et ne devrait pas être /tmp. Le dossier doit avoir des droits en 0700 et le propriétaire doit être l'utilisateur du serveur web. Si vide, typo3conf/ est utilisé. Ceci n'est pas SECURE. Assurez vous que le dossier est inclu dans open_basedir si vous utilisez cette configuration.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

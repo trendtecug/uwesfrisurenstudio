@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="age">Возраст</label>
+			<label index="changes">Изменения записи</label>
+			<label index="delete">удалить</label>
+			<label index="differenceMsg">В столбце Различия &lt;span class="diff-g"&gt; текстом зеленого цвета &lt;/span&gt; помечены новые изменения, а &lt;span class="diff-r"&gt; текстом красного цвета &lt;/span&gt; помечены старые, удаленные значения.</label>
+			<label index="differences">Различия</label>
+			<label index="elementHistory">Сейчас просматривается история элемента.</label>
+			<label index="elementHistory_link">Просмотреть всю историю страницы!</label>
+			<label index="externalChange">Внешнее изменение!</label>
+			<label index="fullView">Вернуть расширенный вид</label>
+			<label index="insert">вставить</label>
+			<label index="linkRecordHistory">Ограничить историю до текущего элемента</label>
+			<label index="markState">отметить это изменение</label>
+			<label index="maxSteps">Отобразить записи:</label>
+			<label index="maxSteps_all">ВСЕ</label>
+			<label index="maxSteps_marked">помеченные</label>
+			<label index="mergedDifferences">Предпросмотр восстановления</label>
+			<label index="no">Нет</label>
+			<label index="noDifferences">Нет различий для текущей страницы!</label>
+			<label index="return">Возврат</label>
+			<label index="returnLink">Нажмите, чтобы вернуться назад</label>
+			<label index="revertAll">Восстановить все отображенные изменения</label>
+			<label index="revertField">Восстановить текущее поле</label>
+			<label index="revertRecord">Восстановить текущую запись</label>
+			<label index="settings">Параметры</label>
+			<label index="showDiff">Показать разницу:</label>
+			<label index="showDiff_inline">Внутри</label>
+			<label index="showDiff_no">Нет</label>
+			<label index="showInsertDelete">Показать вставленные/удаленные записи:</label>
+			<label index="showSubElements">Показать подэлементы</label>
+			<label index="sumUpChanges">Восстановить (Предпросмотр)</label>
+			<label index="tableUid">Таблица:uid (Заголовок)</label>
+			<label index="time">Время</label>
+			<label index="title">Показать историю записей</label>
+			<label index="unmarkState">Снять отметку изменения</label>
+			<label index="user">Пользователь</label>
+			<label index="yes">Да</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

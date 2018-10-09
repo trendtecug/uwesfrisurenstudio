@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="status_fileSystem">Système de fichiers</label>
+      <label index="status_writable">Autorisé en écriture</label>
+      <label index="status_missingDirectory">Le répertoire requis est manquant</label>
+      <label index="status_nonExistingDirectory">Le répertoire n'existe pas</label>
+      <label index="status_recommendedWritableDirectory">Le répertoire devrait être autorisé en écriture</label>
+      <label index="status_requiredWritableDirectory">Le répertoire est interdit en écriture</label>
+      <label index="status_directoryDoesNotExist">%s n'existe pas.</label>
+      <label index="status_directoryDoesNotExistCouldNotCreate">%s n'existe pas ou n'a pu être créé.</label>
+      <label index="status_directoryShouldAlsoBeWritable">Notez également qu'il devrait être autorisé en écriture, s'il existait.</label>
+      <label index="status_directoryShouldBeWritable">%s devrait être autorisé en écriture</label>
+      <label index="status_directoryMustBeWritable">%s doit être autorisé en écriture</label>
+      <label index="status_remainingUpdates">Mises à jour restantes</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

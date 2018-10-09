@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="age">Âge</label>
+			<label index="changes">Changelog</label>
+			<label index="delete">effacer</label>
+			<label index="differenceMsg">Dans la colonne "Différences" vous pouvez voir les changement à chaque modification d'enregistrement. Les nouvelles valeurs sont affichées en &lt;span class="diff-g"&gt;texte vert&lt;/span&gt; et les anciennes valeurs qui ont été supprimées sont affichées en &lt;span class="diff-r"&gt;texte rouge&lt;/span&gt;.</label>
+			<label index="differences">Différences</label>
+			<label index="elementHistory">Vous regardez actuellement l'historique d'un élément</label>
+			<label index="elementHistory_link">Afficher l'historique complet de la page!</label>
+			<label index="externalChange">Changement intermediaire externe!</label>
+			<label index="fullView">Retour à la vue complète</label>
+			<label index="insert">ajout</label>
+			<label index="linkRecordHistory">Limiter l'historique de cet enregistrement</label>
+			<label index="markState">Marquer cette modification</label>
+			<label index="maxSteps">Afficher les enregistrements:</label>
+			<label index="maxSteps_all">TOUS</label>
+			<label index="maxSteps_marked">marquer</label>
+			<label index="mergedDifferences">Aperçu pour restauration</label>
+			<label index="no">Non</label>
+			<label index="noDifferences">Il na aucune différence à la page en cours.</label>
+			<label index="return">Retourner</label>
+			<label index="returnLink">Cliquez ici pour retourner en arrière</label>
+			<label index="revertAll">Restaurer tout les changements affichés</label>
+			<label index="revertField">Restaurer ce champ</label>
+			<label index="revertRecord">Restaurer l'élément</label>
+			<label index="settings">Option</label>
+			<label index="showDiff">Afficher les différences:</label>
+			<label index="showDiff_inline">En ligne</label>
+			<label index="showDiff_no">Non</label>
+			<label index="showInsertDelete">Afficher les ajouts/supressions d'élements:</label>
+			<label index="showSubElements">Afficher les sous elements:</label>
+			<label index="sumUpChanges">Restauration (prévisualisation)</label>
+			<label index="tableUid">Table:uid (Titre)</label>
+			<label index="time">Date et heure</label>
+			<label index="title">Afficher l'historique de l'enregistrement</label>
+			<label index="unmarkState">Démarquer cette modification</label>
+			<label index="user">Utilisateur</label>
+			<label index="yes">Oui</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

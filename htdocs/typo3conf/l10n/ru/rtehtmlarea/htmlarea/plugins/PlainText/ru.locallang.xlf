@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:10Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Access-to-clipboard-denied" approved="yes">
+				<source>Content could not be pasted as plain text because permission to access the clipboard was denied.</source>
+				<target state="translated">Содержимое в виде обычного текста не может быть вставлено, так как доступ к буферу обмена запрещен.</target>
+			</trans-unit>
+			<trans-unit id="disablepasteFormat" approved="yes">
+				<source>Disable paste structure and basic format</source>
+				<target state="translated">Запретить вставлять структуру и основное форматирование</target>
+			</trans-unit>
+			<trans-unit id="disablepasteStructure" approved="yes">
+				<source>Disable paste structure only</source>
+				<target state="translated">Запретить вставлять лишь структуру</target>
+			</trans-unit>
+			<trans-unit id="disableplainText" approved="yes">
+				<source>Disable paste as plain text</source>
+				<target state="translated">Запретить вставлять обычный текст</target>
+			</trans-unit>
+			<trans-unit id="enablepasteFormat" approved="yes">
+				<source>Enable paste structure and basic format</source>
+				<target state="translated">Разрешить вставлять структуру и основное форматирование</target>
+			</trans-unit>
+			<trans-unit id="enablepasteStructure" approved="yes">
+				<source>Enable paste structure only</source>
+				<target state="translated">Разрешить вставлять лишь структуру</target>
+			</trans-unit>
+			<trans-unit id="enableplainText" approved="yes">
+				<source>Enable paste as plain text</source>
+				<target state="translated">Разрешить вставлять обычный текст</target>
+			</trans-unit>
+			<trans-unit id="Paste-as-Plain-Text" approved="yes">
+				<source>Paste as plain text</source>
+				<target state="translated">Вставить как обычный текст</target>
+			</trans-unit>
+			<trans-unit id="PasteBehaviourTooltip" approved="yes">
+				<source>Select alternate paste behaviour</source>
+				<target state="translated">Выбор альтернативного события вставки</target>
+			</trans-unit>
+			<trans-unit id="pasteFormat" approved="yes">
+				<source>Paste structure and basic format</source>
+				<target state="translated">Вставить структуру и основное форматирование</target>
+			</trans-unit>
+			<trans-unit id="pasteInPastingPad" approved="yes">
+				<source>Paste the content into this pasting pad and click OK.</source>
+				<target state="translated">Вставьте содержимое в этот карман и нажмите OK/</target>
+			</trans-unit>
+			<trans-unit id="pasteStructure" approved="yes">
+				<source>Paste structure only</source>
+				<target state="translated">Вставить только структуру</target>
+			</trans-unit>
+			<trans-unit id="PasteToggleTooltip" approved="yes">
+				<source>Toggle paste behaviour</source>
+				<target state="translated">Переключатель события вставки</target>
+			</trans-unit>
+			<trans-unit id="plainText" approved="yes">
+				<source>Paste as plain text</source>
+				<target state="translated">Вставить как обычный текст</target>
+			</trans-unit>
+			<trans-unit id="rteCleanPasteBehaviour" approved="yes">
+				<source>Clean paste behaviour</source>
+				<target state="translated">Сбросить поведение при вставке</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

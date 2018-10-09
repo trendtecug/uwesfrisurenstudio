@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+      <label index="pageTitle">Titolo pagina:</label>
+      <label index="path">Percorso:</label>
+      <label index="user">Utente:</label>
+      <label index="group">Gruppo:</label>
+      <label index="everybody">Tutti:</label>
+      <label index="thisUser">Questo utente:</label>
+      <label index="mainGroup">Gruppo principale:</label>
+      <label index="editLock">Il blocco della funzione di Edit inibisce tutte le funzioni di editing</label>
+      <label index="noReadAccess">L'utente non ha permessi in lettura per questi DB-mounts!</label>
+      <label index="live">[LIVE]</label>
+      <label index="defaultDraft">[Sito di default in BOZZA]</label>
+      <label index="notAccessible">ATTENZIONE: la pagina di montaggio dello spazio web, con la seguente id, relativa a questo Workspace non è acessibile:</label>
+      <label index="compareUserSettings">Compara Configurazione Utenti:</label>
+      <label index="listUsersOnline">Mostra Utenti Online</label>
+      <label index="backendUserAdministration">Gestione Utenti di Backend</label>
+      <label index="filemounts">Punti di montaggio per files</label>
+      <label index="webmounts">Punti di montaggio per le pagine web</label>
+      <label index="defaultUploadPath">Percorso di default per l'upload</label>
+      <label index="mainUserGroup">Gruppo principale</label>
+      <label index="memberOfGroups">Membro di gruppi</label>
+      <label index="pageTypesAccess">Tipi di pagina accessibili</label>
+      <label index="selectTables">Seleziona tabelle</label>
+      <label index="modifyTables">Modifica tabelle</label>
+      <label index="nonExcludeFields">Campi da non escludere</label>
+      <label index="explicitAllowDeny">Permetti/Proibisci esplicito</label>
+      <label index="limitToLanguages">Limiti di lingua</label>
+      <label index="workspacePermissions">Permessi Workspace</label>
+      <label index="workspaceMembership">Proprietà Workspace</label>
+      <label index="customOptions">Opzioni personalizzate</label>
+      <label index="modules">Moduli</label>
+      <label index="tsconfig">TSconfig</label>
+      <label index="tsconfigHL">TSconfig HL</label>
+      <label index="nonMountedReadablePages">Pagine leggibili non montate</label>
+      <label index="backToOverview">&lt; Indietro alla panoramica</label>
+      <label index="userInfo">Informazione utente</label>
+      <label index="groupBy">Raggruppa per:</label>
+      <label index="update">Aggiorna</label>
+      <label index="groupAndCompareUsers">Gruppi e Comparazione Utenti</label>
+      <label index="tooManyUsers">Ci sono troppi utenti:</label>
+      <label index="canOnlyDisplay">Questa funzione può visualizzare solamente il seguente numero di utenti alla volta:</label>
+      <label index="newUser">Crea nuovo utente</label>
+      <label index="usernames">Nomi utente:</label>
+      <label index="switchUserTo">Passa a questo utente:</label>
+      <label index="changeToMode">[passaggio diretto]</label>
+      <label index="switchBackMode">[con possibilità di ritorno]</label>
+      <label index="cachedGrouplistsUpdated">(Tutte le liste di gruppi in cache sono stati aggiornate)</label>
+      <label index="result">Risultato:</label>
+      <label index="showInformation">Mostra informazioni</label>
+      <label index="sureToDelete">Sei sicuro di voler eliminare questo elemento?</label>
+      <label index="delete">Elimina(!)</label>
+      <label index="timestamp">Timestamp</label>
+      <label index="host">Host:</label>
+      <label index="username">Nome utente:</label>
+      <label index="whoIsOnline">Chi c'é online</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

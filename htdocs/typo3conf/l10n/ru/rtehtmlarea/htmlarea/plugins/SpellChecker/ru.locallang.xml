@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="Cancel">Отмена</label>
+			<label index="CONFIRM_LINK_CLICK">Пожалуйста, подтвердите, что Вы хотите открыть эту ссылку</label>
+			<label index="Dictionary">Словарь</label>
+			<label index="Document information">Информация о документе</label>
+			<label index="Finished list of mispelled words">Окончательный список слов с ошибками</label>
+			<label index="HTMLArea Spell Checker">Проверка правописания</label>
+			<label index="Ignore">Игнорировать</label>
+			<label index="Ignore all">Игнорировать все</label>
+			<label index="Info">Информация</label>
+			<label index="I will open it in a new page.">Открыть его на новой странице.</label>
+			<label index="Learn">Добавить в словарь</label>
+			<label index="Misspelled words">Слов с ошибками</label>
+			<label index="NO_ERRORS">Слова с ошибками не найдены с выбранным словарем</label>
+			<label index="NO_ERRORS_CLOSING">Проверка правописания окончена, ошибок не найдено. Закрытие...</label>
+			<label index="No information available">Информации нет</label>
+			<label index="occurrences">вхождения</label>
+			<label index="of the word">слова</label>
+			<label index="OK">ОК</label>
+			<label index="One occurrence">Одно вхождение</label>
+			<label index="Original word">Оригинальное слово</label>
+			<label index="Please wait. Calling spell checker.">Пожалуйста, подождите. Вызов проверки правописания.</label>
+			<label index="Please wait: changing dictionary to">Пожалуйста, подождите: изменение словаря на</label>
+			<label index="pliz weit ;-)">Пожалуйста подождите...</label>
+			<label index="QUIT_CONFIRMATION">При этом все изменения не будут учтены и проверку правописания завершиться. Продолжать?</label>
+			<label index="Re-check">Проверить ещё раз</label>
+			<label index="Replace">Заменить</label>
+			<label index="Replace all">Заменить все</label>
+			<label index="Replacement">Замена</label>
+			<label index="Replace with">Заменить на</label>
+			<label index="Revert">Вернуть</label>
+			<label index="SC-spell-check">Правописание</label>
+			<label index="seconds">сек.</label>
+			<label index="Spell Checker">Проверка правописания</label>
+			<label index="Spelling checked in">Проверено за</label>
+			<label index="Suggestions">Предположения</label>
+			<label index="Total suggestions">Всего предположений</label>
+			<label index="Total words">Всего слов</label>
+			<label index="Total words suggested">Всего предложено слов</label>
+			<label index="Two occurrences">Два вхождения</label>
+			<label index="was found.">было найдено</label>
+			<label index="were found.">было найдено</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

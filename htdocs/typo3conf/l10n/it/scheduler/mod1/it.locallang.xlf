@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T04:14:59Z" product-name="scheduler">
+		<header/>
+		<body>
+			<trans-unit id="action.add" approved="yes">
+				<source>Add task</source>
+				<target state="translated">Aggiungi task</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Aggiungi attività</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="action.edit" approved="yes">
+				<source>Edit task</source>
+				<target state="translated">Modifica task</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Modifica attività</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="action.run_task">
+				<source>Run task</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Esegui attività</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="button.cancel" approved="yes">
+				<source>Cancel</source>
+				<target state="translated">Annulla</target>
+			</trans-unit>
+			<trans-unit id="function.check" approved="yes">
+				<source>Setup check</source>
+				<target state="translated">Controllo setup</target>
+			</trans-unit>
+			<trans-unit id="function.info" approved="yes">
+				<source>Information</source>
+				<target state="translated">Informazioni</target>
+			</trans-unit>
+			<trans-unit id="function.scheduler" approved="yes">
+				<source>Scheduled tasks</source>
+				<target state="translated">Task programmati</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Attività pianificate</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="hdg.cliScript" approved="yes">
+				<source>CLI script</source>
+				<target state="translated">Script CLI</target>
+			</trans-unit>
+			<trans-unit id="hdg.lastRun" approved="yes">
+				<source>Last run</source>
+				<target state="translated">Ultima esecuzione</target>
+			</trans-unit>
+			<trans-unit id="hdg.schedulerUser" approved="yes">
+				<source>TYPO3 Scheduler backend user</source>
+				<target state="translated">Utente di backend TYPO3 Scheduler</target>
+			</trans-unit>
+			<trans-unit id="label.automatically" approved="yes">
+				<source>automatically</source>
+				<target state="translated">automaticamente</target>
+			</trans-unit>
+			<trans-unit id="label.cachingFrameworkGarbageCollection.selectBackends">
+				<source>Backend types</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="label.checkAll" approved="yes">
+				<source>Check/uncheck all</source>
+				<target state="translated">Seleziona/deseleziona tutto</target>
+			</trans-unit>
+			<trans-unit id="label.class" approved="yes">
+				<source>Class</source>
+				<target state="translated">Class</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Classe</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="label.cron" approved="yes">
+				<source>Cron</source>
+				<target state="translated">Cron</target>
+			</trans-unit>
+			<trans-unit id="label.defType">
+				<source>Definition type</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Tipo di definizione</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="label.defType.cron">
+				<source>Cron command</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Comando cron</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="label.defType.interval" approved="yes">
+				<source>Interval</source>
+				<target state="translated">Intervallo</target>
+			</trans-unit>
+			<trans-unit id="label.description" approved="yes">
+				<source>Description</source>
+				<target state="translated">Descrizione</target>
+			</trans-unit>
+			<trans-unit id="label.email" approved="yes">
+				<source>Email</source>
+				<target state="translated">Email</target>
+			</trans-unit>
+			<trans-unit id="label.end" approved="yes">
+				<source>End (HH:MM DD-MM-YYYY)</source>
+				<target state="translated">Fine (HH:MM GG-MM-AAAA)</target>
+			</trans-unit>
+			<trans-unit id="label.executeSelected" approved="yes">
+				<source>Execute selected tasks</source>
+				<target state="translated">Esegui le attività selezionate</target>
+			</trans-unit>
+			<trans-unit id="label.extension" approved="yes">
+				<source>Extension</source>
+				<target state="translated">Estensione</target>
+			</trans-unit>
+			<trans-unit id="label.fileStorageExtraction.fileCount">
+				<source>Number of files per run</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="label.fileStorageExtraction.registeredExtractors">
+				<source>Registered extractors</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="label.fileStorageExtraction.registeredExtractors.extractor">
+				<source>%1$s with priority %2$d</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>%1$s con priorità %2$d</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="label.fileStorageExtraction.registeredExtractors.with_extractors">
+				<source>Following extractors have been registered and will be used when running this task:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="label.fileStorageExtraction.registeredExtractors.without_extractors">
+				<source>There currently is no extractor registered. This task will have no effect!</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="label.fileStorageIndexing.storage">
+				<source>Storage to index</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="label.frequency" approved="yes">
+				<source>Frequency</source>
+				<target state="translated">Frequenza</target>
+			</trans-unit>
+			<trans-unit id="label.frequency.long">
+				<source>Frequency (seconds or cron command)</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Frequenza (secondi o comando cron)</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="label.group">
+				<source>Task group</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Gruppo di attività</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="label.id" approved="yes">
+				<source>ID</source>
+				<target state="translated">ID</target>
+			</trans-unit>
+			<trans-unit id="label.lastExecution" approved="yes">
+				<source>Last Execution</source>
+				<target state="translated">Ultima esecuzione</target>
+			</trans-unit>
+			<trans-unit id="label.manual" approved="yes">
+				<source>Manual</source>
+				<target state="translated">Manuale</target>
+			</trans-unit>
+			<trans-unit id="label.manually" approved="yes">
+				<source>manually</source>
+				<target state="translated">manualmente</target>
+			</trans-unit>
+			<trans-unit id="label.name" approved="yes">
+				<source>Name</source>
+				<target state="translated">Nome</target>
+			</trans-unit>
+			<trans-unit id="label.nextExecution" approved="yes">
+				<source>Next Execution</source>
+				<target state="translated">Prossima esecuzione</target>
+			</trans-unit>
+			<trans-unit id="label.parallel" approved="yes">
+				<source>Parallel Execution</source>
+				<target state="translated">Esecuzione parallela</target>
+			</trans-unit>
+			<trans-unit id="label.parallel.long" approved="yes">
+				<source>Allow Parallel Execution</source>
+				<target state="translated">Consenti Esecuzione Parallela</target>
+			</trans-unit>
+			<trans-unit id="label.recyclerGarbageCollection.numberOfDays" approved="yes">
+				<source>Number of days until removing files</source>
+				<target state="translated">Numero di giorni alla rimozione dei file</target>
+			</trans-unit>
+			<trans-unit id="label.serverTime">
+				<source>Server time</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="label.sleepTime">
+				<source>Sleep time</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="label.start" approved="yes">
+				<source>Start (HH:MM DD-MM-YYYY)</source>
+				<target state="translated">Inizio (HH:MM GG-MM-AAAA)</target>
+			</trans-unit>
+			<trans-unit id="label.tableGarbageCollection.additionalInformationAllTables" approved="yes">
+				<source>All tables</source>
+				<target state="translated">Tutte le tabelle</target>
+			</trans-unit>
+			<trans-unit id="label.tableGarbageCollection.additionalInformationTable" approved="yes">
+				<source>Table: %s</source>
+				<target state="translated">Tabella: %s</target>
+			</trans-unit>
+			<trans-unit id="label.tableGarbageCollection.allTables" approved="yes">
+				<source>Clean all available tables</source>
+				<target state="translated">Svuota tutte le tabelle</target>
+			</trans-unit>
+			<trans-unit id="label.tableGarbageCollection.numberOfDays">
+				<source>Delete entries older than given number of days</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Elimina gli oggetti più vecchi del numero di giorni indicato</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="label.tableGarbageCollection.table" approved="yes">
+				<source>Table to clean up</source>
+				<target state="translated">Tabella da ripulire</target>
+			</trans-unit>
+			<trans-unit id="label.type">
+				<source>Type</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Tipo</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="label.type.recurring">
+				<source>Recurring</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Ricorrente</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="label.type.single">
+				<source>Single</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="strizzol">
+					<target>Singola</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.addError">
+				<source>The task could not be added.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Impossibile aggiungere l'attività.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.addSuccess">
+				<source>The task was added successfully.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>L'attività è stata aggiunta con successo.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.cliScript">
+				<source>The script to execute the Scheduler from the command line is: &lt;strong&gt;"%s scheduler"&lt;/strong&gt;.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Lo script per eseguire lo Scheduler dalla linea di comando è: &lt;strong&gt;"%s scheduler"&lt;/strong&gt;.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.cliScriptExecutable">
+				<source>The webserver user is allowed execute this script.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>L'utente del webserver è autorizzato a eseguire questo script.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.cliScriptNotExecutable">
+				<source>The webserver user is not allowed to execute this script.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>L'utente del webserver non è autorizzato a eseguire questo script.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.delete">
+				<source>Are you sure you want to delete this task?</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Sei sicuro di voler eliminare questa attività?</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.deleteError">
+				<source>The task could not be deleted.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Impossibile cancellare l'attività.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.deleteSuccess">
+				<source>The task was successfully deleted.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>L'attività è stata cancellata con successo.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.endDateSmallerThanStartDate">
+				<source>The end date is before the start date.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>La data di conclusione è antecedente alla data di inizio.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.executed">
+				<source>Executed: %s</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Eseguito: %s</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.executionFailed">
+				<source>Execution of task "%1$s" failed with the following message: %2$s</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>L'esecuzione dell'attività "%1$s" è fallita con il seguente messaggio: %2$s</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.executionFailureDefault">
+				<source>The execution failed, but the error message could not be retrieved (it was probably too large). Sorry.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg.executionFailureReport">
+				<source>Execution failed: %1$d, %2$s</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Esecuzione fallita: %1$d, %2$s</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.frequencyError">
+				<source>Invalid frequency. Please enter either a number of seconds or a valid cron command. The cron parser said: %1$s [code: %2$d].</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Frequenza non valida. Inserisci un numero di secondi oppure un comando cron valido. Il decodificatore di cron ha indicato: %1$s [codice: %2$d].</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.incompleteLastRun">
+				<source>The information about the last execution of the Scheduler is incomplete.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg.infoScreenIntro">
+				<source>This is the list of all available tasks in this TYPO3 installation. Click on the icon at the far right to directly create a new scheduled task of the chosen type.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Questo è l'elenco delle attività disponibili in questa installazione di TYPO3. Fai clic sull'icona all'estrema destra per creare direttamente una nuova attività pianificata del tipo scelto.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.invalidEndDate">
+				<source>End date is invalid.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>La data di fine non è valida.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.invalidFrequency">
+				<source>Invalid frequency. Please enter either a number of seconds or a valid cron command.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Frequenza non valida. Per favore inserisci un numero di secondi o un comando cron valido.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.invalidNumberOfDays">
+				<source>Number of days is invalid.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Il numero di giorni non è valido.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.invalidSleepTime">
+				<source>Please enter a sleep time greater or equal to 0 (zero).</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg.invalidStartDate">
+				<source>Start date is invalid.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>La data d'inizio non è valida.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.invalidTaskClass">
+				<source>Class %s of the registered task could not be found. You should re-install the extension that provided it or simply delete this task.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg.invalidTaskClassEdit">
+				<source>The current class (%s) could not be found. Change it below or consider deleting this task altogether.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>La classe attuale (%s) non è stata trovata. Cambiala qui sotto oppure considera la possibilità di rimuovere del tutto questa attività.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.lastRun">
+				<source>The Scheduler was last started (%1$s) on %2$s at %3$s and ended on %4$s at %5$s.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg.maynotDeleteRunningTask">
+				<source>A running task may not be deleted.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Un'attività in esecuzione non può essere eliminata.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.maynotEditRunningTask">
+				<source>A running task may not be edited.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Un'attività in esecuzione non può essere modificata.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.maynotStopNonRunningTask">
+				<source>The task is not running. There are no executions to unmark.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg.noCacheBackendSelected">
+				<source>Please select at least one cache backend.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg.noEmail">
+				<source>Please enter an email address.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Per favore inserisci un indirizzo email.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.noFrequency">
+				<source>No frequency was defined, either as an interval or as a cron command.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Non è stata definita una frequenza, né come intervallo né come comando cron.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.noLastRun">
+				<source>The Scheduler has never yet run or the information about the last run has been lost.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg.noStartDate">
+				<source>Please define a start date.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Per favore definisci la data d'inizio.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.noTaskClassFound">
+				<source>The selected task class could not be found. You should probably contact the task's developers.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg.noTasks">
+				<source>No tasks defined yet.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Non è stata ancora definita alcuna attività.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.noTasksDefined">
+				<source>There are currently no task classes available at all. To be able to create new tasks, you must either enable the samples provided by the Scheduler or install some other extension that relies on the Scheduler.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg.notExecuted">
+				<source>Not executed: %s</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Non eseguito: %s</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.schedulerSetupCheck">
+				<source>This screen checks if the requisites for running the Scheduler as a cron job are fulfilled. It also displays information about the last run of the Scheduler.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg.schedulerUser">
+				<source>The backend user "_cli_scheduler" is used by the CLI-script to log into TYPO3. This user may not have administrator privileges. The user's password is not important but should be set to a secure value for security reasons.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg.schedulerUserFound">
+				<source>The backend user "_cli_scheduler" was found.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>L'utente di backend "_cli_scheduler" è stato trovato.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.schedulerUserFoundButDisabled">
+				<source>The backend user "_cli_scheduler" exists but is currently disabled.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>L'utente di backend "_cli_scheduler" esiste ma è disabilitato.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.schedulerUserMissing">
+				<source>The backend user "_cli_scheduler" was not found.&lt;br/&gt;&lt;br/&gt; &lt;a href="%s" class="btn btn-danger" title="Click to create the missing user"&gt;Create the user now&lt;/a&gt;</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>L'utente di backend "_cli_scheduler" non è stato trovato.&lt;br/&gt;&lt;br/&gt; &lt;a href="%s" class="btn btn-danger" title="Click to create the missing user"&gt;Crea l'utente ora&lt;/a&gt;</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.selectionOfNonExistingCacheBackends">
+				<source>Some of the selected cache backends do not exist. Please select valid backends only.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg.serverTime">
+				<source>Current server time is %s.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg.serverTimeHelp">
+				<source>All dates and times in the Scheduler are measured according to the server's time, as the Scheduler is run purely on the server-side.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg.stop">
+				<source>Are you sure you want to mark this task as not running? Note that this will not stop the actual script (if unsure please refer to the manual).</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg.stopError">
+				<source>The task could not be marked as non-running.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg.stopSuccess">
+				<source>The task was successfully marked as non-running.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg.taskNotFound">
+				<source>The requested task (UID: %d) was not found.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>L'attività richiesta (UID: %d) non è stata trovata.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.updateError">
+				<source>The task could not be updated.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Non è possibile aggiornare l'attività.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.updateSuccess">
+				<source>The task was updated successfully.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>L'attività è stata aggiornata con successo.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.userCreated">
+				<source>The "_cli_scheduler" user was created successfully.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>L'utente "_cli_scheduler" è stato creato con successo.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.userExists">
+				<source>The "_cli_scheduler" user already exists. It was not created.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>L'utente "_cli_scheduler" esiste già. Non è stato creato.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg.userNotCreated">
+				<source>The creation of the "_cli_scheduler" user failed.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>La creazione dell'utente "_cli_scheduler" è fallita.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="none">
+				<source>None</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status">
+				<source>Status</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Stato</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="status.disabled">
+				<source>disabled</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status.failure">
+				<source>failure</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status.late">
+				<source>late</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status.legend" xml:space="preserve">
+				<source>Status Legend</source>
+			<target/><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status.legend.disabled" xml:space="preserve">
+				<source>Disabled, will not be executed, except manually</source>
+			<target/><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><alt-trans xml:space="preserve" origin="c_strizzolo"><target>Disabilitato, non sarà eseguito se non manualmente</target></alt-trans></trans-unit>
+			<trans-unit id="status.legend.failure" xml:space="preserve">
+				<source>Failure! An error occurred during the last execution (move over bullet for more details)</source>
+			<target/><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status.legend.late" xml:space="preserve">
+				<source>Late, will run with next execution</source>
+			<target/><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status.legend.running" xml:space="preserve">
+				<source>Currently running</source>
+			<target/><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status.legend.scheduled" xml:space="preserve">
+				<source>Scheduled, will run on next possible execution</source>
+			<target/><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status.progress">
+				<source>Progress</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="status.running">
+				<source>running</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>in esecuzione</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="status.scheduled">
+				<source>scheduled</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="task" approved="yes">
+				<source>Task</source>
+				<target state="translated">Task</target>
+				<alt-trans xml:space="preserve" origin="c_strizzolo">
+					<target>Attività</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="title">
+				<source>TYPO3 Scheduler administration module</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

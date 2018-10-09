@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="mlang_labels_tabdescr">Questo modulo vi consente di personalizzare il vostro profilo utente. Potete modificare la lingua di default, nome e indirizzo email. Potete anche configurare altre caratteristiche del sistema.</label>
+			<label index="mlang_labels_tablabel">Setup Utente</label>
+			<label index="mlang_tabs_tab">Setup Utente</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

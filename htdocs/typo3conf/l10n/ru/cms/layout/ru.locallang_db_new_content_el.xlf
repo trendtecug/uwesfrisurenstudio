@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T00:29:43Z" product-name="cms">
+		<header/>
+		<body>
+			<trans-unit id="common" xml:space="preserve" approved="yes">
+				<source>Typical page content</source>
+			<target state="translated">Обычные типы содержимого</target></trans-unit>
+			<trans-unit id="common_bulletList_description" xml:space="preserve" approved="yes">
+				<source>A single bullet list.</source>
+			<target state="translated">Обычный маркированный список.</target></trans-unit>
+			<trans-unit id="common_bulletList_title" xml:space="preserve" approved="yes">
+				<source>Bullet List</source>
+			<target state="translated">Маркированный список</target></trans-unit>
+			<trans-unit id="common_headerOnly_description" xml:space="preserve" approved="yes">
+				<source>Adds a header only.</source>
+			<target state="translated">Добавлять только заголовок.</target></trans-unit>
+			<trans-unit id="common_headerOnly_title" xml:space="preserve" approved="yes">
+				<source>Header Only</source>
+			<target state="translated">Только заголовок</target></trans-unit>
+			<trans-unit id="common_imagesOnly_description" xml:space="preserve" approved="yes">
+				<source>Any number of images aligned in columns and rows with a caption.</source>
+			<target state="translated">Набор изображений, выстроенных в столбцы и строки с подписями.</target></trans-unit>
+			<trans-unit id="common_imagesOnly_title" xml:space="preserve" approved="yes">
+				<source>Images Only</source>
+			<target state="translated">Только изображения</target></trans-unit>
+			<trans-unit id="common_regularText_description" xml:space="preserve" approved="yes">
+				<source>A regular text element with header and bodytext fields.</source>
+			<target state="translated">Обычный текстовый элемент с полем для заголовка и содержимого</target></trans-unit>
+			<trans-unit id="common_regularText_title" xml:space="preserve" approved="yes">
+				<source>Regular Text Element</source>
+			<target state="translated">Обычный текстовый элемент</target></trans-unit>
+			<trans-unit id="common_table_description" xml:space="preserve" approved="yes">
+				<source>A simple table.</source>
+			<target state="translated">Простая таблица.</target></trans-unit>
+			<trans-unit id="common_table_title" xml:space="preserve" approved="yes">
+				<source>Table</source>
+			<target state="translated">Таблица</target></trans-unit>
+			<trans-unit id="common_textImage_description" xml:space="preserve" approved="yes">
+				<source>Any number of images wrapped right around a regular text element.</source>
+			<target state="translated">Набор изображений, помещенных около обычного текстового элемента.</target></trans-unit>
+			<trans-unit id="common_textImage_title" xml:space="preserve" approved="yes">
+				<source>Text &amp; Images</source>
+			<target state="translated">Текст с изображением</target></trans-unit>
+			<trans-unit id="forms" xml:space="preserve" approved="yes">
+				<source>Form elements</source>
+			<target state="translated">Формы</target></trans-unit>
+			<trans-unit id="forms_login_description" xml:space="preserve" approved="yes">
+				<source>Login/logout form used to password protect pages allowing only authorised website users and groups access.</source>
+			<target state="translated">Форма авторизации в системе. Используется для организации доступа пользователей и определенных групп к защищённым паролем страницам сайта.</target></trans-unit>
+			<trans-unit id="forms_login_title" xml:space="preserve" approved="yes">
+				<source>Login Form</source>
+			<target state="translated">Форма авторизации</target></trans-unit>
+			<trans-unit id="forms_mail_description" xml:space="preserve" approved="yes">
+				<source>A mail form allowing website users to submit responses.</source>
+			<target state="translated">Почтовая форма, позволяющая посетителям отправлять сообщения.</target></trans-unit>
+			<trans-unit id="forms_mail_title" xml:space="preserve" approved="yes">
+				<source>Mail Form</source>
+			<target state="translated">Почтовая форма</target></trans-unit>
+			<trans-unit id="forms_search_description" xml:space="preserve" approved="yes">
+				<source>Draws a search form and the search result if a search is performed.</source>
+			<target state="translated">Форму поиска и результаты поиска.</target></trans-unit>
+			<trans-unit id="forms_search_title" xml:space="preserve" approved="yes">
+				<source>Search Form</source>
+			<target state="translated">Форма поиска</target></trans-unit>
+			<trans-unit id="plugins" xml:space="preserve" approved="yes">
+				<source>Plugins</source>
+			<target state="translated">Дополнения</target></trans-unit>
+			<trans-unit id="plugins_general_description" xml:space="preserve" approved="yes">
+				<source>Select this element type to insert a plugin which cannot be found amongst the options below.</source>
+			<target state="translated">Выберите этот пункт для вставки дополнений, отсутствующих в списке ниже.</target></trans-unit>
+			<trans-unit id="plugins_general_title" xml:space="preserve" approved="yes">
+				<source>General Plugin</source>
+			<target state="translated">Общие дополнения</target></trans-unit>
+			<trans-unit id="sel1" xml:space="preserve" approved="yes">
+				<source>Please select the type of page content you wish to create:</source>
+			<target state="translated">Выберите, пожалуйста, какой тип содержимого вы хотите создать:</target></trans-unit>
+			<trans-unit id="sel2" xml:space="preserve" approved="yes">
+				<source>Now, click the position where you wish to place the element on the page:</source>
+			<target state="translated">Теперь выберите то место в странице, куда вы хотите поместить элемент:</target></trans-unit>
+			<trans-unit id="special" xml:space="preserve" approved="yes">
+				<source>Special elements</source>
+			<target state="translated">Особые элементы</target></trans-unit>
+			<trans-unit id="special_divider_description" xml:space="preserve" approved="yes">
+				<source>This element inserts a visual divider, which is by default a horizontal line.</source>
+			<target state="translated">Этот элемент представляет из себя визуальное разделение в виде горизонтальной линии.</target></trans-unit>
+			<trans-unit id="special_divider_title" xml:space="preserve" approved="yes">
+				<source>Divider</source>
+			<target state="translated">Разделитель</target></trans-unit>
+			<trans-unit id="special_filelinks_description" xml:space="preserve" approved="yes">
+				<source>Makes a list of files for download.</source>
+			<target state="translated">Список файлов для загрузки.</target></trans-unit>
+			<trans-unit id="special_filelinks_title" xml:space="preserve" approved="yes">
+				<source>File Links</source>
+			<target state="translated">Ссылки на файлы</target></trans-unit>
+			<trans-unit id="special_media_description" xml:space="preserve" approved="yes">
+				<source>Inserts a media element like a Flash animation, audio file or video clip.</source>
+			<target state="translated">Вставьте медиа элемент, вроде флеш-анимации, аудио файла или видео клипа.</target></trans-unit>
+			<trans-unit id="special_media_title" xml:space="preserve" approved="yes">
+				<source>Media</source>
+			<target state="translated">Медиа</target></trans-unit>
+			<trans-unit id="special_menus_description" xml:space="preserve" approved="yes">
+				<source>Creates a menu of pages, sitemap or other special menus.</source>
+			<target state="translated">Создание меню страниц, карты сайта или других специфичных меню.</target></trans-unit>
+			<trans-unit id="special_menus_title" xml:space="preserve" approved="yes">
+				<source>Special Menus</source>
+			<target state="translated">Специальное меню</target></trans-unit>
+			<trans-unit id="special_multimedia_description" xml:space="preserve" approved="yes">
+				<source>Inserts a media element like a Flash animation, audio file or video clip.</source>
+			<target state="translated">Мультимедийный элемент, такой как флеш-анимация, аудиофайл или видеоклип.</target></trans-unit>
+			<trans-unit id="special_multimedia_title" xml:space="preserve" approved="yes">
+				<source>Multimedia</source>
+			<target state="translated">Мультимедиа</target></trans-unit>
+			<trans-unit id="special_plainHTML_description" xml:space="preserve" approved="yes">
+				<source>With this element you can insert raw HTML code on the page.</source>
+			<target state="translated">С помощью этого элемента вы можете поместить необработанный HTML непосредственно на страницу.</target></trans-unit>
+			<trans-unit id="special_plainHTML_title" xml:space="preserve" approved="yes">
+				<source>Plain HTML</source>
+			<target state="translated">Чистый HTML</target></trans-unit>
+			<trans-unit id="special_qtobject_description" xml:space="preserve" approved="yes">
+				<source>Inserts a Quicktime element like a Quicktime audio file or video clip (*.mov).</source>
+			<target state="translated">Вставка элемента Quicktime в виде Quicktime аудио или видео клипа (*.mov).</target></trans-unit>
+			<trans-unit id="special_qtobject_title" xml:space="preserve" approved="yes">
+				<source>Inserts a Quicktime element.</source>
+			<target state="translated">Вставка элемента Quicktime</target></trans-unit>
+			<trans-unit id="special_shortcut_description" xml:space="preserve" approved="yes">
+				<source>With this element you can embed other content elements.</source>
+			<target state="translated">При помощи этого элемента возможно подключать другие элементы содержимого.</target></trans-unit>
+			<trans-unit id="special_shortcut_title" xml:space="preserve" approved="yes">
+				<source>Insert records</source>
+			<target state="translated">Вставить записи</target></trans-unit>
+			<trans-unit id="special_sitemap_title" xml:space="preserve" approved="yes">
+				<source>Sitemap</source>
+			<target state="translated">Карта сайта</target></trans-unit>
+			<trans-unit id="special_swfobject_description" xml:space="preserve" approved="yes">
+				<source>Inserts Flash media element, audio file or video clip.</source>
+			<target state="translated">Вставка флеш медиа элемента, аудио файла или видео клипа</target></trans-unit>
+			<trans-unit id="special_swfobject_title" xml:space="preserve" approved="yes">
+				<source>Inserts a Flash media element.</source>
+			<target state="translated">Вставка флеш медиа элемента.</target></trans-unit>
+		</body>
+	</file>
+</xliff>

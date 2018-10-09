@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="download_altText">Démarre le téléchargement du fichier</label>
+			<label index="download_titleText">Démarre le téléchargement du fichier</label>
+			<label index="external_link_altText">Ouvre ce lien externe dans la fenêtre courante</label>
+			<label index="external_link_new_window_altText">Ouvre ce lien externe dans une nouvelle fenêtre</label>
+			<label index="external_link_new_window_titleText">Ouvre ce lien externe dans une nouvelle fenêtre</label>
+			<label index="external_link_titleText">Ouvre ce lien externe dans la fenêtre courante</label>
+			<label index="internal_link_altText">Ouvre ce lien interne dans la fenêtre courante</label>
+			<label index="internal_link_new_window_altText">Ouvre ce lien interne dans une nouvelle fenêtre</label>
+			<label index="internal_link_new_window_titleText">Ouvre ce lien interne dans une nouvelle fenêtre</label>
+			<label index="internal_link_titleText">Ouvre ce lien interne dans la fenêtre courante</label>
+			<label index="mail_altText">Ouvre une fenêtre d'envoi de courrier électronique</label>
+			<label index="mail_titleText">Ouvre une fenêtre d'envoi de courrier électronique</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

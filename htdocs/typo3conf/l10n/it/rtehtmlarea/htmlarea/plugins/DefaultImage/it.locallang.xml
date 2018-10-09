@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="Bottom:"/>
+			<label index="Bottom padding"/>
+			<label index="image_url"/>
+			<label index="image_url_invalid"/>
+			<label index="Left padding"/>
+			<label index="Right:"/>
+			<label index="Right padding"/>
+			<label index="Top:"/>
+			<label index="Top padding"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

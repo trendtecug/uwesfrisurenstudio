@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:10Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="className" approved="yes">
+				<source>Class</source>
+				<target state="translated">Класс</target>
+			</trans-unit>
+			<trans-unit id="editElement" approved="yes">
+				<source>Edit element</source>
+				<target state="translated">Правка элемента</target>
+			</trans-unit>
+			<trans-unit id="events" approved="yes">
+				<source>Events</source>
+				<target state="translated">События</target>
+			</trans-unit>
+			<trans-unit id="general" approved="yes">
+				<source>General</source>
+				<target state="translated">Общие</target>
+			</trans-unit>
+			<trans-unit id="id" approved="yes">
+				<source>Id</source>
+				<target state="translated">Id</target>
+			</trans-unit>
+			<trans-unit id="identification" approved="yes">
+				<source>Identification</source>
+				<target state="translated">Идентификация</target>
+			</trans-unit>
+			<trans-unit id="onclick" approved="yes">
+				<source>Onclick</source>
+				<target state="translated">По щелчку левой кнопкой</target>
+			</trans-unit>
+			<trans-unit id="ondblclick" approved="yes">
+				<source>Ondblclick</source>
+				<target state="translated">По двойному щелчку левой кнопкой</target>
+			</trans-unit>
+			<trans-unit id="onkeydown" approved="yes">
+				<source>Onkeydown</source>
+				<target state="translated">Нажатие клавиши</target>
+			</trans-unit>
+			<trans-unit id="onkeypress" approved="yes">
+				<source>Onkeypress</source>
+				<target state="translated">Нажатие и/или удержание клавиши</target>
+			</trans-unit>
+			<trans-unit id="onkeyup" approved="yes">
+				<source>Onkeyup</source>
+				<target state="translated">Отпускание клавиши</target>
+			</trans-unit>
+			<trans-unit id="onmousedown" approved="yes">
+				<source>Onmousedown</source>
+				<target state="translated">По щелчку любой кнопкой</target>
+			</trans-unit>
+			<trans-unit id="onmousemove" approved="yes">
+				<source>Onmousemove</source>
+				<target state="translated">При движении курсора мышки над объектом</target>
+			</trans-unit>
+			<trans-unit id="onmouseout" approved="yes">
+				<source>Onmouseout</source>
+				<target state="translated">При уходе курсора мышки</target>
+			</trans-unit>
+			<trans-unit id="onmouseover" approved="yes">
+				<source>Onmouseover</source>
+				<target state="translated">При наведении курсора мышки</target>
+			</trans-unit>
+			<trans-unit id="onmouseup" approved="yes">
+				<source>Onmouseup</source>
+				<target state="translated">При отпускании левой кнопки</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Название</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="download_altText"/>
+			<label index="download_titleText"/>
+			<label index="external_link_altText">Aprire il link interno in una nuova finestra</label>
+			<label index="external_link_new_window_altText">Aprire il link interno in una nuova finestra</label>
+			<label index="external_link_new_window_titleText">Aprire il link interno in una nuova finestra</label>
+			<label index="external_link_titleText">Aprire il link interno in una nuova finestra</label>
+			<label index="internal_link_altText">Aprire il link interno in una nuova finestra</label>
+			<label index="internal_link_new_window_altText">Aprire il link interno in una nuova finestra</label>
+			<label index="internal_link_new_window_titleText">Aprire il link interno in una nuova finestra</label>
+			<label index="internal_link_titleText">Aprire il link interno in una nuova finestra</label>
+			<label index="mail_altText"/>
+			<label index="mail_titleText"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T01:43:47Z" product-name="impexp">
+		<header/>
+		<body>
+			<trans-unit id="import.details" xml:space="preserve" approved="yes">
+				<source>&lt;b&gt;Tip: Import into a Folder&lt;/b&gt;
+To make sure that no records are lost during the import, you can make yourself safe by importing into a Folder you create first. After the import you can move all records to the final destinations. An example of such a scenario is if you configured the export to include relations; In that case a number of records may follow the export outside the page tree structure you are exporting. To make sure that all of these external records are written to the database, importing into a Folder is a good idea.
+
+&lt;b&gt;Error messages:&lt;/b&gt; Remember to consult the Message-tab before/after importing to see if there are any error messages there!</source>
+			<target state="translated">&lt;b&gt;Подсказка: импорт в папку&lt;/b&gt; Чтобы удостовериться, что во время импорта не произошло потерь записей, можно обезопасить себя, произведя импорт в предварительно созданную папку. После чего можно переместить все записи в окончательное местоположение. Примером такого сценария является настройка экспорта с включением связей. В этом случае экспортируемые записи могут находиться вне экспортируемой структуры дерева страниц. Чтобы удостовериться, что все необходимые записи помещены в базу данных, хорошим выходом может послужит импорт в папку. &lt;b&gt;Сообщения об ошибках:&lt;/b&gt; не забывайте сверяться с вкладкой сообщений до и после импорта, ведь там могут присутствовать сообщения об ошибках!</target></trans-unit>
+		</body>
+	</file>
+</xliff>

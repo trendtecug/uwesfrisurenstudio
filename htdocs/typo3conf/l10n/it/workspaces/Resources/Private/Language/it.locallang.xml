@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="actionSendToStage">Invia a Stage</label>
+			<label index="cancel">annulla</label>
+			<label index="chooseAction">seleziona Azione</label>
+			<label index="chooseMassAction">seleziona Azione Multipla</label>
+			<label index="close">Chiudi</label>
+			<label index="column.actions">Azioni</label>
+			<label index="column.changeDate">Modifica</label>
+			<label index="column.difference">Differenze</label>
+			<label index="column.livePath">Live-Path</label>
+			<label index="column.liveTitle">Live-Titolo</label>
+			<label index="column.oid">Live-Id</label>
+			<label index="column.stage">Stage corrente</label>
+			<label index="column.uid">WS-Id</label>
+			<label index="column.workspaceName">Workspace</label>
+			<label index="column.wsPath">Percorso</label>
+			<label index="column.wsSwapColumn">Scambia workspace</label>
+			<label index="column.wsTitle">Cambiato</label>
+			<label index="comments">Commento utente per lo &lt;b&gt;step {0} dello stage&lt;/b&gt; "{1}"</label>
+			<label index="current_step">&lt;b&gt;Step stage corrente&lt;/b&gt;: {0} (&lt;b&gt;{1}&lt;/b&gt;/{2})</label>
+			<label index="editorInLive">Sei nel Workspace LIVE. Devi selezionare un workspace di lavoro prima di poter revisionare e pubblicare modifiche.</label>
+			<label index="error.getStageTitle.stageNotFound">Stage non trovato</label>
+			<label index="error.noResponse">Il server non ha inviato alcuna risposta anche se l'operazione è stato completata con successo.</label>
+			<label index="error.sendToNextStage.noRecordFound">Il record dell'elemento non è stato trovato</label>
+			<label index="error.sendToPrevStage.noPreviousStage">Il record dell'elemento è già nello stage Modifica, non esiste uno stage precedente.</label>
+			<label index="error.stageId.integer">Lo StageId dovrebbe essere un numero intero</label>
+			<label index="error.stageId.invalid">Lo stage che si desidera utilizzare sembrerebbe non valido . Si provi ad utilizzare l'update wizard
+					dell'install tool per rimediare.
+				</label>
+			<label index="info.elementAlreadyModified">L'elemento si trova nello stage di workspace "%s", le modifiche lo sposteranno indietro in "%s".</label>
+			<label index="info.newpage">Nuova Pagina!</label>
+			<label index="info.newpage.detail">La pagina in anteprima è stata creata in un workspace e non ha una controparte "live".</label>
+			<label index="integrity.dependsOnDefaultLanguageRecord">Il record "%s" dipende dal record con lingua di default</label>
+			<label index="integrity.hasIssuesDescription">Il controllo di integritá ha evidenziato diversi problemi, controlla lo stato delle icone di ogni record per ulteriori dettagli.</label>
+			<label index="integrity.hasIssuesQuestion">Vuoi continuare?</label>
+			<label index="integrity.isDefaultLanguageRecord">Record con lingua di default per il record "%s"</label>
+			<label index="item">elemento</label>
+			<label index="items">elementi</label>
+			<label index="label_doaction_discard">Scartare</label>
+			<label index="label_doaction_generatePreviewLinks">Genera link di anterpima del workspace</label>
+			<label index="label_doaction_publish">Pubblicare</label>
+			<label index="label_doaction_swap">Scambiare</label>
+			<label index="language.allLanguages">tutte le lingue</label>
+			<label index="language.selectLanguage">tutte le lingue</label>
+			<label index="legend.deleted">eliminato</label>
+			<label index="legend.edited">modificato</label>
+			<label index="legend.hidden">nascosto</label>
+			<label index="legend.label">Legenda:</label>
+			<label index="legend.moved">spostato</label>
+			<label index="legend.new">creato</label>
+			<label index="live_workspace">Workspace Live</label>
+			<label index="ok">ok</label>
+			<label index="path">&lt;b&gt;Path&lt;/b&gt;: {0}</label>
+			<label index="previewLink">Link di Anteprima</label>
+			<label index="preview.listView">Vista Elenco</label>
+			<label index="preview.livePreview">Live</label>
+			<label index="preview.livePreviewDetail">Cliccare questo elemento per nascondere la versione di workspace e visualizzare la versione live della pagina.</label>
+			<label index="preview.modeHbox">Orizzontale</label>
+			<label index="preview.modeSlider">Slider</label>
+			<label index="preview.modeVbox">Verticale</label>
+			<label index="preview.visualPreview">Anteprima visuale</label>
+			<label index="preview.workspacePreview">Workspace</label>
+			<label index="preview.workspacePreviewDetail">Cliccare questo elemento per nascondere la versione live e visualizzare la versione di workspace della pagina.</label>
+			<label index="publish_execute_action_option">Pubblica LIVE</label>
+			<label index="recordsToDisplay">Elementi da mostrare</label>
+			<label index="reviewandpublish">revisiona e pubblica</label>
+			<label index="rowDetails">Riga dei dettagli...</label>
+			<label index="runMassAction.done">Elaborazione di %d elementi terminata</label>
+			<label index="runMassAction.init">init</label>
+			<label index="stage">Stage {0}</label>
+			<label index="status.error">Errore</label>
+			<label index="status.info">Informazione</label>
+			<label index="status.warning">Attenzione</label>
+			<label index="title">Workspaces</label>
+			<label index="tooltip.affectWholeWorkspace">Attenzione che ciò coinvolgerà tutte le modifiche al workspace corrente, che potrebbero essere di più
+					di quante ne state visualizzando sullo schermo.
+				</label>
+			<label index="tooltip.discardAll">Siete sicuri di voler scartare le modifiche dallìintero workspace?</label>
+			<label index="tooltip.discardSelected"/>
+			<label index="tooltip.discardVersion">Scarta la versione in workspace del record.</label>
+			<label index="tooltip.editElementAction">Modifica elemento</label>
+			<label index="tooltip.generatePagePreview">Genera anteprima di pagina</label>
+			<label index="tooltip.openPage">Apri la versione della pagina</label>
+			<label index="tooltip.publishAll">Pronto a pubblicare l'intero workspace?</label>
+			<label index="tooltip.publishSelected"/>
+			<label index="tooltip.sendToNextStage">Invia il record allo stage successivo</label>
+			<label index="tooltip.sendToPrevStage">Invia il record allo stage precedente</label>
+			<label index="tooltip.showHistory">Mostra la cronologia delle versioni in workspace</label>
+			<label index="tooltip.swap">Scambia versione live e workspace del record</label>
+			<label index="tooltip.swapAll">Switchare completamente l'intero workspace?</label>
+			<label index="tooltip.swapSelected"/>
+			<label index="tooltip.viewElementAction">Anteprima elemento</label>
+			<label index="warning.oldStyleWorkspaceInUser">Sembra si stia utilizzando una vecchia versione di workspace. Si utilizzino gli script per aggiornare TYPO3
+					tramite l'Install Tool. Continuando a usare questo modulo senza aggiornare workspaces
+					si potrebbero perdere dei dati.
+				</label>
+			<label index="window.discardAll.message">Siete sicuri di voler scartare tutte le versioni dalla pagina?</label>
+			<label index="window.discardAll.title">Scarta tutte le versioni workspace della pagina corrente</label>
+			<label index="window.discard.message">Siete sicuri di voler scartare questa versione dal workspace?</label>
+			<label index="window.discard.title">Scarta la versione workspace del record.</label>
+			<label index="window.massAction.title">Preparazione per l'attivazione di una operazione massiva</label>
+			<label index="window.selectionAction.title"/>
+			<label index="window.sendToNextStageWindow.additionalRecipients">Destinatari aggiuntivi</label>
+			<label index="window.sendToNextStageWindow.comments">Commenti</label>
+			<label index="window.sendToNextStageWindow.itemsWillBeSentTo">Gli elementi selezionati verranno inviati a</label>
+			<label index="window.sendToNextStageWindow.sendMailTo">Invia e-mail a</label>
+			<label index="window.swap.message">Siete sicuri di voler scambiare questa versione?</label>
+			<label index="window.swap.title">Scambia versioni</label>
+			<label index="workspacelist">Elenco Workspace</label>
+			<label index="workspace_version">Versione workspace</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

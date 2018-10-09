@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="sys_note">Note interne</label>
+			<label index="sys_note.category.I.1">Instructions</label>
+			<label index="sys_note.category.I.2">Gabarit</label>
+			<label index="sys_note.category.I.3">Notes</label>
+			<label index="sys_note.category.I.4">À faire</label>
+			<label index="sys_note.message">Message :</label>
+			<label index="sys_note.personal">Personnel :</label>
+			<label index="sys_note.subject">Sujet:</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

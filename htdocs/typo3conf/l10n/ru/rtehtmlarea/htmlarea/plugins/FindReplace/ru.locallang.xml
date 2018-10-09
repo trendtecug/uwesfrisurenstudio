@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="Actions">Действия</label>
+			<label index="Case sensitive search">Учитывать регистр</label>
+			<label index="Clear">Очистить</label>
+			<label index="Done">Сделано</label>
+			<label index="Enter the text you want to find">Введите текст, который Вы хотите найти</label>
+			<label index="Find and Replace">Найти и заменить</label>
+			<label index="found item">элемент найден</label>
+			<label index="found items">найдено</label>
+			<label index="Highlight">Выделить</label>
+			<label index="Inform a replacement word">Это удалит все вхождения.</label>
+			<label index="Next">Следующее</label>
+			<label index="not found">не найден</label>
+			<label index="Options">Параметры</label>
+			<label index="replaced item">элемент заменён</label>
+			<label index="replaced items">заменено</label>
+			<label index="Replace with:">Заменить на:</label>
+			<label index="Search for:">Искать:</label>
+			<label index="Substitute all occurrences">Заменить все фрагменты</label>
+			<label index="Substitute this occurrence?">Заменить этот фрагмент?</label>
+			<label index="Undo">Отмена</label>
+			<label index="Whole words only">Только слова полностью</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="width">Larghezza</label>
+			<label index="tablet">Tablet</label>
+			<label index="mobile">Cellulare</label>
+			<label index="computer">Computer</label>
+			<label index="customWidth">Dimensione personalizzata</label>
+			<label index="autoSize">Dimensionamento automatico</label>
+			<label index="refreshPage">Aggiorna pagina</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

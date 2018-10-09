@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="Bottom:">Bas :</label>
+			<label index="Bottom padding">Espace intérieur bas</label>
+			<label index="image_url">URL de l'image</label>
+			<label index="image_url_invalid">L'URL ne peut pas être consultée ou ce n'est pas une image</label>
+			<label index="Left padding">Espace intérieur gauche</label>
+			<label index="Right:">Droite :</label>
+			<label index="Right padding">Espace intérieur droit</label>
+			<label index="Top:">Haut :</label>
+			<label index="Top padding">Espace intérieur haut</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="BiDi override">Развернуть текст</label>
+			<label index="Bold">Полужирный</label>
+			<label index="Citation">Цитата</label>
+			<label index="Code">Код</label>
+			<label index="Definition">Определение</label>
+			<label index="Deleted text">Удалённый текст</label>
+			<label index="Emphasis">Курсив (em)</label>
+			<label index="Inserted text">Вставленный текст</label>
+			<label index="Italic">Курсив</label>
+			<label index="Keyboard">Клавиатура</label>
+			<label index="Label">Метка</label>
+			<label index="Large text">Большой текст</label>
+			<label index="Monospaced text">Моноширинный текст</label>
+			<label index="No markup">Без форматирования</label>
+			<label index="Quotation">Цитата</label>
+			<label index="Sample">Пример</label>
+			<label index="Small text">Маленький текст</label>
+			<label index="Strike-through">Зачёркнутый</label>
+			<label index="Strong emphasis">Полужирный курсив</label>
+			<label index="Style container">Контейнер стилей</label>
+			<label index="Subscript">Подстрочный знак</label>
+			<label index="Superscript">Надстрочный знак</label>
+			<label index="Underline">Подчёркнутый</label>
+			<label index="Variable">Переменная</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

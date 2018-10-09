@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T02:27:10Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="1" xml:space="preserve" approved="yes">
+				<source>Show page</source>
+			<target state="translated">Visualiser la page</target></trans-unit>
+			<trans-unit id="16" xml:space="preserve" approved="yes">
+				<source>Edit content</source>
+			<target state="translated">Éditer le contenu</target></trans-unit>
+			<trans-unit id="16_t" xml:space="preserve" approved="yes">
+				<source>Change/Add/Delete/Move content.</source>
+			<target state="translated">Modifier/Ajouter/Effacer/Déplacer le contenu.</target></trans-unit>
+			<trans-unit id="1_t" xml:space="preserve" approved="yes">
+				<source>Show/Copy page and content.</source>
+			<target state="translated">Afficher/Copier page et contenu.</target></trans-unit>
+			<trans-unit id="2" xml:space="preserve" approved="yes">
+				<source>Edit page</source>
+			<target state="translated">Éditer la page</target></trans-unit>
+			<trans-unit id="2_t" xml:space="preserve" approved="yes">
+				<source>Change/Move page, eg. change pagetitle etc.</source>
+			<target state="translated">Modifier/Déplacer la page, par ex. modifier le titre de la page, etc.</target></trans-unit>
+			<trans-unit id="4" xml:space="preserve" approved="yes">
+				<source>Delete page</source>
+			<target state="translated">Supprimer la page</target></trans-unit>
+			<trans-unit id="4_t" xml:space="preserve" approved="yes">
+				<source>Delete page and content.</source>
+			<target state="translated">Supprimer page et contenu.</target></trans-unit>
+			<trans-unit id="8" xml:space="preserve" approved="yes">
+				<source>New pages</source>
+			<target state="translated">Nouvelles pages</target></trans-unit>
+			<trans-unit id="8_t" xml:space="preserve" approved="yes">
+				<source>Create new pages under this page.</source>
+			<target state="translated">Créer des sous-pages.</target></trans-unit>
+			<trans-unit id="Abort" xml:space="preserve" approved="yes">
+				<source>Abort</source>
+			<target state="translated">Annuler</target></trans-unit>
+			<trans-unit id="A_Denied" xml:space="preserve" approved="yes">
+				<source>Access Denied</source>
+			<target state="translated">Accès refusé</target></trans-unit>
+			<trans-unit id="A_Granted" xml:space="preserve" approved="yes">
+				<source>Access Granted</source>
+			<target state="translated">Accès autorisé</target></trans-unit>
+			<trans-unit id="ch_permissions" xml:space="preserve" approved="yes">
+				<source>Change permissions</source>
+			<target state="translated">Modifier les permissions</target></trans-unit>
+			<trans-unit id="def" xml:space="preserve" approved="yes">
+				<source>Definition: 'content' is records from all tables on a page - except from records from the table 'pages' (Pages).</source>
+			<target state="translated">Définition: le 'contenu' est constitué de tous les enregistrements d'une page, à l'exception des enregistrements de la table 'pages'.</target></trans-unit>
+			<trans-unit id="deleted" xml:space="preserve" approved="yes">
+				<source>deleted</source>
+			<target state="translated">Supprimé</target></trans-unit>
+			<trans-unit id="Depth" xml:space="preserve" approved="yes">
+				<source>Depth</source>
+			<target state="translated">Profondeur</target></trans-unit>
+			<trans-unit id="Edit" xml:space="preserve" approved="yes">
+				<source>EDIT</source>
+			<target state="translated">ÉDITER</target></trans-unit>
+			<trans-unit id="EditLock" xml:space="preserve" approved="yes">
+				<source>Lock</source>
+			<target state="translated">Verrouiller</target></trans-unit>
+			<trans-unit id="EditLock_descr" xml:space="preserve" approved="yes">
+				<source>The page and all content is locked for editing by all non-Admin users.</source>
+			<target state="translated">La page et son contenu sont verrouillés à l'édition pour tout utilisateur non-admin.</target></trans-unit>
+			<trans-unit id="Everybody" xml:space="preserve" approved="yes">
+				<source>Everybody</source>
+			<target state="translated">Tous</target></trans-unit>
+			<trans-unit id="Group" xml:space="preserve" approved="yes">
+				<source>Group</source>
+			<target state="translated">Groupe</target></trans-unit>
+			<trans-unit id="Legend" xml:space="preserve" approved="yes">
+				<source>Legend</source>
+			<target state="translated">Légende</target></trans-unit>
+			<trans-unit id="levels" xml:space="preserve" approved="yes">
+				<source>levels</source>
+			<target state="translated">Niveaux</target></trans-unit>
+			<trans-unit id="mlang_labels_tabdescr" xml:space="preserve" approved="yes">
+				<source>Setting of page permissions is vital for controlling backend user access to pages. You can assign a user and a group as owners of a page and set access permissions for each.</source>
+			<target state="translated">Paramètrer les permissions aux pages est vital pour contrôler l'accès aux pages des utilisateurs backend. Vous pouvez assigner un groupe ou un utilisateur en tant que propriétaire de page et paramètrer les permissions pour chaque.</target></trans-unit>
+			<trans-unit id="mlang_labels_tablabel" xml:space="preserve" approved="yes">
+				<source>Page editing permissions</source>
+			<target state="translated">Droits d'accès aux pages</target></trans-unit>
+			<trans-unit id="mlang_tabs_tab" xml:space="preserve" approved="yes">
+				<source>Access</source>
+			<target state="translated">Accès</target></trans-unit>
+			<trans-unit id="Mode" xml:space="preserve" approved="yes">
+				<source>Mode</source>
+			<target state="translated">Mode</target></trans-unit>
+			<trans-unit id="notSet" xml:space="preserve" approved="yes">
+				<source>not set</source>
+			<target state="translated">Non appliqué</target></trans-unit>
+			<trans-unit id="Owner" xml:space="preserve" approved="yes">
+				<source>Owner</source>
+			<target state="translated">Propriétaire</target></trans-unit>
+			<trans-unit id="pages_affected" xml:space="preserve" approved="yes">
+				<source>pages affected</source>
+			<target state="translated">pages affectées</target></trans-unit>
+			<trans-unit id="permissions" xml:space="preserve" approved="yes">
+				<source>Permissions</source>
+			<target state="translated">Permissions</target></trans-unit>
+			<trans-unit id="recursive" xml:space="preserve" approved="yes">
+				<source>Set recursively</source>
+			<target state="translated">Appliquer recursivement</target></trans-unit>
+			<trans-unit id="Save" xml:space="preserve" approved="yes">
+				<source>Save</source>
+			<target state="translated">Enregistrer</target></trans-unit>
+			<trans-unit id="User" xml:space="preserve" approved="yes">
+				<source>User</source>
+			<target state="translated">Utilisateur</target></trans-unit>
+			<trans-unit id="user_overview" xml:space="preserve" approved="yes">
+				<source>User overview</source>
+			<target state="translated">Utilisateur (vue d'ensemble)</target></trans-unit>
+			<trans-unit id="WorkspaceWarning" xml:space="preserve" approved="yes">
+				<source>Workspace Warning</source>
+			<target state="translated">Avertissement concernant les espaces de travail</target></trans-unit>
+			<trans-unit id="WorkspaceWarningText" xml:space="preserve" approved="yes">
+				<source>Permissions you set in the workspace are effective on the elements only &lt;em&gt;after&lt;/em&gt; they are published! If you need to set permissions which are effective right now, you must do so in the Live workspace. (Permissions are always evaluated on the Live workspace record/placeholder of a draft version)</source>
+			<target state="translated">Les permissions affectées aux espaces de travail sont appliquées uniquement &lt;em&gt;après&lt;/em&gt; qu'ils sont publiés ! Si vous souhaitez appliquer des permissions appliquées immédiatement, vous devez les appliquer dans l'espace de travail LIVE. (les permissions s'appliquent à partir de l'enregistrement /l'endroit référent de l'espace de travail LIVE)</target></trans-unit>
+		</body>
+	</file>
+</xliff>

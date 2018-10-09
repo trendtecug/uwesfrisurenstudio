@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="mlang_labels_tablabel">Visualisation du fichier journal</label>
+      <label index="mlang_labels_tabdescr">Vous pouvez accéder depuis ici à tous les fichiers journaux de TYPO3.&lt;br /&gt;&lt;em&gt;Accès pour l'Administrateur uniquement&lt;/em&gt;</label>
+      <label index="mlang_tabs_tab">Fichier journal</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

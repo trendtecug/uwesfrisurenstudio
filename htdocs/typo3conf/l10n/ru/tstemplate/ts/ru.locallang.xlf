@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T04:50:42Z" product-name="tstemplate">
+		<header/>
+		<body>
+			<trans-unit id="areYouSure" approved="yes">
+				<source>Are you sure you want to do this?</source>
+				<target state="translated">Вы уверены, что хотите это сделать?</target>
+			</trans-unit>
+			<trans-unit id="constantEditor" approved="yes">
+				<source>Constant Editor</source>
+				<target state="translated">Редактор констант</target>
+			</trans-unit>
+			<trans-unit id="createTemplate" approved="yes">
+				<source>Create a template record first in order to edit constants!</source>
+				<target state="translated">Перед редактированием констант, сначала нужно создать запись шаблона!</target>
+			</trans-unit>
+			<trans-unit id="createTemplateToEditConfiguration" approved="yes">
+				<source>You need to create a template record below in order to edit your configuration.</source>
+				<target state="translated">Для редактирования своих настроек, необходимо создать запись шаблона ниже.</target>
+			</trans-unit>
+			<trans-unit id="extTemplate" approved="yes">
+				<source>Create extension template</source>
+				<target state="translated">Создать шаблон расширение</target>
+			</trans-unit>
+			<trans-unit id="extTemplateAction" approved="yes">
+				<source>Click here to create an extension template.</source>
+				<target state="translated">Щелкните здесь для создания шаблона расширения.</target>
+			</trans-unit>
+			<trans-unit id="extTemplateDescription" approved="yes">
+				<source>An extension template allows you to enter TypoScript values that will affect only this page and subpages.</source>
+				<target state="translated">Шаблон расширение позволяет ввести значения TypoScript, которые затронут только текущую страницу с подстраницами.</target>
+			</trans-unit>
+			<trans-unit id="goToClosest" approved="yes">
+				<source>Go to closest page with template</source>
+				<target state="translated">Перейти к ближайшей странице с шаблоном</target>
+			</trans-unit>
+			<trans-unit id="goToClosestAction" approved="yes">
+				<source>Click here to go.</source>
+				<target state="translated">Щелкните здесь для перехода</target>
+			</trans-unit>
+			<trans-unit id="goToClosestDescription" approved="yes">
+				<source>Closest template is on page '%s' (uid %s).</source>
+				<target state="translated">Ближайший шаблон имеется на странице '%s' (uid %s).</target>
+			</trans-unit>
+			<trans-unit id="infoModify" approved="yes">
+				<source>Info/Modify</source>
+				<target state="translated">Информация/изменение</target>
+			</trans-unit>
+			<trans-unit id="isExt" approved="yes">
+				<source>Is Ext?</source>
+				<target state="translated">Расширение</target>
+			</trans-unit>
+			<trans-unit id="isRoot" approved="yes">
+				<source>Is Root?</source>
+				<target state="translated">Корень</target>
+			</trans-unit>
+			<trans-unit id="moduleTitle" approved="yes">
+				<source>Template tools</source>
+				<target state="translated">Инструменты шаблонирования</target>
+			</trans-unit>
+			<trans-unit id="newWebsite" approved="yes">
+				<source>Create new website</source>
+				<target state="translated">Создать новый сайт</target>
+			</trans-unit>
+			<trans-unit id="newWebsiteAction" approved="yes">
+				<source>Create template for a new site</source>
+				<target state="translated">Создать шаблон для нового сайта</target>
+			</trans-unit>
+			<trans-unit id="newWebsiteDescription" approved="yes">
+				<source>If you want this page to be the root of a new website, optionally based on one of the standard templates, then press the button below:</source>
+				<target state="translated">Если нужно, чтобы эта страница стала корнем нового сайта, созданного на основе одного из стандартных шаблонов, нажмите кнопку ниже:</target>
+			</trans-unit>
+			<trans-unit id="noTemplate" approved="yes">
+				<source>No template</source>
+				<target state="translated">Нет шаблона</target>
+			</trans-unit>
+			<trans-unit id="noTemplateDescription" approved="yes">
+				<source>There was no template on this page!</source>
+				<target state="translated">На этой странице нет шаблона!</target>
+			</trans-unit>
+			<trans-unit id="objectBrowser" approved="yes">
+				<source>TypoScript Object Browser</source>
+				<target state="translated">Проводник по объектам TypoScript</target>
+			</trans-unit>
+			<trans-unit id="overview" approved="yes">
+				<source>This is an overview of the pages in the database containing one or more template records. Click a page title to go to the page.</source>
+				<target state="translated">Это - краткий обзор страниц в базе данных, содержащих одну или несколько записей шаблонов. Щелкните по заголовку страницы для перехода к ней.</target>
+			</trans-unit>
+			<trans-unit id="pageName" approved="yes">
+				<source>Page name</source>
+				<target state="translated">Название страницы</target>
+			</trans-unit>
+			<trans-unit id="templateAnalyzer" approved="yes">
+				<source>Template Analyzer</source>
+				<target state="translated">Анализ шаблона</target>
+			</trans-unit>
+			<trans-unit id="templates" approved="yes">
+				<source>Templates</source>
+				<target state="translated"># Шаблонов</target>
+			</trans-unit>
+			<trans-unit id="titleNewSite" approved="yes">
+				<source>NEW SITE</source>
+				<target state="translated">НОВЫЙ САЙТ</target>
+			</trans-unit>
+			<trans-unit id="titleNewSiteStandard" approved="yes">
+				<source>NEW SITE, based on standard</source>
+				<target state="translated">НОВЫЙ САЙТ, на стандартной основе</target>
+			</trans-unit>
+			<trans-unit id="viewTemplates" approved="yes">
+				<source>Viewing templates of</source>
+				<target state="translated">Просмотр шаблонов</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

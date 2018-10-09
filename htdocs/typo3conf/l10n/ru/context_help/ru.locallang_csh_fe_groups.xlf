@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T00:44:03Z" product-name="context_help">
+		<header/>
+		<body>
+			<trans-unit id=".description" approved="yes">
+				<source>Usergroups for Website users.</source>
+				<target state="translated">Группы пользователей Web-сайта.</target>
+			</trans-unit>
+			<trans-unit id="description.description" approved="yes">
+				<source>Enter a description of the group.</source>
+				<target state="translated">Введите описание группы.</target>
+			</trans-unit>
+			<trans-unit id="description.details" xml:space="preserve" approved="yes">
+				<source>This is for internal use and is just a way to put a note on what the group is for, why you created it and who should be members.
+Use it as you like.</source>
+			<target state="translated">Исключительно для внутренних нужд, примечания о цели создания группы, кто ее члены. Используйте по своему усмотрению.</target></trans-unit>
+			<trans-unit id=".details" approved="yes">
+				<source>The access restriction in TYPO3 is assigned to these usergroups. When a page or other element is access restricted to a group, only Website users which are members or that group will be able to view the element on the website.</source>
+				<target state="translated">Для групп пользователей назначаются права доступа в TYPO3. Если ограничить доступ к странице или другому элементу определенной группой, то увидеть этот элемент на web-сайте смогут лишь члены этой группы.</target>
+			</trans-unit>
+			<trans-unit id="hidden.description" approved="yes">
+				<source>This option disables the user group.</source>
+				<target state="translated">Этот параметр отключает группу пользователей</target>
+			</trans-unit>
+			<trans-unit id="hidden.details" xml:space="preserve" approved="yes">
+				<source>If you disable a user group all users which are members of the group will in effect not inherit any properties this group may have given them.
+For instance if a page or content element was assigned access only by this group and you disable the group, no one would gain access to that page or content element.</source>
+			<target state="translated">При отключении группы пользователей, все ее члены больше не будут наследовать ее свойства. Для примера, если страница или ее содержимое был связан лишь с этой группой, то, при ее отключении, никто не сможет получить доступ к этим страницам или их содержимому.</target></trans-unit>
+			<trans-unit id="_hidden.seeAlso" approved="yes">
+				<source>fe_users:disable</source>
+				<target state="translated">fe_users:disable</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="_.image" xml:space="preserve" approved="yes">
+				<source>EXT:context_help/Resources/Public/Images/cshimages/fegroups_3.png,
+EXT:context_help/Resources/Public/Images/cshimages/fegroups_4.png</source>
+				<target state="translated">EXT:context_help/Resources/Public/Images/cshimages/fegroups_3.png,
+EXT:context_help/Resources/Public/Images/cshimages/fegroups_4.png</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id=".image_descr" xml:space="preserve" approved="yes">
+				<source>The form for editing frontend users groups.
+Pages, Content Elements and other records for frontend display often have a selector box where you can define access restriction by selecting access for a certain group only.</source>
+			<target state="translated">Страницы, элементы их содержимого и другие записи для отображения во внешнем интерфейсе обычно имеют блок, в котором можно определить права доступа для групп пользователей.</target></trans-unit>
+			<trans-unit id="lockToDomain.description" approved="yes">
+				<source>Enter the host name from which the group will be available only.</source>
+				<target state="translated">Введите название хоста, которым будет ограничена группа.</target>
+			</trans-unit>
+			<trans-unit id="lockToDomain.details" xml:space="preserve" approved="yes">
+				<source>This options may be important if you have multiple websites in the same TYPO3 database but still only one main storage page for all Website users. Thus the users may log in on any of the website URLs. This may be considered a feature (having a global login as a user) or a problem (in which case you should have multiple user storages anyway). However you may wish to limit the use of a Website usergroup to a specific website and thus you don't want the group to be enabled for the user when he logs in at another URL (still from the same database of course). By entering the host name of the website here, you restrict the group to be used only from within this domain.
+
+&lt;b&gt;Notice:&lt;/b&gt; The use for this option is not critical if you have multiple Website user storages, namely one for each site.</source>
+			<target state="translated">Эти параметры важны, если у Вас есть несколько Web-сайтов в одной базе данных TYPO3, но используется лишь одна основная страница-хранилище для всех пользователей Web-сайта. Таким образом пользователи могут зарегистрироваться по любому URL Web-сайта . Это можно рассматривать как особенность (общая регистрация пользователей) или проблема (когда нужно разграничить пользователей). Однако можно включить доступ к Web-сайту определенной группе пользователей, и ограничить для пользователя, зарегистрировавшегося по другому URL (в той же базе данных). Введя здесь название хоста Web-сайта, Вы ограничиваете группу этоим доменом. &lt;b&gt;Примечание:&lt;/b&gt; этот параметр не важен, если у вас несколько страниц-хранилищ для пользователей сайта, по одному для каждого отдельного сайта.</target></trans-unit>
+			<trans-unit id="_lockToDomain.seeAlso" approved="yes">
+				<source>fe_users:lockToDomain</source>
+				<target state="translated">fe_users:lockToDomain</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="_.seeAlso" xml:space="preserve" approved="yes">
+				<source>fe_users,
+About access restricting pages | https://docs.typo3.org/typo3cms/GettingStartedTutorial/EditAndCreatePagesAndContent/PasswordProtectedPages/</source>
+			<target state="translated">fe_users,
+Об ограничении доступа к страницам | https://docs.typo3.org/typo3cms/GettingStartedTutorial/EditAndCreatePagesAndContent/PasswordProtectedPages/</target></trans-unit>
+			<trans-unit id="subgroup.description" approved="yes">
+				<source>Member of other groups.</source>
+				<target state="translated">Членство в других группах.</target>
+			</trans-unit>
+			<trans-unit id="subgroup.details" approved="yes">
+				<source>List of other groups that this group is a member of.</source>
+				<target state="translated">Список других групп, в которые входит эта группа.</target>
+			</trans-unit>
+			<trans-unit id="title.description" approved="yes">
+				<source>Name of the group.</source>
+				<target state="translated">Название группы.</target>
+			</trans-unit>
+			<trans-unit id="title.details" approved="yes">
+				<source>This title will appear as the group name in the 'Access'-list in other records.</source>
+				<target state="translated">Этот заголовок будет присутствовать как ее название в списке доступа к остальным записям.</target>
+			</trans-unit>
+			<trans-unit id="TSconfig.description" approved="yes">
+				<source>TSconfig for the group (advanced).</source>
+				<target state="translated">TSconfig для группы (расширенные параметры).</target>
+			</trans-unit>
+			<trans-unit id="TSconfig.details" xml:space="preserve" approved="yes">
+				<source>This is the user TSconfig for the group. The values are inherited by any Website user who is a member of this group.
+The configuration is subject to being overridden in other groups and by the TSconfig of the user himself.</source>
+			<target state="translated">Это TSconfig для членов группы. Значения наследуются пользователями сайта - членами этой группы. Параметры TSconfig переписывают те же параметры, установленные в других группах и параметрами TSconfig самого пользователя.</target></trans-unit>
+			<trans-unit id="_TSconfig.seeAlso" approved="yes">
+				<source>fe_users:TSconfig</source>
+				<target state="translated">fe_users:TSconfig</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="TSconfig.syntax" approved="yes">
+				<source>TypoScript syntax, without conditions and constants.</source>
+				<target state="translated">Используется синтаксис TypoScript без условий и констант.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

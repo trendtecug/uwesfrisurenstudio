@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="expand">Espandi categoria</label>
+			<label index="filesize">Dimensioni file</label>
+			<label index="noTextSelection">Errore: nessun testo selezionato.</label>
+			<label index="noTitle">Nessun titolo</label>
+			<label index="pixels">Pixels</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="property.error">Erreurs de validation pour la propriété "%s"</label>
+			<label index="validator.alphanumeric.notvalid">La valeur n'est pas une chaîne alphanumérique valide.</label>
+			<label index="validator.datetime.notvalid">La valeur n'est pas un objet DateTime. Reçu : '%s'</label>
+			<label index="validator.emailaddress.notvalid">Le sujet donné n'est pas une adresse email valide.</label>
+			<label index="validator.float.notvalid">La valeur n'est pas une adresse email valide.</label>
+			<label index="validator.genericobject.noobject">La valeur n'est pas un objet.</label>
+			<label index="validator.integer.notvalid">La valeur n'est pas un entier valide.</label>
+			<label index="validator.notempty.empty">La valeur est vide.</label>
+			<label index="validator.notempty.null">La valeur est NULL.</label>
+			<label index="validator.number.notvalid">La valeur n'est pas un nombre valide.</label>
+			<label index="validator.numberrange.notvalid">La valeur n'est pas une adresse email valide.</label>
+			<label index="validator.numberrange.range">La valeur n'est pas comprise dans l'intervalle autorisé (%s - %s).</label>
+			<label index="validator.regularexpression.empty">L'expression régulière est vide.</label>
+			<label index="validator.regularexpression.error">L'expression régulière '%s' contient une erreur.</label>
+			<label index="validator.regularexpression.nomatch">La valeur ne correspond pas au motif.</label>
+			<label index="validator.stringlength.between">La longueur de la chaîne donnée n'était pas comprise entre %s et %s caractères.</label>
+			<label index="validator.stringlength.exceed">La longueur de la chaîne donnée excède %s caractères.</label>
+			<label index="validator.stringlength.less">La longueur de la chaîne donnée est plus courte que %s caractères.</label>
+			<label index="validator.string.notvalid">Une chaîne valide est attendue.</label>
+			<label index="validator.text.notvalid">La valeur n'est pas un texte valide (p. ex. contient des balises XML).</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

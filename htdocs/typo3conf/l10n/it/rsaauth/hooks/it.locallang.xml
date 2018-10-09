@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="hook_directory_inside_siteroot">La directory temporanea RSA è collocata all'interno della directory radice del sito web. Questo costituisce un rischio per la sicurezza. Accedi all' Extension Manager, seleziona l'estensione "Autenticazione RSA" e configura la directory seguendo le istruzioni.</label>
+			<label index="hook_directory_not_absolute">Il percorso della directory temporanea RSA non è assoluto. Questo potrebbe causare errori di autenticazione RSA e costituisce un rischio per la sicurezza. Accedi all' Extension Manager, seleziona l'estensione "Autenticazione RSA" e configura la directory seguendo le istruzioni.</label>
+			<label index="hook_directory_not_exist">La directory temporanea RSA non esiste. Questo costituisce un rischio per la sicurezza poichè verrebbe utilizzata una cartella non sicura per le operazioni RSA. Accedi all' Extension Manager, seleziona l'estensione "Autenticazione RSA" e configura la directory seguendo le istruzioni.</label>
+			<label index="hook_directory_not_writable">La directory temporanea RSA non è scrivibile. Questo potrebbe causare errori di autenticazione RSA e costituisce un rischio per la sicurezza. Accedi all' Extension Manager, seleziona l'estensione "Autenticazione RSA" e configura la directory seguendo le istruzioni.</label>
+			<label index="hook_empty_directory">La directory temporanea RSA è vuota. Questo costituisce un rischio per la sicurezza. Accedi all' Extension Manager, seleziona l'estensione "Autenticazione RSA" e configura la directory seguendo le istruzioni.</label>
+			<label index="hook_using_cmdline">Autenticazione RSA non è in grado di rilevare l'estensione PHP openssl. Attualmente l'autenticazione RSA utilizza una utility a riga di comando openssl. Questo è più lenta e meno sicura. Per favore, considera di installare l'estensione PHP openssl.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

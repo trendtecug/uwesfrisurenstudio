@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T00:44:02Z" product-name="context_help">
+		<header/>
+		<body>
+			<trans-unit id=".description" approved="yes">
+				<source>Determines the entrypoint of a certain host name.</source>
+				<target state="translated">Определяет хост, как начальную точку.</target>
+			</trans-unit>
+			<trans-unit id=".details" xml:space="preserve" approved="yes">
+				<source>When a TYPO3 database contains more than a single website, you'll typically have to assign a domain name to each new websites "root-page". In practice you point all the domains to the same TYPO3 database on the server, but then you insert these Domain records at the positions in the page tree where you want to direct requests to the domain. And thus pages 'outside' that point will not be accessible from that domain.
+This is like "Virtual hosts" in Apache servers.
+
+(Should probably be available for admin only.)</source>
+			<target state="translated">Когда в базе данных TYPO3 содержится более одного вебсайта, обычно доменное имя назначается для "корневой страницы" каждого вебсайта. Практически, все домены указывают на одну и ту же базу данных TYPO3 на сервере, но после установки записи домена на странице в дереве страниц запрос буден перенаправлен на домен. И страницы "вне" этой точки не будут доступны из домена. Это подобно "виртуальному хосту" на сервере Апаче. (должно быть доступно только для администраторов).</target></trans-unit>
+			<trans-unit id="domainName.description" approved="yes">
+				<source>Enter the host name, eg. "www.my-domain.com".</source>
+				<target state="translated">Введите названи хоста, например "www.my-domain.com".</target>
+			</trans-unit>
+			<trans-unit id="domainName.details" xml:space="preserve" approved="yes">
+				<source>Before a domain record will have any effect you must make sure that the domains A-record is pointed towards the server and that your server is setup to direct requests to this TYPO3 database. So basically before entering anything here, make sure a request to the domain you wish to enter arrives at the root of the current page tree.
+When you create a domain record and the host name in it (be it a real domain name or an IP address) matches the hostname of the URL, the TypoScript based front end will limit the available page to only those in the page tree from this point and outwards. In effect you will 'arrive' at the page where this record is and furthermore users cannot see pages with ids outside this branch.
+
+&lt;strong&gt;Notice, &lt;/strong&gt;if you run TYPO3 from a subdirectory of the domain name, you must include the subdirectory as well, eg. "www.my-domain.org/typo3_subdir/"</source>
+			<target state="translated">Прежде чем запись домена будет работать, нужно удостовериться, что A-запись домена указывает на сервер и что Ваш сервер настроен на прямой запрос к этой базе данных TYPO3. Перед какой либо настройкой, удостоверьтесь что желаемый запрос к домену доступен для корня текущего дерева страниц. При создании записи домена и имени хоста в нем (реальное имя домена или IP адрес), соответстветствующему имени хоста URL, TypoScript во внешнем интерфейсе ограничит доступ к страницам в дереве страниц, лишь этой ветвью. В действительности Вы будете "находиться" на странице с этой записью, и, кроме того, пользователи не смогут видеть страницы с id вне этой ветви. &lt;strong&gt;Примечание, &lt;/strong&gt;если TYPO3 расположено в поддиректори домена, нужно включать и поддиректорию в имя домена, например "www.my-domain.org/typo3_subdir/"</target></trans-unit>
+			<trans-unit id="hidden.description" approved="yes">
+				<source>Use this option to temporarily disable the Domain record.</source>
+				<target state="translated">Используйте этот параметр для временного отключения записи домена.</target>
+			</trans-unit>
+			<trans-unit id="prepend_params.description" approved="yes">
+				<source>If set, any GET parameters in the calling URL will be transferred to the redirect URL.</source>
+				<target state="translated">Если установлено, то любые параметры GET в URL будут перенаправлены на указанный для перенаправления URL.</target>
+			</trans-unit>
+			<trans-unit id="redirectTo.description" approved="yes">
+				<source>All requests to the domain will be redirected to this URL, if any value is entered.</source>
+				<target state="translated">Все запросы к домену будут перенаправлены на этот URL, если введено какое-либо значение.</target>
+			</trans-unit>
+			<trans-unit id="redirectTo.details" xml:space="preserve" approved="yes">
+				<source>Make sure to prepend "http://" or equally to the value! Basically a "Location: " header is just issued to this value!
+&lt;strong&gt;Warning:&lt;/strong&gt; You cannot use this to 'redirect' to a specific page id within the same domain as the record has! If you do that it'll just go into an endless loop because the redirect is redirecting to itself!
+
+Good Example:
+Domain: "my-domain.org"
+Redirect: "www.my-domain.org"
+
+This redirects requests to what is infact another domain name, namely "www.my-domain.org"
+
+Bad Example:
+Domain: "www.my-domain.org"
+Redirect: "www.my-domain.org/?id=10"
+
+This will go into an eternal loop because the domain name has in fact not changed!
+
+
+Virtual directories:
+If you're using TYPO3 on a unix computer you can make 'virtual subdirectories' to a website, still within the same database. See document list for more information. In that case you should enter the hostname with the subdirectory appended, like this: "my-domain.org/subdir/". If the combination of host name and current subdirectory matches the value, the domain record will be correctly detected and limit page access to the page tree below the Domain record.</source>
+			<target state="translated">Убедитесь, что присутствует "http://" или подобное значение! Обычно в заголовке "Место: " установлено это значение! &lt;strong&gt;Предупреждение:&lt;/strong&gt; это нельзя использовать для "перенаправления" к определенной странице по id в пределах того же домена, в котором находиться эта запись! При этом произойдет зацикливание, така как перенаправление будет сделано на себя! Хороший пример: Домен: "my-domain.org" Перенаправление: "www.my-domain.org" Что перенаправит запросы к другому доменному имени – "www.my-domain.org" Плохой пример: Домен: "www.my-domain.org" Перенаправление: "www.my-domain.org/?id=10" Это приведет к бесконечному перенаправлению, так как фактически доменное имя не изменилось! Виртуальные директории: Если Вы используете TYPO3 на компьютере unix, можно сделать "виртуальные поддиректории" на сайте в пределах той же базы данных. Обратитесь к списку документации за дополнительными сведениями. Нужно ввести имя хоста с добавлением поддиректории, наподобие: "my-domain.org/subdir/". Если эта комбинация верна, запись домена будет обнаружена и ограничит доступ к страницам в дереве ниже записи домена.</target></trans-unit>
+			<trans-unit id="_.seeAlso" xml:space="preserve" approved="yes">
+				<source>sys_language
+sys_template</source>
+			<target state="translated">sys_language sys_template</target></trans-unit>
+		</body>
+	</file>
+</xliff>

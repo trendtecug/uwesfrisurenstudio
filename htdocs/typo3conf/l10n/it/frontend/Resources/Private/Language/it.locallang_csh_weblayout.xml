@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index=".alttitle">Web &gt; Modulo Pagina</label>
+			<label index="button_panel.alttitle"/>
+			<label index="button_panel.description"/>
+			<label index="_button_panel.image">EXT:frontend/Resources/Public/Images/cshimages/pagemodule_2.png</label>
+			<label index="_button_panel.seeAlso">xMOD_csh_corebe:TCEforms,
+xMOD_csh_corebe:move_el_pages,
+xMOD_csh_corebe:new_pages,
+xMOD_csh_corebe:new_ce,</label>
+			<label index="columns_1.alttitle">Elenco per Colonna</label>
+			<label index="columns_1.description">Nella vista "Colonne" si può controllare il contenuto della pagina web e il suo posizionamento in colonne.</label>
+			<label index="columns_2.alttitle">Elenco per Lingua</label>
+			<label index="columns_2.description">In vista "Lingua" è possibile controllare i contenuti della pagina divisi per lingua e colonne.</label>
+			<label index="_columns_2.seeAlso">Articoli a proposito della localizzazione | http://typo3.org/documentation/tips-tricks/multi-language-sites-in-typo3/</label>
+			<label index="columns_3.alttitle">Informazioni pagina</label>
+			<label index="columns_3.description">Nella vista "Informazioni Pagina" puoi visualizzare diverse statistiche riguardanti la pagina.</label>
+			<label index="columns_3.details"/>
+			<label index="_columns_3.image">EXT:frontend/Resources/Public/Images/cshimages/pagemodule_9.png</label>
+			<label index="columns_multi.alttitle">Elementi di contenuto di una pagina in colonne multiple</label>
+			<label index="columns_multi.description"/>
+			<label index="_columns_multi.image">EXT:frontend/Resources/Public/Images/cshimages/pagemodule_12.png</label>
+			<label index="columns_multi.image_descr"/>
+			<label index="_columns_multi.seeAlso">_MOD_web_layout:columns_single</label>
+			<label index="columns_single.alttitle">Elementi di contenuto di una pagina in una singola colonna</label>
+			<label index="columns_single.description"/>
+			<label index="columns_single.details"/>
+			<label index="_columns_single.image">EXT:frontend/Resources/Public/Images/cshimages/pagemodule_1.png</label>
+			<label index="columns_single.image_descr"/>
+			<label index="_columns_single.seeAlso">_MOD_web_layout:columns_multi</label>
+			<label index=".description"/>
+			<label index=".details"/>
+			<label index="_.image">EXT:frontend/Resources/Public/Images/cshimages/pagemodule_13.png,
+EXT:frontend/Resources/Public/Images/cshimages/pagemodule_14.png,
+EXT:frontend/Resources/Public/Images/cshimages/pagemodule_15.png</label>
+			<label index=".image_descr"/>
+			<label index="language_list.alttitle">Vista lingua</label>
+			<label index="language_list.description"/>
+			<label index="_language_list.image">EXT:frontend/Resources/Public/Images/cshimages/pagemodule_6.png,
+EXT:frontend/Resources/Public/Images/cshimages/pagemodule_7.png,
+EXT:frontend/Resources/Public/Images/cshimages/pagemodule_11.png,
+EXT:frontend/Resources/Public/Images/cshimages/pagemodule_10.png,</label>
+			<label index="language_list.image_descr"/>
+			<label index="_language_list.seeAlso">sys_language</label>
+			<label index="quickEdit.alttitle">Modifica Veloce</label>
+			<label index="quickEdit.description">La Modifica Veloce ti da la possibilità di poter avere accesso diretto ai campi degli elementi di contenuto.</label>
+			<label index="quickEdit.details"/>
+			<label index="_quickEdit.image">EXT:frontend/Resources/Public/Images/cshimages/pagemodule_5.png</label>
+			<label index="quickEdit.image_descr"/>
+			<label index="_quickEdit.seeAlso">_MOD_web_layout:quickEdit_selElement</label>
+			<label index="quickEdit_selElement.alttitle">Elementi di Contenuto</label>
+			<label index="quickEdit_selElement.description">Questa è una panoramica degli elementi di contenuto di questa pagina in modalità Modifica Veloce. Seleziona un altro elemento per modificare o clicca sull'icona "Nuovo" per creare un nuovo elemento di contenuto.</label>
+			<label index="_quickEdit_selElement.image">EXT:frontend/Resources/Public/Images/cshimages/pagemodule_4.png</label>
+			<label index="quickEdit_selElement.image_descr"/>
+			<label index="_quickEdit_selElement.seeAlso">_MOD_web_layout:quickEdit,
+xMOD_csh_corebe:move_el_cs,
+xMOD_csh_corebe:new_ce</label>
+			<label index="_.seeAlso">Configurazione modulo Pagina [Tecnico] | https://docs.typo3.org/typo3cms/TSconfigReference/PageTsconfig/TSFE/,
+xMOD_csh_corebe:history_log,
+xMOD_csh_corebe:new_ce,
+xMOD_csh_corebe:move_el_pages,
+xMOD_csh_corebe:new_pages,
+xMOD_csh_corebe:TCEforms,
+A proposito del modulo pagina | http://typo3.org/documentation/tips-tricks/the-new-page-editing-concept/
+Modifica di una pagina | https://docs.typo3.org/typo3cms/GettingStartedTutorial/EditAndCreatePagesAndContent/EditPageContent/
+Il Modulo Pagina (Animazione) | Uso dell'albero delle pagine (Animazione) | FILE:EXT:welcome/modsub/ani_05.gif</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:12Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="alt" approved="yes">
+				<source>Alternate text</source>
+				<target state="translated">Альтернативный текст</target>
+			</trans-unit>
+			<trans-unit id="border" approved="yes">
+				<source>Border</source>
+				<target state="translated">Рамка</target>
+			</trans-unit>
+			<trans-unit id="bytes" approved="yes">
+				<source>bytes</source>
+				<target state="translated">байт</target>
+			</trans-unit>
+			<trans-unit id="class" approved="yes">
+				<source>Style</source>
+				<target state="translated">Стиль</target>
+			</trans-unit>
+			<trans-unit id="currentImage" approved="yes">
+				<source>Current Image</source>
+				<target state="translated">Текущая картинка</target>
+			</trans-unit>
+			<trans-unit id="dragDropImage" approved="yes">
+				<source>Drag and Drop</source>
+				<target state="translated">Перетянуть мышью</target>
+			</trans-unit>
+			<trans-unit id="float" approved="yes">
+				<source>Float</source>
+				<target state="translated">Плавающий</target>
+			</trans-unit>
+			<trans-unit id="folderTree" approved="yes">
+				<source>Folder tree</source>
+				<target state="translated">Дерево папок</target>
+			</trans-unit>
+			<trans-unit id="height" approved="yes">
+				<source>Height</source>
+				<target state="translated">Высота</target>
+			</trans-unit>
+			<trans-unit id="images" approved="yes">
+				<source>Images</source>
+				<target state="translated">Изображения</target>
+			</trans-unit>
+			<trans-unit id="left" approved="yes">
+				<source>Left</source>
+				<target state="translated">Слева</target>
+			</trans-unit>
+			<trans-unit id="magicImage" approved="yes">
+				<source>New Magic Image</source>
+				<target state="translated">Новая волшебная картинка</target>
+			</trans-unit>
+			<trans-unit id="magicImage_msg" approved="yes">
+				<source>In "Magic" mode you can select any kind of image with any dimensions. The image is automatically converted to a web image format and any adjustments you make to the size of the image is post processed in order to optimize size and quality.</source>
+				<target state="translated">В "волшебном" режиме Вы можете выбрать изображение любого формата и любого размера. Преобразование в веб-формат с корректировками под желаемоый размер, с оптимизацией качества изображения производится в дальнейшем на сервере.</target>
+			</trans-unit>
+			<trans-unit id="margin_lr" approved="yes">
+				<source>Margin left/right</source>
+				<target state="translated">Поле слева/справа</target>
+			</trans-unit>
+			<trans-unit id="margin_tb" approved="yes">
+				<source>Margin top/bottom</source>
+				<target state="translated">Поле сверху/снизу</target>
+			</trans-unit>
+			<trans-unit id="nonFloating" approved="yes">
+				<source>Non-floating</source>
+				<target state="translated">Не плавающий</target>
+			</trans-unit>
+			<trans-unit id="notSet" approved="yes">
+				<source>Not set</source>
+				<target state="translated">Не установлено</target>
+			</trans-unit>
+			<trans-unit id="padding_bottom" approved="yes">
+				<source>Bottom padding</source>
+				<target state="translated">Отступ снизу</target>
+			</trans-unit>
+			<trans-unit id="padding_left" approved="yes">
+				<source>Left padding</source>
+				<target state="translated">Отступ слева</target>
+			</trans-unit>
+			<trans-unit id="padding_right" approved="yes">
+				<source>Right padding</source>
+				<target state="translated">Отступ справа</target>
+			</trans-unit>
+			<trans-unit id="padding_top" approved="yes">
+				<source>Top padding</source>
+				<target state="translated">Отступ сверху</target>
+			</trans-unit>
+			<trans-unit id="path" approved="yes">
+				<source>Path</source>
+				<target state="translated">Путь</target>
+			</trans-unit>
+			<trans-unit id="pixels" approved="yes">
+				<source>pixels</source>
+				<target state="translated">пикс.</target>
+			</trans-unit>
+			<trans-unit id="plainImage" approved="yes">
+				<source>New Plain Image</source>
+				<target state="translated">Новая обычная картинка</target>
+			</trans-unit>
+			<trans-unit id="plainImage_msg" approved="no">
+				<source>In "Plain" mode you can insert only web image formats (jpg,jpeg,gif,png) up to %1$sx%2$s pixels. This method is designed for images which are optimized for web already.</source>
+				<target state="needs-translation">В обычном режиме можно вставлять картинки лишь в интернет-формате (JPG,GIF,PNG) с размерами до 640х480 пикселей. Этот метод предназначен для картинок, которые уже оптимизированы для интернета.</target>
+			</trans-unit>
+			<trans-unit id="right" approved="yes">
+				<source>Right</source>
+				<target state="translated">Справа</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Заголовок</target>
+			</trans-unit>
+			<trans-unit id="update" approved="yes">
+				<source>Update</source>
+				<target state="translated">Обновить</target>
+			</trans-unit>
+			<trans-unit id="uploadImage" approved="yes">
+				<source>Upload Image</source>
+				<target state="translated">Загрузить изображение</target>
+			</trans-unit>
+			<trans-unit id="width" approved="yes">
+				<source>Width</source>
+				<target state="translated">Ширина</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

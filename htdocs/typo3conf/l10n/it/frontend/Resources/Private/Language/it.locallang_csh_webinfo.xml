@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="func_0.alttitle">Impostazioni Base</label>
+			<label index="func_0.description"/>
+			<label index="func_0.details"/>
+			<label index="_func_0.image">EXT:frontend/Resources/Public/Images/cshimages/pagetree_overview_4.png,
+EXT:frontend/Resources/Public/Images/cshimages/pagetree_overview_8.png,
+EXT:frontend/Resources/Public/Images/cshimages/pagetree_overview_9.png</label>
+			<label index="func_0.image_descr"/>
+			<label index="_func_0.seeAlso">xMOD_csh_corebe:list_module,
+_MOD_web_info:func_2,
+_MOD_web_info:pagetree_overview</label>
+			<label index="func_1.alttitle"/>
+			<label index="func_1.description"/>
+			<label index="func_1.details"/>
+			<label index="_func_1.image">EXT:frontend/Resources/Public/Images/cshimages/pagetree_overview_6.png</label>
+			<label index="func_1.image_descr">Si può facilmente visualizzare la distribuzione degli elementi di contenuto in una pagina. È anche possibile vedere dove i Record dei Template - e in pratica qualsiasi record! - si trovano nell'albero delle pagine!</label>
+			<label index="_func_1.seeAlso">_MOD_web_info:pagetree_overview,
+pages:php_tree_stop</label>
+			<label index="func_2.alttitle"/>
+			<label index="func_2.description"/>
+			<label index="_func_2.image">EXT:frontend/Resources/Public/Images/cshimages/pagetree_overview_5.png,
+EXT:frontend/Resources/Public/Images/cshimages/pagetree_overview_7.png</label>
+			<label index="func_2.image_descr"/>
+			<label index="_func_2.seeAlso">_MOD_web_info:func_0,
+_MOD_web_info:pagetree_overview,
+pages:TSconfig</label>
+			<label index="func_hits.alttitle">Vista Statistiche</label>
+			<label index="func_hits.description"/>
+			<label index="func_hits.details"/>
+			<label index="_func_hits.image">EXT:frontend/Resources/Public/Images/cshimages/pagetree_overview_2.png</label>
+			<label index="lang.alttitle">Panoramica localizzazione</label>
+			<label index="lang.description"/>
+			<label index="lang.details"/>
+			<label index="_lang.image">EXT:frontend/Resources/Public/Images/cshimages/localizationoverview.png,
+EXT:frontend/Resources/Public/Images/cshimages/localizationoverview1.png</label>
+			<label index="lang.image_descr"/>
+			<label index="pagetree_overview.alttitle">Panoramica Albero delle pagine</label>
+			<label index="pagetree_overview.description"/>
+			<label index="_pagetree_overview.image">EXT:frontend/Resources/Public/Images/cshimages/pagetree_overview_1.png</label>
+			<label index="pagetree_overview.image_descr"/>
+			<label index="_pagetree_overview.seeAlso">_MOD_web_info:func_0,
+_MOD_web_info:func_1,
+_MOD_web_info:func_2,
+_MOD_web_info:stat</label>
+			<label index="stat.alttitle"/>
+			<label index="stat.description"/>
+			<label index="stat.details"/>
+			<label index="_stat.image">EXT:frontend/Resources/Public/Images/cshimages/pagetree_overview_3.png</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

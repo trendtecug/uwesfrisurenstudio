@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T04:42:26Z" product-name="t3editor">
+		<header/>
+		<body>
+			<trans-unit id="constants" approved="yes">
+				<source>Constants</source>
+				<target state="translated">Costanti</target>
+			</trans-unit>
+			<trans-unit id="deactivate" approved="yes">
+				<source>Deactivate t3editor</source>
+				<target state="translated">Disattiva t3editor</target>
+			</trans-unit>
+			<trans-unit id="delimiter" approved="yes">
+				<source>:</source>
+				<target state="translated">:</target>
+			</trans-unit>
+			<trans-unit id="file" approved="yes">
+				<source>File</source>
+				<target state="translated">File</target>
+			</trans-unit>
+			<trans-unit id="js.label_documentModified" approved="yes">
+				<source>document has been modified</source>
+				<target state="translated">il documento è stato modificato</target>
+			</trans-unit>
+			<trans-unit id="js.label_errorWhileSaving" approved="yes">
+				<source>An error occurred while saving the data.</source>
+				<target state="translated">Errore durante il salvataggio dei dati.</target>
+			</trans-unit>
+			<trans-unit id="js.label_lines" approved="yes">
+				<source>lines</source>
+				<target state="translated">linee</target>
+			</trans-unit>
+			<trans-unit id="noPermission" approved="yes">
+				<source>Access denied: No permission to template records.</source>
+				<target state="translated">Accesso negato: nessun permesso per i record di template.</target>
+			</trans-unit>
+			<trans-unit id="pageIDInteger" approved="yes">
+				<source>Syntax error: Parameter pageID must be a valid integer.</source>
+				<target state="translated">Errore di sintassi : il parametro pageID deve essere un intero valido.</target>
+			</trans-unit>
+			<trans-unit id="setup" approved="yes">
+				<source>Setup</source>
+				<target state="translated">Setup</target>
+			</trans-unit>
+			<trans-unit id="template" approved="yes">
+				<source>Template</source>
+				<target state="translated">Template</target>
+			</trans-unit>
+			<trans-unit id="typeIDMissing" approved="yes">
+				<source>Syntax error: At least parameter typeID has to be supplied.</source>
+				<target state="translated">Errore di sintassi : almeno il parametro typeID deve essere fornito.</target>
+			</trans-unit>
+			<trans-unit id="unknownContentType" approved="yes">
+				<source>Unknown content type:</source>
+				<target state="translated">Contenuto di tipo sconosciuto:</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T02:27:07Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="content.description" approved="yes">
+				<source>The news content to let editors know what's coming up. HTML is disabled, however, you can use line breaks.</source>
+				<target state="translated">Le contenu de l'actualité permet d'informer les contributeurs sur ce qui est à venir. HTML est désactivé, cependant vous pouvez utiliser les sauts de lignes.</target>
+			</trans-unit>
+			<trans-unit id=".description" approved="yes">
+				<source>System news are shown at the TYPO3 login screen, allowing admins to inform editors about upcoming system maintenance and similar events.</source>
+				<target state="translated">Les actualités Système sont affichées sur l'écran d'authentification de TYPO3, permettant aux administrateurs d'informer les contributeurs des maintenances à venir et des évènements similaires.</target>
+			</trans-unit>
+			<trans-unit id="hidden.description" approved="yes">
+				<source>This option will hide the news from showing up at the login screen.</source>
+				<target state="translated">Cette option cachera l'actualité de l'écran d'authentification.</target>
+			</trans-unit>
+			<trans-unit id="title.description" approved="yes">
+				<source>Enter the title of the news.</source>
+				<target state="translated">Saisir le titre de l'actualité.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

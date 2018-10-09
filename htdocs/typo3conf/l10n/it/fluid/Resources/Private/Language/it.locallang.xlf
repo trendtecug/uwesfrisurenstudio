@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-30T01:15:35Z" product-name="fluid">
+		<header/>
+		<body>
+			<trans-unit id="widget.pagination.first" approved="yes">
+				<source>first</source>
+				<target state="translated">primo</target>
+			</trans-unit>
+			<trans-unit id="widget.pagination.last" approved="yes">
+				<source>last</source>
+				<target state="translated">ultimo</target>
+			</trans-unit>
+			<trans-unit id="widget.pagination.next" approved="yes">
+				<source>next</source>
+				<target state="translated">successivo</target>
+			</trans-unit>
+			<trans-unit id="widget.pagination.page" approved="yes">
+				<source>Page</source>
+				<target state="translated">Pagina</target>
+			</trans-unit>
+			<trans-unit id="widget.pagination.previous" approved="yes">
+				<source>previous</source>
+				<target state="translated">precedente</target>
+			</trans-unit>
+			<trans-unit id="widget.pagination.records" approved="yes">
+				<source>Records</source>
+				<target state="translated">Records</target>
+			</trans-unit>
+			<trans-unit id="widget.pagination.refresh" approved="yes">
+				<source>Refresh</source>
+				<target state="translated">Aggiorna</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

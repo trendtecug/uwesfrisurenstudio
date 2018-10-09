@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="Address">Indirizzo</label>
+			<label index="Article"/>
+			<label index="Aside"/>
+			<label index="Container">Contenitore</label>
+			<label index="Footer">Piè di pagina</label>
+			<label index="Header">Intestazione</label>
+			<label index="Heading 1">Intestazione 1</label>
+			<label index="Heading 2">Intestazione 2</label>
+			<label index="Heading 3">Intestazione 3</label>
+			<label index="Heading 4">Intestazione 4</label>
+			<label index="Heading 5">Intestazione 5</label>
+			<label index="Heading 6">Intestazione 6</label>
+			<label index="Long quotation"/>
+			<label index="Navigation">Navigazione</label>
+			<label index="No block">Nessun formato del blocco</label>
+			<label index="Paragraph">Paragrafo</label>
+			<label index="Preformatted"/>
+			<label index="Section">Sezione</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

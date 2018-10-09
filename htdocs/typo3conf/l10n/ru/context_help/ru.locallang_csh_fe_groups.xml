@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index=".description">Группы пользователей Web-сайта.</label>
+			<label index="description.description">Введите описание группы.</label>
+			<label index="description.details">Исключительно для внутренних нужд, примечания о цели создания группы, кто ее члены. Используйте по своему усмотрению.</label>
+			<label index=".details">Для групп пользователей назначаются права доступа в TYPO3. Если ограничить доступ к странице или другому элементу определенной группой, то увидеть этот элемент на web-сайте смогут лишь члены этой группы.</label>
+			<label index="hidden.description">Этот параметр отключает группу пользователей</label>
+			<label index="hidden.details">При отключении группы пользователей, все ее члены больше не будут наследовать ее свойства. Для примера, если страница или ее содержимое был связан лишь с этой группой, то, при ее отключении, никто не сможет получить доступ к этим страницам или их содержимому.</label>
+			<label index="_hidden.seeAlso">fe_users:disable</label>
+			<label index="_.image">EXT:context_help/Resources/Public/Images/cshimages/fegroups_3.png,
+EXT:context_help/Resources/Public/Images/cshimages/fegroups_4.png</label>
+			<label index=".image_descr">Страницы, элементы их содержимого и другие записи для отображения во внешнем интерфейсе обычно имеют блок, в котором можно определить права доступа для групп пользователей.</label>
+			<label index="lockToDomain.description">Введите название хоста, которым будет ограничена группа.</label>
+			<label index="lockToDomain.details">Эти параметры важны, если у Вас есть несколько Web-сайтов в одной базе данных TYPO3, но используется лишь одна основная страница-хранилище для всех пользователей Web-сайта. Таким образом пользователи могут зарегистрироваться по любому URL Web-сайта . Это можно рассматривать как особенность (общая регистрация пользователей) или проблема (когда нужно разграничить пользователей). Однако можно включить доступ к Web-сайту определенной группе пользователей, и ограничить для пользователя, зарегистрировавшегося по другому URL (в той же базе данных). Введя здесь название хоста Web-сайта, Вы ограничиваете группу этоим доменом. &lt;b&gt;Примечание:&lt;/b&gt; этот параметр не важен, если у вас несколько страниц-хранилищ для пользователей сайта, по одному для каждого отдельного сайта.</label>
+			<label index="_lockToDomain.seeAlso">fe_users:lockToDomain</label>
+			<label index="_.seeAlso">fe_users,
+Об ограничении доступа к страницам | https://docs.typo3.org/typo3cms/GettingStartedTutorial/EditAndCreatePagesAndContent/PasswordProtectedPages/</label>
+			<label index="subgroup.description">Членство в других группах.</label>
+			<label index="subgroup.details">Список других групп, в которые входит эта группа.</label>
+			<label index="title.description">Название группы.</label>
+			<label index="title.details">Этот заголовок будет присутствовать как ее название в списке доступа к остальным записям.</label>
+			<label index="TSconfig.description">TSconfig для группы (расширенные параметры).</label>
+			<label index="TSconfig.details">Это TSconfig для членов группы. Значения наследуются пользователями сайта - членами этой группы. Параметры TSconfig переписывают те же параметры, установленные в других группах и параметрами TSconfig самого пользователя.</label>
+			<label index="_TSconfig.seeAlso">fe_users:TSconfig</label>
+			<label index="TSconfig.syntax">Используется синтаксис TypoScript без условий и констант.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

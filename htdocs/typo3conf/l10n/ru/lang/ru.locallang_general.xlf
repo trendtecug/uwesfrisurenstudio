@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-30T02:37:26Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="LGL.address" approved="yes">
+				<source>Address:</source>
+				<target state="translated">Адрес:</target>
+			</trans-unit>
+			<trans-unit id="LGL.allLanguages" approved="yes">
+				<source>[All]</source>
+				<target state="translated">[все]</target>
+			</trans-unit>
+			<trans-unit id="LGL.any_login" approved="yes">
+				<source>Show at any login</source>
+				<target state="translated">Виден при любом входе</target>
+			</trans-unit>
+			<trans-unit id="LGL.author" approved="yes">
+				<source>Author:</source>
+				<target state="translated">Автор:</target>
+			</trans-unit>
+			<trans-unit id="LGL.baseStorage" approved="yes">
+				<source>Storage:</source>
+				<target state="translated">Хранилище:</target>
+			</trans-unit>
+			<trans-unit id="LGL.caption" approved="yes">
+				<source>Caption:</source>
+				<target state="translated">Подпись:</target>
+			</trans-unit>
+			<trans-unit id="LGL.category" approved="yes">
+				<source>Category:</source>
+				<target state="translated">Категория:</target>
+			</trans-unit>
+			<trans-unit id="LGL.city" approved="yes">
+				<source>City:</source>
+				<target state="translated">Город:</target>
+			</trans-unit>
+			<trans-unit id="LGL.code" approved="yes">
+				<source>CODE:</source>
+				<target state="translated">Код:</target>
+			</trans-unit>
+			<trans-unit id="LGL.company" approved="yes">
+				<source>Company:</source>
+				<target state="translated">Компания:</target>
+			</trans-unit>
+			<trans-unit id="LGL.country" approved="yes">
+				<source>Country:</source>
+				<target state="translated">Страна:</target>
+			</trans-unit>
+			<trans-unit id="LGL.creationDate" approved="yes">
+				<source>Created At:</source>
+				<target state="translated">Создано на:</target>
+			</trans-unit>
+			<trans-unit id="LGL.creationUserId" approved="yes">
+				<source>Created By:</source>
+				<target state="translated">Создано (кем):</target>
+			</trans-unit>
+			<trans-unit id="LGL.default_value" approved="yes">
+				<source>Default</source>
+				<target state="translated">Стандартный</target>
+			</trans-unit>
+			<trans-unit id="LGL.description" approved="yes">
+				<source>Description:</source>
+				<target state="translated">Описание:</target>
+			</trans-unit>
+			<trans-unit id="LGL.disable" approved="yes">
+				<source>Disable:</source>
+				<target state="translated">Выключить:</target>
+			</trans-unit>
+			<trans-unit id="LGL.disableRTE" approved="yes">
+				<source>Disable Rich Text Editor:</source>
+				<target state="translated">Выключить редактор сложного текста (RTE):</target>
+			</trans-unit>
+			<trans-unit id="LGL.email" approved="yes">
+				<source>Email:</source>
+				<target state="translated">Email:</target>
+			</trans-unit>
+			<trans-unit id="LGL.endtime" approved="yes">
+				<source>Stop:</source>
+				<target state="translated">Стоп:</target>
+			</trans-unit>
+			<trans-unit id="LGL.error" approved="yes">
+				<source>Error!</source>
+				<target state="translated">Ошибка!</target>
+			</trans-unit>
+			<trans-unit id="LGL.external" approved="yes">
+				<source>External URL</source>
+				<target state="translated">Внешний адрес</target>
+			</trans-unit>
+			<trans-unit id="LGL.fax" approved="yes">
+				<source>Fax:</source>
+				<target state="translated">Факс:</target>
+			</trans-unit>
+			<trans-unit id="LGL.fe_group" approved="yes">
+				<source>Access:</source>
+				<target state="translated">Доступ:</target>
+			</trans-unit>
+			<trans-unit id="LGL.first_name" approved="yes">
+				<source>First name:</source>
+				<target state="translated">Имя:</target>
+			</trans-unit>
+			<trans-unit id="LGL.folder" approved="yes">
+				<source>Folder:</source>
+				<target state="translated">Папка:</target>
+			</trans-unit>
+			<trans-unit id="LGL.hidden" approved="yes">
+				<source>Hide:</source>
+				<target state="translated">Скрыть:</target>
+			</trans-unit>
+			<trans-unit id="LGL.hide_at_login" approved="yes">
+				<source>Hide at login</source>
+				<target state="translated">Скрыть после входа в систему</target>
+			</trans-unit>
+			<trans-unit id="LGL.image" approved="yes">
+				<source>Image:</source>
+				<target state="translated">Изображение:</target>
+			</trans-unit>
+			<trans-unit id="LGL.images" approved="yes">
+				<source>Images:</source>
+				<target state="translated">Изображения:</target>
+			</trans-unit>
+			<trans-unit id="LGL.keywords" approved="yes">
+				<source>Keywords (,):</source>
+				<target state="translated">Ключевые слова (,):</target>
+			</trans-unit>
+			<trans-unit id="LGL.l18n_parent" approved="yes">
+				<source>Transl.Orig:</source>
+				<target state="translated">Оригинал перевода:</target>
+			</trans-unit>
+			<trans-unit id="LGL.language" approved="yes">
+				<source>Language:</source>
+				<target state="translated">Язык:</target>
+			</trans-unit>
+			<trans-unit id="LGL.lastlogin" approved="yes">
+				<source>Last login:</source>
+				<target state="translated">Последний вход:</target>
+			</trans-unit>
+			<trans-unit id="LGL.last_name" approved="yes">
+				<source>Last name:</source>
+				<target state="translated">Фамилия:</target>
+			</trans-unit>
+			<trans-unit id="LGL.layout" approved="yes">
+				<source>Layout:</source>
+				<target state="translated">Вид:</target>
+			</trans-unit>
+			<trans-unit id="LGL.links" approved="yes">
+				<source>Links</source>
+				<target state="translated">Гиперссылки:</target>
+			</trans-unit>
+			<trans-unit id="LGL.middle_name" approved="yes">
+				<source>Middle name:</source>
+				<target state="translated">Отчество:</target>
+			</trans-unit>
+			<trans-unit id="LGL.name" approved="yes">
+				<source>Name:</source>
+				<target state="translated">Имя:</target>
+			</trans-unit>
+			<trans-unit id="LGL.normal" approved="yes">
+				<source>Normal</source>
+				<target state="translated">Обычный</target>
+			</trans-unit>
+			<trans-unit id="LGL.note" approved="yes">
+				<source>Note:</source>
+				<target state="translated">Примечание:</target>
+			</trans-unit>
+			<trans-unit id="LGL.parameters" approved="yes">
+				<source>Parameters:</source>
+				<target state="translated">Параметры:</target>
+			</trans-unit>
+			<trans-unit id="LGL.phone" approved="yes">
+				<source>Phone:</source>
+				<target state="translated">Телефон:</target>
+			</trans-unit>
+			<trans-unit id="LGL.prependAtCopy" approved="yes">
+				<source>(copy %s)</source>
+				<target state="translated">(копия %s)</target>
+			</trans-unit>
+			<trans-unit id="LGL.recursive" approved="yes">
+				<source>Recursive:</source>
+				<target state="translated">Рекурсивно:</target>
+			</trans-unit>
+			<trans-unit id="LGL.shortcut_page" approved="yes">
+				<source>Shortcut to page:</source>
+				<target state="translated">Ссылка на страницу:</target>
+			</trans-unit>
+			<trans-unit id="LGL.startingpoint" approved="yes">
+				<source>Startingpoint:</source>
+				<target state="translated">Исходная точка:</target>
+			</trans-unit>
+			<trans-unit id="LGL.starttime" approved="yes">
+				<source>Start:</source>
+				<target state="translated">Старт:</target>
+			</trans-unit>
+			<trans-unit id="LGL.subheader" approved="yes">
+				<source>Subheader:</source>
+				<target state="translated">Подзаголовок:</target>
+			</trans-unit>
+			<trans-unit id="LGL.text" approved="yes">
+				<source>Text:</source>
+				<target state="translated">Текст:</target>
+			</trans-unit>
+			<trans-unit id="LGL.timestamp" approved="yes">
+				<source>Last Modified:</source>
+				<target state="translated">Изменено последним::</target>
+			</trans-unit>
+			<trans-unit id="LGL.title" approved="yes">
+				<source>Title:</source>
+				<target state="translated">Название:</target>
+			</trans-unit>
+			<trans-unit id="LGL.title_person" approved="yes">
+				<source>Title:</source>
+				<target state="translated">Титул, звание:</target>
+			</trans-unit>
+			<trans-unit id="LGL.type" approved="yes">
+				<source>Type:</source>
+				<target state="translated">Тип:</target>
+			</trans-unit>
+			<trans-unit id="LGL.usergroups" approved="yes">
+				<source>__Usergroups:__</source>
+				<target state="translated">__Группы пользователей:__</target>
+			</trans-unit>
+			<trans-unit id="LGL.versionLabel" approved="yes">
+				<source>Versioning Label:</source>
+				<target state="translated">Метка версии:</target>
+			</trans-unit>
+			<trans-unit id="LGL.www" approved="yes">
+				<source>www:</source>
+				<target state="translated">Веб-адрес:</target>
+			</trans-unit>
+			<trans-unit id="LGL.zip" approved="yes">
+				<source>Zipcode:</source>
+				<target state="translated">Почтовый индекс:</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

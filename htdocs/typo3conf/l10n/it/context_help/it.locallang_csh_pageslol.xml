@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="abstract.description">Inserisci il titolo della lingua alternativa</label>
+			<label index="_abstract.seeAlso"/>
+			<label index="author.description">Inserisci il titolo della lingua alternativa</label>
+			<label index="author_email.description">Inserisci il titolo della lingua alternativa</label>
+			<label index="_author_email.seeAlso"/>
+			<label index="_author.seeAlso"/>
+			<label index=".description"/>
+			<label index="description.description">Inserisci il titolo della lingua alternativa</label>
+			<label index="_description.seeAlso"/>
+			<label index=".details"/>
+			<label index="endtime.description"/>
+			<label index="_endtime.seeAlso"/>
+			<label index="hidden.description"/>
+			<label index="hidden.details"/>
+			<label index="_hidden.seeAlso"/>
+			<label index="keywords.description">Inserisci le parole chiave della lingua alternativa</label>
+			<label index="_keywords.seeAlso"/>
+			<label index="media.description">Inserisci il titolo della lingua alternativa</label>
+			<label index="_media.seeAlso"/>
+			<label index="nav_title.description"/>
+			<label index="_.seeAlso"/>
+			<label index="starttime.description"/>
+			<label index="_starttime.seeAlso"/>
+			<label index="subtitle.description">Inserisci il sottotitolo della lingua alternativa</label>
+			<label index="_subtitle.seeAlso"/>
+			<label index="sys_language_uid.description"/>
+			<label index="_sys_language_uid.seeAlso"/>
+			<label index="title.description">Inserisci il titolo della lingua alternativa</label>
+			<label index="_title.seeAlso"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

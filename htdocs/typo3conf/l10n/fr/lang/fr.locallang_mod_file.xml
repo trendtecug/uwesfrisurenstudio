@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="mlang_labels_tablabel">Administration des fichiers sur le serveur</label>
+			<label index="mlang_tabs_tab">Fichier</label>
+			<label index="sys_file_storage.isOffline">Hors ligne</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

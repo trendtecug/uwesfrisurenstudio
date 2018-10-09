@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="fe_groups.files">File consentiti</label>
+			<label index="palette.content_date">Data del contenuto</label>
+			<label index="palette.geo_location">Geolocalizzazione</label>
+			<label index="palette.metrics">Metriche</label>
+			<label index="palette.visibility">Visibilità</label>
+			<label index="placeholder.keywords">Parola chiave #1, Parola chiave #2, ...</label>
+			<label index="sys_file_metadata.caption">Didascalia</label>
+			<label index="sys_file_metadata.color_space">Spazio di colore</label>
+			<label index="sys_file_metadata.content_creation_date">Data di creazione</label>
+			<label index="sys_file_metadata.content_modification_date">Data di modifica</label>
+			<label index="sys_file_metadata.creator">Creatore</label>
+			<label index="sys_file_metadata.creator_tool">Strumento di Creazione</label>
+			<label index="sys_file_metadata.download_name">Nome per il Download</label>
+			<label index="sys_file_metadata.duration">Durata (in secondi)</label>
+			<label index="sys_file_metadata.fe_groups">Permessi Frontend</label>
+			<label index="sys_file_metadata.height">Altezza</label>
+			<label index="sys_file_metadata.keywords">Keywords</label>
+			<label index="sys_file_metadata.language">Lingua del file</label>
+			<label index="sys_file_metadata.latitude">Latitudine</label>
+			<label index="sys_file_metadata.location_city">Città</label>
+			<label index="sys_file_metadata.location_country">Nazione</label>
+			<label index="sys_file_metadata.location_region">Regione</label>
+			<label index="sys_file_metadata.longitude">Longitudine</label>
+			<label index="sys_file_metadata.note">Nota</label>
+			<label index="sys_file_metadata.pages">Numero di Pagine</label>
+			<label index="sys_file_metadata.publisher">Pubblicatore</label>
+			<label index="sys_file_metadata.ranking">Ranking</label>
+			<label index="sys_file_metadata.source">Origine</label>
+			<label index="sys_file_metadata.status">Stato</label>
+			<label index="sys_file_metadata.status.1">Ok</label>
+			<label index="sys_file_metadata.status.2">In attesa</label>
+			<label index="sys_file_metadata.status.3">In revisione</label>
+			<label index="sys_file_metadata.unit">Unità</label>
+			<label index="sys_file_metadata.visible">Visibile</label>
+			<label index="sys_file_metadata.width">Larghezza</label>
+			<label index="tabs.metadata">Metadati</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

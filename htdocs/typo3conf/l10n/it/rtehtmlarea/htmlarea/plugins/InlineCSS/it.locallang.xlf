@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:44:11Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Default" xml:space="preserve" approved="yes">
+				<source>Default</source>
+			<target state="translated">Predefinito</target></trans-unit>
+			<trans-unit id="InlineCSS-class-Tooltip" xml:space="preserve" approved="yes">
+				<source>Apply style to the selected text</source>
+			<target state="translated">Applica lo stile al testo selezionato</target><note>100%</note></trans-unit>
+			<trans-unit id="InlineCSSStyleTooltip" xml:space="preserve" approved="yes">
+				<source>Apply style to the selected text</source>
+			<target state="translated">Applica lo stile al testo selezionato</target></trans-unit>
+			<trans-unit id="Undefined" xml:space="preserve" approved="yes">
+				<source>Undefined</source>
+			<target state="translated">Non definito</target></trans-unit>
+			<trans-unit id="You have to select some text" xml:space="preserve" approved="yes">
+				<source>You have to select some text</source>
+			<target state="translated">E' necessario selezionare del testo</target></trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="assign_to_groups.description"/>
+			<label index=".description">Una 'Azione' è una configurazione di uno specifico compito che può essere eseguito tramite l'assegnazione di un gruppo di attraverso il Task Center.</label>
+			<label index="description.description">Descrive cosa é e cosa fa un'azione.</label>
+			<label index=".details"/>
+			<label index="hidden.description">Seleziona questa opzione se desideri rendere disponibile questa azione solo agli amministratori.</label>
+			<label index="hidden.details"/>
+			<label index="t1_allowed_groups.description"/>
+			<label index="t1_copy_of_user.description"/>
+			<label index="t1_copy_of_user.details"/>
+			<label index="t1_create_user_dir.description"/>
+			<label index="t1_create_user_dir.details"/>
+			<label index="t1_userprefix.description"/>
+			<label index="t3_listPid.description">[FILL IN] sys_action-&gt;t3_listPid</label>
+			<label index="t3_tables.description">[FILL IN] sys_action-&gt;t3_tables</label>
+			<label index="t4_recordsToEdit.description">[FILL IN] sys_action-&gt;t4_recordsToEdit</label>
+			<label index="title.description">inserisci il nome dell'azione. Sarà mostrato nella lista delle Azioni eseguibili nel Task Center.</label>
+			<label index="type.description">Seleziona il tipo di azione.</label>
+			<label index="type.details"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

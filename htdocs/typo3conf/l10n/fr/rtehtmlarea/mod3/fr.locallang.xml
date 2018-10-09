@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="addToList">Ajouter à la liste...</label>
+			<label index="anchor_class">Style</label>
+			<label index="anchor_title">Titre</label>
+			<label index="clickToRedrawFullSize">L'image est plus grande en réalité! Cliquez pour la redessiner en taille original.</label>
+			<label index="contentElements">Eléments de contenu</label>
+			<label index="currentLink">Lien courant</label>
+			<label index="email">E-mail</label>
+			<label index="emailAddress">Adresse e-mail</label>
+			<label index="extUrl">URL externe</label>
+			<label index="file">Fichier</label>
+			<label index="files">Fichiers</label>
+			<label index="findDragDrop">Trouvez votre image, ensuite, cliquez sur l'image et glissez là dans l'éditeur, dans la fenêtre principale!</label>
+			<label index="folders"/>
+			<label index="folderTree">Arborescence de dossiers</label>
+			<label index="info">Info</label>
+			<label index="invalidChar">ERREUR: Caractère invalide dans le chemin vers le fichier (%s). Impossible d'ajouter ce fichier!</label>
+			<label index="linkRelationship">Relation</label>
+			<label index="newWindow">Nouvelle fenêtre</label>
+			<label index="none">Aucun - Insérer un nouveau lien!</label>
+			<label index="noWebFolder">Vous ne pouvez pas glissez des images depuis ce dossier (jaune) car il est interne au serveur.</label>
+			<label index="page">Page</label>
+			<label index="page_id">Page ID</label>
+			<label index="pageTree">Arborescence</label>
+			<label index="path">Chemin</label>
+			<label index="query_parameters">Paramètres de la requête</label>
+			<label index="removeLink">Supprimer le lien</label>
+			<label index="selectRecords">Séléctionnez un enregistrement</label>
+			<label index="setLink">Attribuer le lien</label>
+			<label index="special">Spécial</label>
+			<label index="target">Cible</label>
+			<label index="target_popUpWindow">Ouvrir dans fenêtre</label>
+			<label index="target_popUpWindow_height">Hauteur</label>
+			<label index="target_popUpWindow_width">Largeur</label>
+			<label index="top">Haut</label>
+			<label index="update">Mettre à jour</label>
+			<label index="uploadImage">Télécharger une image</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

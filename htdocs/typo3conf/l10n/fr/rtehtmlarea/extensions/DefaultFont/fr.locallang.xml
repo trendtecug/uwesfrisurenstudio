@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="No font">Aucune police</label>
+			<label index="No size">Aucune taille de police</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

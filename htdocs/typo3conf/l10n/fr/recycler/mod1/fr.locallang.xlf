@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-29T03:18:24Z" product-name="recycler">
+		<header/>
+		<body>
+			<trans-unit id="description" approved="yes">
+				<source>The recycler allows you to select any deleted data and undelete it. You can undelete recursive if the parent of the element is deleted too.</source>
+				<target state="translated">La corbeille vous permet de sélectionner des données supprimées et les restaurer. Vous pouvez restaurer récursivement si le parent des éléments a aussi été supprimé.</target>
+			</trans-unit>
+			<trans-unit id="js.label_boxLabel_undelete_recursive" xml:space="preserve" approved="yes">
+				<source>Undelete recursively</source>
+			<target state="translated">Restaurer récursivement</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_clear" xml:space="preserve" approved="yes">
+				<source>Clear</source>
+			<target state="translated">Nettoyer</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_crdate" xml:space="preserve" approved="yes">
+				<source>Created</source>
+			<target state="translated">Créé</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_deleteButton_text" xml:space="preserve" approved="yes">
+				<source>Delete</source>
+			<target state="translated">Supprimer</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_deleteButton_tooltip" xml:space="preserve" approved="yes">
+				<source>Delete selected items</source>
+			<target state="translated">Supprimer les éléments sélectionnés</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_deletedTab" xml:space="preserve" approved="yes">
+				<source>Deleted data</source>
+			<target state="translated">Donnée supprimée</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_doDelete_confirmText" xml:space="preserve" approved="yes">
+				<source>Delete this record AND if page ALL subrecords ? &lt;br/&gt;ATTENTION: Data will be finally deleted from the database</source>
+			<target state="translated">Supprimer cet enregistrement ET si c'est une page TOUS les sous enregistrements ? &lt;br/&gt;ATTENTION : les données vont être finallement supprimées de la BDD</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_error_NoSelectedRows_msg" xml:space="preserve" approved="yes">
+				<source>You must select a row!</source>
+			<target state="translated">Vous devez sélectionner une ligne !</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_error_NoSelectedRows_title" xml:space="preserve" approved="yes">
+				<source>No row selected</source>
+			<target state="translated">Aucune ligne sélectionnée</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_filter" xml:space="preserve" approved="yes">
+				<source>Filter</source>
+			<target state="translated">Filtrer</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_filter_emptyText" xml:space="preserve" approved="yes">
+				<source>Keyword</source>
+			<target state="translated">Mot clé</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_loadMessage" xml:space="preserve" approved="yes">
+				<source>Please wait...&lt;br/&gt;Records would be loaded!</source>
+			<target state="translated">Veuillez patienter ...&lt;br/&gt; les enregistrements devraient se charger !</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_lostandfound" xml:space="preserve" approved="yes">
+				<source>Lost and found</source>
+			<target state="translated">Perdu et trouvé</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_no" xml:space="preserve" approved="yes">
+				<source>No</source>
+			<target state="translated">Non</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_noValueFound" xml:space="preserve" approved="yes">
+				<source>No records for {0}</source>
+			<target state="translated">Pas d'enregistrement pour {0}</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_owner" xml:space="preserve" approved="yes">
+				<source>Owner</source>
+			<target state="translated">Propriétaire</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_pagingEmpty" xml:space="preserve" approved="yes">
+				<source>No records to display</source>
+			<target state="translated">Pas d'enregistrement à afficher</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_pagingMessage" xml:space="preserve" approved="yes">
+				<source>Displaying records {0} - {1} of {2}</source>
+			<target state="translated">Affichage des enregistrements {0} - {1} de {2}</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_records" xml:space="preserve" approved="yes">
+				<source>Records</source>
+			<target state="translated">Enregistrements</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_search" xml:space="preserve" approved="yes">
+				<source>Search:</source>
+			<target state="translated">Rechercher :</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_sure" xml:space="preserve" approved="yes">
+				<source>Are you Sure?</source>
+			<target state="translated">Etes-vous sûr ?</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_table" xml:space="preserve" approved="yes">
+				<source>Table</source>
+			<target state="translated">Table</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_tableMenu_emptyText" xml:space="preserve" approved="yes">
+				<source>Choose a table...</source>
+			<target state="translated">Choisissez une table...</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_tableMenu_label" xml:space="preserve" approved="yes">
+				<source>Table:</source>
+			<target state="translated">Table :</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_text_delete" xml:space="preserve" approved="yes">
+				<source>Delete records from tables: </source>
+			<target state="translated">Supprimer les enregistrements des tables :</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_text_undelete" xml:space="preserve" approved="yes">
+				<source>Undelete records from tables: </source>
+			<target state="translated">Restaurer les enregistrements des tables :</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_title_delete" xml:space="preserve" approved="yes">
+				<source>Delete?</source>
+			<target state="translated">Supprimer ?</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_title_undelete" xml:space="preserve" approved="yes">
+				<source>Undelete?</source>
+			<target state="translated">Restaurer ?</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_tstamp" xml:space="preserve" approved="yes">
+				<source>Last edit</source>
+			<target state="translated">Dernière édition</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_undeleteButton_text" xml:space="preserve" approved="yes">
+				<source>Undelete</source>
+			<target state="translated">Restaurer</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_undeleteButton_tooltip" xml:space="preserve" approved="yes">
+				<source>Undelete selected items</source>
+			<target state="translated">Restaurer les éléments sélectionnés</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="js.label_yes" xml:space="preserve" approved="yes">
+				<source>Yes</source>
+			<target state="translated">Oui</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="label_alltables" xml:space="preserve" approved="yes">
+				<source>All tables</source>
+			<target state="translated">Toutes les tables</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Recycler</source>
+				<target state="translated">Corbeille</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

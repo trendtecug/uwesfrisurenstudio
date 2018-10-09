@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="widget.pagination.first">premier</label>
+			<label index="widget.pagination.last">dernier</label>
+			<label index="widget.pagination.next">Suivant</label>
+			<label index="widget.pagination.page">Page</label>
+			<label index="widget.pagination.previous">Précédent</label>
+			<label index="widget.pagination.records">Enregistrements</label>
+			<label index="widget.pagination.refresh">Rafraîchir</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

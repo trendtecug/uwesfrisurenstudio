@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="tx_form_domain_model_element_button.value">Premi questo pulsante</label>
+			<label index="tx_form_domain_model_element_reset.value">Pulisci form</label>
+			<label index="tx_form_domain_model_element_submit.value">Invia form</label>
+			<label index="tx_form_system_validate_alphabetic.error">Il valore deve contenere solo caratteri alfanumerici</label>
+			<label index="tx_form_system_validate_alphabetic.message">Usare caratteri alfabetici</label>
+			<label index="tx_form_system_validate_alphabetic.message2">spazi consentiti</label>
+			<label index="tx_form_system_validate_alphanumeric.error">Il valore deve contenere solo caratteri alfanumerici</label>
+			<label index="tx_form_system_validate_alphanumeric.message">Usare caratteri alfanumerici</label>
+			<label index="tx_form_system_validate_alphanumeric.message2">spazi consentiti</label>
+			<label index="tx_form_system_validate_between.error">Il valore non è tra %minimum e %maximum</label>
+			<label index="tx_form_system_validate_between.error2">inclusivamente</label>
+			<label index="tx_form_system_validate_between.message">Il valore deve essere tra %minimum e %maximum</label>
+			<label index="tx_form_system_validate_between.message2">inclusivamente</label>
+			<label index="tx_form_system_validate_date.error">Il valore non sembra essere una data valida</label>
+			<label index="tx_form_system_validate_date.message">(%format)</label>
+			<label index="tx_form_system_validate_date.strftime.a">ddd</label>
+			<label index="tx_form_system_validate_date.strftime.A">dddd</label>
+			<label index="tx_form_system_validate_date.strftime.b">mmm</label>
+			<label index="tx_form_system_validate_date.strftime.B">mmmm</label>
+			<label index="tx_form_system_validate_date.strftime.d">dd</label>
+			<label index="tx_form_system_validate_date.strftime.e">d</label>
+			<label index="tx_form_system_validate_date.strftime.H">HH</label>
+			<label index="tx_form_system_validate_date.strftime.I">hh</label>
+			<label index="tx_form_system_validate_date.strftime.m">mm</label>
+			<label index="tx_form_system_validate_date.strftime.M">mm</label>
+			<label index="tx_form_system_validate_date.strftime.S">ss</label>
+			<label index="tx_form_system_validate_date.strftime.y">yy</label>
+			<label index="tx_form_system_validate_date.strftime.Y">yyyy</label>
+			<label index="tx_form_system_validate_digit.error">Il valore deve contenere solo caratteri numerici</label>
+			<label index="tx_form_system_validate_digit.message">Usa caratteri numerici</label>
+			<label index="tx_form_system_validate_email.error">Non è un indirizzo email valido</label>
+			<label index="tx_form_system_validate_email.message">(john.doe@domain.com)</label>
+			<label index="tx_form_system_validate_equals.error">Il valore non eguaglia il valore nel campo '%field'</label>
+			<label index="tx_form_system_validate_equals.message">Questo campo deve essere uguale a '%field'</label>
+			<label index="tx_form_system_validate_fileallowedtypes.error">Il tipo di file non è consentito</label>
+			<label index="tx_form_system_validate_fileallowedtypes.message">(%allowedTypes)</label>
+			<label index="tx_form_system_validate_filemaximumsize.error">La dimensione del file è troppo grande</label>
+			<label index="tx_form_system_validate_filemaximumsize.message">La dimensione del file deve essere minore di %maximum</label>
+			<label index="tx_form_system_validate_fileminimumsize.error">La dimensione del file è troppo piccola</label>
+			<label index="tx_form_system_validate_fileminimumsize.message">La dimensione del file deve essere maggiore di %minimum</label>
+			<label index="tx_form_system_validate_float.error">Il valore non sembra essere un numero in virgola</label>
+			<label index="tx_form_system_validate_float.message">Inserire un numero in virgola</label>
+			<label index="tx_form_system_validate_greaterthan.error">Il valore non sembra essere più grande del %minimum</label>
+			<label index="tx_form_system_validate_greaterthan.message">Il valore deve essere maggiore di %minimum</label>
+			<label index="tx_form_system_validate_inarray.error">Il valore inserito non è valido</label>
+			<label index="tx_form_system_validate_inarray.message">Sono possibili solo pochi valori</label>
+			<label index="tx_form_system_validate_integer.error">Il valore inserito non è un numero intero</label>
+			<label index="tx_form_system_validate_integer.message">Utilizza un numero intero</label>
+			<label index="tx_form_system_validate_ip.error">Il valore inserito non è un indirizzo IP valido</label>
+			<label index="tx_form_system_validate_ip.message">(123.123.123.123)</label>
+			<label index="tx_form_system_validate_length.error">Il valore inserito contiene meno di %minimum caratteri</label>
+			<label index="tx_form_system_validate_length.error2">oppure più di %maximum caratteri</label>
+			<label index="tx_form_system_validate_length.message">Il valore inserito deve contenere un minimo di %minimum caratteri</label>
+			<label index="tx_form_system_validate_length.message2">ed un massimo di %maximum</label>
+			<label index="tx_form_system_validate_lessthan.error">Il valore non sembra essere minore del %maximum</label>
+			<label index="tx_form_system_validate_lessthan.message">Il valore inserito deve contenere meno di %maximum caratteri</label>
+			<label index="tx_form_system_validate_regexp.error">Il valore non coincide con il pattern</label>
+			<label index="tx_form_system_validate_regexp.message">Usa il giusto pattern</label>
+			<label index="tx_form_system_validate_required.error">Questo campo è obbligatorio</label>
+			<label index="tx_form_system_validate_required.message">Obbligatorio</label>
+			<label index="tx_form_system_validate_uri.error">Il valore non sembra essere un URI</label>
+			<label index="tx_form_system_validate_uri.message">Il valore deve essere un URI</label>
+			<label index="tx_form_view_confirmation.confirm">Conferma</label>
+			<label index="tx_form_view_confirmation.donotconfirm">Torna indietro alla form</label>
+			<label index="tx_form_view_confirmation.message">Per favore verifica il tuo inserimento e conferma usando il bottone appropriato</label>
+			<label index="tx_form_view_mail.error">C'era un errore inviando il modulo via email</label>
+			<label index="tx_form_view_mail.success">La richiesta di contatto è stata inoltrata per email</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

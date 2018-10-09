@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="about">A propos de cet éditeur</label>
+			<label index="bold">Gras</label>
+			<label index="copy">Copier la sélection</label>
+			<label index="createlink">Insérer un lien</label>
+			<label index="cut">Couper la sélection</label>
+			<label index="fontname">Police</label>
+			<label index="fontsize">Taille de la police</label>
+			<label index="forecolor">Couleur du texte</label>
+			<label index="formatblock">Type de paragraghe</label>
+			<label index="hilitecolor">Couleur du fond</label>
+			<label index="htmlmode">Mode source HTML</label>
+			<label index="indent">Augmenter le retrait</label>
+			<label index="inserthorizontalrule">Ligne horizontale</label>
+			<label index="insertimage">Insérer/Modifier une image</label>
+			<label index="insertorderedlist">Liste numérotée</label>
+			<label index="inserttable">Insérer un tableau</label>
+			<label index="insertunorderedlist">Liste à puces</label>
+			<label index="italic">Italique</label>
+			<label index="justifycenter">Centré</label>
+			<label index="justifyfull">Justifié</label>
+			<label index="justifyleft">Aligné à gauche</label>
+			<label index="justifyright">Aligné à droite</label>
+			<label index="killword">Enlever les balises MSOffice</label>
+			<label index="lefttoright">Texte de gauche à droite</label>
+			<label index="outdent">Diminuer le retrait</label>
+			<label index="paste">Coller depuis le presse-papiers</label>
+			<label index="popupeditor">Agrandir l'éditeur</label>
+			<label index="print">Imprimer le document</label>
+			<label index="redo">Refaire la dernière action</label>
+			<label index="removeformat">Enlever le formatage</label>
+			<label index="righttoleft">Texte de droite à gauche</label>
+			<label index="showhelp">Aide sur l'éditeur</label>
+			<label index="strikethrough">Barré</label>
+			<label index="subscript">Indice inférieur</label>
+			<label index="superscript">Indice supérieur</label>
+			<label index="textindicator">Style courant</label>
+			<label index="underline">Souligné</label>
+			<label index="undo">Annuler la dernière action</label>
+			<label index="unlink">Supprimer le lien</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

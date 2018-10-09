@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:44:14Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="action-items" xml:space="preserve" approved="yes">
+				<source>Action items</source>
+			<target state="translated">Attività</target></trans-unit>
+			<trans-unit id="component-items" xml:space="preserve" approved="yes">
+				<source>Component items</source>
+			<target state="translated">Componenti</target></trans-unit>
+			<trans-unit id="Default" xml:space="preserve" approved="yes">
+				<source>Default</source>
+			<target state="translated">Predefinito</target></trans-unit>
+			<trans-unit id="detail" xml:space="preserve" approved="yes">
+				<source>Detail</source>
+			<target state="translated">Dettagli</target></trans-unit>
+			<trans-unit id="DynamicCSSStyleTooltip" xml:space="preserve" approved="yes">
+				<source>Apply style to the containing paragraph</source>
+			<target state="translated">Applica stile al paragrafo contenitore</target></trans-unit>
+			<trans-unit id="frame-frame1" xml:space="preserve" approved="yes">
+				<source>Frame with grey background</source>
+			<target state="translated">Frame con sfondo grigio</target></trans-unit>
+			<trans-unit id="frame-frame2" xml:space="preserve" approved="yes">
+				<source>Frame with yellow background</source>
+			<target state="translated">Frame con sfondo giallo</target></trans-unit>
+			<trans-unit id="important" xml:space="preserve" approved="yes">
+				<source>Important</source>
+			<target state="translated">Importante</target></trans-unit>
+			<trans-unit id="name-of-person" xml:space="preserve" approved="yes">
+				<source>Name of person</source>
+			<target state="translated">Nome della persona</target></trans-unit>
+			<trans-unit id="Undefined" xml:space="preserve" approved="yes">
+				<source>Undefined</source>
+			<target state="translated">Non definito</target></trans-unit>
+		</body>
+	</file>
+</xliff>

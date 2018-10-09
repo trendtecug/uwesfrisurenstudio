@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="eIcon.bodytext">Редактировать текст</label>
+			<label index="eIcon.bullets">Редактировать перечисление</label>
+			<label index="eIcon.caption">Редактировать подпись изображения</label>
+			<label index="eIcon.caption_position">Редактировать положение подписи</label>
+			<label index="eIcon.filelist">Править список файлов</label>
+			<label index="eIcon.form">Редактировать почтовую форму</label>
+			<label index="eIcon.header">Редактировать заголовок</label>
+			<label index="eIcon.html">Редактировать непосредственно HTML</label>
+			<label index="eIcon.images">Редактировать изображения</label>
+			<label index="eIcon.login">Редактировать вход в систему</label>
+			<label index="eIcon.menuSitemap">Редактировать меню / карту сайта</label>
+			<label index="eIcon.multimedia">Редактировать мультимедиа-элемент</label>
+			<label index="eIcon.page">Страница:</label>
+			<label index="eIcon.plugin">Изменить/настроить плагин</label>
+			<label index="eIcon.recordList">Редактировать список записей</label>
+			<label index="eIcon.search">Редактировать поиск</label>
+			<label index="eIcon.subheader">Редактировать подзаголовок</label>
+			<label index="eIcon.table">Редактировать таблицу</label>
+			<label index="label.toTop">Наверх</label>
+			<label index="login.login">Вход</label>
+			<label index="login.logout">Выход</label>
+			<label index="login.password">Пароль:</label>
+			<label index="login.username">Имя пользователя:</label>
+			<label index="menu.bypassNavigation">Пропустить блок навигации</label>
+			<label index="search.emptySearch">Поиск не дал результатов!</label>
+			<label index="search.headersKeywords">заголовках и ключевых словах</label>
+			<label index="search.pageContent">содержании страниц</label>
+			<label index="search.resultRange">Результат поиска: ###RANGELOW###-###RANGEHIGH### из ###TOTAL###</label>
+			<label index="search.searchButton">Найти!</label>
+			<label index="search.searchIn">Поиск в:</label>
+			<label index="search.searchResultNext">Следующая</label>
+			<label index="search.searchResultPrev">Предыдущая</label>
+			<label index="search.searchWord">Поиск слова:</label>
+			<label index="uploads.icon">Значок ссылки на файл для %s</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

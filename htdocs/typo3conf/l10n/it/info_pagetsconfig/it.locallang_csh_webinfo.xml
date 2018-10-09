@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="tsconfig_edit.alttitle">Visualizzatore del TSconfig della pagina</label>
+			<label index="tsconfig_edit.description">Visualizza il codice grezzo di TSconfig di tutte le pagine nella radice corrente includendo il codice di default.</label>
+			<label index="tsconfig_edit.details"/>
+			<label index="_tsconfig_edit.image">EXT:info_pagetsconfig/cshimages/img_3.png,
+EXT:info_pagetsconfig/cshimages/img_4.png,
+EXT:info_pagetsconfig/cshimages/img_5.png</label>
+			<label index="tsconfig_edit.image_descr"/>
+			<label index="_tsconfig_edit.seeAlso">_MOD_web_info:tsconfig_hierarchy</label>
+			<label index="tsconfig_hierarchy.alttitle">Visualizzatore gerarchico TSconfig della pagina</label>
+			<label index="tsconfig_hierarchy.description">Permette all'utente di visualizzare la struttura compilata del TSconfig della pagina per un ramo dell'albero delle pagine.</label>
+			<label index="tsconfig_hierarchy.details">Questo visualizzatore è indispensabile per ottenere una descrizione delle impostazioni del TSconfig della pagina poichè si applicano a tutti i rami dell'albero della pagina. Si possono vedere le configurazioni della struttura di ogni pagina dove sono ereditati i TSconfig e mostrati i risultati. Questo aiuta a valutare le impostazioni date siano trovate e posizionate nel giusto punto dell'albero. E' inoltre possibile vedere il codice TypoScript del TSconfig della pagina per ogni pagina collegata con la radice visualizzata. Vedere i links per maggiori informazioni sul TSconfig della pagina.</label>
+			<label index="_tsconfig_hierarchy.image">EXT:info_pagetsconfig/cshimages/img_1.png,
+EXT:info_pagetsconfig/cshimages/img_2.png,</label>
+			<label index="tsconfig_hierarchy.image_descr"/>
+			<label index="_tsconfig_hierarchy.seeAlso">_MOD_web_info:tsconfig_edit,
+pages:TSconfig,
+Page TSconfig objects | http://typo3.org/documentation/document-library/doc_core_tsconfig/Page_TSconfig/</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="allow_notificaton_settings.description">Deselezionare questo checkbox per nascondere il destinatario e i campi dei destinatari aggiuntivi dalla finestra popup per il cambiamento di stage. Le notifiche vengono inviati in background, ma comunque in base alla configurazione dello stage di workspace.</label>
+			<label index="default_mailcomment.description">Qui è possibile definire un commento standard che verrà inserito nella mail per il cambiamento di stage. Se nessun commento standard è stato definito, è possibile scrivere un commento per la mail di ogni cambio di stage.</label>
+			<label index=".description">Definisce i workspave personalizzati in TYPO3 che permettono a gruppi di persone di lavorare insieme in un processo definito. Ulteriori informazioni sui workspace possono essere trovate nel documento "Inside TYPO3".</label>
+			<label index="notification_defaults.description">Selezionare gli utenti o gruppi di backend che dovrebbero essere selezionati di default per ricevere una mail di notifica. Selezionare solo gli utenti / gruppi che sono anche selezionati come responsabile di questo stage.</label>
+			<label index="notification_mode.description">È possibile scegliere una delle tre impostazioni per l'elenco di destinatari dei suggerimenti per il cambiamento di stage. Nella maggior parte delle configurazioni l'opzione predefinita è una buona scelta. Per una spiegazione precisa sulle singole opzioni si prega di fare riferimento alla documentazione.</label>
+			<label index="responsible_persons.description">Definire quali utenti BE sono responsabili di questo stage. Questi utenti BE selezionati sono i possibili destinatari per le e-mail sui cambiamenti di stage.</label>
+			<label index="title.description">Inserire il nome dello stage del workspace</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

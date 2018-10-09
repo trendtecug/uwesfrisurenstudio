@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="widget.pagination.first">primo</label>
+			<label index="widget.pagination.last">ultimo</label>
+			<label index="widget.pagination.next">successivo</label>
+			<label index="widget.pagination.page">Pagina</label>
+			<label index="widget.pagination.previous">precedente</label>
+			<label index="widget.pagination.records">Records</label>
+			<label index="widget.pagination.refresh">Aggiorna</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

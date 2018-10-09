@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="query_from_action_loaded">Загружен запрос из действия "%s"!</label>
+			<label index="query_loaded">Загружен запрос "%s"!</label>
+			<label index="query_notsaved">Запросы не сохранены!</label>
+			<label index="query_removed">Элемент "%s" запроса удален!</label>
+			<label index="query_saved">Запрос сохранен!</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

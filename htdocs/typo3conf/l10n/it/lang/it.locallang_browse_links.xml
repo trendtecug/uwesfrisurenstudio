@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="addToList">Aggiungi alla lista...</label>
+			<label index="class">Classe CSS</label>
+			<label index="clickToRedrawFullSize">L'immagine è più grande di quella mostrata qui! Clicca per rivedere la pagina con le immagini a dimensioni naturali..</label>
+			<label index="contentElements">Elementi di contenuto</label>
+			<label index="currentLink">Link attuale</label>
+			<label index="email">Email</label>
+			<label index="emailAddress">Indirizzo email</label>
+			<label index="extUrl">URL esterno</label>
+			<label index="file">File</label>
+			<label index="files">File</label>
+			<label index="findDragDrop">Trova l'immagine, cliccaci sopra e trascinala nell'editor della finestra principale!</label>
+			<label index="folder">Cartella</label>
+			<label index="folders">Cartella</label>
+			<label index="folderTree">Folder Tree</label>
+			<label index="importSelection">Importa selezione</label>
+			<label index="info">Informazioni</label>
+			<label index="invalidChar">ERRORE: Caratteri non validi (%s). Non è stato possibile caricare il file!</label>
+			<label index="newWindow">Nuova finestra</label>
+			<label index="none">Nessuno - nuovo link!</label>
+			<label index="noWebFolder">Non puoi trascinare le immagini di questa cartella (yellow) perché è una cartella riservata del server.</label>
+			<label index="page">Pagina</label>
+			<label index="pageTree">Page tree</label>
+			<label index="params">Altri parametri del link</label>
+			<label index="path">Percorso</label>
+			<label index="removeLink">Rimuovi Link</label>
+			<label index="selectRecords">Seleziona record</label>
+			<label index="setLink">Imposta link</label>
+			<label index="special">Speciale</label>
+			<label index="target">Target</label>
+			<label index="target_popUpWindow">Apri in finestra popup</label>
+			<label index="target_popUpWindow_height">Altezza</label>
+			<label index="target_popUpWindow_width">Larghezza</label>
+			<label index="title">Titolo</label>
+			<label index="toggleSelection">Inverti selezione</label>
+			<label index="top">Top</label>
+			<label index="update">Aggiorna</label>
+			<label index="uploadImage">Carica Immagine</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

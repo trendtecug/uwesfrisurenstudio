@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="confirmUnlockInstallToolButton">Разблокировать "Средство установки"</label>
+			<label index="confirmUnlockInstallToolMessage">&lt;p&gt;Из соображений безопасности "Средство установки" заблокировано по умолчанию.&lt;/p&gt;
+&lt;p&gt;Чтобы активировать "Средство установки" необходимо создать файл &lt;strong&gt;ENABLE_INSTALL_TOOL&lt;/strong&gt; в директории &lt;strong&gt;typo3conf/&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Простое нажатие на кнопку ниже создаст этот файл для вас и разблокирует "Средство установки".&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Замечание по безопасности: &lt;/strong&gt;Когда вы закончите, покиньте "Средство установки". В противном случае TYPO3 автоматически заблокирует "Средство установки" по истечении одного часа.&lt;/p&gt;
+				</label>
+			<label index="confirmUnlockInstallToolTitle">"Средство установки" заблокировано</label>
+			<label index="mlang_labels_tabdescr">Позволяет перейти к "Средству установки". Обратите внимание, что "Средство установки" (в typo3/install/) должно быть активировано.&lt;br /&gt;&lt;em&gt;Только для пользователей группы 'admin'!&lt;/em&gt;</label>
+			<label index="mlang_labels_tablabel">Средство установки</label>
+			<label index="mlang_tabs_tab">Установка</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

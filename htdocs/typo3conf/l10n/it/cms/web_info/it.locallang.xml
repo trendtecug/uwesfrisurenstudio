@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="hits_title">Statistiche di visita</label>
+			<label index="lang_getlangsta_createNewTranslationHeaders">Crea intestazione record in altra lingua</label>
+			<label index="lang_renderl10n_badThingThereAre">ERRORE: ci sono due o più pagine "overlay record" per questa lingua. E' consentito crearne solo una!</label>
+			<label index="lang_renderl10n_CEcount">Numero di contenuti</label>
+			<label index="lang_renderl10n_default">Default</label>
+			<label index="lang_renderl10n_editDefaultLanguagePage">Modifica le proprietà della pagina per lingua di default</label>
+			<label index="lang_renderl10n_editLangOverlays">Modifica tutte le traduzioni</label>
+			<label index="lang_renderl10n_editLanguageOverlayRecord">Modifica traduzione</label>
+			<label index="lang_renderl10n_editPage">Modifica pagina</label>
+			<label index="lang_renderl10n_editPageLang">Modifica traduzioni della pagina</label>
+			<label index="lang_renderl10n_editPageProperties">Modifica tutte le proprietà della pagina</label>
+			<label index="lang_renderl10n_page">Pagina</label>
+			<label index="lang_renderl10n_viewPage">Visualizza pagina</label>
+			<label index="lang_title">Anteprima della localizzazione</label>
+			<label index="pageInformation">Informazioni sulla pagina</label>
+			<label index="pages_0">Impostazioni di base</label>
+			<label index="pages_1">Vista d'insieme dei record</label>
+			<label index="pages_2">Cache ed età</label>
+			<label index="page_sysnote">Note interne</label>
+			<label index="page_title">Albero delle pagine</label>
+			<label index="pI_crDate">Data creazione</label>
+			<label index="pI_crUser">Creato da</label>
+			<label index="pI_lastChange">Ultima modifica</label>
+			<label index="pI_lastChangeContent">Ultimo modifica dei contenuti</label>
+			<label index="stat_period">Statistiche nel periodo compreso tra %s e %s</label>
+			<label index="stat_type_0">Visite per pagina</label>
+			<label index="stat_type_1">Visite totali</label>
+			<label index="stat_type_2">Visite raggruppate per sezione</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

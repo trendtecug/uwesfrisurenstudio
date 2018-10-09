@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-29T03:44:12Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="tx_rtepbhtmlarea_pi2.list_type" xml:space="preserve" approved="yes">
+				<source>Front End HTMLArea RTE</source>
+			<target state="translated">Rich Text Editor di HTMLArea per il Front End</target></trans-unit>
+		</body>
+	</file>
+</xliff>

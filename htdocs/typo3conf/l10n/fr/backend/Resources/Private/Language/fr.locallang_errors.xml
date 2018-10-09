@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="foldertreeview.noFolders.message">Vous n'avez accès à aucun dossier. Veuillez demander à votre administrateur de corriger les droits d'accès de votre compte.</label>
+			<label index="foldertreeview.noFolders.title">Aucun répertoire disponible</label>
+			<label index="no_modules_registered">Aucune module n'a été enregistré. Veuillez contacter votre administrateur système.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

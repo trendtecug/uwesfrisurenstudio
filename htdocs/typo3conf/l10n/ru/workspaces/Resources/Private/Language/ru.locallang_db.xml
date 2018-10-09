@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="sys_filemounts.tabs.staging">Настройка процесса</label>
+			<label index="sys_workspace.custom_stages">Дополнительные этапы:</label>
+			<label index="sys_workspace.edit_allow_notificaton_settings">Разрешить настройки уведомления о возвращении обратно на этап редактирования</label>
+			<label index="sys_workspace.edit_notification_defaults">Этап редактирования: получатели уведомлений по умолчанию</label>
+			<label index="sys_workspace.edit_notification_mode">Этап редактирования: флажки получателя приглашения</label>
+			<label index="sys_workspace.notification_mode.0">Настройки по умолчанию (может быть изменено)</label>
+			<label index="sys_workspace.notification_mode.1">Некоторое выбрано по умолчанию (невозможно изменить настройки по умолчанию)</label>
+			<label index="sys_workspace.notification_mode.2">Настройки по умолчанию (не может быть изменено)</label>
+			<label index="sys_workspace.publish_allow_notificaton_settings">Разрешить настройки уведомления о возвращении обратно на этап готовности к публикации</label>
+			<label index="sys_workspace.publish_notification_defaults">Этап готовности к публикации: получатели уведомлений по умолчанию</label>
+			<label index="sys_workspace.publish_notification_mode">Этап готовности к публикации: флажки получателя предложения</label>
+			<label index="sys_workspace_stage">Этап работы</label>
+			<label index="sys_workspace_stage.allow_notificaton_settings">Разрешить настройки уведомления об изменении этапа</label>
+			<label index="sys_workspace_stage.default_mailcomment">Комментарий в письмах по умолчанию:</label>
+			<label index="sys_workspace_stage.notification_defaults">Получатели уведомлений по умолчанию</label>
+			<label index="sys_workspace_stage.notification_mode">Флажки получателя предложения</label>
+			<label index="sys_workspace_stage.parentid">UID родительской записи:</label>
+			<label index="sys_workspace_stage.parenttable">Родительская таблица:</label>
+			<label index="sys_workspace_stage.responsible_persons">Ответственные персоны:</label>
+			<label index="tabs.general">Общее</label>
+			<label index="tabs.notification_settings">Настройки уведомлений</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

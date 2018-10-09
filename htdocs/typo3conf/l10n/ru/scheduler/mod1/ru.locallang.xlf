@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T04:16:08Z" product-name="scheduler">
+		<header/>
+		<body>
+			<trans-unit id="action.add" approved="yes">
+				<source>Add task</source>
+				<target state="translated">Добавить задачу</target>
+			</trans-unit>
+			<trans-unit id="action.edit" approved="yes">
+				<source>Edit task</source>
+				<target state="translated">Править задачу</target>
+			</trans-unit>
+			<trans-unit id="action.run_task" approved="yes">
+				<source>Run task</source>
+				<target state="translated">Запустить задачу</target>
+			</trans-unit>
+			<trans-unit id="button.cancel" approved="yes">
+				<source>Cancel</source>
+				<target state="translated">Отмена</target>
+			</trans-unit>
+			<trans-unit id="function.check" approved="yes">
+				<source>Setup check</source>
+				<target state="translated">Настройка проверки</target>
+			</trans-unit>
+			<trans-unit id="function.info" approved="yes">
+				<source>Information</source>
+				<target state="translated">Информация</target>
+			</trans-unit>
+			<trans-unit id="function.scheduler" approved="yes">
+				<source>Scheduled tasks</source>
+				<target state="translated">Запланированные задачи</target>
+			</trans-unit>
+			<trans-unit id="hdg.cliScript" approved="yes">
+				<source>CLI script</source>
+				<target state="translated">Сценарий CLI</target>
+			</trans-unit>
+			<trans-unit id="hdg.lastRun" approved="yes">
+				<source>Last run</source>
+				<target state="translated">Последний запуск</target>
+			</trans-unit>
+			<trans-unit id="hdg.schedulerUser" approved="yes">
+				<source>TYPO3 Scheduler backend user</source>
+				<target state="translated">Планировщик TYPO3 внутреннего пользователя</target>
+			</trans-unit>
+			<trans-unit id="label.automatically" approved="yes">
+				<source>automatically</source>
+				<target state="translated">автоматически</target>
+			</trans-unit>
+			<trans-unit id="label.cachingFrameworkGarbageCollection.selectBackends" approved="yes">
+				<source>Backend types</source>
+				<target state="translated">Типы внутреннего интерфейса</target>
+			</trans-unit>
+			<trans-unit id="label.checkAll" approved="yes">
+				<source>Check/uncheck all</source>
+				<target state="translated">Все выбрать/убрать</target>
+			</trans-unit>
+			<trans-unit id="label.class" approved="yes">
+				<source>Class</source>
+				<target state="translated">Класс</target>
+			</trans-unit>
+			<trans-unit id="label.cron" approved="yes">
+				<source>Cron</source>
+				<target state="translated">Cron</target>
+			</trans-unit>
+			<trans-unit id="label.defType" approved="yes">
+				<source>Definition type</source>
+				<target state="translated">Тип определения</target>
+			</trans-unit>
+			<trans-unit id="label.defType.cron" approved="yes">
+				<source>Cron command</source>
+				<target state="translated">Команда cron</target>
+			</trans-unit>
+			<trans-unit id="label.defType.interval" approved="yes">
+				<source>Interval</source>
+				<target state="translated">Интервал</target>
+			</trans-unit>
+			<trans-unit id="label.description" approved="yes">
+				<source>Description</source>
+				<target state="translated">Описание</target>
+			</trans-unit>
+			<trans-unit id="label.email" approved="yes">
+				<source>Email</source>
+				<target state="translated">Email</target>
+			</trans-unit>
+			<trans-unit id="label.end" approved="yes">
+				<source>End (HH:MM DD-MM-YYYY)</source>
+				<target state="translated">Окончание (ЧЧ:ММ ДД-ММ-ГГГГ)</target>
+			</trans-unit>
+			<trans-unit id="label.executeSelected" approved="yes">
+				<source>Execute selected tasks</source>
+				<target state="translated">Выполнить выбранные задачи</target>
+			</trans-unit>
+			<trans-unit id="label.extension" approved="yes">
+				<source>Extension</source>
+				<target state="translated">Расширение</target>
+			</trans-unit>
+			<trans-unit id="label.fileStorageExtraction.fileCount" approved="yes">
+				<source>Number of files per run</source>
+				<target state="translated">Количество файлов за проход</target>
+			</trans-unit>
+			<trans-unit id="label.fileStorageExtraction.registeredExtractors">
+				<source>Registered extractors</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="label.fileStorageExtraction.registeredExtractors.extractor">
+				<source>%1$s with priority %2$d</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="label.fileStorageExtraction.registeredExtractors.with_extractors">
+				<source>Following extractors have been registered and will be used when running this task:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="label.fileStorageExtraction.registeredExtractors.without_extractors">
+				<source>There currently is no extractor registered. This task will have no effect!</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="label.fileStorageIndexing.storage" approved="yes">
+				<source>Storage to index</source>
+				<target state="translated">Индексация хранилища</target>
+			</trans-unit>
+			<trans-unit id="label.frequency" approved="yes">
+				<source>Frequency</source>
+				<target state="translated">Частота</target>
+			</trans-unit>
+			<trans-unit id="label.frequency.long" approved="yes">
+				<source>Frequency (seconds or cron command)</source>
+				<target state="translated">Частота (секунды или команда cron)</target>
+			</trans-unit>
+			<trans-unit id="label.group" approved="yes">
+				<source>Task group</source>
+				<target state="translated">Группа задач</target>
+			</trans-unit>
+			<trans-unit id="label.id" approved="yes">
+				<source>ID</source>
+				<target state="translated">ID</target>
+			</trans-unit>
+			<trans-unit id="label.lastExecution" approved="yes">
+				<source>Last Execution</source>
+				<target state="translated">Последнее выполнение</target>
+			</trans-unit>
+			<trans-unit id="label.manual" approved="yes">
+				<source>Manual</source>
+				<target state="translated">Ручное</target>
+			</trans-unit>
+			<trans-unit id="label.manually" approved="yes">
+				<source>manually</source>
+				<target state="translated">вручную</target>
+			</trans-unit>
+			<trans-unit id="label.name" approved="yes">
+				<source>Name</source>
+				<target state="translated">Название</target>
+			</trans-unit>
+			<trans-unit id="label.nextExecution" approved="yes">
+				<source>Next Execution</source>
+				<target state="translated">Следующее выполнение</target>
+			</trans-unit>
+			<trans-unit id="label.parallel" approved="yes">
+				<source>Parallel Execution</source>
+				<target state="translated">Параллельное выполнение</target>
+			</trans-unit>
+			<trans-unit id="label.parallel.long" approved="yes">
+				<source>Allow Parallel Execution</source>
+				<target state="translated">Разрешить параллельное выполнение</target>
+			</trans-unit>
+			<trans-unit id="label.recyclerGarbageCollection.numberOfDays" approved="yes">
+				<source>Number of days until removing files</source>
+				<target state="translated">Количество дней до удаления файлов</target>
+			</trans-unit>
+			<trans-unit id="label.serverTime" approved="yes">
+				<source>Server time</source>
+				<target state="translated">Время на сервере</target>
+			</trans-unit>
+			<trans-unit id="label.sleepTime" approved="yes">
+				<source>Sleep time</source>
+				<target state="translated">Отсрочка</target>
+			</trans-unit>
+			<trans-unit id="label.start" approved="yes">
+				<source>Start (HH:MM DD-MM-YYYY)</source>
+				<target state="translated">Начало (ЧЧ:ММ ДД-ММ-ГГГГ)</target>
+			</trans-unit>
+			<trans-unit id="label.tableGarbageCollection.additionalInformationAllTables" approved="yes">
+				<source>All tables</source>
+				<target state="translated">Все таблицы</target>
+			</trans-unit>
+			<trans-unit id="label.tableGarbageCollection.additionalInformationTable" approved="yes">
+				<source>Table: %s</source>
+				<target state="translated">Таблица: %s</target>
+			</trans-unit>
+			<trans-unit id="label.tableGarbageCollection.allTables" approved="yes">
+				<source>Clean all available tables</source>
+				<target state="translated">Очистить все доступные таблицы</target>
+			</trans-unit>
+			<trans-unit id="label.tableGarbageCollection.numberOfDays" approved="yes">
+				<source>Delete entries older than given number of days</source>
+				<target state="translated">Удаление записей, созданных ранее указанного количества дней</target>
+			</trans-unit>
+			<trans-unit id="label.tableGarbageCollection.table" approved="yes">
+				<source>Table to clean up</source>
+				<target state="translated">Таблицы для очистки</target>
+			</trans-unit>
+			<trans-unit id="label.type" approved="yes">
+				<source>Type</source>
+				<target state="translated">Тип</target>
+			</trans-unit>
+			<trans-unit id="label.type.recurring" approved="yes">
+				<source>Recurring</source>
+				<target state="translated">Повторяющаяся</target>
+			</trans-unit>
+			<trans-unit id="label.type.single" approved="yes">
+				<source>Single</source>
+				<target state="translated">Единичная</target>
+			</trans-unit>
+			<trans-unit id="msg.addError" approved="yes">
+				<source>The task could not be added.</source>
+				<target state="translated">Задача не может быть добавлена.</target>
+			</trans-unit>
+			<trans-unit id="msg.addSuccess" approved="yes">
+				<source>The task was added successfully.</source>
+				<target state="translated">Задачу успешно добавлена.</target>
+			</trans-unit>
+			<trans-unit id="msg.cliScript" approved="yes">
+				<source>The script to execute the Scheduler from the command line is: &lt;strong&gt;"%s scheduler"&lt;/strong&gt;.</source>
+				<target state="translated">Сценарий для выполнения Планировщика из командной строки: &lt;strong&gt;"%s scheduler"&lt;/strong&gt;.</target>
+			</trans-unit>
+			<trans-unit id="msg.cliScriptExecutable" approved="yes">
+				<source>The webserver user is allowed execute this script.</source>
+				<target state="translated">Пользователю сервера позволено выполнять этот сценарий.</target>
+			</trans-unit>
+			<trans-unit id="msg.cliScriptNotExecutable" approved="yes">
+				<source>The webserver user is not allowed to execute this script.</source>
+				<target state="translated">Пользователю сервера не позволено выполнять этот сценарий.</target>
+			</trans-unit>
+			<trans-unit id="msg.delete" approved="yes">
+				<source>Are you sure you want to delete this task?</source>
+				<target state="translated">Подтвердите удаление этой задачи</target>
+			</trans-unit>
+			<trans-unit id="msg.deleteError" approved="yes">
+				<source>The task could not be deleted.</source>
+				<target state="translated">Задача не может быть удалена</target>
+			</trans-unit>
+			<trans-unit id="msg.deleteSuccess" approved="yes">
+				<source>The task was successfully deleted.</source>
+				<target state="translated">Задача успешно удалена</target>
+			</trans-unit>
+			<trans-unit id="msg.endDateSmallerThanStartDate" approved="yes">
+				<source>The end date is before the start date.</source>
+				<target state="translated">Дата окончания предшествует дате начала.</target>
+			</trans-unit>
+			<trans-unit id="msg.executed" approved="yes">
+				<source>Executed: %s</source>
+				<target state="translated">Выполняется: %s</target>
+			</trans-unit>
+			<trans-unit id="msg.executionFailed" approved="no">
+				<source>Execution of task "%1$s" failed with the following message: %2$s</source>
+				<target state="needs-translation">Выполнение задачи "%1$s" потерпело неудачу, сообщение об этом: %2$s</target>
+			</trans-unit>
+			<trans-unit id="msg.executionFailureDefault" approved="yes">
+				<source>The execution failed, but the error message could not be retrieved (it was probably too large). Sorry.</source>
+				<target state="translated">Ошибка выполнения, но сообщение об ошибке не может быть получено (возможно, оно слишком большое). Извините.</target>
+			</trans-unit>
+			<trans-unit id="msg.executionFailureReport" approved="no">
+				<source>Execution failed: %1$d, %2$s</source>
+				<target state="needs-translation">Ошибка выполнения: %1$d, %2$s</target>
+			</trans-unit>
+			<trans-unit id="msg.frequencyError" approved="no">
+				<source>Invalid frequency. Please enter either a number of seconds or a valid cron command. The cron parser said: %1$s [code: %2$d].</source>
+				<target state="needs-translation">Неверная частота. Введите либо количество секунд, либо правильную команду cron. Анализатор cron выдал: %1$s [код: %2$d].</target>
+			</trans-unit>
+			<trans-unit id="msg.incompleteLastRun" approved="yes">
+				<source>The information about the last execution of the Scheduler is incomplete.</source>
+				<target state="translated">Информация о последнем выполнении Планировщика неполная.</target>
+			</trans-unit>
+			<trans-unit id="msg.infoScreenIntro" approved="yes">
+				<source>This is the list of all available tasks in this TYPO3 installation. Click on the icon at the far right to directly create a new scheduled task of the chosen type.</source>
+				<target state="translated">Это – список всех доступных задач в этой установке TYPO3. Нажатие на значке справа создаст новую запланированную задачу выбранного типа.</target>
+			</trans-unit>
+			<trans-unit id="msg.invalidEndDate" approved="yes">
+				<source>End date is invalid.</source>
+				<target state="translated">Дата окончания неверна.</target>
+			</trans-unit>
+			<trans-unit id="msg.invalidFrequency" approved="yes">
+				<source>Invalid frequency. Please enter either a number of seconds or a valid cron command.</source>
+				<target state="translated">Неправильная частота. Введите либо количество секунд, либо правильную команду cron.</target>
+			</trans-unit>
+			<trans-unit id="msg.invalidNumberOfDays" approved="yes">
+				<source>Number of days is invalid.</source>
+				<target state="translated">Неверное количество дней.</target>
+			</trans-unit>
+			<trans-unit id="msg.invalidSleepTime" approved="yes">
+				<source>Please enter a sleep time greater or equal to 0 (zero).</source>
+				<target state="translated">Введите время отсрочки больше или равное нулю.</target>
+			</trans-unit>
+			<trans-unit id="msg.invalidStartDate" approved="yes">
+				<source>Start date is invalid.</source>
+				<target state="translated">Дата начала неверна.</target>
+			</trans-unit>
+			<trans-unit id="msg.invalidTaskClass" approved="yes">
+				<source>Class %s of the registered task could not be found. You should re-install the extension that provided it or simply delete this task.</source>
+				<target state="translated">Не найден класс %s зарегистрированной задачи. Следует повторно установить расширение, которое его предоставило, или просто удалить эту задачу.</target>
+			</trans-unit>
+			<trans-unit id="msg.invalidTaskClassEdit" approved="yes">
+				<source>The current class (%s) could not be found. Change it below or consider deleting this task altogether.</source>
+				<target state="translated">Не найден текущий класс (%s). Измените его ниже или рассмотрите удаление всей задачи.</target>
+			</trans-unit>
+			<trans-unit id="msg.lastRun" approved="no">
+				<source>The Scheduler was last started (%1$s) on %2$s at %3$s and ended on %4$s at %5$s.</source>
+				<target state="needs-translation">Последнее срабатывание планировщика (%1$s) было %2$s в %3$s и завершилось %4$s в %5$s.</target>
+			</trans-unit>
+			<trans-unit id="msg.maynotDeleteRunningTask" approved="yes">
+				<source>A running task may not be deleted.</source>
+				<target state="translated">Выполняющаяся задача не может быть удалена.</target>
+			</trans-unit>
+			<trans-unit id="msg.maynotEditRunningTask" approved="yes">
+				<source>A running task may not be edited.</source>
+				<target state="translated">Выполняющаяся задача не может быть отредактирована.</target>
+			</trans-unit>
+			<trans-unit id="msg.maynotStopNonRunningTask" approved="yes">
+				<source>The task is not running. There are no executions to unmark.</source>
+				<target state="translated">Задача не выполняется. Нет выполняющихся задач для снятия выделения.</target>
+			</trans-unit>
+			<trans-unit id="msg.noCacheBackendSelected" approved="yes">
+				<source>Please select at least one cache backend.</source>
+				<target state="translated">Выберете хотя бы один кеш внутреннего интерфейса.</target>
+			</trans-unit>
+			<trans-unit id="msg.noEmail" approved="yes">
+				<source>Please enter an email address.</source>
+				<target state="translated">Введите email адрес.</target>
+			</trans-unit>
+			<trans-unit id="msg.noFrequency" approved="yes">
+				<source>No frequency was defined, either as an interval or as a cron command.</source>
+				<target state="translated">Частота в виде интервала или команды cron не определена.</target>
+			</trans-unit>
+			<trans-unit id="msg.noLastRun" approved="yes">
+				<source>The Scheduler has never yet run or the information about the last run has been lost.</source>
+				<target state="translated">Планировщик еще не запускался, либо информация о последнем выполнении была потеряна.</target>
+			</trans-unit>
+			<trans-unit id="msg.noStartDate" approved="yes">
+				<source>Please define a start date.</source>
+				<target state="translated">Определите дату начала.</target>
+			</trans-unit>
+			<trans-unit id="msg.noTaskClassFound" approved="yes">
+				<source>The selected task class could not be found. You should probably contact the task's developers.</source>
+				<target state="translated">Задача выбранного класса не найдена. Возможно следует связаться с разработчиками.</target>
+			</trans-unit>
+			<trans-unit id="msg.noTasks" approved="yes">
+				<source>No tasks defined yet.</source>
+				<target state="translated">Задачи еще не определены.</target>
+			</trans-unit>
+			<trans-unit id="msg.noTasksDefined" approved="yes">
+				<source>There are currently no task classes available at all. To be able to create new tasks, you must either enable the samples provided by the Scheduler or install some other extension that relies on the Scheduler.</source>
+				<target state="translated">На данный момент классы задач совсем недоступны. Чтобы получить возможность содания новых задач, необходимо либо включить образцы из планировщика, либо установить расширения, относящиеся к планировщику.</target>
+			</trans-unit>
+			<trans-unit id="msg.notExecuted" approved="yes">
+				<source>Not executed: %s</source>
+				<target state="translated">Не выполнено: %s</target>
+			</trans-unit>
+			<trans-unit id="msg.schedulerSetupCheck" approved="yes">
+				<source>This screen checks if the requisites for running the Scheduler as a cron job are fulfilled. It also displays information about the last run of the Scheduler.</source>
+				<target state="translated">В этом диалоге проверяются условия, необходимые для выполнения планировщика в виде задания cron. Также отображается информация о последнем выполнении планировщика.</target>
+			</trans-unit>
+			<trans-unit id="msg.schedulerUser" approved="yes">
+				<source>The backend user "_cli_scheduler" is used by the CLI-script to log into TYPO3. This user may not have administrator privileges. The user's password is not important but should be set to a secure value for security reasons.</source>
+				<target state="translated">Внутренний пользователь "_cli_scheduler" используется сценарием CLI для регистрации в TYPO3. У этого пользователя не может быть прав доступа администратора. Пароль пользователя не важен, но должен быть установлен по соображениям безопасности.</target>
+			</trans-unit>
+			<trans-unit id="msg.schedulerUserFound" approved="yes">
+				<source>The backend user "_cli_scheduler" was found.</source>
+				<target state="translated">Был найден внутренний пользователь "_cli_scheduler".</target>
+			</trans-unit>
+			<trans-unit id="msg.schedulerUserFoundButDisabled" approved="yes">
+				<source>The backend user "_cli_scheduler" exists but is currently disabled.</source>
+				<target state="translated">Внутренний пользователь "_cli_scheduler" существует, но временно отключен.</target>
+			</trans-unit>
+			<trans-unit id="msg.schedulerUserMissing" approved="no">
+				<source>The backend user "_cli_scheduler" was not found.&lt;br/&gt;&lt;br/&gt; &lt;a href="%s" class="btn btn-danger" title="Click to create the missing user"&gt;Create the user now&lt;/a&gt;</source>
+				<target state="needs-translation">Не найден внутренний пользователь "_cli_scheduler". &lt;a href="%s" title="Нажмите для создания недостающего пользователя"&gt;Создать пользователя&lt;/a&gt;</target>
+			</trans-unit>
+			<trans-unit id="msg.selectionOfNonExistingCacheBackends" approved="yes">
+				<source>Some of the selected cache backends do not exist. Please select valid backends only.</source>
+				<target state="translated">Не существуют некоторые кеши внутреннего интерфейса из выбранных. Выберете только правильные.</target>
+			</trans-unit>
+			<trans-unit id="msg.serverTime" approved="yes">
+				<source>Current server time is %s.</source>
+				<target state="translated">Текущее время на сервере: %s.</target>
+			</trans-unit>
+			<trans-unit id="msg.serverTimeHelp" approved="yes">
+				<source>All dates and times in the Scheduler are measured according to the server's time, as the Scheduler is run purely on the server-side.</source>
+				<target state="translated">Все данные и время в планировщике измеряются согласно времени на сервере, так как он является частью программного обеспечения сервера.</target>
+			</trans-unit>
+			<trans-unit id="msg.stop" approved="yes">
+				<source>Are you sure you want to mark this task as not running? Note that this will not stop the actual script (if unsure please refer to the manual).</source>
+				<target state="translated">Настаиваете на отметке этой задачи не выполняющейся? Помните, что это не остановит фактический сценарий (если не уверены, прочитайте руководство).</target>
+			</trans-unit>
+			<trans-unit id="msg.stopError" approved="yes">
+				<source>The task could not be marked as non-running.</source>
+				<target state="translated">Задача не может быть отмечена как не выполняющаяся.</target>
+			</trans-unit>
+			<trans-unit id="msg.stopSuccess" approved="yes">
+				<source>The task was successfully marked as non-running.</source>
+				<target state="translated">Задача отмечена как не выполняющаяся.</target>
+			</trans-unit>
+			<trans-unit id="msg.taskNotFound" approved="yes">
+				<source>The requested task (UID: %d) was not found.</source>
+				<target state="translated">Не найдена запрашиваемая задача (UID: %d).</target>
+			</trans-unit>
+			<trans-unit id="msg.updateError" approved="yes">
+				<source>The task could not be updated.</source>
+				<target state="translated">Задача не может быть обновлена.</target>
+			</trans-unit>
+			<trans-unit id="msg.updateSuccess" approved="yes">
+				<source>The task was updated successfully.</source>
+				<target state="translated">Задача успешно обновлена.</target>
+			</trans-unit>
+			<trans-unit id="msg.userCreated" approved="yes">
+				<source>The "_cli_scheduler" user was created successfully.</source>
+				<target state="translated">Успешно создан пользователь "_cli_scheduler".</target>
+			</trans-unit>
+			<trans-unit id="msg.userExists" approved="yes">
+				<source>The "_cli_scheduler" user already exists. It was not created.</source>
+				<target state="translated">Пользователь "_cli_scheduler" уже существует. Он не был создан.</target>
+			</trans-unit>
+			<trans-unit id="msg.userNotCreated" approved="yes">
+				<source>The creation of the "_cli_scheduler" user failed.</source>
+				<target state="translated">Создание пользователя "_cli_scheduler" завершилось неудачно.</target>
+			</trans-unit>
+			<trans-unit id="none" approved="yes">
+				<source>None</source>
+				<target state="translated">Нет</target>
+			</trans-unit>
+			<trans-unit id="status" approved="yes">
+				<source>Status</source>
+				<target state="translated">Состояние</target>
+			</trans-unit>
+			<trans-unit id="status.disabled" approved="yes">
+				<source>disabled</source>
+				<target state="translated">отключено</target>
+			</trans-unit>
+			<trans-unit id="status.failure" approved="yes">
+				<source>failure</source>
+				<target state="translated">сбой</target>
+			</trans-unit>
+			<trans-unit id="status.late" approved="yes">
+				<source>late</source>
+				<target state="translated">отложено</target>
+			</trans-unit>
+			<trans-unit id="status.legend" xml:space="preserve" approved="yes">
+				<source>Status Legend</source>
+			<target state="translated">Обозначение состояния</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status.legend.disabled" xml:space="preserve" approved="yes">
+				<source>Disabled, will not be executed, except manually</source>
+			<target state="translated">Отключено, выполняться, кроме как вручную, не будет</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status.legend.failure" xml:space="preserve" approved="yes">
+				<source>Failure! An error occurred during the last execution (move over bullet for more details)</source>
+			<target state="translated">Сбой! Во время последнего выполнения произошла ошибка (наведите на маркер, чтобы узнать подробности)</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status.legend.late" xml:space="preserve" approved="yes">
+				<source>Late, will run with next execution</source>
+			<target state="translated">Отложено, будет выполнено в следующий раз</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status.legend.running" xml:space="preserve" approved="yes">
+				<source>Currently running</source>
+			<target state="translated">Выполняется в данный момент</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status.legend.scheduled" xml:space="preserve" approved="yes">
+				<source>Scheduled, will run on next possible execution</source>
+			<target state="translated">Запланировано, будет запущено при следующей возможности</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status.progress" approved="yes">
+				<source>Progress</source>
+				<target state="translated">Прогресс</target>
+			</trans-unit>
+			<trans-unit id="status.running" approved="yes">
+				<source>running</source>
+				<target state="translated">выполняется</target>
+			</trans-unit>
+			<trans-unit id="status.scheduled" approved="yes">
+				<source>scheduled</source>
+				<target state="translated">запланировано</target>
+			</trans-unit>
+			<trans-unit id="task" approved="yes">
+				<source>Task</source>
+				<target state="translated">Задача</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>TYPO3 Scheduler administration module</source>
+				<target state="translated">Модуль управления планировщиком TYPO3</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

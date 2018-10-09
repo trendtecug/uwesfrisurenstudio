@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="alt">Альтернативный текст</label>
+			<label index="border">Рамка</label>
+			<label index="bytes">байт</label>
+			<label index="class">Стиль</label>
+			<label index="currentImage">Текущая картинка</label>
+			<label index="dragDropImage">Перетянуть мышью</label>
+			<label index="float">Плавающий</label>
+			<label index="folderTree">Дерево папок</label>
+			<label index="height">Высота</label>
+			<label index="images">Изображения</label>
+			<label index="left">Слева</label>
+			<label index="magicImage">Новая волшебная картинка</label>
+			<label index="magicImage_msg">В "волшебном" режиме Вы можете выбрать изображение любого формата и любого размера. Преобразование в веб-формат с корректировками под желаемоый размер, с оптимизацией качества изображения производится в дальнейшем на сервере.</label>
+			<label index="margin_lr">Поле слева/справа</label>
+			<label index="margin_tb">Поле сверху/снизу</label>
+			<label index="nonFloating">Не плавающий</label>
+			<label index="notSet">Не установлено</label>
+			<label index="padding_bottom">Отступ снизу</label>
+			<label index="padding_left">Отступ слева</label>
+			<label index="padding_right">Отступ справа</label>
+			<label index="padding_top">Отступ сверху</label>
+			<label index="path">Путь</label>
+			<label index="pixels">пикс.</label>
+			<label index="plainImage">Новая обычная картинка</label>
+			<label index="plainImage_msg">В обычном режиме можно вставлять картинки лишь в интернет-формате (JPG,GIF,PNG) с размерами до 640х480 пикселей. Этот метод предназначен для картинок, которые уже оптимизированы для интернета.</label>
+			<label index="right">Справа</label>
+			<label index="title">Заголовок</label>
+			<label index="update">Обновить</label>
+			<label index="uploadImage">Загрузить изображение</label>
+			<label index="width">Ширина</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

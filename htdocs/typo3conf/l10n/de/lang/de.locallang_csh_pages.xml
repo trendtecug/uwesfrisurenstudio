@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="de" type="array">
+			<label index=".description">Ein Datensatz "Seite" repräsentiert üblicherweise eine Webseite in TYPO3. Alle Seiten haben eine ID-Nummer (UID), über die sie verlinkt und referenziert werden können. Ein Seitendatensatz enthält nicht selbst den Inhalt der Seite. Für den Inhalt werden "Seiteninhalte" erstellt.</label>
+			<label index=".details">Die Seitentabelle ist das Rückgrat von TYPO3. Alle Datensätze der Standardmodule müssen zu einer Seite gehören. Dies entspricht in etwa Dateien und Ordnern auf der Festplatte Ihres PCs.
+
+&lt;b&gt;Der Seitenbaum&lt;/b&gt;
+Die Seiten sind in einer Baumstruktur angeordnet, die die Organisation Ihrer Website widerspiegelt.
+
+&lt;b&gt;UID, PID und die Wurzel des Baums&lt;/b&gt;
+Alle Datenbankelemente besitzen ein Feld "uid", das eine eindeutige Identifikation zulässt. Zusätzlich haben alle Datenbankelemente ein Feld "pid" (Page-ID, Seiten-ID), welches die "uid" der Seite ("page id") enthält, zu der sie gehören. Falls das Feld "pid" gleich 0 ist, so befindet sich der Datensatz in der Wurzel ("root") des Baums. Nur Administratoren ist der Zugriff auf die Wurzel gestattet. Tabelleneinträge müssen entweder zu einer Seite gehören oder sich in der Wurzel befinden.
+
+&lt;b&gt;Speichern von Datensätzen&lt;/b&gt;
+In Abhängigkeit vom "Typ" der Seite kann eine Seite auch einen allgemeinen Speicher für beliebige Datenbankelemente in TYPO3 darstellen. In diesem Fall ist sie nicht als Web-Seite verfügbar, sondern nur intern im Seitenbaum als Speicherort für Objekte wie Benutzer, Abonnements, Domänen usw. Solche Seiten haben in der Regel den Typ "Ordner".</label>
+			<label index="doktype.description">Der Seitentyp beeinflusst, ob die Seite eine normale Web-Seite oder ein Verweis zu einer anderen Seite ist oder ob sie für andere, interne Zwecke genutzt wird.</label>
+			<label index="doktype.details">"Standard" ist der gebröuchlichste Seitentyp und repräsentiert eine normale Webseite.
+"Ordner" ist ein Seitentyp, der &lt;i&gt;nicht&lt;/i&gt; als Webseite angezeigt wird; stattdessen speichert er Datensätze beliebigen Typs.
+"Papierkorb" ist ein Mülleimer. Seiten und Datensätze im Papierkorb werden im Frontend nicht angezeigt.
+
+&lt;b&gt;Hinweis:&lt;/b&gt; Jeder Seitentyp wird durch ein spezielles Symbol dargestellt. Die verfügbaren Seitentypen können je nach Benutzer definiert werden; einige der genannten Typen stehen einem bestimmten Benutzer daher möglicherweise nicht zur Verfügung. Beachten Sie außerdem, dass bestimmte Datensätze nur auf bestimmten Seitentypen erlaubt sind. Der Typ "Ordner" erlaubt alle Typen.
+
+&lt;b&gt;$PAGES_TYPES [Technisch]&lt;/b&gt;
+Die Einschränkungen zu jedem Seitentyp sind im globalen Array $PAGES_TYPES definiert. Wenn Erweiterungen neue Tabellen zu TYPO3 hinzufügen ist es eventuell erforderlich, dass sie ihre Tabellen in $PAGES_TYPES registrieren, so dass Datensätze für diese Tabellen auf normalen Seiten hinzugefügt werden können.</label>
+			<label index="_doktype.image">EXT:lang/Resources/Public/Images/cshimages/pages_4.png</label>
+			<label index="doktype.image_descr">Dieser Ausschnitt des Seitenbaums zeigt einige normale Seiten (weiße Symbole) im oberen Teil des Bildschirmfotos. Der Papierkorb ("Garbage") mit seinem besonderen Symbol ist ebenfalls sichtbar. Elemente im Papierkorb sind Kandidaten für eine endgültige Löschung und werden auf der Website nicht angezeigt. Die grauen Ordnersymbole repräsentieren "Ordner". Diese werden ebenfalls niemals als Web-Seiten angezeigt, sondern ermöglichen die Speicherung beliebiger Daten.</label>
+			<label index="_doktype.seeAlso">be_groups:pagetypes_select,
+Über $PAGES_TYPES | https://docs.typo3.org/typo3cms/CoreApiReference/PageTypes/</label>
+			<label index="editlock.description">Wenn sie gesetzt ist bewirkt diese Option, dass Benutzer, die nicht Administratoren sind, weder die Seiteneigenschaften noch Seiteninhalte bearbeiten können. Sie können auch keine neuen Seiteninhalte und keine neuen Kindseiten erzeugen. Existierende Kindseiten können sie aber bearbeiten.</label>
+			<label index="fe_login_mode.description">Das Anmeldeverhalten ermöglicht es, die Möglichkeit angemeldet zu sein und zugehörige Funktionen für diese Seite zu deaktivieren.</label>
+			<label index="fe_login_mode.details">Wenn sich ein Benutzer am TYPO3-Frontend anmeldet, wird bei jeder Seite und/oder ihren Inhaltselementen überprüft, welche Inhalte der Benutzer sehen kann.
+
+Bei Deaktivierung von Anmeldungen werden diese Beschränkungen entfernt und der Inhalt ist dann unabhängig von Anmeldestatus und Mitgliedschaft in verschiedenen Frontend-Benutzergruppen sichtbar. Dies ermöglicht wieder das Senden zwischengespeicherter Header.</label>
+			<label index="_.image">EXT:lang/Resources/Public/Images/cshimages/pages_1.png,
+EXT:lang/Resources/Public/Images/cshimages/pages_2.png,</label>
+			<label index=".image_descr">Die wichtigsten Felder einer "Seite" sind: die Option "Seite deaktivieren", der Typ der Seite ("doktype") und der "Seitentitel".
+Seiten sind in TYPO3 in einem Baum organisiert. Die gezeigte Seite des Bearbeitungsformulars im Bild ist die Seite "Intro" des Seitenbaums. Wie Sie sehen können, ist sie der Wurzel des Baums zugeordnet und besitzt eine Reihe von "Kindseiten".</label>
+			<label index="php_tree_stop.description">Stoppt die Darstellung des Seitenbaums in der Navigation und Listen.</label>
+			<label index="php_tree_stop.details">Ist diese Option aktiviert, ist dieser Ast im Seitenbaum nicht mehr aufgeklappt darstellbar. Stattdessen ist ein rotes "+" zu sehen, das darauf hinweist, dass der Seitenbaum hier stoppt, weil diese Option aktiviert ist.
+
+Die Option ermöglicht es, zu verhindern, dass Äste mit unhandhabbar vielen Kindseiten angezeigt werden. Wird das rote "+"-Zeichen angeklickt, wird die Seite als "Temporärer Einstiegspunkt" im Navigations-Frame dargestellt, wodurch Navigation und Bearbeitung erleichtert werden.</label>
+			<label index="_php_tree_stop.image">EXT:lang/Resources/Public/Images/cshimages/pages_8.png,
+EXT:lang/Resources/Public/Images/cshimages/pages_6.png,
+EXT:lang/Resources/Public/Images/cshimages/pages_7.png</label>
+			<label index="php_tree_stop.image_descr">Hier ist die Option "Seitenbaum stoppen" gesetzt.
+Im Seitenbaum ist der gesetzte Schalter sichtbar durch das rote "+" und der Ast des Baums kann nicht mehr aufgeklappt werden.
+Nach Anklicken des roten "+" wird der Ast als "Temporärer Einstiegspunkt" an Stelle des Seitenbaums dargestellt.</label>
+			<label index="_php_tree_stop.seeAlso">_MOD_web_info:pagetree_overview</label>
+			<label index="_.seeAlso">xMOD_csh_corebe:pagetree,
+tt_content,
+Über Seiten | https://docs.typo3.org/typo3cms/GettingStartedTutorial/GeneralPrinciples/PageTree/</label>
+			<label index="storage_pid.description">Eine "Allgemeine Datensatzsammlung" ist eine globale Seite zum Speichern allgemeiner Datenbankelemente (Datensätze) einer Website. Das könnten Templates, Frontend-Benutzer und andere Datensätze sein, die nicht nur auf einer einzelne Seite benutzt, sondern die auf der gesamten Website verwendet werden sollen.</label>
+			<label index="storage_pid.details">Es wird empfohlen, dass Anwendungen das Konzept der "Allgemeinen Datensatzsammlung" unterstützen, so dass sie standardmäßig ihre Daten dort suchen und nur durch spezielle Konfiguration dazu gebracht werden, anderswo danach zu suchen.
+
+Seiten, die als "Allgemeine Datensatzsammlung" dienen, sind typischerweise vom Typ "Ordner".</label>
+			<label index="_storage_pid.seeAlso">Der Speicherordner | https://docs.typo3.org/typo3cms/GettingStartedTutorial/GeneralPrinciples/SpecialPages/Index.html#folders</label>
+			<label index="title.description">Geben Sie den Titel der Seite oder des Ordners ein! Dieses Feld ist ein Pflichtfeld.</label>
+			<label index="title.details">Der "Seitentitel" repräsentiert die Seite im System, z.B. im Seitenbaum. Außerdem wird der Seitentitel als Standardtext für die Navigation von Seite zu Seite verwendet.
+Der Seitentitel kann jederzeit geändert werden, ohne dass dies bestehende, interne Links zu der Seite beeinflussen würde. Intern werden die Seiten über ihre ID referenziert, statt über den Titel.
+Im Feld "Seitentitel" sind beliebige Zeichen erlaubt.</label>
+			<label index="_title.image">EXT:lang/Resources/Public/Images/cshimages/pages_3.png</label>
+			<label index="title.image_descr">Das Feld für den "Seitentitel" ist mit einem kleinen "Pflichtfeld"-Symbol ausgezeichnet: Sie &lt;b&gt;müssen&lt;/b&gt; einen Seitentitel eingeben, sonst können Sie die Seite nicht speichern.</label>
+			<label index="TSconfig.description">Seiten-TSconfig.</label>
+			<label index="TSconfig.details">"TypoScript" ist ein Konzept zur Konfiguration von Werten in einer Baumstruktur. Es wird für die Konfiguration von Templates für TYPO3-Webseiten verwendet.
+Das gleiche Prinzip der Eingabe von Werten in einer Hierarchie wird ebenfalls verwendet, um verschiedene Funktionen des Backends, etwa Funktionen von Modulen, und den "Rich Text Editor" einzustellen.
+Das "TSconfig" für eine Seite ist die Summe aller "TSconfig"-Werte von der Wurzel des Seitenbaums bis zur aktuellen Seite. So werden alle Kindseiten der aktuellen Seite ebenfalls von deren Seiten-"TSconfig" beeinflusst. Eine Darstellung des wirksamen Seiten-"TSconfig" können Sie über das Menü "Seiten-TSconfig" im Modul "Web &gt; Info" einsehen (wenn die Erweiterung "info_pagetsconfig" installiert ist).</label>
+			<label index="_TSconfig.image">EXT:lang/Resources/Public/Images/cshimages/pages_5.png</label>
+			<label index="TSconfig.image_descr">Seiten-TSconfig zur Anpassung von Texten im Seitenmodul. Beachten Sie, dass die Konfiguration für die aktuelle Seite und alle Kindseiten gilt: Kindseiten erben die Konfiguration von Vaterseiten.</label>
+			<label index="_TSconfig.seeAlso">_MOD_web_info:tsconfig_hierarchy,
+Mehr über Seiten-TSconfig | https://docs.typo3.org/typo3cms/TSconfigReference/PageTsconfig/</label>
+			<label index="TSconfig.syntax">Einfache TypoScript-Syntax &lt;em&gt;ohne&lt;/em&gt; "Konstanten".
+
+Es wird dringend empfohlen, dass nur erfahrene Administratoren Zugriff auf dieses Feld erhalten!</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

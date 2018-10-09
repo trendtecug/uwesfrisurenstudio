@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="tx_form_domain_model_element_button.value">Нажмите эту кнопку</label>
+			<label index="tx_form_domain_model_element_reset.value">Очистить форму</label>
+			<label index="tx_form_domain_model_element_submit.value">Отправить форму</label>
+			<label index="tx_form_system_validate_alphabetic.error">Значение содержит не только буквенные символы</label>
+			<label index="tx_form_system_validate_alphabetic.message">Используйте только буквенные символы</label>
+			<label index="tx_form_system_validate_alphabetic.message2">пробелы разрешены</label>
+			<label index="tx_form_system_validate_alphanumeric.error">Значение содержит не только буквенные и числовые символы</label>
+			<label index="tx_form_system_validate_alphanumeric.message">Используйте буквенные и числовые символы</label>
+			<label index="tx_form_system_validate_alphanumeric.message2">пробелы разрешены</label>
+			<label index="tx_form_system_validate_between.error">Значение выходит из диапазона от %minimum до %maximum</label>
+			<label index="tx_form_system_validate_between.error2">включительно</label>
+			<label index="tx_form_system_validate_between.message">Значение должно быть в диапазоне от %minimum до %maximum</label>
+			<label index="tx_form_system_validate_between.message2">включительно</label>
+			<label index="tx_form_system_validate_date.error">Значение содержит недопустимую дату</label>
+			<label index="tx_form_system_validate_date.message">(%format)</label>
+			<label index="tx_form_system_validate_date.strftime.a">ддд</label>
+			<label index="tx_form_system_validate_date.strftime.A">дддд</label>
+			<label index="tx_form_system_validate_date.strftime.b">ммм</label>
+			<label index="tx_form_system_validate_date.strftime.B">мммм</label>
+			<label index="tx_form_system_validate_date.strftime.d">дд</label>
+			<label index="tx_form_system_validate_date.strftime.e">d</label>
+			<label index="tx_form_system_validate_date.strftime.H">HH</label>
+			<label index="tx_form_system_validate_date.strftime.I">чч</label>
+			<label index="tx_form_system_validate_date.strftime.m">мм</label>
+			<label index="tx_form_system_validate_date.strftime.M">мм</label>
+			<label index="tx_form_system_validate_date.strftime.S">сс</label>
+			<label index="tx_form_system_validate_date.strftime.y">гг</label>
+			<label index="tx_form_system_validate_date.strftime.Y">гггг</label>
+			<label index="tx_form_system_validate_digit.error">Значение содержит не только цифры</label>
+			<label index="tx_form_system_validate_digit.message">Используйте цифровые символы</label>
+			<label index="tx_form_system_validate_email.error">Неверный адрес email</label>
+			<label index="tx_form_system_validate_email.message">(john.doe@domain.com)</label>
+			<label index="tx_form_system_validate_equals.error">Значение отличается от значения поля '%field'</label>
+			<label index="tx_form_system_validate_equals.message">Поле должно быть эквивалентно '%field'</label>
+			<label index="tx_form_system_validate_fileallowedtypes.error">Недопустимый тип файла</label>
+			<label index="tx_form_system_validate_fileallowedtypes.message">(%allowedTypes)</label>
+			<label index="tx_form_system_validate_filemaximumsize.error">Файл слишком большого размера</label>
+			<label index="tx_form_system_validate_filemaximumsize.message">Размер файла должен быть меньше %maximum</label>
+			<label index="tx_form_system_validate_fileminimumsize.error">Файл слишком маленького размера</label>
+			<label index="tx_form_system_validate_fileminimumsize.message">Размер файла должен быть больше %minimum</label>
+			<label index="tx_form_system_validate_float.error">Значение не является числом с плавающей точкой</label>
+			<label index="tx_form_system_validate_float.message">Введите число с плавающей точкой</label>
+			<label index="tx_form_system_validate_greaterthan.error">Значение не больше %minimum</label>
+			<label index="tx_form_system_validate_greaterthan.message">Значение должно быть больше %minimum</label>
+			<label index="tx_form_system_validate_inarray.error">Неверное значение</label>
+			<label index="tx_form_system_validate_inarray.message">Допустимы лишь несколько значений</label>
+			<label index="tx_form_system_validate_integer.error">Значение не является целым числом</label>
+			<label index="tx_form_system_validate_integer.message">Используйте целое число</label>
+			<label index="tx_form_system_validate_ip.error">Значение не является адресом IP</label>
+			<label index="tx_form_system_validate_ip.message">(123.123.123.123)</label>
+			<label index="tx_form_system_validate_length.error">Значение короче %minimum символов</label>
+			<label index="tx_form_system_validate_length.error2">или длиннее %maximum</label>
+			<label index="tx_form_system_validate_length.message">Длина значения должна иметь минимум %minimum символов</label>
+			<label index="tx_form_system_validate_length.message2">и максимум %maximum</label>
+			<label index="tx_form_system_validate_lessthan.error">Значение превышает %maximum</label>
+			<label index="tx_form_system_validate_lessthan.message">Значение должно быть меньше %maximum</label>
+			<label index="tx_form_system_validate_regexp.error">Значение не соответствует принятому шаблону</label>
+			<label index="tx_form_system_validate_regexp.message">Используйте правильный шаблон</label>
+			<label index="tx_form_system_validate_required.error">Обязательное поле</label>
+			<label index="tx_form_system_validate_required.message">Обязательно</label>
+			<label index="tx_form_system_validate_uri.error">Значение не является URI</label>
+			<label index="tx_form_system_validate_uri.message">Значение должно быть URI</label>
+			<label index="tx_form_view_confirmation.confirm">Отправить</label>
+			<label index="tx_form_view_confirmation.donotconfirm">Назад к форме</label>
+			<label index="tx_form_view_confirmation.message">Проверьте введенные данные и отправьте форму, используя соответствующую кнопку</label>
+			<label index="tx_form_view_mail.error">Ошибка при отправке формы</label>
+			<label index="tx_form_view_mail.success">Форма успешно передана через почту</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

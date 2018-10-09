@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="tx_wizardcrpages.alttitle">Wizard per la creazione delle pagine</label>
+			<label index="tx_wizardcrpages.description"/>
+			<label index="tx_wizardcrpages.details"/>
+			<label index="_tx_wizardcrpages.image"/>
+			<label index="tx_wizardcrpages.image_descr"/>
+			<label index="_tx_wizardcrpages.seeAlso">xEXT_loremipsum</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

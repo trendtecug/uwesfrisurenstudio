@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="action-items"/>
+			<label index="BlockStyle-Tooltip">Applica lo stile al blocco contenitore</label>
+			<label index="component-items"/>
+			<label index="detail">Dettaglio</label>
+			<label index="Element style">Stile del blocco</label>
+			<label index="frame-frame1">Riquadro con lo sfondo grigio</label>
+			<label index="frame-frame2">Riquadro con lo sfondo giallo</label>
+			<label index="important">Significativo</label>
+			<label index="name-of-person"/>
+			<label index="No style">Nessuno stile sul blocco</label>
+			<label index="Remove style">Rimuovi lo stile dal blocco</label>
+			<label index="Technische Universitat Ilmenau"/>
+			<label index="Unknown style">Stile del blocco sconosciuto</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

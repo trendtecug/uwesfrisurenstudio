@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="it" datatype="plaintext" original="messages" date="2016-05-30T02:30:25Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="availableInterfaces" approved="yes">
+				<source>Backend,Front End,Traditional Backend</source>
+				<target state="translated">Backend, Front End, Backend tradizionale</target>
+			</trans-unit>
+			<trans-unit id="clear" approved="yes">
+				<source>Clear this field!</source>
+				<target state="translated">Pulisci questo campo!</target>
+			</trans-unit>
+			<trans-unit id="copyright" approved="yes">
+				<source>Copyright</source>
+				<target state="translated">Copyright</target>
+			</trans-unit>
+			<trans-unit id="details.link" approved="yes">
+				<source>Go to %s for details.</source>
+				<target state="translated">Vai su %s per dettagli.</target>
+			</trans-unit>
+			<trans-unit id="error.capslock" xml:space="preserve" approved="yes">
+				<source>Attention: Caps lock enabled!</source>
+			<target state="translated">Attenzione: hai il blocca maiuscole inserito!</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="error.cookies" xml:space="preserve" approved="yes">
+				<source>Activate Cookies, please!</source>
+			<target state="translated">Attiva i cookies per piacere!</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="error.cookies_ignore" approved="yes">
+				<source>Ignore!</source>
+				<target state="translated">Ignora!</target>
+			</trans-unit>
+			<trans-unit id="error.furtherInformation" approved="yes">
+				<source>For more information or further help click here</source>
+				<target state="translated">Per maggiori informazioni o aiuto cliccare qui</target>
+			</trans-unit>
+			<trans-unit id="error.javascript" xml:space="preserve" approved="yes">
+				<source>Activate JavaScript, please!</source>
+			<target state="translated">Attiva Javascript per piacere!</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="error.login" approved="yes">
+				<source>Your login attempt did not succeed. Make sure to spell your username and password correctly, including upper/lowercase characters.</source>
+				<target state="translated">Il tuo login non ha avuto successo. Verifica bene il tuo username e password, con attenzione a maiuscole e minuscole.</target>
+			</trans-unit>
+			<trans-unit id="error.login.description" xml:space="preserve" approved="yes">
+				<source>Make sure to spell your username and password correctly, including upper/lowercase characters.</source>
+			<target state="translated">Verifica bene il tuo username e password, con attenzione a maiuscole e minuscole.</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="error.login.title" xml:space="preserve" approved="yes">
+				<source>Your login attempt did not succeed</source>
+			<target state="translated">Login fallito</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="extension.copyright" approved="yes">
+				<source>Extensions are copyright of their respective owners.</source>
+				<target state="translated">Le estensioni sono copyright dei rispettivi proprietari.</target>
+			</trans-unit>
+			<trans-unit id="free.software" approved="yes">
+				<source>This is free software, and you are welcome to redistribute it under certain conditions; %sclick for details.%s</source>
+				<target state="translated">Questo è un software gratuito (free software), e sei invitato a ridistribuirlo sotto determinate condizioni. %sclicca per dettagli.%s</target>
+			</trans-unit>
+			<trans-unit id="headline" approved="yes">
+				<source>Login to the TYPO3 CMS Backend on ###SITENAME###</source>
+				<target state="translated">Entra nel Backend TYPO3 di ###SITENAME###</target>
+			</trans-unit>
+			<trans-unit id="info.about" approved="yes">
+				<source>This is the backend login of TYPO3. You need username and password to access this administration interface. If you are a visitor of ###SITENAME###, please visit the public website: ###SITELINK###</source>
+				<target state="translated">Questa è la form di login al Backend di TYPO3. Necessiti username e password per accedervi. Se sei un visitatore di ###SITENAME###, visita il sito pubblico ###SITELINK###</target>
+			</trans-unit>
+			<trans-unit id="info.cookies_and_js" approved="yes">
+				<source>(Note: Cookies and JavaScript must be enabled!)</source>
+				<target state="translated">(Nota: Cookies e JavaScript devono essere attivi!)</target>
+			</trans-unit>
+			<trans-unit id="info.reset" approved="yes">
+				<source>Reset this form</source>
+				<target state="translated">Resetta questa form</target>
+			</trans-unit>
+			<trans-unit id="interface.backend" approved="yes">
+				<source>Backend</source>
+				<target state="translated">Backend</target>
+			</trans-unit>
+			<trans-unit id="interface.backend_old" approved="yes">
+				<source>Traditional Backend</source>
+				<target state="translated">Backend tradizionale</target>
+			</trans-unit>
+			<trans-unit id="interface.frontend" approved="yes">
+				<source>Frontend</source>
+				<target state="translated">Frontend</target>
+			</trans-unit>
+			<trans-unit id="keep.notice" approved="yes">
+				<source>Obstructing the appearance of this notice is prohibited by law.</source>
+				<target state="translated">Eliminare o modificare questa nota è proibito dalla legge.</target>
+			</trans-unit>
+			<trans-unit id="labels.donate" xml:space="preserve" approved="yes">
+				<source>Donate</source>
+			<target state="translated">Donazioni</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="labels.interface" xml:space="preserve" approved="yes">
+				<source>Interface</source>
+			<target state="translated">Interfaccia</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="labels.openId" xml:space="preserve" approved="yes">
+				<source>OpenID</source>
+			<target state="translated">OpenID</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="labels.password" xml:space="preserve" approved="yes">
+				<source>Password</source>
+			<target state="translated">Password</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="labels.submitLogin" xml:space="preserve" approved="yes">
+				<source>Login</source>
+			<target state="translated">Login</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="labels.submitLogout" approved="yes">
+				<source>Log Out</source>
+				<target state="translated">Esci</target>
+			</trans-unit>
+			<trans-unit id="labels.switchToDefault" xml:space="preserve" approved="yes">
+				<source>Switch to default login</source>
+			<target state="translated">Passa a login normale</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="labels.switchToOpenId" xml:space="preserve" approved="yes">
+				<source>Switch to OpenID</source>
+			<target state="translated">Passa a OpenID</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="labels.username" xml:space="preserve" approved="yes">
+				<source>Username</source>
+			<target state="translated">Username</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="labels.whatIsOpenId" approved="yes">
+				<source>What is OpenId?</source>
+				<target state="translated">Cosa è OpenID?</target>
+			</trans-unit>
+			<trans-unit id="login_process" xml:space="preserve" approved="yes">
+				<source>Verifying Login Data ...</source>
+			<target state="translated">Sto verificando i dati...</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="newsheadline" approved="yes">
+				<source>Important Messages:</source>
+				<target state="translated">Messaggi importanti:</target>
+			</trans-unit>
+			<trans-unit id="no.warranty" approved="yes">
+				<source>TYPO3 CMS comes with ABSOLUTELY NO WARRANTY; %sclick for details.%s</source>
+				<target state="translated">TYPO3 è distribuito SENZA ALCUNA GARANZIA; %sclicca per dettagli.%s</target>
+			</trans-unit>
+			<trans-unit id="typo3.cms" approved="yes">
+				<source>TYPO3 CMS</source>
+				<target state="translated">TYPO3 CMS</target>
+			</trans-unit>
+			<trans-unit id="typo3.logo" xml:space="preserve" approved="yes">
+				<source>TYPO3 logo</source>
+			<target state="translated">logo TYPO3</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="version.short" approved="yes">
+				<source>ver.</source>
+				<target state="translated">ver.</target>
+			</trans-unit>
+			<trans-unit id="warning.incompatibleBrowser" approved="yes">
+				<source>You are using an unsupported browser version.</source>
+				<target state="translated">State usando una versione del browser non supportata.</target>
+			</trans-unit>
+			<trans-unit id="warning.incompatibleBrowserHeadline" approved="yes">
+				<source>Unsupported Browser</source>
+				<target state="translated">Browser non supportato</target>
+			</trans-unit>
+			<trans-unit id="warning.incompatibleBrowserInternetExplorer" approved="yes">
+				<source>Please install &lt;a href="http://www.microsoft.com/internetexplorer/" target="_blank" /&gt;a more modern browser version&lt;/a&gt;.</source>
+				<target state="translated">Installare una &lt;a href="http://www.microsoft.com/internetexplorer/" target="_blank" /&gt;versione del browser più recente&lt;/a&gt;.</target>
+			</trans-unit>
+			<trans-unit id="warranty.by" approved="yes">
+				<source>Warranty is supplied by %s; %sclick for details.%s</source>
+				<target state="translated">Garanzia fornita da %s; %sclicca per dettagli.%s</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

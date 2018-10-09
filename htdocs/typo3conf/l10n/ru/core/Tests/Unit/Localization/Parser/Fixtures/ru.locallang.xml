@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="label1">Это метка #1</label>
+			<label index="label2">Это метка #2</label>
+			<label index="label3">Это метка #3</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-29T03:16:24Z" product-name="openid">
+		<header/>
+		<body>
+			<trans-unit id="addopenid" xml:space="preserve">
+				<source>Add OpenID</source>
+			<target/></trans-unit>
+			<trans-unit id="error.cancelled" xml:space="preserve">
+				<source>OpenID authentication has been cancelled.</source>
+			<target/><alt-trans xml:space="preserve" origin="tstenger"><target>L'authentification OpenID a été annulée.</target></alt-trans></trans-unit>
+			<trans-unit id="error.general" xml:space="preserve">
+				<source>Status: %s&lt;br/&gt;Message: %s</source>
+			<target/></trans-unit>
+			<trans-unit id="error.no-response" xml:space="preserve">
+				<source>We got no OpenID response.</source>
+			<target/></trans-unit>
+			<trans-unit id="error.setup" xml:space="preserve">
+				<source>Error setting up OpenID authentication for "%s".</source>
+			<target/></trans-unit>
+			<trans-unit id="html.description" xml:space="preserve">
+				<source>Add an OpenID to your backend user. This OpenID can then be used to log in the TYPO3 backend.</source>
+			<target/></trans-unit>
+			<trans-unit id="html.openid_url" xml:space="preserve">
+				<source>OpenID identifier</source>
+			<target/></trans-unit>
+			<trans-unit id="html.submit" xml:space="preserve">
+				<source>Login</source>
+			<target/></trans-unit>
+			<trans-unit id="html.title" xml:space="preserve">
+				<source>OpenID registration</source>
+			<target/></trans-unit>
+			<trans-unit id="title.error" xml:space="preserve">
+				<source>Error during OpenID authentication</source>
+			<target/><alt-trans xml:space="preserve" origin="tstenger"><target>Erreur lors de l’authentification OpenID</target></alt-trans></trans-unit>
+			<trans-unit id="title.success" xml:space="preserve">
+				<source>OpenID authentication successful</source>
+			<target/><alt-trans xml:space="preserve" origin="tstenger"><target>Authentification OpenID réussie</target></alt-trans></trans-unit>
+			<trans-unit id="youropenid" xml:space="preserve">
+				<source>OpenID is: &lt;tt&gt;%s&lt;/tt&gt;</source>
+			<target/></trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-29T03:42:25Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="action-items" approved="yes">
+				<source>Action items</source>
+				<target state="translated">Actions</target>
+			</trans-unit>
+			<trans-unit id="component-items" approved="yes">
+				<source>Component items</source>
+				<target state="translated">Composantes</target>
+			</trans-unit>
+			<trans-unit id="detail" approved="yes">
+				<source>Detail</source>
+				<target state="translated">Détail</target>
+			</trans-unit>
+			<trans-unit id="frame-frame1" approved="yes">
+				<source>Frame with grey background</source>
+				<target state="translated">Cadre avec un fond gris</target>
+			</trans-unit>
+			<trans-unit id="frame-frame2" approved="yes">
+				<source>Frame with yellow background</source>
+				<target state="translated">Cadre avec un fond jaune</target>
+			</trans-unit>
+			<trans-unit id="important" approved="yes">
+				<source>Important</source>
+				<target state="translated">Important</target>
+			</trans-unit>
+			<trans-unit id="name-of-person" approved="yes">
+				<source>Name of person</source>
+				<target state="translated">Nom d'une personne</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

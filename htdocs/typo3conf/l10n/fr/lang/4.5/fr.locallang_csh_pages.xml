@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index=".description"/>
+			<label index=".details"/>
+			<label index="doktype.description">Le Type de page détermine si la page est une simple page web, un raccourci vers une autre page web, ou utilisée pour un autre usage interne.</label>
+			<label index="doktype.details"/>
+			<label index="_doktype.image"/>
+			<label index="doktype.image_descr"/>
+			<label index="_doktype.seeAlso"/>
+			<label index="editlock.description">Si activé, les utilisateurs non administrateurs ne peuvent pas éditer les propriétés de la page ou les enregistrements de cette page. Ils ne peuvent pas non plus créer de nouveaux enregistrements ou pages sur cette page.</label>
+			<label index="fe_login_mode.description"/>
+			<label index="fe_login_mode.details"/>
+			<label index="_.image"/>
+			<label index=".image_descr"/>
+			<label index="php_tree_stop.description"/>
+			<label index="php_tree_stop.details"/>
+			<label index="_php_tree_stop.image"/>
+			<label index="php_tree_stop.image_descr"/>
+			<label index="_php_tree_stop.seeAlso"/>
+			<label index="_.seeAlso"/>
+			<label index="storage_pid.description"/>
+			<label index="storage_pid.details"/>
+			<label index="_storage_pid.seeAlso"/>
+			<label index="title.description">Saisir le titre de la page ou du dossier. Ce champ est requis.</label>
+			<label index="title.details"/>
+			<label index="_title.image"/>
+			<label index="title.image_descr">Le champ Titre de page présente une icône "Requis"; Vous devez saisir un titre de page. Vous ne pouvez enregistrer la nouvelle page sans lui donner un titre.</label>
+			<label index="TSconfig.description">Page TSConfig.</label>
+			<label index="TSconfig.details"/>
+			<label index="_TSconfig.image"/>
+			<label index="TSconfig.image_descr"/>
+			<label index="_TSconfig.seeAlso"/>
+			<label index="TSconfig.syntax"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

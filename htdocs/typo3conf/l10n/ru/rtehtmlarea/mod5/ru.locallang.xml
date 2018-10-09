@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="expand">Развернуть категорию</label>
+			<label index="filesize">Размер файла</label>
+			<label index="noTextSelection">Ошибка: текст для помещения в контейнер не выбран.</label>
+			<label index="noTitle">Без названия</label>
+			<label index="pixels">Пиксел.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

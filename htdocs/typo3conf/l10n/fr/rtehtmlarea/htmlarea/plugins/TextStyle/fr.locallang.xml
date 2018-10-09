@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="Element style">Style de l'élément</label>
+			<label index="No style">Aucun</label>
+			<label index="Remove style">Supprimé le style du texte</label>
+			<label index="Technische Universitat Ilmenau">Ilmenau</label>
+			<label index="TextStyle-Tooltip">Appliquer un style au texte sélectionné</label>
+			<label index="Unknown style">Style inconnu</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

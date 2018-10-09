@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2016-05-30T00:42:17Z" product-name="context_help">
+		<header/>
+		<body>
+			<trans-unit id="config.description" approved="yes">
+				<source>TypoScript Setup code field</source>
+				<target state="translated">Champ de code de configuration TypoScript</target>
+			</trans-unit>
+			<trans-unit id="_config.seeAlso" approved="yes">
+				<source>sys_template:config</source>
+				<target state="translated">sys_template:config</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="constants.description" approved="yes">
+				<source>TypoScript Constants field</source>
+				<target state="translated">Champ des constantes TypoScript</target>
+			</trans-unit>
+			<trans-unit id="_constants.seeAlso" approved="yes">
+				<source>sys_template:constants</source>
+				<target state="translated">sys_template:constants</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id=".description" approved="yes">
+				<source>Static templates are a centrally distributed TypoScript library. You should never change these values.</source>
+				<target state="translated">Les gabarits statiques sont distribués de manière centralisée par une bibliothèque TypoScript. Vous ne devriez jamais modifier ces valeurs.</target>
+			</trans-unit>
+			<trans-unit id="description.description" approved="yes">
+				<source>Description of the static template record.</source>
+				<target state="translated">Description du gabarit statique.</target>
+			</trans-unit>
+			<trans-unit id=".details" xml:space="preserve">
+				<source>The Static templates are meant to be included by your TypoScript Template records depending on your needs. Refer to the 'TSref' document (see below) for details on this process.
+Notice that by each release of TYPO3 you should reinstall the Static Templates table by the install tool. See the 'Install/Upgrade' document for details (see below).</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>Les gabarits statiques sont faits pour être inclus par vos archives de gabarit TypoScript, suivant vos besoins.Référez-vous au document "TSref" (voir ci-dessous) pour des détails sur le processus.Notez qu'à chaque parution de TYPO3, vous devriez réinstaller le tableau de gabarit statique pour l'outil d'installation. Voir le document "Installation/Amélioration" pour les détails (voir ci-dessous).</target></alt-trans></trans-unit>
+			<trans-unit id="editorcfg.description" approved="yes">
+				<source>Editor Configuration - used to configure Stylesheet editor.</source>
+				<target state="translated">Éditeur de configuration - utilisé pour configurer l'éditeur de feuilles de style.</target>
+			</trans-unit>
+			<trans-unit id="_.image">
+				<source>EXT:context_help/Resources/Public/Images/cshimages/static.png</source>
+				<target/>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<alt-trans xml:space="preserve" origin="badr">
+					<target>EXT:context_help/cshimages/static.png</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id=".image_descr">
+				<source>The static templates are located in the page tree root where only the Admin users can access them. However they are read-only by default so you can only look at their content, not change it.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="badr">
+					<target>Les gabarits statiques sont localisés à la racine des l'arborescence de pages, là où seuls les utilisateurs administrateurs peuvent y accéder. Cependant, il sont en lecture seule par défaut, donc vous ne pouvez que regarder le document, sans pouvoir le changer.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="include_static.description" approved="yes">
+				<source>Inclusion of other static templates</source>
+				<target state="translated">Inclusion d'autres gabarits statiques</target>
+			</trans-unit>
+			<trans-unit id="_.seeAlso" xml:space="preserve">
+				<source>sys_template
+TSref | https://docs.typo3.org/typo3cms/TyposcriptReference/
+TypoScript in 45 min| https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/
+Install/Upgrade | https://docs.typo3.org/typo3cms/InstallationGuide/,
+sys_template:include_static</source>
+			<target/><alt-trans xml:space="preserve" origin="badr"><target>sys_template
+TSref | http://typo3.org/documentation/document-library/doc_core_tsref/
+TypoScript by Example | http://typo3.org/documentation/document-library/doc_core_tsbyex/
+Install/Upgrade | http://typo3.org/documentation/document-library/doc_inst_upgr/,
+sys_template:include_static</target></alt-trans></trans-unit>
+			<trans-unit id="title.description" approved="yes">
+				<source>Template Title. Will be visible in the list of static templates in Template Records</source>
+				<target state="translated">Titre de gabarit. Sera visible dans la liste des gabarits statiques</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

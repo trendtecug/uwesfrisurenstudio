@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="saltedpasswords.config.BE.forceSalted"/>
+			<label index="saltedpasswords.config.BE.onlyAuthService"/>
+			<label index="saltedpasswords.config.BE.saltedPWHashingMethod"/>
+			<label index="saltedpasswords.config.BE.updatePasswd"/>
+			<label index="saltedpasswords.config.checkConfigurationBE"/>
+			<label index="saltedpasswords.config.checkConfigurationBE2"/>
+			<label index="saltedpasswords.config.checkConfigurationFE"/>
+			<label index="saltedpasswords.config.checkConfigurationFE2"/>
+			<label index="saltedpasswords.config.FE.enabled"/>
+			<label index="saltedpasswords.config.FE.forceSalted"/>
+			<label index="saltedpasswords.config.FE.onlyAuthService"/>
+			<label index="saltedpasswords.config.FE.saltedPWHashingMethod"/>
+			<label index="saltedpasswords.config.FE.updatePasswd"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

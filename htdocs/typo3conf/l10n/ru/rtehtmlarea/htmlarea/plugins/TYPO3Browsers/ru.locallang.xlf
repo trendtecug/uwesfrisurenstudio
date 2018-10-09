@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T03:47:14Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="download_altText" xml:space="preserve" approved="yes">
+				<source>Initiates file download</source>
+			<target state="translated">Начнется загрузка файла</target></trans-unit>
+			<trans-unit id="download_titleText" xml:space="preserve" approved="yes">
+				<source>Initiates file download</source>
+			<target state="translated">Начнется загрузка файла</target></trans-unit>
+			<trans-unit id="external_link_altText" xml:space="preserve" approved="yes">
+				<source>Opens external link in current window</source>
+			<target state="translated">Внешняя ссылка откроется в текущем окне</target></trans-unit>
+			<trans-unit id="external_link_new_window_altText" xml:space="preserve" approved="yes">
+				<source>Opens external link in new window</source>
+			<target state="translated">Внешняя ссылка откроется в новом окне</target></trans-unit>
+			<trans-unit id="external_link_new_window_titleText" xml:space="preserve" approved="yes">
+				<source>Opens external link in new window</source>
+			<target state="translated">Внешняя ссылка откроется в новом окне</target></trans-unit>
+			<trans-unit id="external_link_titleText" xml:space="preserve" approved="yes">
+				<source>Opens external link in current window</source>
+			<target state="translated">Внешняя ссылка откроется в текущем окне</target></trans-unit>
+			<trans-unit id="internal_link_altText" xml:space="preserve" approved="yes">
+				<source>Opens internal link in current window</source>
+			<target state="translated">Внутренняя ссылка откроется в текущем окне</target></trans-unit>
+			<trans-unit id="internal_link_new_window_altText" xml:space="preserve" approved="yes">
+				<source>Opens internal link in new window</source>
+			<target state="translated">Внутренняя ссылка откроется в новом окне</target></trans-unit>
+			<trans-unit id="internal_link_new_window_titleText" xml:space="preserve" approved="yes">
+				<source>Opens internal link in new window</source>
+			<target state="translated">Внутренняя ссылка откроется в новом окне</target></trans-unit>
+			<trans-unit id="internal_link_titleText" xml:space="preserve" approved="yes">
+				<source>Opens internal link in current window</source>
+			<target state="translated">Внутренняя ссылка откроется в текущем окне</target></trans-unit>
+			<trans-unit id="mail_altText" xml:space="preserve" approved="yes">
+				<source>Opens window for sending email</source>
+			<target state="translated">Откроется окно для создания электронного письма</target></trans-unit>
+			<trans-unit id="mail_titleText" xml:space="preserve" approved="yes">
+				<source>Opens window for sending email</source>
+			<target state="translated">Откроется окно для создания электронного письма</target></trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns:t3="http://typo3.org/schemas/xliff" version="1.0">
+	<file t3:id="1415814988" source-language="en" datatype="plaintext" original="messages" date="2015-07-28T05:19:59Z" product-name="scheduler" target-language="it">
+		<header/>
+		<body>
+			<trans-unit id="tx_scheduler_task_group">
+				<source>Scheduler task group</source>
+			<target/></trans-unit>
+			<trans-unit id="tx_scheduler_task_group.groupName">
+				<source>Group name</source>
+			<target/><alt-trans xml:space="preserve" origin="c_strizzolo"><target>Nome del gruppo</target></alt-trans></trans-unit>
+			<trans-unit id="tx_scheduler_task_group.description">
+				<source>Description</source>
+			<target/><alt-trans xml:space="preserve" origin="c_strizzolo"><target>Descrizione</target></alt-trans></trans-unit>
+		</body>
+	</file>
+</xliff>

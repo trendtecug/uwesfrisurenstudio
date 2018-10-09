@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="mlang_labels_tabdescr">Vous trouverez ici la gestion des gabarits TypoScript responsables de l'apparence de votre site en 'frontend'. Le module fournit des fonctionnalités spécifiques comme un arbre des objets, un éditeur de constantes et de l'édition brute. &lt;br /&gt;&lt;em&gt;Accès réservé aux administrateurs!&lt;/em&gt;</label>
+			<label index="mlang_labels_tablabel">Outils pour les gabarits</label>
+			<label index="mlang_tabs_tab">Gabarits</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

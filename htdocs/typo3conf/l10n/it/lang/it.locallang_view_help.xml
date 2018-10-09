@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="close">Chiudi</label>
+			<label index="description">Il Manuale Utente Inline di TYPO3 è composto dinamicamente da tutte le infomazioni di aiuto disponibili nell'attuale installazione di TYPO3 (Context Sensitive Help). Qui troverai una descrizione generale dei modulo base di TYPO3, descrizioni dei Moduli Backend installati e dei tipi di contenuto che ti sono disponibili secondo i tuoi permessi utente.</label>
+			<label index="details">Dettagli</label>
+			<label index="fullDescription">Vedi descrizione completa</label>
+			<label index="fullDescription_module">Vedi descrizione del modulo</label>
+			<label index="full_manual">Manuale Completo (in una pagina)</label>
+			<label index="full_manual_chapters">Capitoli</label>
+			<label index="goBack">Indietro</label>
+			<label index="goToToc">&lt;&lt; torna all'Indice del Manuale</label>
+			<label index="introduction">Introduzione</label>
+			<label index="manual_title">TYPO3 Manuale Utente Inline</label>
+			<label index="seeAlso">Vedi anche</label>
+			<label index="syntax">Sintassi</label>
+			<label index="title">TYPO3 Help Inline</label>
+			<label index="TOC">Indice</label>
+			<label index="TOC_core">Caratteristiche principali di TYPO3</label>
+			<label index="TOC_extensions">Estensioni</label>
+			<label index="TOC_glossary">Glossario</label>
+			<label index="TOC_modules">Moduli di Backend</label>
+			<label index="TOC_other">Altro</label>
+			<label index="TOC_tables">Tabelle del Database</label>
+			<label index="to_top">Torna all'inizio</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

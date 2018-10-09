@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T04:55:51Z" product-name="version">
+		<header/>
+		<body>
+			<trans-unit id="allowPreviewOfWholeWorkspace" approved="yes">
+				<source>Allow preview of whole workspace</source>
+				<target state="translated">Разрешить предварительный просмотр всей рабочей области</target>
+			</trans-unit>
+			<trans-unit id="approveAllToPublish" approved="yes">
+				<source>Approve all for Publishing</source>
+				<target state="translated">Все одобрено для публикации</target>
+			</trans-unit>
+			<trans-unit id="approveForPublishing" approved="yes">
+				<source>Approve for Publishing</source>
+				<target state="translated">Утвердить для публикации</target>
+			</trans-unit>
+			<trans-unit id="approveToPublish" approved="no">
+				<source>Approving %s item(s) to publishing. </source>
+				<target state="needs-translation">Для публикации одобрено %s элемент(а/ов).</target>
+			</trans-unit>
+			<trans-unit id="archive" approved="yes">
+				<source>Archive</source>
+				<target state="translated">Архив</target>
+			</trans-unit>
+			<trans-unit id="autopublishTask.description" approved="yes">
+				<source>This tasks checks any workspace that has a publication date set in the past and automatically publishes it.</source>
+				<target state="translated">Эта задача проверяет рабочие области, имеющие просроченные даты публикации и автоматически публикует их.</target>
+			</trans-unit>
+			<trans-unit id="autopublishTask.name" approved="yes">
+				<source>Workspaces auto-publication</source>
+				<target state="translated">Автоматическая публикация областей</target>
+			</trans-unit>
+			<trans-unit id="branch" approved="no">
+				<source> [Branch]</source>
+				<target state="needs-translation">[Ветвь]</target>
+			</trans-unit>
+			<trans-unit id="change" approved="yes">
+				<source>change:</source>
+				<target state="translated">разница:</target>
+			</trans-unit>
+			<trans-unit id="clickAPage_content" approved="yes">
+				<source>Please click a page in the pagetree frame to see the versioning module.</source>
+				<target state="translated">Выберете страницу в дереве страниц, чтобы вывести модуль управления версиями.</target>
+			</trans-unit>
+			<trans-unit id="clickAPage_header" approved="yes">
+				<source>Web&gt;Versioning module</source>
+				<target state="translated">Модуль Веб&gt;Версии</target>
+			</trans-unit>
+			<trans-unit id="cmdPid0" approved="yes">
+				<source>Page: Page + content</source>
+				<target state="translated">Страница: Страница + содержимое</target>
+			</trans-unit>
+			<trans-unit id="cmdPid1" approved="yes">
+				<source>Element: Just record</source>
+				<target state="translated">Элемент: лишь одна запись</target>
+			</trans-unit>
+			<trans-unit id="cmdPid100" approved="yes">
+				<source>Branch: All subpages</source>
+				<target state="translated">Ветвь: все вложенные страницы</target>
+			</trans-unit>
+			<trans-unit id="coloredDiffView" approved="yes">
+				<source>Colored diff-view</source>
+				<target state="translated">Режим отличий с окрашиванием</target>
+			</trans-unit>
+			<trans-unit id="comment" approved="yes">
+				<source>Comment:</source>
+				<target state="translated">Комментарий:</target>
+			</trans-unit>
+			<trans-unit id="commentForPublisher" approved="yes">
+				<source>Comment for Publisher:</source>
+				<target state="translated">Комментарии для издателя:</target>
+			</trans-unit>
+			<trans-unit id="commentForReviewer" approved="yes">
+				<source>Comment for Reviewer:</source>
+				<target state="translated">Комментарии для рецензента:</target>
+			</trans-unit>
+			<trans-unit id="completeMatch" approved="yes">
+				<source>Complete match on editable fields.</source>
+				<target state="translated">Полное соответствие по редактируемым полям.</target>
+			</trans-unit>
+			<trans-unit id="controls" approved="yes">
+				<source>Controls:</source>
+				<target state="translated">Управление:</target>
+			</trans-unit>
+			<trans-unit id="createNewVersion" approved="yes">
+				<source>Create new version</source>
+				<target state="translated">Создать новую версию</target>
+			</trans-unit>
+			<trans-unit id="currentOnlineVersion" approved="yes">
+				<source>CURRENT ONLINE VERSION!</source>
+				<target state="translated">ТЕКУЩАЯ ВЕРСИЯ НА САЙТЕ!</target>
+			</trans-unit>
+			<trans-unit id="defaultDraft" approved="yes">
+				<source>[Default Draft]</source>
+				<target state="translated">[Черновик по умолчанию]</target>
+			</trans-unit>
+			<trans-unit id="deletedElement" approved="yes">
+				<source>Deleted element</source>
+				<target state="translated">Удаленный элемент</target>
+			</trans-unit>
+			<trans-unit id="diff" approved="yes">
+				<source>Diff</source>
+				<target state="translated">Отличия</target>
+			</trans-unit>
+			<trans-unit id="diffing" approved="yes">
+				<source>DIFFING</source>
+				<target state="translated">ОТЛИЧИЯ</target>
+			</trans-unit>
+			<trans-unit id="diffToLiveElement" approved="yes">
+				<source>Difference to live element:</source>
+				<target state="translated">Отличия от элемента на сайте:</target>
+			</trans-unit>
+			<trans-unit id="draft" approved="yes">
+				<source>Draft</source>
+				<target state="translated">Черновик</target>
+			</trans-unit>
+			<trans-unit id="draftWorkspaces" approved="yes">
+				<source>Draft Workspaces</source>
+				<target state="translated">Черновые области</target>
+			</trans-unit>
+			<trans-unit id="editing" approved="yes">
+				<source>Editing</source>
+				<target state="translated">Правка</target>
+			</trans-unit>
+			<trans-unit id="element" approved="no">
+				<source> [Element]</source>
+				<target state="needs-translation">[Элемент]</target>
+			</trans-unit>
+			<trans-unit id="errorDiffSources" approved="yes">
+				<source>ERROR: You didn't select two sources for diffing!</source>
+				<target state="translated">ОШИБКА: для просмотра отличий нельзя использовать несколько источников!</target>
+			</trans-unit>
+			<trans-unit id="errorRecordsNotFound" approved="yes">
+				<source>ERROR: Records could strangely not be found!</source>
+				<target state="translated">ОШИБКА: странное отсутствие записей!</target>
+			</trans-unit>
+			<trans-unit id="errors" approved="yes">
+				<source>Errors:</source>
+				<target state="translated">Ошибки:</target>
+			</trans-unit>
+			<trans-unit id="fieldname" approved="yes">
+				<source>Fieldname</source>
+				<target state="translated">Название поля</target>
+			</trans-unit>
+			<trans-unit id="filter_all" approved="yes">
+				<source>All</source>
+				<target state="translated">Все</target>
+			</trans-unit>
+			<trans-unit id="filter_archive" approved="yes">
+				<source>Archive</source>
+				<target state="translated">Архив</target>
+			</trans-unit>
+			<trans-unit id="filter_drafts" approved="yes">
+				<source>Drafts</source>
+				<target state="translated">Черновики</target>
+			</trans-unit>
+			<trans-unit id="goBack" approved="yes">
+				<source>Click here to go back</source>
+				<target state="translated">Щелкните для возврата:</target>
+			</trans-unit>
+			<trans-unit id="lifecycle" approved="yes">
+				<source>Lifecycle</source>
+				<target state="translated">Жизненный цикл</target>
+			</trans-unit>
+			<trans-unit id="live" approved="yes">
+				<source>LIVE</source>
+				<target state="translated">САЙТ</target>
+			</trans-unit>
+			<trans-unit id="liveVersion" approved="yes">
+				<source>Live Version:</source>
+				<target state="translated">Версия на сайте:</target>
+			</trans-unit>
+			<trans-unit id="liveWorkspace" approved="yes">
+				<source>[Live workspace]</source>
+				<target state="translated">[Сайт]</target>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tabdescr" approved="yes">
+				<source>The Web&gt;Versioning module provides access to versioning features for the page tree.</source>
+				<target state="translated">Модуль Веб&gt;Версии предоставляет доступ к функционалу управления версиями для дерева страниц.</target>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tablabel" approved="yes">
+				<source>Page and content versioning and workspace management for pages.</source>
+				<target state="translated">Управление версиями страниц и содержимого, а также управление рабочими областями страниц.</target>
+			</trans-unit>
+			<trans-unit id="mlang_tabs_tab" approved="yes">
+				<source>Versioning</source>
+				<target state="translated">Версии</target>
+			</trans-unit>
+			<trans-unit id="moveToPlaceholder" approved="yes">
+				<source>Move-to placeholder (destination)</source>
+				<target state="translated">Переместить к заполнителю (месту назначения)</target>
+			</trans-unit>
+			<trans-unit id="moveToPointer" approved="yes">
+				<source>Move-to pointer (source)</source>
+				<target state="translated">Переместить к указателю (источнику)</target>
+			</trans-unit>
+			<trans-unit id="multipleVersions" approved="yes">
+				<source>Multiple versions in same workspace!</source>
+				<target state="translated">Несколько версий в одной области!</target>
+			</trans-unit>
+			<trans-unit id="newElement" approved="yes">
+				<source>New element</source>
+				<target state="translated">Новый элемент</target>
+			</trans-unit>
+			<trans-unit id="notAvailable" approved="yes">
+				<source>N/A</source>
+				<target state="translated">Н/Д</target>
+			</trans-unit>
+			<trans-unit id="offline" approved="yes">
+				<source>[Offline]</source>
+				<target state="translated">[Автономно]</target>
+			</trans-unit>
+			<trans-unit id="otherVersions" approved="no">
+				<source>Other version(s) in workspace </source>
+				<target state="needs-translation">Другая(ие) версия(ии) в области</target>
+			</trans-unit>
+			<trans-unit id="page" approved="no">
+				<source> [Page]</source>
+				<target state="needs-translation">[Страница]</target>
+			</trans-unit>
+			<trans-unit id="previewInstruction" approved="yes">
+				<source>You can preview this page from the workspace using this link for the next %s hours (does not require backend login):</source>
+				<target state="translated">Можно посмотреть страницу из рабочей области, используя эту ссылку в течение %s следующих часов (без авторизации во внутреннем интерфейсе):</target>
+			</trans-unit>
+			<trans-unit id="previewLink" approved="yes">
+				<source>Preview Link</source>
+				<target state="translated">Ссылка на просмотр</target>
+			</trans-unit>
+			<trans-unit id="previewUrl" approved="yes">
+				<source>Preview Url:</source>
+				<target state="translated">Просмотр Url:</target>
+			</trans-unit>
+			<trans-unit id="publish" approved="yes">
+				<source>Publish</source>
+				<target state="translated">Публиковать</target>
+			</trans-unit>
+			<trans-unit id="publishedXTimes" approved="yes">
+				<source>Published %s times</source>
+				<target state="translated">Опубликовано %s раз</target>
+			</trans-unit>
+			<trans-unit id="publishPage" approved="yes">
+				<source>Publish Page</source>
+				<target state="translated">Публикация страницы</target>
+			</trans-unit>
+			<trans-unit id="publishPageQuestion" approved="yes">
+				<source>Are you sure you want to publish all content %sfrom this page?</source>
+				<target state="translated">Подтверждаете публикацию всего содержимого %sэтой страницы?</target>
+			</trans-unit>
+			<trans-unit id="publishPageQuestionStage" approved="no">
+				<source>in "Publish" stage </source>
+				<target state="needs-translation">на стадии "публикации"</target>
+			</trans-unit>
+			<trans-unit id="recordsMatchesCompletely" approved="yes">
+				<source>Records matches completely on all editable fields!</source>
+				<target state="translated">Полное соответствие записей по всем редактируемым полям!</target>
+			</trans-unit>
+			<trans-unit id="refresh" approved="yes">
+				<source>Refresh</source>
+				<target state="translated">Обновить</target>
+			</trans-unit>
+			<trans-unit id="rejected" approved="yes">
+				<source>Rejected</source>
+				<target state="translated">Отклонено</target>
+			</trans-unit>
+			<trans-unit id="rejectExplain" approved="yes">
+				<source>Please explain why you reject:</source>
+				<target state="translated">Причина отклонения:</target>
+			</trans-unit>
+			<trans-unit id="removeFromWorkspace" approved="yes">
+				<source>Remove from workspace</source>
+				<target state="translated">Изъять из рабочей области</target>
+			</trans-unit>
+			<trans-unit id="resetStage" approved="yes">
+				<source>Reset stage</source>
+				<target state="translated">Сбросить стадию</target>
+			</trans-unit>
+			<trans-unit id="review" approved="yes">
+				<source>Review</source>
+				<target state="translated">Рецензия</target>
+			</trans-unit>
+			<trans-unit id="sendAllToReview" approved="yes">
+				<source>Send all to Review</source>
+				<target state="translated">Переслать на рецензию все</target>
+			</trans-unit>
+			<trans-unit id="sendItemsToReview" approved="no">
+				<source>Sending %s item(s) to review. </source>
+				<target state="needs-translation">На рецензию отослан(о) %s элемент(а/ов).</target>
+			</trans-unit>
+			<trans-unit id="sendToReview" approved="yes">
+				<source>Send to Review</source>
+				<target state="translated">Переслать на рецензию</target>
+			</trans-unit>
+			<trans-unit id="showAllInformation" approved="yes">
+				<source>Show all information</source>
+				<target state="translated">Вывести полную информацию</target>
+			</trans-unit>
+			<trans-unit id="showDiffView" approved="yes">
+				<source>Show difference view</source>
+				<target state="translated">Вывести режим отличий</target>
+			</trans-unit>
+			<trans-unit id="showLog" approved="yes">
+				<source>Show Log</source>
+				<target state="translated">Вывести журнал</target>
+			</trans-unit>
+			<trans-unit id="stage.approvedForPublish" approved="yes">
+				<source>approved for "Publish"</source>
+				<target state="translated">одобрено для "публикации"</target>
+			</trans-unit>
+			<trans-unit id="stage.rejectedElement" approved="yes">
+				<source>rejected element!</source>
+				<target state="translated">отклонить элемент!</target>
+			</trans-unit>
+			<trans-unit id="stage.resetToEdit" approved="yes">
+				<source>reset to "Editing"</source>
+				<target state="translated">вернуть на "правку"</target>
+			</trans-unit>
+			<trans-unit id="stage.sentToReview" approved="yes">
+				<source>sent element to "Review"</source>
+				<target state="translated">отослать элемент на "рецензию"</target>
+			</trans-unit>
+			<trans-unit id="stage.undefined" approved="yes">
+				<source>[undefined]</source>
+				<target state="translated">[неопределено]</target>
+			</trans-unit>
+			<trans-unit id="subElements" approved="yes">
+				<source>[Sub elements]</source>
+				<target state="translated">[Вложенные элементы]</target>
+			</trans-unit>
+			<trans-unit id="subElementsClick" approved="yes">
+				<source>[Sub elements, click for details]</source>
+				<target state="translated">[Вложенные элементы, щелкните для деталей]</target>
+			</trans-unit>
+			<trans-unit id="swap" approved="yes">
+				<source>Swap</source>
+				<target state="translated">Обмен</target>
+			</trans-unit>
+			<trans-unit id="swapPage" approved="yes">
+				<source>Swap page</source>
+				<target state="translated">Обмен страницы</target>
+			</trans-unit>
+			<trans-unit id="swapPageQuestion" approved="yes">
+				<source>Are you sure you want to publish (swap) all content %sfrom this page?</source>
+				<target state="translated">Подтверждаете публикацию (обмен) всего содержимого %sэтой страницы?</target>
+			</trans-unit>
+			<trans-unit id="swapWithCurrent" approved="yes">
+				<source>SWAP with current</source>
+				<target state="translated">ОБМЕН с текущим</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_pid" approved="yes">
+				<source>Page ID</source>
+				<target state="translated">Page ID</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_t3ver_count" approved="yes">
+				<source>t3ver_count - Life cycle counter. Incremented each time element is unpublished.</source>
+				<target state="translated">t3ver_count - Счетчик жизненного цикла. Увеличивается при каждой снятии элемента с публикации.</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_t3ver_id" approved="yes">
+				<source>t3ver_id - Version number, incremental integer</source>
+				<target state="translated">t3ver_id - номер версии, приращиваемое целое</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_t3ver_label" approved="yes">
+				<source>Label</source>
+				<target state="translated">Метка</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_t3ver_oid" approved="yes">
+				<source>t3ver_oid - Reference to live version UID</source>
+				<target state="translated">t3ver_oid - ссылка на UID текущей версии</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_t3ver_stage" approved="yes">
+				<source>t3ver_stage - Publishing stage: Editing (0), review (1), publish (10), rejected (-1).</source>
+				<target state="translated">t3ver_stage - стадии публикации: редактирование (0), рецензия (1), публикация (10), отклонено (-1).</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_t3ver_state" approved="yes">
+				<source>t3ver_state - Special states of a version: 1=Placeholder for "New". 2=Marked deleted.</source>
+				<target state="translated">t3ver_state - специальные состояния версии: 1=заполнитель для "нового". 2=помечено удаленным.</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_t3ver_wsid" approved="yes">
+				<source>t3ver_wsid - Workspace ID. There can be only one version of an element per ID (except ID zero).</source>
+				<target state="translated">t3ver_wsid - Workspace ID. Может существовать лишь одна версия элемента для ID (за исключением нулевого ID).</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_title" approved="yes">
+				<source>Header of element</source>
+				<target state="translated">Заголовок элемента</target>
+			</trans-unit>
+			<trans-unit id="tblHeaderDesc_uid" approved="yes">
+				<source>Unique ID of element</source>
+				<target state="translated">Уникальный ID элемента</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_pid" approved="yes">
+				<source>pid</source>
+				<target state="translated">pid</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_t3ver_count" approved="yes">
+				<source>count</source>
+				<target state="translated">счетчик</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_t3ver_id" approved="yes">
+				<source>id</source>
+				<target state="translated">id</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_t3ver_label" approved="yes">
+				<source>Label</source>
+				<target state="translated">Метка</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_t3ver_oid" approved="yes">
+				<source>oid</source>
+				<target state="translated">oid</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_t3ver_stage" approved="yes">
+				<source>stage</source>
+				<target state="translated">стадия</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_t3ver_state" approved="yes">
+				<source>state</source>
+				<target state="translated">состояние</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_t3ver_wsid" approved="yes">
+				<source>wsid</source>
+				<target state="translated">wsid</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Загловок</target>
+			</trans-unit>
+			<trans-unit id="tblHeader_uid" approved="yes">
+				<source>UID</source>
+				<target state="translated">UID</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Versioning</source>
+				<target state="translated">Версии</target>
+			</trans-unit>
+			<trans-unit id="title_review" approved="yes">
+				<source>Send to review/pub</source>
+				<target state="translated">Отправить на рецензию/публиковать</target>
+			</trans-unit>
+			<trans-unit id="undefined" approved="yes">
+				<source>Undefined</source>
+				<target state="translated">Неопределенно</target>
+			</trans-unit>
+			<trans-unit id="userComment" approved="yes">
+				<source>User Comment</source>
+				<target state="translated">Комментарии пользователя</target>
+			</trans-unit>
+			<trans-unit id="versionDetails" approved="yes">
+				<source>Details for version</source>
+				<target state="translated">Сведения по версии</target>
+			</trans-unit>
+			<trans-unit id="versionId" approved="yes">
+				<source>ID:</source>
+				<target state="translated">ID:</target>
+			</trans-unit>
+			<trans-unit id="versionInVersion" approved="yes">
+				<source>Version inside version!</source>
+				<target state="translated">Версия внутри версии!</target>
+			</trans-unit>
+			<trans-unit id="versionSelect.inBranch" approved="yes">
+				<source>Inside branch, no further versioning possible</source>
+				<target state="translated">Внутри ветви, дополнительные версии невозможны</target>
+			</trans-unit>
+			<trans-unit id="versionSelect.label" approved="yes">
+				<source>Versions of this page:</source>
+				<target state="translated">Версии этой страницы:</target>
+			</trans-unit>
+			<trans-unit id="versionSelect.live" approved="yes">
+				<source>LIVE version</source>
+				<target state="translated">Версия на САЙТЕ</target>
+			</trans-unit>
+			<trans-unit id="versionSelect.publish" approved="yes">
+				<source>Publish page</source>
+				<target state="translated">Публикация страницы</target>
+			</trans-unit>
+			<trans-unit id="versionSelect.versionsFound" approved="yes">
+				<source>Versions found on page, no "Page" versioning possible</source>
+				<target state="translated">Версии находятся на странице, версии "Страницы" невозможны</target>
+			</trans-unit>
+			<trans-unit id="workspace" approved="yes">
+				<source>Workspace</source>
+				<target state="translated">Рабочая область</target>
+			</trans-unit>
+			<trans-unit id="workspaceId" approved="yes">
+				<source>Workspace-Id:</source>
+				<target state="translated">Id области:</target>
+			</trans-unit>
+			<trans-unit id="wsManagement" approved="yes">
+				<source>Workspace management</source>
+				<target state="translated">Управление рабочими областями</target>
+			</trans-unit>
+			<trans-unit id="wsVersions" approved="yes">
+				<source>Workspace Versions:</source>
+				<target state="translated">Версия в рабочей области:</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

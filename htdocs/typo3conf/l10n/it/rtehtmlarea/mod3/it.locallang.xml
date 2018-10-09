@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="addToList">Aggiungi alla lista...</label>
+			<label index="anchor_class">Stile</label>
+			<label index="anchor_title">Titolo</label>
+			<label index="clickToRedrawFullSize">L'immagine è più grande di quella mostrata qui! Clicca per vederla a dimensioni naturali.</label>
+			<label index="contentElements">Elementi di contenuto</label>
+			<label index="currentLink">Link corrente</label>
+			<label index="email">Email</label>
+			<label index="emailAddress">Indirizzo email</label>
+			<label index="extUrl">URL esterno</label>
+			<label index="file">File</label>
+			<label index="files">File</label>
+			<label index="findDragDrop">Trova l'immagine, cliccaci sopra e trascinala nell'editor della finestra principale.</label>
+			<label index="folders"/>
+			<label index="folderTree">Folder Tree</label>
+			<label index="info">Informazioni</label>
+			<label index="invalidChar">ERRORE: Caratteri non validi (%s).</label>
+			<label index="linkRelationship">Relazione</label>
+			<label index="newWindow">Nuova finestra</label>
+			<label index="none">Nulla - nuovo link!</label>
+			<label index="noWebFolder">Non puoi trascinare le immagini di questa cartella (yellow) perché è una cartella riservata del server.</label>
+			<label index="page">Pagina</label>
+			<label index="page_id">Id Pagina</label>
+			<label index="pageTree">Page tree</label>
+			<label index="path">Percorso</label>
+			<label index="query_parameters">Parametri query</label>
+			<label index="removeLink">Rimuovi Link</label>
+			<label index="selectRecords">Seleziona record</label>
+			<label index="setLink">Imposta link</label>
+			<label index="special">Speciale</label>
+			<label index="target">Target</label>
+			<label index="target_popUpWindow">Apri in finestra popUp</label>
+			<label index="target_popUpWindow_height">Altezza</label>
+			<label index="target_popUpWindow_width">Larghezza</label>
+			<label index="top">Top</label>
+			<label index="update">Aggiorna</label>
+			<label index="uploadImage">Upload Immagine</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

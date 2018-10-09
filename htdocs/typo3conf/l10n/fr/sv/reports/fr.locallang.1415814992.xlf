@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns:t3="http://typo3.org/schemas/xliff" version="1.0">
+	<file t3:id="1415814992" source-language="en" datatype="plaintext" original="messages" date="2015-07-28T05:20:26Z" product-name="sv" target-language="fr">
+		<header/>
+		<body>
+			<trans-unit id="report_title" approved="yes">
+				<source>Installed Services</source>
+			<target state="translated">Services installés</target></trans-unit>
+			<trans-unit id="report_description" approved="yes">
+				<source>List of all installed services with information and status for each of them.</source>
+			<target state="translated">Liste des services installés avec information et statut pour chacun d'entre eux.</target></trans-unit>
+			<trans-unit id="report_explanation">
+				<source>This report displays a list of installed services, with detailed information about each of them. The services are ordered by type, priority and quality. Unavailable services are highlighted with an error status.</source>
+			<target/></trans-unit>
+			<trans-unit id="externals_explanation">
+				<source>The "Externals" column shows which external programs a given service relies on. If such program is missing or not executable, the service will be unavailable. Search paths for executables are listed at the bottom of this report.</source>
+			<target/></trans-unit>
+			<trans-unit id="service_type" approved="yes">
+				<source>Service type: %s</source>
+			<target state="translated">Type de services : %s</target></trans-unit>
+			<trans-unit id="service" approved="yes">
+				<source>Service</source>
+			<target state="translated">Service</target></trans-unit>
+			<trans-unit id="priority" approved="yes">
+				<source>Priority</source>
+			<target state="translated">Priorité</target></trans-unit>
+			<trans-unit id="quality" approved="yes">
+				<source>Quality</source>
+			<target state="translated">Qualité</target></trans-unit>
+			<trans-unit id="subtypes" approved="yes">
+				<source>Subtypes</source>
+			<target state="translated">Sous-types</target></trans-unit>
+			<trans-unit id="os" approved="yes">
+				<source>OS</source>
+			<target state="translated">OS</target></trans-unit>
+			<trans-unit id="externals" approved="yes">
+				<source>Externals</source>
+			<target state="translated">Externes</target></trans-unit>
+			<trans-unit id="available" approved="yes">
+				<source>Available</source>
+			<target state="translated">Disponible</target></trans-unit>
+			<trans-unit id="any" approved="yes">
+				<source>Any</source>
+			<target state="translated">Tous</target></trans-unit>
+			<trans-unit id="search_paths" approved="yes">
+				<source>Configured search paths for external programs</source>
+			<target state="translated">Chemins de recherche configurés pour les programmes externes</target></trans-unit>
+			<trans-unit id="path" approved="yes">
+				<source>Path</source>
+			<target state="translated">Chemin</target></trans-unit>
+			<trans-unit id="valid" approved="yes">
+				<source>Valid</source>
+			<target state="translated">Valable</target></trans-unit>
+			<trans-unit id="no_search_paths" approved="yes">
+				<source>No search paths configured.</source>
+			<target state="translated">Aucun chemin de recherche configuré.</target></trans-unit>
+		</body>
+	</file>
+</xliff>

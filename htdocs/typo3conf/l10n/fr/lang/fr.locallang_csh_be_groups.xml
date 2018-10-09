@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="allowed_languages.description">Choisissez les langues auxquelles le groupe à les droits d'éditions.</label>
+			<label index="allowed_languages.details">Les enregistrements dans TYPO3 peuvent contenir des informations concernant leur langue. Si c'est le cas alors l'accès à ces enregistrements est permis uniquement si l'utilisateur à cette langue dans sa liste. Si un utilisateur na pas de langue dans sa liste alors cela signifie qu'il peut éditer &lt;em&gt;toutes&lt;/em&gt; les langues!</label>
+			<label index="_allowed_languages.image">EXT:lang/cshimages/be_groups_18.png</label>
+			<label index="allowed_languages.image_descr"/>
+			<label index="_allowed_languages.seeAlso">be_users:allowed_languages</label>
+			<label index="custom_options.description">Choisissez les options de permission personnalisées.</label>
+			<label index="custom_options.details"/>
+			<label index="_custom_options.image">EXT:lang/cshimages/be_groups_20.png</label>
+			<label index="custom_options.image_descr"/>
+			<label index="db_mountpoints.description">Définit la racine de l'arborescence pour les membres du groupe.</label>
+			<label index="db_mountpoints.details">L'arborescence de pages vue dans les sous-modules web en naviguant doit avoir des points d'entrée définis. Ici vous devriez insérer une ou plusieurs références à des pages qui représenteront de nouvelles pages racine dans l'arborescence. Ceci est appelé un 'point de montage de base de données' (DB mounts, faisant référence à la notion de point de montage Unix) Les DB mounts peuvent hérités des utilisateurs qui sont membres de ce groupe. Ceci dépend de la façon dont l'utilisateur est configuré, s'il doit inclure les DB mounts spécifiés dans son (ses) groupes. Cependant il est recommandé d'utiliser les groupes utilisateurs comme ceci pour configurer les montages, surtout s'ils doivent être partagés par un grand nombre d'utilisateurs.</label>
+			<label index="_db_mountpoints.image">EXT:lang/cshimages/be_groups_3.png, EXT:lang/cshimages/be_groups_4.png</label>
+			<label index="db_mountpoints.image_descr">Voici une page définit comme un "point de montage" ... ... et dans l'arborescence des pages de l'utilisateur ce "point de montage" devient le point de départ de l'arborescence des pages.</label>
+			<label index="_db_mountpoints.seeAlso">be_groups:file_mountpoints, be_users:db_mountpoints, be_users:options, xMOD_csh_corebe:list_module</label>
+			<label index=".description">Ceci est l'interface BE d'administration des groupes utilisateurs. C'est ici que sont définis les accès pour les utilisateurs BE.</label>
+			<label index="description.description">Entrez une brève description du groupe d'utilisateurs, à quoi il sert et qui devrait être membre. Ceci est seulement pour usage interne.</label>
+			<label index="_description.seeAlso">fe_groups:description</label>
+			<label index=".details">Les groupes contiennent les paramètres de permissions que vous pouvez attribuer pour un utilisateur backend. La plupart des utilisateurs peuvent être membre du même groupe et donc partager les même permissions. Quand un utilisateur est membre de plusieurs groupe (sous-groupe inclus) alors les paramètres de permission sont additionnés si bien que les permissions augmentent avec le nombre de groupe auquel il appartient.</label>
+			<label index="explicit_allowdeny.description">Sélectionnez les champs explicitement autorisés ou interdits pour les membres du groupe utilisateur.</label>
+			<label index="explicit_allowdeny.details"/>
+			<label index="_explicit_allowdeny.image">EXT:lang/cshimages/be_groups_19.png</label>
+			<label index="file_mountpoints.description">Définit les points d'entrée pour l'arborescence de fichiers.</label>
+			<label index="file_mountpoints.details"/>
+			<label index="_file_mountpoints.image">EXT:lang/cshimages/be_groups_5.png, EXT:lang/cshimages/be_groups_6.png, EXT:lang/cshimages/be_groups_7.png, EXT:lang/cshimages/be_groups_8.png</label>
+			<label index="file_mountpoints.image_descr"/>
+			<label index="_file_mountpoints.seeAlso">be_groups:db_mountpoints, be_users:file_mountpoints, be_users:options, be_users, sys_filemounts, xMOD_csh_corebe:filelist_module, Plus sur les points de montage | http://typo3.org/documentation/document-library/doc_core_inside/More_about_File_Moun/</label>
+			<label index="fileoper_perms.description">Sélectionnez les permissions sur les manipulations de fichier pour les membres du groupe.</label>
+			<label index="fileoper_perms.details">Ces paramètres sont aussi bien relatifs aux fonctionnalités du module Fichier&gt;Fichiers qu'à l'envoi générique de fichiers. &lt;strong&gt;Notez&lt;/strong&gt; que ces paramètres seront appliqués à tous les membres de ce groupe et donc étendra les permissions de l'utilisateur.</label>
+			<label index="_fileoper_perms.seeAlso">be_groups:file_mountpoints, be_users:file_mountpoints, be_users:fileoper_perms</label>
+			<label index="file_permissions.description">Sélectionnez les permissions sur les manipulations de fichier pour les membres du groupe.</label>
+			<label index="file_permissions.details"/>
+			<label index="file_permissions.seeAlso"/>
+			<label index="groupMods.description">Choisissez les modules backend disponibles pour les membres du groupe.</label>
+			<label index="groupMods.details">Ceci détermine quels 'éléments de menu' sont disponibles pour les membres du groupe.
+Cette liste de modules est ajoutée aux modules sélectionnés dans les autres groupes d'un utilisateur ainsi que dans le champ correspondant de son enregistrement Utilisateur BE.</label>
+			<label index="_groupMods.image">EXT:lang/cshimages/be_groups_12.png, EXT:lang/cshimages/be_groups_13.png</label>
+			<label index="groupMods.image_descr"/>
+			<label index="_groupMods.seeAlso">be_users:userMods, be_groups:inc_access_lists, Interface backend | http://typo3.org/documentation/document-library/doc_core_inside/Backend_interface/</label>
+			<label index="hidden.description">Désactive un groupe utilisateur.</label>
+			<label index="hidden.details">Si vous désactivez un groupe utilisateur tous ses utilisateurs n'hériterons plus des propriétés que ce groupe leur attribuait.</label>
+			<label index="hide_in_lists.description"/>
+			<label index="hide_in_lists.details"/>
+			<label index="_.image">EXT:lang/cshimages/be_groups_2.png, EXT:lang/cshimages/be_groups_1.png</label>
+			<label index=".image_descr">Les groupes d'utilisateurs backend se trouve à la racine de l'arborescence des pages. Uniquement un utilisateur "admin" peut éditer ces groupes. Sur cette image, les groupes d'utilisateurs avec une icône rouge sont ceux qui ont les listes d'accès activés. Les icônes bleues représentent les groupes tout simplement. Ce groupe d'utilisateurs a les listes d'accès activés. Les listes d'accès vous permettent de définir à quel module, table, champs, etc... le membre du groupe aura accès dans TYPO3.</label>
+			<label index="inc_access_lists.description">Choisissez si les listes d'accès aux modules, tables, types de pages, autorisations et exclusions explicites sont activées pour ce groupe.</label>
+			<label index="inc_access_lists.details"/>
+			<label index="_inc_access_lists.seeAlso">be_groups:pagetypes_select, be_groups:tables_modify, be_groups:tables_select, be_groups:groupMods, be_groups:non_exclude_fields</label>
+			<label index="lockToDomain.description">Entrez le nom de machine depuis lequel l'utilisateur est obligé de s'identifier.</label>
+			<label index="lockToDomain.details"/>
+			<label index="_lockToDomain.seeAlso">be_users:lockToDomain, fe_users:lockToDomain, fe_groups:lockToDomain</label>
+			<label index="non_exclude_fields.description">Certains champs des tables ne sont pas disponibles par défaut. Ces champs peuvent être explicitement autorisé ici pour les membres du groupe.</label>
+			<label index="non_exclude_fields.details"/>
+			<label index="_non_exclude_fields.image">EXT:lang/cshimages/be_groups_14.png</label>
+			<label index="_non_exclude_fields.seeAlso">be_groups:inc_access_lists, Exemples du "Getting Started" | http://typo3.org/documentation/document-library/doc_tut_quickstart/Groups/</label>
+			<label index="pagetypes_select.description">Sélectionnez quels types de pages le membre pourra créer.</label>
+			<label index="pagetypes_select.details">Cette option limite la liste de choix du type de page de l'utilisateur. L'utilisateur ne pourra créer que les types de pages que vous aurez sélectionné. Le choix du type de page (doktype) est associé à a) une icône spécifique à chaque type, b) aux tables autorisées pour la page (voir variable globale $PAGES_TYPES) et c) uniquement si la page est de type "Standard" ou "Dossier".</label>
+			<label index="_pagetypes_select.image">EXT:lang/cshimages/be_groups_9.png</label>
+			<label index="pagetypes_select.image_descr">Liste des pages à disposition. Le choix sera limité en fonction des options que vous aurez sélectionné pour un groupe d'utilisateurs.</label>
+			<label index="_pagetypes_select.seeAlso">pages:doktype,
+be_groups:inc_access_lists</label>
+			<label index="_.seeAlso"/>
+			<label index="subgroup.description">Choisissez le groupe utilisateur backend qui est automatiquement inclus pour les membres de ce groupe.</label>
+			<label index="subgroup.details"/>
+			<label index="tables_modify.description">Choisissez quelles tables le membre peut modifier.</label>
+			<label index="tables_modify.details">Une partie importante des permissions / accès consiste à choisir quelles tables de la base de données l'utilisateur sera autorisé à modifier. Si un utilisateur est autorisé à modifier une table, il peut naturellement automatiquement sélectionner cette table. Vous n'avez donc pas besoin de définir cette permission aussi dans la partie "Table (Liste)". &lt;strong&gt;Notez&lt;/strong&gt; que cette liste s'ajoute aux champs sélectionnés dans les autres groupes de membres de l'utilisateur.</label>
+			<label index="_tables_modify.image">EXT:lang/cshimages/be_groups_10.png,
+EXT:lang/cshimages/be_groups_15.png,
+EXT:lang/cshimages/be_groups_11.png</label>
+			<label index="tables_modify.image_descr">L'image ci-dessus montre ce qu'un utilisateur; avec la permission d'éditer uniquement les éléments "Page" et "Elément de contenu", voit lorsqu'il créé un nouvel enregistrement. Les deux tables sont simplement ajoutées à la liste des "Tables (Modifier)" dans la liste des accès. Un exemple de la même vue mais cette fois pour un utilisateur "admin" qui n'a donc aucune restriction.</label>
+			<label index="_tables_modify.seeAlso">be_groups:tables_select,
+be_groups:inc_access_lists,
+xMOD_csh_corebe:new_ce</label>
+			<label index="tables_select.description">Choisissez quelles tables les membres peuvent voir dans les listes d'enregistrements. Pas besoin de resélectionner ici une table déjà autorisée sous "Tables (Modifier)".</label>
+			<label index="tables_select.details">Définit quelles tables - en plus de celles sélectionnées sous "Tables (Modifier)" - l'utilisateur pourra voir et lister. L'utilisateur ne pourra donc pas &lt;em&gt;éditer&lt;/en&gt; cette table - uniquement sélectionner et voir le contenu. Cette liste n'est pas vraiment importante. La situation où un utilisateur devrait pouvoir sélectionner une table sans pouvoir la modifier est plutôt rare.</label>
+			<label index="_tables_select.seeAlso">be_groups:tables_modify,
+be_groups:inc_access_lists</label>
+			<label index="title.description">Nom du groupe d'utilisateurs backend. Le nom doit être descriptif et peut toujours être modifié par la suite.</label>
+			<label index="title.details">Les groupes d'utilisateurs backend sont identifiés par la valeur de leur champ "uid" (entier). Le titre du groupe peut donc toujours être modifié. Le "uid" ne peut jamais être changé pour un groupe d'utilisateurs.</label>
+			<label index="_title.image">EXT:lang/cshimages/be_groups_2.png</label>
+			<label index="title.image_descr">Le titre du groupe utilisateur est affiché dans la liste des enregistrements.</label>
+			<label index="TSconfig.description"/>
+			<label index="TSconfig.details"/>
+			<label index="_TSconfig.image">EXT:lang/cshimages/be_groups_16.png, EXT:lang/cshimages/be_groups_17.png</label>
+			<label index="TSconfig.image_descr"/>
+			<label index="_TSconfig.seeAlso"/>
+			<label index="TSconfig.syntax">Syntaxe Typoscript sans conditions ni constantes.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

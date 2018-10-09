@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="eIcon.bodytext">Edita testo principale</label>
+			<label index="eIcon.bullets">Edita lista</label>
+			<label index="eIcon.caption">Edita didascalia immagini</label>
+			<label index="eIcon.caption_position">Modifica l'allineamento della didascalia dell'immagine</label>
+			<label index="eIcon.filelist">Modifica lista file</label>
+			<label index="eIcon.form">Edita email form</label>
+			<label index="eIcon.header">Edita header</label>
+			<label index="eIcon.html">Edita il contenuto in HTML</label>
+			<label index="eIcon.images">Edita immagini</label>
+			<label index="eIcon.login">Edita elemento di login</label>
+			<label index="eIcon.menuSitemap">Edita menu / mappa del sito</label>
+			<label index="eIcon.multimedia">Edita elemento multimediale</label>
+			<label index="eIcon.page">Pagina:</label>
+			<label index="eIcon.plugin">Cambia/configura il plugin</label>
+			<label index="eIcon.recordList">Edita recordlist</label>
+			<label index="eIcon.search">Edita elemento di ricerca</label>
+			<label index="eIcon.subheader">Edita subheader</label>
+			<label index="eIcon.table">Edita tabella</label>
+			<label index="label.toTop">Torna sù</label>
+			<label index="login.login">Login</label>
+			<label index="login.logout">Logout</label>
+			<label index="login.password">Password:</label>
+			<label index="login.username">Username:</label>
+			<label index="menu.bypassNavigation">Salta il blocco di navigazione</label>
+			<label index="search.emptySearch">Mi dispiace, non ho trovato niente!</label>
+			<label index="search.headersKeywords">Headers e keywords</label>
+			<label index="search.pageContent">Contenuto della pagina</label>
+			<label index="search.resultRange">Risultati della ricerca: ###RANGELOW###-###RANGEHIGH### su ###TOTAL###</label>
+			<label index="search.searchButton">Cerca ora!</label>
+			<label index="search.searchIn">Cerca in:</label>
+			<label index="search.searchResultNext">Prossimo</label>
+			<label index="search.searchResultPrev">Precedente</label>
+			<label index="search.searchWord">Parola da cercare:</label>
+			<label index="uploads.icon">Icona link per %s</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

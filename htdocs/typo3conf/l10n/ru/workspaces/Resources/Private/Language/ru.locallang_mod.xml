@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="autopublishTask.description">Задачи проверяют все рабочие области, имеющие прошедшие даты публикаций, и автоматически публикуют их.</label>
+			<label index="autopublishTask.name">Авто публикация рабочих областей</label>
+			<label index="cleanupPreviewLinkTask.description">Задача по удалению страрых ссылок просмотра</label>
+			<label index="cleanupPreviewLinkTask.name">Очистка ссылок просмотра рабочих областей</label>
+			<label index="mlang_labels_tabdescr">Модуль содержит обзор всех элементов внутри текущей рабочей области и позволяет делать их рецензию и публикацию в рамках рабочего процесса.</label>
+			<label index="mlang_labels_tablabel">Создание и обработка рабочих областей управления версиями</label>
+			<label index="mlang_tabs_tab">Рабочие области</label>
+			<label index="stage_ready_to_publish">Готово к публикации</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="it" type="array">
+			<label index="Address">Indirizzo</label>
+			<label index="deprecatedPropertyMessage">Pagina TSConfig proprietà "%1$s" utilizzata nella pagina id #%4$s è DEPRECATED e sarà rimossa in TYPO3 %3$s. Al suo posto utilizza "%2$s".</label>
+			<label index="Heading 1">Intestazione 1</label>
+			<label index="Heading 2">Intestazione 2</label>
+			<label index="Heading 3">Intestazione 3</label>
+			<label index="Heading 4">Intestazione 4</label>
+			<label index="Heading 5">Intestazione 5</label>
+			<label index="Heading 6">Intestazione 6</label>
+			<label index="No font">Nessuna font</label>
+			<label index="Normal">Normale</label>
+			<label index="No size">Nessuna dimensione font</label>
+			<label index="Please wait">L'editor sta per essere caricato. Attendi un attimo...</label>
+			<label index="Preformatted">Preformattato</label>
+			<label index="rteHeight">Altezza dell'RTE in pixels</label>
+			<label index="rteMaxHeight">Altezza massima dell'RTE ridimensionabile (in pixels)</label>
+			<label index="rteResize">Rendi l'RTE ridimensionabile</label>
+			<label index="rteSettings">Rich Text Editor</label>
+			<label index="rteWidth">larghezza dell'RTE in pixels o percentuale</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

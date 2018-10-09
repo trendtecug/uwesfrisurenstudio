@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2016-05-29T05:05:22Z" product-name="wizard_sortpages">
+		<header/>
+		<body>
+			<trans-unit id="no_subpages" approved="yes">
+				<source>Please select a page with subpages.</source>
+				<target state="translated">Выберете страницу с вложенными страницами.</target>
+			</trans-unit>
+			<trans-unit id="wiz_changeOrder" approved="yes">
+				<source>Sort these pages by</source>
+				<target state="translated">Отсортировать страницы по</target>
+			</trans-unit>
+			<trans-unit id="wiz_changeOrder_msg1" approved="yes">
+				<source>You're about to change the order of the above pages. Are you sure you want to continue?</source>
+				<target state="translated">Вы изменяете порядок отображенных страниц. Вы уверены что хотите продолжить?</target>
+			</trans-unit>
+			<trans-unit id="wiz_changeOrder_REVERSE" approved="yes">
+				<source>Reverse current order</source>
+				<target state="translated">Обратный порядок</target>
+			</trans-unit>
+			<trans-unit id="wiz_changeOrder_subtitle" approved="yes">
+				<source>Subtitle</source>
+				<target state="translated">Подзаголовку</target>
+			</trans-unit>
+			<trans-unit id="wiz_changeOrder_tChange" approved="yes">
+				<source>Change-time</source>
+				<target state="translated">Дате изменения</target>
+			</trans-unit>
+			<trans-unit id="wiz_changeOrder_tCreate" approved="yes">
+				<source>Create-time</source>
+				<target state="translated">Дате создания</target>
+			</trans-unit>
+			<trans-unit id="wiz_changeOrder_title" approved="yes">
+				<source>Page title</source>
+				<target state="translated">Названию страницы</target>
+			</trans-unit>
+			<trans-unit id="wiz_currentPageOrder" approved="yes">
+				<source>Current page order</source>
+				<target state="translated">Текущий порядок страниц</target>
+			</trans-unit>
+			<trans-unit id="wiz_sort" approved="yes">
+				<source>Sort pages</source>
+				<target state="translated">Сортировка страниц</target>
+			</trans-unit>
+			<trans-unit id="wiz_W" approved="yes">
+				<source>W!</source>
+				<target state="translated">W!</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
